@@ -20,7 +20,7 @@ spcharReplace = {'í':'i',
                  'é':'e'}
 
 
-
+'''
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam','AwayScore','HomeScore','AwaySP','HomeSP']
 outputHeaders.extend(['A_' + str(x) for x in list(range(1,10))])
@@ -28,10 +28,10 @@ outputHeaders.extend(['H_' + str(x) for x in list(range(1,10))])
 with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/output.csv', 'w', newline='') as csvfile:
     statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     statswriter.writerow(outputHeaders)
-
+'''
 year = '2019'
 monthsWithGames = ['03','04','05','06','07','08','09','10']
-hometeami = 'BAL'
+hometeami = 'MIN'
 # Loop through each day within every month of regular season
 for monthi in monthsWithGames:
     for dayi in list(range(0,32)):
