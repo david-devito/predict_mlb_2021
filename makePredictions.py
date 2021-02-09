@@ -8,28 +8,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
 
-from scipy.stats import ks_2samp
-import collections
-
-# Import machine learning libraries
-from sklearn.linear_model import LinearRegression, Ridge, RidgeCV, PoissonRegressor, LogisticRegression
-
-
-from sklearn.experimental import enable_hist_gradient_boosting  # noqa
-
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.ensemble import RandomForestClassifier, HistGradientBoostingRegressor, GradientBoostingClassifier
-#from sklearn.model_selection import cross_val_score
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, QuantileTransformer, quantile_transform
-from sklearn.compose import TransformedTargetRegressor
-
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import confusion_matrix
-
-# Import my functions
-import func_import_playerstats
-import assorted_functions
-import relStatsLists
+import pandas as pd
+import numpy as np
+import get_mlb_playerstats
+import assorted_funcs
 
 # Load Model
 loaded_model = pickle.load(open('finalized_model.sav', 'rb'))
@@ -44,14 +26,8 @@ loaded_highOutliers = pickle.load(open('highOutliers.pkl', 'rb'))
 # Load Batting Stats
 print('Loading Batting Stats...')
 batting = dict()
-for yeari in range(2017,2021):
-    batting[yeari] = func_import_playerstats.load_hitting_data(yeari)
-
-# Load Pitching Stats
-print('Loading Pitching Stats...')
-pitching = dict()
-for yeari in range(2017,2021):
-    pitching[yeari] = func_import_playerstats.load_pitching_data(yeari)
+for yeari in range(2018,2019):
+    batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari)
 
 
 
@@ -106,69 +82,45 @@ for yeari in ['prevY','twoPrevY']:
                 statsDF[stati + '_' + bati + '_' + yeari].fillna(loaded_modes[stati + '_' + bati + '_' + yeari], inplace=True)
 
 
-# Weighted combinations of each stat for prevYear and twoYearsPrevious
-curYearWeight = 0.75
-for bati in batterList:
-    for stati in battingStatsColumns:
-        curStat = stati + '_' + bati 
-        if curStat in ["_".join(x.split("_", 3)[:-1]) for x in relevantBatStats]:
-            # Create a column that contains the weighted average of a statistical value associated with each corresponding pitcher
-            statsDF[stati + '_' + bati + '_wght'] = (statsDF[stati + '_' + bati + '_prevY']*curYearWeight) + (statsDF[stati + '_' + bati + '_twoPrevY']*(1-curYearWeight))
-
-
-# PITCHING STATS
-# List of pitchers that you'd like included in the analysis
-pitcherList = ['A_P','H_P']
-# Compile list of statistics by removing irrelevant column names from column list
-pitchingStatsColumns = [ elem for elem in list(pitching[2020].columns) if elem not in ['Season','Team']]
-
-
 # Create columns in stats DataFrame that include each corresponding players stats from current and past years
-relevantPitchStats = relStatsLists.pitcherStatList()
-# Loop through each year, pitcher and statistic
-for yeari in ['prevY','twoPrevY']:
-    for pitchi in pitcherList:
-        for stati in pitchingStatsColumns:
-            curStat = stati + '_' + pitchi
-            if curStat in ["_".join(x.split("_", 3)[:-1]) for x in relevantPitchStats]:
-                print(curStat)
-                # Create a column that contains the statistical value associated with each corresponding pitcher
-                statsDF[stati + '_' + pitchi + '_' + yeari] = inputDF.apply(lambda x: assorted_functions.populatePlayerStats(pitching, x, pitchi, stati, yeari),axis=1)
-                # Replace any outliers with the mode from that column
-                lowOutlier = loaded_lowOutliers[stati + '_' + pitchi + '_' + yeari]
-                highOutlier = loaded_highOutliers[stati + '_' + pitchi + '_' + yeari]
-                statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] < lowOutlier, stati + '_' + pitchi + '_' + yeari] = loaded_modes[stati + '_' + pitchi + '_' + yeari]
-                statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] > highOutlier, stati + '_' + pitchi + '_' + yeari] = loaded_modes[stati + '_' + pitchi + '_' + yeari]
-                # Fill any NaN values with the mode from that column
-                statsDF[stati + '_' + pitchi + '_' + yeari].fillna(loaded_modes[stati + '_' + pitchi + '_' + yeari], inplace=True)
+#relevantBatStats = relStatsLists.batterStatList()
+# Loop through each year, batter and statistic
+for yeari in ['prevY']:
+    for bati in batterList:
+        for stati in battingStatsColumns:
+            #curStat = stati + '_' + bati:
+            print(stati)
+            # Create a column that contains the statistical value associated with each corresponding hitter
+            statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
+            # Replace any outliers with the mode from that column
+            curMean = np.mean(statsDF[stati + '_' + bati + '_' + yeari])
+            curSTD = np.std(statsDF[stati + '_' + bati + '_' + yeari])
+            lowOutlier = curMean - (3*curSTD)
+            highOutlier = curMean + (3*curSTD)
+            statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] < lowOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
+            statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] > highOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
+            # Fill any NaN values with the mode from that column
+            statsDF[stati + '_' + bati + '_' + yeari].fillna(statsDF[stati + '_' + bati + '_' + yeari].mode()[0], inplace=True)
+            # Save Mode for Future Testing
+            #modeTestingList[stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
+            # Save Low and High Outlier Values for Future Testing
+            #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
+            #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
 
 
 
-# Weighted combinations of each stat for prevYear and twoYearsPrevious
-curYearWeight = 0.75
-for pitchi in pitcherList:
-    for stati in pitchingStatsColumns:
-        curStat = stati + '_' + pitchi 
-        if curStat in ["_".join(x.split("_", 3)[:-1]) for x in relevantPitchStats]:
-            # Create a column that contains the weighted average of a statistical value associated with each corresponding pitcher
-            statsDF[stati + '_' + pitchi + '_wght'] = (statsDF[stati + '_' + pitchi + '_prevY']*curYearWeight) + (statsDF[stati + '_' + pitchi + '_twoPrevY']*(1-curYearWeight))
+
 
 
 
 # SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
-labelCol = 'DKPtsPerMin'
+labelCol = 'Winner'
 
 # Transform categorical label into binary
 statsDF[labelCol] = inputDF[labelCol].copy()
 
 # Get the label values as a numpy array
 labels = np.array(statsDF[labelCol])
-
-# Split Stat DataFrame By LabelColumn Value
-splitStatsDF = dict()
-splitStatsDF['Away'] = statsDF[statsDF[labelCol] == 0]; splitStatsDF['Away'] = splitStatsDF['Away'].reset_index()
-splitStatsDF['Home'] = statsDF[statsDF[labelCol] == 1]; splitStatsDF['Home'] = splitStatsDF['Home'].reset_index()
-
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 featuresDF = pd.DataFrame()

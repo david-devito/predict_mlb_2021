@@ -1,11 +1,19 @@
 ## DATA CLEANING AND FEATURE CREATION
 
 
+
+# Add paths of additional scripts
+import sys
+sys.path.append('./data_scraping')
+sys.path.append('./function_scripts')
+
 import pandas as pd
 import numpy as np
 import get_mlb_playerstats
 import assorted_funcs
 import pickle
+from create_kfolds import create_kfolds
+
 
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
@@ -18,7 +26,7 @@ statsDF['year'] = statsDF['Date'].apply(lambda x: int(x[-4:]))
 ## USED WHEN TRYING TO PREDICT WINNERS
 statsDF['Winner'] = statsDF.apply(lambda x: 'Away' if x['AwayScore'] > x['HomeScore'] else 'Home', axis=1)
 
-
+statsDF = create_kfolds(statsDF,5,'Winner')
 
 
 # Load Batting Stats
