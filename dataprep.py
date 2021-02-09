@@ -1,62 +1,67 @@
 ## DATA CLEANING AND FEATURE CREATION
 
-
-
 # Add paths of additional scripts
 import sys
 sys.path.append('./data_scraping')
 sys.path.append('./function_scripts')
 
+## IMPORT
+# Python packages
 import pandas as pd
 import numpy as np
+# sklearn functions
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.model_selection import train_test_split
+# My functions
 import get_mlb_playerstats
 import assorted_funcs
 import pickle
 from create_kfolds import create_kfolds
 
-
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.model_selection import train_test_split
-
-# Load data
-statsDF = pd.read_csv('input/gamelogs/output.csv', sep=',')
+## INITIAL LOADING AND CLEANING
+# Load game data
+statsDF = pd.DataFrame()
+for yeari in range(2015,2021):
+    loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
+    statsDF = pd.concat([statsDF, loadGames], ignore_index=True)
+# Create column containing year each game was played
 statsDF['year'] = statsDF['Date'].apply(lambda x: int(x[-4:]))
 
-
-## USED WHEN TRYING TO PREDICT WINNERS
+# Create target variable
 statsDF['Winner'] = statsDF.apply(lambda x: 'Away' if x['AwayScore'] > x['HomeScore'] else 'Home', axis=1)
-
+# Split dataset into stratified k-folds based on target variable
 statsDF = create_kfolds(statsDF,5,'Winner')
 
-
+## LOAD STATISTICS
 # Load Batting Stats
 print('Loading Batting Stats...')
 batting = dict()
-for yeari in range(2018,2019):
-    batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari)
+batStatsCols = [5,6]
+for yeari in range(2014,2020):
+    batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
+
 
 # Create dictionaries to store Modes, Means, and SDs for testing data
 modeTestingList = dict()
 lowOutlierTestingList = dict()
 highOutlierTestingList = dict()
 
-
 # BATTING STATS
 # List of batters that you'd like included in the analysis
 batterList = ['A_1','A_2','A_3','A_4','A_5','A_6','A_7','A_8','A_9','H_1','H_2','H_3','H_4','H_5','H_6','H_7','H_8','H_9']
-#batterList = ['A_1']
+batterList = ['A_1','H_1']
 # Compile list of statistics by removing irrelevant column names from column list
 battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
 
 
 # Create columns in stats DataFrame that include each corresponding players stats from current and past years
-#relevantBatStats = relStatsLists.batterStatList()
+print(battingStatsColumns)
 # Loop through each year, batter and statistic
 for yeari in ['prevY']:
     for bati in batterList:
         for stati in battingStatsColumns:
             #curStat = stati + '_' + bati:
-            print(stati)
+            #print(stati)
             # Create a column that contains the statistical value associated with each corresponding hitter
             statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
             # Replace any outliers with the mode from that column
@@ -88,6 +93,9 @@ statsDF[labelCol] = pd.Categorical(pd.factorize(statsDF[labelCol])[0])
 # Get the label values as a numpy array
 labels = np.array(statsDF[labelCol])
 
+# Get kfolds as a numpy array
+kfolds = np.array(statsDF['kfold'])
+
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = [x for x in statsDF.columns if 'prevY' in x]
 featuresDF = pd.DataFrame()
@@ -96,12 +104,42 @@ featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=Fals
 features_list = list(featuresDF.columns)
 
 
-# Transform features into numpy array
-features_toModel = np.array(featuresDF)
-# Scale Features
-scaler = MinMaxScaler()
-scaler.fit(features_toModel)
-features_toModel = scaler.transform(features_toModel)
+
+# Look through k-folds, each time holding out one fold for testing
+#print('Modelling...')
+accArray = []
+for curFold in np.unique(statsDF['kfold']):
+
+    # Transform features into numpy array
+    train_features = np.array(featuresDF[kfolds != curFold])
+    test_features = np.array(featuresDF[kfolds == curFold])
+    train_labels = labels[kfolds != curFold]
+    test_labels = labels[kfolds == curFold]
+    # Scale Training Features
+    scaler = MinMaxScaler()
+    scaler.fit(train_features)
+    train_features = scaler.transform(train_features)
+    test_features = scaler.transform(test_features)
+    
+    # Fit the model
+    # Train on all data
+    rf = assorted_funcs.random_forest(train_features, train_labels)
+    
+    # Make predictions
+    predictions = rf.predict_proba(test_features)
+    
+    # Transform predictions into binary
+    predictions_binary = np.array([0 if x[0] >= 0.5 else 1 for x in predictions])
+    
+    curACC = round(sum(predictions_binary == test_labels)/len(test_labels),2)
+    accArray.append(curACC)
+    #print('Accuracy: ', curACC)
+
+
+print('MEAN ACCURACY: ', np.mean(accArray))
+
+
+sys.exit()
 
 # Split Data into Training and Testing Set
 train_features, test_features, train_labels, test_labels = train_test_split(features_toModel, labels, test_size = 0.10)
