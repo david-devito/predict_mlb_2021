@@ -18,10 +18,14 @@ import assorted_funcs
 import pickle
 from create_kfolds import create_kfolds
 
+
+
+#for curBatStati in list(range(6,45)):
+
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2015,2021):
+for yeari in range(2018,2021):
     loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, loadGames], ignore_index=True)
 # Create column containing year each game was played
@@ -34,12 +38,18 @@ statsDF = create_kfolds(statsDF,5,'Winner')
 
 ## LOAD STATISTICS
 # Load Batting Stats
-print('Loading Batting Stats...')
+#print('Loading Batting Stats...')
 batting = dict()
-batStatsCols = [5,6]
-for yeari in range(2014,2020):
+#batStatsCols = [5,curBatStati]
+batStatsCols = [5]
+batStatsCols.extend([43,48,56,58,68,71,72,76,78,79,80,93,104,105])
+for yeari in range(2017,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 
+
+#relStatsList = ['+WPA_A_1_prevY','+WPA_A_1_prevY']
+#relStatsList.append(list(batting[list(batting.keys())[0]].columns)[-1] + '_A_2_prevY')
+#relStatsList.append(list(batting[list(batting.keys())[0]].columns)[-1] + '_H_2_prevY')
 
 # Create dictionaries to store Modes, Means, and SDs for testing data
 modeTestingList = dict()
@@ -48,8 +58,9 @@ highOutlierTestingList = dict()
 
 # BATTING STATS
 # List of batters that you'd like included in the analysis
-batterList = ['A_1','A_2','A_3','A_4','A_5','A_6','A_7','A_8','A_9','H_1','H_2','H_3','H_4','H_5','H_6','H_7','H_8','H_9']
-batterList = ['A_1','H_1']
+#batterList = ['A_1','A_2','A_3','A_4','A_5','A_6','A_7','A_8','A_9','H_1','H_2','H_3','H_4','H_5','H_6','H_7','H_8','H_9']
+#batterList = ['A_1','A_2','A_3','A_4','A_5']
+batterList = ['A_1','A_2','A_3','A_4','A_5','H_1','H_2','H_3','H_4','H_5']
 # Compile list of statistics by removing irrelevant column names from column list
 battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
 
@@ -59,9 +70,11 @@ print(battingStatsColumns)
 # Loop through each year, batter and statistic
 for yeari in ['prevY']:
     for bati in batterList:
+        print(bati)
         for stati in battingStatsColumns:
-            #curStat = stati + '_' + bati:
-            #print(stati)
+            #if stati + '_' + bati + '_' + yeari in relStatsList:
+            #curStat = stati + '_' + bati
+            print(stati)
             # Create a column that contains the statistical value associated with each corresponding hitter
             statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
             # Replace any outliers with the mode from that column
@@ -78,12 +91,22 @@ for yeari in ['prevY']:
             # Save Low and High Outlier Values for Future Testing
             #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
             #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
-            
+
+# Combine stats across hitters
+X = statsDF.columns[['prevY' in x for x in statsDF.columns]]
+for yeari in ['prevY']:
+    for stati in battingStatsColumns:
+        Acol = X[[stati + '_A' in x for x in X]]
+        statsDF[stati + '_A_avg_' + yeari] = statsDF[Acol].mean(axis=1)
+        Hcol = X[[stati + '_H' in x for x in X]]
+        statsDF[stati + '_H_avg_' + yeari] = statsDF[Hcol].mean(axis=1)
+
+
 # Save Modes, Means, and SDs for testing data
 #pickle.dump(modeTestingList, open('modes.pkl', 'wb'))
 #pickle.dump(lowOutlierTestingList, open('lowOutliers.pkl', 'wb'))
 #pickle.dump(highOutlierTestingList, open('highOutliers.pkl', 'wb'))
-            
+
 # SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
 labelCol = 'Winner'
 
@@ -97,16 +120,16 @@ labels = np.array(statsDF[labelCol])
 kfolds = np.array(statsDF['kfold'])
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
-useful_features = [x for x in statsDF.columns if 'prevY' in x]
+useful_features = [x for x in statsDF.columns if 'avg_prevY' in x]
 featuresDF = pd.DataFrame()
 featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=False)
 
 features_list = list(featuresDF.columns)
 
-
+#sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
-#print('Modelling...')
+print('Modelling...')
 accArray = []
 for curFold in np.unique(statsDF['kfold']):
 

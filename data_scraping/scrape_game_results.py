@@ -31,69 +31,86 @@ homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
 outputHeaders = ['Date','AwayTeam','HomeTeam','AwayScore','HomeScore','AwaySP','HomeSP']
 outputHeaders.extend(['A_' + str(x) for x in list(range(1,10))])
 outputHeaders.extend(['H_' + str(x) for x in list(range(1,10))])
+outputHeaders.extend(['A_WinPct','H_WinPct'])
 with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '.csv', 'w', newline='') as csvfile:
     statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     statswriter.writerow(outputHeaders)
 
-for hometeami in homeTeams:
+for hometeami in ['NYA']:#homeTeams:
     print(hometeami)
     # Loop through each day within every month of regular season
-    for monthi in monthsWithGames:
-        for dayi in list(range(0,32)):
+    for monthi in ['04']:#monthsWithGames:
+        for dayi in [17]:#list(range(0,32)):
     
             # Try statement will fail if no game exists for that particular day
-            try:
-                if dayi == 0: print('Starting Month: ' + monthi)
-                if dayi < 10: # Add a 0 before day if it's a single digit
-                    url = "https://www.baseball-reference.com/boxes/" + hometeami + "/" + hometeami + year + monthi + '0' + str(dayi) + "0.shtml"
-                else:
-                    url = "https://www.baseball-reference.com/boxes/" + hometeami + "/" + hometeami + year + monthi + str(dayi) + "0.shtml"
-                
-                # Scrape url data
-                r = requests.get(url, headers=BSheaders)
-                soup = BeautifulSoup(r.content, "lxml")
-                
-                ## DATE
-                date = soup.find_all("div", {"class": "scorebox_meta"})[0].select('div')[0].text
-                date = date[date.index(' ')+1:]
-                # Convert date to useable format
-                date = datetime.datetime.strptime(date, '%B %d, %Y').strftime('%d-%m-%Y')
-                
-                ## TEAM NAMES
-                teamNames = [x.text for x in soup.find_all("a", {"itemprop": "name"})]
-                awayTeam, homeTeam = [teamNames[0], teamNames[1]]
-                
-                ## RUNS SCORED
-                t_runsScored = [int(x.text) for x in soup.find_all("div", {"class": "score"})]
-                awayScore, homeScore = [t_runsScored[0], t_runsScored[1]]
-                
-                ## STARTING LINEUPS
-                def getStarters(num):
-                    starters = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + num + '"' in n)
-                    starters = BeautifulSoup(starters, "lxml")
-                    starters = [x.text for x in starters.select('#' + num)[0].select('a')]
-                    return starters
-                
-                # Starting Hitters
-                awayStarters = getStarters("lineups_1")
-                homeStarters = getStarters("lineups_2")
-                # Starting Pitchers
-                awaySP = getStarters("div_" + awayTeam.replace(' ','') + "pitching")[0]
-                homeSP = getStarters("div_" + homeTeam.replace(' ','') + "pitching")[0]
-                
-                # Replace Special Characters in Names
-                for repi in spcharReplace.keys():
-                    awayStarters = [x.replace(repi,spcharReplace[repi]) for x in awayStarters]
-                    homeStarters = [x.replace(repi,spcharReplace[repi]) for x in homeStarters]
-                    awaySP = awaySP.replace(repi,spcharReplace[repi])
-                    homeSP = homeSP.replace(repi,spcharReplace[repi])
-                
-                ## WRITE TO CSV
-                dataToWrite = [date,awayTeam,homeTeam,awayScore,homeScore,awaySP,homeSP]
-                dataToWrite.extend(awayStarters[0:9])
-                dataToWrite.extend(homeStarters[0:9])
-                with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '.csv', 'a', newline='') as csvfile:
-                    statswriter = csv.writer(csvfile, delimiter=',',
-                                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
-                    statswriter.writerow(dataToWrite)
-            except:pass
+            #try:
+            if dayi == 0: print('Starting Month: ' + monthi)
+            if dayi < 10: # Add a 0 before day if it's a single digit
+                url = "https://www.baseball-reference.com/boxes/" + hometeami + "/" + hometeami + year + monthi + '0' + str(dayi) + "0.shtml"
+            else:
+                url = "https://www.baseball-reference.com/boxes/" + hometeami + "/" + hometeami + year + monthi + str(dayi) + "0.shtml"
+            
+            # Scrape url data
+            r = requests.get(url, headers=BSheaders)
+            soup = BeautifulSoup(r.content, "lxml")
+            
+            ## DATE
+            date = soup.find_all("div", {"class": "scorebox_meta"})[0].select('div')[0].text
+            date = date[date.index(' ')+1:]
+            # Convert date to useable format
+            date = datetime.datetime.strptime(date, '%B %d, %Y').strftime('%d-%m-%Y')
+            
+            ## TEAM NAMES
+            teamNames = [x.text for x in soup.find_all("a", {"itemprop": "name"})]
+            awayTeam, homeTeam = [teamNames[0], teamNames[1]]
+            
+            ## RUNS SCORED
+            t_runsScored = [int(x.text) for x in soup.find_all("div", {"class": "score"})]
+            awayScore, homeScore = [t_runsScored[0], t_runsScored[1]]
+            
+            ## TEAM WIN PERCENTAGE GOING INTO THE GAME
+            WP_calc = soup.find_all("div", {"class": "scorebox"})[0]
+            AWP = WP_calc.find_all("div")[0].find_all("div")[4].text
+            AWP = [int(x) for x in AWP.split('-')]
+            # Record includes current game so subtract win or loss depending on result
+            if awayScore > homeScore: AWP[0] = AWP[0] - 1
+            else: AWP[1] = AWP[1] - 1
+            AWP = round((AWP[0] / (AWP[0] + AWP[1]))*100,2)
+            HWP = WP_calc.find_all("div")[7].find_all("div")[4].text
+            HWP = [int(x) for x in HWP.split('-')]
+            # Record includes current game so subtract win or loss depending on result
+            if homeScore > awayScore: HWP[0] = HWP[0] - 1
+            else: HWP[1] = HWP[1] - 1
+            HWP = round((HWP[0] / (HWP[0] + HWP[1]))*100,2)
+            
+            ## STARTING LINEUPS
+            def getStarters(num):
+                starters = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + num + '"' in n)
+                starters = BeautifulSoup(starters, "lxml")
+                starters = [x.text for x in starters.select('#' + num)[0].select('a')]
+                return starters
+            
+            # Starting Hitters
+            awayStarters = getStarters("lineups_1")
+            homeStarters = getStarters("lineups_2")
+            # Starting Pitchers
+            awaySP = getStarters("div_" + awayTeam.replace(' ','') + "pitching")[0]
+            homeSP = getStarters("div_" + homeTeam.replace(' ','') + "pitching")[0]
+            
+            # Replace Special Characters in Names
+            for repi in spcharReplace.keys():
+                awayStarters = [x.replace(repi,spcharReplace[repi]) for x in awayStarters]
+                homeStarters = [x.replace(repi,spcharReplace[repi]) for x in homeStarters]
+                awaySP = awaySP.replace(repi,spcharReplace[repi])
+                homeSP = homeSP.replace(repi,spcharReplace[repi])
+            
+            ## WRITE TO CSV
+            dataToWrite = [date,awayTeam,homeTeam,awayScore,homeScore,awaySP,homeSP]
+            dataToWrite.extend(awayStarters[0:9])
+            dataToWrite.extend(homeStarters[0:9])
+            dataToWrite.extend([AWP,HWP])
+            with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '.csv', 'a', newline='') as csvfile:
+                statswriter = csv.writer(csvfile, delimiter=',',
+                                        quotechar='|', quoting=csv.QUOTE_MINIMAL)
+                statswriter.writerow(dataToWrite)
+            #except:pass

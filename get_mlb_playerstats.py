@@ -12,7 +12,7 @@ from scrape_FG_fielding import fielding_stats
 
 def load_hitting_data(year,batStatsCols):
     # Define columns of stats you'd like to load
-    #batStatsCols = [5,39,50]
+    #batStatsCols = list(range(64,75))
     # Scrape stats from inputted year
     batting = batting_stats(year,statsCols=batStatsCols)
     # Restrict results to batters with over defined number of ABs
