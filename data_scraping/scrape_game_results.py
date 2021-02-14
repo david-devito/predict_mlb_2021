@@ -20,19 +20,23 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
+# Dictionary for weather related table data
+weatherDict = {'2020':"div_3390179539",
+               '2019':"div_2016723098"}
 
-year = '2016'
+
+year = '2020'
 monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
-
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam','AwayScore','HomeScore','AwaySP','HomeSP']
 outputHeaders.extend(['A_' + str(x) for x in list(range(1,10))])
 outputHeaders.extend(['H_' + str(x) for x in list(range(1,10))])
 outputHeaders.extend(['A_WinPct','H_WinPct'])
-with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '.csv', 'w', newline='') as csvfile:
+outputHeaders.extend(['temperature','windspeed','precipitation'])
+with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_orig.csv', 'w', newline='') as csvfile:
     statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     statswriter.writerow(outputHeaders)
 
@@ -63,6 +67,14 @@ for hometeami in homeTeams:
                 ## TEAM NAMES
                 teamNames = [x.text for x in soup.find_all("a", {"itemprop": "name"})]
                 awayTeam, homeTeam = [teamNames[0], teamNames[1]]
+                
+                ## WEATHER
+                weather = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + weatherDict[year] + '"' in n)
+                weather = BeautifulSoup(weather, "lxml")
+                weather = weather.find_all("div")[5].text.split(':')[1].split(',')
+                temperature = int(''.join(filter(str.isdigit, weather[0])))
+                windspeed = int(''.join(filter(str.isdigit, weather[1])))
+                precipitation = weather[2]
                 
                 ## RUNS SCORED
                 t_runsScored = [int(x.text) for x in soup.find_all("div", {"class": "score"})]
@@ -109,6 +121,7 @@ for hometeami in homeTeams:
                 dataToWrite.extend(awayStarters[0:9])
                 dataToWrite.extend(homeStarters[0:9])
                 dataToWrite.extend([AWP,HWP])
+                dataToWrite.extend([temperature,windspeed,precipitation])
                 with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_orig.csv', 'a', newline='') as csvfile:
                     statswriter = csv.writer(csvfile, delimiter=',',
                                             quotechar='|', quoting=csv.QUOTE_MINIMAL)

@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 
-yeari = 2016
+yeari = 2020
 statsDF = pd.read_csv('../input/gamelogs/gamelogs' + str(yeari) + '_orig.csv', sep=',')
 
 statsDF['Date_dt'] = statsDF['Date'].apply(lambda x: datetime.strptime(x, '%d-%m-%Y'))
@@ -22,11 +22,11 @@ for i in statsDF.index:
     curHTeam = statsDF.loc[i]['HomeTeam']
     
     APlayedBefore = statsDF[((statsDF['AwayTeam'] == curATeam) | (statsDF['HomeTeam'] == curATeam)) & (statsDF['Date_dt'] == dayBefore)]
-    if len(APlayedBefore) > 0: APlayedYest.append(1)
-    else: APlayedYest.append(0)
+    if len(APlayedBefore) > 0: APlayedYest.append('1')
+    else: APlayedYest.append('0')
     HPlayedBefore = statsDF[((statsDF['AwayTeam'] == curHTeam) | (statsDF['HomeTeam'] == curHTeam)) & (statsDF['Date_dt'] == dayBefore)]
-    if len(HPlayedBefore) > 0: HPlayedYest.append(1)
-    else: HPlayedYest.append(0)
+    if len(HPlayedBefore) > 0: HPlayedYest.append('1')
+    else: HPlayedYest.append('0')
     
 statsDF['APlayedYest'] = APlayedYest
 statsDF['HPlayedYest'] = HPlayedYest

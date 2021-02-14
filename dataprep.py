@@ -25,13 +25,15 @@ from create_kfolds import create_kfolds
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2016,2021):
+for yeari in range(2019,2021):
     loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, loadGames], ignore_index=True)
 # Create column containing year each game was played
 statsDF['year'] = statsDF['Date'].apply(lambda x: int(x[-4:]))
 # Calculate difference in WinPct
 statsDF['WinPct_Diff'] = statsDF.apply(lambda x: x['H_WinPct'] - x['A_WinPct'], axis=1)
+# Convert certain numerical columns to strings when you want them to be treated as categorical
+statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
 
 # Create target variable
 statsDF['Winner'] = statsDF.apply(lambda x: 'Away' if x['AwayScore'] > x['HomeScore'] else 'Home', axis=1)
@@ -45,7 +47,7 @@ batting = dict()
 #batStatsCols = [5,curBatStati]
 batStatsCols = [5]
 batStatsCols.extend([43,48,56,58,68,71,72,76,78,79,80,93,104,105])
-for yeari in range(2015,2020):
+for yeari in range(2018,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 
 
@@ -123,9 +125,10 @@ kfolds = np.array(statsDF['kfold'])
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = [x for x in statsDF.columns if 'avg_prevY' in x]
-useful_features.extend(['WinPct_Diff'])
+useful_features.extend(['WinPct_Diff','PlayedYest'])
 featuresDF = pd.DataFrame()
 featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=False)
+featuresDF = pd.get_dummies(featuresDF)
 
 features_list = list(featuresDF.columns)
 
