@@ -21,7 +21,7 @@ def get_table(soup, ind):
     data = []
     # pull heading names from the fangraphs tables
     headings = [row.text.strip() for row in table.find_all('th')[1:]]
-    print(headings)
+    #print(headings)
     #sys.exit()
     
     table_body = table.find('tbody')

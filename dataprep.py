@@ -25,7 +25,7 @@ from create_kfolds import create_kfolds
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2017,2021):
+for yeari in range(2018,2021):
     loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, loadGames], ignore_index=True)
 # Create column containing year each game was played
@@ -47,8 +47,9 @@ statsDF = create_kfolds(statsDF,5,'Winner')
 batting = dict()
 #batStatsCols = [5,curBatStati]
 batStatsCols = [5]
-batStatsCols.extend([43,44,45,48,56,58,68,71,76,78,79,80,93,104,105])
-for yeari in range(2016,2020):
+#batStatsCols.extend([43,44,45,48,56,58,68,71,76,78,79,80,93,104,105])
+batStatsCols.extend([35,42,43,45,48,51,54,56,63,67,74,76,77,78,82,100,101,102,105,198,201,204,207,209,210,])
+for yeari in range(2017,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 
 #print('Loading Pitching Stats...')
@@ -86,7 +87,7 @@ for yeari in ['prevY']:
         for stati in battingStatsColumns:
             #if stati + '_' + bati + '_' + yeari in relStatsList:
             #curStat = stati + '_' + bati
-            print(stati)
+            #print(stati)
             # Create a column that contains the statistical value associated with each corresponding hitter
             statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
             # Replace any outliers with the mode from that column
@@ -114,11 +115,12 @@ for yeari in ['prevY']:
         statsDF[stati + '_H_avg_' + yeari] = statsDF[Hcol].mean(axis=1)
 
 # Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
-statsDF['H_FB-GB*WS_H'] = (statsDF['FB%_H_avg_prevY'] - statsDF['GB%_H_avg_prevY']) * statsDF['windspeed']
-statsDF['H_FB-GB*WS_A'] = (statsDF['FB%_A_avg_prevY'] - statsDF['GB%_A_avg_prevY']) * statsDF['windspeed']
-statsDF = statsDF.drop(['FB%_H_avg_prevY','GB%_H_avg_prevY','FB%_A_avg_prevY','GB%_A_avg_prevY'],axis=1)
+#statsDF['H_FB-GB*WS_H'] = (statsDF['FB%_H_avg_prevY'] - statsDF['GB%_H_avg_prevY']) * statsDF['windspeed']
+#statsDF['H_FB-GB*WS_A'] = (statsDF['FB%_A_avg_prevY'] - statsDF['GB%_A_avg_prevY']) * statsDF['windspeed']
+#statsDF = statsDF.drop(['FB%_H_avg_prevY','GB%_H_avg_prevY','FB%_A_avg_prevY','GB%_A_avg_prevY'],axis=1)
 
 
+'''
 # PITCHING STATS
 # List of pitchers that you'd like included in the analysis
 pitcherList = ['AwaySP','HomeSP']
@@ -157,8 +159,7 @@ for yeari in ['prevY']:
 statsDF['P_FB-GB*WS_H'] = (statsDF['FB%_AwaySP_prevY'] - statsDF['GB%_AwaySP_prevY']) * statsDF['windspeed']
 statsDF['P_FB-GB*WS_A'] = (statsDF['FB%_HomeSP_prevY'] - statsDF['FB%_HomeSP_prevY']) * statsDF['windspeed']
 statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY','GB%_HomeSP_prevY'],axis=1)
-
-
+'''
 
 
 # Save Modes, Means, and SDs for testing data
@@ -180,15 +181,25 @@ kfolds = np.array(statsDF['kfold'])
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
-useful_features.extend(['WinPct_Diff','temperature','HLastGame','ALastGame'])
-useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
+#useful_features.extend(['WinPct_Diff','temperature','HLastGame','ALastGame'])
+#useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 featuresDF = pd.DataFrame()
 featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=False)
 featuresDF = pd.get_dummies(featuresDF)
 
 features_list = list(featuresDF.columns)
 
-#pd.set_option('display.max_columns', 500)
+## CHECKING WHICH FEATURES BEST SEPARATE THE TARGET VARIABLE
+df_away = statsDF[statsDF['Winner'] == 0].copy()
+df_home = statsDF[statsDF['Winner'] == 1].copy()
+A_useful_features = [x for x in useful_features if 'A' in x]
+for coli in A_useful_features:
+    x = assorted_funcs.doesVarSeparateGroups(df_away,df_home,coli)
+    print(coli + ' - ' + str(x))
+
+
+
+pd.set_option('display.max_columns', 500)
 #sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
