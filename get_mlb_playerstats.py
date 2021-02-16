@@ -21,3 +21,15 @@ def load_hitting_data(year,batStatsCols):
     batting = batting.set_index('Name')
     batting = batting.drop('AB',axis=1)
     return batting
+
+def load_pitching_data(year,pitchStatsCols):
+    # Define columns of stats you'd like to load
+    #pitchStatsCols = list(range(64,75))
+    # Scrape stats from inputted year
+    pitching = pitching_stats(year,statsCols=pitchStatsCols)
+    # Restrict results to batters with over defined number of ABs
+    pitching = pitching[pitching['IP'].astype(int) >= 15]
+    # Re-index Batting Stats DF by Player Name
+    pitching = pitching.set_index('Name')
+    pitching = pitching.drop('IP',axis=1)
+    return pitching

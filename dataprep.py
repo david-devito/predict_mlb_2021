@@ -25,16 +25,16 @@ from create_kfolds import create_kfolds
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2019,2020):
+for yeari in range(2017,2021):
     loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, loadGames], ignore_index=True)
 # Create column containing year each game was played
 statsDF['year'] = statsDF['Date'].apply(lambda x: int(x[-4:]))
+statsDF['month'] = statsDF['Date'].apply(lambda x: int(x[3:5]))
 # Calculate difference in WinPct
 statsDF['WinPct_Diff'] = statsDF.apply(lambda x: x['H_WinPct'] - x['A_WinPct'], axis=1)
 # Convert certain numerical columns to strings when you want them to be treated as categorical
 statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
-statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: x.replace(' ','').replace('.',''))
 
 # Create target variable
 statsDF['Winner'] = statsDF.apply(lambda x: 'Away' if x['AwayScore'] > x['HomeScore'] else 'Home', axis=1)
@@ -47,10 +47,17 @@ statsDF = create_kfolds(statsDF,5,'Winner')
 batting = dict()
 #batStatsCols = [5,curBatStati]
 batStatsCols = [5]
-batStatsCols.extend([43,48,56,58,68,71,72,76,78,79,80,93,104,105])
-for yeari in range(2018,2020):
+batStatsCols.extend([43,44,45,48,56,58,68,71,76,78,79,80,93,104,105])
+for yeari in range(2016,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 
+#print('Loading Pitching Stats...')
+pitching = dict()
+#batStatsCols = [5,curBatStati]
+pitchStatsCols = [13]
+pitchStatsCols.extend([46,47,48,49,50,52,59,62,64,76,77,81,83,102,107,123])
+for yeari in range(2016,2020):
+    pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 
 #relStatsList = ['+WPA_A_1_prevY','+WPA_A_1_prevY']
 #relStatsList.append(list(batting[list(batting.keys())[0]].columns)[-1] + '_A_2_prevY')
@@ -106,6 +113,53 @@ for yeari in ['prevY']:
         Hcol = X[[stati + '_H' in x for x in X]]
         statsDF[stati + '_H_avg_' + yeari] = statsDF[Hcol].mean(axis=1)
 
+# Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
+statsDF['H_FB-GB*WS_H'] = (statsDF['FB%_H_avg_prevY'] - statsDF['GB%_H_avg_prevY']) * statsDF['windspeed']
+statsDF['H_FB-GB*WS_A'] = (statsDF['FB%_A_avg_prevY'] - statsDF['GB%_A_avg_prevY']) * statsDF['windspeed']
+statsDF = statsDF.drop(['FB%_H_avg_prevY','GB%_H_avg_prevY','FB%_A_avg_prevY','GB%_A_avg_prevY'],axis=1)
+
+
+# PITCHING STATS
+# List of pitchers that you'd like included in the analysis
+pitcherList = ['AwaySP','HomeSP']
+#pitcherList = ['AwaySP']
+# Compile list of statistics by removing irrelevant column names from column list
+pitchingStatsColumns = [ elem for elem in list(pitching[list(pitching.keys())[0]].columns) if elem not in ['Season','Team']]
+
+
+# Create columns in stats DataFrame that include each corresponding players stats from current and past years
+print(pitchingStatsColumns)
+# Loop through each year, batter and statistic
+for yeari in ['prevY']:
+    for pitchi in pitcherList:
+        print(pitchi)
+        for stati in pitchingStatsColumns:
+            print(stati)
+            # Create a column that contains the statistical value associated with each corresponding hitter
+            statsDF[stati + '_' + pitchi + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(pitching, x, pitchi, stati, yeari),axis=1)
+            # Replace any outliers with the mode from that column
+            curMean = np.mean(statsDF[stati + '_' + pitchi + '_' + yeari])
+            curSTD = np.std(statsDF[stati + '_' + pitchi + '_' + yeari])
+            lowOutlier = curMean - (3*curSTD)
+            highOutlier = curMean + (3*curSTD)
+            statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] < lowOutlier, stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
+            statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] > highOutlier, stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
+            # Fill any NaN values with the mode from that column
+            statsDF[stati + '_' + pitchi + '_' + yeari].fillna(statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0], inplace=True)
+            # Save Mode for Future Testing
+            #modeTestingList[stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
+            # Save Low and High Outlier Values for Future Testing
+            #lowOutlierTestingList[stati + '_' + pitchi + '_' + yeari] = lowOutlier
+            #highOutlierTestingList[stati + '_' + pitchi + '_' + yeari] = highOutlier
+
+
+# Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
+statsDF['P_FB-GB*WS_H'] = (statsDF['FB%_AwaySP_prevY'] - statsDF['GB%_AwaySP_prevY']) * statsDF['windspeed']
+statsDF['P_FB-GB*WS_A'] = (statsDF['FB%_HomeSP_prevY'] - statsDF['FB%_HomeSP_prevY']) * statsDF['windspeed']
+statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY','GB%_HomeSP_prevY'],axis=1)
+
+
+
 
 # Save Modes, Means, and SDs for testing data
 #pickle.dump(modeTestingList, open('modes.pkl', 'wb'))
@@ -125,15 +179,16 @@ labels = np.array(statsDF[labelCol])
 kfolds = np.array(statsDF['kfold'])
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
-useful_features = [x for x in statsDF.columns if 'avg_prevY' in x]
-useful_features.extend(['WinPct_Diff','PlayedYest'])
-useful_features.extend(['temperature','windspeed','precipitation'])
+useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
+useful_features.extend(['WinPct_Diff','temperature','HLastGame','ALastGame'])
+useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 featuresDF = pd.DataFrame()
 featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=False)
 featuresDF = pd.get_dummies(featuresDF)
 
 features_list = list(featuresDF.columns)
 
+#pd.set_option('display.max_columns', 500)
 #sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
@@ -201,7 +256,7 @@ indices = np.argsort(importances)[::-1]
 # Print the feature ranking
 print("Feature ranking:")
 
-for f in range(features_toModel.shape[1]):
+for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
 
