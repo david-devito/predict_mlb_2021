@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 
-yeari = 2017
+yeari = 2015
 statsDF = pd.read_csv('../input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
 
 statsDF['Date_dt'] = statsDF['Date'].apply(lambda x: datetime.strptime(x, '%d-%m-%Y'))

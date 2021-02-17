@@ -25,7 +25,7 @@ from create_kfolds import create_kfolds
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2018,2021):
+for yeari in range(2015,2020):
     loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, loadGames], ignore_index=True)
 # Create column containing year each game was played
@@ -48,8 +48,8 @@ batting = dict()
 #batStatsCols = [5,curBatStati]
 batStatsCols = [5]
 #batStatsCols.extend([43,44,45,48,56,58,68,71,76,78,79,80,93,104,105])
-batStatsCols.extend([35,42,43,45,48,51,54,56,63,67,74,76,77,78,82,100,101,102,105,198,201,204,207,209,210,])
-for yeari in range(2017,2020):
+batStatsCols.extend([6,7,8,9,10,11,12,13,14,15])
+for yeari in range(2014,2019):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 
 #print('Loading Pitching Stats...')
@@ -57,7 +57,7 @@ pitching = dict()
 #batStatsCols = [5,curBatStati]
 pitchStatsCols = [13]
 pitchStatsCols.extend([46,47,48,49,50,52,59,62,64,76,77,81,83,102,107,123])
-for yeari in range(2016,2020):
+for yeari in range(2014,2019):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 
 #relStatsList = ['+WPA_A_1_prevY','+WPA_A_1_prevY']
@@ -72,8 +72,8 @@ highOutlierTestingList = dict()
 # BATTING STATS
 # List of batters that you'd like included in the analysis
 #batterList = ['A_1','A_2','A_3','A_4','A_5','A_6','A_7','A_8','A_9','H_1','H_2','H_3','H_4','H_5','H_6','H_7','H_8','H_9']
-#batterList = ['A_1','A_2','A_3','A_4','A_5']
-batterList = ['A_1','A_2','A_3','A_4','A_5','H_1','H_2','H_3','H_4','H_5']
+batterList = ['A_1','A_2','A_3','A_4','A_5']
+#batterList = ['A_1','A_2','A_3','A_4','A_5','H_1','H_2','H_3','H_4','H_5']
 # Compile list of statistics by removing irrelevant column names from column list
 battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
 
@@ -111,13 +111,13 @@ for yeari in ['prevY']:
     for stati in battingStatsColumns:
         Acol = X[[stati + '_A' in x for x in X]]
         statsDF[stati + '_A_avg_' + yeari] = statsDF[Acol].mean(axis=1)
-        Hcol = X[[stati + '_H' in x for x in X]]
-        statsDF[stati + '_H_avg_' + yeari] = statsDF[Hcol].mean(axis=1)
+        #Hcol = X[[stati + '_H' in x for x in X]]
+        #statsDF[stati + '_H_avg_' + yeari] = statsDF[Hcol].mean(axis=1)
 
 # Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
 #statsDF['H_FB-GB*WS_H'] = (statsDF['FB%_H_avg_prevY'] - statsDF['GB%_H_avg_prevY']) * statsDF['windspeed']
 #statsDF['H_FB-GB*WS_A'] = (statsDF['FB%_A_avg_prevY'] - statsDF['GB%_A_avg_prevY']) * statsDF['windspeed']
-#statsDF = statsDF.drop(['FB%_H_avg_prevY','GB%_H_avg_prevY','FB%_A_avg_prevY','GB%_A_avg_prevY'],axis=1)
+#statsDF = statsDF.drop(['GB%_H_avg_prevY','GB%_A_avg_prevY'],axis=1)
 
 
 '''
@@ -181,8 +181,8 @@ kfolds = np.array(statsDF['kfold'])
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
-#useful_features.extend(['WinPct_Diff','temperature','HLastGame','ALastGame'])
-#useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
+useful_features.extend(['WinPct_Diff','temperature'])#,'HLastGame','ALastGame'])
+useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 featuresDF = pd.DataFrame()
 featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=False)
 featuresDF = pd.get_dummies(featuresDF)
@@ -200,7 +200,7 @@ for coli in A_useful_features:
 
 
 pd.set_option('display.max_columns', 500)
-#sys.exit()
+sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
