@@ -1,0 +1,2373 @@
+Date,AwayTeam,HomeTeam,A_SeaWinPct,A_last3WinPct,A_last5WinPct,A_last10WinPct,H_SeaWinPct,H_last3WinPct,H_last5WinPct,H_last10WinPct
+07-04-2017,Seattle Mariners,Los Angeles Angels,25.0,0.0,0.0,nan,50.0,0.0,0.0,nan
+08-04-2017,Seattle Mariners,Los Angeles Angels,20.0,0.33,0.2,nan,60.0,0.33,0.2,nan
+09-04-2017,Seattle Mariners,Los Angeles Angels,16.67,0.0,0.2,nan,66.67,0.0,0.2,nan
+11-04-2017,Texas Rangers,Los Angeles Angels,33.33,0.0,0.2,nan,71.43,0.0,0.2,nan
+12-04-2017,Texas Rangers,Los Angeles Angels,28.57,0.33,0.4,nan,75.0,0.33,0.4,nan
+13-04-2017,Texas Rangers,Los Angeles Angels,37.5,0.0,0.2,nan,66.67,0.0,0.2,nan
+21-04-2017,Toronto Blue Jays,Los Angeles Angels,20.0,0.33,0.2,0.2,41.18,0.33,0.2,0.2
+22-04-2017,Toronto Blue Jays,Los Angeles Angels,25.0,0.0,0.2,0.2,38.89,0.0,0.2,0.2
+23-04-2017,Toronto Blue Jays,Los Angeles Angels,23.53,0.33,0.4,0.3,42.11,0.33,0.4,0.3
+24-04-2017,Toronto Blue Jays,Los Angeles Angels,27.78,0.0,0.2,0.3,40.0,0.0,0.2,0.3
+25-04-2017,Oakland Athletics,Los Angeles Angels,52.63,0.33,0.6,0.5,42.86,0.33,0.6,0.5
+26-04-2017,Oakland Athletics,Los Angeles Angels,50.0,0.0,0.4,0.5,45.45,0.0,0.4,0.5
+27-04-2017,Oakland Athletics,Los Angeles Angels,47.62,0.0,0.2,0.5,47.83,0.0,0.2,0.5
+05-05-2017,Houston Astros,Los Angeles Angels,65.52,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+06-05-2017,Houston Astros,Los Angeles Angels,66.67,0.0,0.4,0.5,48.39,0.0,0.4,0.5
+07-05-2017,Houston Astros,Los Angeles Angels,64.52,0.33,0.4,0.6,50.0,0.33,0.4,0.6
+11-05-2017,Detroit Tigers,Los Angeles Angels,50.0,0.33,0.2,0.5,47.22,0.33,0.2,0.5
+12-05-2017,Detroit Tigers,Los Angeles Angels,51.52,0.0,0.2,0.4,45.95,0.0,0.2,0.4
+13-05-2017,Detroit Tigers,Los Angeles Angels,50.0,0.33,0.4,0.4,47.37,0.33,0.4,0.4
+14-05-2017,Detroit Tigers,Los Angeles Angels,51.43,0.0,0.2,0.3,46.15,0.0,0.2,0.3
+15-05-2017,Chicago White Sox,Los Angeles Angels,48.57,0.33,0.2,0.2,47.5,0.33,0.2,0.2
+16-05-2017,Chicago White Sox,Los Angeles Angels,47.22,0.33,0.4,0.2,48.78,0.33,0.4,0.2
+17-05-2017,Chicago White Sox,Los Angeles Angels,45.95,0.0,0.4,0.2,50.0,0.0,0.4,0.2
+29-05-2017,Atlanta Braves,Los Angeles Angels,43.75,0.0,0.2,0.4,49.06,0.0,0.2,0.4
+30-05-2017,Atlanta Braves,Los Angeles Angels,44.9,0.0,0.2,0.3,48.15,0.0,0.2,0.3
+31-05-2017,Atlanta Braves,Los Angeles Angels,44.0,0.33,0.2,0.4,49.09,0.33,0.2,0.4
+01-06-2017,Minnesota Twins,Los Angeles Angels,53.06,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+02-06-2017,Minnesota Twins,Los Angeles Angels,54.0,0.0,0.0,0.3,49.12,0.0,0.0,0.3
+03-06-2017,Minnesota Twins,Los Angeles Angels,54.9,0.33,0.2,0.3,48.28,0.33,0.2,0.3
+04-06-2017,Minnesota Twins,Los Angeles Angels,53.85,0.33,0.4,0.3,49.15,0.33,0.4,0.3
+12-06-2017,New York Yankees,Los Angeles Angels,61.67,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+13-06-2017,New York Yankees,Los Angeles Angels,62.3,0.33,0.6,0.6,49.25,0.33,0.6,0.6
+14-06-2017,New York Yankees,Los Angeles Angels,61.29,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+15-06-2017,Kansas City Royals,Los Angeles Angels,46.88,0.33,0.6,0.5,50.72,0.33,0.6,0.5
+16-06-2017,Kansas City Royals,Los Angeles Angels,47.69,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+17-06-2017,Kansas City Royals,Los Angeles Angels,48.48,0.33,0.6,0.6,49.3,0.33,0.6,0.6
+18-06-2017,Kansas City Royals,Los Angeles Angels,47.76,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+28-06-2017,Los Angeles Dodgers,Los Angeles Angels,65.82,0.0,0.4,0.7,50.62,0.0,0.4,0.7
+29-06-2017,Los Angeles Dodgers,Los Angeles Angels,65.0,0.33,0.4,0.7,51.22,0.33,0.4,0.7
+30-06-2017,Seattle Mariners,Los Angeles Angels,48.75,0.0,0.0,0.5,50.6,0.0,0.0,0.5
+01-07-2017,Seattle Mariners,Los Angeles Angels,49.38,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+02-07-2017,Seattle Mariners,Los Angeles Angels,48.78,0.33,0.2,0.4,50.59,0.33,0.2,0.4
+14-07-2017,Tampa Bay Rays,Los Angeles Angels,52.22,0.33,0.4,0.5,48.91,0.33,0.4,0.5
+15-07-2017,Tampa Bay Rays,Los Angeles Angels,52.75,0.33,0.4,0.5,48.39,0.33,0.4,0.5
+16-07-2017,Tampa Bay Rays,Los Angeles Angels,53.26,0.33,0.6,0.5,47.87,0.33,0.6,0.5
+18-07-2017,Washington Nationals,Los Angeles Angels,60.87,0.33,0.6,0.6,48.42,0.33,0.6,0.6
+19-07-2017,Washington Nationals,Los Angeles Angels,61.29,0.33,0.6,0.6,47.92,0.33,0.6,0.6
+21-07-2017,Boston Red Sox,Los Angeles Angels,55.67,0.33,0.4,0.4,48.45,0.33,0.4,0.4
+22-07-2017,Boston Red Sox,Los Angeles Angels,56.12,0.0,0.4,0.4,47.96,0.0,0.4,0.4
+23-07-2017,Boston Red Sox,Los Angeles Angels,55.56,0.33,0.4,0.4,48.48,0.33,0.4,0.4
+01-08-2017,Philadelphia Phillies,Los Angeles Angels,37.86,0.33,0.6,0.5,48.11,0.33,0.6,0.5
+02-08-2017,Philadelphia Phillies,Los Angeles Angels,37.5,0.33,0.6,0.6,48.6,0.33,0.6,0.6
+03-08-2017,Philadelphia Phillies,Los Angeles Angels,37.14,0.0,0.4,0.5,49.07,0.0,0.4,0.5
+04-08-2017,Oakland Athletics,Los Angeles Angels,44.04,0.33,0.4,0.4,49.54,0.33,0.4,0.4
+05-08-2017,Oakland Athletics,Los Angeles Angels,43.64,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+06-08-2017,Oakland Athletics,Los Angeles Angels,44.14,0.0,0.2,0.4,49.55,0.0,0.2,0.4
+07-08-2017,Baltimore Orioles,Los Angeles Angels,49.55,0.33,0.2,0.6,49.11,0.33,0.2,0.6
+08-08-2017,Baltimore Orioles,Los Angeles Angels,50.0,0.33,0.4,0.6,48.67,0.33,0.4,0.6
+09-08-2017,Baltimore Orioles,Los Angeles Angels,49.56,0.33,0.6,0.6,49.12,0.33,0.6,0.6
+21-08-2017,Texas Rangers,Los Angeles Angels,49.59,0.33,0.4,0.6,51.61,0.33,0.4,0.6
+22-08-2017,Texas Rangers,Los Angeles Angels,50.0,0.0,0.2,0.5,51.2,0.0,0.2,0.5
+23-08-2017,Texas Rangers,Los Angeles Angels,49.6,0.33,0.4,0.6,51.59,0.33,0.4,0.6
+24-08-2017,Texas Rangers,Los Angeles Angels,50.0,0.0,0.2,0.5,51.18,0.0,0.2,0.5
+25-08-2017,Houston Astros,Los Angeles Angels,60.63,0.33,0.2,0.5,50.78,0.33,0.2,0.5
+26-08-2017,Houston Astros,Los Angeles Angels,60.94,0.0,0.2,0.4,50.39,0.0,0.2,0.4
+27-08-2017,Houston Astros,Los Angeles Angels,60.47,0.33,0.4,0.4,50.77,0.33,0.4,0.4
+28-08-2017,Oakland Athletics,Los Angeles Angels,44.62,0.33,0.4,0.4,50.38,0.33,0.4,0.4
+29-08-2017,Oakland Athletics,Los Angeles Angels,44.27,0.33,0.6,0.5,50.76,0.33,0.6,0.5
+30-08-2017,Oakland Athletics,Los Angeles Angels,43.94,0.0,0.4,0.5,51.13,0.0,0.4,0.5
+12-09-2017,Houston Astros,Los Angeles Angels,60.14,0.0,0.0,0.5,51.05,0.0,0.0,0.5
+13-09-2017,Houston Astros,Los Angeles Angels,60.42,0.0,0.0,0.4,50.69,0.0,0.0,0.4
+14-09-2017,Houston Astros,Los Angeles Angels,60.0,0.33,0.2,0.4,51.03,0.33,0.2,0.4
+15-09-2017,Texas Rangers,Los Angeles Angels,49.32,0.0,0.2,0.3,50.68,0.0,0.2,0.3
+16-09-2017,Texas Rangers,Los Angeles Angels,48.98,0.0,0.0,0.2,51.02,0.0,0.0,0.2
+17-09-2017,Texas Rangers,Los Angeles Angels,48.65,0.0,0.0,0.2,51.35,0.0,0.0,0.2
+19-09-2017,Cleveland Indians,Los Angeles Angels,62.0,0.33,0.4,0.7,51.01,0.33,0.4,0.7
+20-09-2017,Cleveland Indians,Los Angeles Angels,62.25,0.33,0.4,0.7,50.67,0.33,0.4,0.7
+21-09-2017,Cleveland Indians,Los Angeles Angels,62.5,0.33,0.6,0.7,50.33,0.33,0.6,0.7
+29-09-2017,Seattle Mariners,Los Angeles Angels,48.43,0.33,0.4,0.3,49.06,0.33,0.4,0.3
+30-09-2017,Seattle Mariners,Los Angeles Angels,48.12,0.0,0.4,0.3,49.38,0.0,0.4,0.3
+01-10-2017,Seattle Mariners,Los Angeles Angels,48.45,0.0,0.2,0.3,49.07,0.0,0.2,0.3
+02-04-2017,San Francisco Giants,Arizona Diamondbacks,0,0.0,0.2,0.3,0,0.0,0.2,0.3
+04-04-2017,San Francisco Giants,Arizona Diamondbacks,0.0,nan,nan,nan,100.0,nan,nan,nan
+05-04-2017,San Francisco Giants,Arizona Diamondbacks,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+06-04-2017,San Francisco Giants,Arizona Diamondbacks,33.33,0.33,nan,nan,66.67,0.33,nan,nan
+07-04-2017,Cleveland Indians,Arizona Diamondbacks,100.0,0.33,nan,nan,75.0,0.33,nan,nan
+08-04-2017,Cleveland Indians,Arizona Diamondbacks,75.0,0.33,0.6,nan,80.0,0.33,0.6,nan
+09-04-2017,Cleveland Indians,Arizona Diamondbacks,60.0,0.0,0.4,nan,83.33,0.0,0.4,nan
+21-04-2017,Los Angeles Dodgers,Arizona Diamondbacks,50.0,0.0,0.0,0.3,58.82,0.0,0.0,0.3
+22-04-2017,Los Angeles Dodgers,Arizona Diamondbacks,47.06,0.33,0.2,0.4,61.11,0.33,0.2,0.4
+23-04-2017,Los Angeles Dodgers,Arizona Diamondbacks,44.44,0.0,0.2,0.3,63.16,0.0,0.2,0.3
+24-04-2017,San Diego Padres,Arizona Diamondbacks,40.0,0.0,0.4,0.3,60.0,0.0,0.4,0.3
+25-04-2017,San Diego Padres,Arizona Diamondbacks,38.1,0.0,0.2,0.3,61.9,0.0,0.2,0.3
+26-04-2017,San Diego Padres,Arizona Diamondbacks,36.36,0.0,0.0,0.3,63.64,0.0,0.0,0.3
+27-04-2017,San Diego Padres,Arizona Diamondbacks,39.13,0.0,0.0,0.3,60.87,0.0,0.0,0.3
+28-04-2017,Colorado Rockies,Arizona Diamondbacks,60.87,0.0,0.2,0.5,62.5,0.0,0.2,0.5
+29-04-2017,Colorado Rockies,Arizona Diamondbacks,62.5,0.0,0.0,0.4,60.0,0.0,0.0,0.4
+30-04-2017,Colorado Rockies,Arizona Diamondbacks,64.0,0.33,0.2,0.5,57.69,0.33,0.2,0.5
+09-05-2017,Detroit Tigers,Arizona Diamondbacks,50.0,0.0,0.2,0.4,54.55,0.0,0.2,0.4
+10-05-2017,Detroit Tigers,Arizona Diamondbacks,51.61,0.0,0.2,0.4,52.94,0.0,0.2,0.4
+11-05-2017,Pittsburgh Pirates,Arizona Diamondbacks,41.18,0.0,0.0,0.3,54.29,0.0,0.0,0.3
+12-05-2017,Pittsburgh Pirates,Arizona Diamondbacks,40.0,0.0,0.0,0.2,55.56,0.0,0.0,0.2
+13-05-2017,Pittsburgh Pirates,Arizona Diamondbacks,38.89,0.0,0.0,0.2,56.76,0.0,0.0,0.2
+14-05-2017,Pittsburgh Pirates,Arizona Diamondbacks,40.54,0.0,0.0,0.2,55.26,0.0,0.0,0.2
+15-05-2017,New York Mets,Arizona Diamondbacks,44.44,0.0,0.0,0.4,53.85,0.0,0.0,0.4
+16-05-2017,New York Mets,Arizona Diamondbacks,43.24,0.0,0.0,0.3,55.0,0.0,0.0,0.3
+17-05-2017,New York Mets,Arizona Diamondbacks,42.11,0.0,0.0,0.2,56.1,0.0,0.0,0.2
+22-05-2017,Chicago White Sox,Arizona Diamondbacks,47.62,0.33,0.4,0.4,57.78,0.33,0.4,0.4
+23-05-2017,Chicago White Sox,Arizona Diamondbacks,46.51,0.33,0.6,0.4,58.7,0.33,0.6,0.4
+24-05-2017,Chicago White Sox,Arizona Diamondbacks,45.45,0.0,0.4,0.3,59.57,0.0,0.4,0.3
+06-06-2017,San Diego Padres,Arizona Diamondbacks,39.66,0.0,0.4,0.5,57.63,0.0,0.4,0.5
+07-06-2017,San Diego Padres,Arizona Diamondbacks,38.98,0.0,0.2,0.5,58.33,0.0,0.2,0.5
+08-06-2017,San Diego Padres,Arizona Diamondbacks,38.33,0.0,0.0,0.5,59.02,0.0,0.0,0.5
+09-06-2017,Milwaukee Brewers,Arizona Diamondbacks,52.46,0.33,0.4,0.5,59.68,0.33,0.4,0.5
+10-06-2017,Milwaukee Brewers,Arizona Diamondbacks,53.23,0.0,0.4,0.4,58.73,0.0,0.4,0.4
+11-06-2017,Milwaukee Brewers,Arizona Diamondbacks,52.38,0.33,0.4,0.4,59.38,0.33,0.4,0.4
+23-06-2017,Philadelphia Phillies,Arizona Diamondbacks,32.39,0.0,0.0,0.1,63.01,0.0,0.0,0.1
+24-06-2017,Philadelphia Phillies,Arizona Diamondbacks,33.33,0.33,0.2,0.2,62.16,0.33,0.2,0.2
+25-06-2017,Philadelphia Phillies,Arizona Diamondbacks,32.88,0.33,0.4,0.3,62.67,0.33,0.4,0.3
+26-06-2017,Philadelphia Phillies,Arizona Diamondbacks,32.43,0.0,0.4,0.2,63.16,0.0,0.4,0.2
+27-06-2017,St. Louis Cardinals,Arizona Diamondbacks,46.67,0.33,0.2,0.3,63.64,0.33,0.2,0.3
+28-06-2017,St. Louis Cardinals,Arizona Diamondbacks,46.05,0.33,0.4,0.4,64.1,0.33,0.4,0.4
+29-06-2017,St. Louis Cardinals,Arizona Diamondbacks,46.75,0.0,0.4,0.4,63.29,0.0,0.4,0.4
+30-06-2017,Colorado Rockies,Arizona Diamondbacks,58.02,0.0,0.0,0.1,62.5,0.0,0.0,0.1
+01-07-2017,Colorado Rockies,Arizona Diamondbacks,58.54,0.0,0.0,0.0,61.73,0.0,0.0,0.0
+02-07-2017,Colorado Rockies,Arizona Diamondbacks,57.83,0.33,0.2,0.1,62.2,0.33,0.2,0.1
+07-07-2017,Cincinnati Reds,Arizona Diamondbacks,43.53,0.0,0.2,0.4,60.47,0.0,0.2,0.4
+08-07-2017,Cincinnati Reds,Arizona Diamondbacks,43.02,0.33,0.4,0.4,60.92,0.33,0.4,0.4
+09-07-2017,Cincinnati Reds,Arizona Diamondbacks,43.68,0.0,0.2,0.4,60.23,0.0,0.2,0.4
+21-07-2017,Washington Nationals,Arizona Diamondbacks,60.64,0.33,0.6,0.7,57.89,0.33,0.6,0.7
+22-07-2017,Washington Nationals,Arizona Diamondbacks,60.0,0.0,0.4,0.6,58.33,0.0,0.4,0.6
+23-07-2017,Washington Nationals,Arizona Diamondbacks,60.42,0.0,0.2,0.6,57.73,0.0,0.2,0.6
+24-07-2017,Atlanta Braves,Arizona Diamondbacks,48.45,0.0,0.4,0.4,57.14,0.0,0.4,0.4
+25-07-2017,Atlanta Braves,Arizona Diamondbacks,47.96,0.0,0.2,0.3,57.58,0.0,0.2,0.3
+26-07-2017,Atlanta Braves,Arizona Diamondbacks,48.48,0.0,0.0,0.2,57.0,0.0,0.0,0.2
+08-08-2017,Los Angeles Dodgers,Arizona Diamondbacks,71.17,0.33,0.6,0.7,56.76,0.33,0.6,0.7
+09-08-2017,Los Angeles Dodgers,Arizona Diamondbacks,70.54,0.33,0.6,0.7,57.14,0.33,0.6,0.7
+10-08-2017,Los Angeles Dodgers,Arizona Diamondbacks,70.8,0.0,0.4,0.6,56.64,0.0,0.4,0.6
+11-08-2017,Chicago Cubs,Arizona Diamondbacks,52.21,0.0,0.2,0.3,56.14,0.0,0.2,0.3
+12-08-2017,Chicago Cubs,Arizona Diamondbacks,52.63,0.0,0.2,0.2,55.65,0.0,0.2,0.2
+13-08-2017,Chicago Cubs,Arizona Diamondbacks,52.17,0.33,0.2,0.3,56.03,0.33,0.2,0.3
+14-08-2017,Houston Astros,Arizona Diamondbacks,61.54,0.0,0.0,0.2,55.56,0.0,0.0,0.2
+15-08-2017,Houston Astros,Arizona Diamondbacks,61.02,0.33,0.2,0.2,55.93,0.33,0.2,0.2
+25-08-2017,San Francisco Giants,Arizona Diamondbacks,40.31,0.0,0.2,0.4,54.69,0.0,0.2,0.4
+26-08-2017,San Francisco Giants,Arizona Diamondbacks,40.0,0.33,0.4,0.4,55.04,0.33,0.4,0.4
+27-08-2017,San Francisco Giants,Arizona Diamondbacks,39.69,0.0,0.2,0.4,55.38,0.0,0.2,0.4
+29-08-2017,Los Angeles Dodgers,Arizona Diamondbacks,70.54,0.0,0.4,0.5,55.73,0.0,0.4,0.5
+30-08-2017,Los Angeles Dodgers,Arizona Diamondbacks,70.0,0.0,0.2,0.4,56.06,0.0,0.2,0.4
+31-08-2017,Los Angeles Dodgers,Arizona Diamondbacks,69.47,0.0,0.0,0.4,56.39,0.0,0.0,0.4
+08-09-2017,San Diego Padres,Arizona Diamondbacks,44.68,0.0,0.0,0.4,58.57,0.0,0.0,0.4
+09-09-2017,San Diego Padres,Arizona Diamondbacks,45.07,0.33,0.2,0.4,58.16,0.33,0.2,0.4
+10-09-2017,San Diego Padres,Arizona Diamondbacks,45.45,0.33,0.4,0.5,57.75,0.33,0.4,0.5
+11-09-2017,Colorado Rockies,Arizona Diamondbacks,54.55,0.33,0.6,0.5,58.04,0.33,0.6,0.5
+12-09-2017,Colorado Rockies,Arizona Diamondbacks,54.86,0.33,0.6,0.6,57.64,0.33,0.6,0.6
+13-09-2017,Colorado Rockies,Arizona Diamondbacks,55.17,0.33,0.6,0.7,57.24,0.33,0.6,0.7
+14-09-2017,Colorado Rockies,Arizona Diamondbacks,54.79,0.33,0.6,0.7,57.53,0.33,0.6,0.7
+22-09-2017,Miami Marlins,Arizona Diamondbacks,47.37,0.33,0.4,0.3,57.52,0.33,0.4,0.3
+23-09-2017,Miami Marlins,Arizona Diamondbacks,47.06,0.33,0.6,0.4,57.79,0.33,0.6,0.4
+24-09-2017,Miami Marlins,Arizona Diamondbacks,47.4,0.0,0.4,0.4,57.42,0.0,0.4,0.4
+25-09-2017,San Francisco Giants,Arizona Diamondbacks,39.1,0.33,0.4,0.4,57.69,0.33,0.4,0.4
+26-09-2017,San Francisco Giants,Arizona Diamondbacks,39.49,0.0,0.2,0.4,57.32,0.0,0.2,0.4
+27-09-2017,San Francisco Giants,Arizona Diamondbacks,39.24,0.33,0.4,0.5,57.59,0.33,0.4,0.5
+14-04-2017,San Diego Padres,Atlanta Braves,50.0,0.0,0.2,0.4,25.0,0.0,0.2,0.4
+15-04-2017,San Diego Padres,Atlanta Braves,45.45,0.33,0.4,0.4,33.33,0.33,0.4,0.4
+16-04-2017,San Diego Padres,Atlanta Braves,41.67,0.0,0.2,0.4,40.0,0.0,0.2,0.4
+17-04-2017,San Diego Padres,Atlanta Braves,38.46,0.0,0.2,0.4,45.45,0.0,0.2,0.4
+18-04-2017,Washington Nationals,Atlanta Braves,58.33,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+19-04-2017,Washington Nationals,Atlanta Braves,61.54,0.33,0.4,0.4,46.15,0.33,0.4,0.4
+20-04-2017,Washington Nationals,Atlanta Braves,64.29,0.33,0.4,0.5,42.86,0.33,0.4,0.5
+01-05-2017,New York Mets,Atlanta Braves,41.67,0.33,0.4,0.2,43.48,0.33,0.4,0.2
+02-05-2017,New York Mets,Atlanta Braves,44.0,0.0,0.4,0.2,41.67,0.0,0.4,0.2
+03-05-2017,New York Mets,Atlanta Braves,42.31,0.33,0.4,0.3,44.0,0.33,0.4,0.3
+05-05-2017,St. Louis Cardinals,Atlanta Braves,48.15,0.33,0.2,0.5,42.31,0.33,0.2,0.5
+06-05-2017,St. Louis Cardinals,Atlanta Braves,50.0,0.0,0.2,0.4,40.74,0.0,0.2,0.4
+07-05-2017,St. Louis Cardinals,Atlanta Braves,51.72,0.33,0.4,0.5,39.29,0.33,0.4,0.5
+17-05-2017,Toronto Blue Jays,Atlanta Braves,42.5,0.0,0.4,0.6,41.67,0.0,0.4,0.6
+18-05-2017,Toronto Blue Jays,Atlanta Braves,41.46,0.0,0.2,0.5,43.24,0.0,0.2,0.5
+19-05-2017,Washington Nationals,Atlanta Braves,62.5,0.0,0.4,0.4,42.11,0.0,0.4,0.4
+20-05-2017,Washington Nationals,Atlanta Braves,60.98,0.0,0.2,0.4,43.59,0.0,0.2,0.4
+21-05-2017,Washington Nationals,Atlanta Braves,59.52,0.0,0.0,0.4,45.0,0.0,0.0,0.4
+22-05-2017,Pittsburgh Pirates,Atlanta Braves,45.45,0.33,0.4,0.5,43.9,0.33,0.4,0.5
+23-05-2017,Pittsburgh Pirates,Atlanta Braves,44.44,0.33,0.4,0.6,45.24,0.33,0.4,0.6
+24-05-2017,Pittsburgh Pirates,Atlanta Braves,43.48,0.0,0.4,0.5,46.51,0.0,0.4,0.5
+25-05-2017,Pittsburgh Pirates,Atlanta Braves,44.68,0.0,0.2,0.4,45.45,0.0,0.2,0.4
+05-06-2017,Philadelphia Phillies,Atlanta Braves,35.19,0.33,0.2,0.2,44.44,0.33,0.2,0.2
+06-06-2017,Philadelphia Phillies,Atlanta Braves,36.36,0.33,0.4,0.3,43.64,0.33,0.4,0.3
+07-06-2017,Philadelphia Phillies,Atlanta Braves,37.5,0.33,0.6,0.3,42.86,0.33,0.6,0.3
+08-06-2017,Philadelphia Phillies,Atlanta Braves,36.84,0.33,0.6,0.4,43.86,0.33,0.6,0.4
+09-06-2017,New York Mets,Atlanta Braves,43.86,0.0,0.2,0.3,44.83,0.0,0.2,0.3
+11-06-2017,New York Mets,Atlanta Braves,45.0,0.33,0.4,0.3,44.26,0.33,0.4,0.3
+16-06-2017,Miami Marlins,Atlanta Braves,45.31,0.33,0.2,0.4,44.62,0.33,0.2,0.4
+17-06-2017,Miami Marlins,Atlanta Braves,46.15,0.33,0.4,0.5,43.94,0.33,0.4,0.5
+18-06-2017,Miami Marlins,Atlanta Braves,45.45,0.33,0.6,0.6,44.78,0.33,0.6,0.6
+19-06-2017,San Francisco Giants,Atlanta Braves,36.62,0.0,0.0,0.1,45.59,0.0,0.0,0.1
+20-06-2017,San Francisco Giants,Atlanta Braves,36.11,0.0,0.0,0.1,46.38,0.0,0.0,0.1
+21-06-2017,San Francisco Giants,Atlanta Braves,36.99,0.0,0.0,0.1,45.71,0.0,0.0,0.1
+22-06-2017,San Francisco Giants,Atlanta Braves,36.49,0.33,0.2,0.1,46.48,0.33,0.2,0.1
+23-06-2017,Milwaukee Brewers,Atlanta Braves,53.33,0.33,0.2,0.5,47.22,0.33,0.2,0.5
+24-06-2017,Milwaukee Brewers,Atlanta Braves,52.63,0.33,0.4,0.5,47.95,0.33,0.4,0.5
+25-06-2017,Milwaukee Brewers,Atlanta Braves,51.95,0.0,0.4,0.4,48.65,0.0,0.4,0.4
+04-07-2017,Houston Astros,Atlanta Braves,67.47,0.33,0.4,0.5,49.38,0.33,0.4,0.5
+05-07-2017,Houston Astros,Atlanta Braves,67.86,0.33,0.4,0.6,48.78,0.33,0.4,0.6
+14-07-2017,Arizona Diamondbacks,Atlanta Braves,59.55,0.0,0.2,0.3,48.28,0.0,0.2,0.3
+15-07-2017,Arizona Diamondbacks,Atlanta Braves,58.89,0.0,0.2,0.3,48.86,0.0,0.2,0.3
+16-07-2017,Arizona Diamondbacks,Atlanta Braves,58.24,0.0,0.0,0.2,49.44,0.0,0.0,0.2
+17-07-2017,Chicago Cubs,Atlanta Braves,50.55,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+18-07-2017,Chicago Cubs,Atlanta Braves,51.09,0.33,0.6,0.5,49.45,0.33,0.6,0.5
+19-07-2017,Chicago Cubs,Atlanta Braves,51.61,0.33,0.6,0.5,48.91,0.33,0.6,0.5
+01-08-2017,Los Angeles Dodgers,Atlanta Braves,70.48,0.33,0.6,0.7,46.15,0.33,0.6,0.7
+02-08-2017,Los Angeles Dodgers,Atlanta Braves,70.75,0.33,0.6,0.8,45.71,0.33,0.6,0.8
+03-08-2017,Los Angeles Dodgers,Atlanta Braves,70.09,0.33,0.6,0.8,46.23,0.33,0.6,0.8
+04-08-2017,Miami Marlins,Atlanta Braves,48.11,0.33,0.2,0.5,45.79,0.33,0.2,0.5
+05-08-2017,Miami Marlins,Atlanta Braves,47.66,0.33,0.4,0.6,46.3,0.33,0.4,0.6
+06-08-2017,Miami Marlins,Atlanta Braves,47.22,0.0,0.4,0.5,46.79,0.0,0.4,0.5
+08-08-2017,Philadelphia Phillies,Atlanta Braves,36.7,0.0,0.0,0.3,46.36,0.0,0.0,0.3
+09-08-2017,Philadelphia Phillies,Atlanta Braves,37.27,0.33,0.2,0.3,45.95,0.33,0.2,0.3
+18-08-2017,Cincinnati Reds,Atlanta Braves,41.8,0.0,0.2,0.4,45.38,0.0,0.2,0.4
+19-08-2017,Cincinnati Reds,Atlanta Braves,42.28,0.33,0.4,0.4,45.0,0.33,0.4,0.4
+20-08-2017,Cincinnati Reds,Atlanta Braves,42.74,0.33,0.4,0.4,44.63,0.33,0.4,0.4
+21-08-2017,Seattle Mariners,Atlanta Braves,50.4,0.33,0.6,0.4,45.08,0.33,0.6,0.4
+22-08-2017,Seattle Mariners,Atlanta Braves,50.79,0.0,0.4,0.4,44.72,0.0,0.4,0.4
+23-08-2017,Seattle Mariners,Atlanta Braves,50.39,0.33,0.4,0.5,45.16,0.33,0.4,0.5
+25-08-2017,Colorado Rockies,Atlanta Braves,54.33,0.0,0.0,0.2,44.8,0.0,0.0,0.2
+26-08-2017,Colorado Rockies,Atlanta Braves,53.91,0.33,0.2,0.3,45.24,0.33,0.2,0.3
+27-08-2017,Colorado Rockies,Atlanta Braves,54.26,0.0,0.2,0.2,44.88,0.0,0.2,0.2
+04-09-2017,Texas Rangers,Atlanta Braves,50.0,0.0,0.2,0.3,44.44,0.0,0.2,0.3
+07-09-2017,Miami Marlins,Atlanta Braves,48.2,0.0,0.0,0.1,44.2,0.0,0.0,0.1
+08-09-2017,Miami Marlins,Atlanta Braves,47.86,0.0,0.0,0.1,44.6,0.0,0.0,0.1
+09-09-2017,Miami Marlins,Atlanta Braves,48.23,0.0,0.0,0.1,44.29,0.0,0.0,0.1
+10-09-2017,Miami Marlins,Atlanta Braves,47.89,0.33,0.2,0.2,44.68,0.33,0.2,0.2
+15-09-2017,New York Mets,Atlanta Braves,43.15,0.0,0.0,0.4,45.52,0.0,0.0,0.4
+16-09-2017,New York Mets,Atlanta Braves,42.86,0.0,0.0,0.4,45.89,0.0,0.0,0.4
+17-09-2017,New York Mets,Atlanta Braves,43.24,0.0,0.0,0.3,45.58,0.0,0.0,0.3
+19-09-2017,Washington Nationals,Atlanta Braves,60.4,0.0,0.2,0.3,45.27,0.0,0.2,0.3
+20-09-2017,Washington Nationals,Atlanta Braves,60.67,0.33,0.2,0.3,44.97,0.33,0.2,0.3
+21-09-2017,Washington Nationals,Atlanta Braves,60.93,0.33,0.4,0.4,44.67,0.33,0.4,0.4
+22-09-2017,Philadelphia Phillies,Atlanta Braves,39.87,0.33,0.6,0.6,45.03,0.33,0.6,0.6
+23-09-2017,Philadelphia Phillies,Atlanta Braves,39.61,0.0,0.4,0.5,45.39,0.0,0.4,0.5
+24-09-2017,Philadelphia Phillies,Atlanta Braves,39.35,0.0,0.2,0.4,45.75,0.0,0.2,0.4
+03-04-2017,Toronto Blue Jays,Baltimore Orioles,0,0.0,0.0,0.4,0,0.0,0.0,0.4
+05-04-2017,Toronto Blue Jays,Baltimore Orioles,0.0,nan,nan,nan,100.0,nan,nan,nan
+07-04-2017,New York Yankees,Baltimore Orioles,33.33,0.33,nan,nan,100.0,0.33,nan,nan
+08-04-2017,New York Yankees,Baltimore Orioles,25.0,0.0,0.2,nan,100.0,0.0,0.2,nan
+09-04-2017,New York Yankees,Baltimore Orioles,20.0,0.0,0.2,nan,100.0,0.0,0.2,nan
+21-04-2017,Boston Red Sox,Baltimore Orioles,62.5,0.0,0.4,0.5,71.43,0.0,0.4,0.5
+22-04-2017,Boston Red Sox,Baltimore Orioles,58.82,0.33,0.4,0.6,73.33,0.33,0.4,0.6
+23-04-2017,Boston Red Sox,Baltimore Orioles,55.56,0.0,0.2,0.5,75.0,0.0,0.2,0.5
+24-04-2017,Tampa Bay Rays,Baltimore Orioles,50.0,0.33,0.4,0.4,70.59,0.33,0.4,0.4
+25-04-2017,Tampa Bay Rays,Baltimore Orioles,47.62,0.0,0.2,0.4,72.22,0.0,0.2,0.4
+26-04-2017,Tampa Bay Rays,Baltimore Orioles,50.0,0.0,0.2,0.4,68.42,0.0,0.2,0.4
+05-05-2017,Chicago White Sox,Baltimore Orioles,55.56,0.0,0.2,0.5,62.96,0.0,0.2,0.5
+06-05-2017,Chicago White Sox,Baltimore Orioles,53.57,0.33,0.4,0.5,64.29,0.33,0.4,0.5
+07-05-2017,Chicago White Sox,Baltimore Orioles,51.72,0.0,0.2,0.4,65.52,0.0,0.2,0.4
+08-05-2017,Washington Nationals,Baltimore Orioles,67.74,0.33,0.6,0.5,66.67,0.33,0.6,0.5
+09-05-2017,Washington Nationals,Baltimore Orioles,65.62,0.0,0.4,0.5,67.74,0.0,0.4,0.5
+19-05-2017,Toronto Blue Jays,Baltimore Orioles,42.86,0.0,0.0,0.5,58.97,0.0,0.0,0.5
+20-05-2017,Toronto Blue Jays,Baltimore Orioles,41.86,0.33,0.2,0.5,60.0,0.33,0.2,0.5
+21-05-2017,Toronto Blue Jays,Baltimore Orioles,40.91,0.0,0.2,0.4,60.98,0.0,0.2,0.4
+22-05-2017,Minnesota Twins,Baltimore Orioles,55.0,0.0,0.4,0.4,59.52,0.0,0.4,0.4
+23-05-2017,Minnesota Twins,Baltimore Orioles,56.1,0.33,0.4,0.4,58.14,0.33,0.4,0.4
+24-05-2017,Minnesota Twins,Baltimore Orioles,57.14,0.33,0.4,0.4,56.82,0.33,0.4,0.4
+29-05-2017,New York Yankees,Baltimore Orioles,61.7,0.33,0.4,0.4,52.08,0.33,0.4,0.4
+30-05-2017,New York Yankees,Baltimore Orioles,60.42,0.33,0.4,0.5,53.06,0.33,0.4,0.5
+31-05-2017,New York Yankees,Baltimore Orioles,61.22,0.0,0.4,0.5,52.0,0.0,0.4,0.5
+01-06-2017,Boston Red Sox,Baltimore Orioles,55.77,0.33,0.2,0.6,52.94,0.33,0.2,0.6
+02-06-2017,Boston Red Sox,Baltimore Orioles,54.72,0.33,0.4,0.6,53.85,0.33,0.4,0.6
+03-06-2017,Boston Red Sox,Baltimore Orioles,53.7,0.0,0.4,0.5,54.72,0.0,0.4,0.5
+04-06-2017,Boston Red Sox,Baltimore Orioles,54.55,0.0,0.2,0.4,53.7,0.0,0.2,0.4
+06-06-2017,Pittsburgh Pirates,Baltimore Orioles,45.61,0.0,0.2,0.3,52.73,0.0,0.2,0.3
+07-06-2017,Pittsburgh Pirates,Baltimore Orioles,44.83,0.33,0.4,0.4,53.57,0.33,0.4,0.4
+16-06-2017,St. Louis Cardinals,Baltimore Orioles,46.15,0.0,0.2,0.4,49.23,0.0,0.2,0.4
+17-06-2017,St. Louis Cardinals,Baltimore Orioles,46.97,0.0,0.0,0.4,48.48,0.0,0.0,0.4
+18-06-2017,St. Louis Cardinals,Baltimore Orioles,46.27,0.33,0.2,0.5,49.25,0.33,0.2,0.5
+19-06-2017,Cleveland Indians,Baltimore Orioles,53.73,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+20-06-2017,Cleveland Indians,Baltimore Orioles,54.41,0.33,0.6,0.6,49.28,0.33,0.6,0.6
+21-06-2017,Cleveland Indians,Baltimore Orioles,53.62,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+22-06-2017,Cleveland Indians,Baltimore Orioles,54.29,0.0,0.4,0.6,49.3,0.0,0.4,0.6
+30-06-2017,Tampa Bay Rays,Baltimore Orioles,50.62,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+01-07-2017,Tampa Bay Rays,Baltimore Orioles,51.22,0.0,0.2,0.4,49.37,0.0,0.2,0.4
+02-07-2017,Tampa Bay Rays,Baltimore Orioles,51.81,0.33,0.2,0.4,48.75,0.33,0.2,0.4
+14-07-2017,Chicago Cubs,Baltimore Orioles,48.86,0.0,0.2,0.3,47.73,0.0,0.2,0.3
+15-07-2017,Chicago Cubs,Baltimore Orioles,49.44,0.0,0.2,0.3,47.19,0.0,0.2,0.3
+16-07-2017,Chicago Cubs,Baltimore Orioles,50.0,0.33,0.2,0.4,46.67,0.33,0.2,0.4
+17-07-2017,Texas Rangers,Baltimore Orioles,49.45,0.33,0.4,0.5,46.15,0.33,0.4,0.5
+18-07-2017,Texas Rangers,Baltimore Orioles,48.91,0.0,0.4,0.5,46.74,0.0,0.4,0.5
+19-07-2017,Texas Rangers,Baltimore Orioles,48.39,0.0,0.2,0.5,47.31,0.0,0.2,0.5
+20-07-2017,Texas Rangers,Baltimore Orioles,47.87,0.0,0.0,0.4,47.87,0.0,0.0,0.4
+21-07-2017,Houston Astros,Baltimore Orioles,66.32,0.33,0.4,0.5,48.42,0.33,0.4,0.5
+22-07-2017,Houston Astros,Baltimore Orioles,66.67,0.0,0.2,0.4,47.92,0.0,0.2,0.4
+23-07-2017,Houston Astros,Baltimore Orioles,67.01,0.33,0.4,0.5,47.42,0.33,0.4,0.5
+31-07-2017,Kansas City Royals,Baltimore Orioles,53.4,0.0,0.4,0.7,48.08,0.0,0.4,0.7
+01-08-2017,Kansas City Royals,Baltimore Orioles,52.88,0.33,0.4,0.7,48.57,0.33,0.4,0.7
+02-08-2017,Kansas City Royals,Baltimore Orioles,52.38,0.0,0.2,0.6,49.06,0.0,0.2,0.6
+03-08-2017,Detroit Tigers,Baltimore Orioles,46.23,0.33,0.4,0.3,49.53,0.33,0.4,0.3
+04-08-2017,Detroit Tigers,Baltimore Orioles,46.73,0.33,0.4,0.4,49.07,0.33,0.4,0.4
+05-08-2017,Detroit Tigers,Baltimore Orioles,47.22,0.33,0.6,0.5,48.62,0.33,0.6,0.5
+06-08-2017,Detroit Tigers,Baltimore Orioles,46.79,0.33,0.6,0.6,49.09,0.33,0.6,0.6
+18-08-2017,Los Angeles Angels,Baltimore Orioles,51.24,0.0,0.4,0.6,48.76,0.0,0.4,0.6
+19-08-2017,Los Angeles Angels,Baltimore Orioles,50.82,0.33,0.4,0.7,49.18,0.33,0.4,0.7
+20-08-2017,Los Angeles Angels,Baltimore Orioles,51.22,0.0,0.2,0.6,48.78,0.0,0.2,0.6
+21-08-2017,Oakland Athletics,Baltimore Orioles,43.55,0.0,0.0,0.3,48.39,0.0,0.0,0.3
+22-08-2017,Oakland Athletics,Baltimore Orioles,43.2,0.33,0.2,0.3,48.8,0.33,0.2,0.3
+23-08-2017,Oakland Athletics,Baltimore Orioles,43.65,0.0,0.2,0.3,48.41,0.0,0.2,0.3
+28-08-2017,Seattle Mariners,Baltimore Orioles,50.38,0.0,0.4,0.5,50.0,0.0,0.4,0.5
+29-08-2017,Seattle Mariners,Baltimore Orioles,50.0,0.0,0.2,0.4,50.38,0.0,0.2,0.4
+30-08-2017,Seattle Mariners,Baltimore Orioles,49.62,0.0,0.0,0.3,50.76,0.0,0.0,0.3
+31-08-2017,Toronto Blue Jays,Baltimore Orioles,45.86,0.0,0.0,0.2,51.13,0.0,0.0,0.2
+01-09-2017,Toronto Blue Jays,Baltimore Orioles,46.27,0.0,0.0,0.2,50.75,0.0,0.0,0.2
+02-09-2017,Toronto Blue Jays,Baltimore Orioles,45.93,0.33,0.2,0.2,51.11,0.33,0.2,0.2
+03-09-2017,Toronto Blue Jays,Baltimore Orioles,46.32,0.0,0.2,0.2,50.74,0.0,0.2,0.2
+04-09-2017,New York Yankees,Baltimore Orioles,53.68,0.33,0.4,0.4,51.09,0.33,0.4,0.4
+05-09-2017,New York Yankees,Baltimore Orioles,54.01,0.33,0.4,0.4,50.72,0.33,0.4,0.4
+07-09-2017,New York Yankees,Baltimore Orioles,53.62,0.33,0.6,0.4,51.08,0.33,0.6,0.4
+18-09-2017,Boston Red Sox,Baltimore Orioles,57.05,0.33,0.6,0.6,48.67,0.33,0.6,0.6
+19-09-2017,Boston Red Sox,Baltimore Orioles,57.33,0.0,0.4,0.5,48.34,0.0,0.4,0.5
+20-09-2017,Boston Red Sox,Baltimore Orioles,57.62,0.33,0.4,0.5,48.03,0.33,0.4,0.5
+21-09-2017,Tampa Bay Rays,Baltimore Orioles,48.68,0.0,0.2,0.3,47.71,0.0,0.2,0.3
+22-09-2017,Tampa Bay Rays,Baltimore Orioles,48.37,0.33,0.4,0.3,48.05,0.33,0.4,0.3
+23-09-2017,Tampa Bay Rays,Baltimore Orioles,48.7,0.0,0.2,0.3,47.74,0.0,0.2,0.3
+24-09-2017,Tampa Bay Rays,Baltimore Orioles,49.03,0.33,0.4,0.3,47.44,0.33,0.4,0.3
+03-04-2017,Pittsburgh Pirates,Boston Red Sox,0,0.33,0.2,0.5,0,0.33,0.2,0.5
+05-04-2017,Pittsburgh Pirates,Boston Red Sox,0.0,nan,nan,nan,100.0,nan,nan,nan
+11-04-2017,Baltimore Orioles,Boston Red Sox,80.0,0.33,0.6,nan,50.0,0.33,0.6,nan
+12-04-2017,Baltimore Orioles,Boston Red Sox,66.67,0.0,0.4,nan,57.14,0.0,0.4,nan
+13-04-2017,Pittsburgh Pirates,Boston Red Sox,37.5,0.0,0.2,nan,50.0,0.0,0.2,nan
+14-04-2017,Tampa Bay Rays,Boston Red Sox,50.0,0.0,0.2,0.4,55.56,0.0,0.2,0.4
+15-04-2017,Tampa Bay Rays,Boston Red Sox,54.55,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+16-04-2017,Tampa Bay Rays,Boston Red Sox,50.0,0.33,0.2,0.4,54.55,0.33,0.2,0.4
+17-04-2017,Tampa Bay Rays,Boston Red Sox,46.15,0.0,0.2,0.4,58.33,0.0,0.2,0.4
+26-04-2017,New York Yankees,Boston Red Sox,61.11,0.33,0.4,0.6,57.89,0.33,0.4,0.6
+27-04-2017,New York Yankees,Boston Red Sox,63.16,0.0,0.2,0.5,55.0,0.0,0.2,0.5
+28-04-2017,Chicago Cubs,Boston Red Sox,57.14,0.33,0.4,0.6,52.38,0.33,0.4,0.6
+29-04-2017,Chicago Cubs,Boston Red Sox,54.55,0.0,0.4,0.6,54.55,0.0,0.4,0.6
+30-04-2017,Chicago Cubs,Boston Red Sox,56.52,0.0,0.2,0.5,52.17,0.0,0.2,0.5
+01-05-2017,Baltimore Orioles,Boston Red Sox,65.22,0.0,0.2,0.4,54.17,0.0,0.2,0.4
+02-05-2017,Baltimore Orioles,Boston Red Sox,66.67,0.33,0.2,0.4,52.0,0.33,0.2,0.4
+03-05-2017,Baltimore Orioles,Boston Red Sox,64.0,0.33,0.4,0.4,53.85,0.33,0.4,0.4
+04-05-2017,Baltimore Orioles,Boston Red Sox,61.54,0.0,0.4,0.4,55.56,0.0,0.4,0.4
+12-05-2017,Tampa Bay Rays,Boston Red Sox,45.95,0.33,0.2,0.3,52.94,0.33,0.2,0.3
+13-05-2017,Tampa Bay Rays,Boston Red Sox,47.37,0.0,0.2,0.3,51.43,0.0,0.2,0.3
+14-05-2017,Tampa Bay Rays,Boston Red Sox,46.15,0.33,0.4,0.3,52.78,0.33,0.4,0.3
+23-05-2017,Texas Rangers,Boston Red Sox,53.33,0.0,0.4,0.7,51.16,0.0,0.4,0.7
+24-05-2017,Texas Rangers,Boston Red Sox,52.17,0.33,0.4,0.7,52.27,0.33,0.4,0.7
+25-05-2017,Texas Rangers,Boston Red Sox,51.06,0.0,0.2,0.6,53.33,0.0,0.2,0.6
+26-05-2017,Seattle Mariners,Boston Red Sox,43.75,0.0,0.0,0.2,54.35,0.0,0.0,0.2
+27-05-2017,Seattle Mariners,Boston Red Sox,42.86,0.33,0.2,0.3,55.32,0.33,0.2,0.3
+28-05-2017,Seattle Mariners,Boston Red Sox,42.0,0.0,0.2,0.2,56.25,0.0,0.2,0.2
+09-06-2017,Detroit Tigers,Boston Red Sox,49.15,0.33,0.4,0.6,54.24,0.33,0.4,0.6
+10-06-2017,Detroit Tigers,Boston Red Sox,48.33,0.0,0.2,0.5,55.0,0.0,0.2,0.5
+11-06-2017,Detroit Tigers,Boston Red Sox,47.54,0.0,0.2,0.5,55.74,0.0,0.2,0.5
+12-06-2017,Philadelphia Phillies,Boston Red Sox,34.43,0.0,0.0,0.4,54.84,0.0,0.0,0.4
+13-06-2017,Philadelphia Phillies,Boston Red Sox,33.87,0.0,0.0,0.3,55.56,0.0,0.0,0.3
+23-06-2017,Los Angeles Angels,Boston Red Sox,50.0,0.0,0.2,0.4,55.56,0.0,0.2,0.4
+24-06-2017,Los Angeles Angels,Boston Red Sox,49.35,0.33,0.4,0.4,56.16,0.33,0.4,0.4
+25-06-2017,Los Angeles Angels,Boston Red Sox,50.0,0.0,0.2,0.3,55.41,0.0,0.2,0.3
+26-06-2017,Minnesota Twins,Boston Red Sox,53.42,0.33,0.4,0.4,54.67,0.33,0.4,0.4
+27-06-2017,Minnesota Twins,Boston Red Sox,52.7,0.33,0.6,0.5,55.26,0.33,0.6,0.5
+28-06-2017,Minnesota Twins,Boston Red Sox,52.0,0.0,0.4,0.5,55.84,0.0,0.4,0.5
+29-06-2017,Minnesota Twins,Boston Red Sox,52.63,0.0,0.2,0.5,55.13,0.0,0.2,0.5
+14-07-2017,New York Yankees,Boston Red Sox,52.33,0.33,0.2,0.3,56.18,0.33,0.2,0.3
+15-07-2017,New York Yankees,Boston Red Sox,51.72,0.0,0.2,0.2,56.67,0.0,0.2,0.2
+17-07-2017,Toronto Blue Jays,Boston Red Sox,46.15,0.0,0.2,0.5,55.91,0.0,0.2,0.5
+18-07-2017,Toronto Blue Jays,Boston Red Sox,46.74,0.0,0.2,0.4,55.32,0.0,0.2,0.4
+19-07-2017,Toronto Blue Jays,Boston Red Sox,46.24,0.33,0.2,0.4,55.79,0.33,0.2,0.4
+20-07-2017,Toronto Blue Jays,Boston Red Sox,45.74,0.0,0.2,0.3,56.25,0.0,0.2,0.3
+28-07-2017,Kansas City Royals,Boston Red Sox,53.0,0.33,0.6,0.7,54.37,0.33,0.6,0.7
+29-07-2017,Kansas City Royals,Boston Red Sox,53.47,0.33,0.6,0.8,53.85,0.33,0.6,0.8
+30-07-2017,Kansas City Royals,Boston Red Sox,52.94,0.33,0.6,0.8,54.29,0.33,0.6,0.8
+31-07-2017,Cleveland Indians,Boston Red Sox,55.34,0.33,0.6,0.8,53.77,0.33,0.6,0.8
+01-08-2017,Cleveland Indians,Boston Red Sox,54.81,0.0,0.4,0.7,54.21,0.0,0.4,0.7
+03-08-2017,Chicago White Sox,Boston Red Sox,39.05,0.0,0.4,0.2,54.63,0.0,0.4,0.2
+04-08-2017,Chicago White Sox,Boston Red Sox,38.68,0.0,0.2,0.2,55.05,0.0,0.2,0.2
+05-08-2017,Chicago White Sox,Boston Red Sox,38.32,0.0,0.0,0.2,55.45,0.0,0.0,0.2
+06-08-2017,Chicago White Sox,Boston Red Sox,37.96,0.0,0.0,0.2,55.86,0.0,0.0,0.2
+14-08-2017,Cleveland Indians,Boston Red Sox,54.78,0.33,0.4,0.4,57.26,0.33,0.4,0.4
+15-08-2017,St. Louis Cardinals,Boston Red Sox,51.69,0.33,0.6,0.8,56.78,0.33,0.6,0.8
+16-08-2017,St. Louis Cardinals,Boston Red Sox,51.26,0.0,0.4,0.7,57.14,0.0,0.4,0.7
+18-08-2017,New York Yankees,Boston Red Sox,54.17,0.33,0.6,0.5,57.5,0.33,0.6,0.5
+19-08-2017,New York Yankees,Boston Red Sox,53.72,0.33,0.6,0.5,57.85,0.33,0.6,0.5
+20-08-2017,New York Yankees,Boston Red Sox,54.1,0.0,0.4,0.5,57.38,0.0,0.4,0.5
+25-08-2017,Baltimore Orioles,Boston Red Sox,48.82,0.0,0.2,0.3,57.48,0.0,0.2,0.3
+26-08-2017,Baltimore Orioles,Boston Red Sox,49.22,0.33,0.4,0.3,57.03,0.33,0.4,0.3
+27-08-2017,Baltimore Orioles,Boston Red Sox,49.61,0.33,0.4,0.4,56.59,0.33,0.4,0.4
+04-09-2017,Toronto Blue Jays,Boston Red Sox,45.99,0.33,0.4,0.3,56.2,0.33,0.4,0.3
+05-09-2017,Toronto Blue Jays,Boston Red Sox,46.38,0.0,0.2,0.2,55.8,0.0,0.2,0.2
+06-09-2017,Toronto Blue Jays,Boston Red Sox,46.04,0.33,0.4,0.3,56.12,0.33,0.4,0.3
+08-09-2017,Tampa Bay Rays,Boston Red Sox,49.65,0.33,0.4,0.5,56.43,0.33,0.4,0.5
+09-09-2017,Tampa Bay Rays,Boston Red Sox,49.3,0.0,0.4,0.4,56.74,0.0,0.4,0.4
+10-09-2017,Tampa Bay Rays,Boston Red Sox,48.95,0.0,0.2,0.4,57.04,0.0,0.2,0.4
+12-09-2017,Oakland Athletics,Boston Red Sox,44.06,0.33,0.6,0.4,56.64,0.33,0.6,0.4
+13-09-2017,Oakland Athletics,Boston Red Sox,43.75,0.33,0.6,0.5,56.94,0.33,0.6,0.5
+14-09-2017,Oakland Athletics,Boston Red Sox,44.14,0.0,0.4,0.5,56.55,0.0,0.4,0.5
+25-09-2017,Toronto Blue Jays,Boston Red Sox,46.79,0.0,0.2,0.4,58.71,0.0,0.2,0.4
+26-09-2017,Toronto Blue Jays,Boston Red Sox,47.13,0.33,0.4,0.4,58.33,0.33,0.4,0.4
+27-09-2017,Toronto Blue Jays,Boston Red Sox,47.47,0.33,0.4,0.4,57.96,0.33,0.4,0.4
+28-09-2017,Houston Astros,Boston Red Sox,62.03,0.33,0.4,0.6,58.23,0.33,0.4,0.6
+29-09-2017,Houston Astros,Boston Red Sox,62.26,0.33,0.6,0.6,57.86,0.33,0.6,0.6
+30-09-2017,Houston Astros,Boston Red Sox,62.5,0.33,0.6,0.6,57.5,0.33,0.6,0.6
+01-10-2017,Houston Astros,Boston Red Sox,62.11,0.33,0.6,0.7,57.76,0.33,0.6,0.7
+04-04-2017,Detroit Tigers,Chicago White Sox,0,0.33,0.4,0.2,0,0.33,0.4,0.2
+06-04-2017,Detroit Tigers,Chicago White Sox,100.0,nan,nan,nan,0.0,nan,nan,nan
+07-04-2017,Minnesota Twins,Chicago White Sox,100.0,0.33,nan,nan,50.0,0.33,nan,nan
+08-04-2017,Minnesota Twins,Chicago White Sox,100.0,0.33,0.6,nan,33.33,0.33,0.6,nan
+09-04-2017,Minnesota Twins,Chicago White Sox,80.0,0.33,0.6,nan,50.0,0.33,0.6,nan
+21-04-2017,Cleveland Indians,Chicago White Sox,53.33,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+22-04-2017,Cleveland Indians,Chicago White Sox,56.25,0.33,0.6,0.4,46.67,0.33,0.6,0.4
+23-04-2017,Cleveland Indians,Chicago White Sox,58.82,0.33,0.6,0.5,43.75,0.33,0.6,0.5
+24-04-2017,Kansas City Royals,Chicago White Sox,38.89,0.0,0.0,0.4,47.06,0.0,0.0,0.4
+25-04-2017,Kansas City Royals,Chicago White Sox,36.84,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+26-04-2017,Kansas City Royals,Chicago White Sox,35.0,0.0,0.0,0.2,52.63,0.0,0.0,0.2
+09-05-2017,Minnesota Twins,Chicago White Sox,51.72,0.0,0.2,0.5,50.0,0.0,0.2,0.5
+11-05-2017,Minnesota Twins,Chicago White Sox,53.33,0.0,0.2,0.5,48.39,0.0,0.2,0.5
+12-05-2017,San Diego Padres,Chicago White Sox,36.11,0.0,0.2,0.2,46.88,0.0,0.2,0.2
+13-05-2017,San Diego Padres,Chicago White Sox,37.84,0.0,0.0,0.1,45.45,0.0,0.0,0.1
+14-05-2017,San Diego Padres,Chicago White Sox,36.84,0.33,0.2,0.2,47.06,0.33,0.2,0.2
+26-05-2017,Detroit Tigers,Chicago White Sox,47.83,0.33,0.2,0.4,44.44,0.33,0.2,0.4
+28-05-2017,Detroit Tigers,Chicago White Sox,46.94,0.0,0.0,0.2,45.83,0.0,0.0,0.2
+29-05-2017,Boston Red Sox,Chicago White Sox,55.1,0.33,0.6,0.6,46.94,0.33,0.6,0.6
+30-05-2017,Boston Red Sox,Chicago White Sox,54.0,0.0,0.4,0.6,48.0,0.0,0.4,0.6
+31-05-2017,Boston Red Sox,Chicago White Sox,54.9,0.0,0.2,0.6,47.06,0.0,0.2,0.6
+12-06-2017,Baltimore Orioles,Chicago White Sox,50.82,0.0,0.0,0.3,42.62,0.0,0.0,0.3
+13-06-2017,Baltimore Orioles,Chicago White Sox,50.0,0.0,0.0,0.2,43.55,0.0,0.0,0.2
+14-06-2017,Baltimore Orioles,Chicago White Sox,49.21,0.0,0.0,0.2,44.44,0.0,0.0,0.2
+15-06-2017,Baltimore Orioles,Chicago White Sox,50.0,0.0,0.0,0.2,43.75,0.0,0.0,0.2
+23-06-2017,Oakland Athletics,Chicago White Sox,42.47,0.0,0.0,0.4,45.07,0.0,0.0,0.4
+24-06-2017,Oakland Athletics,Chicago White Sox,43.24,0.0,0.0,0.4,44.44,0.0,0.0,0.4
+25-06-2017,Oakland Athletics,Chicago White Sox,44.0,0.33,0.2,0.4,43.84,0.33,0.2,0.4
+26-06-2017,New York Yankees,Chicago White Sox,54.79,0.0,0.2,0.2,43.24,0.0,0.2,0.2
+27-06-2017,New York Yankees,Chicago White Sox,55.41,0.0,0.2,0.2,42.67,0.0,0.2,0.2
+28-06-2017,New York Yankees,Chicago White Sox,54.67,0.33,0.2,0.3,43.42,0.33,0.2,0.3
+29-06-2017,New York Yankees,Chicago White Sox,55.26,0.0,0.2,0.3,42.86,0.0,0.2,0.3
+30-06-2017,Texas Rangers,Chicago White Sox,49.37,0.0,0.2,0.4,43.59,0.0,0.2,0.4
+01-07-2017,Texas Rangers,Chicago White Sox,48.75,0.0,0.2,0.4,44.3,0.0,0.2,0.4
+02-07-2017,Texas Rangers,Chicago White Sox,49.38,0.0,0.0,0.3,43.75,0.0,0.0,0.3
+14-07-2017,Seattle Mariners,Chicago White Sox,47.78,0.0,0.2,0.2,43.68,0.0,0.2,0.2
+15-07-2017,Seattle Mariners,Chicago White Sox,48.35,0.33,0.4,0.3,43.18,0.33,0.4,0.3
+16-07-2017,Seattle Mariners,Chicago White Sox,48.91,0.33,0.4,0.3,42.7,0.33,0.4,0.3
+18-07-2017,Los Angeles Dodgers,Chicago White Sox,68.82,0.33,0.6,0.8,42.22,0.33,0.6,0.8
+19-07-2017,Los Angeles Dodgers,Chicago White Sox,69.15,0.33,0.6,0.8,41.76,0.33,0.6,0.8
+26-07-2017,Chicago Cubs,Chicago White Sox,52.53,0.0,0.4,0.6,40.21,0.0,0.4,0.6
+27-07-2017,Chicago Cubs,Chicago White Sox,53.0,0.33,0.4,0.6,39.8,0.33,0.4,0.6
+28-07-2017,Cleveland Indians,Chicago White Sox,55.0,0.33,0.6,0.6,39.39,0.33,0.6,0.6
+29-07-2017,Cleveland Indians,Chicago White Sox,55.45,0.33,0.6,0.7,39.0,0.33,0.6,0.7
+30-07-2017,Cleveland Indians,Chicago White Sox,55.88,0.33,0.6,0.8,38.61,0.33,0.6,0.8
+31-07-2017,Toronto Blue Jays,Chicago White Sox,46.67,0.0,0.2,0.4,39.22,0.0,0.2,0.4
+01-08-2017,Toronto Blue Jays,Chicago White Sox,46.23,0.33,0.2,0.5,39.81,0.33,0.2,0.5
+02-08-2017,Toronto Blue Jays,Chicago White Sox,46.73,0.0,0.2,0.5,39.42,0.0,0.2,0.5
+08-08-2017,Houston Astros,Chicago White Sox,63.96,0.0,0.2,0.2,37.61,0.0,0.2,0.2
+09-08-2017,Houston Astros,Chicago White Sox,63.39,0.33,0.4,0.3,38.18,0.33,0.4,0.3
+10-08-2017,Houston Astros,Chicago White Sox,62.83,0.0,0.2,0.3,38.74,0.0,0.2,0.3
+11-08-2017,Kansas City Royals,Chicago White Sox,50.0,0.0,0.0,0.2,39.29,0.0,0.0,0.2
+12-08-2017,Kansas City Royals,Chicago White Sox,49.57,0.0,0.0,0.2,39.82,0.0,0.0,0.2
+13-08-2017,Kansas City Royals,Chicago White Sox,50.0,0.0,0.0,0.1,39.47,0.0,0.0,0.1
+22-08-2017,Minnesota Twins,Chicago White Sox,51.61,0.0,0.4,0.5,39.02,0.0,0.4,0.5
+23-08-2017,Minnesota Twins,Chicago White Sox,52.0,0.33,0.4,0.5,38.71,0.33,0.4,0.5
+24-08-2017,Minnesota Twins,Chicago White Sox,51.59,0.33,0.4,0.6,39.2,0.33,0.4,0.6
+25-08-2017,Detroit Tigers,Chicago White Sox,43.65,0.0,0.2,0.1,39.68,0.0,0.2,0.1
+26-08-2017,Detroit Tigers,Chicago White Sox,43.31,0.33,0.2,0.2,40.16,0.33,0.2,0.2
+27-08-2017,Detroit Tigers,Chicago White Sox,43.75,0.0,0.2,0.2,39.84,0.0,0.2,0.2
+01-09-2017,Tampa Bay Rays,Chicago White Sox,49.63,0.0,0.4,0.5,39.39,0.0,0.4,0.5
+02-09-2017,Tampa Bay Rays,Chicago White Sox,50.0,0.33,0.4,0.5,39.1,0.33,0.4,0.5
+03-09-2017,Tampa Bay Rays,Chicago White Sox,49.64,0.33,0.4,0.6,39.55,0.33,0.4,0.6
+04-09-2017,Cleveland Indians,Chicago White Sox,58.82,0.33,0.6,0.8,40.0,0.33,0.6,0.8
+05-09-2017,Cleveland Indians,Chicago White Sox,59.12,0.33,0.6,0.8,39.71,0.33,0.6,0.8
+06-09-2017,Cleveland Indians,Chicago White Sox,59.42,0.33,0.6,0.8,39.42,0.33,0.6,0.8
+07-09-2017,Cleveland Indians,Chicago White Sox,59.71,0.33,0.6,0.8,39.13,0.33,0.6,0.8
+08-09-2017,San Francisco Giants,Chicago White Sox,38.73,0.0,0.0,0.1,38.85,0.0,0.0,0.1
+09-09-2017,San Francisco Giants,Chicago White Sox,39.16,0.33,0.2,0.2,38.57,0.33,0.2,0.2
+10-09-2017,San Francisco Giants,Chicago White Sox,38.89,0.33,0.4,0.3,39.01,0.33,0.4,0.3
+22-09-2017,Kansas City Royals,Chicago White Sox,49.34,0.33,0.2,0.3,40.13,0.33,0.2,0.3
+23-09-2017,Kansas City Royals,Chicago White Sox,49.02,0.33,0.4,0.3,40.52,0.33,0.4,0.3
+24-09-2017,Kansas City Royals,Chicago White Sox,49.35,0.0,0.4,0.3,40.26,0.0,0.4,0.3
+25-09-2017,Los Angeles Angels,Chicago White Sox,49.68,0.0,0.0,0.2,40.65,0.0,0.0,0.2
+26-09-2017,Los Angeles Angels,Chicago White Sox,49.36,0.33,0.2,0.2,41.03,0.33,0.2,0.2
+27-09-2017,Los Angeles Angels,Chicago White Sox,49.68,0.0,0.2,0.1,40.76,0.0,0.2,0.1
+28-09-2017,Los Angeles Angels,Chicago White Sox,49.37,0.33,0.4,0.2,41.14,0.33,0.4,0.2
+10-04-2017,Los Angeles Dodgers,Chicago Cubs,57.14,0.0,0.2,nan,66.67,0.0,0.2,nan
+12-04-2017,Los Angeles Dodgers,Chicago Cubs,50.0,0.33,0.2,nan,71.43,0.33,0.2,nan
+13-04-2017,Los Angeles Dodgers,Chicago Cubs,55.56,0.0,0.2,0.4,62.5,0.0,0.2,0.4
+14-04-2017,Pittsburgh Pirates,Chicago Cubs,33.33,0.0,0.0,0.3,66.67,0.0,0.0,0.3
+15-04-2017,Pittsburgh Pirates,Chicago Cubs,40.0,0.0,0.0,0.3,60.0,0.0,0.0,0.3
+16-04-2017,Pittsburgh Pirates,Chicago Cubs,45.45,0.33,0.2,0.4,54.55,0.33,0.2,0.4
+17-04-2017,Milwaukee Brewers,Chicago Cubs,53.85,0.0,0.4,0.5,50.0,0.0,0.4,0.5
+18-04-2017,Milwaukee Brewers,Chicago Cubs,57.14,0.33,0.4,0.5,46.15,0.33,0.4,0.5
+19-04-2017,Milwaukee Brewers,Chicago Cubs,53.33,0.33,0.4,0.6,50.0,0.33,0.4,0.6
+01-05-2017,Philadelphia Phillies,Chicago Cubs,47.83,0.0,0.2,0.6,54.17,0.0,0.2,0.6
+02-05-2017,Philadelphia Phillies,Chicago Cubs,50.0,0.0,0.0,0.5,52.0,0.0,0.0,0.5
+03-05-2017,Philadelphia Phillies,Chicago Cubs,48.0,0.33,0.2,0.5,53.85,0.33,0.2,0.5
+04-05-2017,Philadelphia Phillies,Chicago Cubs,46.15,0.0,0.2,0.4,55.56,0.0,0.2,0.4
+05-05-2017,New York Yankees,Chicago Cubs,65.38,0.33,0.2,0.5,57.14,0.33,0.2,0.5
+06-05-2017,New York Yankees,Chicago Cubs,66.67,0.33,0.4,0.6,55.17,0.33,0.4,0.6
+07-05-2017,New York Yankees,Chicago Cubs,67.86,0.33,0.6,0.6,53.33,0.33,0.6,0.6
+16-05-2017,Cincinnati Reds,Chicago Cubs,51.35,0.0,0.2,0.5,48.65,0.0,0.2,0.5
+17-05-2017,Cincinnati Reds,Chicago Cubs,50.0,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+18-05-2017,Cincinnati Reds,Chicago Cubs,48.72,0.0,0.0,0.3,51.28,0.0,0.0,0.3
+19-05-2017,Milwaukee Brewers,Chicago Cubs,57.14,0.33,0.4,0.6,52.5,0.33,0.4,0.6
+21-05-2017,Milwaukee Brewers,Chicago Cubs,58.14,0.33,0.6,0.6,51.22,0.33,0.6,0.6
+22-05-2017,San Francisco Giants,Chicago Cubs,42.22,0.33,0.4,0.7,52.38,0.33,0.4,0.7
+23-05-2017,San Francisco Giants,Chicago Cubs,43.48,0.0,0.4,0.6,51.16,0.0,0.4,0.6
+24-05-2017,San Francisco Giants,Chicago Cubs,42.55,0.33,0.4,0.6,52.27,0.33,0.4,0.6
+25-05-2017,San Francisco Giants,Chicago Cubs,41.67,0.0,0.2,0.5,53.33,0.0,0.2,0.5
+02-06-2017,St. Louis Cardinals,Chicago Cubs,50.98,0.33,0.2,0.3,48.08,0.33,0.2,0.3
+03-06-2017,St. Louis Cardinals,Chicago Cubs,50.0,0.33,0.4,0.3,49.06,0.33,0.4,0.3
+04-06-2017,St. Louis Cardinals,Chicago Cubs,49.06,0.0,0.4,0.3,50.0,0.0,0.4,0.3
+05-06-2017,Miami Marlins,Chicago Cubs,43.64,0.33,0.4,0.6,50.91,0.33,0.4,0.6
+06-06-2017,Miami Marlins,Chicago Cubs,42.86,0.33,0.6,0.7,51.79,0.33,0.6,0.7
+07-06-2017,Miami Marlins,Chicago Cubs,42.11,0.0,0.4,0.6,52.63,0.0,0.4,0.6
+08-06-2017,Colorado Rockies,Chicago Cubs,62.3,0.33,0.6,0.4,51.72,0.33,0.6,0.4
+09-06-2017,Colorado Rockies,Chicago Cubs,62.9,0.33,0.6,0.5,50.85,0.33,0.6,0.5
+10-06-2017,Colorado Rockies,Chicago Cubs,63.49,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+11-06-2017,Colorado Rockies,Chicago Cubs,64.06,0.33,0.6,0.7,49.18,0.33,0.6,0.7
+19-06-2017,San Diego Padres,Chicago Cubs,40.0,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+20-06-2017,San Diego Padres,Chicago Cubs,39.44,0.0,0.2,0.4,50.72,0.0,0.2,0.4
+21-06-2017,San Diego Padres,Chicago Cubs,38.89,0.0,0.2,0.4,51.43,0.0,0.2,0.4
+04-07-2017,Tampa Bay Rays,Chicago Cubs,51.19,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+05-07-2017,Tampa Bay Rays,Chicago Cubs,51.76,0.0,0.4,0.3,49.4,0.0,0.4,0.3
+06-07-2017,Milwaukee Brewers,Chicago Cubs,54.02,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+07-07-2017,Pittsburgh Pirates,Chicago Cubs,46.51,0.33,0.4,0.4,49.41,0.33,0.4,0.4
+08-07-2017,Pittsburgh Pirates,Chicago Cubs,45.98,0.33,0.6,0.4,50.0,0.33,0.6,0.4
+09-07-2017,Pittsburgh Pirates,Chicago Cubs,46.59,0.0,0.4,0.3,49.43,0.0,0.4,0.3
+21-07-2017,St. Louis Cardinals,Chicago Cubs,48.42,0.0,0.4,0.5,52.13,0.0,0.4,0.5
+22-07-2017,St. Louis Cardinals,Chicago Cubs,48.96,0.0,0.2,0.4,51.58,0.0,0.2,0.4
+23-07-2017,St. Louis Cardinals,Chicago Cubs,48.45,0.33,0.2,0.4,52.08,0.33,0.2,0.4
+24-07-2017,Chicago White Sox,Chicago Cubs,40.0,0.0,0.0,0.0,52.58,0.0,0.0,0.0
+25-07-2017,Chicago White Sox,Chicago Cubs,40.62,0.0,0.0,0.0,52.04,0.0,0.0,0.0
+01-08-2017,Arizona Diamondbacks,Chicago Cubs,57.14,0.33,0.4,0.4,53.85,0.33,0.4,0.4
+02-08-2017,Arizona Diamondbacks,Chicago Cubs,56.6,0.0,0.2,0.4,54.29,0.0,0.2,0.4
+03-08-2017,Arizona Diamondbacks,Chicago Cubs,57.01,0.0,0.2,0.4,53.77,0.0,0.2,0.4
+04-08-2017,Washington Nationals,Chicago Cubs,59.43,0.0,0.4,0.4,53.27,0.0,0.4,0.4
+05-08-2017,Washington Nationals,Chicago Cubs,59.81,0.0,0.2,0.4,52.78,0.0,0.2,0.4
+06-08-2017,Washington Nationals,Chicago Cubs,59.26,0.33,0.2,0.4,53.21,0.33,0.2,0.4
+14-08-2017,Cincinnati Reds,Chicago Cubs,41.53,0.0,0.4,0.4,52.59,0.0,0.4,0.4
+15-08-2017,Cincinnati Reds,Chicago Cubs,41.18,0.0,0.2,0.4,52.99,0.0,0.2,0.4
+16-08-2017,Cincinnati Reds,Chicago Cubs,41.67,0.0,0.0,0.4,52.54,0.0,0.0,0.4
+17-08-2017,Cincinnati Reds,Chicago Cubs,41.32,0.33,0.2,0.4,52.94,0.33,0.2,0.4
+18-08-2017,Toronto Blue Jays,Chicago Cubs,48.76,0.33,0.4,0.5,52.5,0.33,0.4,0.5
+19-08-2017,Toronto Blue Jays,Chicago Cubs,48.36,0.33,0.4,0.6,52.89,0.33,0.4,0.6
+20-08-2017,Toronto Blue Jays,Chicago Cubs,47.97,0.0,0.4,0.5,53.28,0.0,0.4,0.5
+28-08-2017,Pittsburgh Pirates,Chicago Cubs,48.09,0.33,0.2,0.4,53.49,0.33,0.2,0.4
+29-08-2017,Pittsburgh Pirates,Chicago Cubs,47.73,0.33,0.4,0.4,53.85,0.33,0.4,0.4
+30-08-2017,Pittsburgh Pirates,Chicago Cubs,47.37,0.0,0.4,0.3,54.2,0.0,0.4,0.3
+31-08-2017,Atlanta Braves,Chicago Cubs,45.04,0.33,0.2,0.3,54.55,0.33,0.2,0.3
+01-09-2017,Atlanta Braves,Chicago Cubs,44.7,0.33,0.4,0.4,54.89,0.33,0.4,0.4
+02-09-2017,Atlanta Braves,Chicago Cubs,44.36,0.0,0.4,0.3,55.22,0.0,0.4,0.3
+03-09-2017,Atlanta Braves,Chicago Cubs,44.03,0.0,0.2,0.3,55.56,0.0,0.2,0.3
+08-09-2017,Milwaukee Brewers,Chicago Cubs,51.43,0.0,0.2,0.4,55.0,0.0,0.2,0.4
+09-09-2017,Milwaukee Brewers,Chicago Cubs,51.77,0.0,0.0,0.4,54.61,0.0,0.0,0.4
+10-09-2017,Milwaukee Brewers,Chicago Cubs,52.11,0.33,0.2,0.4,54.23,0.33,0.2,0.4
+12-09-2017,New York Mets,Chicago Cubs,44.06,0.33,0.6,0.5,53.85,0.33,0.6,0.5
+13-09-2017,New York Mets,Chicago Cubs,43.75,0.0,0.4,0.5,54.17,0.0,0.4,0.5
+14-09-2017,New York Mets,Chicago Cubs,43.45,0.0,0.2,0.5,54.48,0.0,0.2,0.5
+15-09-2017,St. Louis Cardinals,Chicago Cubs,52.74,0.0,0.4,0.6,54.79,0.0,0.4,0.6
+16-09-2017,St. Louis Cardinals,Chicago Cubs,52.38,0.33,0.4,0.6,55.1,0.33,0.4,0.6
+17-09-2017,St. Louis Cardinals,Chicago Cubs,52.03,0.0,0.2,0.5,55.41,0.0,0.2,0.5
+29-09-2017,Cincinnati Reds,Chicago Cubs,42.14,0.33,0.2,0.1,56.6,0.33,0.2,0.1
+30-09-2017,Cincinnati Reds,Chicago Cubs,41.88,0.0,0.2,0.1,56.88,0.0,0.2,0.1
+01-10-2017,Cincinnati Reds,Chicago Cubs,41.61,0.0,0.2,0.1,57.14,0.0,0.2,0.1
+03-04-2017,Philadelphia Phillies,Cincinnati Reds,0,0.0,0.4,0.4,0,0.0,0.4,0.4
+05-04-2017,Philadelphia Phillies,Cincinnati Reds,100.0,nan,nan,nan,0.0,nan,nan,nan
+06-04-2017,Philadelphia Phillies,Cincinnati Reds,50.0,0.33,nan,nan,50.0,0.33,nan,nan
+13-04-2017,Milwaukee Brewers,Cincinnati Reds,44.44,0.33,0.2,0.3,77.78,0.33,0.2,0.3
+14-04-2017,Milwaukee Brewers,Cincinnati Reds,50.0,0.33,0.4,0.4,70.0,0.33,0.4,0.4
+15-04-2017,Milwaukee Brewers,Cincinnati Reds,54.55,0.33,0.6,0.5,63.64,0.33,0.6,0.5
+16-04-2017,Milwaukee Brewers,Cincinnati Reds,50.0,0.33,0.6,0.5,66.67,0.33,0.6,0.5
+18-04-2017,Baltimore Orioles,Cincinnati Reds,72.73,0.0,0.4,0.5,61.54,0.0,0.4,0.5
+19-04-2017,Baltimore Orioles,Cincinnati Reds,66.67,0.33,0.4,0.5,64.29,0.33,0.4,0.5
+20-04-2017,Baltimore Orioles,Cincinnati Reds,69.23,0.0,0.2,0.4,60.0,0.0,0.2,0.4
+21-04-2017,Chicago Cubs,Cincinnati Reds,53.33,0.33,0.2,0.3,56.25,0.33,0.2,0.3
+22-04-2017,Chicago Cubs,Cincinnati Reds,56.25,0.33,0.4,0.3,52.94,0.33,0.4,0.3
+23-04-2017,Chicago Cubs,Cincinnati Reds,58.82,0.33,0.6,0.4,50.0,0.33,0.6,0.4
+01-05-2017,Pittsburgh Pirates,Cincinnati Reds,45.83,0.33,0.6,0.5,45.83,0.33,0.6,0.5
+02-05-2017,Pittsburgh Pirates,Cincinnati Reds,44.0,0.0,0.4,0.4,48.0,0.0,0.4,0.4
+03-05-2017,Pittsburgh Pirates,Cincinnati Reds,46.15,0.0,0.2,0.4,46.15,0.0,0.2,0.4
+04-05-2017,Pittsburgh Pirates,Cincinnati Reds,44.44,0.33,0.2,0.4,48.15,0.33,0.2,0.4
+05-05-2017,San Francisco Giants,Cincinnati Reds,37.93,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+06-05-2017,San Francisco Giants,Cincinnati Reds,36.67,0.33,0.4,0.4,51.72,0.33,0.4,0.4
+07-05-2017,San Francisco Giants,Cincinnati Reds,35.48,0.0,0.2,0.3,53.33,0.0,0.2,0.3
+08-05-2017,New York Yankees,Cincinnati Reds,68.97,0.33,0.6,0.6,54.84,0.33,0.6,0.6
+09-05-2017,New York Yankees,Cincinnati Reds,70.0,0.33,0.6,0.6,53.12,0.33,0.6,0.6
+19-05-2017,Colorado Rockies,Cincinnati Reds,61.9,0.33,0.6,0.5,47.5,0.33,0.6,0.5
+20-05-2017,Colorado Rockies,Cincinnati Reds,62.79,0.0,0.4,0.5,46.34,0.0,0.4,0.5
+21-05-2017,Colorado Rockies,Cincinnati Reds,61.36,0.33,0.4,0.5,47.62,0.33,0.4,0.5
+22-05-2017,Cleveland Indians,Cincinnati Reds,54.76,0.33,0.4,0.4,46.51,0.33,0.4,0.4
+23-05-2017,Cleveland Indians,Cincinnati Reds,53.49,0.33,0.6,0.5,47.73,0.33,0.6,0.5
+02-06-2017,Atlanta Braves,Cincinnati Reds,43.14,0.0,0.2,0.3,46.15,0.0,0.2,0.3
+03-06-2017,Atlanta Braves,Cincinnati Reds,42.31,0.0,0.2,0.2,47.17,0.0,0.2,0.2
+04-06-2017,Atlanta Braves,Cincinnati Reds,43.4,0.0,0.0,0.2,46.3,0.0,0.0,0.2
+05-06-2017,St. Louis Cardinals,Cincinnati Reds,48.15,0.0,0.2,0.3,45.45,0.0,0.2,0.3
+06-06-2017,St. Louis Cardinals,Cincinnati Reds,47.27,0.0,0.0,0.2,46.43,0.0,0.0,0.2
+07-06-2017,St. Louis Cardinals,Cincinnati Reds,46.43,0.0,0.0,0.2,47.37,0.0,0.0,0.2
+08-06-2017,St. Louis Cardinals,Cincinnati Reds,45.61,0.0,0.0,0.2,48.28,0.0,0.0,0.2
+16-06-2017,Los Angeles Dodgers,Cincinnati Reds,61.19,0.33,0.6,0.6,44.62,0.33,0.6,0.6
+17-06-2017,Los Angeles Dodgers,Cincinnati Reds,61.76,0.0,0.4,0.6,43.94,0.0,0.4,0.6
+18-06-2017,Los Angeles Dodgers,Cincinnati Reds,62.32,0.33,0.4,0.7,43.28,0.33,0.4,0.7
+27-06-2017,Milwaukee Brewers,Cincinnati Reds,52.56,0.0,0.2,0.3,41.33,0.0,0.2,0.3
+28-06-2017,Milwaukee Brewers,Cincinnati Reds,51.9,0.33,0.2,0.4,42.11,0.33,0.2,0.4
+29-06-2017,Milwaukee Brewers,Cincinnati Reds,51.25,0.0,0.2,0.3,42.86,0.0,0.2,0.3
+30-06-2017,Chicago Cubs,Cincinnati Reds,50.63,0.0,0.2,0.3,42.31,0.0,0.2,0.3
+01-07-2017,Chicago Cubs,Cincinnati Reds,50.0,0.33,0.2,0.4,43.04,0.33,0.2,0.4
+02-07-2017,Chicago Cubs,Cincinnati Reds,49.38,0.0,0.2,0.3,43.75,0.0,0.2,0.3
+14-07-2017,Washington Nationals,Cincinnati Reds,59.09,0.0,0.2,0.4,44.32,0.0,0.2,0.4
+15-07-2017,Washington Nationals,Cincinnati Reds,59.55,0.33,0.4,0.5,43.82,0.33,0.4,0.5
+16-07-2017,Washington Nationals,Cincinnati Reds,60.0,0.33,0.4,0.6,43.33,0.33,0.4,0.6
+17-07-2017,Washington Nationals,Cincinnati Reds,60.44,0.33,0.6,0.6,42.86,0.33,0.6,0.6
+18-07-2017,Arizona Diamondbacks,Cincinnati Reds,57.61,0.0,0.0,0.1,42.39,0.0,0.0,0.1
+19-07-2017,Arizona Diamondbacks,Cincinnati Reds,58.06,0.0,0.0,0.1,41.94,0.0,0.0,0.1
+20-07-2017,Arizona Diamondbacks,Cincinnati Reds,57.45,0.33,0.2,0.2,42.55,0.33,0.2,0.2
+21-07-2017,Miami Marlins,Cincinnati Reds,45.16,0.0,0.2,0.4,42.11,0.0,0.2,0.4
+22-07-2017,Miami Marlins,Cincinnati Reds,45.74,0.0,0.2,0.3,41.67,0.0,0.2,0.3
+23-07-2017,Miami Marlins,Cincinnati Reds,46.32,0.33,0.2,0.3,41.24,0.33,0.2,0.3
+04-08-2017,St. Louis Cardinals,Cincinnati Reds,49.07,0.33,0.4,0.5,40.74,0.33,0.4,0.5
+05-08-2017,St. Louis Cardinals,Cincinnati Reds,48.62,0.0,0.2,0.4,41.28,0.0,0.2,0.4
+06-08-2017,St. Louis Cardinals,Cincinnati Reds,49.09,0.0,0.2,0.3,40.91,0.0,0.2,0.3
+07-08-2017,San Diego Padres,Cincinnati Reds,44.55,0.33,0.2,0.5,40.54,0.33,0.2,0.5
+08-08-2017,San Diego Padres,Cincinnati Reds,44.14,0.0,0.2,0.4,41.07,0.0,0.2,0.4
+09-08-2017,San Diego Padres,Cincinnati Reds,44.64,0.0,0.2,0.3,40.71,0.0,0.2,0.3
+10-08-2017,San Diego Padres,Cincinnati Reds,44.25,0.33,0.2,0.3,41.23,0.33,0.2,0.3
+22-08-2017,Chicago Cubs,Cincinnati Reds,53.66,0.33,0.4,0.5,42.4,0.33,0.4,0.5
+23-08-2017,Chicago Cubs,Cincinnati Reds,54.03,0.33,0.6,0.6,42.06,0.33,0.6,0.6
+24-08-2017,Chicago Cubs,Cincinnati Reds,54.4,0.33,0.6,0.6,41.73,0.33,0.6,0.6
+25-08-2017,Pittsburgh Pirates,Cincinnati Reds,47.66,0.33,0.2,0.3,42.19,0.33,0.2,0.3
+26-08-2017,Pittsburgh Pirates,Cincinnati Reds,47.29,0.0,0.2,0.3,42.64,0.0,0.2,0.3
+27-08-2017,Pittsburgh Pirates,Cincinnati Reds,47.69,0.0,0.2,0.3,42.31,0.0,0.2,0.3
+29-08-2017,New York Mets,Cincinnati Reds,43.85,0.33,0.4,0.3,41.98,0.33,0.4,0.3
+30-08-2017,New York Mets,Cincinnati Reds,43.51,0.0,0.2,0.3,42.42,0.0,0.2,0.3
+31-08-2017,New York Mets,Cincinnati Reds,43.94,0.0,0.2,0.3,42.11,0.0,0.2,0.3
+04-09-2017,Milwaukee Brewers,Cincinnati Reds,52.55,0.0,0.4,0.5,42.34,0.0,0.4,0.5
+05-09-2017,Milwaukee Brewers,Cincinnati Reds,52.17,0.33,0.4,0.6,42.75,0.33,0.4,0.6
+06-09-2017,Milwaukee Brewers,Cincinnati Reds,51.8,0.0,0.2,0.5,43.17,0.0,0.2,0.5
+15-09-2017,Pittsburgh Pirates,Cincinnati Reds,46.26,0.0,0.2,0.2,42.86,0.0,0.2,0.2
+16-09-2017,Pittsburgh Pirates,Cincinnati Reds,45.95,0.0,0.2,0.1,43.24,0.0,0.2,0.1
+17-09-2017,Pittsburgh Pirates,Cincinnati Reds,45.64,0.0,0.0,0.1,43.62,0.0,0.0,0.1
+19-09-2017,St. Louis Cardinals,Cincinnati Reds,51.68,0.0,0.2,0.5,44.0,0.0,0.2,0.5
+20-09-2017,St. Louis Cardinals,Cincinnati Reds,52.0,0.0,0.0,0.4,43.71,0.0,0.0,0.4
+21-09-2017,St. Louis Cardinals,Cincinnati Reds,52.32,0.33,0.2,0.4,43.42,0.33,0.2,0.4
+22-09-2017,Boston Red Sox,Cincinnati Reds,57.89,0.33,0.4,0.6,43.14,0.33,0.4,0.6
+23-09-2017,Boston Red Sox,Cincinnati Reds,58.17,0.33,0.6,0.6,42.86,0.33,0.6,0.6
+24-09-2017,Boston Red Sox,Cincinnati Reds,58.44,0.33,0.6,0.7,42.58,0.33,0.6,0.7
+11-04-2017,Chicago White Sox,Cleveland Indians,40.0,0.33,0.4,nan,50.0,0.33,0.4,nan
+12-04-2017,Chicago White Sox,Cleveland Indians,33.33,0.0,0.2,nan,57.14,0.0,0.2,nan
+13-04-2017,Chicago White Sox,Cleveland Indians,42.86,0.0,0.2,nan,50.0,0.0,0.2,nan
+14-04-2017,Detroit Tigers,Cleveland Indians,66.67,0.33,0.6,0.6,44.44,0.33,0.6,0.6
+15-04-2017,Detroit Tigers,Cleveland Indians,70.0,0.0,0.4,0.5,40.0,0.0,0.4,0.5
+16-04-2017,Detroit Tigers,Cleveland Indians,63.64,0.33,0.4,0.6,45.45,0.33,0.4,0.6
+25-04-2017,Houston Astros,Cleveland Indians,68.42,0.0,0.4,0.6,55.56,0.0,0.4,0.6
+26-04-2017,Houston Astros,Cleveland Indians,70.0,0.33,0.4,0.6,52.63,0.33,0.4,0.6
+27-04-2017,Houston Astros,Cleveland Indians,66.67,0.33,0.4,0.6,55.0,0.33,0.4,0.6
+28-04-2017,Seattle Mariners,Cleveland Indians,43.48,0.33,0.4,0.3,57.14,0.33,0.4,0.3
+29-04-2017,Seattle Mariners,Cleveland Indians,45.83,0.33,0.4,0.4,54.55,0.33,0.4,0.4
+30-04-2017,Seattle Mariners,Cleveland Indians,44.0,0.33,0.6,0.4,56.52,0.33,0.6,0.4
+12-05-2017,Minnesota Twins,Cleveland Indians,54.84,0.33,0.2,0.5,54.55,0.33,0.2,0.5
+13-05-2017,Minnesota Twins,Cleveland Indians,56.25,0.33,0.4,0.5,52.94,0.33,0.4,0.5
+14-05-2017,Minnesota Twins,Cleveland Indians,57.58,0.33,0.6,0.5,51.43,0.33,0.6,0.5
+15-05-2017,Tampa Bay Rays,Cleveland Indians,47.5,0.0,0.2,0.3,52.78,0.0,0.2,0.3
+16-05-2017,Tampa Bay Rays,Cleveland Indians,46.34,0.33,0.4,0.3,54.05,0.33,0.4,0.3
+17-05-2017,Tampa Bay Rays,Cleveland Indians,47.62,0.0,0.2,0.3,52.63,0.0,0.2,0.3
+24-05-2017,Cincinnati Reds,Cleveland Indians,46.67,0.33,0.4,0.2,54.55,0.33,0.4,0.2
+26-05-2017,Kansas City Royals,Cleveland Indians,41.3,0.33,0.2,0.3,53.33,0.33,0.2,0.3
+27-05-2017,Kansas City Royals,Cleveland Indians,42.55,0.0,0.2,0.3,52.17,0.0,0.2,0.3
+28-05-2017,Kansas City Royals,Cleveland Indians,43.75,0.33,0.4,0.4,51.06,0.33,0.4,0.4
+29-05-2017,Oakland Athletics,Cleveland Indians,44.9,0.0,0.4,0.5,52.08,0.0,0.4,0.5
+30-05-2017,Oakland Athletics,Cleveland Indians,44.0,0.0,0.2,0.4,53.06,0.0,0.2,0.4
+31-05-2017,Oakland Athletics,Cleveland Indians,43.14,0.0,0.0,0.3,54.0,0.0,0.0,0.3
+01-06-2017,Oakland Athletics,Cleveland Indians,44.23,0.0,0.0,0.2,52.94,0.0,0.0,0.2
+09-06-2017,Chicago White Sox,Cleveland Indians,43.1,0.0,0.2,0.2,50.88,0.0,0.2,0.2
+10-06-2017,Chicago White Sox,Cleveland Indians,42.37,0.0,0.2,0.1,51.72,0.0,0.2,0.1
+11-06-2017,Chicago White Sox,Cleveland Indians,43.33,0.0,0.0,0.1,50.85,0.0,0.0,0.1
+13-06-2017,Los Angeles Dodgers,Cleveland Indians,60.94,0.33,0.6,0.5,51.67,0.33,0.6,0.5
+14-06-2017,Los Angeles Dodgers,Cleveland Indians,61.54,0.33,0.6,0.5,50.82,0.33,0.6,0.5
+15-06-2017,Los Angeles Dodgers,Cleveland Indians,62.12,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+23-06-2017,Minnesota Twins,Cleveland Indians,51.43,0.33,0.4,0.3,54.93,0.33,0.4,0.3
+24-06-2017,Minnesota Twins,Cleveland Indians,52.11,0.0,0.4,0.3,54.17,0.0,0.4,0.3
+25-06-2017,Minnesota Twins,Cleveland Indians,52.78,0.33,0.4,0.3,53.42,0.33,0.4,0.3
+26-06-2017,Texas Rangers,Cleveland Indians,50.67,0.33,0.4,0.4,52.7,0.33,0.4,0.4
+27-06-2017,Texas Rangers,Cleveland Indians,50.0,0.33,0.4,0.4,53.33,0.33,0.4,0.4
+28-06-2017,Texas Rangers,Cleveland Indians,50.65,0.0,0.4,0.4,52.63,0.0,0.4,0.4
+29-06-2017,Texas Rangers,Cleveland Indians,50.0,0.33,0.4,0.5,53.25,0.33,0.4,0.5
+04-07-2017,San Diego Padres,Cleveland Indians,41.46,0.0,0.2,0.4,54.32,0.0,0.2,0.4
+05-07-2017,San Diego Padres,Cleveland Indians,42.17,0.33,0.2,0.4,53.66,0.33,0.2,0.4
+06-07-2017,San Diego Padres,Cleveland Indians,42.86,0.33,0.4,0.4,53.01,0.33,0.4,0.4
+07-07-2017,Detroit Tigers,Cleveland Indians,45.24,0.0,0.2,0.4,53.57,0.0,0.2,0.4
+08-07-2017,Detroit Tigers,Cleveland Indians,44.71,0.33,0.4,0.4,54.12,0.33,0.4,0.4
+09-07-2017,Detroit Tigers,Cleveland Indians,44.19,0.0,0.2,0.4,54.65,0.0,0.2,0.4
+21-07-2017,Toronto Blue Jays,Cleveland Indians,46.32,0.0,0.2,0.3,51.61,0.0,0.2,0.3
+22-07-2017,Toronto Blue Jays,Cleveland Indians,45.83,0.33,0.2,0.3,52.13,0.33,0.2,0.3
+23-07-2017,Toronto Blue Jays,Cleveland Indians,45.36,0.0,0.2,0.3,52.63,0.0,0.2,0.3
+24-07-2017,Cincinnati Reds,Cleveland Indians,41.84,0.0,0.0,0.1,53.12,0.0,0.0,0.1
+25-07-2017,Los Angeles Angels,Cleveland Indians,49.0,0.33,0.4,0.4,53.61,0.33,0.4,0.4
+26-07-2017,Los Angeles Angels,Cleveland Indians,48.51,0.33,0.4,0.4,54.08,0.33,0.4,0.4
+27-07-2017,Los Angeles Angels,Cleveland Indians,48.04,0.0,0.4,0.4,54.55,0.0,0.4,0.4
+03-08-2017,New York Yankees,Cleveland Indians,53.77,0.0,0.2,0.6,54.29,0.0,0.2,0.6
+04-08-2017,New York Yankees,Cleveland Indians,53.27,0.0,0.2,0.5,54.72,0.0,0.2,0.5
+05-08-2017,New York Yankees,Cleveland Indians,52.78,0.0,0.0,0.4,55.14,0.0,0.0,0.4
+06-08-2017,New York Yankees,Cleveland Indians,53.21,0.0,0.0,0.3,54.63,0.0,0.0,0.3
+08-08-2017,Colorado Rockies,Cleveland Indians,57.14,0.33,0.6,0.6,54.13,0.33,0.6,0.6
+09-08-2017,Colorado Rockies,Cleveland Indians,56.64,0.0,0.4,0.5,54.55,0.0,0.4,0.5
+21-08-2017,Boston Red Sox,Cleveland Indians,57.72,0.0,0.4,0.5,55.74,0.0,0.4,0.5
+22-08-2017,Boston Red Sox,Cleveland Indians,57.26,0.33,0.4,0.6,56.1,0.33,0.4,0.6
+23-08-2017,Boston Red Sox,Cleveland Indians,57.6,0.0,0.2,0.5,55.65,0.0,0.2,0.5
+24-08-2017,Boston Red Sox,Cleveland Indians,57.94,0.33,0.4,0.5,55.2,0.33,0.4,0.5
+25-08-2017,Kansas City Royals,Cleveland Indians,50.79,0.33,0.6,0.5,55.56,0.33,0.6,0.5
+26-08-2017,Kansas City Royals,Cleveland Indians,50.39,0.0,0.4,0.4,55.91,0.0,0.4,0.4
+27-08-2017,Kansas City Royals,Cleveland Indians,50.0,0.0,0.2,0.4,56.25,0.0,0.2,0.4
+08-09-2017,Baltimore Orioles,Cleveland Indians,50.71,0.33,0.4,0.5,60.0,0.33,0.4,0.5
+09-09-2017,Baltimore Orioles,Cleveland Indians,50.35,0.0,0.2,0.4,60.28,0.0,0.2,0.4
+10-09-2017,Baltimore Orioles,Cleveland Indians,50.0,0.0,0.2,0.3,60.56,0.0,0.2,0.3
+11-09-2017,Detroit Tigers,Cleveland Indians,42.25,0.0,0.2,0.2,60.84,0.0,0.2,0.2
+12-09-2017,Detroit Tigers,Cleveland Indians,41.96,0.0,0.2,0.2,61.11,0.0,0.2,0.2
+13-09-2017,Detroit Tigers,Cleveland Indians,41.67,0.0,0.0,0.2,61.38,0.0,0.0,0.2
+14-09-2017,Kansas City Royals,Cleveland Indians,49.66,0.33,0.4,0.4,61.64,0.33,0.4,0.4
+15-09-2017,Kansas City Royals,Cleveland Indians,49.32,0.0,0.2,0.4,61.9,0.0,0.2,0.4
+16-09-2017,Kansas City Royals,Cleveland Indians,49.66,0.0,0.2,0.3,61.49,0.0,0.2,0.3
+17-09-2017,Kansas City Royals,Cleveland Indians,49.32,0.33,0.2,0.4,61.74,0.33,0.2,0.4
+26-09-2017,Minnesota Twins,Cleveland Indians,52.56,0.33,0.6,0.4,62.82,0.33,0.6,0.4
+27-09-2017,Minnesota Twins,Cleveland Indians,52.87,0.33,0.6,0.5,62.42,0.33,0.6,0.5
+28-09-2017,Minnesota Twins,Cleveland Indians,52.53,0.33,0.6,0.5,62.66,0.33,0.6,0.5
+29-09-2017,Chicago White Sox,Cleveland Indians,41.51,0.33,0.4,0.5,62.89,0.33,0.4,0.5
+30-09-2017,Chicago White Sox,Cleveland Indians,41.25,0.33,0.4,0.6,63.12,0.33,0.4,0.6
+01-10-2017,Chicago White Sox,Cleveland Indians,41.61,0.0,0.4,0.5,62.73,0.0,0.4,0.5
+07-04-2017,Los Angeles Dodgers,Colorado Rockies,75.0,0.33,0.4,nan,75.0,0.33,0.4,nan
+08-04-2017,Los Angeles Dodgers,Colorado Rockies,60.0,0.33,0.4,nan,80.0,0.33,0.4,nan
+09-04-2017,Los Angeles Dodgers,Colorado Rockies,50.0,0.0,0.4,nan,83.33,0.0,0.4,nan
+10-04-2017,San Diego Padres,Colorado Rockies,42.86,0.33,0.4,nan,71.43,0.33,0.4,nan
+11-04-2017,San Diego Padres,Colorado Rockies,50.0,0.0,0.4,nan,62.5,0.0,0.4,nan
+12-04-2017,San Diego Padres,Colorado Rockies,44.44,0.33,0.4,0.4,66.67,0.33,0.4,0.4
+21-04-2017,San Francisco Giants,Colorado Rockies,37.5,0.33,0.2,0.4,62.5,0.33,0.2,0.4
+22-04-2017,San Francisco Giants,Colorado Rockies,35.29,0.0,0.2,0.3,64.71,0.0,0.2,0.3
+23-04-2017,San Francisco Giants,Colorado Rockies,33.33,0.0,0.2,0.3,66.67,0.0,0.2,0.3
+24-04-2017,Washington Nationals,Colorado Rockies,72.22,0.33,0.6,0.7,68.42,0.33,0.6,0.7
+25-04-2017,Washington Nationals,Colorado Rockies,68.42,0.33,0.6,0.7,70.0,0.33,0.6,0.7
+26-04-2017,Washington Nationals,Colorado Rockies,70.0,0.0,0.4,0.7,66.67,0.0,0.4,0.7
+27-04-2017,Washington Nationals,Colorado Rockies,71.43,0.33,0.4,0.7,63.64,0.33,0.4,0.7
+05-05-2017,Arizona Diamondbacks,Colorado Rockies,56.67,0.0,0.4,0.4,62.07,0.0,0.4,0.4
+06-05-2017,Arizona Diamondbacks,Colorado Rockies,58.06,0.0,0.2,0.3,60.0,0.0,0.2,0.3
+07-05-2017,Arizona Diamondbacks,Colorado Rockies,56.25,0.33,0.2,0.4,61.29,0.33,0.2,0.4
+10-05-2017,Chicago Cubs,Colorado Rockies,51.52,0.0,0.0,0.3,61.76,0.0,0.0,0.3
+11-05-2017,Los Angeles Dodgers,Colorado Rockies,58.82,0.33,0.6,0.6,62.86,0.33,0.6,0.6
+12-05-2017,Los Angeles Dodgers,Colorado Rockies,57.14,0.33,0.6,0.6,63.89,0.33,0.6,0.6
+13-05-2017,Los Angeles Dodgers,Colorado Rockies,58.33,0.0,0.4,0.6,62.16,0.0,0.4,0.6
+14-05-2017,Los Angeles Dodgers,Colorado Rockies,59.46,0.33,0.4,0.6,60.53,0.33,0.4,0.6
+26-05-2017,St. Louis Cardinals,Colorado Rockies,52.27,0.33,0.4,0.3,63.27,0.33,0.4,0.3
+27-05-2017,St. Louis Cardinals,Colorado Rockies,51.11,0.0,0.2,0.2,64.0,0.0,0.2,0.2
+28-05-2017,St. Louis Cardinals,Colorado Rockies,52.17,0.0,0.2,0.2,62.75,0.0,0.2,0.2
+29-05-2017,Seattle Mariners,Colorado Rockies,43.14,0.0,0.2,0.1,63.46,0.0,0.2,0.1
+30-05-2017,Seattle Mariners,Colorado Rockies,44.23,0.33,0.2,0.2,62.26,0.33,0.2,0.2
+06-06-2017,Cleveland Indians,Colorado Rockies,52.73,0.0,0.2,0.4,61.02,0.0,0.2,0.4
+07-06-2017,Cleveland Indians,Colorado Rockies,51.79,0.33,0.2,0.5,61.67,0.33,0.2,0.5
+15-06-2017,San Francisco Giants,Colorado Rockies,38.81,0.0,0.2,0.3,61.76,0.0,0.2,0.3
+16-06-2017,San Francisco Giants,Colorado Rockies,38.24,0.0,0.2,0.2,62.32,0.0,0.2,0.2
+17-06-2017,San Francisco Giants,Colorado Rockies,37.68,0.0,0.0,0.2,62.86,0.0,0.0,0.2
+18-06-2017,San Francisco Giants,Colorado Rockies,37.14,0.0,0.0,0.2,63.38,0.0,0.0,0.2
+20-06-2017,Arizona Diamondbacks,Colorado Rockies,62.86,0.33,0.6,0.7,63.89,0.33,0.6,0.7
+21-06-2017,Arizona Diamondbacks,Colorado Rockies,61.97,0.33,0.6,0.7,64.38,0.33,0.6,0.7
+22-06-2017,Arizona Diamondbacks,Colorado Rockies,62.5,0.0,0.4,0.7,63.51,0.0,0.4,0.7
+03-07-2017,Cincinnati Reds,Colorado Rockies,43.21,0.33,0.4,0.5,57.14,0.33,0.4,0.5
+04-07-2017,Cincinnati Reds,Colorado Rockies,42.68,0.0,0.4,0.5,57.65,0.0,0.4,0.5
+05-07-2017,Cincinnati Reds,Colorado Rockies,43.37,0.0,0.2,0.4,56.98,0.0,0.2,0.4
+06-07-2017,Cincinnati Reds,Colorado Rockies,42.86,0.33,0.2,0.5,57.47,0.33,0.2,0.5
+07-07-2017,Chicago White Sox,Colorado Rockies,44.05,0.0,0.4,0.5,56.82,0.0,0.4,0.5
+08-07-2017,Chicago White Sox,Colorado Rockies,43.53,0.0,0.2,0.4,57.3,0.0,0.2,0.4
+09-07-2017,Chicago White Sox,Colorado Rockies,44.19,0.0,0.0,0.4,56.67,0.0,0.0,0.4
+17-07-2017,San Diego Padres,Colorado Rockies,43.96,0.33,0.2,0.5,56.38,0.33,0.2,0.5
+18-07-2017,San Diego Padres,Colorado Rockies,43.48,0.33,0.4,0.5,56.84,0.33,0.4,0.5
+19-07-2017,San Diego Padres,Colorado Rockies,43.01,0.0,0.4,0.4,57.29,0.0,0.4,0.4
+21-07-2017,Pittsburgh Pirates,Colorado Rockies,50.0,0.33,0.6,0.7,57.73,0.33,0.6,0.7
+22-07-2017,Pittsburgh Pirates,Colorado Rockies,50.52,0.33,0.6,0.7,57.14,0.33,0.6,0.7
+23-07-2017,Pittsburgh Pirates,Colorado Rockies,50.0,0.33,0.6,0.7,57.58,0.33,0.6,0.7
+01-08-2017,New York Mets,Colorado Rockies,46.6,0.0,0.2,0.4,56.6,0.0,0.2,0.4
+02-08-2017,New York Mets,Colorado Rockies,46.15,0.0,0.2,0.3,57.01,0.0,0.2,0.3
+03-08-2017,New York Mets,Colorado Rockies,46.67,0.0,0.0,0.3,56.48,0.0,0.0,0.3
+04-08-2017,Philadelphia Phillies,Colorado Rockies,36.79,0.0,0.2,0.5,56.88,0.0,0.2,0.5
+05-08-2017,Philadelphia Phillies,Colorado Rockies,36.45,0.0,0.0,0.5,57.27,0.0,0.0,0.5
+06-08-2017,Philadelphia Phillies,Colorado Rockies,36.11,0.0,0.0,0.4,57.66,0.0,0.0,0.4
+14-08-2017,Atlanta Braves,Colorado Rockies,45.22,0.0,0.0,0.2,55.56,0.0,0.0,0.2
+15-08-2017,Atlanta Braves,Colorado Rockies,44.83,0.33,0.2,0.3,55.93,0.33,0.2,0.3
+16-08-2017,Atlanta Braves,Colorado Rockies,45.3,0.0,0.2,0.2,55.46,0.0,0.2,0.2
+17-08-2017,Atlanta Braves,Colorado Rockies,44.92,0.33,0.4,0.2,55.83,0.33,0.4,0.2
+18-08-2017,Milwaukee Brewers,Colorado Rockies,51.64,0.33,0.6,0.3,55.37,0.33,0.6,0.3
+19-08-2017,Milwaukee Brewers,Colorado Rockies,51.22,0.33,0.6,0.4,55.74,0.33,0.6,0.4
+20-08-2017,Milwaukee Brewers,Colorado Rockies,51.61,0.0,0.4,0.4,55.28,0.0,0.4,0.4
+28-08-2017,Detroit Tigers,Colorado Rockies,43.41,0.33,0.4,0.3,54.62,0.33,0.4,0.3
+29-08-2017,Detroit Tigers,Colorado Rockies,43.85,0.0,0.2,0.3,54.2,0.0,0.2,0.3
+30-08-2017,Detroit Tigers,Colorado Rockies,43.51,0.33,0.4,0.4,54.55,0.33,0.4,0.4
+01-09-2017,Arizona Diamondbacks,Colorado Rockies,56.72,0.33,0.6,0.7,54.14,0.33,0.6,0.7
+02-09-2017,Arizona Diamondbacks,Colorado Rockies,57.04,0.33,0.6,0.7,53.73,0.33,0.6,0.7
+03-09-2017,Arizona Diamondbacks,Colorado Rockies,57.35,0.33,0.6,0.8,53.33,0.33,0.6,0.8
+04-09-2017,San Francisco Giants,Colorado Rockies,38.85,0.33,0.2,0.2,52.94,0.33,0.2,0.2
+05-09-2017,San Francisco Giants,Colorado Rockies,38.57,0.0,0.2,0.2,53.28,0.0,0.2,0.2
+06-09-2017,San Francisco Giants,Colorado Rockies,38.3,0.0,0.2,0.2,53.62,0.0,0.2,0.2
+15-09-2017,San Diego Padres,Colorado Rockies,44.52,0.0,0.2,0.3,54.42,0.0,0.2,0.3
+16-09-2017,San Diego Padres,Colorado Rockies,44.22,0.0,0.0,0.3,54.73,0.0,0.0,0.3
+17-09-2017,San Diego Padres,Colorado Rockies,43.92,0.0,0.0,0.3,55.03,0.0,0.0,0.3
+25-09-2017,Miami Marlins,Colorado Rockies,47.1,0.33,0.4,0.5,53.85,0.33,0.4,0.5
+26-09-2017,Miami Marlins,Colorado Rockies,47.44,0.0,0.2,0.5,53.5,0.0,0.2,0.5
+27-09-2017,Miami Marlins,Colorado Rockies,47.13,0.33,0.4,0.5,53.8,0.33,0.4,0.5
+29-09-2017,Los Angeles Dodgers,Colorado Rockies,64.15,0.33,0.6,0.5,54.09,0.33,0.6,0.5
+30-09-2017,Los Angeles Dodgers,Colorado Rockies,63.75,0.33,0.6,0.6,54.37,0.33,0.6,0.6
+01-10-2017,Los Angeles Dodgers,Colorado Rockies,63.98,0.0,0.4,0.6,54.04,0.0,0.4,0.6
+07-04-2017,Boston Red Sox,Detroit Tigers,100.0,0.33,nan,nan,50.0,0.33,nan,nan
+08-04-2017,Boston Red Sox,Detroit Tigers,66.67,0.33,nan,nan,66.67,0.33,nan,nan
+09-04-2017,Boston Red Sox,Detroit Tigers,50.0,0.0,0.4,nan,75.0,0.0,0.4,nan
+10-04-2017,Boston Red Sox,Detroit Tigers,60.0,0.0,0.2,nan,60.0,0.0,0.2,nan
+11-04-2017,Minnesota Twins,Detroit Tigers,83.33,0.0,0.4,nan,66.67,0.0,0.4,nan
+12-04-2017,Minnesota Twins,Detroit Tigers,71.43,0.33,0.4,nan,71.43,0.33,0.4,nan
+13-04-2017,Minnesota Twins,Detroit Tigers,62.5,0.0,0.2,nan,75.0,0.0,0.2,nan
+25-04-2017,Seattle Mariners,Detroit Tigers,40.0,0.0,0.0,0.4,55.56,0.0,0.0,0.4
+26-04-2017,Seattle Mariners,Detroit Tigers,38.1,0.33,0.2,0.4,57.89,0.33,0.2,0.4
+27-04-2017,Seattle Mariners,Detroit Tigers,40.91,0.0,0.2,0.3,55.0,0.0,0.2,0.3
+28-04-2017,Chicago White Sox,Detroit Tigers,55.0,0.33,0.6,0.4,52.38,0.33,0.6,0.4
+29-04-2017,Chicago White Sox,Detroit Tigers,57.14,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+30-04-2017,Chicago White Sox,Detroit Tigers,59.09,0.33,0.6,0.5,47.83,0.33,0.6,0.5
+01-05-2017,Cleveland Indians,Detroit Tigers,58.33,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+02-05-2017,Cleveland Indians,Detroit Tigers,56.0,0.33,0.4,0.5,52.0,0.33,0.4,0.5
+03-05-2017,Cleveland Indians,Detroit Tigers,53.85,0.0,0.4,0.4,53.85,0.0,0.4,0.4
+16-05-2017,Baltimore Orioles,Detroit Tigers,61.11,0.0,0.0,0.5,50.0,0.0,0.0,0.5
+17-05-2017,Baltimore Orioles,Detroit Tigers,62.16,0.0,0.0,0.4,48.65,0.0,0.0,0.4
+18-05-2017,Baltimore Orioles,Detroit Tigers,60.53,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+19-05-2017,Texas Rangers,Detroit Tigers,52.38,0.33,0.6,0.8,51.28,0.33,0.6,0.8
+20-05-2017,Texas Rangers,Detroit Tigers,53.49,0.33,0.6,0.8,50.0,0.33,0.6,0.8
+21-05-2017,Texas Rangers,Detroit Tigers,52.27,0.33,0.6,0.8,51.22,0.33,0.6,0.8
+02-06-2017,Chicago White Sox,Detroit Tigers,46.15,0.0,0.4,0.4,47.17,0.0,0.4,0.4
+03-06-2017,Chicago White Sox,Detroit Tigers,45.28,0.0,0.2,0.4,48.15,0.0,0.2,0.4
+04-06-2017,Chicago White Sox,Detroit Tigers,44.44,0.0,0.0,0.4,49.09,0.0,0.0,0.4
+06-06-2017,Los Angeles Angels,Detroit Tigers,48.33,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+07-06-2017,Los Angeles Angels,Detroit Tigers,49.18,0.0,0.2,0.3,49.12,0.0,0.2,0.3
+08-06-2017,Los Angeles Angels,Detroit Tigers,48.39,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+13-06-2017,Arizona Diamondbacks,Detroit Tigers,60.0,0.33,0.4,0.4,48.39,0.33,0.4,0.4
+14-06-2017,Arizona Diamondbacks,Detroit Tigers,60.61,0.33,0.4,0.5,47.62,0.33,0.4,0.5
+15-06-2017,Tampa Bay Rays,Detroit Tigers,51.47,0.33,0.4,0.6,46.88,0.33,0.4,0.6
+16-06-2017,Tampa Bay Rays,Detroit Tigers,50.72,0.0,0.4,0.6,47.69,0.0,0.4,0.6
+17-06-2017,Tampa Bay Rays,Detroit Tigers,50.0,0.0,0.2,0.5,48.48,0.0,0.2,0.5
+18-06-2017,Tampa Bay Rays,Detroit Tigers,50.7,0.0,0.0,0.4,47.76,0.0,0.0,0.4
+27-06-2017,Kansas City Royals,Detroit Tigers,50.0,0.33,0.6,0.6,44.0,0.33,0.6,0.6
+28-06-2017,Kansas City Royals,Detroit Tigers,49.33,0.0,0.4,0.5,44.74,0.0,0.4,0.5
+29-06-2017,Kansas City Royals,Detroit Tigers,50.0,0.0,0.2,0.5,44.16,0.0,0.2,0.5
+02-07-2017,Cleveland Indians,Detroit Tigers,53.75,0.0,0.4,0.3,45.0,0.0,0.4,0.3
+04-07-2017,San Francisco Giants,Detroit Tigers,39.29,0.33,0.6,0.5,44.44,0.33,0.6,0.5
+05-07-2017,San Francisco Giants,Detroit Tigers,38.82,0.33,0.6,0.6,45.12,0.33,0.6,0.6
+06-07-2017,San Francisco Giants,Detroit Tigers,39.53,0.0,0.4,0.6,44.58,0.0,0.4,0.6
+14-07-2017,Toronto Blue Jays,Detroit Tigers,46.59,0.33,0.4,0.4,44.83,0.33,0.4,0.4
+15-07-2017,Toronto Blue Jays,Detroit Tigers,47.19,0.0,0.2,0.4,44.32,0.0,0.2,0.4
+16-07-2017,Toronto Blue Jays,Detroit Tigers,46.67,0.33,0.4,0.5,44.94,0.33,0.4,0.5
+24-07-2017,Kansas City Royals,Detroit Tigers,51.55,0.33,0.6,0.5,46.39,0.33,0.6,0.5
+25-07-2017,Kansas City Royals,Detroit Tigers,52.04,0.33,0.6,0.6,45.92,0.33,0.6,0.6
+26-07-2017,Kansas City Royals,Detroit Tigers,52.53,0.33,0.6,0.6,45.45,0.33,0.6,0.6
+28-07-2017,Houston Astros,Detroit Tigers,66.34,0.33,0.4,0.5,45.0,0.33,0.4,0.5
+29-07-2017,Houston Astros,Detroit Tigers,66.67,0.0,0.4,0.5,44.55,0.0,0.4,0.5
+30-07-2017,Houston Astros,Detroit Tigers,66.02,0.33,0.4,0.5,45.1,0.33,0.4,0.5
+09-08-2017,Pittsburgh Pirates,Detroit Tigers,49.56,0.33,0.4,0.5,45.54,0.33,0.4,0.5
+10-08-2017,Pittsburgh Pirates,Detroit Tigers,49.12,0.33,0.6,0.5,46.02,0.33,0.6,0.5
+11-08-2017,Minnesota Twins,Detroit Tigers,50.44,0.33,0.6,0.6,45.61,0.33,0.6,0.6
+12-08-2017,Minnesota Twins,Detroit Tigers,50.88,0.33,0.6,0.6,45.22,0.33,0.6,0.6
+13-08-2017,Minnesota Twins,Detroit Tigers,50.43,0.33,0.6,0.7,45.69,0.33,0.6,0.7
+18-08-2017,Los Angeles Dodgers,Detroit Tigers,71.43,0.33,0.6,0.6,44.17,0.33,0.6,0.6
+19-08-2017,Los Angeles Dodgers,Detroit Tigers,71.67,0.33,0.6,0.6,43.8,0.33,0.6,0.6
+20-08-2017,Los Angeles Dodgers,Detroit Tigers,71.9,0.33,0.6,0.7,43.44,0.33,0.6,0.7
+22-08-2017,New York Yankees,Detroit Tigers,53.66,0.33,0.4,0.5,43.9,0.33,0.4,0.5
+23-08-2017,New York Yankees,Detroit Tigers,54.03,0.0,0.2,0.5,43.55,0.0,0.2,0.5
+24-08-2017,New York Yankees,Detroit Tigers,54.4,0.33,0.4,0.6,43.2,0.33,0.4,0.6
+02-09-2017,Cleveland Indians,Detroit Tigers,58.21,0.33,0.6,0.8,43.28,0.33,0.6,0.8
+03-09-2017,Cleveland Indians,Detroit Tigers,58.52,0.33,0.6,0.8,42.96,0.33,0.6,0.8
+04-09-2017,Kansas City Royals,Detroit Tigers,49.63,0.0,0.2,0.2,42.65,0.0,0.2,0.2
+05-09-2017,Kansas City Royals,Detroit Tigers,50.0,0.33,0.4,0.3,42.34,0.33,0.4,0.3
+06-09-2017,Kansas City Royals,Detroit Tigers,49.64,0.33,0.4,0.4,42.75,0.33,0.4,0.4
+14-09-2017,Chicago White Sox,Detroit Tigers,40.0,0.0,0.4,0.3,41.38,0.0,0.4,0.3
+15-09-2017,Chicago White Sox,Detroit Tigers,40.41,0.33,0.4,0.4,41.1,0.33,0.4,0.4
+16-09-2017,Chicago White Sox,Detroit Tigers,40.14,0.33,0.4,0.5,41.5,0.33,0.4,0.5
+17-09-2017,Chicago White Sox,Detroit Tigers,40.54,0.0,0.4,0.5,41.22,0.0,0.4,0.5
+18-09-2017,Oakland Athletics,Detroit Tigers,44.3,0.0,0.2,0.5,41.61,0.0,0.2,0.5
+19-09-2017,Oakland Athletics,Detroit Tigers,44.67,0.33,0.4,0.5,41.33,0.33,0.4,0.5
+20-09-2017,Oakland Athletics,Detroit Tigers,45.03,0.33,0.4,0.5,41.06,0.33,0.4,0.5
+21-09-2017,Minnesota Twins,Detroit Tigers,51.32,0.0,0.2,0.4,40.79,0.0,0.2,0.4
+22-09-2017,Minnesota Twins,Detroit Tigers,51.63,0.0,0.0,0.3,40.52,0.0,0.0,0.3
+23-09-2017,Minnesota Twins,Detroit Tigers,51.95,0.33,0.2,0.3,40.26,0.33,0.2,0.3
+24-09-2017,Minnesota Twins,Detroit Tigers,52.26,0.33,0.4,0.3,40.0,0.33,0.4,0.3
+03-04-2017,Seattle Mariners,Houston Astros,0,0.33,0.2,0.4,0,0.33,0.2,0.4
+04-04-2017,Seattle Mariners,Houston Astros,0.0,nan,nan,nan,100.0,nan,nan,nan
+05-04-2017,Seattle Mariners,Houston Astros,0.0,0.0,nan,nan,100.0,0.0,nan,nan
+06-04-2017,Seattle Mariners,Houston Astros,0.0,0.0,nan,nan,100.0,0.0,nan,nan
+07-04-2017,Kansas City Royals,Houston Astros,0.0,0.0,nan,nan,75.0,0.0,nan,nan
+08-04-2017,Kansas City Royals,Houston Astros,25.0,0.0,0.0,nan,60.0,0.0,0.0,nan
+09-04-2017,Kansas City Royals,Houston Astros,40.0,0.33,0.2,nan,50.0,0.33,0.2,nan
+17-04-2017,Los Angeles Angels,Houston Astros,46.15,0.0,0.0,0.4,66.67,0.0,0.0,0.4
+18-04-2017,Los Angeles Angels,Houston Astros,42.86,0.0,0.0,0.3,69.23,0.0,0.0,0.3
+19-04-2017,Los Angeles Angels,Houston Astros,46.67,0.0,0.0,0.2,64.29,0.0,0.0,0.2
+20-04-2017,Los Angeles Angels,Houston Astros,43.75,0.33,0.2,0.2,66.67,0.33,0.2,0.2
+28-04-2017,Oakland Athletics,Houston Astros,45.45,0.0,0.0,0.5,63.64,0.0,0.0,0.5
+29-04-2017,Oakland Athletics,Houston Astros,43.48,0.0,0.0,0.4,65.22,0.0,0.0,0.4
+30-04-2017,Oakland Athletics,Houston Astros,45.83,0.0,0.0,0.3,62.5,0.0,0.0,0.3
+01-05-2017,Texas Rangers,Houston Astros,44.0,0.33,0.4,0.5,64.0,0.33,0.4,0.5
+02-05-2017,Texas Rangers,Houston Astros,42.31,0.0,0.2,0.4,65.38,0.0,0.2,0.4
+03-05-2017,Texas Rangers,Houston Astros,40.74,0.0,0.2,0.3,66.67,0.0,0.2,0.3
+04-05-2017,Texas Rangers,Houston Astros,39.29,0.0,0.0,0.2,67.86,0.0,0.0,0.2
+09-05-2017,Atlanta Braves,Houston Astros,37.93,0.0,0.0,0.3,65.62,0.0,0.0,0.3
+10-05-2017,Atlanta Braves,Houston Astros,36.67,0.0,0.0,0.2,66.67,0.0,0.0,0.2
+19-05-2017,Cleveland Indians,Houston Astros,51.28,0.0,0.4,0.3,70.73,0.0,0.4,0.3
+20-05-2017,Cleveland Indians,Houston Astros,52.5,0.0,0.2,0.3,69.05,0.0,0.2,0.3
+21-05-2017,Cleveland Indians,Houston Astros,53.66,0.33,0.2,0.3,67.44,0.33,0.2,0.3
+22-05-2017,Detroit Tigers,Houston Astros,50.0,0.33,0.4,0.4,65.91,0.33,0.4,0.4
+23-05-2017,Detroit Tigers,Houston Astros,48.84,0.0,0.2,0.4,66.67,0.0,0.2,0.4
+24-05-2017,Detroit Tigers,Houston Astros,47.73,0.0,0.2,0.3,67.39,0.0,0.2,0.3
+25-05-2017,Detroit Tigers,Houston Astros,48.89,0.0,0.0,0.3,65.96,0.0,0.0,0.3
+26-05-2017,Baltimore Orioles,Houston Astros,55.56,0.0,0.0,0.3,66.67,0.0,0.0,0.3
+27-05-2017,Baltimore Orioles,Houston Astros,54.35,0.0,0.0,0.2,67.35,0.0,0.0,0.2
+28-05-2017,Baltimore Orioles,Houston Astros,53.19,0.0,0.0,0.2,68.0,0.0,0.0,0.2
+09-06-2017,Los Angeles Angels,Houston Astros,49.21,0.0,0.2,0.4,70.49,0.0,0.2,0.4
+10-06-2017,Los Angeles Angels,Houston Astros,50.0,0.33,0.4,0.4,69.35,0.33,0.4,0.4
+11-06-2017,Los Angeles Angels,Houston Astros,49.23,0.33,0.4,0.4,69.84,0.33,0.4,0.4
+12-06-2017,Texas Rangers,Houston Astros,48.39,0.33,0.4,0.3,68.75,0.33,0.4,0.3
+13-06-2017,Texas Rangers,Houston Astros,49.21,0.33,0.6,0.4,67.69,0.33,0.6,0.4
+14-06-2017,Texas Rangers,Houston Astros,50.0,0.33,0.6,0.5,66.67,0.33,0.6,0.5
+16-06-2017,Boston Red Sox,Houston Astros,56.06,0.33,0.6,0.5,67.16,0.33,0.6,0.5
+17-06-2017,Boston Red Sox,Houston Astros,56.72,0.0,0.4,0.5,66.18,0.0,0.4,0.5
+18-06-2017,Boston Red Sox,Houston Astros,55.88,0.33,0.4,0.6,66.67,0.33,0.4,0.6
+27-06-2017,Oakland Athletics,Houston Astros,44.74,0.33,0.4,0.4,67.53,0.33,0.4,0.4
+28-06-2017,Oakland Athletics,Houston Astros,45.45,0.33,0.6,0.4,66.67,0.33,0.6,0.4
+29-06-2017,Oakland Athletics,Houston Astros,44.87,0.33,0.6,0.4,67.09,0.33,0.6,0.4
+30-06-2017,New York Yankees,Houston Astros,54.55,0.33,0.4,0.4,67.5,0.33,0.4,0.4
+01-07-2017,New York Yankees,Houston Astros,55.13,0.0,0.2,0.3,66.67,0.0,0.2,0.3
+02-07-2017,New York Yankees,Houston Astros,54.43,0.33,0.4,0.4,67.07,0.33,0.4,0.4
+14-07-2017,Minnesota Twins,Houston Astros,51.14,0.0,0.4,0.5,67.42,0.0,0.4,0.5
+15-07-2017,Minnesota Twins,Houston Astros,50.56,0.0,0.2,0.4,67.78,0.0,0.2,0.4
+16-07-2017,Minnesota Twins,Houston Astros,51.11,0.0,0.0,0.4,67.03,0.0,0.0,0.4
+17-07-2017,Seattle Mariners,Houston Astros,49.46,0.33,0.6,0.4,67.39,0.33,0.6,0.4
+18-07-2017,Seattle Mariners,Houston Astros,50.0,0.33,0.6,0.5,66.67,0.33,0.6,0.5
+19-07-2017,Seattle Mariners,Houston Astros,49.47,0.33,0.6,0.6,67.02,0.33,0.6,0.6
+31-07-2017,Tampa Bay Rays,Houston Astros,50.94,0.0,0.0,0.2,65.38,0.0,0.0,0.2
+01-08-2017,Tampa Bay Rays,Houston Astros,50.47,0.33,0.2,0.3,65.71,0.33,0.2,0.3
+02-08-2017,Tampa Bay Rays,Houston Astros,50.93,0.0,0.2,0.3,65.09,0.0,0.2,0.3
+03-08-2017,Tampa Bay Rays,Houston Astros,51.38,0.33,0.4,0.4,64.49,0.33,0.4,0.4
+04-08-2017,Toronto Blue Jays,Houston Astros,47.22,0.33,0.4,0.5,63.89,0.33,0.4,0.5
+05-08-2017,Toronto Blue Jays,Houston Astros,46.79,0.33,0.4,0.5,64.22,0.33,0.4,0.5
+06-08-2017,Toronto Blue Jays,Houston Astros,47.27,0.0,0.4,0.4,63.64,0.0,0.4,0.4
+16-08-2017,Arizona Diamondbacks,Houston Astros,55.46,0.33,0.4,0.3,61.34,0.33,0.4,0.3
+17-08-2017,Arizona Diamondbacks,Houston Astros,55.0,0.0,0.2,0.3,61.67,0.0,0.2,0.3
+18-08-2017,Oakland Athletics,Houston Astros,43.8,0.33,0.4,0.3,61.16,0.33,0.4,0.3
+19-08-2017,Oakland Athletics,Houston Astros,43.44,0.0,0.2,0.3,61.48,0.0,0.2,0.3
+20-08-2017,Oakland Athletics,Houston Astros,43.09,0.0,0.2,0.3,61.79,0.0,0.2,0.3
+22-08-2017,Washington Nationals,Houston Astros,60.66,0.0,0.4,0.5,61.29,0.0,0.4,0.5
+23-08-2017,Washington Nationals,Houston Astros,60.98,0.33,0.4,0.5,60.8,0.33,0.4,0.5
+24-08-2017,Washington Nationals,Houston Astros,60.48,0.33,0.4,0.6,61.11,0.33,0.4,0.6
+29-08-2017,Texas Rangers,Houston Astros,49.23,0.0,0.2,0.4,60.77,0.0,0.2,0.4
+30-08-2017,Texas Rangers,Houston Astros,49.62,0.0,0.0,0.3,60.31,0.0,0.0,0.3
+31-08-2017,Texas Rangers,Houston Astros,50.0,0.33,0.2,0.4,59.85,0.33,0.2,0.4
+03-09-2017,New York Mets,Houston Astros,42.96,0.0,0.2,0.3,60.74,0.0,0.2,0.3
+15-09-2017,Seattle Mariners,Houston Astros,50.34,0.33,0.4,0.4,60.27,0.33,0.4,0.4
+16-09-2017,Seattle Mariners,Houston Astros,50.0,0.33,0.6,0.5,60.54,0.33,0.6,0.5
+17-09-2017,Seattle Mariners,Houston Astros,49.66,0.0,0.4,0.5,60.81,0.0,0.4,0.5
+19-09-2017,Chicago White Sox,Houston Astros,40.27,0.33,0.4,0.6,61.07,0.33,0.4,0.6
+20-09-2017,Chicago White Sox,Houston Astros,40.0,0.0,0.2,0.5,61.33,0.0,0.2,0.5
+21-09-2017,Chicago White Sox,Houston Astros,39.74,0.0,0.2,0.4,61.59,0.0,0.2,0.4
+22-09-2017,Los Angeles Angels,Houston Astros,50.0,0.0,0.0,0.3,61.18,0.0,0.0,0.3
+23-09-2017,Los Angeles Angels,Houston Astros,49.67,0.0,0.0,0.3,61.44,0.0,0.0,0.3
+24-09-2017,Los Angeles Angels,Houston Astros,49.35,0.0,0.0,0.2,61.69,0.0,0.0,0.2
+10-04-2017,Oakland Athletics,Kansas City Royals,42.86,0.33,0.4,nan,33.33,0.33,0.4,nan
+12-04-2017,Oakland Athletics,Kansas City Royals,50.0,0.0,0.2,nan,28.57,0.0,0.2,nan
+13-04-2017,Oakland Athletics,Kansas City Royals,55.56,0.33,0.4,0.4,25.0,0.33,0.4,0.4
+14-04-2017,Los Angeles Angels,Kansas City Royals,60.0,0.0,0.4,0.6,33.33,0.0,0.4,0.6
+15-04-2017,Los Angeles Angels,Kansas City Royals,54.55,0.0,0.2,0.5,40.0,0.0,0.2,0.5
+16-04-2017,Los Angeles Angels,Kansas City Royals,50.0,0.0,0.0,0.4,45.45,0.0,0.0,0.4
+18-04-2017,San Francisco Giants,Kansas City Royals,35.71,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+19-04-2017,San Francisco Giants,Kansas City Royals,40.0,0.0,0.2,0.4,46.15,0.0,0.2,0.4
+28-04-2017,Minnesota Twins,Kansas City Royals,47.62,0.33,0.4,0.3,33.33,0.33,0.4,0.3
+30-04-2017,Minnesota Twins,Kansas City Royals,50.0,0.0,0.4,0.3,31.82,0.0,0.4,0.3
+01-05-2017,Chicago White Sox,Kansas City Royals,56.52,0.33,0.6,0.6,30.43,0.33,0.6,0.6
+02-05-2017,Chicago White Sox,Kansas City Royals,54.17,0.0,0.4,0.6,33.33,0.0,0.4,0.6
+03-05-2017,Chicago White Sox,Kansas City Royals,56.0,0.0,0.2,0.6,32.0,0.0,0.2,0.6
+04-05-2017,Chicago White Sox,Kansas City Royals,53.85,0.33,0.2,0.6,34.62,0.33,0.2,0.6
+05-05-2017,Cleveland Indians,Kansas City Royals,55.56,0.0,0.2,0.4,33.33,0.0,0.2,0.4
+06-05-2017,Cleveland Indians,Kansas City Royals,53.57,0.33,0.2,0.5,35.71,0.33,0.2,0.5
+07-05-2017,Cleveland Indians,Kansas City Royals,55.17,0.0,0.2,0.4,34.48,0.0,0.2,0.4
+12-05-2017,Baltimore Orioles,Kansas City Royals,66.67,0.33,0.6,0.6,38.24,0.33,0.6,0.6
+13-05-2017,Baltimore Orioles,Kansas City Royals,64.71,0.0,0.4,0.6,40.0,0.0,0.4,0.6
+14-05-2017,Baltimore Orioles,Kansas City Royals,62.86,0.0,0.2,0.6,41.67,0.0,0.2,0.6
+16-05-2017,New York Yankees,Kansas City Royals,62.86,0.33,0.2,0.5,43.24,0.33,0.2,0.5
+17-05-2017,New York Yankees,Kansas City Royals,63.89,0.0,0.2,0.4,42.11,0.0,0.2,0.4
+18-05-2017,New York Yankees,Kansas City Royals,64.86,0.33,0.4,0.4,41.03,0.33,0.4,0.4
+29-05-2017,Detroit Tigers,Kansas City Royals,46.0,0.33,0.2,0.2,42.86,0.33,0.2,0.2
+30-05-2017,Detroit Tigers,Kansas City Royals,47.06,0.0,0.2,0.2,42.0,0.0,0.2,0.2
+31-05-2017,Detroit Tigers,Kansas City Royals,46.15,0.33,0.4,0.3,43.14,0.33,0.4,0.3
+02-06-2017,Cleveland Indians,Kansas City Royals,53.85,0.0,0.4,0.4,42.31,0.0,0.4,0.4
+03-06-2017,Cleveland Indians,Kansas City Royals,52.83,0.33,0.4,0.4,43.4,0.33,0.4,0.4
+04-06-2017,Cleveland Indians,Kansas City Royals,51.85,0.0,0.2,0.4,44.44,0.0,0.2,0.4
+05-06-2017,Houston Astros,Kansas City Royals,71.93,0.33,0.6,0.8,43.64,0.33,0.6,0.8
+06-06-2017,Houston Astros,Kansas City Royals,72.41,0.33,0.6,0.8,42.86,0.33,0.6,0.8
+07-06-2017,Houston Astros,Kansas City Royals,71.19,0.33,0.6,0.8,43.86,0.33,0.6,0.8
+08-06-2017,Houston Astros,Kansas City Royals,70.0,0.0,0.4,0.7,44.83,0.0,0.4,0.7
+19-06-2017,Boston Red Sox,Kansas City Royals,56.52,0.0,0.2,0.5,48.53,0.0,0.2,0.5
+20-06-2017,Boston Red Sox,Kansas City Royals,55.71,0.33,0.4,0.5,49.28,0.33,0.4,0.5
+21-06-2017,Boston Red Sox,Kansas City Royals,56.34,0.0,0.2,0.5,48.57,0.0,0.2,0.5
+23-06-2017,Toronto Blue Jays,Kansas City Royals,48.61,0.33,0.4,0.4,49.3,0.33,0.4,0.4
+24-06-2017,Toronto Blue Jays,Kansas City Royals,47.95,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+25-06-2017,Toronto Blue Jays,Kansas City Royals,47.3,0.0,0.2,0.3,50.68,0.0,0.2,0.3
+30-06-2017,Minnesota Twins,Kansas City Royals,51.95,0.33,0.2,0.5,49.35,0.33,0.2,0.5
+02-07-2017,Minnesota Twins,Kansas City Royals,51.25,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+14-07-2017,Texas Rangers,Kansas City Royals,48.86,0.33,0.6,0.4,50.57,0.33,0.6,0.4
+15-07-2017,Texas Rangers,Kansas City Royals,49.44,0.0,0.4,0.4,50.0,0.0,0.4,0.4
+16-07-2017,Texas Rangers,Kansas City Royals,50.0,0.33,0.4,0.4,49.44,0.33,0.4,0.4
+17-07-2017,Detroit Tigers,Kansas City Royals,45.56,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+18-07-2017,Detroit Tigers,Kansas City Royals,46.15,0.33,0.4,0.4,49.45,0.33,0.4,0.4
+19-07-2017,Detroit Tigers,Kansas City Royals,46.74,0.33,0.6,0.5,48.91,0.33,0.6,0.5
+20-07-2017,Detroit Tigers,Kansas City Royals,46.24,0.33,0.6,0.5,49.46,0.33,0.6,0.5
+21-07-2017,Chicago White Sox,Kansas City Royals,41.3,0.0,0.0,0.1,50.0,0.0,0.0,0.1
+22-07-2017,Chicago White Sox,Kansas City Royals,40.86,0.0,0.0,0.1,50.53,0.0,0.0,0.1
+23-07-2017,Chicago White Sox,Kansas City Royals,40.43,0.0,0.0,0.1,51.04,0.0,0.0,0.1
+03-08-2017,Seattle Mariners,Kansas City Royals,50.46,0.33,0.6,0.6,51.89,0.33,0.6,0.6
+04-08-2017,Seattle Mariners,Kansas City Royals,50.0,0.0,0.4,0.5,52.34,0.0,0.4,0.5
+07-08-2017,St. Louis Cardinals,Kansas City Royals,49.55,0.33,0.2,0.4,51.82,0.33,0.2,0.4
+08-08-2017,St. Louis Cardinals,Kansas City Royals,50.0,0.33,0.4,0.4,51.35,0.33,0.4,0.4
+18-08-2017,Cleveland Indians,Kansas City Royals,55.46,0.33,0.6,0.6,50.83,0.33,0.6,0.6
+19-08-2017,Cleveland Indians,Kansas City Royals,55.83,0.0,0.4,0.6,50.41,0.0,0.4,0.6
+20-08-2017,Cleveland Indians,Kansas City Royals,56.2,0.33,0.4,0.7,50.0,0.33,0.4,0.7
+22-08-2017,Colorado Rockies,Kansas City Royals,54.84,0.0,0.2,0.3,50.41,0.0,0.2,0.3
+23-08-2017,Colorado Rockies,Kansas City Royals,54.4,0.0,0.2,0.3,50.81,0.0,0.2,0.3
+24-08-2017,Colorado Rockies,Kansas City Royals,53.97,0.0,0.0,0.3,51.2,0.0,0.0,0.3
+28-08-2017,Tampa Bay Rays,Kansas City Royals,49.24,0.0,0.4,0.4,49.61,0.0,0.4,0.4
+29-08-2017,Tampa Bay Rays,Kansas City Royals,49.62,0.33,0.4,0.5,49.23,0.33,0.4,0.5
+30-08-2017,Tampa Bay Rays,Kansas City Royals,49.25,0.33,0.4,0.6,49.62,0.33,0.4,0.6
+07-09-2017,Minnesota Twins,Kansas City Royals,51.8,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+08-09-2017,Minnesota Twins,Kansas City Royals,52.14,0.33,0.2,0.4,49.64,0.33,0.2,0.4
+09-09-2017,Minnesota Twins,Kansas City Royals,52.48,0.33,0.4,0.4,49.29,0.33,0.4,0.4
+10-09-2017,Minnesota Twins,Kansas City Royals,52.11,0.33,0.6,0.4,49.65,0.33,0.6,0.4
+11-09-2017,Chicago White Sox,Kansas City Royals,39.44,0.33,0.2,0.3,50.0,0.33,0.2,0.3
+12-09-2017,Chicago White Sox,Kansas City Royals,39.86,0.33,0.4,0.3,49.65,0.33,0.4,0.3
+13-09-2017,Chicago White Sox,Kansas City Royals,39.58,0.33,0.6,0.3,50.0,0.33,0.6,0.3
+26-09-2017,Detroit Tigers,Kansas City Royals,39.74,0.0,0.0,0.1,48.72,0.0,0.0,0.1
+27-09-2017,Detroit Tigers,Kansas City Royals,39.49,0.0,0.0,0.1,49.04,0.0,0.0,0.1
+28-09-2017,Detroit Tigers,Kansas City Royals,39.24,0.0,0.0,0.0,49.37,0.0,0.0,0.0
+29-09-2017,Arizona Diamondbacks,Kansas City Royals,57.86,0.33,0.4,0.4,49.06,0.33,0.4,0.4
+30-09-2017,Arizona Diamondbacks,Kansas City Royals,57.5,0.33,0.4,0.5,49.38,0.33,0.4,0.5
+01-10-2017,Arizona Diamondbacks,Kansas City Royals,57.14,0.0,0.4,0.5,49.69,0.0,0.4,0.5
+03-04-2017,San Diego Padres,Los Angeles Dodgers,0,0.33,0.2,0.2,0,0.33,0.2,0.2
+04-04-2017,San Diego Padres,Los Angeles Dodgers,0.0,nan,nan,nan,100.0,nan,nan,nan
+05-04-2017,San Diego Padres,Los Angeles Dodgers,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+06-04-2017,San Diego Padres,Los Angeles Dodgers,33.33,0.33,nan,nan,66.67,0.33,nan,nan
+14-04-2017,Arizona Diamondbacks,Los Angeles Dodgers,70.0,0.33,0.4,0.6,50.0,0.33,0.4,0.6
+15-04-2017,Arizona Diamondbacks,Los Angeles Dodgers,63.64,0.0,0.2,0.6,54.55,0.0,0.2,0.6
+16-04-2017,Arizona Diamondbacks,Los Angeles Dodgers,58.33,0.0,0.2,0.5,58.33,0.0,0.2,0.5
+17-04-2017,Arizona Diamondbacks,Los Angeles Dodgers,61.54,0.0,0.0,0.4,53.85,0.0,0.0,0.4
+18-04-2017,Colorado Rockies,Los Angeles Dodgers,64.29,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+19-04-2017,Colorado Rockies,Los Angeles Dodgers,66.67,0.33,0.4,0.4,46.67,0.33,0.4,0.4
+28-04-2017,Philadelphia Phillies,Los Angeles Dodgers,55.0,0.33,0.6,0.6,47.83,0.33,0.6,0.6
+29-04-2017,Philadelphia Phillies,Los Angeles Dodgers,52.38,0.33,0.6,0.7,50.0,0.33,0.6,0.7
+30-04-2017,Philadelphia Phillies,Los Angeles Dodgers,50.0,0.0,0.4,0.6,52.0,0.0,0.4,0.6
+01-05-2017,San Francisco Giants,Los Angeles Dodgers,34.62,0.0,0.2,0.3,53.85,0.0,0.2,0.3
+02-05-2017,San Francisco Giants,Los Angeles Dodgers,37.04,0.0,0.2,0.3,51.85,0.0,0.2,0.3
+03-05-2017,San Francisco Giants,Los Angeles Dodgers,35.71,0.33,0.2,0.4,53.57,0.33,0.2,0.4
+08-05-2017,Pittsburgh Pirates,Los Angeles Dodgers,45.16,0.33,0.4,0.4,54.84,0.33,0.4,0.4
+09-05-2017,Pittsburgh Pirates,Los Angeles Dodgers,43.75,0.0,0.4,0.3,56.25,0.0,0.4,0.3
+10-05-2017,Pittsburgh Pirates,Los Angeles Dodgers,42.42,0.0,0.2,0.3,57.58,0.0,0.2,0.3
+18-05-2017,Miami Marlins,Los Angeles Dodgers,35.9,0.0,0.2,0.1,56.1,0.0,0.2,0.1
+19-05-2017,Miami Marlins,Los Angeles Dodgers,35.0,0.0,0.0,0.1,57.14,0.0,0.0,0.1
+20-05-2017,Miami Marlins,Los Angeles Dodgers,34.15,0.0,0.0,0.1,58.14,0.0,0.0,0.1
+21-05-2017,Miami Marlins,Los Angeles Dodgers,35.71,0.0,0.0,0.1,56.82,0.0,0.0,0.1
+23-05-2017,St. Louis Cardinals,Los Angeles Dodgers,53.66,0.0,0.0,0.3,57.78,0.0,0.0,0.3
+24-05-2017,St. Louis Cardinals,Los Angeles Dodgers,52.38,0.33,0.2,0.3,58.7,0.33,0.2,0.3
+25-05-2017,St. Louis Cardinals,Los Angeles Dodgers,53.49,0.0,0.2,0.3,57.45,0.0,0.2,0.3
+26-05-2017,Chicago Cubs,Los Angeles Dodgers,54.35,0.33,0.4,0.6,58.33,0.33,0.4,0.6
+27-05-2017,Chicago Cubs,Los Angeles Dodgers,53.19,0.33,0.6,0.6,59.18,0.33,0.6,0.6
+28-05-2017,Chicago Cubs,Los Angeles Dodgers,52.08,0.0,0.4,0.5,60.0,0.0,0.4,0.5
+05-06-2017,Washington Nationals,Los Angeles Dodgers,63.64,0.0,0.4,0.6,60.34,0.0,0.4,0.6
+06-06-2017,Washington Nationals,Los Angeles Dodgers,64.29,0.33,0.4,0.6,59.32,0.33,0.4,0.6
+07-06-2017,Washington Nationals,Los Angeles Dodgers,64.91,0.33,0.4,0.6,58.33,0.33,0.4,0.6
+09-06-2017,Cincinnati Reds,Los Angeles Dodgers,49.15,0.33,0.6,0.4,59.02,0.33,0.6,0.4
+10-06-2017,Cincinnati Reds,Los Angeles Dodgers,48.33,0.33,0.6,0.5,59.68,0.33,0.6,0.5
+11-06-2017,Cincinnati Reds,Los Angeles Dodgers,47.54,0.0,0.4,0.5,60.32,0.0,0.4,0.5
+19-06-2017,New York Mets,Los Angeles Dodgers,45.59,0.0,0.0,0.4,62.86,0.0,0.0,0.4
+20-06-2017,New York Mets,Los Angeles Dodgers,44.93,0.33,0.2,0.4,63.38,0.33,0.2,0.4
+21-06-2017,New York Mets,Los Angeles Dodgers,44.29,0.0,0.2,0.3,63.89,0.0,0.2,0.3
+22-06-2017,New York Mets,Los Angeles Dodgers,43.66,0.0,0.2,0.2,64.38,0.0,0.2,0.2
+23-06-2017,Colorado Rockies,Los Angeles Dodgers,62.67,0.0,0.4,0.6,64.86,0.0,0.4,0.6
+24-06-2017,Colorado Rockies,Los Angeles Dodgers,61.84,0.0,0.2,0.6,65.33,0.0,0.2,0.6
+25-06-2017,Colorado Rockies,Los Angeles Dodgers,61.04,0.0,0.0,0.5,65.79,0.0,0.0,0.5
+26-06-2017,Los Angeles Angels,Los Angeles Dodgers,50.63,0.33,0.4,0.4,66.23,0.33,0.4,0.4
+27-06-2017,Los Angeles Angels,Los Angeles Dodgers,51.25,0.33,0.4,0.5,65.38,0.33,0.4,0.5
+04-07-2017,Arizona Diamondbacks,Los Angeles Dodgers,62.65,0.33,0.2,0.5,65.48,0.33,0.2,0.5
+05-07-2017,Arizona Diamondbacks,Los Angeles Dodgers,61.9,0.33,0.4,0.5,65.88,0.33,0.4,0.5
+06-07-2017,Arizona Diamondbacks,Los Angeles Dodgers,61.18,0.0,0.4,0.4,66.28,0.0,0.4,0.4
+07-07-2017,Kansas City Royals,Los Angeles Dodgers,52.38,0.33,0.6,0.6,66.67,0.33,0.6,0.6
+08-07-2017,Kansas City Royals,Los Angeles Dodgers,51.76,0.33,0.6,0.6,67.05,0.33,0.6,0.6
+09-07-2017,Kansas City Royals,Los Angeles Dodgers,51.16,0.0,0.4,0.6,67.42,0.0,0.4,0.6
+20-07-2017,Atlanta Braves,Los Angeles Dodgers,48.39,0.0,0.2,0.4,69.47,0.0,0.2,0.4
+21-07-2017,Atlanta Braves,Los Angeles Dodgers,48.94,0.0,0.0,0.4,68.75,0.0,0.0,0.4
+22-07-2017,Atlanta Braves,Los Angeles Dodgers,49.47,0.33,0.2,0.4,68.04,0.33,0.2,0.4
+23-07-2017,Atlanta Braves,Los Angeles Dodgers,48.96,0.33,0.4,0.5,68.37,0.33,0.4,0.5
+24-07-2017,Minnesota Twins,Los Angeles Dodgers,50.52,0.33,0.4,0.4,68.69,0.33,0.4,0.4
+25-07-2017,Minnesota Twins,Los Angeles Dodgers,50.0,0.0,0.2,0.4,69.0,0.0,0.2,0.4
+26-07-2017,Minnesota Twins,Los Angeles Dodgers,49.49,0.0,0.2,0.3,69.31,0.0,0.2,0.3
+28-07-2017,San Francisco Giants,Los Angeles Dodgers,38.83,0.33,0.2,0.4,69.61,0.33,0.2,0.4
+29-07-2017,San Francisco Giants,Los Angeles Dodgers,38.46,0.33,0.4,0.4,69.9,0.33,0.4,0.4
+30-07-2017,San Francisco Giants,Los Angeles Dodgers,38.1,0.0,0.4,0.3,70.19,0.0,0.4,0.3
+11-08-2017,San Diego Padres,Los Angeles Dodgers,43.86,0.0,0.2,0.3,71.05,0.0,0.2,0.3
+12-08-2017,San Diego Padres,Los Angeles Dodgers,44.35,0.0,0.2,0.2,70.43,0.0,0.2,0.2
+13-08-2017,San Diego Padres,Los Angeles Dodgers,43.97,0.33,0.2,0.3,70.69,0.33,0.2,0.3
+15-08-2017,Chicago White Sox,Los Angeles Dodgers,39.13,0.0,0.4,0.4,70.94,0.0,0.4,0.4
+16-08-2017,Chicago White Sox,Los Angeles Dodgers,38.79,0.0,0.2,0.4,71.19,0.0,0.2,0.4
+25-08-2017,Milwaukee Brewers,Los Angeles Dodgers,51.56,0.33,0.4,0.6,71.43,0.33,0.4,0.6
+26-08-2017,Milwaukee Brewers,Los Angeles Dodgers,51.16,0.0,0.2,0.5,71.65,0.0,0.2,0.5
+27-08-2017,Milwaukee Brewers,Los Angeles Dodgers,51.54,0.0,0.2,0.4,71.09,0.0,0.2,0.4
+04-09-2017,Arizona Diamondbacks,Los Angeles Dodgers,57.66,0.33,0.6,0.8,67.65,0.33,0.6,0.8
+05-09-2017,Arizona Diamondbacks,Los Angeles Dodgers,57.97,0.33,0.6,0.8,67.15,0.33,0.6,0.8
+06-09-2017,Arizona Diamondbacks,Los Angeles Dodgers,58.27,0.33,0.6,0.8,66.67,0.33,0.6,0.8
+07-09-2017,Colorado Rockies,Los Angeles Dodgers,53.24,0.33,0.4,0.3,66.19,0.33,0.4,0.3
+08-09-2017,Colorado Rockies,Los Angeles Dodgers,53.57,0.0,0.4,0.3,65.71,0.0,0.4,0.3
+09-09-2017,Colorado Rockies,Los Angeles Dodgers,53.9,0.33,0.4,0.3,65.25,0.33,0.4,0.3
+10-09-2017,Colorado Rockies,Los Angeles Dodgers,54.23,0.33,0.4,0.4,64.79,0.33,0.4,0.4
+22-09-2017,San Francisco Giants,Los Angeles Dodgers,39.22,0.33,0.4,0.3,63.4,0.33,0.4,0.3
+23-09-2017,San Francisco Giants,Los Angeles Dodgers,38.96,0.33,0.6,0.4,63.64,0.33,0.6,0.4
+24-09-2017,San Francisco Giants,Los Angeles Dodgers,39.35,0.0,0.4,0.3,63.23,0.0,0.4,0.3
+25-09-2017,San Diego Padres,Los Angeles Dodgers,44.87,0.33,0.4,0.5,63.46,0.33,0.4,0.5
+26-09-2017,San Diego Padres,Los Angeles Dodgers,44.59,0.0,0.2,0.5,63.69,0.0,0.2,0.5
+27-09-2017,San Diego Padres,Los Angeles Dodgers,44.3,0.0,0.2,0.4,63.92,0.0,0.2,0.4
+11-04-2017,Atlanta Braves,Miami Marlins,16.67,0.0,0.0,nan,50.0,0.0,0.0,nan
+12-04-2017,Atlanta Braves,Miami Marlins,14.29,0.0,0.0,nan,57.14,0.0,0.0,nan
+13-04-2017,New York Mets,Miami Marlins,66.67,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+14-04-2017,New York Mets,Miami Marlins,70.0,0.33,0.6,0.5,44.44,0.33,0.6,0.5
+15-04-2017,New York Mets,Miami Marlins,63.64,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+16-04-2017,New York Mets,Miami Marlins,58.33,0.0,0.4,0.5,54.55,0.0,0.4,0.5
+28-04-2017,Pittsburgh Pirates,Miami Marlins,42.86,0.0,0.2,0.2,50.0,0.0,0.2,0.2
+29-04-2017,Pittsburgh Pirates,Miami Marlins,45.45,0.33,0.2,0.3,47.62,0.33,0.2,0.3
+30-04-2017,Pittsburgh Pirates,Miami Marlins,47.83,0.33,0.4,0.4,45.45,0.33,0.4,0.4
+01-05-2017,Tampa Bay Rays,Miami Marlins,46.15,0.0,0.2,0.3,47.83,0.0,0.2,0.3
+02-05-2017,Tampa Bay Rays,Miami Marlins,48.15,0.0,0.2,0.3,45.83,0.0,0.2,0.3
+08-05-2017,St. Louis Cardinals,Miami Marlins,53.33,0.33,0.4,0.5,43.33,0.33,0.4,0.5
+09-05-2017,St. Louis Cardinals,Miami Marlins,54.84,0.33,0.6,0.5,41.94,0.33,0.6,0.5
+10-05-2017,St. Louis Cardinals,Miami Marlins,56.25,0.33,0.6,0.5,40.62,0.33,0.6,0.5
+12-05-2017,Atlanta Braves,Miami Marlins,35.48,0.0,0.0,0.1,39.39,0.0,0.0,0.1
+13-05-2017,Atlanta Braves,Miami Marlins,37.5,0.0,0.0,0.1,38.24,0.0,0.0,0.1
+14-05-2017,Atlanta Braves,Miami Marlins,39.39,0.33,0.2,0.2,37.14,0.33,0.2,0.2
+15-05-2017,Houston Astros,Miami Marlins,68.42,0.0,0.4,0.6,38.89,0.0,0.4,0.6
+16-05-2017,Houston Astros,Miami Marlins,69.23,0.33,0.4,0.6,37.84,0.33,0.4,0.6
+17-05-2017,Houston Astros,Miami Marlins,70.0,0.33,0.4,0.7,36.84,0.33,0.4,0.7
+26-05-2017,Los Angeles Angels,Miami Marlins,50.0,0.0,0.4,0.5,35.56,0.0,0.4,0.5
+27-05-2017,Los Angeles Angels,Miami Marlins,49.02,0.0,0.2,0.4,36.96,0.0,0.2,0.4
+28-05-2017,Los Angeles Angels,Miami Marlins,50.0,0.0,0.0,0.3,36.17,0.0,0.0,0.3
+29-05-2017,Philadelphia Phillies,Miami Marlins,35.42,0.33,0.4,0.2,37.5,0.33,0.4,0.2
+30-05-2017,Philadelphia Phillies,Miami Marlins,34.69,0.0,0.2,0.2,38.78,0.0,0.2,0.2
+31-05-2017,Philadelphia Phillies,Miami Marlins,34.0,0.0,0.2,0.2,40.0,0.0,0.2,0.2
+01-06-2017,Arizona Diamondbacks,Miami Marlins,60.0,0.33,0.2,0.5,41.18,0.33,0.2,0.5
+02-06-2017,Arizona Diamondbacks,Miami Marlins,60.71,0.33,0.4,0.5,40.38,0.33,0.4,0.5
+03-06-2017,Arizona Diamondbacks,Miami Marlins,59.65,0.33,0.6,0.5,41.51,0.33,0.6,0.5
+04-06-2017,Arizona Diamondbacks,Miami Marlins,58.62,0.0,0.4,0.4,42.59,0.0,0.4,0.4
+13-06-2017,Oakland Athletics,Miami Marlins,42.86,0.33,0.2,0.4,43.55,0.33,0.2,0.4
+14-06-2017,Oakland Athletics,Miami Marlins,42.19,0.0,0.2,0.3,44.44,0.0,0.2,0.3
+19-06-2017,Washington Nationals,Miami Marlins,60.87,0.33,0.6,0.4,44.78,0.33,0.6,0.4
+20-06-2017,Washington Nationals,Miami Marlins,60.0,0.0,0.4,0.4,45.59,0.0,0.4,0.4
+21-06-2017,Washington Nationals,Miami Marlins,60.56,0.0,0.2,0.4,44.93,0.0,0.2,0.4
+22-06-2017,Chicago Cubs,Miami Marlins,50.7,0.33,0.6,0.5,45.71,0.33,0.6,0.5
+23-06-2017,Chicago Cubs,Miami Marlins,51.39,0.0,0.4,0.5,45.07,0.0,0.4,0.5
+24-06-2017,Chicago Cubs,Miami Marlins,50.68,0.33,0.4,0.5,45.83,0.33,0.4,0.5
+25-06-2017,Chicago Cubs,Miami Marlins,51.35,0.0,0.2,0.5,45.21,0.0,0.2,0.5
+27-06-2017,New York Mets,Miami Marlins,45.33,0.33,0.4,0.3,45.95,0.33,0.4,0.3
+28-06-2017,New York Mets,Miami Marlins,44.74,0.33,0.6,0.4,46.67,0.33,0.6,0.4
+29-06-2017,New York Mets,Miami Marlins,45.45,0.0,0.4,0.3,46.05,0.0,0.4,0.3
+14-07-2017,Los Angeles Dodgers,Miami Marlins,67.78,0.33,0.6,0.7,47.13,0.33,0.6,0.7
+15-07-2017,Los Angeles Dodgers,Miami Marlins,68.13,0.33,0.6,0.7,46.59,0.33,0.6,0.7
+16-07-2017,Los Angeles Dodgers,Miami Marlins,68.48,0.33,0.6,0.7,46.07,0.33,0.6,0.7
+17-07-2017,Philadelphia Phillies,Miami Marlins,33.33,0.0,0.2,0.1,45.56,0.0,0.2,0.1
+18-07-2017,Philadelphia Phillies,Miami Marlins,32.97,0.33,0.2,0.2,46.15,0.33,0.2,0.2
+19-07-2017,Philadelphia Phillies,Miami Marlins,33.7,0.0,0.2,0.2,45.65,0.0,0.2,0.2
+27-07-2017,Cincinnati Reds,Miami Marlins,40.59,0.0,0.2,0.2,46.46,0.0,0.2,0.2
+28-07-2017,Cincinnati Reds,Miami Marlins,40.2,0.0,0.0,0.2,47.0,0.0,0.0,0.2
+29-07-2017,Cincinnati Reds,Miami Marlins,39.81,0.0,0.0,0.1,47.52,0.0,0.0,0.1
+30-07-2017,Cincinnati Reds,Miami Marlins,39.42,0.0,0.0,0.1,48.04,0.0,0.0,0.1
+31-07-2017,Washington Nationals,Miami Marlins,60.19,0.0,0.2,0.4,47.57,0.0,0.2,0.4
+01-08-2017,Washington Nationals,Miami Marlins,60.58,0.33,0.2,0.5,47.12,0.33,0.2,0.5
+02-08-2017,Washington Nationals,Miami Marlins,60.0,0.33,0.4,0.5,47.62,0.33,0.4,0.5
+11-08-2017,Colorado Rockies,Miami Marlins,57.02,0.0,0.2,0.4,46.9,0.0,0.2,0.4
+12-08-2017,Colorado Rockies,Miami Marlins,56.52,0.33,0.2,0.5,47.37,0.33,0.2,0.5
+13-08-2017,Colorado Rockies,Miami Marlins,56.03,0.0,0.2,0.4,47.83,0.0,0.2,0.4
+14-08-2017,San Francisco Giants,Miami Marlins,39.5,0.33,0.4,0.5,48.28,0.33,0.4,0.5
+15-08-2017,San Francisco Giants,Miami Marlins,39.17,0.0,0.2,0.5,48.72,0.0,0.2,0.5
+16-08-2017,San Francisco Giants,Miami Marlins,39.67,0.0,0.2,0.4,48.31,0.0,0.2,0.4
+25-08-2017,San Diego Padres,Miami Marlins,44.88,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+26-08-2017,San Diego Padres,Miami Marlins,44.53,0.33,0.4,0.4,50.39,0.33,0.4,0.4
+27-08-2017,San Diego Padres,Miami Marlins,44.19,0.0,0.2,0.3,50.78,0.0,0.2,0.3
+31-08-2017,Philadelphia Phillies,Miami Marlins,37.12,0.0,0.4,0.4,50.0,0.0,0.4,0.4
+01-09-2017,Philadelphia Phillies,Miami Marlins,37.59,0.0,0.2,0.4,49.62,0.0,0.2,0.4
+02-09-2017,Philadelphia Phillies,Miami Marlins,38.06,0.33,0.2,0.4,49.25,0.33,0.2,0.4
+03-09-2017,Philadelphia Phillies,Miami Marlins,37.78,0.33,0.4,0.5,49.63,0.33,0.4,0.5
+04-09-2017,Washington Nationals,Miami Marlins,60.29,0.33,0.2,0.5,49.26,0.33,0.2,0.5
+05-09-2017,Washington Nationals,Miami Marlins,60.58,0.0,0.2,0.5,48.91,0.0,0.2,0.5
+06-09-2017,Washington Nationals,Miami Marlins,60.87,0.33,0.4,0.5,48.55,0.33,0.4,0.5
+18-09-2017,New York Mets,Miami Marlins,43.62,0.33,0.2,0.3,46.31,0.33,0.2,0.3
+19-09-2017,New York Mets,Miami Marlins,43.33,0.33,0.4,0.3,46.67,0.33,0.4,0.3
+20-09-2017,New York Mets,Miami Marlins,43.05,0.0,0.4,0.2,47.02,0.0,0.4,0.2
+28-09-2017,Atlanta Braves,Miami Marlins,44.94,0.0,0.2,0.4,46.84,0.0,0.2,0.4
+29-09-2017,Atlanta Braves,Miami Marlins,44.65,0.0,0.0,0.4,47.17,0.0,0.0,0.4
+30-09-2017,Atlanta Braves,Miami Marlins,44.38,0.0,0.0,0.3,47.5,0.0,0.0,0.3
+01-10-2017,Atlanta Braves,Miami Marlins,44.1,0.0,0.0,0.2,47.83,0.0,0.0,0.2
+03-04-2017,Colorado Rockies,Milwaukee Brewers,0,0.0,0.4,0.5,0,0.0,0.4,0.5
+04-04-2017,Colorado Rockies,Milwaukee Brewers,100.0,nan,nan,nan,0.0,nan,nan,nan
+05-04-2017,Colorado Rockies,Milwaukee Brewers,100.0,0.33,nan,nan,0.0,0.33,nan,nan
+06-04-2017,Colorado Rockies,Milwaukee Brewers,66.67,0.33,nan,nan,33.33,0.33,nan,nan
+07-04-2017,Chicago Cubs,Milwaukee Brewers,66.67,0.33,nan,nan,25.0,0.33,nan,nan
+08-04-2017,Chicago Cubs,Milwaukee Brewers,50.0,0.33,0.4,nan,40.0,0.33,0.4,nan
+09-04-2017,Chicago Cubs,Milwaukee Brewers,60.0,0.0,0.4,nan,33.33,0.0,0.4,nan
+20-04-2017,St. Louis Cardinals,Milwaukee Brewers,40.0,0.33,0.4,0.3,50.0,0.33,0.4,0.3
+21-04-2017,St. Louis Cardinals,Milwaukee Brewers,37.5,0.33,0.6,0.4,52.94,0.33,0.6,0.4
+22-04-2017,St. Louis Cardinals,Milwaukee Brewers,41.18,0.0,0.4,0.4,50.0,0.0,0.4,0.4
+23-04-2017,St. Louis Cardinals,Milwaukee Brewers,44.44,0.33,0.4,0.4,47.37,0.33,0.4,0.4
+24-04-2017,Cincinnati Reds,Milwaukee Brewers,52.63,0.0,0.0,0.2,45.0,0.0,0.0,0.2
+25-04-2017,Cincinnati Reds,Milwaukee Brewers,50.0,0.33,0.2,0.3,47.62,0.33,0.2,0.3
+26-04-2017,Cincinnati Reds,Milwaukee Brewers,47.62,0.0,0.2,0.2,50.0,0.0,0.2,0.2
+28-04-2017,Atlanta Braves,Milwaukee Brewers,40.0,0.33,0.2,0.2,52.17,0.33,0.2,0.2
+29-04-2017,Atlanta Braves,Milwaukee Brewers,42.86,0.33,0.4,0.2,50.0,0.33,0.4,0.2
+30-04-2017,Atlanta Braves,Milwaukee Brewers,45.45,0.33,0.6,0.3,48.0,0.33,0.6,0.3
+09-05-2017,Boston Red Sox,Milwaukee Brewers,54.84,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+10-05-2017,Boston Red Sox,Milwaukee Brewers,53.12,0.33,0.4,0.5,51.52,0.33,0.4,0.5
+11-05-2017,Boston Red Sox,Milwaukee Brewers,51.52,0.0,0.4,0.4,52.94,0.0,0.4,0.4
+12-05-2017,New York Mets,Milwaukee Brewers,48.48,0.33,0.4,0.6,51.43,0.33,0.4,0.6
+13-05-2017,New York Mets,Milwaukee Brewers,47.06,0.0,0.4,0.5,52.78,0.0,0.4,0.5
+14-05-2017,New York Mets,Milwaukee Brewers,45.71,0.0,0.2,0.5,54.05,0.0,0.2,0.5
+23-05-2017,Toronto Blue Jays,Milwaukee Brewers,42.22,0.0,0.2,0.3,56.82,0.0,0.2,0.3
+24-05-2017,Toronto Blue Jays,Milwaukee Brewers,43.48,0.33,0.2,0.3,55.56,0.33,0.2,0.3
+25-05-2017,Arizona Diamondbacks,Milwaukee Brewers,60.42,0.33,0.4,0.7,54.35,0.33,0.4,0.7
+26-05-2017,Arizona Diamondbacks,Milwaukee Brewers,61.22,0.33,0.6,0.7,53.19,0.33,0.6,0.7
+27-05-2017,Arizona Diamondbacks,Milwaukee Brewers,62.0,0.33,0.6,0.7,52.08,0.33,0.6,0.7
+28-05-2017,Arizona Diamondbacks,Milwaukee Brewers,60.78,0.33,0.6,0.7,53.06,0.33,0.6,0.7
+02-06-2017,Los Angeles Dodgers,Milwaukee Brewers,60.0,0.0,0.4,0.6,53.7,0.0,0.4,0.6
+03-06-2017,Los Angeles Dodgers,Milwaukee Brewers,60.71,0.0,0.2,0.6,52.73,0.0,0.2,0.6
+04-06-2017,Los Angeles Dodgers,Milwaukee Brewers,61.4,0.33,0.2,0.6,51.79,0.33,0.2,0.6
+05-06-2017,San Francisco Giants,Milwaukee Brewers,39.66,0.0,0.2,0.3,52.63,0.0,0.2,0.3
+06-06-2017,San Francisco Giants,Milwaukee Brewers,40.68,0.0,0.2,0.3,51.72,0.0,0.2,0.3
+07-06-2017,San Francisco Giants,Milwaukee Brewers,40.0,0.33,0.2,0.3,52.54,0.33,0.2,0.3
+08-06-2017,San Francisco Giants,Milwaukee Brewers,39.34,0.0,0.2,0.2,53.33,0.0,0.2,0.2
+16-06-2017,San Diego Padres,Milwaukee Brewers,40.3,0.33,0.4,0.3,52.94,0.33,0.4,0.3
+17-06-2017,San Diego Padres,Milwaukee Brewers,39.71,0.33,0.6,0.4,53.62,0.33,0.6,0.4
+18-06-2017,San Diego Padres,Milwaukee Brewers,40.58,0.0,0.4,0.4,52.86,0.0,0.4,0.4
+19-06-2017,Pittsburgh Pirates,Milwaukee Brewers,44.93,0.33,0.2,0.5,53.52,0.33,0.2,0.5
+20-06-2017,Pittsburgh Pirates,Milwaukee Brewers,45.71,0.0,0.2,0.5,52.78,0.0,0.2,0.5
+21-06-2017,Pittsburgh Pirates,Milwaukee Brewers,46.48,0.33,0.4,0.5,52.05,0.33,0.4,0.5
+22-06-2017,Pittsburgh Pirates,Milwaukee Brewers,45.83,0.33,0.4,0.5,52.7,0.33,0.4,0.5
+30-06-2017,Miami Marlins,Milwaukee Brewers,45.45,0.0,0.4,0.4,51.85,0.0,0.4,0.4
+01-07-2017,Miami Marlins,Milwaukee Brewers,44.87,0.0,0.2,0.4,52.44,0.0,0.2,0.4
+02-07-2017,Miami Marlins,Milwaukee Brewers,44.3,0.0,0.0,0.3,53.01,0.0,0.0,0.3
+03-07-2017,Baltimore Orioles,Milwaukee Brewers,49.38,0.0,0.2,0.4,52.38,0.0,0.2,0.4
+04-07-2017,Baltimore Orioles,Milwaukee Brewers,48.78,0.33,0.2,0.5,52.94,0.33,0.2,0.5
+05-07-2017,Baltimore Orioles,Milwaukee Brewers,48.19,0.0,0.2,0.4,53.49,0.0,0.2,0.4
+14-07-2017,Philadelphia Phillies,Milwaukee Brewers,33.33,0.0,0.0,0.2,54.95,0.0,0.0,0.2
+15-07-2017,Philadelphia Phillies,Milwaukee Brewers,32.95,0.33,0.2,0.3,55.43,0.33,0.2,0.3
+16-07-2017,Philadelphia Phillies,Milwaukee Brewers,32.58,0.0,0.2,0.2,55.91,0.0,0.2,0.2
+28-07-2017,Chicago Cubs,Milwaukee Brewers,53.47,0.33,0.4,0.6,51.92,0.33,0.4,0.6
+29-07-2017,Chicago Cubs,Milwaukee Brewers,52.94,0.33,0.6,0.6,52.38,0.33,0.6,0.6
+30-07-2017,Chicago Cubs,Milwaukee Brewers,53.4,0.0,0.4,0.5,51.89,0.0,0.4,0.5
+01-08-2017,St. Louis Cardinals,Milwaukee Brewers,49.52,0.0,0.2,0.4,51.4,0.0,0.2,0.4
+02-08-2017,St. Louis Cardinals,Milwaukee Brewers,49.06,0.33,0.4,0.5,51.85,0.33,0.4,0.5
+03-08-2017,St. Louis Cardinals,Milwaukee Brewers,49.53,0.0,0.2,0.5,51.38,0.0,0.2,0.5
+09-08-2017,Minnesota Twins,Milwaukee Brewers,49.55,0.33,0.4,0.4,51.3,0.33,0.4,0.4
+10-08-2017,Minnesota Twins,Milwaukee Brewers,50.0,0.33,0.6,0.5,50.86,0.33,0.6,0.5
+11-08-2017,Cincinnati Reds,Milwaukee Brewers,41.74,0.33,0.4,0.4,50.43,0.33,0.4,0.4
+12-08-2017,Cincinnati Reds,Milwaukee Brewers,42.24,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+13-08-2017,Cincinnati Reds,Milwaukee Brewers,41.88,0.33,0.6,0.5,50.42,0.33,0.6,0.5
+15-08-2017,Pittsburgh Pirates,Milwaukee Brewers,49.15,0.0,0.4,0.5,50.83,0.0,0.4,0.5
+16-08-2017,Pittsburgh Pirates,Milwaukee Brewers,48.74,0.0,0.2,0.5,51.24,0.0,0.2,0.5
+29-08-2017,St. Louis Cardinals,Milwaukee Brewers,50.0,0.33,0.2,0.3,51.91,0.33,0.2,0.3
+30-08-2017,St. Louis Cardinals,Milwaukee Brewers,50.38,0.0,0.2,0.2,51.52,0.0,0.2,0.2
+31-08-2017,Washington Nationals,Milwaukee Brewers,61.36,0.33,0.6,0.5,51.88,0.33,0.6,0.5
+01-09-2017,Washington Nationals,Milwaukee Brewers,60.9,0.33,0.6,0.6,52.24,0.33,0.6,0.6
+02-09-2017,Washington Nationals,Milwaukee Brewers,60.45,0.0,0.4,0.5,52.59,0.0,0.4,0.5
+03-09-2017,Washington Nationals,Milwaukee Brewers,60.74,0.0,0.2,0.5,52.21,0.0,0.2,0.5
+11-09-2017,Pittsburgh Pirates,Milwaukee Brewers,46.53,0.0,0.0,0.4,52.45,0.0,0.0,0.4
+12-09-2017,Pittsburgh Pirates,Milwaukee Brewers,46.9,0.0,0.0,0.3,52.08,0.0,0.0,0.3
+13-09-2017,Pittsburgh Pirates,Milwaukee Brewers,46.58,0.33,0.2,0.3,52.41,0.33,0.2,0.3
+15-09-2017,Miami Marlins,Milwaukee Brewers,46.58,0.0,0.0,0.1,52.74,0.0,0.0,0.1
+16-09-2017,Miami Marlins,Milwaukee Brewers,46.26,0.0,0.0,0.1,53.06,0.0,0.0,0.1
+17-09-2017,Miami Marlins,Milwaukee Brewers,46.62,0.0,0.0,0.1,52.7,0.0,0.0,0.1
+21-09-2017,Chicago Cubs,Milwaukee Brewers,55.63,0.33,0.6,0.7,53.29,0.33,0.6,0.7
+22-09-2017,Chicago Cubs,Milwaukee Brewers,55.92,0.0,0.4,0.7,52.94,0.0,0.4,0.7
+23-09-2017,Chicago Cubs,Milwaukee Brewers,56.21,0.33,0.4,0.7,52.6,0.33,0.4,0.7
+24-09-2017,Chicago Cubs,Milwaukee Brewers,55.84,0.33,0.4,0.7,52.9,0.33,0.4,0.7
+26-09-2017,Cincinnati Reds,Milwaukee Brewers,42.31,0.0,0.0,0.3,52.56,0.0,0.0,0.3
+27-09-2017,Cincinnati Reds,Milwaukee Brewers,42.04,0.0,0.0,0.2,52.87,0.0,0.0,0.2
+28-09-2017,Cincinnati Reds,Milwaukee Brewers,42.41,0.0,0.0,0.1,52.53,0.0,0.0,0.1
+03-04-2017,Kansas City Royals,Minnesota Twins,0,0.33,0.4,0.5,0,0.33,0.4,0.5
+05-04-2017,Kansas City Royals,Minnesota Twins,0.0,nan,nan,nan,100.0,nan,nan,nan
+06-04-2017,Kansas City Royals,Minnesota Twins,0.0,0.0,nan,nan,100.0,0.0,nan,nan
+14-04-2017,Chicago White Sox,Minnesota Twins,50.0,0.33,0.2,nan,66.67,0.33,0.2,nan
+15-04-2017,Chicago White Sox,Minnesota Twins,55.56,0.33,0.4,0.4,60.0,0.33,0.4,0.4
+16-04-2017,Chicago White Sox,Minnesota Twins,50.0,0.33,0.6,0.5,63.64,0.33,0.6,0.5
+17-04-2017,Cleveland Indians,Minnesota Twins,41.67,0.33,0.2,0.2,58.33,0.33,0.2,0.2
+18-04-2017,Cleveland Indians,Minnesota Twins,46.15,0.0,0.2,0.2,53.85,0.0,0.2,0.2
+20-04-2017,Cleveland Indians,Minnesota Twins,50.0,0.33,0.4,0.3,50.0,0.33,0.4,0.3
+21-04-2017,Detroit Tigers,Minnesota Twins,53.33,0.0,0.2,0.4,46.67,0.0,0.2,0.4
+22-04-2017,Detroit Tigers,Minnesota Twins,50.0,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+23-04-2017,Detroit Tigers,Minnesota Twins,52.94,0.0,0.0,0.2,47.06,0.0,0.0,0.2
+02-05-2017,Oakland Athletics,Minnesota Twins,44.0,0.33,0.2,0.3,52.17,0.33,0.2,0.3
+03-05-2017,Oakland Athletics,Minnesota Twins,42.31,0.0,0.2,0.2,54.17,0.0,0.2,0.2
+04-05-2017,Oakland Athletics,Minnesota Twins,40.74,0.0,0.2,0.1,56.0,0.0,0.2,0.1
+05-05-2017,Boston Red Sox,Minnesota Twins,53.57,0.33,0.4,0.4,53.85,0.33,0.4,0.4
+06-05-2017,Boston Red Sox,Minnesota Twins,51.72,0.0,0.4,0.4,55.56,0.0,0.4,0.4
+07-05-2017,Boston Red Sox,Minnesota Twins,53.33,0.0,0.2,0.4,53.57,0.0,0.2,0.4
+16-05-2017,Colorado Rockies,Minnesota Twins,61.54,0.0,0.2,0.5,55.88,0.0,0.2,0.5
+19-05-2017,Kansas City Royals,Minnesota Twins,42.5,0.0,0.2,0.5,54.05,0.0,0.2,0.5
+26-05-2017,Tampa Bay Rays,Minnesota Twins,50.0,0.33,0.2,0.5,58.14,0.33,0.2,0.5
+27-05-2017,Tampa Bay Rays,Minnesota Twins,50.98,0.33,0.4,0.5,56.82,0.33,0.4,0.5
+28-05-2017,Tampa Bay Rays,Minnesota Twins,50.0,0.33,0.6,0.5,57.78,0.33,0.6,0.5
+29-05-2017,Houston Astros,Minnesota Twins,68.63,0.33,0.6,0.5,56.52,0.33,0.6,0.5
+30-05-2017,Houston Astros,Minnesota Twins,69.23,0.33,0.6,0.6,55.32,0.33,0.6,0.6
+31-05-2017,Houston Astros,Minnesota Twins,69.81,0.33,0.6,0.7,54.17,0.33,0.6,0.7
+12-06-2017,Seattle Mariners,Minnesota Twins,48.44,0.0,0.2,0.6,54.24,0.0,0.2,0.6
+13-06-2017,Seattle Mariners,Minnesota Twins,49.23,0.0,0.2,0.5,53.33,0.0,0.2,0.5
+14-06-2017,Seattle Mariners,Minnesota Twins,48.48,0.33,0.2,0.5,54.1,0.33,0.2,0.5
+15-06-2017,Seattle Mariners,Minnesota Twins,49.25,0.0,0.2,0.4,53.23,0.0,0.2,0.4
+16-06-2017,Cleveland Indians,Minnesota Twins,50.79,0.0,0.2,0.3,53.97,0.0,0.2,0.3
+18-06-2017,Cleveland Indians,Minnesota Twins,53.03,0.33,0.6,0.5,51.52,0.33,0.6,0.5
+20-06-2017,Chicago White Sox,Minnesota Twins,45.59,0.33,0.6,0.6,50.75,0.33,0.6,0.6
+21-06-2017,Chicago White Sox,Minnesota Twins,44.93,0.0,0.4,0.5,51.47,0.0,0.4,0.5
+22-06-2017,Chicago White Sox,Minnesota Twins,44.29,0.0,0.2,0.5,52.17,0.0,0.2,0.5
+03-07-2017,Los Angeles Angels,Minnesota Twins,50.0,0.33,0.2,0.5,50.62,0.33,0.2,0.5
+04-07-2017,Los Angeles Angels,Minnesota Twins,49.43,0.0,0.2,0.4,51.22,0.0,0.2,0.4
+05-07-2017,Los Angeles Angels,Minnesota Twins,48.86,0.0,0.2,0.3,51.81,0.0,0.2,0.3
+06-07-2017,Baltimore Orioles,Minnesota Twins,47.62,0.0,0.2,0.3,51.19,0.0,0.2,0.3
+07-07-2017,Baltimore Orioles,Minnesota Twins,47.06,0.0,0.0,0.2,51.76,0.0,0.0,0.2
+08-07-2017,Baltimore Orioles,Minnesota Twins,46.51,0.0,0.0,0.2,52.33,0.0,0.0,0.2
+09-07-2017,Baltimore Orioles,Minnesota Twins,47.13,0.0,0.0,0.1,51.72,0.0,0.0,0.1
+17-07-2017,New York Yankees,Minnesota Twins,52.22,0.33,0.4,0.3,50.55,0.33,0.4,0.3
+18-07-2017,New York Yankees,Minnesota Twins,51.65,0.0,0.4,0.3,51.09,0.0,0.4,0.3
+19-07-2017,New York Yankees,Minnesota Twins,52.17,0.0,0.2,0.3,50.54,0.0,0.2,0.3
+21-07-2017,Detroit Tigers,Minnesota Twins,45.74,0.0,0.4,0.5,51.06,0.0,0.4,0.5
+22-07-2017,Detroit Tigers,Minnesota Twins,46.32,0.0,0.2,0.5,50.53,0.0,0.2,0.5
+23-07-2017,Detroit Tigers,Minnesota Twins,45.83,0.33,0.2,0.5,51.04,0.33,0.2,0.5
+03-08-2017,Texas Rangers,Minnesota Twins,47.66,0.0,0.0,0.2,48.57,0.0,0.0,0.2
+04-08-2017,Texas Rangers,Minnesota Twins,48.15,0.33,0.2,0.3,48.11,0.33,0.2,0.3
+05-08-2017,Texas Rangers,Minnesota Twins,47.71,0.33,0.4,0.3,48.6,0.33,0.4,0.3
+06-08-2017,Texas Rangers,Minnesota Twins,48.18,0.0,0.4,0.3,48.15,0.0,0.4,0.3
+07-08-2017,Milwaukee Brewers,Minnesota Twins,52.21,0.33,0.6,0.5,48.62,0.33,0.6,0.5
+08-08-2017,Milwaukee Brewers,Minnesota Twins,51.75,0.0,0.4,0.4,49.09,0.0,0.4,0.4
+15-08-2017,Cleveland Indians,Minnesota Twins,55.17,0.33,0.6,0.4,50.86,0.33,0.6,0.4
+18-08-2017,Arizona Diamondbacks,Minnesota Twins,55.37,0.0,0.2,0.2,50.42,0.0,0.2,0.2
+19-08-2017,Arizona Diamondbacks,Minnesota Twins,54.92,0.33,0.2,0.3,50.83,0.33,0.2,0.3
+20-08-2017,Arizona Diamondbacks,Minnesota Twins,54.47,0.0,0.2,0.3,51.24,0.0,0.2,0.3
+29-08-2017,Chicago White Sox,Minnesota Twins,40.31,0.0,0.4,0.5,51.54,0.0,0.4,0.5
+30-08-2017,Chicago White Sox,Minnesota Twins,40.0,0.33,0.4,0.5,51.91,0.33,0.4,0.5
+31-08-2017,Chicago White Sox,Minnesota Twins,39.69,0.0,0.2,0.4,52.27,0.0,0.2,0.4
+01-09-2017,Kansas City Royals,Minnesota Twins,49.24,0.33,0.2,0.3,52.63,0.33,0.2,0.3
+02-09-2017,Kansas City Royals,Minnesota Twins,49.62,0.0,0.2,0.2,52.24,0.0,0.2,0.2
+03-09-2017,Kansas City Royals,Minnesota Twins,49.25,0.33,0.4,0.2,52.59,0.33,0.4,0.2
+12-09-2017,San Diego Padres,Minnesota Twins,45.14,0.33,0.6,0.5,51.75,0.33,0.6,0.5
+13-09-2017,San Diego Padres,Minnesota Twins,44.83,0.0,0.4,0.4,52.08,0.0,0.4,0.4
+14-09-2017,Toronto Blue Jays,Minnesota Twins,46.58,0.33,0.6,0.5,52.41,0.33,0.6,0.5
+15-09-2017,Toronto Blue Jays,Minnesota Twins,46.26,0.0,0.4,0.4,52.74,0.0,0.4,0.4
+16-09-2017,Toronto Blue Jays,Minnesota Twins,46.62,0.0,0.2,0.4,52.38,0.0,0.2,0.4
+17-09-2017,Toronto Blue Jays,Minnesota Twins,46.98,0.33,0.2,0.5,52.03,0.33,0.2,0.5
+29-09-2017,Detroit Tigers,Minnesota Twins,39.62,0.0,0.0,0.0,52.2,0.0,0.0,0.0
+30-09-2017,Detroit Tigers,Minnesota Twins,39.38,0.33,0.2,0.1,52.5,0.33,0.2,0.1
+01-10-2017,Detroit Tigers,Minnesota Twins,39.75,0.0,0.2,0.1,52.17,0.0,0.2,0.1
+10-04-2017,Tampa Bay Rays,New York Yankees,71.43,0.33,0.4,nan,33.33,0.33,0.4,nan
+12-04-2017,Tampa Bay Rays,New York Yankees,62.5,0.33,0.6,nan,42.86,0.33,0.6,nan
+13-04-2017,Tampa Bay Rays,New York Yankees,55.56,0.0,0.4,0.5,50.0,0.0,0.4,0.5
+14-04-2017,St. Louis Cardinals,New York Yankees,33.33,0.0,0.0,0.2,55.56,0.0,0.0,0.2
+15-04-2017,St. Louis Cardinals,New York Yankees,30.0,0.33,0.2,0.2,60.0,0.33,0.2,0.2
+16-04-2017,St. Louis Cardinals,New York Yankees,27.27,0.0,0.2,0.2,63.64,0.0,0.2,0.2
+17-04-2017,Chicago White Sox,New York Yankees,54.55,0.0,0.4,0.4,66.67,0.0,0.4,0.4
+18-04-2017,Chicago White Sox,New York Yankees,50.0,0.33,0.4,0.5,69.23,0.33,0.4,0.5
+19-04-2017,Chicago White Sox,New York Yankees,53.85,0.0,0.2,0.4,64.29,0.0,0.2,0.4
+28-04-2017,Baltimore Orioles,New York Yankees,70.0,0.0,0.2,0.5,65.0,0.0,0.2,0.5
+29-04-2017,Baltimore Orioles,New York Yankees,66.67,0.33,0.4,0.6,66.67,0.33,0.4,0.6
+30-04-2017,Baltimore Orioles,New York Yankees,63.64,0.0,0.2,0.5,68.18,0.0,0.2,0.5
+01-05-2017,Toronto Blue Jays,New York Yankees,32.0,0.33,0.2,0.3,65.22,0.33,0.2,0.3
+02-05-2017,Toronto Blue Jays,New York Yankees,34.62,0.33,0.4,0.4,62.5,0.33,0.4,0.4
+03-05-2017,Toronto Blue Jays,New York Yankees,33.33,0.33,0.6,0.4,64.0,0.33,0.6,0.4
+11-05-2017,Houston Astros,New York Yankees,67.65,0.33,0.4,0.6,67.74,0.33,0.4,0.6
+12-05-2017,Houston Astros,New York Yankees,68.57,0.33,0.6,0.6,65.62,0.33,0.6,0.6
+22-05-2017,Kansas City Royals,New York Yankees,41.86,0.33,0.4,0.5,60.98,0.33,0.4,0.5
+23-05-2017,Kansas City Royals,New York Yankees,40.91,0.0,0.2,0.4,61.9,0.0,0.2,0.4
+24-05-2017,Kansas City Royals,New York Yankees,42.22,0.0,0.2,0.3,60.47,0.0,0.2,0.3
+26-05-2017,Oakland Athletics,New York Yankees,45.65,0.0,0.2,0.4,61.36,0.0,0.2,0.4
+27-05-2017,Oakland Athletics,New York Yankees,46.81,0.33,0.2,0.5,60.0,0.33,0.2,0.5
+28-05-2017,Oakland Athletics,New York Yankees,45.83,0.33,0.4,0.5,60.87,0.33,0.4,0.5
+06-06-2017,Boston Red Sox,New York Yankees,55.36,0.33,0.2,0.4,59.26,0.33,0.2,0.4
+07-06-2017,Boston Red Sox,New York Yankees,56.14,0.33,0.4,0.4,58.18,0.33,0.4,0.4
+08-06-2017,Boston Red Sox,New York Yankees,55.17,0.33,0.6,0.5,58.93,0.33,0.6,0.5
+09-06-2017,Baltimore Orioles,New York Yankees,53.45,0.33,0.4,0.5,59.65,0.33,0.4,0.5
+10-06-2017,Baltimore Orioles,New York Yankees,52.54,0.0,0.4,0.5,60.34,0.0,0.4,0.5
+11-06-2017,Baltimore Orioles,New York Yankees,51.67,0.0,0.2,0.4,61.02,0.0,0.2,0.4
+20-06-2017,Los Angeles Angels,New York Yankees,49.32,0.33,0.2,0.4,56.72,0.33,0.2,0.4
+21-06-2017,Los Angeles Angels,New York Yankees,50.0,0.0,0.2,0.4,55.88,0.0,0.2,0.4
+22-06-2017,Los Angeles Angels,New York Yankees,49.33,0.33,0.4,0.4,56.52,0.33,0.4,0.4
+23-06-2017,Texas Rangers,New York Yankees,50.0,0.0,0.2,0.4,55.71,0.0,0.2,0.4
+24-06-2017,Texas Rangers,New York Yankees,49.32,0.33,0.4,0.4,56.34,0.33,0.4,0.4
+25-06-2017,Texas Rangers,New York Yankees,50.0,0.0,0.2,0.4,55.56,0.0,0.2,0.4
+03-07-2017,Toronto Blue Jays,New York Yankees,45.68,0.0,0.0,0.2,53.75,0.0,0.0,0.2
+04-07-2017,Toronto Blue Jays,New York Yankees,45.12,0.0,0.0,0.2,54.32,0.0,0.0,0.2
+05-07-2017,Toronto Blue Jays,New York Yankees,45.78,0.0,0.0,0.2,53.66,0.0,0.0,0.2
+07-07-2017,Milwaukee Brewers,New York Yankees,54.55,0.33,0.6,0.6,53.01,0.33,0.6,0.6
+08-07-2017,Milwaukee Brewers,New York Yankees,55.06,0.33,0.6,0.7,52.38,0.33,0.6,0.7
+09-07-2017,Milwaukee Brewers,New York Yankees,54.44,0.33,0.6,0.7,52.94,0.33,0.6,0.7
+25-07-2017,Cincinnati Reds,New York Yankees,41.41,0.33,0.2,0.2,52.58,0.33,0.2,0.2
+26-07-2017,Cincinnati Reds,New York Yankees,41.0,0.0,0.2,0.2,53.06,0.0,0.2,0.2
+27-07-2017,Tampa Bay Rays,New York Yankees,51.96,0.33,0.2,0.3,53.54,0.33,0.2,0.3
+28-07-2017,Tampa Bay Rays,New York Yankees,51.46,0.33,0.4,0.3,54.0,0.33,0.4,0.3
+29-07-2017,Tampa Bay Rays,New York Yankees,50.96,0.0,0.4,0.2,54.46,0.0,0.4,0.2
+30-07-2017,Tampa Bay Rays,New York Yankees,50.48,0.0,0.2,0.2,54.9,0.0,0.2,0.2
+31-07-2017,Detroit Tigers,New York Yankees,45.63,0.33,0.2,0.3,54.37,0.33,0.2,0.3
+01-08-2017,Detroit Tigers,New York Yankees,45.19,0.33,0.4,0.3,54.81,0.33,0.4,0.3
+02-08-2017,Detroit Tigers,New York Yankees,45.71,0.0,0.4,0.3,54.29,0.0,0.4,0.3
+11-08-2017,Boston Red Sox,New York Yankees,57.02,0.33,0.6,0.7,53.1,0.33,0.6,0.7
+12-08-2017,Boston Red Sox,New York Yankees,56.52,0.33,0.6,0.8,53.51,0.33,0.6,0.8
+13-08-2017,Boston Red Sox,New York Yankees,56.9,0.0,0.4,0.7,53.04,0.0,0.4,0.7
+14-08-2017,New York Mets,New York Yankees,46.09,0.0,0.4,0.3,52.59,0.0,0.4,0.3
+15-08-2017,New York Mets,New York Yankees,45.69,0.33,0.4,0.4,52.99,0.33,0.4,0.4
+25-08-2017,Seattle Mariners,New York Yankees,50.78,0.0,0.2,0.5,53.97,0.0,0.2,0.5
+26-08-2017,Seattle Mariners,New York Yankees,51.16,0.33,0.4,0.6,53.54,0.33,0.4,0.6
+27-08-2017,Seattle Mariners,New York Yankees,50.77,0.33,0.4,0.6,53.91,0.33,0.4,0.6
+28-08-2017,Cleveland Indians,New York Yankees,56.59,0.33,0.6,0.5,54.26,0.33,0.6,0.5
+31-08-2017,Boston Red Sox,New York Yankees,57.14,0.33,0.4,0.4,53.03,0.33,0.4,0.4
+01-09-2017,Boston Red Sox,New York Yankees,56.72,0.33,0.6,0.4,53.38,0.33,0.6,0.4
+02-09-2017,Boston Red Sox,New York Yankees,57.04,0.0,0.4,0.3,52.99,0.0,0.4,0.3
+03-09-2017,Boston Red Sox,New York Yankees,56.62,0.33,0.4,0.4,53.33,0.33,0.4,0.4
+14-09-2017,Baltimore Orioles,New York Yankees,49.32,0.0,0.0,0.1,54.48,0.0,0.0,0.1
+15-09-2017,Baltimore Orioles,New York Yankees,48.98,0.33,0.2,0.2,54.79,0.33,0.2,0.2
+16-09-2017,Baltimore Orioles,New York Yankees,48.65,0.0,0.2,0.1,55.1,0.0,0.2,0.1
+17-09-2017,Baltimore Orioles,New York Yankees,48.32,0.0,0.2,0.1,55.41,0.0,0.2,0.1
+18-09-2017,Minnesota Twins,New York Yankees,52.35,0.0,0.2,0.4,55.03,0.0,0.2,0.4
+19-09-2017,Minnesota Twins,New York Yankees,52.0,0.33,0.2,0.4,55.33,0.33,0.2,0.4
+20-09-2017,Minnesota Twins,New York Yankees,51.66,0.0,0.2,0.4,55.63,0.0,0.2,0.4
+25-09-2017,Kansas City Royals,New York Yankees,49.03,0.33,0.4,0.4,55.48,0.33,0.4,0.4
+26-09-2017,Tampa Bay Rays,New York Yankees,48.72,0.33,0.4,0.4,55.77,0.33,0.4,0.4
+27-09-2017,Tampa Bay Rays,New York Yankees,48.41,0.0,0.4,0.4,56.05,0.0,0.4,0.4
+28-09-2017,Tampa Bay Rays,New York Yankees,48.1,0.0,0.2,0.4,56.33,0.0,0.2,0.4
+29-09-2017,Toronto Blue Jays,New York Yankees,47.17,0.33,0.6,0.5,55.97,0.33,0.6,0.5
+30-09-2017,Toronto Blue Jays,New York Yankees,46.88,0.0,0.4,0.4,56.25,0.0,0.4,0.4
+01-10-2017,Toronto Blue Jays,New York Yankees,46.58,0.0,0.2,0.4,56.52,0.0,0.2,0.4
+03-04-2017,Atlanta Braves,New York Mets,0,0.0,0.0,0.1,0,0.0,0.0,0.1
+05-04-2017,Atlanta Braves,New York Mets,0.0,nan,nan,nan,100.0,nan,nan,nan
+06-04-2017,Atlanta Braves,New York Mets,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+07-04-2017,Miami Marlins,New York Mets,33.33,0.0,nan,nan,66.67,0.0,nan,nan
+08-04-2017,Miami Marlins,New York Mets,50.0,0.33,0.2,nan,50.0,0.33,0.2,nan
+09-04-2017,Miami Marlins,New York Mets,60.0,0.33,0.4,nan,40.0,0.33,0.4,nan
+18-04-2017,Philadelphia Phillies,New York Mets,33.33,0.33,0.2,0.3,53.85,0.33,0.2,0.3
+19-04-2017,Philadelphia Phillies,New York Mets,38.46,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+20-04-2017,Philadelphia Phillies,New York Mets,35.71,0.33,0.4,0.3,53.33,0.33,0.4,0.3
+21-04-2017,Washington Nationals,New York Mets,66.67,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+22-04-2017,Washington Nationals,New York Mets,68.75,0.33,0.6,0.6,47.06,0.33,0.6,0.6
+23-04-2017,Washington Nationals,New York Mets,70.59,0.33,0.6,0.6,44.44,0.33,0.6,0.6
+26-04-2017,Atlanta Braves,New York Mets,33.33,0.0,0.0,0.3,42.11,0.0,0.0,0.3
+27-04-2017,Atlanta Braves,New York Mets,36.84,0.0,0.0,0.2,40.0,0.0,0.0,0.2
+05-05-2017,Miami Marlins,New York Mets,44.44,0.33,0.2,0.2,44.44,0.33,0.2,0.2
+06-05-2017,Miami Marlins,New York Mets,42.86,0.0,0.2,0.2,46.43,0.0,0.2,0.2
+07-05-2017,Miami Marlins,New York Mets,41.38,0.0,0.2,0.2,48.28,0.0,0.2,0.2
+08-05-2017,San Francisco Giants,New York Mets,34.38,0.0,0.2,0.3,46.67,0.0,0.2,0.3
+09-05-2017,San Francisco Giants,New York Mets,33.33,0.0,0.0,0.2,48.39,0.0,0.0,0.2
+10-05-2017,San Francisco Giants,New York Mets,32.35,0.0,0.0,0.2,50.0,0.0,0.0,0.2
+19-05-2017,Los Angeles Angels,New York Mets,51.16,0.33,0.6,0.5,41.03,0.33,0.6,0.5
+20-05-2017,Los Angeles Angels,New York Mets,50.0,0.33,0.6,0.5,42.5,0.33,0.6,0.5
+21-05-2017,Los Angeles Angels,New York Mets,48.89,0.0,0.4,0.5,43.9,0.0,0.4,0.5
+23-05-2017,San Diego Padres,New York Mets,34.78,0.0,0.0,0.1,42.86,0.0,0.0,0.1
+24-05-2017,San Diego Padres,New York Mets,34.04,0.33,0.2,0.2,44.19,0.33,0.2,0.2
+25-05-2017,San Diego Padres,New York Mets,35.42,0.0,0.2,0.2,43.18,0.0,0.2,0.2
+29-05-2017,Milwaukee Brewers,New York Mets,54.0,0.33,0.2,0.3,43.75,0.33,0.2,0.3
+30-05-2017,Milwaukee Brewers,New York Mets,52.94,0.33,0.4,0.3,44.9,0.33,0.4,0.3
+31-05-2017,Milwaukee Brewers,New York Mets,51.92,0.0,0.4,0.2,46.0,0.0,0.4,0.2
+01-06-2017,Milwaukee Brewers,New York Mets,52.83,0.0,0.2,0.2,45.1,0.0,0.2,0.2
+02-06-2017,Pittsburgh Pirates,New York Mets,44.44,0.0,0.2,0.4,44.23,0.0,0.2,0.4
+03-06-2017,Pittsburgh Pirates,New York Mets,45.45,0.0,0.2,0.4,43.4,0.0,0.2,0.4
+04-06-2017,Pittsburgh Pirates,New York Mets,44.64,0.33,0.2,0.4,44.44,0.33,0.2,0.4
+12-06-2017,Chicago Cubs,New York Mets,50.0,0.0,0.0,0.4,45.9,0.0,0.0,0.4
+13-06-2017,Chicago Cubs,New York Mets,49.21,0.33,0.2,0.4,46.77,0.33,0.2,0.4
+14-06-2017,Chicago Cubs,New York Mets,50.0,0.0,0.2,0.3,46.03,0.0,0.2,0.3
+15-06-2017,Washington Nationals,New York Mets,60.0,0.33,0.2,0.3,46.88,0.33,0.2,0.3
+16-06-2017,Washington Nationals,New York Mets,60.61,0.0,0.2,0.2,46.15,0.0,0.2,0.2
+17-06-2017,Washington Nationals,New York Mets,61.19,0.33,0.4,0.3,45.45,0.33,0.4,0.3
+18-06-2017,Washington Nationals,New York Mets,61.76,0.33,0.4,0.3,44.78,0.33,0.4,0.3
+30-06-2017,Philadelphia Phillies,New York Mets,33.77,0.33,0.2,0.3,46.15,0.33,0.2,0.3
+01-07-2017,Philadelphia Phillies,New York Mets,33.33,0.33,0.4,0.4,46.84,0.33,0.4,0.4
+02-07-2017,Philadelphia Phillies,New York Mets,32.91,0.0,0.4,0.4,47.5,0.0,0.4,0.4
+14-07-2017,Colorado Rockies,New York Mets,57.14,0.0,0.2,0.3,45.35,0.0,0.2,0.3
+15-07-2017,Colorado Rockies,New York Mets,56.52,0.33,0.4,0.4,45.98,0.33,0.4,0.4
+16-07-2017,Colorado Rockies,New York Mets,55.91,0.0,0.2,0.4,46.59,0.0,0.2,0.4
+17-07-2017,St. Louis Cardinals,New York Mets,48.35,0.33,0.4,0.4,46.07,0.33,0.4,0.4
+18-07-2017,St. Louis Cardinals,New York Mets,48.91,0.0,0.2,0.4,45.56,0.0,0.2,0.4
+19-07-2017,St. Louis Cardinals,New York Mets,49.46,0.33,0.4,0.5,45.05,0.33,0.4,0.5
+20-07-2017,St. Louis Cardinals,New York Mets,48.94,0.33,0.4,0.5,45.65,0.33,0.4,0.5
+21-07-2017,Oakland Athletics,New York Mets,45.26,0.0,0.2,0.4,46.24,0.0,0.2,0.4
+22-07-2017,Oakland Athletics,New York Mets,44.79,0.33,0.2,0.5,46.81,0.33,0.2,0.5
+23-07-2017,Oakland Athletics,New York Mets,44.33,0.0,0.2,0.4,47.37,0.0,0.2,0.4
+04-08-2017,Los Angeles Dodgers,New York Mets,70.37,0.0,0.4,0.7,46.23,0.0,0.4,0.7
+05-08-2017,Los Angeles Dodgers,New York Mets,70.64,0.33,0.4,0.7,45.79,0.33,0.4,0.7
+06-08-2017,Los Angeles Dodgers,New York Mets,70.91,0.33,0.4,0.7,45.37,0.33,0.4,0.7
+08-08-2017,Texas Rangers,New York Mets,47.75,0.33,0.4,0.3,44.95,0.33,0.4,0.3
+09-08-2017,Texas Rangers,New York Mets,47.32,0.0,0.2,0.3,45.45,0.0,0.2,0.3
+16-08-2017,New York Yankees,New York Mets,53.39,0.33,0.2,0.4,45.3,0.33,0.2,0.4
+17-08-2017,New York Yankees,New York Mets,53.78,0.33,0.4,0.4,44.92,0.33,0.4,0.4
+18-08-2017,Miami Marlins,New York Mets,48.74,0.0,0.4,0.5,44.54,0.0,0.4,0.5
+19-08-2017,Miami Marlins,New York Mets,49.17,0.33,0.4,0.5,44.17,0.33,0.4,0.5
+20-08-2017,Miami Marlins,New York Mets,48.76,0.33,0.4,0.6,44.63,0.33,0.4,0.6
+21-08-2017,Arizona Diamondbacks,New York Mets,54.03,0.0,0.2,0.3,44.26,0.0,0.2,0.3
+22-08-2017,Arizona Diamondbacks,New York Mets,54.4,0.0,0.0,0.2,43.9,0.0,0.0,0.2
+23-08-2017,Arizona Diamondbacks,New York Mets,54.76,0.33,0.2,0.3,43.55,0.33,0.2,0.3
+24-08-2017,Arizona Diamondbacks,New York Mets,54.33,0.33,0.4,0.3,44.0,0.33,0.4,0.3
+04-09-2017,Philadelphia Phillies,New York Mets,38.24,0.0,0.4,0.4,42.65,0.0,0.4,0.4
+05-09-2017,Philadelphia Phillies,New York Mets,37.96,0.33,0.4,0.5,43.07,0.33,0.4,0.5
+06-09-2017,Philadelphia Phillies,New York Mets,38.41,0.0,0.2,0.4,42.75,0.0,0.2,0.4
+07-09-2017,Cincinnati Reds,New York Mets,43.57,0.33,0.4,0.5,43.17,0.33,0.4,0.5
+08-09-2017,Cincinnati Reds,New York Mets,43.26,0.33,0.6,0.5,43.57,0.33,0.6,0.5
+09-09-2017,Cincinnati Reds,New York Mets,42.96,0.0,0.4,0.5,43.97,0.0,0.4,0.5
+10-09-2017,Cincinnati Reds,New York Mets,42.66,0.0,0.2,0.4,44.37,0.0,0.2,0.4
+22-09-2017,Washington Nationals,New York Mets,60.53,0.33,0.6,0.4,42.76,0.33,0.6,0.4
+23-09-2017,Washington Nationals,New York Mets,60.13,0.0,0.4,0.4,43.14,0.0,0.4,0.4
+24-09-2017,Washington Nationals,New York Mets,60.39,0.0,0.2,0.4,42.86,0.0,0.2,0.4
+26-09-2017,Atlanta Braves,New York Mets,45.51,0.33,0.4,0.4,42.68,0.33,0.4,0.4
+27-09-2017,Atlanta Braves,New York Mets,45.22,0.0,0.2,0.4,43.04,0.0,0.2,0.4
+03-04-2017,Los Angeles Angels,Oakland Athletics,0,0.0,0.2,0.3,0,0.0,0.2,0.3
+04-04-2017,Los Angeles Angels,Oakland Athletics,0.0,nan,nan,nan,100.0,nan,nan,nan
+05-04-2017,Los Angeles Angels,Oakland Athletics,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+06-04-2017,Los Angeles Angels,Oakland Athletics,66.67,0.33,nan,nan,33.33,0.33,nan,nan
+14-04-2017,Houston Astros,Oakland Athletics,60.0,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+15-04-2017,Houston Astros,Oakland Athletics,63.64,0.33,0.4,0.4,45.45,0.33,0.4,0.4
+17-04-2017,Texas Rangers,Oakland Athletics,33.33,0.0,0.2,0.4,41.67,0.0,0.2,0.4
+18-04-2017,Texas Rangers,Oakland Athletics,38.46,0.0,0.0,0.3,38.46,0.0,0.0,0.3
+19-04-2017,Texas Rangers,Oakland Athletics,35.71,0.33,0.2,0.4,42.86,0.33,0.2,0.4
+20-04-2017,Seattle Mariners,Oakland Athletics,43.75,0.0,0.4,0.5,46.67,0.0,0.4,0.5
+21-04-2017,Seattle Mariners,Oakland Athletics,41.18,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+22-04-2017,Seattle Mariners,Oakland Athletics,38.89,0.0,0.2,0.5,52.94,0.0,0.2,0.5
+23-04-2017,Seattle Mariners,Oakland Athletics,36.84,0.0,0.2,0.5,55.56,0.0,0.2,0.5
+05-05-2017,Detroit Tigers,Oakland Athletics,51.85,0.33,0.6,0.4,42.86,0.33,0.6,0.4
+06-05-2017,Detroit Tigers,Oakland Athletics,53.57,0.0,0.4,0.3,41.38,0.0,0.4,0.3
+07-05-2017,Detroit Tigers,Oakland Athletics,51.72,0.33,0.4,0.4,43.33,0.33,0.4,0.4
+08-05-2017,Los Angeles Angels,Oakland Athletics,48.48,0.33,0.2,0.4,45.16,0.33,0.2,0.4
+09-05-2017,Los Angeles Angels,Oakland Athletics,47.06,0.0,0.2,0.3,46.88,0.0,0.2,0.3
+10-05-2017,Los Angeles Angels,Oakland Athletics,48.57,0.0,0.2,0.3,45.45,0.0,0.2,0.3
+18-05-2017,Boston Red Sox,Oakland Athletics,53.85,0.33,0.4,0.4,42.5,0.33,0.4,0.4
+19-05-2017,Boston Red Sox,Oakland Athletics,52.5,0.33,0.4,0.4,43.9,0.33,0.4,0.4
+20-05-2017,Boston Red Sox,Oakland Athletics,51.22,0.0,0.4,0.4,45.24,0.0,0.4,0.4
+21-05-2017,Boston Red Sox,Oakland Athletics,50.0,0.0,0.2,0.4,46.51,0.0,0.2,0.4
+23-05-2017,Miami Marlins,Oakland Athletics,34.88,0.33,0.2,0.2,45.45,0.33,0.2,0.2
+24-05-2017,Miami Marlins,Oakland Athletics,36.36,0.0,0.2,0.2,44.44,0.0,0.2,0.2
+02-06-2017,Washington Nationals,Oakland Athletics,63.46,0.33,0.4,0.6,43.4,0.33,0.4,0.6
+03-06-2017,Washington Nationals,Oakland Athletics,64.15,0.33,0.6,0.6,42.59,0.33,0.6,0.6
+04-06-2017,Washington Nationals,Oakland Athletics,62.96,0.33,0.6,0.6,43.64,0.33,0.6,0.6
+05-06-2017,Toronto Blue Jays,Oakland Athletics,49.12,0.0,0.2,0.5,42.86,0.0,0.2,0.5
+06-06-2017,Toronto Blue Jays,Oakland Athletics,48.28,0.33,0.4,0.5,43.86,0.33,0.4,0.5
+07-06-2017,Toronto Blue Jays,Oakland Athletics,47.46,0.0,0.2,0.5,44.83,0.0,0.2,0.5
+15-06-2017,New York Yankees,Oakland Athletics,60.32,0.0,0.4,0.6,41.54,0.0,0.4,0.6
+16-06-2017,New York Yankees,Oakland Athletics,59.38,0.0,0.2,0.6,42.42,0.0,0.2,0.6
+17-06-2017,New York Yankees,Oakland Athletics,58.46,0.0,0.0,0.5,43.28,0.0,0.0,0.5
+18-06-2017,New York Yankees,Oakland Athletics,57.58,0.0,0.0,0.4,44.12,0.0,0.0,0.4
+19-06-2017,Houston Astros,Oakland Athletics,65.71,0.33,0.4,0.3,44.93,0.33,0.4,0.3
+20-06-2017,Houston Astros,Oakland Athletics,66.2,0.0,0.2,0.3,44.29,0.0,0.2,0.3
+21-06-2017,Houston Astros,Oakland Athletics,66.67,0.33,0.4,0.3,43.66,0.33,0.4,0.3
+22-06-2017,Houston Astros,Oakland Athletics,67.12,0.33,0.4,0.4,43.06,0.33,0.4,0.4
+30-06-2017,Atlanta Braves,Oakland Athletics,47.44,0.0,0.2,0.5,44.3,0.0,0.2,0.5
+01-07-2017,Atlanta Braves,Oakland Athletics,48.1,0.0,0.2,0.5,43.75,0.0,0.2,0.5
+02-07-2017,Atlanta Braves,Oakland Athletics,48.75,0.33,0.2,0.5,43.21,0.33,0.2,0.5
+03-07-2017,Chicago White Sox,Oakland Athletics,44.44,0.0,0.4,0.3,42.68,0.0,0.4,0.3
+04-07-2017,Chicago White Sox,Oakland Athletics,45.12,0.33,0.4,0.4,42.17,0.33,0.4,0.4
+05-07-2017,Chicago White Sox,Oakland Athletics,44.58,0.33,0.4,0.5,42.86,0.33,0.4,0.5
+14-07-2017,Cleveland Indians,Oakland Athletics,54.02,0.33,0.6,0.5,43.82,0.33,0.6,0.5
+15-07-2017,Cleveland Indians,Oakland Athletics,53.41,0.0,0.4,0.5,44.44,0.0,0.4,0.5
+16-07-2017,Cleveland Indians,Oakland Athletics,52.81,0.0,0.2,0.4,45.05,0.0,0.2,0.4
+17-07-2017,Tampa Bay Rays,Oakland Athletics,52.69,0.33,0.6,0.6,45.65,0.33,0.6,0.6
+18-07-2017,Tampa Bay Rays,Oakland Athletics,53.19,0.0,0.4,0.5,45.16,0.0,0.4,0.5
+19-07-2017,Tampa Bay Rays,Oakland Athletics,53.68,0.33,0.4,0.6,44.68,0.33,0.4,0.6
+28-07-2017,Minnesota Twins,Oakland Athletics,49.0,0.0,0.0,0.3,43.14,0.0,0.0,0.3
+29-07-2017,Minnesota Twins,Oakland Athletics,49.5,0.0,0.0,0.2,42.72,0.0,0.0,0.2
+30-07-2017,Minnesota Twins,Oakland Athletics,49.02,0.33,0.2,0.3,43.27,0.33,0.2,0.3
+31-07-2017,San Francisco Giants,Oakland Athletics,37.74,0.0,0.2,0.3,43.81,0.0,0.2,0.3
+01-08-2017,San Francisco Giants,Oakland Athletics,37.38,0.0,0.0,0.3,44.34,0.0,0.0,0.3
+08-08-2017,Seattle Mariners,Oakland Athletics,50.44,0.33,0.4,0.6,44.64,0.33,0.4,0.6
+09-08-2017,Seattle Mariners,Oakland Athletics,50.88,0.0,0.4,0.5,44.25,0.0,0.4,0.5
+10-08-2017,Baltimore Orioles,Oakland Athletics,49.12,0.0,0.4,0.5,43.86,0.0,0.4,0.5
+11-08-2017,Baltimore Orioles,Oakland Athletics,49.57,0.0,0.2,0.4,43.48,0.0,0.2,0.4
+12-08-2017,Baltimore Orioles,Oakland Athletics,49.14,0.33,0.2,0.4,43.97,0.33,0.2,0.4
+13-08-2017,Baltimore Orioles,Oakland Athletics,49.57,0.0,0.2,0.4,43.59,0.0,0.2,0.4
+14-08-2017,Kansas City Royals,Oakland Athletics,50.43,0.33,0.2,0.2,44.07,0.33,0.2,0.2
+15-08-2017,Kansas City Royals,Oakland Athletics,50.85,0.33,0.4,0.3,43.7,0.33,0.4,0.3
+16-08-2017,Kansas City Royals,Oakland Athletics,50.42,0.33,0.6,0.3,44.17,0.33,0.6,0.3
+25-08-2017,Texas Rangers,Oakland Athletics,50.39,0.33,0.4,0.5,43.31,0.33,0.4,0.5
+26-08-2017,Texas Rangers,Oakland Athletics,50.0,0.33,0.4,0.5,43.75,0.33,0.4,0.5
+27-08-2017,Texas Rangers,Oakland Athletics,49.61,0.0,0.4,0.4,44.19,0.0,0.4,0.4
+04-09-2017,Los Angeles Angels,Oakland Athletics,51.09,0.33,0.4,0.5,42.65,0.33,0.4,0.5
+05-09-2017,Los Angeles Angels,Oakland Athletics,51.45,0.0,0.2,0.5,42.34,0.0,0.2,0.5
+06-09-2017,Los Angeles Angels,Oakland Athletics,51.8,0.33,0.4,0.5,42.03,0.33,0.4,0.5
+08-09-2017,Houston Astros,Oakland Athletics,61.87,0.33,0.6,0.6,42.45,0.33,0.6,0.6
+10-09-2017,Houston Astros,Oakland Athletics,60.56,0.0,0.2,0.6,43.66,0.0,0.2,0.6
+22-09-2017,Texas Rangers,Oakland Athletics,50.0,0.33,0.6,0.3,45.39,0.33,0.6,0.3
+23-09-2017,Texas Rangers,Oakland Athletics,49.67,0.33,0.6,0.4,45.75,0.33,0.6,0.4
+24-09-2017,Texas Rangers,Oakland Athletics,49.35,0.0,0.4,0.4,46.1,0.0,0.4,0.4
+25-09-2017,Seattle Mariners,Oakland Athletics,48.08,0.0,0.2,0.1,46.45,0.0,0.2,0.1
+26-09-2017,Seattle Mariners,Oakland Athletics,48.41,0.0,0.2,0.1,46.15,0.0,0.2,0.1
+27-09-2017,Seattle Mariners,Oakland Athletics,48.73,0.33,0.2,0.2,45.86,0.33,0.2,0.2
+07-04-2017,Washington Nationals,Philadelphia Phillies,66.67,0.33,nan,nan,33.33,0.33,nan,nan
+08-04-2017,Washington Nationals,Philadelphia Phillies,75.0,0.0,0.4,nan,25.0,0.0,0.4,nan
+09-04-2017,Washington Nationals,Philadelphia Phillies,60.0,0.33,0.4,nan,40.0,0.33,0.4,nan
+10-04-2017,New York Mets,Philadelphia Phillies,50.0,0.0,0.2,nan,50.0,0.0,0.2,nan
+11-04-2017,New York Mets,Philadelphia Phillies,57.14,0.33,0.2,nan,42.86,0.33,0.2,nan
+12-04-2017,New York Mets,Philadelphia Phillies,62.5,0.33,0.4,nan,37.5,0.33,0.4,nan
+21-04-2017,Atlanta Braves,Philadelphia Phillies,40.0,0.0,0.2,0.5,40.0,0.0,0.2,0.5
+22-04-2017,Atlanta Braves,Philadelphia Phillies,37.5,0.0,0.0,0.5,43.75,0.0,0.0,0.5
+23-04-2017,Atlanta Braves,Philadelphia Phillies,35.29,0.0,0.0,0.4,47.06,0.0,0.0,0.4
+26-04-2017,Miami Marlins,Philadelphia Phillies,55.56,0.33,0.2,0.5,50.0,0.33,0.2,0.5
+27-04-2017,Miami Marlins,Philadelphia Phillies,52.63,0.33,0.4,0.5,52.63,0.33,0.4,0.5
+05-05-2017,Washington Nationals,Philadelphia Phillies,67.86,0.33,0.4,0.5,44.44,0.33,0.4,0.5
+06-05-2017,Washington Nationals,Philadelphia Phillies,68.97,0.33,0.4,0.5,42.86,0.33,0.4,0.5
+07-05-2017,Washington Nationals,Philadelphia Phillies,70.0,0.33,0.6,0.5,41.38,0.33,0.6,0.5
+09-05-2017,Seattle Mariners,Philadelphia Phillies,46.88,0.33,0.4,0.4,43.33,0.33,0.4,0.4
+10-05-2017,Seattle Mariners,Philadelphia Phillies,48.48,0.33,0.4,0.4,41.94,0.33,0.4,0.4
+22-05-2017,Colorado Rockies,Philadelphia Phillies,62.22,0.0,0.2,0.4,36.59,0.0,0.2,0.4
+23-05-2017,Colorado Rockies,Philadelphia Phillies,63.04,0.33,0.4,0.5,35.71,0.33,0.4,0.5
+24-05-2017,Colorado Rockies,Philadelphia Phillies,63.83,0.33,0.4,0.6,34.88,0.33,0.4,0.6
+25-05-2017,Colorado Rockies,Philadelphia Phillies,64.58,0.33,0.6,0.6,34.09,0.33,0.6,0.6
+26-05-2017,Cincinnati Reds,Philadelphia Phillies,47.83,0.0,0.2,0.2,35.56,0.0,0.2,0.2
+27-05-2017,Cincinnati Reds,Philadelphia Phillies,48.94,0.33,0.4,0.3,34.78,0.33,0.4,0.3
+28-05-2017,Cincinnati Reds,Philadelphia Phillies,47.92,0.33,0.4,0.4,36.17,0.33,0.4,0.4
+02-06-2017,San Francisco Giants,Philadelphia Phillies,40.0,0.0,0.2,0.2,33.33,0.0,0.2,0.2
+03-06-2017,San Francisco Giants,Philadelphia Phillies,41.07,0.0,0.0,0.2,32.69,0.0,0.0,0.2
+04-06-2017,San Francisco Giants,Philadelphia Phillies,40.35,0.33,0.2,0.3,33.96,0.33,0.2,0.3
+14-06-2017,Boston Red Sox,Philadelphia Phillies,56.25,0.33,0.4,0.5,33.33,0.33,0.4,0.5
+15-06-2017,Boston Red Sox,Philadelphia Phillies,56.92,0.33,0.4,0.5,32.81,0.33,0.4,0.5
+16-06-2017,Arizona Diamondbacks,Philadelphia Phillies,61.19,0.33,0.6,0.6,33.85,0.33,0.6,0.6
+17-06-2017,Arizona Diamondbacks,Philadelphia Phillies,61.76,0.33,0.6,0.7,33.33,0.33,0.6,0.7
+18-06-2017,Arizona Diamondbacks,Philadelphia Phillies,62.32,0.33,0.6,0.7,32.84,0.33,0.6,0.7
+20-06-2017,St. Louis Cardinals,Philadelphia Phillies,45.59,0.0,0.2,0.4,32.35,0.0,0.2,0.4
+21-06-2017,St. Louis Cardinals,Philadelphia Phillies,46.38,0.0,0.2,0.3,31.88,0.0,0.2,0.3
+22-06-2017,St. Louis Cardinals,Philadelphia Phillies,47.14,0.33,0.2,0.3,31.43,0.33,0.2,0.3
+03-07-2017,Pittsburgh Pirates,Philadelphia Phillies,45.12,0.0,0.2,0.4,33.75,0.0,0.2,0.4
+04-07-2017,Pittsburgh Pirates,Philadelphia Phillies,44.58,0.0,0.0,0.3,34.57,0.0,0.0,0.3
+05-07-2017,Pittsburgh Pirates,Philadelphia Phillies,45.24,0.0,0.0,0.2,34.15,0.0,0.0,0.2
+06-07-2017,Pittsburgh Pirates,Philadelphia Phillies,45.88,0.33,0.2,0.3,33.73,0.33,0.2,0.3
+07-07-2017,San Diego Padres,Philadelphia Phillies,42.35,0.33,0.6,0.5,33.33,0.33,0.6,0.5
+08-07-2017,San Diego Padres,Philadelphia Phillies,43.02,0.0,0.4,0.5,32.94,0.0,0.4,0.5
+09-07-2017,San Diego Padres,Philadelphia Phillies,43.68,0.33,0.4,0.5,32.56,0.33,0.4,0.5
+21-07-2017,Milwaukee Brewers,Philadelphia Phillies,53.06,0.0,0.0,0.3,34.41,0.0,0.0,0.3
+22-07-2017,Milwaukee Brewers,Philadelphia Phillies,52.53,0.0,0.0,0.3,35.11,0.0,0.0,0.3
+23-07-2017,Milwaukee Brewers,Philadelphia Phillies,53.0,0.0,0.0,0.2,34.74,0.0,0.0,0.2
+24-07-2017,Houston Astros,Philadelphia Phillies,66.33,0.33,0.4,0.5,35.42,0.33,0.4,0.5
+25-07-2017,Houston Astros,Philadelphia Phillies,66.67,0.0,0.4,0.4,35.05,0.0,0.4,0.4
+26-07-2017,Houston Astros,Philadelphia Phillies,67.0,0.33,0.4,0.5,34.69,0.33,0.4,0.5
+28-07-2017,Atlanta Braves,Philadelphia Phillies,48.0,0.33,0.2,0.3,35.35,0.33,0.2,0.3
+29-07-2017,Atlanta Braves,Philadelphia Phillies,47.52,0.0,0.2,0.3,36.0,0.0,0.2,0.3
+30-07-2017,Atlanta Braves,Philadelphia Phillies,47.06,0.0,0.2,0.3,36.63,0.0,0.2,0.3
+31-07-2017,Atlanta Braves,Philadelphia Phillies,46.6,0.0,0.0,0.2,37.25,0.0,0.0,0.2
+10-08-2017,New York Mets,Philadelphia Phillies,45.05,0.33,0.2,0.2,37.84,0.33,0.2,0.2
+11-08-2017,New York Mets,Philadelphia Phillies,45.54,0.0,0.2,0.2,37.5,0.0,0.2,0.2
+12-08-2017,New York Mets,Philadelphia Phillies,46.02,0.33,0.4,0.3,37.17,0.33,0.4,0.3
+13-08-2017,New York Mets,Philadelphia Phillies,45.61,0.33,0.4,0.3,37.72,0.33,0.4,0.3
+23-08-2017,Miami Marlins,Philadelphia Phillies,50.0,0.33,0.4,0.6,36.29,0.33,0.4,0.6
+24-08-2017,Miami Marlins,Philadelphia Phillies,49.6,0.33,0.6,0.6,36.8,0.33,0.6,0.6
+25-08-2017,Chicago Cubs,Philadelphia Phillies,53.97,0.33,0.6,0.6,36.51,0.33,0.6,0.6
+26-08-2017,Chicago Cubs,Philadelphia Phillies,53.54,0.0,0.4,0.6,37.01,0.0,0.4,0.6
+27-08-2017,Chicago Cubs,Philadelphia Phillies,53.91,0.0,0.2,0.5,36.72,0.0,0.2,0.5
+28-08-2017,Atlanta Braves,Philadelphia Phillies,44.53,0.0,0.2,0.3,37.21,0.0,0.2,0.3
+12-09-2017,Miami Marlins,Philadelphia Phillies,47.55,0.0,0.2,0.2,37.76,0.0,0.2,0.2
+13-09-2017,Miami Marlins,Philadelphia Phillies,47.22,0.0,0.2,0.1,38.19,0.0,0.2,0.1
+14-09-2017,Miami Marlins,Philadelphia Phillies,46.9,0.0,0.0,0.1,38.62,0.0,0.0,0.1
+15-09-2017,Oakland Athletics,Philadelphia Phillies,43.84,0.33,0.4,0.6,39.04,0.33,0.4,0.6
+16-09-2017,Oakland Athletics,Philadelphia Phillies,44.22,0.0,0.2,0.6,38.78,0.0,0.2,0.6
+17-09-2017,Oakland Athletics,Philadelphia Phillies,43.92,0.33,0.4,0.6,39.19,0.33,0.4,0.6
+18-09-2017,Los Angeles Dodgers,Philadelphia Phillies,64.43,0.33,0.6,0.4,38.93,0.33,0.6,0.4
+19-09-2017,Los Angeles Dodgers,Philadelphia Phillies,64.0,0.0,0.4,0.4,39.33,0.0,0.4,0.4
+20-09-2017,Los Angeles Dodgers,Philadelphia Phillies,63.58,0.0,0.2,0.4,39.74,0.0,0.2,0.4
+21-09-2017,Los Angeles Dodgers,Philadelphia Phillies,63.16,0.0,0.0,0.4,40.13,0.0,0.0,0.4
+25-09-2017,Washington Nationals,Philadelphia Phillies,60.65,0.33,0.2,0.4,39.74,0.33,0.2,0.4
+26-09-2017,Washington Nationals,Philadelphia Phillies,60.9,0.33,0.4,0.5,39.49,0.33,0.4,0.5
+27-09-2017,Washington Nationals,Philadelphia Phillies,60.51,0.33,0.6,0.6,39.87,0.33,0.6,0.6
+29-09-2017,New York Mets,Philadelphia Phillies,43.4,0.33,0.4,0.3,40.25,0.33,0.4,0.3
+30-09-2017,New York Mets,Philadelphia Phillies,43.12,0.33,0.6,0.4,40.62,0.33,0.6,0.4
+01-10-2017,New York Mets,Philadelphia Phillies,43.48,0.0,0.4,0.4,40.37,0.0,0.4,0.4
+07-04-2017,Atlanta Braves,Pittsburgh Pirates,33.33,0.33,nan,nan,0.0,0.33,nan,nan
+08-04-2017,Atlanta Braves,Pittsburgh Pirates,25.0,0.0,0.2,nan,33.33,0.0,0.2,nan
+09-04-2017,Atlanta Braves,Pittsburgh Pirates,20.0,0.0,0.2,nan,50.0,0.0,0.2,nan
+10-04-2017,Cincinnati Reds,Pittsburgh Pirates,66.67,0.0,0.4,nan,60.0,0.0,0.4,nan
+11-04-2017,Cincinnati Reds,Pittsburgh Pirates,71.43,0.33,0.4,nan,50.0,0.33,0.4,nan
+12-04-2017,Cincinnati Reds,Pittsburgh Pirates,75.0,0.33,0.4,nan,42.86,0.33,0.4,nan
+21-04-2017,New York Yankees,Pittsburgh Pirates,66.67,0.0,0.4,0.7,40.0,0.0,0.4,0.7
+22-04-2017,New York Yankees,Pittsburgh Pirates,62.5,0.33,0.4,0.7,43.75,0.33,0.4,0.7
+23-04-2017,New York Yankees,Pittsburgh Pirates,64.71,0.0,0.2,0.6,41.18,0.0,0.2,0.6
+24-04-2017,Chicago Cubs,Pittsburgh Pirates,55.56,0.33,0.6,0.4,44.44,0.33,0.6,0.4
+25-04-2017,Chicago Cubs,Pittsburgh Pirates,57.89,0.0,0.4,0.4,42.11,0.0,0.4,0.4
+26-04-2017,Chicago Cubs,Pittsburgh Pirates,60.0,0.33,0.4,0.5,40.0,0.33,0.4,0.5
+05-05-2017,Milwaukee Brewers,Pittsburgh Pirates,51.72,0.0,0.4,0.5,42.86,0.0,0.4,0.5
+06-05-2017,Milwaukee Brewers,Pittsburgh Pirates,50.0,0.33,0.4,0.5,44.83,0.33,0.4,0.5
+07-05-2017,Milwaukee Brewers,Pittsburgh Pirates,48.39,0.0,0.2,0.4,46.67,0.0,0.2,0.4
+16-05-2017,Washington Nationals,Pittsburgh Pirates,64.86,0.0,0.4,0.4,42.11,0.0,0.4,0.4
+17-05-2017,Washington Nationals,Pittsburgh Pirates,65.79,0.33,0.4,0.4,41.03,0.33,0.4,0.4
+18-05-2017,Washington Nationals,Pittsburgh Pirates,64.1,0.33,0.4,0.4,42.5,0.33,0.4,0.4
+19-05-2017,Philadelphia Phillies,Pittsburgh Pirates,36.84,0.0,0.0,0.2,43.9,0.0,0.0,0.2
+20-05-2017,Philadelphia Phillies,Pittsburgh Pirates,38.46,0.0,0.0,0.1,42.86,0.0,0.0,0.1
+21-05-2017,Philadelphia Phillies,Pittsburgh Pirates,37.5,0.33,0.2,0.2,44.19,0.33,0.2,0.2
+26-05-2017,New York Mets,Pittsburgh Pirates,42.22,0.0,0.2,0.3,45.83,0.0,0.2,0.3
+27-05-2017,New York Mets,Pittsburgh Pirates,43.48,0.0,0.2,0.3,44.9,0.0,0.2,0.3
+28-05-2017,New York Mets,Pittsburgh Pirates,42.55,0.33,0.2,0.4,46.0,0.33,0.2,0.4
+29-05-2017,Arizona Diamondbacks,Pittsburgh Pirates,59.62,0.0,0.4,0.6,45.1,0.0,0.4,0.6
+30-05-2017,Arizona Diamondbacks,Pittsburgh Pirates,58.49,0.0,0.2,0.5,46.15,0.0,0.2,0.5
+31-05-2017,Arizona Diamondbacks,Pittsburgh Pirates,59.26,0.0,0.0,0.5,45.28,0.0,0.0,0.5
+08-06-2017,Miami Marlins,Pittsburgh Pirates,43.1,0.0,0.2,0.5,44.07,0.0,0.2,0.5
+09-06-2017,Miami Marlins,Pittsburgh Pirates,44.07,0.33,0.2,0.5,43.33,0.33,0.2,0.5
+10-06-2017,Miami Marlins,Pittsburgh Pirates,45.0,0.33,0.4,0.5,42.62,0.33,0.4,0.5
+11-06-2017,Miami Marlins,Pittsburgh Pirates,44.26,0.33,0.6,0.6,43.55,0.33,0.6,0.6
+12-06-2017,Colorado Rockies,Pittsburgh Pirates,63.08,0.33,0.6,0.7,44.44,0.33,0.6,0.7
+13-06-2017,Colorado Rockies,Pittsburgh Pirates,62.12,0.0,0.4,0.7,45.31,0.0,0.4,0.7
+14-06-2017,Colorado Rockies,Pittsburgh Pirates,61.19,0.0,0.2,0.6,46.15,0.0,0.2,0.6
+16-06-2017,Chicago Cubs,Pittsburgh Pirates,49.23,0.33,0.4,0.3,45.45,0.33,0.4,0.3
+17-06-2017,Chicago Cubs,Pittsburgh Pirates,50.0,0.0,0.2,0.2,44.78,0.0,0.2,0.2
+18-06-2017,Chicago Cubs,Pittsburgh Pirates,49.25,0.33,0.4,0.3,45.59,0.33,0.4,0.3
+27-06-2017,Tampa Bay Rays,Pittsburgh Pirates,51.28,0.0,0.4,0.5,46.05,0.0,0.4,0.5
+28-06-2017,Tampa Bay Rays,Pittsburgh Pirates,51.9,0.0,0.2,0.5,45.45,0.0,0.2,0.5
+29-06-2017,Tampa Bay Rays,Pittsburgh Pirates,51.25,0.33,0.2,0.5,46.15,0.33,0.2,0.5
+30-06-2017,San Francisco Giants,Pittsburgh Pirates,37.04,0.33,0.4,0.3,46.84,0.33,0.4,0.3
+01-07-2017,San Francisco Giants,Pittsburgh Pirates,37.8,0.33,0.6,0.3,46.25,0.33,0.6,0.3
+02-07-2017,San Francisco Giants,Pittsburgh Pirates,38.55,0.33,0.6,0.4,45.68,0.33,0.6,0.4
+14-07-2017,St. Louis Cardinals,Pittsburgh Pirates,48.86,0.33,0.4,0.4,47.19,0.33,0.4,0.4
+15-07-2017,St. Louis Cardinals,Pittsburgh Pirates,48.31,0.33,0.4,0.4,47.78,0.33,0.4,0.4
+16-07-2017,St. Louis Cardinals,Pittsburgh Pirates,48.89,0.0,0.4,0.4,47.25,0.0,0.4,0.4
+17-07-2017,Milwaukee Brewers,Pittsburgh Pirates,55.32,0.33,0.6,0.7,47.83,0.33,0.6,0.7
+18-07-2017,Milwaukee Brewers,Pittsburgh Pirates,54.74,0.0,0.4,0.6,48.39,0.0,0.4,0.6
+19-07-2017,Milwaukee Brewers,Pittsburgh Pirates,54.17,0.0,0.2,0.5,48.94,0.0,0.2,0.5
+20-07-2017,Milwaukee Brewers,Pittsburgh Pirates,53.61,0.0,0.0,0.4,49.47,0.0,0.0,0.4
+01-08-2017,Cincinnati Reds,Pittsburgh Pirates,40.0,0.0,0.0,0.1,48.57,0.0,0.0,0.1
+02-08-2017,Cincinnati Reds,Pittsburgh Pirates,40.57,0.33,0.2,0.2,48.11,0.33,0.2,0.2
+03-08-2017,Cincinnati Reds,Pittsburgh Pirates,41.12,0.33,0.4,0.2,47.66,0.33,0.4,0.2
+04-08-2017,San Diego Padres,Pittsburgh Pirates,44.86,0.33,0.4,0.5,48.15,0.33,0.4,0.5
+05-08-2017,San Diego Padres,Pittsburgh Pirates,44.44,0.0,0.2,0.5,48.62,0.0,0.2,0.5
+06-08-2017,San Diego Padres,Pittsburgh Pirates,44.95,0.0,0.2,0.5,48.18,0.0,0.2,0.5
+07-08-2017,Detroit Tigers,Pittsburgh Pirates,46.36,0.0,0.4,0.6,48.65,0.0,0.4,0.6
+08-08-2017,Detroit Tigers,Pittsburgh Pirates,45.95,0.0,0.2,0.5,49.11,0.0,0.2,0.5
+17-08-2017,St. Louis Cardinals,Pittsburgh Pirates,50.83,0.0,0.2,0.6,48.33,0.0,0.2,0.6
+18-08-2017,St. Louis Cardinals,Pittsburgh Pirates,51.24,0.0,0.0,0.5,47.93,0.0,0.0,0.5
+19-08-2017,St. Louis Cardinals,Pittsburgh Pirates,51.64,0.33,0.2,0.5,47.54,0.33,0.2,0.5
+20-08-2017,St. Louis Cardinals,Pittsburgh Pirates,51.22,0.33,0.4,0.5,47.97,0.33,0.4,0.5
+21-08-2017,Los Angeles Dodgers,Pittsburgh Pirates,71.31,0.33,0.6,0.7,48.39,0.33,0.6,0.7
+22-08-2017,Los Angeles Dodgers,Pittsburgh Pirates,71.54,0.0,0.4,0.6,48.0,0.0,0.4,0.6
+23-08-2017,Los Angeles Dodgers,Pittsburgh Pirates,71.77,0.33,0.4,0.7,47.62,0.33,0.4,0.7
+24-08-2017,Los Angeles Dodgers,Pittsburgh Pirates,71.2,0.33,0.4,0.7,48.03,0.33,0.4,0.7
+01-09-2017,Cincinnati Reds,Pittsburgh Pirates,42.54,0.0,0.2,0.3,47.01,0.0,0.2,0.3
+02-09-2017,Cincinnati Reds,Pittsburgh Pirates,42.96,0.33,0.4,0.4,46.67,0.33,0.4,0.4
+03-09-2017,Cincinnati Reds,Pittsburgh Pirates,42.65,0.33,0.4,0.5,47.06,0.33,0.4,0.5
+04-09-2017,Chicago Cubs,Pittsburgh Pirates,55.15,0.33,0.6,0.7,47.45,0.33,0.6,0.7
+05-09-2017,Chicago Cubs,Pittsburgh Pirates,54.74,0.0,0.4,0.6,47.83,0.0,0.4,0.6
+06-09-2017,Chicago Cubs,Pittsburgh Pirates,54.35,0.0,0.2,0.6,48.2,0.0,0.2,0.6
+07-09-2017,Chicago Cubs,Pittsburgh Pirates,54.68,0.0,0.0,0.5,47.86,0.0,0.0,0.5
+18-09-2017,Milwaukee Brewers,Pittsburgh Pirates,53.02,0.0,0.4,0.6,45.33,0.0,0.4,0.6
+19-09-2017,Milwaukee Brewers,Pittsburgh Pirates,53.33,0.33,0.4,0.6,45.03,0.33,0.4,0.6
+20-09-2017,Milwaukee Brewers,Pittsburgh Pirates,53.64,0.33,0.4,0.6,44.74,0.33,0.4,0.6
+22-09-2017,St. Louis Cardinals,Pittsburgh Pirates,52.63,0.33,0.4,0.4,45.1,0.33,0.4,0.4
+23-09-2017,St. Louis Cardinals,Pittsburgh Pirates,52.94,0.33,0.6,0.4,44.81,0.33,0.6,0.4
+24-09-2017,St. Louis Cardinals,Pittsburgh Pirates,52.6,0.33,0.6,0.5,45.16,0.33,0.6,0.5
+26-09-2017,Baltimore Orioles,Pittsburgh Pirates,47.77,0.0,0.2,0.2,45.51,0.0,0.2,0.2
+27-09-2017,Baltimore Orioles,Pittsburgh Pirates,47.47,0.33,0.2,0.3,45.86,0.33,0.2,0.3
+07-04-2017,San Francisco Giants,San Diego Padres,25.0,0.0,0.2,nan,25.0,0.0,0.2,nan
+08-04-2017,San Francisco Giants,San Diego Padres,20.0,0.0,0.2,nan,40.0,0.0,0.2,nan
+09-04-2017,San Francisco Giants,San Diego Padres,16.67,0.0,0.0,nan,50.0,0.0,0.0,nan
+18-04-2017,Arizona Diamondbacks,San Diego Padres,64.29,0.33,0.2,0.4,35.71,0.33,0.2,0.4
+19-04-2017,Arizona Diamondbacks,San Diego Padres,66.67,0.33,0.4,0.4,33.33,0.33,0.4,0.4
+20-04-2017,Arizona Diamondbacks,San Diego Padres,62.5,0.33,0.6,0.4,37.5,0.33,0.6,0.4
+21-04-2017,Miami Marlins,San Diego Padres,53.33,0.33,0.4,0.5,41.18,0.33,0.4,0.5
+22-04-2017,Miami Marlins,San Diego Padres,50.0,0.0,0.2,0.4,44.44,0.0,0.2,0.4
+23-04-2017,Miami Marlins,San Diego Padres,52.94,0.0,0.2,0.4,42.11,0.0,0.2,0.4
+02-05-2017,Colorado Rockies,San Diego Padres,61.54,0.33,0.4,0.5,40.74,0.33,0.4,0.5
+03-05-2017,Colorado Rockies,San Diego Padres,59.26,0.0,0.4,0.4,42.86,0.0,0.4,0.4
+04-05-2017,Colorado Rockies,San Diego Padres,60.71,0.0,0.2,0.3,41.38,0.0,0.2,0.3
+05-05-2017,Los Angeles Dodgers,San Diego Padres,51.72,0.33,0.4,0.6,40.0,0.33,0.4,0.6
+06-05-2017,Los Angeles Dodgers,San Diego Padres,53.33,0.0,0.2,0.5,38.71,0.0,0.2,0.5
+08-05-2017,Texas Rangers,San Diego Padres,40.62,0.0,0.4,0.3,37.5,0.0,0.4,0.3
+09-05-2017,Texas Rangers,San Diego Padres,39.39,0.0,0.2,0.2,39.39,0.0,0.2,0.2
+15-05-2017,Milwaukee Brewers,San Diego Padres,55.26,0.33,0.4,0.5,35.9,0.33,0.4,0.5
+16-05-2017,Milwaukee Brewers,San Diego Padres,53.85,0.33,0.6,0.6,37.5,0.33,0.6,0.6
+17-05-2017,Milwaukee Brewers,San Diego Padres,55.0,0.0,0.4,0.6,36.59,0.0,0.4,0.6
+18-05-2017,Milwaukee Brewers,San Diego Padres,56.1,0.33,0.4,0.6,35.71,0.33,0.4,0.6
+19-05-2017,Arizona Diamondbacks,San Diego Padres,57.14,0.33,0.4,0.5,34.88,0.33,0.4,0.5
+20-05-2017,Arizona Diamondbacks,San Diego Padres,58.14,0.33,0.6,0.6,34.09,0.33,0.6,0.6
+21-05-2017,Arizona Diamondbacks,San Diego Padres,59.09,0.33,0.6,0.6,33.33,0.33,0.6,0.6
+29-05-2017,Chicago Cubs,San Diego Padres,51.02,0.0,0.2,0.4,36.54,0.0,0.2,0.4
+30-05-2017,Chicago Cubs,San Diego Padres,50.0,0.0,0.0,0.4,37.74,0.0,0.0,0.4
+31-05-2017,Chicago Cubs,San Diego Padres,49.02,0.0,0.0,0.3,38.89,0.0,0.0,0.3
+02-06-2017,Colorado Rockies,San Diego Padres,60.71,0.0,0.0,0.3,40.0,0.0,0.0,0.3
+03-06-2017,Colorado Rockies,San Diego Padres,59.65,0.33,0.2,0.3,41.07,0.33,0.2,0.3
+04-06-2017,Colorado Rockies,San Diego Padres,60.34,0.0,0.2,0.3,40.35,0.0,0.2,0.3
+09-06-2017,Kansas City Royals,San Diego Padres,44.07,0.33,0.4,0.5,37.7,0.33,0.4,0.5
+10-06-2017,Kansas City Royals,San Diego Padres,43.33,0.0,0.4,0.4,38.71,0.0,0.4,0.4
+11-06-2017,Kansas City Royals,San Diego Padres,44.26,0.0,0.2,0.4,38.1,0.0,0.2,0.4
+12-06-2017,Cincinnati Reds,San Diego Padres,46.77,0.0,0.2,0.4,37.5,0.0,0.2,0.4
+13-06-2017,Cincinnati Reds,San Diego Padres,46.03,0.0,0.0,0.4,38.46,0.0,0.0,0.4
+14-06-2017,Cincinnati Reds,San Diego Padres,45.31,0.0,0.0,0.4,39.39,0.0,0.0,0.4
+23-06-2017,Detroit Tigers,San Diego Padres,44.44,0.0,0.0,0.2,39.73,0.0,0.0,0.2
+24-06-2017,Detroit Tigers,San Diego Padres,43.84,0.0,0.0,0.2,40.54,0.0,0.0,0.2
+25-06-2017,Detroit Tigers,San Diego Padres,43.24,0.0,0.0,0.1,41.33,0.0,0.0,0.1
+27-06-2017,Atlanta Braves,San Diego Padres,48.0,0.33,0.6,0.7,40.79,0.33,0.6,0.7
+28-06-2017,Atlanta Braves,San Diego Padres,48.68,0.0,0.4,0.6,40.26,0.0,0.4,0.6
+29-06-2017,Atlanta Braves,San Diego Padres,48.05,0.33,0.4,0.6,41.03,0.33,0.4,0.6
+30-06-2017,Los Angeles Dodgers,San Diego Padres,65.43,0.0,0.2,0.6,41.77,0.0,0.2,0.6
+01-07-2017,Los Angeles Dodgers,San Diego Padres,65.85,0.33,0.4,0.6,41.25,0.33,0.4,0.6
+02-07-2017,Los Angeles Dodgers,San Diego Padres,66.27,0.33,0.4,0.6,40.74,0.33,0.4,0.6
+14-07-2017,San Francisco Giants,San Diego Padres,37.78,0.0,0.0,0.4,43.18,0.0,0.0,0.4
+15-07-2017,San Francisco Giants,San Diego Padres,38.46,0.0,0.0,0.3,42.7,0.0,0.0,0.3
+16-07-2017,San Francisco Giants,San Diego Padres,38.04,0.33,0.2,0.3,43.33,0.33,0.2,0.3
+24-07-2017,New York Mets,San Diego Padres,46.88,0.33,0.6,0.5,43.88,0.33,0.6,0.5
+25-07-2017,New York Mets,San Diego Padres,47.42,0.0,0.4,0.4,43.43,0.0,0.4,0.4
+26-07-2017,New York Mets,San Diego Padres,47.96,0.33,0.4,0.5,43.0,0.33,0.4,0.5
+27-07-2017,New York Mets,San Diego Padres,47.47,0.33,0.4,0.6,43.56,0.33,0.4,0.6
+28-07-2017,Pittsburgh Pirates,San Diego Padres,49.02,0.0,0.2,0.5,44.12,0.0,0.2,0.5
+29-07-2017,Pittsburgh Pirates,San Diego Padres,48.54,0.0,0.2,0.4,44.66,0.0,0.2,0.4
+30-07-2017,Pittsburgh Pirates,San Diego Padres,48.08,0.0,0.0,0.3,45.19,0.0,0.0,0.3
+01-08-2017,Minnesota Twins,San Diego Padres,48.54,0.0,0.2,0.2,44.76,0.0,0.2,0.2
+02-08-2017,Minnesota Twins,San Diego Padres,48.08,0.0,0.2,0.2,45.28,0.0,0.2,0.2
+14-08-2017,Philadelphia Phillies,San Diego Padres,37.39,0.33,0.2,0.4,43.59,0.33,0.2,0.4
+15-08-2017,Philadelphia Phillies,San Diego Padres,37.07,0.0,0.2,0.4,44.07,0.0,0.2,0.4
+16-08-2017,Philadelphia Phillies,San Diego Padres,36.75,0.0,0.2,0.4,44.54,0.0,0.2,0.4
+17-08-2017,Washington Nationals,San Diego Padres,60.17,0.33,0.4,0.6,45.0,0.33,0.4,0.6
+18-08-2017,Washington Nationals,San Diego Padres,60.5,0.0,0.4,0.5,44.63,0.0,0.4,0.5
+19-08-2017,Washington Nationals,San Diego Padres,60.83,0.33,0.4,0.6,44.26,0.33,0.4,0.6
+20-08-2017,Washington Nationals,San Diego Padres,60.33,0.33,0.4,0.6,44.72,0.33,0.4,0.6
+28-08-2017,San Francisco Giants,San Diego Padres,39.39,0.0,0.2,0.3,43.85,0.0,0.2,0.3
+29-08-2017,San Francisco Giants,San Diego Padres,39.85,0.0,0.0,0.2,43.51,0.0,0.0,0.2
+30-08-2017,San Francisco Giants,San Diego Padres,39.55,0.33,0.2,0.3,43.94,0.33,0.2,0.3
+01-09-2017,Los Angeles Dodgers,San Diego Padres,68.94,0.0,0.0,0.3,44.36,0.0,0.0,0.3
+03-09-2017,Los Angeles Dodgers,San Diego Padres,68.15,0.0,0.2,0.2,44.85,0.0,0.2,0.2
+04-09-2017,St. Louis Cardinals,San Diego Padres,50.74,0.0,0.4,0.4,45.26,0.0,0.4,0.4
+05-09-2017,St. Louis Cardinals,San Diego Padres,51.09,0.33,0.4,0.5,44.93,0.33,0.4,0.5
+06-09-2017,St. Louis Cardinals,San Diego Padres,51.45,0.33,0.4,0.5,44.6,0.33,0.4,0.5
+07-09-2017,St. Louis Cardinals,San Diego Padres,51.8,0.33,0.6,0.6,44.29,0.33,0.6,0.6
+18-09-2017,Arizona Diamondbacks,San Diego Padres,58.0,0.33,0.6,0.5,44.3,0.33,0.6,0.5
+19-09-2017,Arizona Diamondbacks,San Diego Padres,57.62,0.0,0.4,0.5,44.67,0.0,0.4,0.5
+20-09-2017,Arizona Diamondbacks,San Diego Padres,57.24,0.0,0.2,0.4,45.03,0.0,0.2,0.4
+21-09-2017,Colorado Rockies,San Diego Padres,53.95,0.0,0.2,0.4,44.74,0.0,0.2,0.4
+22-09-2017,Colorado Rockies,San Diego Padres,53.59,0.0,0.0,0.3,45.1,0.0,0.0,0.3
+23-09-2017,Colorado Rockies,San Diego Padres,53.9,0.0,0.0,0.2,44.81,0.0,0.0,0.2
+24-09-2017,Colorado Rockies,San Diego Padres,53.55,0.33,0.2,0.3,45.16,0.33,0.2,0.3
+10-04-2017,Houston Astros,Seattle Mariners,57.14,0.0,0.0,nan,14.29,0.0,0.0,nan
+11-04-2017,Houston Astros,Seattle Mariners,50.0,0.33,0.2,nan,25.0,0.33,0.2,nan
+12-04-2017,Houston Astros,Seattle Mariners,55.56,0.0,0.2,0.4,22.22,0.0,0.2,0.4
+14-04-2017,Texas Rangers,Seattle Mariners,44.44,0.33,0.4,0.3,20.0,0.33,0.4,0.3
+15-04-2017,Texas Rangers,Seattle Mariners,40.0,0.33,0.4,0.4,27.27,0.33,0.4,0.4
+16-04-2017,Texas Rangers,Seattle Mariners,36.36,0.0,0.4,0.4,33.33,0.0,0.4,0.4
+17-04-2017,Miami Marlins,Seattle Mariners,58.33,0.33,0.4,0.5,38.46,0.33,0.4,0.5
+18-04-2017,Miami Marlins,Seattle Mariners,53.85,0.33,0.6,0.5,42.86,0.33,0.6,0.5
+19-04-2017,Miami Marlins,Seattle Mariners,57.14,0.0,0.4,0.4,40.0,0.0,0.4,0.4
+02-05-2017,Los Angeles Angels,Seattle Mariners,51.85,0.0,0.4,0.6,42.31,0.0,0.4,0.6
+03-05-2017,Los Angeles Angels,Seattle Mariners,53.57,0.33,0.4,0.6,40.74,0.33,0.4,0.6
+04-05-2017,Los Angeles Angels,Seattle Mariners,51.72,0.33,0.4,0.7,42.86,0.33,0.4,0.7
+05-05-2017,Texas Rangers,Seattle Mariners,41.38,0.0,0.0,0.2,44.83,0.0,0.0,0.2
+06-05-2017,Texas Rangers,Seattle Mariners,43.33,0.33,0.2,0.3,43.33,0.33,0.2,0.3
+07-05-2017,Texas Rangers,Seattle Mariners,41.94,0.33,0.4,0.3,45.16,0.33,0.4,0.3
+15-05-2017,Oakland Athletics,Seattle Mariners,43.24,0.0,0.2,0.4,44.74,0.0,0.2,0.4
+16-05-2017,Oakland Athletics,Seattle Mariners,42.11,0.0,0.0,0.4,46.15,0.0,0.0,0.4
+17-05-2017,Oakland Athletics,Seattle Mariners,43.59,0.0,0.0,0.3,45.0,0.0,0.0,0.3
+18-05-2017,Chicago White Sox,Seattle Mariners,44.74,0.0,0.2,0.2,46.34,0.0,0.2,0.2
+19-05-2017,Chicago White Sox,Seattle Mariners,43.59,0.0,0.0,0.2,47.62,0.0,0.0,0.2
+20-05-2017,Chicago White Sox,Seattle Mariners,45.0,0.0,0.0,0.2,46.51,0.0,0.0,0.2
+21-05-2017,Chicago White Sox,Seattle Mariners,46.34,0.33,0.2,0.3,45.45,0.33,0.2,0.3
+31-05-2017,Colorado Rockies,Seattle Mariners,61.11,0.0,0.2,0.5,45.28,0.0,0.2,0.5
+01-06-2017,Colorado Rockies,Seattle Mariners,60.0,0.0,0.2,0.4,46.3,0.0,0.2,0.4
+02-06-2017,Tampa Bay Rays,Seattle Mariners,51.79,0.0,0.4,0.5,45.45,0.0,0.4,0.5
+03-06-2017,Tampa Bay Rays,Seattle Mariners,50.88,0.33,0.4,0.6,46.43,0.33,0.4,0.6
+04-06-2017,Tampa Bay Rays,Seattle Mariners,50.0,0.0,0.2,0.5,47.37,0.0,0.2,0.5
+06-06-2017,Minnesota Twins,Seattle Mariners,54.72,0.0,0.4,0.3,48.28,0.0,0.4,0.3
+07-06-2017,Minnesota Twins,Seattle Mariners,53.7,0.33,0.4,0.3,49.15,0.33,0.4,0.3
+08-06-2017,Minnesota Twins,Seattle Mariners,52.73,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+09-06-2017,Toronto Blue Jays,Seattle Mariners,48.33,0.0,0.2,0.4,49.18,0.0,0.2,0.4
+10-06-2017,Toronto Blue Jays,Seattle Mariners,47.54,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+11-06-2017,Toronto Blue Jays,Seattle Mariners,48.39,0.0,0.2,0.3,49.21,0.0,0.2,0.3
+19-06-2017,Detroit Tigers,Seattle Mariners,47.06,0.0,0.4,0.3,47.89,0.0,0.4,0.3
+20-06-2017,Detroit Tigers,Seattle Mariners,46.38,0.0,0.2,0.3,48.61,0.0,0.2,0.3
+21-06-2017,Detroit Tigers,Seattle Mariners,45.71,0.0,0.0,0.3,49.32,0.0,0.0,0.3
+22-06-2017,Detroit Tigers,Seattle Mariners,45.07,0.0,0.0,0.2,50.0,0.0,0.0,0.2
+23-06-2017,Houston Astros,Seattle Mariners,67.57,0.33,0.6,0.5,50.67,0.33,0.6,0.5
+24-06-2017,Houston Astros,Seattle Mariners,66.67,0.33,0.6,0.6,51.32,0.33,0.6,0.6
+25-06-2017,Houston Astros,Seattle Mariners,67.11,0.0,0.4,0.5,50.65,0.0,0.4,0.5
+27-06-2017,Philadelphia Phillies,Seattle Mariners,32.0,0.0,0.2,0.2,50.0,0.0,0.2,0.2
+28-06-2017,Philadelphia Phillies,Seattle Mariners,32.89,0.0,0.0,0.2,49.37,0.0,0.0,0.2
+03-07-2017,Kansas City Royals,Seattle Mariners,50.62,0.0,0.4,0.4,49.4,0.0,0.4,0.4
+04-07-2017,Kansas City Royals,Seattle Mariners,51.22,0.33,0.4,0.4,48.81,0.33,0.4,0.4
+05-07-2017,Kansas City Royals,Seattle Mariners,51.81,0.33,0.4,0.5,48.24,0.33,0.4,0.5
+06-07-2017,Oakland Athletics,Seattle Mariners,43.53,0.33,0.2,0.2,47.67,0.33,0.2,0.2
+07-07-2017,Oakland Athletics,Seattle Mariners,44.19,0.33,0.4,0.2,47.13,0.33,0.4,0.2
+08-07-2017,Oakland Athletics,Seattle Mariners,43.68,0.33,0.6,0.3,47.73,0.33,0.6,0.3
+09-07-2017,Oakland Athletics,Seattle Mariners,44.32,0.0,0.4,0.3,47.19,0.0,0.4,0.3
+20-07-2017,New York Yankees,Seattle Mariners,51.61,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+21-07-2017,New York Yankees,Seattle Mariners,52.13,0.0,0.2,0.3,49.48,0.0,0.2,0.3
+22-07-2017,New York Yankees,Seattle Mariners,52.63,0.33,0.4,0.4,48.98,0.33,0.4,0.4
+23-07-2017,New York Yankees,Seattle Mariners,52.08,0.33,0.4,0.5,49.49,0.33,0.4,0.5
+24-07-2017,Boston Red Sox,Seattle Mariners,55.0,0.0,0.2,0.4,49.0,0.0,0.2,0.4
+25-07-2017,Boston Red Sox,Seattle Mariners,54.46,0.0,0.2,0.4,49.5,0.0,0.2,0.4
+26-07-2017,Boston Red Sox,Seattle Mariners,53.92,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+28-07-2017,New York Mets,Seattle Mariners,47.0,0.0,0.4,0.6,49.51,0.0,0.4,0.6
+29-07-2017,New York Mets,Seattle Mariners,47.52,0.0,0.2,0.5,49.04,0.0,0.2,0.5
+30-07-2017,New York Mets,Seattle Mariners,47.06,0.33,0.2,0.5,49.52,0.33,0.2,0.5
+10-08-2017,Los Angeles Angels,Seattle Mariners,49.57,0.33,0.2,0.5,51.3,0.33,0.2,0.5
+11-08-2017,Los Angeles Angels,Seattle Mariners,50.0,0.33,0.4,0.5,50.86,0.33,0.4,0.5
+12-08-2017,Los Angeles Angels,Seattle Mariners,50.43,0.33,0.6,0.5,50.43,0.33,0.6,0.5
+13-08-2017,Los Angeles Angels,Seattle Mariners,50.85,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+14-08-2017,Baltimore Orioles,Seattle Mariners,49.15,0.33,0.4,0.5,49.58,0.33,0.4,0.5
+15-08-2017,Baltimore Orioles,Seattle Mariners,49.58,0.0,0.2,0.4,49.17,0.0,0.2,0.4
+16-08-2017,Baltimore Orioles,Seattle Mariners,49.17,0.33,0.4,0.4,49.59,0.33,0.4,0.4
+01-09-2017,Oakland Athletics,Seattle Mariners,43.61,0.0,0.2,0.4,49.25,0.0,0.2,0.4
+02-09-2017,Oakland Athletics,Seattle Mariners,43.28,0.0,0.0,0.4,49.63,0.0,0.0,0.4
+03-09-2017,Oakland Athletics,Seattle Mariners,42.96,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+04-09-2017,Houston Astros,Seattle Mariners,61.03,0.33,0.6,0.5,50.36,0.33,0.6,0.5
+05-09-2017,Houston Astros,Seattle Mariners,61.31,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+06-09-2017,Houston Astros,Seattle Mariners,61.59,0.33,0.6,0.6,49.64,0.33,0.6,0.6
+08-09-2017,Los Angeles Angels,Seattle Mariners,51.43,0.33,0.4,0.6,49.29,0.33,0.4,0.6
+09-09-2017,Los Angeles Angels,Seattle Mariners,51.06,0.0,0.4,0.5,49.65,0.0,0.4,0.5
+10-09-2017,Los Angeles Angels,Seattle Mariners,50.7,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+19-09-2017,Texas Rangers,Seattle Mariners,48.99,0.0,0.0,0.1,49.33,0.0,0.0,0.1
+20-09-2017,Texas Rangers,Seattle Mariners,49.33,0.33,0.2,0.2,49.01,0.33,0.2,0.2
+21-09-2017,Texas Rangers,Seattle Mariners,49.67,0.33,0.4,0.3,48.68,0.33,0.4,0.3
+22-09-2017,Cleveland Indians,Seattle Mariners,62.75,0.33,0.6,0.7,48.37,0.33,0.6,0.7
+23-09-2017,Cleveland Indians,Seattle Mariners,62.34,0.33,0.6,0.7,48.7,0.33,0.6,0.7
+24-09-2017,Cleveland Indians,Seattle Mariners,62.58,0.0,0.4,0.6,48.39,0.0,0.4,0.6
+10-04-2017,Arizona Diamondbacks,San Francisco Giants,85.71,0.33,0.6,nan,28.57,0.33,0.6,nan
+11-04-2017,Arizona Diamondbacks,San Francisco Giants,75.0,0.33,0.6,nan,37.5,0.33,0.6,nan
+12-04-2017,Arizona Diamondbacks,San Francisco Giants,77.78,0.0,0.4,0.6,33.33,0.0,0.4,0.6
+13-04-2017,Colorado Rockies,San Francisco Giants,60.0,0.33,0.2,0.5,40.0,0.33,0.2,0.5
+14-04-2017,Colorado Rockies,San Francisco Giants,63.64,0.0,0.2,0.4,36.36,0.0,0.2,0.4
+15-04-2017,Colorado Rockies,San Francisco Giants,58.33,0.33,0.4,0.5,41.67,0.33,0.4,0.5
+16-04-2017,Colorado Rockies,San Francisco Giants,61.54,0.0,0.2,0.4,38.46,0.0,0.2,0.4
+24-04-2017,Los Angeles Dodgers,San Francisco Giants,47.37,0.0,0.2,0.3,31.58,0.0,0.2,0.3
+25-04-2017,Los Angeles Dodgers,San Francisco Giants,45.0,0.33,0.2,0.3,35.0,0.33,0.2,0.3
+26-04-2017,Los Angeles Dodgers,San Francisco Giants,47.62,0.0,0.2,0.2,33.33,0.0,0.2,0.2
+27-04-2017,Los Angeles Dodgers,San Francisco Giants,45.45,0.33,0.4,0.3,36.36,0.33,0.4,0.3
+28-04-2017,San Diego Padres,San Francisco Giants,37.5,0.33,0.2,0.4,34.78,0.33,0.2,0.4
+29-04-2017,San Diego Padres,San Francisco Giants,36.0,0.0,0.2,0.3,37.5,0.0,0.2,0.3
+30-04-2017,San Diego Padres,San Francisco Giants,38.46,0.0,0.2,0.2,36.0,0.0,0.2,0.2
+11-05-2017,Cincinnati Reds,San Francisco Giants,54.55,0.0,0.4,0.6,34.29,0.0,0.4,0.6
+12-05-2017,Cincinnati Reds,San Francisco Giants,55.88,0.33,0.4,0.6,33.33,0.33,0.4,0.6
+13-05-2017,Cincinnati Reds,San Francisco Giants,54.29,0.33,0.4,0.7,35.14,0.33,0.4,0.7
+14-05-2017,Cincinnati Reds,San Francisco Giants,52.78,0.0,0.4,0.6,36.84,0.0,0.4,0.6
+15-05-2017,Los Angeles Dodgers,San Francisco Giants,57.89,0.33,0.4,0.7,38.46,0.33,0.4,0.7
+16-05-2017,Los Angeles Dodgers,San Francisco Giants,56.41,0.0,0.4,0.6,40.0,0.0,0.4,0.6
+17-05-2017,Los Angeles Dodgers,San Francisco Giants,55.0,0.0,0.2,0.5,41.46,0.0,0.2,0.5
+26-05-2017,Atlanta Braves,San Francisco Giants,44.44,0.0,0.4,0.5,40.82,0.0,0.4,0.5
+27-05-2017,Atlanta Braves,San Francisco Giants,45.65,0.0,0.2,0.4,40.0,0.0,0.2,0.4
+28-05-2017,Atlanta Braves,San Francisco Giants,44.68,0.33,0.2,0.5,41.18,0.33,0.2,0.5
+29-05-2017,Washington Nationals,San Francisco Giants,61.22,0.33,0.4,0.5,42.31,0.33,0.4,0.5
+30-05-2017,Washington Nationals,San Francisco Giants,62.0,0.0,0.4,0.5,41.51,0.0,0.4,0.5
+31-05-2017,Washington Nationals,San Francisco Giants,62.75,0.33,0.4,0.6,40.74,0.33,0.4,0.6
+09-06-2017,Minnesota Twins,San Francisco Giants,53.57,0.0,0.2,0.3,40.32,0.0,0.2,0.3
+10-06-2017,Minnesota Twins,San Francisco Giants,54.39,0.33,0.2,0.4,39.68,0.33,0.2,0.4
+11-06-2017,Minnesota Twins,San Francisco Giants,55.17,0.33,0.4,0.5,39.06,0.33,0.4,0.5
+13-06-2017,Kansas City Royals,San Francisco Giants,45.16,0.33,0.2,0.4,40.0,0.33,0.2,0.4
+14-06-2017,Kansas City Royals,San Francisco Giants,46.03,0.33,0.4,0.4,39.39,0.33,0.4,0.4
+23-06-2017,New York Mets,San Francisco Giants,43.06,0.0,0.0,0.2,36.0,0.0,0.0,0.2
+24-06-2017,New York Mets,San Francisco Giants,43.84,0.0,0.0,0.1,35.53,0.0,0.0,0.1
+25-06-2017,New York Mets,San Francisco Giants,44.59,0.33,0.2,0.2,35.06,0.33,0.2,0.2
+26-06-2017,Colorado Rockies,San Francisco Giants,60.26,0.0,0.0,0.4,34.62,0.0,0.0,0.4
+27-06-2017,Colorado Rockies,San Francisco Giants,59.49,0.0,0.0,0.3,35.44,0.0,0.0,0.3
+28-06-2017,Colorado Rockies,San Francisco Giants,58.75,0.0,0.0,0.2,36.25,0.0,0.0,0.2
+07-07-2017,Miami Marlins,San Francisco Giants,45.24,0.33,0.4,0.3,39.08,0.33,0.4,0.3
+08-07-2017,Miami Marlins,San Francisco Giants,45.88,0.0,0.4,0.3,38.64,0.0,0.4,0.3
+09-07-2017,Miami Marlins,San Francisco Giants,46.51,0.33,0.4,0.4,38.2,0.33,0.4,0.4
+17-07-2017,Cleveland Indians,San Francisco Giants,52.22,0.0,0.0,0.3,37.63,0.0,0.0,0.3
+18-07-2017,Cleveland Indians,San Francisco Giants,52.75,0.0,0.0,0.3,37.23,0.0,0.0,0.3
+19-07-2017,Cleveland Indians,San Francisco Giants,52.17,0.33,0.2,0.4,37.89,0.33,0.2,0.4
+20-07-2017,San Diego Padres,San Francisco Giants,42.55,0.0,0.2,0.4,38.54,0.0,0.2,0.4
+21-07-2017,San Diego Padres,San Francisco Giants,43.16,0.0,0.0,0.3,38.14,0.0,0.0,0.3
+22-07-2017,San Diego Padres,San Francisco Giants,43.75,0.33,0.2,0.3,37.76,0.33,0.2,0.3
+23-07-2017,San Diego Padres,San Francisco Giants,43.3,0.33,0.4,0.4,38.38,0.33,0.4,0.4
+24-07-2017,Pittsburgh Pirates,San Francisco Giants,49.49,0.0,0.4,0.6,38.0,0.0,0.4,0.6
+25-07-2017,Pittsburgh Pirates,San Francisco Giants,50.0,0.0,0.2,0.6,37.62,0.0,0.2,0.6
+26-07-2017,Pittsburgh Pirates,San Francisco Giants,49.5,0.33,0.2,0.6,38.24,0.33,0.2,0.6
+02-08-2017,Oakland Athletics,San Francisco Giants,43.93,0.33,0.6,0.3,37.96,0.33,0.6,0.3
+03-08-2017,Oakland Athletics,San Francisco Giants,44.44,0.0,0.4,0.3,37.61,0.0,0.4,0.3
+04-08-2017,Arizona Diamondbacks,San Francisco Giants,57.41,0.33,0.2,0.4,38.18,0.33,0.2,0.4
+05-08-2017,Arizona Diamondbacks,San Francisco Giants,57.8,0.33,0.4,0.5,37.84,0.33,0.4,0.5
+06-08-2017,Arizona Diamondbacks,San Francisco Giants,57.27,0.33,0.6,0.5,38.39,0.33,0.6,0.5
+07-08-2017,Chicago Cubs,San Francisco Giants,52.73,0.33,0.2,0.4,38.94,0.33,0.2,0.4
+08-08-2017,Chicago Cubs,San Francisco Giants,53.15,0.0,0.2,0.4,38.6,0.0,0.2,0.4
+09-08-2017,Chicago Cubs,San Francisco Giants,52.68,0.33,0.4,0.4,39.13,0.33,0.4,0.4
+17-08-2017,Philadelphia Phillies,San Francisco Giants,36.44,0.0,0.0,0.3,39.34,0.0,0.0,0.3
+18-08-2017,Philadelphia Phillies,San Francisco Giants,36.13,0.0,0.0,0.2,39.84,0.0,0.0,0.2
+19-08-2017,Philadelphia Phillies,San Francisco Giants,35.83,0.0,0.0,0.1,40.32,0.0,0.0,0.1
+20-08-2017,Philadelphia Phillies,San Francisco Giants,36.36,0.0,0.0,0.1,40.0,0.0,0.0,0.1
+21-08-2017,Milwaukee Brewers,San Francisco Giants,52.0,0.33,0.4,0.5,39.68,0.33,0.4,0.5
+22-08-2017,Milwaukee Brewers,San Francisco Giants,51.59,0.33,0.4,0.6,40.16,0.33,0.4,0.6
+23-08-2017,Milwaukee Brewers,San Francisco Giants,51.97,0.0,0.4,0.6,39.84,0.0,0.4,0.6
+31-08-2017,St. Louis Cardinals,San Francisco Giants,50.0,0.33,0.4,0.3,39.26,0.33,0.4,0.3
+01-09-2017,St. Louis Cardinals,San Francisco Giants,50.38,0.0,0.2,0.3,38.97,0.0,0.2,0.3
+02-09-2017,St. Louis Cardinals,San Francisco Giants,50.75,0.33,0.4,0.4,38.69,0.33,0.4,0.4
+03-09-2017,St. Louis Cardinals,San Francisco Giants,50.37,0.33,0.4,0.4,39.13,0.33,0.4,0.4
+11-09-2017,Los Angeles Dodgers,San Francisco Giants,64.34,0.0,0.0,0.0,38.62,0.0,0.0,0.0
+12-09-2017,Los Angeles Dodgers,San Francisco Giants,63.89,0.0,0.0,0.0,39.04,0.0,0.0,0.0
+13-09-2017,Los Angeles Dodgers,San Francisco Giants,64.14,0.0,0.0,0.0,38.78,0.0,0.0,0.0
+15-09-2017,Arizona Diamondbacks,San Francisco Giants,57.82,0.33,0.2,0.4,38.51,0.33,0.2,0.4
+16-09-2017,Arizona Diamondbacks,San Francisco Giants,58.11,0.33,0.4,0.4,38.26,0.33,0.4,0.4
+17-09-2017,Arizona Diamondbacks,San Francisco Giants,58.39,0.33,0.6,0.4,38.0,0.33,0.6,0.4
+19-09-2017,Colorado Rockies,San Francisco Giants,54.67,0.33,0.4,0.6,38.41,0.33,0.4,0.6
+20-09-2017,Colorado Rockies,San Francisco Giants,54.3,0.0,0.4,0.5,38.82,0.0,0.4,0.5
+29-09-2017,San Diego Padres,San Francisco Giants,44.03,0.0,0.0,0.3,38.99,0.0,0.0,0.3
+30-09-2017,San Diego Padres,San Francisco Giants,43.75,0.0,0.0,0.2,39.38,0.0,0.0,0.2
+01-10-2017,San Diego Padres,San Francisco Giants,44.1,0.0,0.0,0.2,39.13,0.0,0.0,0.2
+02-04-2017,Chicago Cubs,St. Louis Cardinals,0,0.33,0.6,0.6,0,0.33,0.6,0.6
+04-04-2017,Chicago Cubs,St. Louis Cardinals,0.0,nan,nan,nan,100.0,nan,nan,nan
+06-04-2017,Chicago Cubs,St. Louis Cardinals,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+07-04-2017,Cincinnati Reds,St. Louis Cardinals,66.67,0.33,nan,nan,33.33,0.33,nan,nan
+08-04-2017,Cincinnati Reds,St. Louis Cardinals,75.0,0.33,0.4,nan,25.0,0.33,0.4,nan
+09-04-2017,Cincinnati Reds,St. Louis Cardinals,60.0,0.33,0.6,nan,40.0,0.33,0.6,nan
+17-04-2017,Pittsburgh Pirates,St. Louis Cardinals,50.0,0.33,0.4,0.4,25.0,0.33,0.4,0.4
+18-04-2017,Pittsburgh Pirates,St. Louis Cardinals,46.15,0.33,0.6,0.4,30.77,0.33,0.6,0.4
+19-04-2017,Pittsburgh Pirates,St. Louis Cardinals,42.86,0.0,0.4,0.3,35.71,0.0,0.4,0.3
+25-04-2017,Toronto Blue Jays,St. Louis Cardinals,26.32,0.33,0.4,0.4,47.37,0.33,0.4,0.4
+28-04-2017,Cincinnati Reds,St. Louis Cardinals,45.45,0.0,0.2,0.2,50.0,0.0,0.2,0.2
+30-04-2017,Cincinnati Reds,St. Louis Cardinals,43.48,0.0,0.0,0.1,52.17,0.0,0.0,0.1
+01-05-2017,Milwaukee Brewers,St. Louis Cardinals,50.0,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+02-05-2017,Milwaukee Brewers,St. Louis Cardinals,51.85,0.33,0.2,0.4,48.0,0.33,0.2,0.4
+04-05-2017,Milwaukee Brewers,St. Louis Cardinals,50.0,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+12-05-2017,Chicago Cubs,St. Louis Cardinals,50.0,0.33,0.2,0.4,57.58,0.33,0.2,0.4
+13-05-2017,Chicago Cubs,St. Louis Cardinals,51.43,0.0,0.2,0.3,55.88,0.0,0.2,0.3
+14-05-2017,Chicago Cubs,St. Louis Cardinals,50.0,0.33,0.4,0.3,57.14,0.33,0.4,0.3
+16-05-2017,Boston Red Sox,St. Louis Cardinals,51.35,0.33,0.4,0.4,58.33,0.33,0.4,0.4
+17-05-2017,Boston Red Sox,St. Louis Cardinals,52.63,0.0,0.2,0.4,56.76,0.0,0.2,0.4
+19-05-2017,San Francisco Giants,St. Louis Cardinals,40.48,0.33,0.6,0.6,55.26,0.33,0.6,0.6
+20-05-2017,San Francisco Giants,St. Louis Cardinals,41.86,0.0,0.4,0.6,53.85,0.0,0.4,0.6
+21-05-2017,San Francisco Giants,St. Louis Cardinals,43.18,0.33,0.4,0.6,52.5,0.33,0.4,0.6
+29-05-2017,Los Angeles Dodgers,St. Louis Cardinals,60.78,0.33,0.6,0.6,51.06,0.33,0.6,0.6
+30-05-2017,Los Angeles Dodgers,St. Louis Cardinals,61.54,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+31-05-2017,Los Angeles Dodgers,St. Louis Cardinals,62.26,0.33,0.6,0.7,48.98,0.33,0.6,0.7
+01-06-2017,Los Angeles Dodgers,St. Louis Cardinals,61.11,0.33,0.6,0.7,50.0,0.33,0.6,0.7
+09-06-2017,Philadelphia Phillies,St. Louis Cardinals,36.21,0.0,0.4,0.4,44.83,0.0,0.4,0.4
+10-06-2017,Philadelphia Phillies,St. Louis Cardinals,35.59,0.0,0.2,0.4,45.76,0.0,0.2,0.4
+11-06-2017,Philadelphia Phillies,St. Louis Cardinals,35.0,0.0,0.0,0.4,46.67,0.0,0.0,0.4
+14-06-2017,Milwaukee Brewers,St. Louis Cardinals,51.52,0.0,0.0,0.3,47.62,0.0,0.0,0.3
+15-06-2017,Milwaukee Brewers,St. Louis Cardinals,52.24,0.33,0.2,0.4,46.88,0.33,0.2,0.4
+23-06-2017,Pittsburgh Pirates,St. Louis Cardinals,45.21,0.0,0.4,0.4,46.48,0.0,0.4,0.4
+24-06-2017,Pittsburgh Pirates,St. Louis Cardinals,45.95,0.0,0.2,0.3,45.83,0.0,0.2,0.3
+25-06-2017,Pittsburgh Pirates,St. Louis Cardinals,46.67,0.33,0.2,0.4,45.21,0.33,0.2,0.4
+26-06-2017,Cincinnati Reds,St. Louis Cardinals,41.89,0.0,0.0,0.1,45.95,0.0,0.0,0.1
+30-06-2017,Washington Nationals,St. Louis Cardinals,59.49,0.33,0.4,0.5,47.44,0.33,0.4,0.5
+01-07-2017,Washington Nationals,St. Louis Cardinals,58.75,0.0,0.4,0.4,48.1,0.0,0.4,0.4
+02-07-2017,Washington Nationals,St. Louis Cardinals,58.02,0.0,0.2,0.4,48.75,0.0,0.2,0.4
+03-07-2017,Miami Marlins,St. Louis Cardinals,45.0,0.0,0.0,0.3,48.15,0.0,0.0,0.3
+04-07-2017,Miami Marlins,St. Louis Cardinals,44.44,0.33,0.2,0.3,48.78,0.33,0.2,0.3
+05-07-2017,Miami Marlins,St. Louis Cardinals,45.12,0.0,0.2,0.3,48.19,0.0,0.2,0.3
+06-07-2017,Miami Marlins,St. Louis Cardinals,45.78,0.33,0.4,0.3,47.62,0.33,0.4,0.3
+07-07-2017,New York Mets,St. Louis Cardinals,45.78,0.0,0.2,0.5,48.24,0.0,0.2,0.5
+08-07-2017,New York Mets,St. Louis Cardinals,46.43,0.0,0.0,0.4,47.67,0.0,0.0,0.4
+09-07-2017,New York Mets,St. Louis Cardinals,45.88,0.33,0.2,0.5,48.28,0.33,0.2,0.5
+24-07-2017,Colorado Rockies,St. Louis Cardinals,58.0,0.33,0.4,0.5,47.96,0.33,0.4,0.5
+25-07-2017,Colorado Rockies,St. Louis Cardinals,57.43,0.33,0.4,0.6,48.48,0.33,0.4,0.6
+26-07-2017,Colorado Rockies,St. Louis Cardinals,56.86,0.0,0.4,0.6,49.0,0.0,0.4,0.6
+27-07-2017,Arizona Diamondbacks,St. Louis Cardinals,57.43,0.0,0.2,0.4,49.5,0.0,0.2,0.4
+28-07-2017,Arizona Diamondbacks,St. Louis Cardinals,57.84,0.33,0.4,0.4,49.02,0.33,0.4,0.4
+29-07-2017,Arizona Diamondbacks,St. Louis Cardinals,57.28,0.33,0.4,0.5,49.51,0.33,0.4,0.5
+30-07-2017,Arizona Diamondbacks,St. Louis Cardinals,57.69,0.0,0.4,0.4,49.04,0.0,0.4,0.4
+09-08-2017,Kansas City Royals,St. Louis Cardinals,50.89,0.0,0.2,0.2,50.44,0.0,0.2,0.2
+10-08-2017,Kansas City Royals,St. Louis Cardinals,50.44,0.0,0.2,0.2,50.88,0.0,0.2,0.2
+11-08-2017,Atlanta Braves,St. Louis Cardinals,45.54,0.0,0.2,0.3,51.3,0.0,0.2,0.3
+12-08-2017,Atlanta Braves,St. Louis Cardinals,45.13,0.0,0.0,0.3,51.72,0.0,0.0,0.3
+13-08-2017,Atlanta Braves,St. Louis Cardinals,44.74,0.0,0.0,0.3,52.14,0.0,0.0,0.3
+22-08-2017,San Diego Padres,St. Louis Cardinals,44.35,0.33,0.2,0.4,50.81,0.33,0.2,0.4
+23-08-2017,San Diego Padres,St. Louis Cardinals,44.8,0.0,0.2,0.4,50.4,0.0,0.2,0.4
+24-08-2017,San Diego Padres,St. Louis Cardinals,44.44,0.33,0.4,0.5,50.79,0.33,0.4,0.5
+25-08-2017,Tampa Bay Rays,St. Louis Cardinals,48.84,0.0,0.4,0.3,50.39,0.0,0.4,0.3
+26-08-2017,Tampa Bay Rays,St. Louis Cardinals,49.23,0.33,0.4,0.3,50.0,0.33,0.4,0.3
+27-08-2017,Tampa Bay Rays,St. Louis Cardinals,48.85,0.33,0.4,0.4,50.39,0.33,0.4,0.4
+08-09-2017,Pittsburgh Pirates,St. Louis Cardinals,47.52,0.0,0.4,0.4,51.43,0.0,0.4,0.4
+09-09-2017,Pittsburgh Pirates,St. Louis Cardinals,47.18,0.0,0.2,0.4,51.77,0.0,0.2,0.4
+10-09-2017,Pittsburgh Pirates,St. Louis Cardinals,46.85,0.0,0.0,0.4,52.11,0.0,0.0,0.4
+12-09-2017,Cincinnati Reds,St. Louis Cardinals,43.06,0.0,0.0,0.3,52.45,0.0,0.0,0.3
+13-09-2017,Cincinnati Reds,St. Louis Cardinals,42.76,0.33,0.2,0.4,52.78,0.33,0.2,0.4
+14-09-2017,Cincinnati Reds,St. Louis Cardinals,43.15,0.0,0.2,0.4,52.41,0.0,0.2,0.4
+25-09-2017,Chicago Cubs,St. Louis Cardinals,56.13,0.0,0.4,0.6,52.26,0.0,0.4,0.6
+26-09-2017,Chicago Cubs,St. Louis Cardinals,56.41,0.33,0.4,0.6,51.92,0.33,0.4,0.6
+27-09-2017,Chicago Cubs,St. Louis Cardinals,56.05,0.33,0.4,0.6,52.23,0.33,0.4,0.6
+28-09-2017,Chicago Cubs,St. Louis Cardinals,56.33,0.0,0.4,0.5,51.9,0.0,0.4,0.5
+29-09-2017,Milwaukee Brewers,St. Louis Cardinals,52.83,0.0,0.2,0.3,51.57,0.0,0.2,0.3
+30-09-2017,Milwaukee Brewers,St. Louis Cardinals,53.12,0.33,0.4,0.3,51.25,0.33,0.4,0.3
+01-10-2017,Milwaukee Brewers,St. Louis Cardinals,52.8,0.33,0.4,0.4,51.55,0.33,0.4,0.4
+02-04-2017,New York Yankees,Tampa Bay Rays,0,0.33,0.4,0.6,0,0.33,0.4,0.6
+04-04-2017,New York Yankees,Tampa Bay Rays,0.0,nan,nan,nan,100.0,nan,nan,nan
+05-04-2017,New York Yankees,Tampa Bay Rays,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+06-04-2017,Toronto Blue Jays,Tampa Bay Rays,0.0,0.0,nan,nan,66.67,0.0,nan,nan
+07-04-2017,Toronto Blue Jays,Tampa Bay Rays,33.33,0.0,nan,nan,50.0,0.0,nan,nan
+08-04-2017,Toronto Blue Jays,Tampa Bay Rays,25.0,0.33,0.2,nan,60.0,0.33,0.2,nan
+09-04-2017,Toronto Blue Jays,Tampa Bay Rays,20.0,0.0,0.2,nan,66.67,0.0,0.2,nan
+18-04-2017,Detroit Tigers,Tampa Bay Rays,66.67,0.0,0.2,0.5,42.86,0.0,0.2,0.5
+19-04-2017,Detroit Tigers,Tampa Bay Rays,61.54,0.33,0.4,0.5,46.67,0.33,0.4,0.5
+20-04-2017,Detroit Tigers,Tampa Bay Rays,57.14,0.0,0.2,0.5,50.0,0.0,0.2,0.5
+21-04-2017,Houston Astros,Tampa Bay Rays,68.75,0.33,0.4,0.6,52.94,0.33,0.4,0.6
+22-04-2017,Houston Astros,Tampa Bay Rays,70.59,0.33,0.4,0.7,50.0,0.33,0.4,0.7
+23-04-2017,Houston Astros,Tampa Bay Rays,66.67,0.33,0.6,0.7,52.63,0.33,0.6,0.7
+03-05-2017,Miami Marlins,Tampa Bay Rays,44.0,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+04-05-2017,Miami Marlins,Tampa Bay Rays,46.15,0.0,0.2,0.2,48.28,0.0,0.2,0.2
+05-05-2017,Toronto Blue Jays,Tampa Bay Rays,32.14,0.0,0.4,0.4,50.0,0.0,0.4,0.4
+06-05-2017,Toronto Blue Jays,Tampa Bay Rays,34.48,0.0,0.2,0.3,48.39,0.0,0.2,0.3
+07-05-2017,Toronto Blue Jays,Tampa Bay Rays,33.33,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+08-05-2017,Kansas City Royals,Tampa Bay Rays,33.33,0.0,0.2,0.3,48.48,0.0,0.2,0.3
+09-05-2017,Kansas City Royals,Tampa Bay Rays,35.48,0.0,0.2,0.3,47.06,0.0,0.2,0.3
+10-05-2017,Kansas City Royals,Tampa Bay Rays,37.5,0.33,0.2,0.4,45.71,0.33,0.2,0.4
+11-05-2017,Kansas City Royals,Tampa Bay Rays,36.36,0.33,0.4,0.4,47.22,0.33,0.4,0.4
+19-05-2017,New York Yankees,Tampa Bay Rays,63.16,0.33,0.4,0.4,48.84,0.33,0.4,0.4
+20-05-2017,New York Yankees,Tampa Bay Rays,61.54,0.0,0.4,0.3,50.0,0.0,0.4,0.3
+21-05-2017,New York Yankees,Tampa Bay Rays,60.0,0.0,0.2,0.3,51.11,0.0,0.2,0.3
+22-05-2017,Los Angeles Angels,Tampa Bay Rays,50.0,0.0,0.2,0.5,50.0,0.0,0.2,0.5
+23-05-2017,Los Angeles Angels,Tampa Bay Rays,51.06,0.33,0.2,0.5,48.94,0.33,0.2,0.5
+24-05-2017,Los Angeles Angels,Tampa Bay Rays,52.08,0.33,0.4,0.6,47.92,0.33,0.4,0.6
+25-05-2017,Los Angeles Angels,Tampa Bay Rays,51.02,0.33,0.6,0.6,48.98,0.33,0.6,0.6
+06-06-2017,Chicago White Sox,Tampa Bay Rays,43.64,0.0,0.0,0.3,49.15,0.0,0.0,0.3
+07-06-2017,Chicago White Sox,Tampa Bay Rays,44.64,0.0,0.0,0.2,48.33,0.0,0.0,0.2
+08-06-2017,Chicago White Sox,Tampa Bay Rays,43.86,0.33,0.2,0.3,49.18,0.33,0.2,0.3
+09-06-2017,Oakland Athletics,Tampa Bay Rays,44.07,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+11-06-2017,Oakland Athletics,Tampa Bay Rays,43.55,0.0,0.0,0.3,50.77,0.0,0.0,0.3
+19-06-2017,Cincinnati Reds,Tampa Bay Rays,42.65,0.0,0.0,0.0,51.39,0.0,0.0,0.0
+20-06-2017,Cincinnati Reds,Tampa Bay Rays,43.48,0.0,0.0,0.0,50.68,0.0,0.0,0.0
+21-06-2017,Cincinnati Reds,Tampa Bay Rays,42.86,0.33,0.2,0.1,51.35,0.33,0.2,0.1
+23-06-2017,Baltimore Orioles,Tampa Bay Rays,48.61,0.0,0.2,0.4,52.0,0.0,0.2,0.4
+24-06-2017,Baltimore Orioles,Tampa Bay Rays,47.95,0.0,0.2,0.3,52.63,0.0,0.2,0.3
+25-06-2017,Baltimore Orioles,Tampa Bay Rays,48.65,0.0,0.0,0.3,51.95,0.0,0.0,0.3
+06-07-2017,Boston Red Sox,Tampa Bay Rays,57.65,0.33,0.6,0.7,51.16,0.33,0.6,0.7
+07-07-2017,Boston Red Sox,Tampa Bay Rays,56.98,0.0,0.4,0.6,51.72,0.0,0.4,0.6
+08-07-2017,Boston Red Sox,Tampa Bay Rays,57.47,0.0,0.2,0.6,51.14,0.0,0.2,0.6
+09-07-2017,Boston Red Sox,Tampa Bay Rays,56.82,0.33,0.2,0.6,51.69,0.33,0.2,0.6
+21-07-2017,Texas Rangers,Tampa Bay Rays,47.37,0.0,0.0,0.3,53.12,0.0,0.0,0.3
+22-07-2017,Texas Rangers,Tampa Bay Rays,47.92,0.0,0.0,0.2,52.58,0.0,0.0,0.2
+23-07-2017,Texas Rangers,Tampa Bay Rays,48.45,0.33,0.2,0.3,52.04,0.33,0.2,0.3
+24-07-2017,Baltimore Orioles,Tampa Bay Rays,47.96,0.0,0.2,0.4,51.52,0.0,0.2,0.4
+25-07-2017,Baltimore Orioles,Tampa Bay Rays,48.48,0.33,0.2,0.5,51.0,0.33,0.2,0.5
+26-07-2017,Baltimore Orioles,Tampa Bay Rays,48.0,0.33,0.4,0.6,51.49,0.33,0.4,0.6
+04-08-2017,Milwaukee Brewers,Tampa Bay Rays,51.82,0.0,0.2,0.3,51.82,0.0,0.2,0.3
+05-08-2017,Milwaukee Brewers,Tampa Bay Rays,52.25,0.33,0.4,0.3,51.35,0.33,0.4,0.3
+06-08-2017,Milwaukee Brewers,Tampa Bay Rays,52.68,0.33,0.4,0.4,50.89,0.33,0.4,0.4
+08-08-2017,Boston Red Sox,Tampa Bay Rays,56.25,0.33,0.6,0.6,51.33,0.33,0.6,0.6
+09-08-2017,Boston Red Sox,Tampa Bay Rays,56.64,0.33,0.6,0.7,50.88,0.33,0.6,0.7
+10-08-2017,Cleveland Indians,Tampa Bay Rays,54.05,0.33,0.2,0.3,50.43,0.33,0.2,0.3
+11-08-2017,Cleveland Indians,Tampa Bay Rays,53.57,0.0,0.2,0.3,50.86,0.0,0.2,0.3
+12-08-2017,Cleveland Indians,Tampa Bay Rays,53.98,0.0,0.2,0.3,50.43,0.0,0.2,0.3
+13-08-2017,Cleveland Indians,Tampa Bay Rays,54.39,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+18-08-2017,Seattle Mariners,Tampa Bay Rays,50.0,0.33,0.2,0.3,48.78,0.33,0.2,0.3
+19-08-2017,Seattle Mariners,Tampa Bay Rays,50.41,0.33,0.4,0.3,48.39,0.33,0.4,0.3
+20-08-2017,Seattle Mariners,Tampa Bay Rays,50.81,0.33,0.6,0.3,48.0,0.33,0.6,0.3
+22-08-2017,Toronto Blue Jays,Tampa Bay Rays,47.58,0.0,0.2,0.5,48.41,0.0,0.2,0.5
+23-08-2017,Toronto Blue Jays,Tampa Bay Rays,47.2,0.0,0.0,0.4,48.82,0.0,0.0,0.4
+24-08-2017,Toronto Blue Jays,Tampa Bay Rays,47.62,0.0,0.0,0.3,48.44,0.0,0.0,0.3
+04-09-2017,Minnesota Twins,Tampa Bay Rays,52.21,0.33,0.4,0.6,49.28,0.33,0.4,0.6
+05-09-2017,Minnesota Twins,Tampa Bay Rays,51.82,0.0,0.2,0.5,49.64,0.0,0.2,0.5
+06-09-2017,Minnesota Twins,Tampa Bay Rays,51.45,0.0,0.2,0.5,50.0,0.0,0.2,0.5
+11-09-2017,New York Yankees,Tampa Bay Rays,54.23,0.33,0.4,0.5,49.31,0.33,0.4,0.5
+12-09-2017,New York Yankees,Tampa Bay Rays,54.55,0.33,0.4,0.6,48.97,0.33,0.4,0.6
+13-09-2017,New York Yankees,Tampa Bay Rays,54.17,0.33,0.6,0.6,49.32,0.33,0.6,0.6
+15-09-2017,Boston Red Sox,Tampa Bay Rays,56.85,0.0,0.2,0.5,48.98,0.0,0.2,0.5
+16-09-2017,Boston Red Sox,Tampa Bay Rays,57.14,0.33,0.4,0.6,48.65,0.33,0.4,0.6
+17-09-2017,Boston Red Sox,Tampa Bay Rays,57.43,0.33,0.4,0.6,48.32,0.33,0.4,0.6
+19-09-2017,Chicago Cubs,Tampa Bay Rays,55.7,0.33,0.6,0.5,48.67,0.33,0.6,0.5
+20-09-2017,Chicago Cubs,Tampa Bay Rays,56.0,0.33,0.6,0.6,48.34,0.33,0.6,0.6
+29-09-2017,Baltimore Orioles,Tampa Bay Rays,47.17,0.0,0.2,0.2,48.43,0.0,0.2,0.2
+30-09-2017,Baltimore Orioles,Tampa Bay Rays,46.88,0.0,0.2,0.2,48.75,0.0,0.2,0.2
+01-10-2017,Baltimore Orioles,Tampa Bay Rays,46.58,0.0,0.0,0.2,49.07,0.0,0.0,0.2
+03-04-2017,Cleveland Indians,Texas Rangers,0,0.0,0.4,0.5,0,0.0,0.4,0.5
+04-04-2017,Cleveland Indians,Texas Rangers,100.0,nan,nan,nan,0.0,nan,nan,nan
+05-04-2017,Cleveland Indians,Texas Rangers,100.0,0.33,nan,nan,0.0,0.33,nan,nan
+07-04-2017,Oakland Athletics,Texas Rangers,50.0,0.0,0.2,nan,0.0,0.0,0.2,nan
+08-04-2017,Oakland Athletics,Texas Rangers,40.0,0.33,0.2,nan,25.0,0.33,0.2,nan
+09-04-2017,Oakland Athletics,Texas Rangers,50.0,0.0,0.2,nan,20.0,0.0,0.2,nan
+20-04-2017,Kansas City Royals,Texas Rangers,50.0,0.0,0.4,0.4,33.33,0.0,0.4,0.4
+21-04-2017,Kansas City Royals,Texas Rangers,46.67,0.33,0.4,0.5,37.5,0.33,0.4,0.5
+22-04-2017,Kansas City Royals,Texas Rangers,43.75,0.0,0.2,0.5,41.18,0.0,0.2,0.5
+23-04-2017,Kansas City Royals,Texas Rangers,41.18,0.0,0.2,0.5,44.44,0.0,0.2,0.5
+24-04-2017,Minnesota Twins,Texas Rangers,44.44,0.0,0.2,0.2,47.37,0.0,0.2,0.2
+25-04-2017,Minnesota Twins,Texas Rangers,47.37,0.0,0.2,0.2,45.0,0.0,0.2,0.2
+26-04-2017,Minnesota Twins,Texas Rangers,50.0,0.33,0.2,0.2,42.86,0.33,0.2,0.2
+28-04-2017,Los Angeles Angels,Texas Rangers,50.0,0.33,0.6,0.4,45.45,0.33,0.6,0.4
+29-04-2017,Los Angeles Angels,Texas Rangers,52.0,0.33,0.6,0.5,43.48,0.33,0.6,0.5
+30-04-2017,Los Angeles Angels,Texas Rangers,50.0,0.33,0.6,0.6,45.83,0.33,0.6,0.6
+10-05-2017,San Diego Padres,Texas Rangers,38.24,0.33,0.2,0.4,41.18,0.33,0.2,0.4
+11-05-2017,San Diego Padres,Texas Rangers,37.14,0.0,0.2,0.3,42.86,0.0,0.2,0.3
+12-05-2017,Oakland Athletics,Texas Rangers,47.06,0.0,0.4,0.4,44.44,0.0,0.4,0.4
+13-05-2017,Oakland Athletics,Texas Rangers,45.71,0.33,0.4,0.5,45.95,0.33,0.4,0.5
+14-05-2017,Oakland Athletics,Texas Rangers,44.44,0.0,0.2,0.5,47.37,0.0,0.2,0.5
+16-05-2017,Philadelphia Phillies,Texas Rangers,40.0,0.33,0.2,0.2,48.72,0.33,0.2,0.2
+17-05-2017,Philadelphia Phillies,Texas Rangers,38.89,0.0,0.2,0.2,50.0,0.0,0.2,0.2
+18-05-2017,Philadelphia Phillies,Texas Rangers,37.84,0.0,0.2,0.2,51.22,0.0,0.2,0.2
+29-05-2017,Tampa Bay Rays,Texas Rangers,50.94,0.0,0.4,0.4,49.02,0.0,0.4,0.4
+30-05-2017,Tampa Bay Rays,Texas Rangers,51.85,0.33,0.4,0.4,48.08,0.33,0.4,0.4
+31-05-2017,Tampa Bay Rays,Texas Rangers,50.91,0.33,0.4,0.5,49.06,0.33,0.4,0.5
+02-06-2017,Houston Astros,Texas Rangers,70.37,0.33,0.6,0.7,48.15,0.33,0.6,0.7
+03-06-2017,Houston Astros,Texas Rangers,70.91,0.33,0.6,0.7,47.27,0.33,0.6,0.7
+04-06-2017,Houston Astros,Texas Rangers,71.43,0.33,0.6,0.8,46.43,0.33,0.6,0.8
+06-06-2017,New York Mets,Texas Rangers,43.64,0.33,0.2,0.4,45.61,0.33,0.2,0.4
+07-06-2017,New York Mets,Texas Rangers,42.86,0.0,0.2,0.4,46.55,0.0,0.2,0.4
+16-06-2017,Seattle Mariners,Texas Rangers,48.53,0.33,0.4,0.4,49.23,0.33,0.4,0.4
+17-06-2017,Seattle Mariners,Texas Rangers,47.83,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+18-06-2017,Seattle Mariners,Texas Rangers,47.14,0.0,0.2,0.3,50.75,0.0,0.2,0.3
+19-06-2017,Toronto Blue Jays,Texas Rangers,48.53,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+20-06-2017,Toronto Blue Jays,Texas Rangers,49.28,0.33,0.2,0.4,49.28,0.33,0.2,0.4
+21-06-2017,Toronto Blue Jays,Texas Rangers,48.57,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+22-06-2017,Toronto Blue Jays,Texas Rangers,49.3,0.0,0.4,0.4,49.3,0.0,0.4,0.4
+03-07-2017,Boston Red Sox,Texas Rangers,57.32,0.33,0.6,0.5,48.78,0.33,0.6,0.5
+04-07-2017,Boston Red Sox,Texas Rangers,57.83,0.33,0.6,0.6,48.19,0.33,0.6,0.6
+05-07-2017,Boston Red Sox,Texas Rangers,58.33,0.33,0.6,0.7,47.62,0.33,0.6,0.7
+07-07-2017,Los Angeles Angels,Texas Rangers,49.44,0.0,0.0,0.2,48.24,0.0,0.0,0.2
+08-07-2017,Los Angeles Angels,Texas Rangers,48.89,0.33,0.2,0.3,48.84,0.33,0.2,0.3
+09-07-2017,Los Angeles Angels,Texas Rangers,48.35,0.0,0.2,0.2,49.43,0.0,0.2,0.2
+24-07-2017,Miami Marlins,Texas Rangers,45.83,0.33,0.4,0.3,48.98,0.33,0.4,0.3
+25-07-2017,Miami Marlins,Texas Rangers,46.39,0.0,0.4,0.3,48.48,0.0,0.4,0.3
+26-07-2017,Miami Marlins,Texas Rangers,45.92,0.33,0.4,0.4,49.0,0.33,0.4,0.4
+28-07-2017,Baltimore Orioles,Texas Rangers,47.52,0.0,0.4,0.5,48.51,0.0,0.4,0.5
+29-07-2017,Baltimore Orioles,Texas Rangers,47.06,0.0,0.2,0.4,49.02,0.0,0.2,0.4
+30-07-2017,Baltimore Orioles,Texas Rangers,47.57,0.0,0.0,0.3,48.54,0.0,0.0,0.3
+31-07-2017,Seattle Mariners,Texas Rangers,50.0,0.33,0.2,0.4,48.08,0.33,0.2,0.4
+01-08-2017,Seattle Mariners,Texas Rangers,50.47,0.33,0.4,0.5,47.62,0.33,0.4,0.5
+02-08-2017,Seattle Mariners,Texas Rangers,50.93,0.33,0.6,0.5,47.17,0.33,0.6,0.5
+11-08-2017,Houston Astros,Texas Rangers,62.28,0.0,0.2,0.2,47.79,0.0,0.2,0.2
+12-08-2017,Houston Astros,Texas Rangers,61.74,0.0,0.0,0.2,48.25,0.0,0.0,0.2
+13-08-2017,Houston Astros,Texas Rangers,61.21,0.0,0.0,0.2,48.7,0.0,0.0,0.2
+14-08-2017,Detroit Tigers,Texas Rangers,45.3,0.33,0.2,0.2,48.28,0.33,0.2,0.2
+15-08-2017,Detroit Tigers,Texas Rangers,44.92,0.0,0.2,0.2,48.72,0.0,0.2,0.2
+16-08-2017,Detroit Tigers,Texas Rangers,44.54,0.0,0.2,0.2,49.15,0.0,0.2,0.2
+17-08-2017,Chicago White Sox,Texas Rangers,38.46,0.0,0.0,0.4,49.58,0.0,0.0,0.4
+18-08-2017,Chicago White Sox,Texas Rangers,38.14,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+19-08-2017,Chicago White Sox,Texas Rangers,38.66,0.0,0.0,0.3,49.59,0.0,0.0,0.3
+20-08-2017,Chicago White Sox,Texas Rangers,38.33,0.33,0.2,0.3,50.0,0.33,0.2,0.3
+01-09-2017,Los Angeles Angels,Texas Rangers,51.49,0.33,0.4,0.4,49.62,0.33,0.4,0.4
+02-09-2017,Los Angeles Angels,Texas Rangers,51.11,0.33,0.6,0.4,50.0,0.33,0.6,0.4
+03-09-2017,Los Angeles Angels,Texas Rangers,51.47,0.0,0.4,0.4,49.63,0.0,0.4,0.4
+08-09-2017,New York Yankees,Texas Rangers,53.96,0.0,0.4,0.4,50.36,0.0,0.4,0.4
+09-09-2017,New York Yankees,Texas Rangers,53.57,0.33,0.4,0.5,50.71,0.33,0.4,0.5
+10-09-2017,New York Yankees,Texas Rangers,53.9,0.0,0.2,0.5,50.35,0.0,0.2,0.5
+11-09-2017,Seattle Mariners,Texas Rangers,49.65,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+12-09-2017,Seattle Mariners,Texas Rangers,49.31,0.0,0.4,0.4,50.35,0.0,0.4,0.4
+13-09-2017,Seattle Mariners,Texas Rangers,49.66,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+14-09-2017,Seattle Mariners,Texas Rangers,50.0,0.33,0.2,0.3,49.66,0.33,0.2,0.3
+25-09-2017,Houston Astros,Texas Rangers,61.29,0.33,0.4,0.7,49.03,0.33,0.4,0.7
+26-09-2017,Houston Astros,Texas Rangers,61.54,0.0,0.4,0.6,48.72,0.0,0.4,0.6
+27-09-2017,Houston Astros,Texas Rangers,61.78,0.33,0.4,0.6,48.41,0.33,0.4,0.6
+28-09-2017,Oakland Athletics,Texas Rangers,46.2,0.0,0.2,0.6,48.1,0.0,0.2,0.6
+29-09-2017,Oakland Athletics,Texas Rangers,46.54,0.33,0.2,0.6,47.8,0.33,0.2,0.6
+30-09-2017,Oakland Athletics,Texas Rangers,46.25,0.33,0.4,0.6,48.12,0.33,0.4,0.6
+01-10-2017,Oakland Athletics,Texas Rangers,45.96,0.0,0.4,0.5,48.45,0.0,0.4,0.5
+11-04-2017,Milwaukee Brewers,Toronto Blue Jays,28.57,0.0,0.2,nan,16.67,0.0,0.2,nan
+12-04-2017,Milwaukee Brewers,Toronto Blue Jays,37.5,0.0,0.2,nan,14.29,0.0,0.2,nan
+13-04-2017,Baltimore Orioles,Toronto Blue Jays,71.43,0.0,0.2,nan,12.5,0.0,0.2,nan
+14-04-2017,Baltimore Orioles,Toronto Blue Jays,75.0,0.33,0.2,nan,11.11,0.33,0.2,nan
+15-04-2017,Baltimore Orioles,Toronto Blue Jays,77.78,0.33,0.4,0.6,10.0,0.33,0.4,0.6
+16-04-2017,Baltimore Orioles,Toronto Blue Jays,70.0,0.33,0.6,0.6,18.18,0.33,0.6,0.6
+18-04-2017,Boston Red Sox,Toronto Blue Jays,61.54,0.33,0.4,0.5,16.67,0.33,0.4,0.5
+19-04-2017,Boston Red Sox,Toronto Blue Jays,64.29,0.33,0.6,0.5,15.38,0.33,0.6,0.5
+20-04-2017,Boston Red Sox,Toronto Blue Jays,60.0,0.33,0.6,0.6,21.43,0.33,0.6,0.6
+28-04-2017,Tampa Bay Rays,Toronto Blue Jays,47.83,0.33,0.2,0.5,27.27,0.33,0.2,0.5
+29-04-2017,Tampa Bay Rays,Toronto Blue Jays,50.0,0.0,0.2,0.4,26.09,0.0,0.2,0.4
+30-04-2017,Tampa Bay Rays,Toronto Blue Jays,48.0,0.33,0.4,0.4,29.17,0.33,0.4,0.4
+08-05-2017,Cleveland Indians,Toronto Blue Jays,56.67,0.33,0.4,0.4,35.48,0.33,0.4,0.4
+09-05-2017,Cleveland Indians,Toronto Blue Jays,54.84,0.33,0.4,0.5,37.5,0.33,0.4,0.5
+10-05-2017,Cleveland Indians,Toronto Blue Jays,56.25,0.0,0.4,0.4,36.36,0.0,0.4,0.4
+11-05-2017,Seattle Mariners,Toronto Blue Jays,50.0,0.33,0.6,0.5,38.24,0.33,0.6,0.5
+12-05-2017,Seattle Mariners,Toronto Blue Jays,48.57,0.33,0.6,0.6,40.0,0.33,0.6,0.6
+13-05-2017,Seattle Mariners,Toronto Blue Jays,47.22,0.0,0.4,0.6,41.67,0.0,0.4,0.6
+14-05-2017,Seattle Mariners,Toronto Blue Jays,45.95,0.0,0.2,0.5,43.24,0.0,0.2,0.5
+15-05-2017,Atlanta Braves,Toronto Blue Jays,38.24,0.33,0.4,0.2,44.74,0.33,0.4,0.2
+16-05-2017,Atlanta Braves,Toronto Blue Jays,40.0,0.0,0.4,0.2,43.59,0.0,0.4,0.2
+26-05-2017,Texas Rangers,Toronto Blue Jays,50.0,0.0,0.2,0.5,44.68,0.0,0.2,0.5
+27-05-2017,Texas Rangers,Toronto Blue Jays,48.98,0.0,0.0,0.4,45.83,0.0,0.0,0.4
+28-05-2017,Texas Rangers,Toronto Blue Jays,48.0,0.0,0.0,0.3,46.94,0.0,0.0,0.3
+29-05-2017,Cincinnati Reds,Toronto Blue Jays,48.98,0.0,0.4,0.4,46.0,0.0,0.4,0.4
+30-05-2017,Cincinnati Reds,Toronto Blue Jays,48.0,0.33,0.4,0.5,47.06,0.33,0.4,0.5
+31-05-2017,Cincinnati Reds,Toronto Blue Jays,47.06,0.0,0.2,0.4,48.08,0.0,0.2,0.4
+01-06-2017,New York Yankees,Toronto Blue Jays,60.0,0.33,0.4,0.5,49.06,0.33,0.4,0.5
+02-06-2017,New York Yankees,Toronto Blue Jays,60.78,0.0,0.2,0.4,48.15,0.0,0.2,0.4
+03-06-2017,New York Yankees,Toronto Blue Jays,59.62,0.33,0.4,0.5,49.09,0.33,0.4,0.5
+04-06-2017,New York Yankees,Toronto Blue Jays,60.38,0.0,0.2,0.4,48.21,0.0,0.2,0.4
+13-06-2017,Tampa Bay Rays,Toronto Blue Jays,51.52,0.0,0.4,0.4,49.21,0.0,0.4,0.4
+14-06-2017,Tampa Bay Rays,Toronto Blue Jays,52.24,0.33,0.4,0.5,48.44,0.33,0.4,0.5
+16-06-2017,Chicago White Sox,Toronto Blue Jays,44.62,0.0,0.4,0.3,49.23,0.0,0.4,0.3
+17-06-2017,Chicago White Sox,Toronto Blue Jays,45.45,0.33,0.4,0.4,48.48,0.33,0.4,0.4
+18-06-2017,Chicago White Sox,Toronto Blue Jays,46.27,0.33,0.4,0.5,47.76,0.33,0.4,0.5
+27-06-2017,Baltimore Orioles,Toronto Blue Jays,49.33,0.33,0.2,0.4,48.0,0.33,0.2,0.4
+28-06-2017,Baltimore Orioles,Toronto Blue Jays,50.0,0.33,0.4,0.4,47.37,0.33,0.4,0.4
+29-06-2017,Baltimore Orioles,Toronto Blue Jays,49.35,0.33,0.6,0.4,48.05,0.33,0.6,0.4
+30-06-2017,Boston Red Sox,Toronto Blue Jays,55.7,0.0,0.4,0.4,47.44,0.0,0.4,0.4
+01-07-2017,Boston Red Sox,Toronto Blue Jays,56.25,0.33,0.4,0.4,46.84,0.33,0.4,0.4
+02-07-2017,Boston Red Sox,Toronto Blue Jays,56.79,0.33,0.4,0.5,46.25,0.33,0.4,0.5
+06-07-2017,Houston Astros,Toronto Blue Jays,68.24,0.33,0.6,0.6,46.43,0.33,0.6,0.6
+07-07-2017,Houston Astros,Toronto Blue Jays,67.44,0.33,0.6,0.6,47.06,0.33,0.6,0.6
+08-07-2017,Houston Astros,Toronto Blue Jays,67.82,0.0,0.4,0.6,46.51,0.0,0.4,0.6
+09-07-2017,Houston Astros,Toronto Blue Jays,67.05,0.33,0.4,0.6,47.13,0.33,0.4,0.6
+24-07-2017,Oakland Athletics,Toronto Blue Jays,44.9,0.0,0.2,0.4,44.9,0.0,0.2,0.4
+25-07-2017,Oakland Athletics,Toronto Blue Jays,44.44,0.33,0.2,0.4,45.45,0.33,0.2,0.4
+26-07-2017,Oakland Athletics,Toronto Blue Jays,44.0,0.0,0.2,0.3,46.0,0.0,0.2,0.3
+27-07-2017,Oakland Athletics,Toronto Blue Jays,43.56,0.0,0.2,0.2,46.53,0.0,0.2,0.2
+28-07-2017,Los Angeles Angels,Toronto Blue Jays,47.57,0.0,0.2,0.4,47.06,0.0,0.2,0.4
+29-07-2017,Los Angeles Angels,Toronto Blue Jays,48.08,0.0,0.0,0.3,46.6,0.0,0.0,0.3
+30-07-2017,Los Angeles Angels,Toronto Blue Jays,48.57,0.33,0.2,0.4,46.15,0.33,0.2,0.4
+08-08-2017,New York Yankees,Toronto Blue Jays,53.64,0.33,0.2,0.3,46.85,0.33,0.2,0.3
+09-08-2017,New York Yankees,Toronto Blue Jays,53.15,0.33,0.4,0.3,47.32,0.33,0.4,0.3
+10-08-2017,New York Yankees,Toronto Blue Jays,53.57,0.0,0.4,0.3,46.9,0.0,0.4,0.3
+11-08-2017,Pittsburgh Pirates,Toronto Blue Jays,49.57,0.0,0.4,0.5,47.37,0.0,0.4,0.5
+12-08-2017,Pittsburgh Pirates,Toronto Blue Jays,50.0,0.33,0.4,0.6,46.96,0.33,0.4,0.6
+13-08-2017,Pittsburgh Pirates,Toronto Blue Jays,49.57,0.33,0.4,0.6,47.41,0.33,0.4,0.6
+14-08-2017,Tampa Bay Rays,Toronto Blue Jays,49.58,0.0,0.2,0.2,47.86,0.0,0.2,0.2
+15-08-2017,Tampa Bay Rays,Toronto Blue Jays,49.17,0.0,0.0,0.2,48.31,0.0,0.0,0.2
+16-08-2017,Tampa Bay Rays,Toronto Blue Jays,49.59,0.0,0.0,0.2,47.9,0.0,0.0,0.2
+17-08-2017,Tampa Bay Rays,Toronto Blue Jays,49.18,0.33,0.2,0.2,48.33,0.33,0.2,0.2
+25-08-2017,Minnesota Twins,Toronto Blue Jays,51.18,0.0,0.4,0.6,47.24,0.0,0.4,0.6
+26-08-2017,Minnesota Twins,Toronto Blue Jays,51.56,0.0,0.2,0.5,46.88,0.0,0.2,0.5
+27-08-2017,Minnesota Twins,Toronto Blue Jays,51.16,0.33,0.2,0.5,47.29,0.33,0.2,0.5
+28-08-2017,Boston Red Sox,Toronto Blue Jays,56.15,0.0,0.0,0.3,46.92,0.0,0.0,0.3
+29-08-2017,Boston Red Sox,Toronto Blue Jays,56.49,0.0,0.0,0.3,46.56,0.0,0.0,0.3
+30-08-2017,Boston Red Sox,Toronto Blue Jays,56.82,0.33,0.2,0.3,46.21,0.33,0.2,0.3
+08-09-2017,Detroit Tigers,Toronto Blue Jays,42.45,0.33,0.2,0.2,45.71,0.33,0.2,0.2
+09-09-2017,Detroit Tigers,Toronto Blue Jays,42.86,0.0,0.2,0.2,45.39,0.0,0.2,0.2
+10-09-2017,Detroit Tigers,Toronto Blue Jays,42.55,0.33,0.4,0.2,45.77,0.33,0.4,0.2
+11-09-2017,Baltimore Orioles,Toronto Blue Jays,49.65,0.0,0.0,0.3,46.15,0.0,0.0,0.3
+12-09-2017,Baltimore Orioles,Toronto Blue Jays,49.31,0.0,0.0,0.2,46.53,0.0,0.0,0.2
+13-09-2017,Baltimore Orioles,Toronto Blue Jays,48.97,0.0,0.0,0.2,46.9,0.0,0.0,0.2
+19-09-2017,Kansas City Royals,Toronto Blue Jays,48.99,0.0,0.2,0.4,46.67,0.0,0.2,0.4
+20-09-2017,Kansas City Royals,Toronto Blue Jays,48.67,0.0,0.2,0.3,47.02,0.0,0.2,0.3
+21-09-2017,Kansas City Royals,Toronto Blue Jays,49.01,0.0,0.0,0.2,46.71,0.0,0.0,0.2
+22-09-2017,New York Yankees,Toronto Blue Jays,55.92,0.33,0.4,0.6,46.41,0.33,0.4,0.6
+23-09-2017,New York Yankees,Toronto Blue Jays,55.56,0.33,0.6,0.7,46.75,0.33,0.6,0.7
+24-09-2017,New York Yankees,Toronto Blue Jays,55.84,0.0,0.4,0.6,46.45,0.0,0.4,0.6
+03-04-2017,Miami Marlins,Washington Nationals,0,0.33,0.6,0.5,0,0.33,0.6,0.5
+05-04-2017,Miami Marlins,Washington Nationals,0.0,nan,nan,nan,100.0,nan,nan,nan
+06-04-2017,Miami Marlins,Washington Nationals,0.0,0.0,nan,nan,100.0,0.0,nan,nan
+10-04-2017,St. Louis Cardinals,Washington Nationals,33.33,0.33,0.2,nan,50.0,0.33,0.2,nan
+11-04-2017,St. Louis Cardinals,Washington Nationals,28.57,0.0,0.2,nan,57.14,0.0,0.2,nan
+12-04-2017,St. Louis Cardinals,Washington Nationals,25.0,0.0,0.2,nan,62.5,0.0,0.2,nan
+14-04-2017,Philadelphia Phillies,Washington Nationals,33.33,0.0,0.2,0.3,55.56,0.0,0.2,0.3
+15-04-2017,Philadelphia Phillies,Washington Nationals,30.0,0.0,0.0,0.2,60.0,0.0,0.0,0.2
+16-04-2017,Philadelphia Phillies,Washington Nationals,36.36,0.0,0.0,0.2,54.55,0.0,0.0,0.2
+28-04-2017,New York Mets,Washington Nationals,38.1,0.0,0.0,0.1,72.73,0.0,0.0,0.1
+29-04-2017,New York Mets,Washington Nationals,40.91,0.0,0.0,0.1,69.57,0.0,0.0,0.1
+30-04-2017,New York Mets,Washington Nationals,43.48,0.33,0.2,0.2,66.67,0.33,0.2,0.2
+02-05-2017,Arizona Diamondbacks,Washington Nationals,59.26,0.0,0.2,0.4,68.0,0.0,0.2,0.4
+03-05-2017,Arizona Diamondbacks,Washington Nationals,60.71,0.33,0.2,0.4,65.38,0.33,0.2,0.4
+04-05-2017,Arizona Diamondbacks,Washington Nationals,58.62,0.33,0.4,0.5,66.67,0.33,0.4,0.5
+10-05-2017,Baltimore Orioles,Washington Nationals,68.75,0.33,0.6,0.6,63.64,0.33,0.6,0.6
+13-05-2017,Philadelphia Phillies,Washington Nationals,40.62,0.0,0.2,0.2,64.71,0.0,0.2,0.2
+23-05-2017,Seattle Mariners,Washington Nationals,44.44,0.0,0.2,0.3,60.47,0.0,0.2,0.3
+24-05-2017,Seattle Mariners,Washington Nationals,43.48,0.0,0.0,0.3,61.36,0.0,0.0,0.3
+25-05-2017,Seattle Mariners,Washington Nationals,42.55,0.0,0.0,0.3,62.22,0.0,0.0,0.3
+26-05-2017,San Diego Padres,Washington Nationals,36.73,0.33,0.4,0.2,60.87,0.33,0.4,0.2
+27-05-2017,San Diego Padres,Washington Nationals,36.0,0.33,0.4,0.3,61.7,0.33,0.4,0.3
+28-05-2017,San Diego Padres,Washington Nationals,35.29,0.0,0.4,0.3,62.5,0.0,0.4,0.3
+08-06-2017,Baltimore Orioles,Washington Nationals,54.39,0.33,0.2,0.5,63.79,0.33,0.2,0.5
+09-06-2017,Texas Rangers,Washington Nationals,45.76,0.33,0.2,0.3,64.41,0.33,0.2,0.3
+10-06-2017,Texas Rangers,Washington Nationals,46.67,0.0,0.2,0.2,63.33,0.0,0.2,0.2
+11-06-2017,Texas Rangers,Washington Nationals,47.54,0.33,0.4,0.3,62.3,0.33,0.4,0.3
+12-06-2017,Atlanta Braves,Washington Nationals,43.55,0.0,0.2,0.4,61.29,0.0,0.2,0.4
+13-06-2017,Atlanta Braves,Washington Nationals,44.44,0.0,0.0,0.3,60.32,0.0,0.0,0.3
+14-06-2017,Atlanta Braves,Washington Nationals,43.75,0.33,0.2,0.4,60.94,0.33,0.2,0.4
+23-06-2017,Cincinnati Reds,Washington Nationals,42.25,0.0,0.2,0.1,59.72,0.0,0.2,0.1
+24-06-2017,Cincinnati Reds,Washington Nationals,41.67,0.0,0.2,0.1,60.27,0.0,0.2,0.1
+25-06-2017,Cincinnati Reds,Washington Nationals,41.1,0.0,0.0,0.1,60.81,0.0,0.0,0.1
+26-06-2017,Chicago Cubs,Washington Nationals,50.67,0.33,0.4,0.5,60.0,0.33,0.4,0.5
+27-06-2017,Chicago Cubs,Washington Nationals,51.32,0.0,0.2,0.5,59.21,0.0,0.2,0.5
+28-06-2017,Chicago Cubs,Washington Nationals,50.65,0.33,0.4,0.5,59.74,0.33,0.4,0.5
+29-06-2017,Chicago Cubs,Washington Nationals,50.0,0.0,0.2,0.4,60.26,0.0,0.2,0.4
+03-07-2017,New York Mets,Washington Nationals,46.91,0.33,0.6,0.7,58.54,0.33,0.6,0.7
+04-07-2017,New York Mets,Washington Nationals,46.34,0.0,0.4,0.6,59.04,0.0,0.4,0.6
+06-07-2017,Atlanta Braves,Washington Nationals,48.19,0.0,0.4,0.4,59.52,0.0,0.4,0.4
+07-07-2017,Atlanta Braves,Washington Nationals,48.81,0.0,0.2,0.4,58.82,0.0,0.2,0.4
+08-07-2017,Atlanta Braves,Washington Nationals,48.24,0.33,0.2,0.4,59.3,0.33,0.2,0.4
+09-07-2017,Atlanta Braves,Washington Nationals,48.84,0.0,0.2,0.4,58.62,0.0,0.2,0.4
+25-07-2017,Milwaukee Brewers,Washington Nationals,52.48,0.33,0.2,0.2,60.82,0.33,0.2,0.2
+26-07-2017,Milwaukee Brewers,Washington Nationals,52.94,0.0,0.2,0.1,60.2,0.0,0.2,0.1
+27-07-2017,Milwaukee Brewers,Washington Nationals,52.43,0.33,0.4,0.2,60.61,0.33,0.4,0.2
+29-07-2017,Colorado Rockies,Washington Nationals,56.31,0.0,0.2,0.5,61.0,0.0,0.2,0.5
+07-08-2017,Miami Marlins,Washington Nationals,47.71,0.0,0.2,0.4,59.63,0.0,0.2,0.4
+08-08-2017,Miami Marlins,Washington Nationals,47.27,0.33,0.2,0.4,60.0,0.33,0.2,0.4
+09-08-2017,Miami Marlins,Washington Nationals,47.75,0.0,0.2,0.3,59.46,0.0,0.2,0.3
+10-08-2017,Miami Marlins,Washington Nationals,47.32,0.33,0.4,0.4,59.82,0.33,0.4,0.4
+12-08-2017,San Francisco Giants,Washington Nationals,39.66,0.33,0.4,0.5,60.18,0.33,0.4,0.5
+15-08-2017,Los Angeles Angels,Washington Nationals,51.26,0.33,0.6,0.5,60.34,0.33,0.6,0.5
+16-08-2017,Los Angeles Angels,Washington Nationals,50.83,0.33,0.6,0.6,60.68,0.33,0.6,0.6
+25-08-2017,New York Mets,Washington Nationals,43.65,0.33,0.2,0.2,60.8,0.33,0.2,0.2
+26-08-2017,New York Mets,Washington Nationals,44.09,0.0,0.2,0.2,60.32,0.0,0.2,0.2
+28-08-2017,Miami Marlins,Washington Nationals,51.16,0.33,0.6,0.6,60.47,0.33,0.6,0.6
+29-08-2017,Miami Marlins,Washington Nationals,50.77,0.33,0.6,0.7,60.77,0.33,0.6,0.7
+30-08-2017,Miami Marlins,Washington Nationals,50.38,0.0,0.4,0.6,61.07,0.0,0.4,0.6
+07-09-2017,Philadelphia Phillies,Washington Nationals,38.13,0.33,0.4,0.4,61.15,0.33,0.4,0.4
+08-09-2017,Philadelphia Phillies,Washington Nationals,37.86,0.0,0.2,0.4,61.43,0.0,0.2,0.4
+09-09-2017,Philadelphia Phillies,Washington Nationals,37.59,0.0,0.2,0.4,61.7,0.0,0.2,0.4
+10-09-2017,Philadelphia Phillies,Washington Nationals,38.03,0.0,0.0,0.3,61.27,0.0,0.0,0.3
+12-09-2017,Atlanta Braves,Washington Nationals,45.07,0.33,0.4,0.4,61.54,0.33,0.4,0.4
+13-09-2017,Atlanta Braves,Washington Nationals,45.45,0.33,0.4,0.5,61.11,0.33,0.4,0.5
+14-09-2017,Atlanta Braves,Washington Nationals,45.83,0.33,0.6,0.5,60.69,0.33,0.6,0.5
+15-09-2017,Los Angeles Dodgers,Washington Nationals,64.38,0.33,0.2,0.1,60.96,0.33,0.2,0.1
+16-09-2017,Los Angeles Dodgers,Washington Nationals,64.63,0.33,0.4,0.2,60.54,0.33,0.4,0.2
+17-09-2017,Los Angeles Dodgers,Washington Nationals,64.86,0.33,0.6,0.3,60.14,0.33,0.6,0.3
+28-09-2017,Pittsburgh Pirates,Washington Nationals,46.2,0.33,0.6,0.4,60.13,0.33,0.6,0.4
+29-09-2017,Pittsburgh Pirates,Washington Nationals,45.91,0.33,0.6,0.5,60.38,0.33,0.6,0.5
+30-09-2017,Pittsburgh Pirates,Washington Nationals,45.62,0.0,0.4,0.5,60.62,0.0,0.4,0.5
+01-10-2017,Pittsburgh Pirates,Washington Nationals,45.96,0.0,0.2,0.5,60.25,0.0,0.2,0.5

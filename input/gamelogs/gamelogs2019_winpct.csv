@@ -1,0 +1,2364 @@
+Date,AwayTeam,HomeTeam,A_SeaWinPct,A_last3WinPct,A_last5WinPct,A_last10WinPct,H_SeaWinPct,H_last3WinPct,H_last5WinPct,H_last10WinPct
+04-04-2019,Texas Rangers,Los Angeles Angels,66.67,0.33,0.4,nan,16.67,0.33,0.4,nan
+05-04-2019,Texas Rangers,Los Angeles Angels,71.43,0.33,0.4,nan,14.29,0.33,0.4,nan
+06-04-2019,Texas Rangers,Los Angeles Angels,62.5,0.33,0.6,nan,25.0,0.33,0.6,nan
+07-04-2019,Texas Rangers,Los Angeles Angels,55.56,0.0,0.4,0.5,33.33,0.0,0.4,0.5
+08-04-2019,Milwaukee Brewers,Los Angeles Angels,80.0,0.0,0.4,0.6,40.0,0.0,0.4,0.6
+09-04-2019,Milwaukee Brewers,Los Angeles Angels,72.73,0.33,0.4,0.7,45.45,0.33,0.4,0.7
+10-04-2019,Milwaukee Brewers,Los Angeles Angels,66.67,0.0,0.2,0.6,50.0,0.0,0.2,0.6
+18-04-2019,Seattle Mariners,Los Angeles Angels,61.9,0.0,0.0,0.3,44.44,0.0,0.0,0.3
+19-04-2019,Seattle Mariners,Los Angeles Angels,63.64,0.0,0.0,0.2,42.11,0.0,0.0,0.2
+20-04-2019,Seattle Mariners,Los Angeles Angels,65.22,0.33,0.2,0.2,40.0,0.33,0.2,0.2
+21-04-2019,Seattle Mariners,Los Angeles Angels,66.67,0.33,0.4,0.2,38.1,0.33,0.4,0.2
+22-04-2019,New York Yankees,Los Angeles Angels,52.38,0.33,0.4,0.5,40.91,0.33,0.4,0.5
+23-04-2019,New York Yankees,Los Angeles Angels,54.55,0.33,0.6,0.6,39.13,0.33,0.6,0.6
+24-04-2019,New York Yankees,Los Angeles Angels,56.52,0.33,0.6,0.6,37.5,0.33,0.6,0.6
+25-04-2019,New York Yankees,Los Angeles Angels,58.33,0.33,0.6,0.7,36.0,0.33,0.6,0.7
+30-04-2019,Toronto Blue Jays,Los Angeles Angels,50.0,0.33,0.4,0.6,41.38,0.33,0.4,0.6
+01-05-2019,Toronto Blue Jays,Los Angeles Angels,48.28,0.33,0.6,0.6,43.33,0.33,0.6,0.6
+02-05-2019,Toronto Blue Jays,Los Angeles Angels,46.67,0.0,0.4,0.5,45.16,0.0,0.4,0.5
+04-05-2019,Houston Astros,Los Angeles Angels,56.25,0.0,0.2,0.4,46.88,0.0,0.2,0.4
+05-05-2019,Houston Astros,Los Angeles Angels,57.58,0.0,0.2,0.3,45.45,0.0,0.2,0.3
+17-05-2019,Kansas City Royals,Los Angeles Angels,34.09,0.0,0.2,0.3,46.51,0.0,0.2,0.3
+18-05-2019,Kansas City Royals,Los Angeles Angels,33.33,0.0,0.2,0.3,47.73,0.0,0.2,0.3
+19-05-2019,Kansas City Royals,Los Angeles Angels,32.61,0.0,0.0,0.2,48.89,0.0,0.0,0.2
+20-05-2019,Minnesota Twins,Los Angeles Angels,65.22,0.33,0.6,0.6,47.83,0.33,0.6,0.6
+21-05-2019,Minnesota Twins,Los Angeles Angels,65.96,0.0,0.4,0.5,46.81,0.0,0.4,0.5
+23-05-2019,Minnesota Twins,Los Angeles Angels,66.67,0.33,0.4,0.6,45.83,0.33,0.4,0.6
+24-05-2019,Texas Rangers,Los Angeles Angels,51.06,0.33,0.6,0.6,44.9,0.33,0.6,0.6
+25-05-2019,Texas Rangers,Los Angeles Angels,52.08,0.33,0.6,0.7,44.0,0.33,0.6,0.7
+26-05-2019,Texas Rangers,Los Angeles Angels,51.02,0.33,0.6,0.7,45.1,0.33,0.6,0.7
+04-06-2019,Oakland Athletics,Los Angeles Angels,50.0,0.0,0.0,0.4,48.33,0.0,0.0,0.4
+05-06-2019,Oakland Athletics,Los Angeles Angels,50.82,0.0,0.0,0.3,47.54,0.0,0.0,0.3
+06-06-2019,Oakland Athletics,Los Angeles Angels,50.0,0.33,0.2,0.3,48.39,0.33,0.2,0.3
+07-06-2019,Seattle Mariners,Los Angeles Angels,39.39,0.33,0.2,0.2,47.62,0.33,0.2,0.2
+08-06-2019,Seattle Mariners,Los Angeles Angels,40.3,0.0,0.2,0.2,46.88,0.0,0.2,0.2
+09-06-2019,Seattle Mariners,Los Angeles Angels,39.71,0.33,0.4,0.3,47.69,0.33,0.4,0.3
+10-06-2019,Los Angeles Dodgers,Los Angeles Angels,68.18,0.33,0.2,0.6,46.97,0.33,0.2,0.6
+11-06-2019,Los Angeles Dodgers,Los Angeles Angels,67.16,0.33,0.4,0.6,47.76,0.33,0.4,0.6
+25-06-2019,Cincinnati Reds,Los Angeles Angels,47.37,0.0,0.4,0.6,49.37,0.0,0.4,0.6
+26-06-2019,Cincinnati Reds,Los Angeles Angels,46.75,0.0,0.2,0.6,50.0,0.0,0.2,0.6
+27-06-2019,Oakland Athletics,Los Angeles Angels,53.66,0.33,0.4,0.6,50.62,0.33,0.4,0.6
+28-06-2019,Oakland Athletics,Los Angeles Angels,53.01,0.33,0.4,0.6,51.22,0.33,0.4,0.6
+29-06-2019,Oakland Athletics,Los Angeles Angels,53.57,0.0,0.4,0.5,50.6,0.0,0.4,0.5
+30-06-2019,Oakland Athletics,Los Angeles Angels,54.12,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+12-07-2019,Seattle Mariners,Los Angeles Angels,41.49,0.33,0.2,0.2,49.45,0.33,0.2,0.2
+13-07-2019,Seattle Mariners,Los Angeles Angels,41.05,0.0,0.2,0.2,50.0,0.0,0.2,0.2
+14-07-2019,Seattle Mariners,Los Angeles Angels,40.62,0.0,0.2,0.2,50.54,0.0,0.2,0.2
+15-07-2019,Houston Astros,Los Angeles Angels,62.77,0.33,0.2,0.5,51.06,0.33,0.2,0.5
+16-07-2019,Houston Astros,Los Angeles Angels,62.11,0.33,0.4,0.5,51.58,0.33,0.4,0.5
+17-07-2019,Houston Astros,Los Angeles Angels,61.46,0.0,0.4,0.4,52.08,0.0,0.4,0.4
+18-07-2019,Houston Astros,Los Angeles Angels,61.86,0.0,0.2,0.4,51.55,0.0,0.2,0.4
+25-07-2019,Baltimore Orioles,Los Angeles Angels,31.68,0.33,0.4,0.4,52.43,0.33,0.4,0.4
+26-07-2019,Baltimore Orioles,Los Angeles Angels,32.35,0.0,0.2,0.4,51.92,0.0,0.2,0.4
+27-07-2019,Baltimore Orioles,Los Angeles Angels,33.01,0.33,0.4,0.5,51.43,0.33,0.4,0.5
+28-07-2019,Baltimore Orioles,Los Angeles Angels,33.65,0.33,0.4,0.5,50.94,0.33,0.4,0.5
+29-07-2019,Detroit Tigers,Los Angeles Angels,29.41,0.0,0.0,0.1,51.4,0.0,0.0,0.1
+30-07-2019,Detroit Tigers,Los Angeles Angels,30.1,0.0,0.0,0.1,50.93,0.0,0.0,0.1
+31-07-2019,Detroit Tigers,Los Angeles Angels,29.81,0.33,0.2,0.2,51.38,0.33,0.2,0.2
+12-08-2019,Pittsburgh Pirates,Los Angeles Angels,41.03,0.0,0.0,0.1,48.74,0.0,0.0,0.1
+13-08-2019,Pittsburgh Pirates,Los Angeles Angels,41.53,0.0,0.0,0.0,48.33,0.0,0.0,0.0
+14-08-2019,Pittsburgh Pirates,Los Angeles Angels,42.02,0.33,0.2,0.1,47.93,0.33,0.2,0.1
+15-08-2019,Chicago White Sox,Los Angeles Angels,45.38,0.33,0.2,0.4,48.36,0.33,0.2,0.4
+16-08-2019,Chicago White Sox,Los Angeles Angels,45.0,0.33,0.4,0.4,48.78,0.33,0.4,0.4
+17-08-2019,Chicago White Sox,Los Angeles Angels,45.45,0.0,0.4,0.4,48.39,0.0,0.4,0.4
+18-08-2019,Chicago White Sox,Los Angeles Angels,45.08,0.33,0.4,0.4,48.8,0.33,0.4,0.4
+27-08-2019,Texas Rangers,Los Angeles Angels,48.48,0.33,0.2,0.4,47.37,0.33,0.2,0.4
+28-08-2019,Texas Rangers,Los Angeles Angels,48.12,0.0,0.2,0.4,47.76,0.0,0.2,0.4
+30-08-2019,Boston Red Sox,Los Angeles Angels,53.73,0.33,0.4,0.5,47.41,0.33,0.4,0.5
+31-08-2019,Boston Red Sox,Los Angeles Angels,54.07,0.33,0.4,0.5,47.06,0.33,0.4,0.5
+01-09-2019,Boston Red Sox,Los Angeles Angels,53.68,0.33,0.6,0.5,47.45,0.33,0.6,0.5
+09-09-2019,Cleveland Indians,Los Angeles Angels,57.64,0.0,0.2,0.3,46.53,0.0,0.2,0.3
+10-09-2019,Cleveland Indians,Los Angeles Angels,57.93,0.33,0.4,0.4,46.21,0.33,0.4,0.4
+11-09-2019,Cleveland Indians,Los Angeles Angels,58.22,0.33,0.4,0.5,45.89,0.33,0.4,0.5
+13-09-2019,Tampa Bay Rays,Los Angeles Angels,58.78,0.0,0.4,0.6,45.58,0.0,0.4,0.6
+14-09-2019,Tampa Bay Rays,Los Angeles Angels,59.06,0.0,0.2,0.6,45.27,0.0,0.2,0.6
+15-09-2019,Tampa Bay Rays,Los Angeles Angels,59.33,0.33,0.2,0.6,44.97,0.33,0.2,0.6
+24-09-2019,Oakland Athletics,Los Angeles Angels,60.26,0.33,0.6,0.7,44.87,0.33,0.6,0.7
+25-09-2019,Oakland Athletics,Los Angeles Angels,59.87,0.0,0.4,0.6,45.22,0.0,0.4,0.6
+26-09-2019,Houston Astros,Los Angeles Angels,65.82,0.33,0.4,0.7,44.94,0.33,0.4,0.7
+27-09-2019,Houston Astros,Los Angeles Angels,65.41,0.33,0.6,0.7,45.28,0.33,0.6,0.7
+28-09-2019,Houston Astros,Los Angeles Angels,65.62,0.0,0.4,0.6,45.0,0.0,0.4,0.6
+29-09-2019,Houston Astros,Los Angeles Angels,65.84,0.33,0.4,0.6,44.72,0.33,0.4,0.6
+05-04-2019,Boston Red Sox,Arizona Diamondbacks,25.0,0.33,0.2,nan,42.86,0.33,0.2,nan
+06-04-2019,Boston Red Sox,Arizona Diamondbacks,22.22,0.0,0.2,0.2,50.0,0.0,0.2,0.2
+07-04-2019,Boston Red Sox,Arizona Diamondbacks,20.0,0.0,0.2,0.2,55.56,0.0,0.2,0.2
+09-04-2019,Texas Rangers,Arizona Diamondbacks,50.0,0.0,0.2,0.5,50.0,0.0,0.2,0.5
+10-04-2019,Texas Rangers,Arizona Diamondbacks,45.45,0.0,0.0,0.4,54.55,0.0,0.0,0.4
+11-04-2019,San Diego Padres,Arizona Diamondbacks,61.54,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+12-04-2019,San Diego Padres,Arizona Diamondbacks,64.29,0.33,0.4,0.5,46.15,0.33,0.4,0.5
+13-04-2019,San Diego Padres,Arizona Diamondbacks,66.67,0.33,0.4,0.6,42.86,0.33,0.4,0.6
+14-04-2019,San Diego Padres,Arizona Diamondbacks,68.75,0.33,0.6,0.6,40.0,0.33,0.6,0.6
+26-04-2019,Chicago Cubs,Arizona Diamondbacks,52.17,0.33,0.6,0.7,57.69,0.33,0.6,0.7
+27-04-2019,Chicago Cubs,Arizona Diamondbacks,50.0,0.0,0.4,0.6,59.26,0.0,0.4,0.6
+28-04-2019,Chicago Cubs,Arizona Diamondbacks,52.0,0.0,0.2,0.5,57.14,0.0,0.2,0.5
+30-04-2019,New York Yankees,Arizona Diamondbacks,60.71,0.33,0.4,0.7,55.17,0.33,0.4,0.7
+01-05-2019,New York Yankees,Arizona Diamondbacks,58.62,0.33,0.6,0.7,56.67,0.33,0.6,0.7
+09-05-2019,Atlanta Braves,Arizona Diamondbacks,48.65,0.0,0.2,0.4,56.76,0.0,0.2,0.4
+10-05-2019,Atlanta Braves,Arizona Diamondbacks,47.37,0.0,0.0,0.4,57.89,0.0,0.0,0.4
+11-05-2019,Atlanta Braves,Arizona Diamondbacks,48.72,0.0,0.0,0.3,56.41,0.0,0.0,0.3
+12-05-2019,Atlanta Braves,Arizona Diamondbacks,50.0,0.33,0.2,0.4,55.0,0.33,0.2,0.4
+13-05-2019,Pittsburgh Pirates,Arizona Diamondbacks,54.05,0.33,0.4,0.5,53.66,0.33,0.4,0.5
+14-05-2019,Pittsburgh Pirates,Arizona Diamondbacks,52.63,0.33,0.6,0.6,54.76,0.33,0.6,0.6
+15-05-2019,Pittsburgh Pirates,Arizona Diamondbacks,53.85,0.0,0.4,0.5,53.49,0.0,0.4,0.5
+17-05-2019,San Francisco Giants,Arizona Diamondbacks,42.86,0.0,0.2,0.3,54.55,0.0,0.2,0.3
+18-05-2019,San Francisco Giants,Arizona Diamondbacks,41.86,0.33,0.4,0.3,55.56,0.33,0.4,0.3
+19-05-2019,San Francisco Giants,Arizona Diamondbacks,43.18,0.0,0.2,0.3,54.35,0.0,0.2,0.3
+31-05-2019,New York Mets,Arizona Diamondbacks,48.21,0.0,0.2,0.5,49.12,0.0,0.2,0.5
+01-06-2019,New York Mets,Arizona Diamondbacks,49.12,0.0,0.2,0.4,48.28,0.0,0.2,0.4
+02-06-2019,New York Mets,Arizona Diamondbacks,48.28,0.33,0.2,0.4,49.15,0.33,0.2,0.4
+03-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,68.33,0.33,0.6,0.7,50.0,0.33,0.6,0.7
+04-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,68.85,0.33,0.6,0.7,49.18,0.33,0.6,0.7
+05-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,69.35,0.33,0.6,0.7,48.39,0.33,0.6,0.7
+18-06-2019,Colorado Rockies,Arizona Diamondbacks,52.11,0.33,0.4,0.4,52.05,0.33,0.4,0.4
+19-06-2019,Colorado Rockies,Arizona Diamondbacks,52.78,0.0,0.2,0.4,51.35,0.0,0.2,0.4
+20-06-2019,Colorado Rockies,Arizona Diamondbacks,53.42,0.33,0.4,0.5,50.67,0.33,0.4,0.5
+21-06-2019,San Francisco Giants,Arizona Diamondbacks,42.47,0.0,0.2,0.5,50.0,0.0,0.2,0.5
+22-06-2019,San Francisco Giants,Arizona Diamondbacks,43.24,0.0,0.0,0.4,49.35,0.0,0.0,0.4
+23-06-2019,San Francisco Giants,Arizona Diamondbacks,44.0,0.33,0.2,0.4,48.72,0.33,0.2,0.4
+24-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,68.35,0.33,0.6,0.6,49.37,0.33,0.6,0.6
+25-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,67.5,0.33,0.6,0.7,50.0,0.33,0.6,0.7
+26-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,67.9,0.0,0.4,0.6,49.38,0.0,0.4,0.6
+05-07-2019,Colorado Rockies,Arizona Diamondbacks,51.16,0.0,0.2,0.4,48.86,0.0,0.2,0.4
+06-07-2019,Colorado Rockies,Arizona Diamondbacks,50.57,0.0,0.0,0.3,49.44,0.0,0.0,0.3
+07-07-2019,Colorado Rockies,Arizona Diamondbacks,50.0,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+18-07-2019,Milwaukee Brewers,Arizona Diamondbacks,51.55,0.33,0.2,0.3,51.04,0.33,0.2,0.3
+19-07-2019,Milwaukee Brewers,Arizona Diamondbacks,52.04,0.33,0.4,0.3,50.52,0.33,0.4,0.3
+20-07-2019,Milwaukee Brewers,Arizona Diamondbacks,51.52,0.33,0.6,0.4,51.02,0.33,0.6,0.4
+21-07-2019,Milwaukee Brewers,Arizona Diamondbacks,52.0,0.0,0.4,0.4,50.51,0.0,0.4,0.4
+22-07-2019,Baltimore Orioles,Arizona Diamondbacks,31.63,0.0,0.4,0.3,50.0,0.0,0.4,0.3
+23-07-2019,Baltimore Orioles,Arizona Diamondbacks,31.31,0.33,0.4,0.4,50.5,0.33,0.4,0.4
+24-07-2019,Baltimore Orioles,Arizona Diamondbacks,32.0,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+02-08-2019,Washington Nationals,Arizona Diamondbacks,52.78,0.0,0.4,0.4,49.54,0.0,0.4,0.4
+03-08-2019,Washington Nationals,Arizona Diamondbacks,53.21,0.0,0.2,0.3,49.09,0.0,0.2,0.3
+04-08-2019,Washington Nationals,Arizona Diamondbacks,52.73,0.33,0.2,0.3,49.55,0.33,0.2,0.3
+05-08-2019,Philadelphia Phillies,Arizona Diamondbacks,52.25,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+06-08-2019,Philadelphia Phillies,Arizona Diamondbacks,52.68,0.0,0.2,0.4,49.56,0.0,0.2,0.4
+07-08-2019,Philadelphia Phillies,Arizona Diamondbacks,52.21,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+15-08-2019,San Francisco Giants,Arizona Diamondbacks,49.59,0.33,0.6,0.4,50.41,0.33,0.6,0.4
+16-08-2019,San Francisco Giants,Arizona Diamondbacks,50.0,0.0,0.4,0.4,50.0,0.0,0.4,0.4
+17-08-2019,San Francisco Giants,Arizona Diamondbacks,50.41,0.33,0.4,0.5,49.59,0.33,0.4,0.5
+18-08-2019,San Francisco Giants,Arizona Diamondbacks,50.81,0.33,0.4,0.6,49.19,0.33,0.4,0.6
+19-08-2019,Colorado Rockies,Arizona Diamondbacks,45.97,0.33,0.6,0.4,49.6,0.33,0.6,0.4
+20-08-2019,Colorado Rockies,Arizona Diamondbacks,45.6,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+21-08-2019,Colorado Rockies,Arizona Diamondbacks,45.24,0.0,0.4,0.5,50.39,0.0,0.4,0.5
+29-08-2019,Los Angeles Dodgers,Arizona Diamondbacks,65.19,0.33,0.2,0.5,50.38,0.33,0.2,0.5
+30-08-2019,Los Angeles Dodgers,Arizona Diamondbacks,64.71,0.33,0.4,0.5,50.75,0.33,0.4,0.5
+31-08-2019,Los Angeles Dodgers,Arizona Diamondbacks,64.23,0.0,0.4,0.4,51.11,0.0,0.4,0.4
+01-09-2019,Los Angeles Dodgers,Arizona Diamondbacks,63.77,0.0,0.2,0.3,51.47,0.0,0.2,0.3
+02-09-2019,San Diego Padres,Arizona Diamondbacks,47.06,0.33,0.4,0.4,51.09,0.33,0.4,0.4
+03-09-2019,San Diego Padres,Arizona Diamondbacks,46.72,0.33,0.4,0.5,51.45,0.33,0.4,0.5
+04-09-2019,San Diego Padres,Arizona Diamondbacks,46.38,0.0,0.4,0.4,51.8,0.0,0.4,0.4
+13-09-2019,Cincinnati Reds,Arizona Diamondbacks,46.26,0.0,0.2,0.3,51.02,0.0,0.2,0.3
+14-09-2019,Cincinnati Reds,Arizona Diamondbacks,46.62,0.33,0.2,0.4,50.68,0.33,0.2,0.4
+15-09-2019,Cincinnati Reds,Arizona Diamondbacks,46.31,0.33,0.4,0.4,51.01,0.33,0.4,0.4
+16-09-2019,Miami Marlins,Arizona Diamondbacks,34.9,0.33,0.2,0.2,50.67,0.33,0.2,0.2
+17-09-2019,Miami Marlins,Arizona Diamondbacks,34.67,0.0,0.2,0.2,50.99,0.0,0.2,0.2
+18-09-2019,Miami Marlins,Arizona Diamondbacks,35.1,0.0,0.2,0.1,50.66,0.0,0.2,0.1
+23-09-2019,St. Louis Cardinals,Arizona Diamondbacks,57.05,0.33,0.6,0.5,51.28,0.33,0.6,0.5
+24-09-2019,St. Louis Cardinals,Arizona Diamondbacks,57.32,0.33,0.6,0.6,50.96,0.33,0.6,0.6
+25-09-2019,St. Louis Cardinals,Arizona Diamondbacks,56.96,0.33,0.6,0.7,51.27,0.33,0.6,0.7
+27-09-2019,San Diego Padres,Arizona Diamondbacks,44.03,0.0,0.2,0.2,51.57,0.0,0.2,0.2
+28-09-2019,San Diego Padres,Arizona Diamondbacks,43.75,0.0,0.0,0.2,51.88,0.0,0.0,0.2
+29-09-2019,San Diego Padres,Arizona Diamondbacks,43.48,0.0,0.0,0.1,52.17,0.0,0.0,0.1
+01-04-2019,Chicago Cubs,Atlanta Braves,33.33,0.0,nan,nan,0.0,0.0,nan,nan
+03-04-2019,Chicago Cubs,Atlanta Braves,25.0,0.0,0.2,nan,25.0,0.0,0.2,nan
+04-04-2019,Chicago Cubs,Atlanta Braves,20.0,0.0,0.0,nan,40.0,0.0,0.0,nan
+05-04-2019,Miami Marlins,Atlanta Braves,28.57,0.0,0.2,nan,50.0,0.0,0.2,nan
+06-04-2019,Miami Marlins,Atlanta Braves,25.0,0.0,0.0,nan,57.14,0.0,0.0,nan
+07-04-2019,Miami Marlins,Atlanta Braves,33.33,0.0,0.0,0.2,50.0,0.0,0.0,0.2
+11-04-2019,New York Mets,Atlanta Braves,63.64,0.0,0.2,0.4,63.64,0.0,0.2,0.4
+12-04-2019,New York Mets,Atlanta Braves,66.67,0.33,0.2,0.5,58.33,0.33,0.2,0.5
+13-04-2019,New York Mets,Atlanta Braves,69.23,0.33,0.4,0.5,53.85,0.33,0.4,0.5
+14-04-2019,New York Mets,Atlanta Braves,64.29,0.33,0.6,0.5,57.14,0.33,0.6,0.5
+16-04-2019,Arizona Diamondbacks,Atlanta Braves,43.75,0.0,0.0,0.3,60.0,0.0,0.0,0.3
+17-04-2019,Arizona Diamondbacks,Atlanta Braves,47.06,0.33,0.2,0.3,56.25,0.33,0.2,0.3
+18-04-2019,Arizona Diamondbacks,Atlanta Braves,50.0,0.33,0.4,0.3,52.94,0.33,0.4,0.3
+26-04-2019,Colorado Rockies,Atlanta Braves,44.0,0.0,0.4,0.6,50.0,0.0,0.4,0.6
+27-04-2019,Colorado Rockies,Atlanta Braves,46.15,0.33,0.4,0.6,48.0,0.33,0.4,0.6
+28-04-2019,Colorado Rockies,Atlanta Braves,48.15,0.33,0.4,0.6,46.15,0.33,0.4,0.6
+29-04-2019,San Diego Padres,Atlanta Braves,57.14,0.33,0.6,0.5,48.15,0.33,0.6,0.5
+30-04-2019,San Diego Padres,Atlanta Braves,55.17,0.0,0.4,0.5,50.0,0.0,0.4,0.5
+01-05-2019,San Diego Padres,Atlanta Braves,56.67,0.0,0.2,0.5,48.28,0.0,0.2,0.5
+02-05-2019,San Diego Padres,Atlanta Braves,54.84,0.33,0.2,0.6,50.0,0.33,0.2,0.6
+14-05-2019,St. Louis Cardinals,Atlanta Braves,53.66,0.0,0.2,0.2,51.22,0.0,0.2,0.2
+15-05-2019,St. Louis Cardinals,Atlanta Braves,54.76,0.0,0.0,0.2,50.0,0.0,0.0,0.2
+16-05-2019,St. Louis Cardinals,Atlanta Braves,53.49,0.33,0.2,0.3,51.16,0.33,0.2,0.3
+17-05-2019,Milwaukee Brewers,Atlanta Braves,58.7,0.33,0.4,0.5,52.27,0.33,0.4,0.5
+18-05-2019,Milwaukee Brewers,Atlanta Braves,57.45,0.33,0.6,0.5,53.33,0.33,0.6,0.5
+19-05-2019,Milwaukee Brewers,Atlanta Braves,56.25,0.0,0.4,0.4,54.35,0.0,0.4,0.4
+28-05-2019,Washington Nationals,Atlanta Braves,40.74,0.33,0.6,0.3,55.56,0.33,0.6,0.3
+29-05-2019,Washington Nationals,Atlanta Braves,41.82,0.0,0.4,0.3,54.55,0.0,0.4,0.3
+31-05-2019,Detroit Tigers,Atlanta Braves,38.89,0.33,0.2,0.2,53.57,0.33,0.2,0.2
+01-06-2019,Detroit Tigers,Atlanta Braves,40.0,0.33,0.4,0.3,52.63,0.33,0.4,0.3
+02-06-2019,Detroit Tigers,Atlanta Braves,39.29,0.33,0.6,0.4,53.45,0.33,0.6,0.4
+10-06-2019,Pittsburgh Pirates,Atlanta Braves,46.88,0.0,0.2,0.3,55.38,0.0,0.2,0.3
+11-06-2019,Pittsburgh Pirates,Atlanta Braves,46.15,0.0,0.0,0.2,56.06,0.0,0.0,0.2
+12-06-2019,Pittsburgh Pirates,Atlanta Braves,45.45,0.0,0.0,0.2,56.72,0.0,0.0,0.2
+13-06-2019,Pittsburgh Pirates,Atlanta Braves,44.78,0.0,0.0,0.2,57.35,0.0,0.0,0.2
+14-06-2019,Philadelphia Phillies,Atlanta Braves,55.88,0.33,0.2,0.5,57.97,0.33,0.2,0.5
+15-06-2019,Philadelphia Phillies,Atlanta Braves,55.07,0.0,0.2,0.5,58.57,0.0,0.2,0.5
+16-06-2019,Philadelphia Phillies,Atlanta Braves,55.71,0.0,0.2,0.4,57.75,0.0,0.2,0.4
+17-06-2019,New York Mets,Atlanta Braves,47.89,0.33,0.2,0.4,58.33,0.33,0.2,0.4
+18-06-2019,New York Mets,Atlanta Braves,47.22,0.0,0.2,0.4,58.9,0.0,0.2,0.4
+19-06-2019,New York Mets,Atlanta Braves,47.95,0.0,0.2,0.3,58.11,0.0,0.2,0.3
+02-07-2019,Philadelphia Phillies,Atlanta Braves,52.38,0.0,0.2,0.4,58.82,0.0,0.2,0.4
+03-07-2019,Philadelphia Phillies,Atlanta Braves,52.94,0.33,0.2,0.5,58.14,0.33,0.2,0.5
+04-07-2019,Philadelphia Phillies,Atlanta Braves,52.33,0.33,0.4,0.6,58.62,0.33,0.4,0.6
+05-07-2019,Miami Marlins,Atlanta Braves,37.65,0.0,0.0,0.2,59.09,0.0,0.0,0.2
+06-07-2019,Miami Marlins,Atlanta Braves,37.21,0.0,0.0,0.2,59.55,0.0,0.0,0.2
+07-07-2019,Miami Marlins,Atlanta Braves,37.93,0.0,0.0,0.2,58.89,0.0,0.0,0.2
+18-07-2019,Washington Nationals,Atlanta Braves,53.19,0.33,0.4,0.6,59.79,0.33,0.4,0.6
+19-07-2019,Washington Nationals,Atlanta Braves,53.68,0.0,0.2,0.5,59.18,0.0,0.2,0.5
+20-07-2019,Washington Nationals,Atlanta Braves,53.12,0.33,0.4,0.6,59.6,0.33,0.4,0.6
+21-07-2019,Washington Nationals,Atlanta Braves,53.61,0.0,0.2,0.5,59.0,0.0,0.2,0.5
+23-07-2019,Kansas City Royals,Atlanta Braves,36.63,0.33,0.4,0.6,59.41,0.33,0.4,0.6
+24-07-2019,Kansas City Royals,Atlanta Braves,37.25,0.0,0.2,0.5,58.82,0.0,0.2,0.5
+01-08-2019,Cincinnati Reds,Atlanta Braves,47.17,0.0,0.4,0.5,58.72,0.0,0.4,0.5
+02-08-2019,Cincinnati Reds,Atlanta Braves,46.73,0.33,0.4,0.5,59.09,0.33,0.4,0.5
+03-08-2019,Cincinnati Reds,Atlanta Braves,47.22,0.0,0.2,0.4,58.56,0.0,0.2,0.4
+04-08-2019,Cincinnati Reds,Atlanta Braves,46.79,0.33,0.4,0.5,58.93,0.33,0.4,0.5
+13-08-2019,New York Mets,Atlanta Braves,51.69,0.33,0.6,0.8,58.33,0.33,0.6,0.8
+14-08-2019,New York Mets,Atlanta Braves,51.26,0.0,0.4,0.7,58.68,0.0,0.4,0.7
+15-08-2019,New York Mets,Atlanta Braves,50.83,0.0,0.2,0.6,59.02,0.0,0.2,0.6
+16-08-2019,Los Angeles Dodgers,Atlanta Braves,65.85,0.33,0.6,0.7,58.54,0.33,0.6,0.7
+17-08-2019,Los Angeles Dodgers,Atlanta Braves,66.13,0.0,0.4,0.6,58.06,0.0,0.4,0.6
+18-08-2019,Los Angeles Dodgers,Atlanta Braves,65.6,0.33,0.4,0.6,58.4,0.33,0.4,0.6
+20-08-2019,Miami Marlins,Atlanta Braves,36.59,0.0,0.2,0.2,58.73,0.0,0.2,0.2
+21-08-2019,Miami Marlins,Atlanta Braves,36.29,0.0,0.0,0.2,59.06,0.0,0.0,0.2
+22-08-2019,Miami Marlins,Atlanta Braves,36.0,0.0,0.0,0.1,59.38,0.0,0.0,0.1
+30-08-2019,Chicago White Sox,Atlanta Braves,45.11,0.0,0.2,0.4,60.0,0.0,0.2,0.4
+31-08-2019,Chicago White Sox,Atlanta Braves,44.78,0.0,0.0,0.4,60.29,0.0,0.0,0.4
+01-09-2019,Chicago White Sox,Atlanta Braves,44.44,0.0,0.0,0.3,60.58,0.0,0.0,0.3
+02-09-2019,Toronto Blue Jays,Atlanta Braves,39.86,0.33,0.2,0.3,60.87,0.33,0.2,0.3
+03-09-2019,Toronto Blue Jays,Atlanta Braves,39.57,0.0,0.2,0.3,61.15,0.0,0.2,0.3
+05-09-2019,Washington Nationals,Atlanta Braves,56.52,0.33,0.4,0.6,61.43,0.33,0.4,0.6
+06-09-2019,Washington Nationals,Atlanta Braves,56.12,0.0,0.2,0.5,61.7,0.0,0.2,0.5
+07-09-2019,Washington Nationals,Atlanta Braves,55.71,0.0,0.2,0.5,61.97,0.0,0.2,0.5
+08-09-2019,Washington Nationals,Atlanta Braves,55.32,0.0,0.0,0.4,62.24,0.0,0.0,0.4
+17-09-2019,Philadelphia Phillies,Atlanta Braves,51.35,0.0,0.2,0.4,61.59,0.0,0.2,0.4
+18-09-2019,Philadelphia Phillies,Atlanta Braves,51.68,0.0,0.2,0.4,61.18,0.0,0.2,0.4
+19-09-2019,Philadelphia Phillies,Atlanta Braves,52.0,0.33,0.2,0.4,60.78,0.33,0.2,0.4
+20-09-2019,San Francisco Giants,Atlanta Braves,48.37,0.33,0.6,0.5,61.04,0.33,0.6,0.5
+21-09-2019,San Francisco Giants,Atlanta Braves,48.05,0.0,0.4,0.4,61.29,0.0,0.4,0.4
+22-09-2019,San Francisco Giants,Atlanta Braves,47.74,0.0,0.2,0.4,61.54,0.0,0.2,0.4
+04-04-2019,New York Yankees,Baltimore Orioles,33.33,0.0,0.2,nan,66.67,0.0,0.2,nan
+06-04-2019,New York Yankees,Baltimore Orioles,42.86,0.0,0.2,nan,57.14,0.0,0.2,nan
+07-04-2019,New York Yankees,Baltimore Orioles,50.0,0.33,0.2,nan,50.0,0.33,0.2,nan
+08-04-2019,Oakland Athletics,Baltimore Orioles,46.15,0.0,0.2,0.5,44.44,0.0,0.2,0.5
+09-04-2019,Oakland Athletics,Baltimore Orioles,42.86,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+10-04-2019,Oakland Athletics,Baltimore Orioles,46.67,0.0,0.0,0.3,45.45,0.0,0.0,0.3
+11-04-2019,Oakland Athletics,Baltimore Orioles,50.0,0.33,0.2,0.3,41.67,0.33,0.2,0.3
+21-04-2019,Minnesota Twins,Baltimore Orioles,61.11,0.33,0.4,0.4,36.36,0.33,0.4,0.4
+22-04-2019,Chicago White Sox,Baltimore Orioles,40.0,0.33,0.2,0.5,34.78,0.33,0.2,0.5
+23-04-2019,Chicago White Sox,Baltimore Orioles,42.86,0.0,0.2,0.4,33.33,0.0,0.2,0.4
+24-04-2019,Chicago White Sox,Baltimore Orioles,40.91,0.33,0.4,0.5,36.0,0.33,0.4,0.5
+03-05-2019,Tampa Bay Rays,Baltimore Orioles,64.52,0.0,0.2,0.5,34.38,0.0,0.2,0.5
+04-05-2019,Tampa Bay Rays,Baltimore Orioles,65.62,0.33,0.2,0.5,33.33,0.33,0.2,0.5
+06-05-2019,Boston Red Sox,Baltimore Orioles,48.57,0.33,0.4,0.5,35.29,0.33,0.4,0.5
+07-05-2019,Boston Red Sox,Baltimore Orioles,47.22,0.33,0.6,0.6,37.14,0.33,0.6,0.6
+08-05-2019,Boston Red Sox,Baltimore Orioles,48.65,0.0,0.4,0.6,36.11,0.0,0.4,0.6
+10-05-2019,Los Angeles Angels,Baltimore Orioles,45.95,0.0,0.2,0.5,35.14,0.0,0.2,0.5
+11-05-2019,Los Angeles Angels,Baltimore Orioles,47.37,0.33,0.4,0.5,34.21,0.33,0.4,0.5
+12-05-2019,Los Angeles Angels,Baltimore Orioles,48.72,0.33,0.4,0.5,33.33,0.33,0.4,0.5
+20-05-2019,New York Yankees,Baltimore Orioles,62.22,0.0,0.4,0.6,32.61,0.0,0.4,0.6
+21-05-2019,New York Yankees,Baltimore Orioles,63.04,0.33,0.4,0.6,31.91,0.33,0.4,0.6
+22-05-2019,New York Yankees,Baltimore Orioles,63.83,0.33,0.4,0.6,31.25,0.33,0.4,0.6
+23-05-2019,New York Yankees,Baltimore Orioles,64.58,0.33,0.6,0.7,30.61,0.33,0.6,0.7
+27-05-2019,Detroit Tigers,Baltimore Orioles,37.25,0.0,0.2,0.1,30.19,0.0,0.2,0.1
+28-05-2019,Detroit Tigers,Baltimore Orioles,36.54,0.0,0.2,0.1,31.48,0.0,0.2,0.1
+29-05-2019,Detroit Tigers,Baltimore Orioles,37.74,0.0,0.0,0.1,30.91,0.0,0.0,0.1
+31-05-2019,San Francisco Giants,Baltimore Orioles,40.0,0.0,0.0,0.1,30.36,0.0,0.0,0.1
+01-06-2019,San Francisco Giants,Baltimore Orioles,39.29,0.33,0.2,0.1,31.58,0.33,0.2,0.1
+02-06-2019,San Francisco Giants,Baltimore Orioles,40.35,0.0,0.2,0.1,31.03,0.0,0.2,0.1
+11-06-2019,Toronto Blue Jays,Baltimore Orioles,35.38,0.0,0.0,0.2,30.77,0.0,0.0,0.2
+12-06-2019,Toronto Blue Jays,Baltimore Orioles,34.85,0.0,0.0,0.2,31.82,0.0,0.0,0.2
+13-06-2019,Toronto Blue Jays,Baltimore Orioles,35.82,0.0,0.0,0.2,31.34,0.0,0.0,0.2
+14-06-2019,Boston Red Sox,Baltimore Orioles,51.43,0.33,0.2,0.3,30.88,0.33,0.2,0.3
+15-06-2019,Boston Red Sox,Baltimore Orioles,52.11,0.33,0.4,0.3,30.43,0.33,0.4,0.3
+16-06-2019,Boston Red Sox,Baltimore Orioles,52.78,0.33,0.6,0.4,30.0,0.33,0.6,0.4
+25-06-2019,San Diego Padres,Baltimore Orioles,48.72,0.0,0.2,0.5,28.21,0.0,0.2,0.5
+26-06-2019,San Diego Padres,Baltimore Orioles,49.37,0.0,0.0,0.4,27.85,0.0,0.0,0.4
+28-06-2019,Cleveland Indians,Baltimore Orioles,55.0,0.0,0.4,0.6,27.5,0.0,0.4,0.6
+29-06-2019,Cleveland Indians,Baltimore Orioles,54.32,0.33,0.4,0.6,28.4,0.33,0.4,0.6
+30-06-2019,Cleveland Indians,Baltimore Orioles,53.66,0.0,0.2,0.5,29.27,0.0,0.2,0.5
+12-07-2019,Tampa Bay Rays,Baltimore Orioles,57.14,0.33,0.2,0.5,30.34,0.33,0.2,0.5
+14-07-2019,Tampa Bay Rays,Baltimore Orioles,57.45,0.0,0.4,0.4,30.43,0.0,0.4,0.4
+16-07-2019,Washington Nationals,Baltimore Orioles,53.26,0.33,0.6,0.7,30.11,0.33,0.6,0.7
+17-07-2019,Washington Nationals,Baltimore Orioles,53.76,0.0,0.4,0.6,29.79,0.0,0.4,0.6
+19-07-2019,Boston Red Sox,Baltimore Orioles,54.64,0.33,0.4,0.5,30.53,0.33,0.4,0.5
+20-07-2019,Boston Red Sox,Baltimore Orioles,54.08,0.33,0.4,0.5,31.25,0.33,0.4,0.5
+21-07-2019,Boston Red Sox,Baltimore Orioles,54.55,0.0,0.4,0.4,30.93,0.0,0.4,0.4
+01-08-2019,Toronto Blue Jays,Baltimore Orioles,39.09,0.33,0.4,0.4,33.64,0.33,0.4,0.4
+02-08-2019,Toronto Blue Jays,Baltimore Orioles,39.64,0.33,0.6,0.5,33.33,0.33,0.6,0.5
+03-08-2019,Toronto Blue Jays,Baltimore Orioles,40.18,0.33,0.6,0.5,33.03,0.33,0.6,0.5
+04-08-2019,Toronto Blue Jays,Baltimore Orioles,39.82,0.33,0.6,0.6,33.64,0.33,0.6,0.6
+05-08-2019,New York Yankees,Baltimore Orioles,64.86,0.33,0.6,0.5,34.23,0.33,0.6,0.5
+06-08-2019,New York Yankees,Baltimore Orioles,65.18,0.33,0.6,0.6,33.93,0.33,0.6,0.6
+07-08-2019,New York Yankees,Baltimore Orioles,65.49,0.33,0.6,0.7,33.63,0.33,0.6,0.7
+09-08-2019,Houston Astros,Baltimore Orioles,65.22,0.33,0.6,0.7,33.33,0.33,0.6,0.7
+10-08-2019,Houston Astros,Baltimore Orioles,65.52,0.33,0.6,0.7,33.04,0.33,0.6,0.7
+11-08-2019,Houston Astros,Baltimore Orioles,65.81,0.33,0.6,0.7,32.76,0.33,0.6,0.7
+19-08-2019,Kansas City Royals,Baltimore Orioles,35.2,0.0,0.2,0.3,31.45,0.0,0.2,0.3
+20-08-2019,Kansas City Royals,Baltimore Orioles,35.71,0.0,0.2,0.3,31.2,0.0,0.2,0.3
+21-08-2019,Kansas City Royals,Baltimore Orioles,35.43,0.33,0.2,0.4,31.75,0.33,0.2,0.4
+22-08-2019,Tampa Bay Rays,Baltimore Orioles,57.81,0.0,0.2,0.4,32.28,0.0,0.2,0.4
+23-08-2019,Tampa Bay Rays,Baltimore Orioles,58.14,0.33,0.2,0.4,32.03,0.33,0.2,0.4
+24-08-2019,Tampa Bay Rays,Baltimore Orioles,58.46,0.33,0.4,0.4,31.78,0.33,0.4,0.4
+25-08-2019,Tampa Bay Rays,Baltimore Orioles,58.02,0.33,0.6,0.5,32.31,0.33,0.6,0.5
+05-09-2019,Texas Rangers,Baltimore Orioles,48.23,0.0,0.2,0.4,33.09,0.0,0.2,0.4
+06-09-2019,Texas Rangers,Baltimore Orioles,48.59,0.0,0.2,0.4,32.86,0.0,0.2,0.4
+07-09-2019,Texas Rangers,Baltimore Orioles,48.95,0.33,0.2,0.4,32.62,0.33,0.2,0.4
+08-09-2019,Texas Rangers,Baltimore Orioles,49.31,0.33,0.4,0.5,32.39,0.33,0.4,0.5
+10-09-2019,Los Angeles Dodgers,Baltimore Orioles,64.14,0.0,0.2,0.4,32.17,0.0,0.2,0.4
+11-09-2019,Los Angeles Dodgers,Baltimore Orioles,64.38,0.33,0.2,0.5,31.94,0.33,0.2,0.5
+12-09-2019,Los Angeles Dodgers,Baltimore Orioles,63.95,0.33,0.4,0.6,32.41,0.33,0.4,0.6
+17-09-2019,Toronto Blue Jays,Baltimore Orioles,39.33,0.0,0.2,0.3,32.67,0.0,0.2,0.3
+18-09-2019,Toronto Blue Jays,Baltimore Orioles,39.74,0.33,0.4,0.4,32.45,0.33,0.4,0.4
+19-09-2019,Toronto Blue Jays,Baltimore Orioles,40.13,0.33,0.4,0.5,32.24,0.33,0.4,0.5
+20-09-2019,Seattle Mariners,Baltimore Orioles,42.48,0.33,0.6,0.6,32.03,0.33,0.6,0.6
+21-09-2019,Seattle Mariners,Baltimore Orioles,42.21,0.33,0.6,0.6,32.47,0.33,0.6,0.6
+22-09-2019,Seattle Mariners,Baltimore Orioles,42.58,0.0,0.4,0.5,32.26,0.0,0.4,0.5
+09-04-2019,Toronto Blue Jays,Boston Red Sox,27.27,0.0,0.0,0.2,27.27,0.0,0.0,0.2
+11-04-2019,Toronto Blue Jays,Boston Red Sox,33.33,0.0,0.0,0.1,25.0,0.0,0.0,0.1
+12-04-2019,Baltimore Orioles,Boston Red Sox,38.46,0.0,0.2,0.2,30.77,0.0,0.2,0.2
+13-04-2019,Baltimore Orioles,Boston Red Sox,35.71,0.0,0.0,0.1,35.71,0.0,0.0,0.1
+14-04-2019,Baltimore Orioles,Boston Red Sox,40.0,0.0,0.0,0.1,33.33,0.0,0.0,0.1
+15-04-2019,Baltimore Orioles,Boston Red Sox,37.5,0.33,0.2,0.2,37.5,0.33,0.2,0.2
+24-04-2019,Detroit Tigers,Boston Red Sox,54.55,0.33,0.4,0.3,37.5,0.33,0.4,0.3
+25-04-2019,Detroit Tigers,Boston Red Sox,52.17,0.33,0.6,0.4,40.0,0.33,0.6,0.4
+27-04-2019,Tampa Bay Rays,Boston Red Sox,64.0,0.33,0.4,0.4,42.31,0.33,0.4,0.4
+28-04-2019,Tampa Bay Rays,Boston Red Sox,65.38,0.0,0.4,0.3,40.74,0.0,0.4,0.3
+29-04-2019,Oakland Athletics,Boston Red Sox,46.67,0.0,0.2,0.3,39.29,0.0,0.2,0.3
+30-04-2019,Oakland Athletics,Boston Red Sox,45.16,0.0,0.0,0.3,41.38,0.0,0.0,0.3
+01-05-2019,Oakland Athletics,Boston Red Sox,43.75,0.0,0.0,0.3,43.33,0.0,0.0,0.3
+10-05-2019,Seattle Mariners,Boston Red Sox,50.0,0.33,0.2,0.2,50.0,0.33,0.2,0.2
+11-05-2019,Seattle Mariners,Boston Red Sox,48.78,0.0,0.2,0.2,51.28,0.0,0.2,0.2
+12-05-2019,Seattle Mariners,Boston Red Sox,47.62,0.0,0.2,0.2,52.5,0.0,0.2,0.2
+14-05-2019,Colorado Rockies,Boston Red Sox,47.5,0.0,0.4,0.4,53.66,0.0,0.4,0.4
+15-05-2019,Colorado Rockies,Boston Red Sox,48.78,0.33,0.4,0.4,52.38,0.33,0.4,0.4
+17-05-2019,Houston Astros,Boston Red Sox,65.91,0.33,0.6,0.7,53.49,0.33,0.6,0.7
+18-05-2019,Houston Astros,Boston Red Sox,66.67,0.33,0.6,0.8,52.27,0.33,0.6,0.8
+19-05-2019,Houston Astros,Boston Red Sox,67.39,0.33,0.6,0.8,51.11,0.33,0.6,0.8
+27-05-2019,Cleveland Indians,Boston Red Sox,50.0,0.0,0.2,0.3,52.83,0.0,0.2,0.3
+28-05-2019,Cleveland Indians,Boston Red Sox,49.06,0.0,0.2,0.2,53.7,0.0,0.2,0.2
+29-05-2019,Cleveland Indians,Boston Red Sox,50.0,0.0,0.0,0.1,52.73,0.0,0.0,0.1
+07-06-2019,Tampa Bay Rays,Boston Red Sox,61.67,0.33,0.2,0.4,53.23,0.33,0.2,0.4
+09-06-2019,Tampa Bay Rays,Boston Red Sox,61.9,0.33,0.6,0.4,52.31,0.33,0.6,0.4
+10-06-2019,Texas Rangers,Boston Red Sox,53.12,0.33,0.4,0.6,51.52,0.33,0.4,0.6
+11-06-2019,Texas Rangers,Boston Red Sox,53.85,0.0,0.4,0.5,50.75,0.0,0.4,0.5
+12-06-2019,Texas Rangers,Boston Red Sox,54.55,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+13-06-2019,Texas Rangers,Boston Red Sox,53.73,0.33,0.4,0.6,50.72,0.33,0.4,0.6
+21-06-2019,Toronto Blue Jays,Boston Red Sox,36.0,0.0,0.0,0.3,53.95,0.0,0.0,0.3
+22-06-2019,Toronto Blue Jays,Boston Red Sox,35.53,0.33,0.2,0.3,54.55,0.33,0.2,0.3
+23-06-2019,Toronto Blue Jays,Boston Red Sox,36.36,0.0,0.2,0.2,53.85,0.0,0.2,0.2
+24-06-2019,Chicago White Sox,Boston Red Sox,48.0,0.0,0.2,0.4,53.16,0.0,0.2,0.4
+25-06-2019,Chicago White Sox,Boston Red Sox,47.37,0.0,0.2,0.3,53.75,0.0,0.2,0.3
+26-06-2019,Chicago White Sox,Boston Red Sox,46.75,0.0,0.0,0.2,54.32,0.0,0.0,0.2
+29-06-2019,New York Yankees,Boston Red Sox,65.0,0.33,0.4,0.7,53.66,0.33,0.4,0.7
+30-06-2019,New York Yankees,Boston Red Sox,65.43,0.33,0.6,0.7,53.01,0.33,0.6,0.7
+12-07-2019,Los Angeles Dodgers,Boston Red Sox,65.22,0.0,0.2,0.4,54.44,0.0,0.2,0.4
+13-07-2019,Los Angeles Dodgers,Boston Red Sox,64.52,0.0,0.0,0.4,54.95,0.0,0.0,0.4
+14-07-2019,Los Angeles Dodgers,Boston Red Sox,64.89,0.0,0.0,0.4,54.35,0.0,0.0,0.4
+15-07-2019,Toronto Blue Jays,Boston Red Sox,37.23,0.33,0.4,0.3,53.76,0.33,0.4,0.3
+16-07-2019,Toronto Blue Jays,Boston Red Sox,36.84,0.0,0.2,0.3,54.26,0.0,0.2,0.3
+17-07-2019,Toronto Blue Jays,Boston Red Sox,37.5,0.0,0.2,0.2,53.68,0.0,0.2,0.2
+18-07-2019,Toronto Blue Jays,Boston Red Sox,37.11,0.33,0.2,0.3,54.17,0.33,0.2,0.3
+25-07-2019,New York Yankees,Boston Red Sox,65.35,0.33,0.2,0.6,54.37,0.33,0.2,0.6
+26-07-2019,New York Yankees,Boston Red Sox,64.71,0.33,0.4,0.6,54.81,0.33,0.4,0.6
+27-07-2019,New York Yankees,Boston Red Sox,64.08,0.0,0.4,0.5,55.24,0.0,0.4,0.5
+28-07-2019,New York Yankees,Boston Red Sox,63.46,0.0,0.2,0.4,55.66,0.0,0.2,0.4
+30-07-2019,Tampa Bay Rays,Boston Red Sox,55.56,0.0,0.4,0.3,55.14,0.0,0.4,0.3
+31-07-2019,Tampa Bay Rays,Boston Red Sox,55.96,0.33,0.4,0.4,54.63,0.33,0.4,0.4
+01-08-2019,Tampa Bay Rays,Boston Red Sox,56.36,0.33,0.4,0.5,54.13,0.33,0.4,0.5
+05-08-2019,Kansas City Royals,Boston Red Sox,35.4,0.0,0.0,0.1,51.75,0.0,0.0,0.1
+06-08-2019,Kansas City Royals,Boston Red Sox,35.09,0.0,0.0,0.1,52.17,0.0,0.0,0.1
+07-08-2019,Kansas City Royals,Boston Red Sox,35.65,0.0,0.0,0.1,51.72,0.0,0.0,0.1
+08-08-2019,Los Angeles Angels,Boston Red Sox,48.7,0.0,0.0,0.2,52.14,0.0,0.0,0.2
+09-08-2019,Los Angeles Angels,Boston Red Sox,48.28,0.0,0.0,0.1,52.54,0.0,0.0,0.1
+10-08-2019,Los Angeles Angels,Boston Red Sox,47.86,0.0,0.0,0.1,52.94,0.0,0.0,0.1
+11-08-2019,Los Angeles Angels,Boston Red Sox,48.31,0.0,0.0,0.0,52.5,0.0,0.0,0.0
+16-08-2019,Baltimore Orioles,Boston Red Sox,32.23,0.0,0.0,0.1,52.42,0.0,0.0,0.1
+17-08-2019,Baltimore Orioles,Boston Red Sox,31.97,0.0,0.0,0.1,52.8,0.0,0.0,0.1
+18-08-2019,Baltimore Orioles,Boston Red Sox,31.71,0.0,0.0,0.1,53.17,0.0,0.0,0.1
+20-08-2019,Philadelphia Phillies,Boston Red Sox,51.61,0.0,0.4,0.5,53.54,0.0,0.4,0.5
+21-08-2019,Philadelphia Phillies,Boston Red Sox,52.0,0.0,0.2,0.4,53.12,0.0,0.2,0.4
+03-09-2019,Minnesota Twins,Boston Red Sox,62.04,0.33,0.4,0.7,54.01,0.33,0.4,0.7
+04-09-2019,Minnesota Twins,Boston Red Sox,62.32,0.33,0.4,0.7,53.62,0.33,0.4,0.7
+05-09-2019,Minnesota Twins,Boston Red Sox,61.87,0.33,0.6,0.7,53.96,0.33,0.6,0.7
+06-09-2019,New York Yankees,Boston Red Sox,65.25,0.33,0.4,0.6,53.57,0.33,0.4,0.6
+07-09-2019,New York Yankees,Boston Red Sox,64.79,0.33,0.4,0.6,53.9,0.33,0.4,0.6
+08-09-2019,New York Yankees,Boston Red Sox,65.03,0.0,0.4,0.5,53.52,0.0,0.4,0.5
+09-09-2019,New York Yankees,Boston Red Sox,65.28,0.33,0.4,0.5,53.15,0.33,0.4,0.5
+17-09-2019,San Francisco Giants,Boston Red Sox,48.0,0.0,0.2,0.3,53.02,0.0,0.2,0.3
+18-09-2019,San Francisco Giants,Boston Red Sox,48.34,0.33,0.4,0.3,52.67,0.33,0.4,0.3
+19-09-2019,San Francisco Giants,Boston Red Sox,48.68,0.33,0.4,0.4,52.32,0.33,0.4,0.4
+27-09-2019,Baltimore Orioles,Boston Red Sox,32.7,0.33,0.4,0.3,52.2,0.33,0.4,0.3
+28-09-2019,Baltimore Orioles,Boston Red Sox,33.12,0.0,0.2,0.3,51.88,0.0,0.2,0.3
+29-09-2019,Baltimore Orioles,Boston Red Sox,33.54,0.33,0.4,0.4,51.55,0.33,0.4,0.4
+05-04-2019,Seattle Mariners,Chicago White Sox,87.5,0.33,0.6,nan,40.0,0.33,0.6,nan
+06-04-2019,Seattle Mariners,Chicago White Sox,77.78,0.33,0.6,0.7,50.0,0.33,0.6,0.7
+07-04-2019,Seattle Mariners,Chicago White Sox,80.0,0.0,0.4,0.6,42.86,0.0,0.4,0.6
+08-04-2019,Tampa Bay Rays,Chicago White Sox,70.0,0.0,0.2,0.6,37.5,0.0,0.2,0.6
+09-04-2019,Tampa Bay Rays,Chicago White Sox,72.73,0.33,0.4,0.6,33.33,0.33,0.4,0.6
+10-04-2019,Tampa Bay Rays,Chicago White Sox,75.0,0.33,0.4,0.6,30.0,0.33,0.4,0.6
+15-04-2019,Kansas City Royals,Chicago White Sox,33.33,0.33,0.4,0.2,35.71,0.33,0.4,0.2
+16-04-2019,Kansas City Royals,Chicago White Sox,31.25,0.33,0.6,0.3,40.0,0.33,0.6,0.3
+17-04-2019,Kansas City Royals,Chicago White Sox,29.41,0.0,0.4,0.3,43.75,0.0,0.4,0.3
+26-04-2019,Detroit Tigers,Chicago White Sox,50.0,0.0,0.4,0.4,39.13,0.0,0.4,0.4
+28-04-2019,Detroit Tigers,Chicago White Sox,48.0,0.0,0.2,0.4,41.67,0.0,0.2,0.4
+29-04-2019,Baltimore Orioles,Chicago White Sox,34.48,0.0,0.2,0.2,44.0,0.0,0.2,0.2
+02-05-2019,Boston Red Sox,Chicago White Sox,45.16,0.33,0.4,0.4,46.43,0.33,0.4,0.4
+03-05-2019,Boston Red Sox,Chicago White Sox,43.75,0.33,0.6,0.5,48.28,0.33,0.6,0.5
+04-05-2019,Boston Red Sox,Chicago White Sox,45.45,0.0,0.4,0.5,46.67,0.0,0.4,0.5
+05-05-2019,Boston Red Sox,Chicago White Sox,47.06,0.33,0.4,0.5,45.16,0.33,0.4,0.5
+13-05-2019,Cleveland Indians,Chicago White Sox,53.85,0.0,0.2,0.3,46.15,0.0,0.2,0.3
+14-05-2019,Cleveland Indians,Chicago White Sox,52.5,0.33,0.2,0.3,47.5,0.33,0.2,0.3
+16-05-2019,Toronto Blue Jays,Chicago White Sox,40.48,0.33,0.2,0.2,46.34,0.33,0.2,0.2
+17-05-2019,Toronto Blue Jays,Chicago White Sox,39.53,0.0,0.2,0.2,47.62,0.0,0.2,0.2
+18-05-2019,Toronto Blue Jays,Chicago White Sox,40.91,0.0,0.2,0.2,46.51,0.0,0.2,0.2
+19-05-2019,Toronto Blue Jays,Chicago White Sox,40.0,0.33,0.2,0.3,47.73,0.33,0.2,0.3
+27-05-2019,Kansas City Royals,Chicago White Sox,34.62,0.0,0.0,0.2,44.23,0.0,0.0,0.2
+28-05-2019,Kansas City Royals,Chicago White Sox,33.96,0.33,0.2,0.3,45.28,0.33,0.2,0.3
+29-05-2019,Kansas City Royals,Chicago White Sox,33.33,0.0,0.2,0.3,46.3,0.0,0.2,0.3
+30-05-2019,Cleveland Indians,Chicago White Sox,50.91,0.33,0.2,0.2,47.27,0.33,0.2,0.2
+31-05-2019,Cleveland Indians,Chicago White Sox,50.0,0.33,0.4,0.3,48.21,0.33,0.4,0.3
+01-06-2019,Cleveland Indians,Chicago White Sox,49.12,0.0,0.4,0.3,49.12,0.0,0.4,0.3
+02-06-2019,Cleveland Indians,Chicago White Sox,50.0,0.0,0.2,0.3,48.28,0.0,0.2,0.3
+10-06-2019,Washington Nationals,Chicago White Sox,46.15,0.33,0.2,0.5,48.44,0.33,0.2,0.5
+11-06-2019,Washington Nationals,Chicago White Sox,46.97,0.33,0.4,0.6,47.69,0.33,0.4,0.6
+13-06-2019,New York Yankees,Chicago White Sox,62.12,0.33,0.4,0.3,48.48,0.33,0.4,0.3
+14-06-2019,New York Yankees,Chicago White Sox,61.19,0.0,0.4,0.3,49.25,0.0,0.4,0.3
+15-06-2019,New York Yankees,Chicago White Sox,60.29,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+16-06-2019,New York Yankees,Chicago White Sox,60.87,0.0,0.0,0.3,49.28,0.0,0.0,0.3
+28-06-2019,Minnesota Twins,Chicago White Sox,65.0,0.33,0.4,0.5,47.44,0.33,0.4,0.5
+29-06-2019,Minnesota Twins,Chicago White Sox,64.2,0.0,0.4,0.4,48.1,0.0,0.4,0.4
+30-06-2019,Minnesota Twins,Chicago White Sox,64.63,0.0,0.2,0.4,47.5,0.0,0.2,0.4
+04-07-2019,Detroit Tigers,Chicago White Sox,32.93,0.0,0.2,0.1,49.4,0.0,0.2,0.1
+06-07-2019,Chicago Cubs,Chicago White Sox,52.27,0.0,0.0,0.2,48.81,0.0,0.0,0.2
+07-07-2019,Chicago Cubs,Chicago White Sox,52.81,0.33,0.2,0.3,48.24,0.33,0.2,0.3
+22-07-2019,Miami Marlins,Chicago White Sox,37.11,0.0,0.2,0.3,45.83,0.0,0.2,0.3
+23-07-2019,Miami Marlins,Chicago White Sox,36.73,0.0,0.0,0.2,46.39,0.0,0.0,0.2
+24-07-2019,Miami Marlins,Chicago White Sox,37.37,0.0,0.0,0.2,45.92,0.0,0.0,0.2
+25-07-2019,Minnesota Twins,Chicago White Sox,60.4,0.0,0.4,0.3,45.45,0.0,0.4,0.3
+26-07-2019,Minnesota Twins,Chicago White Sox,60.78,0.0,0.2,0.3,45.0,0.0,0.2,0.3
+27-07-2019,Minnesota Twins,Chicago White Sox,61.17,0.33,0.2,0.4,44.55,0.33,0.2,0.4
+28-07-2019,Minnesota Twins,Chicago White Sox,60.58,0.33,0.4,0.4,45.1,0.33,0.4,0.4
+30-07-2019,New York Mets,Chicago White Sox,47.62,0.33,0.6,0.5,44.66,0.33,0.6,0.5
+31-07-2019,New York Mets,Chicago White Sox,48.11,0.33,0.6,0.6,44.23,0.33,0.6,0.6
+01-08-2019,New York Mets,Chicago White Sox,48.6,0.33,0.6,0.6,43.81,0.33,0.6,0.6
+09-08-2019,Oakland Athletics,Chicago White Sox,56.9,0.33,0.4,0.6,45.13,0.33,0.4,0.6
+10-08-2019,Oakland Athletics,Chicago White Sox,57.26,0.0,0.2,0.5,44.74,0.0,0.2,0.5
+11-08-2019,Oakland Athletics,Chicago White Sox,56.78,0.33,0.4,0.5,45.22,0.33,0.4,0.5
+14-08-2019,Houston Astros,Chicago White Sox,65.0,0.33,0.4,0.7,44.92,0.33,0.4,0.7
+22-08-2019,Texas Rangers,Chicago White Sox,49.22,0.33,0.4,0.3,45.24,0.33,0.4,0.3
+23-08-2019,Texas Rangers,Chicago White Sox,48.84,0.33,0.4,0.3,45.67,0.33,0.4,0.3
+24-08-2019,Texas Rangers,Chicago White Sox,48.46,0.0,0.4,0.3,46.09,0.0,0.4,0.3
+25-08-2019,Texas Rangers,Chicago White Sox,48.85,0.0,0.2,0.3,45.74,0.0,0.2,0.3
+27-08-2019,Minnesota Twins,Chicago White Sox,60.77,0.33,0.2,0.5,46.15,0.33,0.2,0.5
+28-08-2019,Minnesota Twins,Chicago White Sox,61.07,0.33,0.4,0.5,45.8,0.33,0.4,0.5
+29-08-2019,Minnesota Twins,Chicago White Sox,61.36,0.33,0.6,0.5,45.45,0.33,0.6,0.5
+06-09-2019,Los Angeles Angels,Chicago White Sox,46.1,0.0,0.0,0.2,44.29,0.0,0.0,0.2
+07-09-2019,Los Angeles Angels,Chicago White Sox,46.48,0.0,0.0,0.2,43.97,0.0,0.0,0.2
+08-09-2019,Los Angeles Angels,Chicago White Sox,46.85,0.33,0.2,0.2,43.66,0.33,0.2,0.2
+10-09-2019,Kansas City Royals,Chicago White Sox,36.81,0.33,0.4,0.6,44.06,0.33,0.4,0.6
+11-09-2019,Kansas City Royals,Chicago White Sox,36.55,0.0,0.4,0.6,44.44,0.0,0.4,0.6
+12-09-2019,Kansas City Royals,Chicago White Sox,36.99,0.0,0.2,0.5,44.14,0.0,0.2,0.5
+24-09-2019,Cleveland Indians,Chicago White Sox,58.97,0.0,0.4,0.5,43.87,0.0,0.4,0.5
+25-09-2019,Cleveland Indians,Chicago White Sox,59.24,0.33,0.4,0.6,43.59,0.33,0.4,0.6
+26-09-2019,Cleveland Indians,Chicago White Sox,58.86,0.33,0.4,0.7,43.95,0.33,0.4,0.7
+29-09-2019,Detroit Tigers,Chicago White Sox,29.38,0.0,0.0,0.1,44.38,0.0,0.0,0.1
+08-04-2019,Pittsburgh Pirates,Chicago Cubs,62.5,0.33,0.6,nan,22.22,0.33,0.6,nan
+10-04-2019,Pittsburgh Pirates,Chicago Cubs,55.56,0.33,0.6,0.5,30.0,0.33,0.6,0.5
+11-04-2019,Pittsburgh Pirates,Chicago Cubs,60.0,0.0,0.4,0.5,27.27,0.0,0.4,0.5
+12-04-2019,Los Angeles Angels,Chicago Cubs,53.85,0.33,0.6,0.5,33.33,0.33,0.6,0.5
+13-04-2019,Los Angeles Angels,Chicago Cubs,50.0,0.33,0.6,0.6,38.46,0.33,0.6,0.6
+19-04-2019,Arizona Diamondbacks,Chicago Cubs,52.63,0.33,0.6,0.4,47.06,0.33,0.6,0.4
+20-04-2019,Arizona Diamondbacks,Chicago Cubs,50.0,0.33,0.6,0.4,50.0,0.33,0.6,0.4
+21-04-2019,Arizona Diamondbacks,Chicago Cubs,52.38,0.0,0.4,0.4,47.37,0.0,0.4,0.4
+23-04-2019,Los Angeles Dodgers,Chicago Cubs,62.5,0.0,0.4,0.6,50.0,0.0,0.4,0.6
+24-04-2019,Los Angeles Dodgers,Chicago Cubs,60.0,0.33,0.4,0.7,52.38,0.33,0.4,0.7
+25-04-2019,Los Angeles Dodgers,Chicago Cubs,57.69,0.0,0.2,0.6,54.55,0.0,0.2,0.6
+03-05-2019,St. Louis Cardinals,Chicago Cubs,64.52,0.33,0.6,0.7,57.14,0.33,0.6,0.7
+04-05-2019,St. Louis Cardinals,Chicago Cubs,62.5,0.0,0.4,0.6,58.62,0.0,0.4,0.6
+05-05-2019,St. Louis Cardinals,Chicago Cubs,60.61,0.0,0.2,0.5,60.0,0.0,0.2,0.5
+06-05-2019,Miami Marlins,Chicago Cubs,27.27,0.0,0.2,0.2,61.29,0.0,0.2,0.2
+07-05-2019,Miami Marlins,Chicago Cubs,29.41,0.0,0.0,0.1,59.38,0.0,0.0,0.1
+08-05-2019,Miami Marlins,Chicago Cubs,28.57,0.33,0.2,0.2,60.61,0.33,0.2,0.2
+09-05-2019,Miami Marlins,Chicago Cubs,27.78,0.0,0.2,0.2,61.76,0.0,0.2,0.2
+10-05-2019,Milwaukee Brewers,Chicago Cubs,58.97,0.33,0.6,0.6,62.86,0.33,0.6,0.6
+11-05-2019,Milwaukee Brewers,Chicago Cubs,60.0,0.33,0.6,0.6,61.11,0.33,0.6,0.6
+12-05-2019,Milwaukee Brewers,Chicago Cubs,58.54,0.33,0.6,0.7,62.16,0.33,0.6,0.7
+20-05-2019,Philadelphia Phillies,Chicago Cubs,58.7,0.33,0.4,0.5,61.36,0.33,0.4,0.5
+21-05-2019,Philadelphia Phillies,Chicago Cubs,59.57,0.33,0.6,0.5,60.0,0.33,0.6,0.5
+22-05-2019,Philadelphia Phillies,Chicago Cubs,58.33,0.33,0.6,0.5,60.87,0.33,0.6,0.5
+23-05-2019,Philadelphia Phillies,Chicago Cubs,57.14,0.0,0.4,0.4,61.7,0.0,0.4,0.4
+24-05-2019,Cincinnati Reds,Chicago Cubs,44.9,0.33,0.4,0.4,60.42,0.33,0.4,0.4
+25-05-2019,Cincinnati Reds,Chicago Cubs,46.0,0.0,0.2,0.4,59.18,0.0,0.2,0.4
+26-05-2019,Cincinnati Reds,Chicago Cubs,45.1,0.33,0.4,0.5,60.0,0.33,0.4,0.5
+03-06-2019,Los Angeles Angels,Chicago Cubs,49.15,0.33,0.4,0.6,54.39,0.33,0.4,0.6
+04-06-2019,Colorado Rockies,Chicago Cubs,53.45,0.33,0.6,0.7,55.17,0.33,0.6,0.7
+05-06-2019,Colorado Rockies,Chicago Cubs,52.54,0.33,0.6,0.8,55.93,0.33,0.6,0.8
+06-06-2019,Colorado Rockies,Chicago Cubs,51.67,0.0,0.4,0.7,56.67,0.0,0.4,0.7
+07-06-2019,St. Louis Cardinals,Chicago Cubs,51.67,0.0,0.4,0.4,55.74,0.0,0.4,0.4
+08-06-2019,St. Louis Cardinals,Chicago Cubs,50.82,0.33,0.4,0.5,56.45,0.33,0.4,0.5
+09-06-2019,St. Louis Cardinals,Chicago Cubs,50.0,0.0,0.2,0.5,57.14,0.0,0.2,0.5
+18-06-2019,Chicago White Sox,Chicago Cubs,48.57,0.0,0.4,0.5,54.93,0.0,0.4,0.5
+19-06-2019,Chicago White Sox,Chicago Cubs,49.3,0.0,0.2,0.5,54.17,0.0,0.2,0.5
+20-06-2019,New York Mets,Chicago Cubs,47.3,0.33,0.2,0.3,54.79,0.33,0.2,0.3
+21-06-2019,New York Mets,Chicago Cubs,46.67,0.0,0.2,0.3,55.41,0.0,0.2,0.3
+22-06-2019,New York Mets,Chicago Cubs,47.37,0.0,0.2,0.2,54.67,0.0,0.2,0.2
+23-06-2019,New York Mets,Chicago Cubs,48.05,0.33,0.2,0.3,53.95,0.33,0.2,0.3
+24-06-2019,Atlanta Braves,Chicago Cubs,58.97,0.33,0.4,0.5,54.55,0.33,0.4,0.5
+25-06-2019,Atlanta Braves,Chicago Cubs,58.23,0.33,0.4,0.5,55.13,0.33,0.4,0.5
+26-06-2019,Atlanta Braves,Chicago Cubs,58.75,0.0,0.4,0.5,54.43,0.0,0.4,0.5
+27-06-2019,Atlanta Braves,Chicago Cubs,59.26,0.33,0.4,0.5,53.75,0.33,0.4,0.5
+12-07-2019,Pittsburgh Pirates,Chicago Cubs,49.44,0.33,0.2,0.4,52.22,0.33,0.2,0.4
+13-07-2019,Pittsburgh Pirates,Chicago Cubs,48.89,0.33,0.4,0.5,52.75,0.33,0.4,0.5
+14-07-2019,Pittsburgh Pirates,Chicago Cubs,48.35,0.0,0.4,0.5,53.26,0.0,0.4,0.5
+15-07-2019,Cincinnati Reds,Chicago Cubs,46.67,0.33,0.2,0.4,53.76,0.33,0.2,0.4
+16-07-2019,Cincinnati Reds,Chicago Cubs,47.25,0.0,0.2,0.4,53.19,0.0,0.2,0.4
+17-07-2019,Cincinnati Reds,Chicago Cubs,46.74,0.33,0.4,0.4,53.68,0.33,0.4,0.4
+19-07-2019,San Diego Padres,Chicago Cubs,47.92,0.33,0.2,0.4,54.17,0.33,0.2,0.4
+20-07-2019,San Diego Padres,Chicago Cubs,47.42,0.0,0.2,0.3,54.64,0.0,0.2,0.3
+21-07-2019,San Diego Padres,Chicago Cubs,46.94,0.0,0.2,0.2,55.1,0.0,0.2,0.2
+02-08-2019,Milwaukee Brewers,Chicago Cubs,51.82,0.33,0.2,0.4,52.78,0.33,0.2,0.4
+03-08-2019,Milwaukee Brewers,Chicago Cubs,51.35,0.0,0.2,0.4,53.21,0.0,0.2,0.4
+04-08-2019,Milwaukee Brewers,Chicago Cubs,50.89,0.0,0.2,0.4,53.64,0.0,0.2,0.4
+05-08-2019,Oakland Athletics,Chicago Cubs,57.52,0.33,0.4,0.5,54.05,0.33,0.4,0.5
+06-08-2019,Oakland Athletics,Chicago Cubs,57.02,0.33,0.6,0.6,54.46,0.33,0.6,0.6
+07-08-2019,Oakland Athletics,Chicago Cubs,57.39,0.0,0.4,0.6,53.98,0.0,0.4,0.6
+20-08-2019,San Francisco Giants,Chicago Cubs,50.4,0.33,0.6,0.6,53.23,0.33,0.6,0.6
+21-08-2019,San Francisco Giants,Chicago Cubs,50.0,0.0,0.4,0.6,53.6,0.0,0.4,0.6
+22-08-2019,San Francisco Giants,Chicago Cubs,49.61,0.0,0.2,0.5,53.97,0.0,0.2,0.5
+23-08-2019,Washington Nationals,Chicago Cubs,55.12,0.33,0.4,0.6,54.33,0.33,0.4,0.6
+24-08-2019,Washington Nationals,Chicago Cubs,55.47,0.33,0.4,0.6,53.91,0.33,0.4,0.6
+25-08-2019,Washington Nationals,Chicago Cubs,55.81,0.33,0.6,0.6,53.49,0.33,0.6,0.6
+30-08-2019,Milwaukee Brewers,Chicago Cubs,51.13,0.0,0.0,0.3,54.14,0.0,0.0,0.3
+31-08-2019,Milwaukee Brewers,Chicago Cubs,50.75,0.33,0.2,0.4,54.48,0.33,0.2,0.4
+01-09-2019,Milwaukee Brewers,Chicago Cubs,51.11,0.0,0.2,0.4,54.07,0.0,0.2,0.4
+02-09-2019,Seattle Mariners,Chicago Cubs,42.03,0.0,0.2,0.2,53.68,0.0,0.2,0.2
+03-09-2019,Seattle Mariners,Chicago Cubs,41.73,0.33,0.2,0.3,54.01,0.33,0.2,0.3
+13-09-2019,Pittsburgh Pirates,Chicago Cubs,44.22,0.33,0.4,0.4,53.42,0.33,0.4,0.4
+14-09-2019,Pittsburgh Pirates,Chicago Cubs,43.92,0.33,0.4,0.4,53.74,0.33,0.4,0.4
+15-09-2019,Pittsburgh Pirates,Chicago Cubs,43.62,0.0,0.4,0.4,54.05,0.0,0.4,0.4
+16-09-2019,Cincinnati Reds,Chicago Cubs,46.67,0.0,0.4,0.3,54.36,0.0,0.4,0.3
+17-09-2019,Cincinnati Reds,Chicago Cubs,46.36,0.33,0.4,0.4,54.67,0.33,0.4,0.4
+18-09-2019,Cincinnati Reds,Chicago Cubs,46.71,0.0,0.2,0.4,54.3,0.0,0.2,0.4
+19-09-2019,St. Louis Cardinals,Chicago Cubs,55.92,0.0,0.2,0.3,53.95,0.0,0.2,0.3
+20-09-2019,St. Louis Cardinals,Chicago Cubs,56.21,0.33,0.4,0.4,53.59,0.33,0.4,0.4
+21-09-2019,St. Louis Cardinals,Chicago Cubs,56.49,0.33,0.4,0.5,53.25,0.33,0.4,0.5
+22-09-2019,St. Louis Cardinals,Chicago Cubs,56.77,0.33,0.6,0.5,52.9,0.33,0.6,0.5
+28-03-2019,Pittsburgh Pirates,Cincinnati Reds,0,0.0,0.4,0.4,0,0.0,0.4,0.4
+31-03-2019,Pittsburgh Pirates,Cincinnati Reds,0.0,nan,nan,nan,100.0,nan,nan,nan
+01-04-2019,Milwaukee Brewers,Cincinnati Reds,75.0,0.33,0.4,nan,50.0,0.33,0.4,nan
+02-04-2019,Milwaukee Brewers,Cincinnati Reds,80.0,0.33,0.4,nan,33.33,0.33,0.4,nan
+03-04-2019,Milwaukee Brewers,Cincinnati Reds,83.33,0.33,0.6,nan,25.0,0.33,0.6,nan
+09-04-2019,Miami Marlins,Cincinnati Reds,30.0,0.33,0.2,0.3,11.11,0.33,0.2,0.3
+10-04-2019,Miami Marlins,Cincinnati Reds,27.27,0.0,0.2,0.3,20.0,0.0,0.2,0.3
+11-04-2019,Miami Marlins,Cincinnati Reds,25.0,0.0,0.2,0.2,27.27,0.0,0.2,0.2
+13-04-2019,St. Louis Cardinals,Cincinnati Reds,61.54,0.33,0.6,0.6,33.33,0.33,0.6,0.6
+14-04-2019,St. Louis Cardinals,Cincinnati Reds,57.14,0.33,0.6,0.6,38.46,0.33,0.6,0.6
+23-04-2019,Atlanta Braves,Cincinnati Reds,52.38,0.33,0.2,0.3,38.1,0.33,0.2,0.3
+24-04-2019,Atlanta Braves,Cincinnati Reds,50.0,0.33,0.4,0.4,40.91,0.33,0.4,0.4
+25-04-2019,Atlanta Braves,Cincinnati Reds,52.17,0.0,0.4,0.3,39.13,0.0,0.4,0.3
+03-05-2019,San Francisco Giants,Cincinnati Reds,41.94,0.0,0.2,0.4,41.94,0.0,0.2,0.4
+04-05-2019,San Francisco Giants,Cincinnati Reds,43.75,0.33,0.4,0.4,40.62,0.33,0.4,0.4
+05-05-2019,San Francisco Giants,Cincinnati Reds,42.42,0.33,0.4,0.4,42.42,0.33,0.4,0.4
+06-05-2019,San Francisco Giants,Cincinnati Reds,44.12,0.0,0.4,0.3,41.18,0.0,0.4,0.3
+14-05-2019,Chicago Cubs,Cincinnati Reds,63.16,0.33,0.4,0.6,43.9,0.33,0.4,0.6
+15-05-2019,Chicago Cubs,Cincinnati Reds,64.1,0.33,0.4,0.6,42.86,0.33,0.4,0.6
+16-05-2019,Chicago Cubs,Cincinnati Reds,62.5,0.33,0.6,0.6,44.19,0.33,0.6,0.6
+17-05-2019,Los Angeles Dodgers,Cincinnati Reds,64.44,0.33,0.4,0.6,45.45,0.33,0.4,0.6
+18-05-2019,Los Angeles Dodgers,Cincinnati Reds,65.22,0.33,0.6,0.6,44.44,0.33,0.6,0.6
+19-05-2019,Los Angeles Dodgers,Cincinnati Reds,63.83,0.33,0.6,0.6,45.65,0.33,0.6,0.6
+28-05-2019,Pittsburgh Pirates,Cincinnati Reds,50.0,0.33,0.2,0.3,46.3,0.33,0.2,0.3
+29-05-2019,Pittsburgh Pirates,Cincinnati Reds,49.06,0.0,0.2,0.2,47.27,0.0,0.2,0.2
+31-05-2019,Washington Nationals,Cincinnati Reds,42.86,0.33,0.4,0.4,46.43,0.33,0.4,0.4
+01-06-2019,Washington Nationals,Cincinnati Reds,42.11,0.33,0.4,0.5,47.37,0.33,0.4,0.5
+02-06-2019,Washington Nationals,Cincinnati Reds,43.1,0.0,0.4,0.5,46.55,0.0,0.4,0.5
+14-06-2019,Texas Rangers,Cincinnati Reds,52.94,0.0,0.4,0.5,45.45,0.0,0.4,0.5
+15-06-2019,Texas Rangers,Cincinnati Reds,53.62,0.0,0.2,0.4,44.78,0.0,0.2,0.4
+16-06-2019,Texas Rangers,Cincinnati Reds,54.29,0.33,0.2,0.5,44.12,0.33,0.2,0.5
+17-06-2019,Houston Astros,Cincinnati Reds,66.67,0.33,0.4,0.6,44.93,0.33,0.4,0.6
+18-06-2019,Houston Astros,Cincinnati Reds,65.75,0.0,0.4,0.5,45.71,0.0,0.4,0.5
+19-06-2019,Houston Astros,Cincinnati Reds,64.86,0.0,0.2,0.4,46.48,0.0,0.2,0.4
+28-06-2019,Chicago Cubs,Cincinnati Reds,54.32,0.0,0.2,0.4,46.15,0.0,0.2,0.4
+29-06-2019,Chicago Cubs,Cincinnati Reds,53.66,0.33,0.2,0.4,46.84,0.33,0.2,0.4
+30-06-2019,Chicago Cubs,Cincinnati Reds,54.22,0.0,0.2,0.3,46.25,0.0,0.2,0.3
+01-07-2019,Milwaukee Brewers,Cincinnati Reds,53.57,0.33,0.4,0.4,46.91,0.33,0.4,0.4
+02-07-2019,Milwaukee Brewers,Cincinnati Reds,54.12,0.33,0.4,0.5,46.34,0.33,0.4,0.5
+03-07-2019,Milwaukee Brewers,Cincinnati Reds,53.49,0.33,0.6,0.5,46.99,0.33,0.6,0.5
+04-07-2019,Milwaukee Brewers,Cincinnati Reds,52.87,0.0,0.4,0.4,47.62,0.0,0.4,0.4
+06-07-2019,Cleveland Indians,Cincinnati Reds,55.81,0.33,0.6,0.5,48.24,0.33,0.6,0.5
+07-07-2019,Cleveland Indians,Cincinnati Reds,56.32,0.33,0.6,0.5,47.67,0.33,0.6,0.5
+18-07-2019,St. Louis Cardinals,Cincinnati Reds,51.06,0.0,0.4,0.4,46.24,0.0,0.4,0.4
+19-07-2019,St. Louis Cardinals,Cincinnati Reds,51.58,0.33,0.4,0.4,45.74,0.33,0.4,0.4
+20-07-2019,St. Louis Cardinals,Cincinnati Reds,52.08,0.33,0.4,0.5,45.26,0.33,0.4,0.5
+21-07-2019,St. Louis Cardinals,Cincinnati Reds,51.55,0.33,0.6,0.6,45.83,0.33,0.6,0.6
+26-07-2019,Colorado Rockies,Cincinnati Reds,46.6,0.0,0.0,0.1,46.0,0.0,0.0,0.1
+27-07-2019,Colorado Rockies,Cincinnati Reds,47.12,0.33,0.2,0.2,45.54,0.33,0.2,0.2
+28-07-2019,Colorado Rockies,Cincinnati Reds,46.67,0.33,0.4,0.3,46.08,0.33,0.4,0.3
+29-07-2019,Pittsburgh Pirates,Cincinnati Reds,43.81,0.0,0.0,0.1,46.6,0.0,0.0,0.1
+30-07-2019,Pittsburgh Pirates,Cincinnati Reds,43.4,0.0,0.0,0.0,47.12,0.0,0.0,0.0
+31-07-2019,Pittsburgh Pirates,Cincinnati Reds,43.93,0.0,0.0,0.0,46.67,0.0,0.0,0.0
+05-08-2019,Los Angeles Angels,Cincinnati Reds,49.56,0.0,0.0,0.2,47.27,0.0,0.0,0.2
+06-08-2019,Los Angeles Angels,Cincinnati Reds,49.12,0.0,0.0,0.2,47.75,0.0,0.0,0.2
+08-08-2019,Chicago Cubs,Cincinnati Reds,54.39,0.0,0.4,0.5,48.21,0.0,0.4,0.5
+09-08-2019,Chicago Cubs,Cincinnati Reds,54.78,0.33,0.4,0.6,47.79,0.33,0.4,0.6
+10-08-2019,Chicago Cubs,Cincinnati Reds,54.31,0.33,0.4,0.6,48.25,0.33,0.4,0.6
+11-08-2019,Chicago Cubs,Cincinnati Reds,53.85,0.0,0.4,0.6,48.7,0.0,0.4,0.6
+15-08-2019,St. Louis Cardinals,Cincinnati Reds,53.39,0.33,0.6,0.4,47.06,0.33,0.6,0.4
+16-08-2019,St. Louis Cardinals,Cincinnati Reds,52.94,0.33,0.6,0.5,47.5,0.33,0.6,0.5
+17-08-2019,St. Louis Cardinals,Cincinnati Reds,53.33,0.0,0.4,0.5,47.11,0.0,0.4,0.5
+18-08-2019,St. Louis Cardinals,Cincinnati Reds,52.89,0.33,0.4,0.6,47.54,0.33,0.4,0.6
+19-08-2019,San Diego Padres,Cincinnati Reds,47.15,0.33,0.4,0.4,47.15,0.33,0.4,0.4
+20-08-2019,San Diego Padres,Cincinnati Reds,47.58,0.33,0.4,0.4,46.77,0.33,0.4,0.4
+21-08-2019,San Diego Padres,Cincinnati Reds,47.2,0.33,0.6,0.4,47.2,0.33,0.6,0.4
+02-09-2019,Philadelphia Phillies,Cincinnati Reds,51.85,0.0,0.2,0.3,46.72,0.0,0.2,0.3
+03-09-2019,Philadelphia Phillies,Cincinnati Reds,52.21,0.33,0.2,0.4,46.38,0.33,0.2,0.4
+04-09-2019,Philadelphia Phillies,Cincinnati Reds,52.55,0.33,0.4,0.4,46.04,0.33,0.4,0.4
+05-09-2019,Philadelphia Phillies,Cincinnati Reds,52.17,0.33,0.6,0.5,46.43,0.33,0.6,0.5
+06-09-2019,Arizona Diamondbacks,Cincinnati Reds,52.14,0.33,0.4,0.7,46.81,0.33,0.4,0.7
+07-09-2019,Arizona Diamondbacks,Cincinnati Reds,52.48,0.33,0.6,0.7,46.48,0.33,0.6,0.7
+08-09-2019,Arizona Diamondbacks,Cincinnati Reds,52.82,0.33,0.6,0.7,46.15,0.33,0.6,0.7
+20-09-2019,New York Mets,Cincinnati Reds,51.97,0.33,0.2,0.5,47.06,0.33,0.2,0.5
+21-09-2019,New York Mets,Cincinnati Reds,52.29,0.33,0.4,0.5,46.75,0.33,0.4,0.5
+22-09-2019,New York Mets,Cincinnati Reds,51.95,0.33,0.6,0.5,47.1,0.33,0.6,0.5
+24-09-2019,Milwaukee Brewers,Cincinnati Reds,55.13,0.33,0.6,0.7,46.79,0.33,0.6,0.7
+25-09-2019,Milwaukee Brewers,Cincinnati Reds,55.41,0.33,0.6,0.7,46.5,0.33,0.6,0.7
+26-09-2019,Milwaukee Brewers,Cincinnati Reds,55.7,0.33,0.6,0.7,46.2,0.33,0.6,0.7
+01-04-2019,Chicago White Sox,Cleveland Indians,33.33,0.0,nan,nan,33.33,0.0,nan,nan
+03-04-2019,Chicago White Sox,Cleveland Indians,25.0,0.33,0.2,nan,50.0,0.33,0.2,nan
+04-04-2019,Toronto Blue Jays,Cleveland Indians,42.86,0.0,0.0,nan,40.0,0.0,0.0,nan
+05-04-2019,Toronto Blue Jays,Cleveland Indians,37.5,0.33,0.2,nan,50.0,0.33,0.2,nan
+06-04-2019,Toronto Blue Jays,Cleveland Indians,33.33,0.0,0.2,0.3,57.14,0.0,0.2,0.3
+07-04-2019,Toronto Blue Jays,Cleveland Indians,30.0,0.0,0.2,0.3,62.5,0.0,0.2,0.3
+21-04-2019,Atlanta Braves,Cleveland Indians,50.0,0.0,0.0,0.2,60.0,0.0,0.0,0.2
+23-04-2019,Miami Marlins,Cleveland Indians,27.27,0.33,0.4,0.3,57.14,0.33,0.4,0.3
+24-04-2019,Miami Marlins,Cleveland Indians,30.43,0.0,0.4,0.3,54.55,0.0,0.4,0.3
+03-05-2019,Seattle Mariners,Cleveland Indians,54.55,0.0,0.0,0.2,55.17,0.0,0.0,0.2
+04-05-2019,Seattle Mariners,Cleveland Indians,52.94,0.0,0.0,0.2,56.67,0.0,0.0,0.2
+05-05-2019,Seattle Mariners,Cleveland Indians,51.43,0.0,0.0,0.2,58.06,0.0,0.0,0.2
+06-05-2019,Chicago White Sox,Cleveland Indians,43.75,0.0,0.2,0.5,56.25,0.0,0.2,0.5
+07-05-2019,Chicago White Sox,Cleveland Indians,45.45,0.0,0.0,0.4,54.55,0.0,0.0,0.4
+08-05-2019,Chicago White Sox,Cleveland Indians,47.06,0.33,0.2,0.4,52.94,0.33,0.2,0.4
+09-05-2019,Chicago White Sox,Cleveland Indians,45.71,0.33,0.4,0.4,54.29,0.33,0.4,0.4
+16-05-2019,Baltimore Orioles,Cleveland Indians,33.33,0.0,0.2,0.3,53.66,0.0,0.2,0.3
+17-05-2019,Baltimore Orioles,Cleveland Indians,32.56,0.0,0.2,0.2,54.76,0.0,0.2,0.2
+18-05-2019,Baltimore Orioles,Cleveland Indians,34.09,0.0,0.0,0.1,53.49,0.0,0.0,0.1
+19-05-2019,Baltimore Orioles,Cleveland Indians,33.33,0.33,0.2,0.2,54.55,0.33,0.2,0.2
+20-05-2019,Oakland Athletics,Cleveland Indians,47.92,0.33,0.6,0.5,55.56,0.33,0.6,0.5
+21-05-2019,Oakland Athletics,Cleveland Indians,48.98,0.33,0.6,0.5,54.35,0.33,0.6,0.5
+22-05-2019,Oakland Athletics,Cleveland Indians,50.0,0.33,0.6,0.5,53.19,0.33,0.6,0.5
+23-05-2019,Tampa Bay Rays,Cleveland Indians,60.87,0.0,0.2,0.4,52.08,0.0,0.2,0.4
+24-05-2019,Tampa Bay Rays,Cleveland Indians,61.7,0.33,0.2,0.4,51.02,0.33,0.2,0.4
+25-05-2019,Tampa Bay Rays,Cleveland Indians,60.42,0.33,0.4,0.5,52.0,0.33,0.4,0.5
+26-05-2019,Tampa Bay Rays,Cleveland Indians,61.22,0.0,0.4,0.4,50.98,0.0,0.4,0.4
+04-06-2019,Minnesota Twins,Cleveland Indians,68.97,0.33,0.4,0.6,49.15,0.33,0.4,0.6
+05-06-2019,Minnesota Twins,Cleveland Indians,67.8,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+06-06-2019,Minnesota Twins,Cleveland Indians,66.67,0.0,0.4,0.5,50.82,0.0,0.4,0.5
+07-06-2019,New York Yankees,Cleveland Indians,63.93,0.0,0.0,0.4,50.0,0.0,0.0,0.4
+08-06-2019,New York Yankees,Cleveland Indians,62.9,0.33,0.2,0.4,50.79,0.33,0.2,0.4
+09-06-2019,New York Yankees,Cleveland Indians,61.9,0.0,0.2,0.4,51.56,0.0,0.2,0.4
+11-06-2019,Cincinnati Reds,Cleveland Indians,45.31,0.0,0.0,0.2,50.77,0.0,0.0,0.2
+12-06-2019,Cincinnati Reds,Cleveland Indians,44.62,0.33,0.2,0.3,51.52,0.33,0.2,0.3
+21-06-2019,Detroit Tigers,Cleveland Indians,36.62,0.33,0.2,0.2,52.7,0.33,0.2,0.2
+22-06-2019,Detroit Tigers,Cleveland Indians,36.11,0.0,0.2,0.2,53.33,0.0,0.2,0.2
+23-06-2019,Detroit Tigers,Cleveland Indians,35.62,0.0,0.2,0.2,53.95,0.0,0.2,0.2
+24-06-2019,Kansas City Royals,Cleveland Indians,34.62,0.0,0.2,0.4,54.55,0.0,0.2,0.4
+25-06-2019,Kansas City Royals,Cleveland Indians,34.18,0.33,0.2,0.5,55.13,0.33,0.2,0.5
+26-06-2019,Kansas City Royals,Cleveland Indians,35.0,0.0,0.2,0.4,54.43,0.0,0.2,0.4
+12-07-2019,Minnesota Twins,Cleveland Indians,62.92,0.33,0.4,0.4,56.82,0.33,0.4,0.4
+13-07-2019,Minnesota Twins,Cleveland Indians,63.33,0.0,0.4,0.4,56.18,0.0,0.4,0.4
+14-07-2019,Minnesota Twins,Cleveland Indians,63.74,0.33,0.4,0.4,55.56,0.33,0.4,0.4
+15-07-2019,Detroit Tigers,Cleveland Indians,32.58,0.0,0.0,0.1,56.04,0.0,0.0,0.1
+16-07-2019,Detroit Tigers,Cleveland Indians,32.22,0.33,0.2,0.2,56.52,0.33,0.2,0.2
+17-07-2019,Detroit Tigers,Cleveland Indians,31.87,0.0,0.2,0.2,56.99,0.0,0.2,0.2
+18-07-2019,Detroit Tigers,Cleveland Indians,31.52,0.0,0.2,0.1,57.45,0.0,0.2,0.1
+19-07-2019,Kansas City Royals,Cleveland Indians,36.73,0.33,0.6,0.5,57.89,0.33,0.6,0.5
+20-07-2019,Kansas City Royals,Cleveland Indians,36.36,0.33,0.6,0.6,58.33,0.33,0.6,0.6
+21-07-2019,Kansas City Royals,Cleveland Indians,37.0,0.0,0.4,0.6,57.73,0.0,0.4,0.6
+30-07-2019,Houston Astros,Cleveland Indians,63.55,0.33,0.4,0.6,59.05,0.33,0.4,0.6
+31-07-2019,Houston Astros,Cleveland Indians,63.89,0.33,0.4,0.6,58.49,0.33,0.4,0.6
+01-08-2019,Houston Astros,Cleveland Indians,63.3,0.33,0.6,0.6,58.88,0.33,0.6,0.6
+02-08-2019,Los Angeles Angels,Cleveland Indians,50.91,0.33,0.4,0.4,58.33,0.33,0.4,0.4
+03-08-2019,Los Angeles Angels,Cleveland Indians,50.45,0.0,0.2,0.3,58.72,0.0,0.2,0.3
+04-08-2019,Los Angeles Angels,Cleveland Indians,50.0,0.0,0.2,0.2,59.09,0.0,0.2,0.2
+05-08-2019,Texas Rangers,Cleveland Indians,51.35,0.33,0.6,0.5,59.46,0.33,0.6,0.5
+12-08-2019,Boston Red Sox,Cleveland Indians,52.07,0.0,0.4,0.4,60.17,0.0,0.4,0.4
+13-08-2019,Boston Red Sox,Cleveland Indians,51.64,0.0,0.2,0.4,60.5,0.0,0.2,0.4
+14-08-2019,Boston Red Sox,Cleveland Indians,52.03,0.0,0.0,0.4,60.0,0.0,0.0,0.4
+23-08-2019,Kansas City Royals,Cleveland Indians,35.16,0.0,0.2,0.3,57.81,0.0,0.2,0.3
+24-08-2019,Kansas City Royals,Cleveland Indians,34.88,0.0,0.2,0.2,58.14,0.0,0.2,0.2
+25-08-2019,Kansas City Royals,Cleveland Indians,34.62,0.0,0.0,0.2,58.46,0.0,0.0,0.2
+02-09-2019,Chicago White Sox,Cleveland Indians,44.12,0.0,0.0,0.2,57.66,0.0,0.0,0.2
+03-09-2019,Chicago White Sox,Cleveland Indians,43.8,0.0,0.0,0.1,57.97,0.0,0.0,0.1
+04-09-2019,Chicago White Sox,Cleveland Indians,44.2,0.0,0.0,0.1,57.55,0.0,0.0,0.1
+05-09-2019,Chicago White Sox,Cleveland Indians,43.88,0.33,0.2,0.1,57.86,0.33,0.2,0.1
+15-09-2019,Minnesota Twins,Cleveland Indians,61.49,0.33,0.2,0.4,57.72,0.33,0.2,0.4
+17-09-2019,Detroit Tigers,Cleveland Indians,30.2,0.0,0.2,0.2,58.0,0.0,0.2,0.2
+18-09-2019,Detroit Tigers,Cleveland Indians,30.0,0.33,0.4,0.3,58.28,0.33,0.4,0.3
+19-09-2019,Detroit Tigers,Cleveland Indians,29.8,0.0,0.2,0.3,58.55,0.0,0.2,0.3
+20-09-2019,Philadelphia Phillies,Cleveland Indians,51.66,0.33,0.4,0.4,58.82,0.33,0.4,0.4
+21-09-2019,Philadelphia Phillies,Cleveland Indians,51.32,0.0,0.4,0.4,59.09,0.0,0.4,0.4
+22-09-2019,Philadelphia Phillies,Cleveland Indians,51.63,0.0,0.2,0.3,58.71,0.0,0.2,0.3
+05-04-2019,Los Angeles Dodgers,Colorado Rockies,71.43,0.33,0.4,nan,42.86,0.33,0.4,nan
+06-04-2019,Los Angeles Dodgers,Colorado Rockies,75.0,0.33,0.4,nan,37.5,0.33,0.4,nan
+07-04-2019,Los Angeles Dodgers,Colorado Rockies,77.78,0.33,0.6,0.6,33.33,0.33,0.6,0.6
+08-04-2019,Atlanta Braves,Colorado Rockies,55.56,0.0,0.4,0.4,30.0,0.0,0.4,0.4
+09-04-2019,Atlanta Braves,Colorado Rockies,60.0,0.33,0.4,0.5,27.27,0.33,0.4,0.5
+18-04-2019,Philadelphia Phillies,Colorado Rockies,64.71,0.33,0.4,0.4,33.33,0.33,0.4,0.4
+19-04-2019,Philadelphia Phillies,Colorado Rockies,61.11,0.33,0.4,0.4,36.84,0.33,0.4,0.4
+20-04-2019,Philadelphia Phillies,Colorado Rockies,57.89,0.0,0.4,0.4,40.0,0.0,0.4,0.4
+21-04-2019,Philadelphia Phillies,Colorado Rockies,60.0,0.0,0.2,0.4,38.1,0.0,0.2,0.4
+22-04-2019,Washington Nationals,Colorado Rockies,50.0,0.0,0.2,0.3,40.91,0.0,0.2,0.3
+23-04-2019,Washington Nationals,Colorado Rockies,47.62,0.33,0.2,0.4,43.48,0.33,0.2,0.4
+24-04-2019,Washington Nationals,Colorado Rockies,50.0,0.0,0.2,0.3,41.67,0.0,0.2,0.3
+03-05-2019,Arizona Diamondbacks,Colorado Rockies,58.06,0.33,0.2,0.6,46.88,0.33,0.2,0.6
+04-05-2019,Arizona Diamondbacks,Colorado Rockies,59.38,0.33,0.4,0.6,45.45,0.33,0.4,0.6
+05-05-2019,Arizona Diamondbacks,Colorado Rockies,60.61,0.33,0.6,0.6,44.12,0.33,0.6,0.6
+07-05-2019,San Francisco Giants,Colorado Rockies,42.86,0.33,0.4,0.4,45.71,0.33,0.4,0.4
+09-05-2019,San Francisco Giants,Colorado Rockies,44.44,0.0,0.2,0.4,44.44,0.0,0.2,0.4
+10-05-2019,San Diego Padres,Colorado Rockies,55.26,0.0,0.4,0.4,45.95,0.0,0.4,0.4
+11-05-2019,San Diego Padres,Colorado Rockies,53.85,0.33,0.4,0.4,47.37,0.33,0.4,0.4
+12-05-2019,San Diego Padres,Colorado Rockies,55.0,0.0,0.2,0.4,46.15,0.0,0.2,0.4
+24-05-2019,Baltimore Orioles,Colorado Rockies,30.0,0.0,0.0,0.1,45.83,0.0,0.0,0.1
+25-05-2019,Baltimore Orioles,Colorado Rockies,29.41,0.0,0.0,0.1,46.94,0.0,0.0,0.1
+26-05-2019,Baltimore Orioles,Colorado Rockies,30.77,0.0,0.0,0.1,46.0,0.0,0.0,0.1
+27-05-2019,Arizona Diamondbacks,Colorado Rockies,52.83,0.33,0.4,0.3,47.06,0.33,0.4,0.3
+28-05-2019,Arizona Diamondbacks,Colorado Rockies,51.85,0.33,0.6,0.3,48.08,0.33,0.6,0.3
+29-05-2019,Arizona Diamondbacks,Colorado Rockies,50.91,0.0,0.4,0.3,49.06,0.0,0.4,0.3
+30-05-2019,Arizona Diamondbacks,Colorado Rockies,50.0,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+31-05-2019,Toronto Blue Jays,Colorado Rockies,37.5,0.0,0.2,0.2,50.91,0.0,0.2,0.2
+01-06-2019,Toronto Blue Jays,Colorado Rockies,36.84,0.0,0.0,0.1,51.79,0.0,0.0,0.1
+02-06-2019,Toronto Blue Jays,Colorado Rockies,36.21,0.0,0.0,0.1,52.63,0.0,0.0,0.1
+10-06-2019,Chicago Cubs,Colorado Rockies,57.81,0.33,0.4,0.5,51.56,0.33,0.4,0.5
+11-06-2019,Chicago Cubs,Colorado Rockies,56.92,0.33,0.6,0.6,52.31,0.33,0.6,0.6
+12-06-2019,Chicago Cubs,Colorado Rockies,56.06,0.0,0.4,0.6,53.03,0.0,0.4,0.6
+13-06-2019,San Diego Padres,Colorado Rockies,48.53,0.0,0.0,0.3,52.24,0.0,0.0,0.3
+14-06-2019,San Diego Padres,Colorado Rockies,47.83,0.0,0.0,0.2,52.94,0.0,0.0,0.2
+15-06-2019,San Diego Padres,Colorado Rockies,48.57,0.0,0.0,0.2,52.17,0.0,0.0,0.2
+16-06-2019,San Diego Padres,Colorado Rockies,47.89,0.33,0.2,0.3,52.86,0.33,0.2,0.3
+27-06-2019,Los Angeles Dodgers,Colorado Rockies,67.07,0.33,0.4,0.7,52.5,0.33,0.4,0.7
+28-06-2019,Los Angeles Dodgers,Colorado Rockies,67.47,0.0,0.2,0.6,51.85,0.0,0.2,0.6
+29-06-2019,Los Angeles Dodgers,Colorado Rockies,66.67,0.33,0.4,0.6,52.44,0.33,0.4,0.6
+30-06-2019,Los Angeles Dodgers,Colorado Rockies,65.88,0.0,0.2,0.5,53.01,0.0,0.2,0.5
+02-07-2019,Houston Astros,Colorado Rockies,62.35,0.33,0.4,0.4,52.38,0.33,0.4,0.4
+03-07-2019,Houston Astros,Colorado Rockies,62.79,0.33,0.6,0.5,51.76,0.33,0.6,0.5
+12-07-2019,Cincinnati Reds,Colorado Rockies,47.13,0.0,0.4,0.5,49.44,0.0,0.4,0.5
+13-07-2019,Cincinnati Reds,Colorado Rockies,46.59,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+14-07-2019,Cincinnati Reds,Colorado Rockies,47.19,0.0,0.0,0.4,49.45,0.0,0.0,0.4
+16-07-2019,San Francisco Giants,Colorado Rockies,47.87,0.33,0.4,0.6,48.94,0.33,0.4,0.6
+17-07-2019,San Francisco Giants,Colorado Rockies,48.42,0.33,0.6,0.6,48.42,0.33,0.6,0.6
+29-07-2019,Los Angeles Dodgers,Colorado Rockies,64.49,0.33,0.4,0.5,46.23,0.33,0.4,0.5
+30-07-2019,Los Angeles Dodgers,Colorado Rockies,63.89,0.0,0.4,0.5,46.73,0.0,0.4,0.5
+31-07-2019,Los Angeles Dodgers,Colorado Rockies,64.22,0.0,0.2,0.4,46.3,0.0,0.2,0.4
+02-08-2019,San Francisco Giants,Colorado Rockies,50.46,0.33,0.4,0.5,45.87,0.33,0.4,0.5
+03-08-2019,San Francisco Giants,Colorado Rockies,50.0,0.0,0.2,0.4,46.36,0.0,0.2,0.4
+04-08-2019,San Francisco Giants,Colorado Rockies,50.45,0.0,0.2,0.3,45.95,0.0,0.2,0.3
+12-08-2019,Arizona Diamondbacks,Colorado Rockies,50.0,0.0,0.4,0.5,44.92,0.0,0.4,0.5
+13-08-2019,Arizona Diamondbacks,Colorado Rockies,50.42,0.0,0.2,0.5,44.54,0.0,0.2,0.5
+14-08-2019,Arizona Diamondbacks,Colorado Rockies,50.83,0.33,0.2,0.5,44.17,0.33,0.2,0.5
+16-08-2019,Miami Marlins,Colorado Rockies,37.5,0.0,0.0,0.2,44.63,0.0,0.0,0.2
+17-08-2019,Miami Marlins,Colorado Rockies,37.19,0.33,0.2,0.3,45.08,0.33,0.2,0.3
+18-08-2019,Miami Marlins,Colorado Rockies,36.89,0.0,0.2,0.3,45.53,0.0,0.2,0.3
+26-08-2019,Atlanta Braves,Colorado Rockies,60.61,0.33,0.6,0.7,44.27,0.33,0.6,0.7
+27-08-2019,Boston Red Sox,Colorado Rockies,53.03,0.33,0.4,0.6,44.7,0.33,0.4,0.6
+28-08-2019,Boston Red Sox,Colorado Rockies,53.38,0.0,0.4,0.5,44.36,0.0,0.4,0.5
+29-08-2019,Pittsburgh Pirates,Colorado Rockies,42.11,0.33,0.4,0.5,44.03,0.33,0.4,0.5
+30-08-2019,Pittsburgh Pirates,Colorado Rockies,42.54,0.0,0.2,0.4,43.7,0.0,0.2,0.4
+31-08-2019,Pittsburgh Pirates,Colorado Rockies,42.96,0.33,0.4,0.5,43.38,0.33,0.4,0.5
+01-09-2019,Pittsburgh Pirates,Colorado Rockies,43.38,0.33,0.4,0.6,43.07,0.33,0.4,0.6
+10-09-2019,St. Louis Cardinals,Colorado Rockies,56.64,0.33,0.4,0.5,41.67,0.33,0.4,0.5
+11-09-2019,St. Louis Cardinals,Colorado Rockies,56.25,0.33,0.4,0.5,42.07,0.33,0.4,0.5
+12-09-2019,St. Louis Cardinals,Colorado Rockies,55.86,0.0,0.4,0.5,42.47,0.0,0.4,0.5
+13-09-2019,San Diego Padres,Colorado Rockies,46.58,0.33,0.4,0.4,42.18,0.33,0.4,0.4
+14-09-2019,San Diego Padres,Colorado Rockies,46.26,0.0,0.4,0.4,42.57,0.0,0.4,0.4
+15-09-2019,San Diego Padres,Colorado Rockies,45.95,0.0,0.2,0.4,42.95,0.0,0.2,0.4
+16-09-2019,New York Mets,Colorado Rockies,51.68,0.33,0.4,0.5,43.33,0.33,0.4,0.5
+17-09-2019,New York Mets,Colorado Rockies,51.33,0.0,0.2,0.5,43.71,0.0,0.2,0.5
+18-09-2019,New York Mets,Colorado Rockies,51.66,0.0,0.2,0.5,43.42,0.0,0.2,0.5
+27-09-2019,Milwaukee Brewers,Colorado Rockies,55.97,0.33,0.6,0.7,42.77,0.33,0.6,0.7
+28-09-2019,Milwaukee Brewers,Colorado Rockies,55.62,0.33,0.6,0.7,43.12,0.33,0.6,0.7
+29-09-2019,Milwaukee Brewers,Colorado Rockies,55.28,0.0,0.4,0.7,43.48,0.0,0.4,0.7
+04-04-2019,Kansas City Royals,Detroit Tigers,40.0,0.0,0.2,nan,57.14,0.0,0.2,nan
+06-04-2019,Kansas City Royals,Detroit Tigers,33.33,0.0,0.0,nan,62.5,0.0,0.0,nan
+07-04-2019,Kansas City Royals,Detroit Tigers,28.57,0.0,0.0,nan,66.67,0.0,0.0,nan
+09-04-2019,Cleveland Indians,Detroit Tigers,66.67,0.33,0.6,0.5,70.0,0.33,0.6,0.5
+10-04-2019,Cleveland Indians,Detroit Tigers,70.0,0.33,0.6,0.6,63.64,0.33,0.6,0.6
+11-04-2019,Cleveland Indians,Detroit Tigers,63.64,0.33,0.6,0.6,66.67,0.33,0.6,0.6
+16-04-2019,Pittsburgh Pirates,Detroit Tigers,57.14,0.0,0.2,0.5,53.33,0.0,0.2,0.5
+17-04-2019,Pittsburgh Pirates,Detroit Tigers,60.0,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+18-04-2019,Chicago White Sox,Detroit Tigers,41.18,0.33,0.6,0.4,47.06,0.33,0.6,0.4
+19-04-2019,Chicago White Sox,Detroit Tigers,38.89,0.0,0.4,0.4,50.0,0.0,0.4,0.4
+21-04-2019,Chicago White Sox,Detroit Tigers,42.11,0.0,0.2,0.4,47.37,0.0,0.2,0.4
+03-05-2019,Kansas City Royals,Detroit Tigers,34.38,0.33,0.4,0.4,46.43,0.33,0.4,0.4
+04-05-2019,Kansas City Royals,Detroit Tigers,33.33,0.0,0.4,0.4,48.28,0.0,0.4,0.4
+05-05-2019,Kansas City Royals,Detroit Tigers,35.29,0.0,0.2,0.3,46.67,0.0,0.2,0.3
+07-05-2019,Los Angeles Angels,Detroit Tigers,44.12,0.0,0.4,0.6,48.39,0.0,0.4,0.6
+08-05-2019,Los Angeles Angels,Detroit Tigers,45.71,0.0,0.2,0.5,46.88,0.0,0.2,0.5
+09-05-2019,Los Angeles Angels,Detroit Tigers,44.44,0.33,0.2,0.5,48.48,0.33,0.2,0.5
+13-05-2019,Houston Astros,Detroit Tigers,63.41,0.33,0.6,0.7,47.37,0.33,0.6,0.7
+14-05-2019,Houston Astros,Detroit Tigers,64.29,0.33,0.6,0.7,46.15,0.33,0.6,0.7
+15-05-2019,Houston Astros,Detroit Tigers,65.12,0.33,0.6,0.7,45.0,0.33,0.6,0.7
+16-05-2019,Oakland Athletics,Detroit Tigers,43.18,0.0,0.2,0.4,43.9,0.0,0.2,0.4
+17-05-2019,Oakland Athletics,Detroit Tigers,44.44,0.0,0.0,0.4,42.86,0.0,0.0,0.4
+18-05-2019,Oakland Athletics,Detroit Tigers,45.65,0.33,0.2,0.4,41.86,0.33,0.2,0.4
+19-05-2019,Oakland Athletics,Detroit Tigers,46.81,0.33,0.4,0.4,40.91,0.33,0.4,0.4
+21-05-2019,Miami Marlins,Detroit Tigers,29.55,0.33,0.4,0.2,40.0,0.33,0.4,0.2
+22-05-2019,Miami Marlins,Detroit Tigers,31.11,0.33,0.6,0.3,39.13,0.33,0.6,0.3
+23-05-2019,Miami Marlins,Detroit Tigers,32.61,0.33,0.6,0.4,38.3,0.33,0.6,0.4
+04-06-2019,Tampa Bay Rays,Detroit Tigers,61.4,0.0,0.2,0.6,38.6,0.0,0.2,0.6
+05-06-2019,Tampa Bay Rays,Detroit Tigers,60.34,0.0,0.0,0.5,39.66,0.0,0.0,0.5
+06-06-2019,Tampa Bay Rays,Detroit Tigers,61.02,0.0,0.0,0.4,38.98,0.0,0.0,0.4
+07-06-2019,Minnesota Twins,Detroit Tigers,67.21,0.0,0.2,0.4,38.33,0.0,0.2,0.4
+08-06-2019,Minnesota Twins,Detroit Tigers,67.74,0.33,0.2,0.5,37.7,0.33,0.2,0.5
+09-06-2019,Minnesota Twins,Detroit Tigers,66.67,0.33,0.4,0.5,38.71,0.33,0.4,0.5
+14-06-2019,Cleveland Indians,Detroit Tigers,50.75,0.33,0.4,0.5,37.88,0.33,0.4,0.5
+15-06-2019,Cleveland Indians,Detroit Tigers,51.47,0.0,0.2,0.5,37.31,0.0,0.2,0.5
+16-06-2019,Cleveland Indians,Detroit Tigers,52.17,0.33,0.4,0.5,36.76,0.33,0.4,0.5
+25-06-2019,Texas Rangers,Detroit Tigers,53.85,0.33,0.4,0.4,35.14,0.33,0.4,0.4
+26-06-2019,Texas Rangers,Detroit Tigers,54.43,0.33,0.4,0.4,34.67,0.33,0.4,0.4
+27-06-2019,Texas Rangers,Detroit Tigers,55.0,0.33,0.6,0.5,34.21,0.33,0.6,0.5
+28-06-2019,Washington Nationals,Detroit Tigers,50.0,0.33,0.4,0.6,33.77,0.33,0.4,0.6
+29-06-2019,Washington Nationals,Detroit Tigers,50.62,0.33,0.6,0.6,33.33,0.33,0.6,0.6
+30-06-2019,Washington Nationals,Detroit Tigers,50.0,0.33,0.6,0.6,34.18,0.33,0.6,0.6
+05-07-2019,Boston Red Sox,Detroit Tigers,52.87,0.0,0.2,0.3,33.73,0.0,0.2,0.3
+06-07-2019,Boston Red Sox,Detroit Tigers,53.41,0.33,0.4,0.4,33.33,0.33,0.4,0.4
+07-07-2019,Boston Red Sox,Detroit Tigers,53.93,0.33,0.4,0.4,32.94,0.33,0.4,0.4
+19-07-2019,Toronto Blue Jays,Detroit Tigers,36.73,0.0,0.2,0.3,31.18,0.0,0.2,0.3
+20-07-2019,Toronto Blue Jays,Detroit Tigers,37.37,0.0,0.2,0.3,30.85,0.0,0.2,0.3
+21-07-2019,Toronto Blue Jays,Detroit Tigers,38.0,0.33,0.2,0.3,30.53,0.33,0.2,0.3
+23-07-2019,Philadelphia Phillies,Detroit Tigers,52.0,0.0,0.4,0.4,31.25,0.0,0.4,0.4
+24-07-2019,Philadelphia Phillies,Detroit Tigers,52.48,0.33,0.4,0.5,30.93,0.33,0.4,0.5
+05-08-2019,Chicago White Sox,Detroit Tigers,44.04,0.0,0.2,0.2,29.63,0.0,0.2,0.2
+07-08-2019,Chicago White Sox,Detroit Tigers,44.64,0.33,0.6,0.4,29.73,0.33,0.6,0.4
+08-08-2019,Kansas City Royals,Detroit Tigers,35.34,0.33,0.2,0.1,29.46,0.33,0.2,0.1
+09-08-2019,Kansas City Royals,Detroit Tigers,35.04,0.0,0.2,0.1,30.09,0.0,0.2,0.1
+10-08-2019,Kansas City Royals,Detroit Tigers,34.75,0.0,0.2,0.1,30.7,0.0,0.2,0.1
+11-08-2019,Kansas City Royals,Detroit Tigers,35.29,0.0,0.0,0.1,30.43,0.0,0.0,0.1
+13-08-2019,Seattle Mariners,Detroit Tigers,40.34,0.0,0.2,0.1,30.17,0.0,0.2,0.1
+14-08-2019,Seattle Mariners,Detroit Tigers,40.83,0.0,0.0,0.1,29.91,0.0,0.0,0.1
+15-08-2019,Seattle Mariners,Detroit Tigers,40.5,0.33,0.2,0.2,30.51,0.33,0.2,0.2
+27-08-2019,Cleveland Indians,Detroit Tigers,58.02,0.33,0.4,0.3,30.23,0.33,0.4,0.3
+28-08-2019,Cleveland Indians,Detroit Tigers,58.33,0.0,0.4,0.3,30.0,0.0,0.4,0.3
+29-08-2019,Cleveland Indians,Detroit Tigers,58.65,0.33,0.4,0.4,29.77,0.33,0.4,0.4
+30-08-2019,Minnesota Twins,Detroit Tigers,61.65,0.33,0.6,0.5,29.55,0.33,0.6,0.5
+31-08-2019,Minnesota Twins,Detroit Tigers,61.94,0.33,0.6,0.6,29.32,0.33,0.6,0.6
+01-09-2019,Minnesota Twins,Detroit Tigers,61.48,0.33,0.6,0.6,29.85,0.33,0.6,0.6
+02-09-2019,Minnesota Twins,Detroit Tigers,61.76,0.0,0.4,0.6,29.63,0.0,0.4,0.6
+10-09-2019,New York Yankees,Detroit Tigers,65.52,0.33,0.4,0.6,29.58,0.33,0.4,0.6
+13-09-2019,Baltimore Orioles,Detroit Tigers,32.19,0.33,0.2,0.2,29.66,0.33,0.2,0.2
+14-09-2019,Baltimore Orioles,Detroit Tigers,32.65,0.0,0.2,0.1,29.45,0.0,0.2,0.1
+15-09-2019,Baltimore Orioles,Detroit Tigers,32.43,0.33,0.4,0.2,29.93,0.33,0.4,0.2
+16-09-2019,Baltimore Orioles,Detroit Tigers,32.89,0.0,0.2,0.2,29.73,0.0,0.2,0.2
+20-09-2019,Chicago White Sox,Detroit Tigers,43.42,0.0,0.0,0.2,29.61,0.0,0.0,0.2
+21-09-2019,Chicago White Sox,Detroit Tigers,43.79,0.33,0.2,0.2,29.41,0.33,0.2,0.2
+22-09-2019,Chicago White Sox,Detroit Tigers,44.16,0.33,0.4,0.3,29.22,0.33,0.4,0.3
+24-09-2019,Minnesota Twins,Detroit Tigers,61.54,0.0,0.4,0.5,29.68,0.0,0.4,0.5
+25-09-2019,Minnesota Twins,Detroit Tigers,61.78,0.33,0.4,0.5,29.49,0.33,0.4,0.5
+26-09-2019,Minnesota Twins,Detroit Tigers,62.03,0.33,0.4,0.6,29.3,0.33,0.4,0.6
+05-04-2019,Oakland Athletics,Houston Astros,60.0,0.0,0.4,0.5,28.57,0.0,0.4,0.5
+06-04-2019,Oakland Athletics,Houston Astros,54.55,0.33,0.4,0.6,37.5,0.33,0.4,0.6
+07-04-2019,Oakland Athletics,Houston Astros,50.0,0.0,0.2,0.5,44.44,0.0,0.2,0.5
+08-04-2019,New York Yankees,Houston Astros,55.56,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+09-04-2019,New York Yankees,Houston Astros,50.0,0.33,0.6,0.4,54.55,0.33,0.6,0.4
+10-04-2019,New York Yankees,Houston Astros,45.45,0.0,0.4,0.4,58.33,0.0,0.4,0.4
+22-04-2019,Minnesota Twins,Houston Astros,63.16,0.33,0.4,0.5,61.9,0.33,0.4,0.5
+23-04-2019,Minnesota Twins,Houston Astros,65.0,0.33,0.6,0.5,59.09,0.33,0.6,0.5
+24-04-2019,Minnesota Twins,Houston Astros,61.9,0.33,0.6,0.5,60.87,0.33,0.6,0.5
+25-04-2019,Cleveland Indians,Houston Astros,56.52,0.0,0.0,0.4,62.5,0.0,0.0,0.4
+26-04-2019,Cleveland Indians,Houston Astros,58.33,0.33,0.2,0.5,60.0,0.33,0.2,0.5
+27-04-2019,Cleveland Indians,Houston Astros,60.0,0.33,0.4,0.5,57.69,0.33,0.4,0.5
+28-04-2019,Cleveland Indians,Houston Astros,57.69,0.33,0.6,0.5,59.26,0.33,0.6,0.5
+06-05-2019,Kansas City Royals,Houston Astros,34.29,0.33,0.2,0.4,58.82,0.33,0.2,0.4
+07-05-2019,Kansas City Royals,Houston Astros,33.33,0.0,0.2,0.3,60.0,0.0,0.2,0.3
+08-05-2019,Kansas City Royals,Houston Astros,35.14,0.0,0.2,0.3,58.33,0.0,0.2,0.3
+09-05-2019,Texas Rangers,Houston Astros,50.0,0.0,0.4,0.4,59.46,0.0,0.4,0.4
+10-05-2019,Texas Rangers,Houston Astros,48.57,0.33,0.4,0.4,60.53,0.33,0.4,0.4
+11-05-2019,Texas Rangers,Houston Astros,47.22,0.0,0.2,0.3,61.54,0.0,0.2,0.3
+12-05-2019,Texas Rangers,Houston Astros,45.95,0.0,0.2,0.3,62.5,0.0,0.2,0.3
+20-05-2019,Chicago White Sox,Houston Astros,46.67,0.33,0.4,0.5,65.96,0.33,0.4,0.5
+21-05-2019,Chicago White Sox,Houston Astros,45.65,0.0,0.2,0.5,66.67,0.0,0.2,0.5
+22-05-2019,Chicago White Sox,Houston Astros,44.68,0.0,0.2,0.4,67.35,0.0,0.2,0.4
+23-05-2019,Chicago White Sox,Houston Astros,45.83,0.0,0.0,0.3,66.0,0.0,0.0,0.3
+24-05-2019,Boston Red Sox,Houston Astros,54.0,0.33,0.4,0.4,64.71,0.33,0.4,0.4
+25-05-2019,Boston Red Sox,Houston Astros,52.94,0.33,0.4,0.5,65.38,0.33,0.4,0.5
+26-05-2019,Boston Red Sox,Houston Astros,51.92,0.0,0.4,0.4,66.04,0.0,0.4,0.4
+27-05-2019,Chicago Cubs,Houston Astros,58.82,0.33,0.2,0.4,64.81,0.33,0.2,0.4
+28-05-2019,Chicago Cubs,Houston Astros,57.69,0.0,0.2,0.4,65.45,0.0,0.2,0.4
+29-05-2019,Chicago Cubs,Houston Astros,56.6,0.0,0.2,0.3,66.07,0.0,0.2,0.3
+07-06-2019,Baltimore Orioles,Houston Astros,30.65,0.0,0.2,0.3,67.19,0.0,0.2,0.3
+08-06-2019,Baltimore Orioles,Houston Astros,30.16,0.0,0.2,0.2,67.69,0.0,0.2,0.2
+09-06-2019,Baltimore Orioles,Houston Astros,31.25,0.0,0.0,0.2,66.67,0.0,0.0,0.2
+11-06-2019,Milwaukee Brewers,Houston Astros,57.58,0.33,0.6,0.5,67.16,0.33,0.6,0.5
+12-06-2019,Milwaukee Brewers,Houston Astros,56.72,0.33,0.6,0.6,67.65,0.33,0.6,0.6
+14-06-2019,Toronto Blue Jays,Houston Astros,36.76,0.33,0.2,0.3,66.67,0.33,0.2,0.3
+15-06-2019,Toronto Blue Jays,Houston Astros,36.23,0.33,0.4,0.3,67.14,0.33,0.4,0.3
+16-06-2019,Toronto Blue Jays,Houston Astros,35.71,0.0,0.4,0.2,67.61,0.0,0.4,0.2
+25-06-2019,Pittsburgh Pirates,Houston Astros,47.37,0.33,0.6,0.5,62.03,0.33,0.6,0.5
+26-06-2019,Pittsburgh Pirates,Houston Astros,46.75,0.33,0.6,0.6,62.5,0.33,0.6,0.6
+27-06-2019,Pittsburgh Pirates,Houston Astros,47.44,0.0,0.4,0.5,61.73,0.0,0.4,0.5
+28-06-2019,Seattle Mariners,Houston Astros,43.53,0.33,0.6,0.6,60.98,0.33,0.6,0.6
+29-06-2019,Seattle Mariners,Houston Astros,43.02,0.0,0.4,0.6,61.45,0.0,0.4,0.6
+30-06-2019,Seattle Mariners,Houston Astros,42.53,0.0,0.2,0.5,61.9,0.0,0.2,0.5
+05-07-2019,Los Angeles Angels,Houston Astros,50.0,0.33,0.4,0.5,63.22,0.33,0.4,0.5
+06-07-2019,Los Angeles Angels,Houston Astros,50.56,0.0,0.4,0.4,62.5,0.0,0.4,0.4
+07-07-2019,Los Angeles Angels,Houston Astros,50.0,0.33,0.4,0.4,62.92,0.33,0.4,0.4
+19-07-2019,Texas Rangers,Houston Astros,52.08,0.0,0.0,0.3,62.24,0.0,0.0,0.3
+20-07-2019,Texas Rangers,Houston Astros,51.55,0.0,0.0,0.3,62.63,0.0,0.0,0.3
+21-07-2019,Texas Rangers,Houston Astros,51.02,0.0,0.0,0.3,63.0,0.0,0.0,0.3
+22-07-2019,Oakland Athletics,Houston Astros,57.43,0.33,0.4,0.7,63.37,0.33,0.4,0.7
+23-07-2019,Oakland Athletics,Houston Astros,56.86,0.0,0.4,0.6,63.73,0.0,0.4,0.6
+24-07-2019,Oakland Athletics,Houston Astros,57.28,0.0,0.2,0.5,63.11,0.0,0.2,0.5
+02-08-2019,Seattle Mariners,Houston Astros,42.34,0.33,0.6,0.7,63.64,0.33,0.6,0.7
+03-08-2019,Seattle Mariners,Houston Astros,41.96,0.0,0.4,0.6,63.96,0.0,0.4,0.6
+04-08-2019,Seattle Mariners,Houston Astros,41.59,0.0,0.2,0.6,64.29,0.0,0.2,0.6
+06-08-2019,Colorado Rockies,Houston Astros,46.43,0.0,0.2,0.3,64.6,0.0,0.2,0.3
+07-08-2019,Colorado Rockies,Houston Astros,46.02,0.33,0.4,0.3,64.91,0.33,0.4,0.3
+19-08-2019,Detroit Tigers,Houston Astros,30.33,0.0,0.2,0.3,63.2,0.0,0.2,0.3
+20-08-2019,Detroit Tigers,Houston Astros,30.08,0.0,0.2,0.2,63.49,0.0,0.2,0.2
+21-08-2019,Detroit Tigers,Houston Astros,29.84,0.0,0.0,0.2,63.78,0.0,0.0,0.2
+22-08-2019,Detroit Tigers,Houston Astros,30.4,0.0,0.0,0.2,63.28,0.0,0.0,0.2
+23-08-2019,Los Angeles Angels,Houston Astros,48.46,0.0,0.2,0.5,63.57,0.0,0.2,0.5
+24-08-2019,Los Angeles Angels,Houston Astros,48.09,0.0,0.2,0.4,63.85,0.0,0.2,0.4
+25-08-2019,Los Angeles Angels,Houston Astros,47.73,0.0,0.0,0.3,64.12,0.0,0.0,0.3
+27-08-2019,Tampa Bay Rays,Houston Astros,57.58,0.0,0.4,0.5,64.39,0.0,0.4,0.5
+28-08-2019,Tampa Bay Rays,Houston Astros,57.14,0.0,0.2,0.4,64.66,0.0,0.2,0.4
+29-08-2019,Tampa Bay Rays,Houston Astros,56.72,0.0,0.0,0.3,64.93,0.0,0.0,0.3
+05-09-2019,Seattle Mariners,Houston Astros,41.43,0.0,0.2,0.2,64.29,0.0,0.2,0.2
+06-09-2019,Seattle Mariners,Houston Astros,41.13,0.0,0.2,0.2,64.54,0.0,0.2,0.2
+07-09-2019,Seattle Mariners,Houston Astros,40.85,0.0,0.0,0.2,64.79,0.0,0.0,0.2
+08-09-2019,Seattle Mariners,Houston Astros,40.56,0.0,0.0,0.2,65.03,0.0,0.0,0.2
+09-09-2019,Oakland Athletics,Houston Astros,58.74,0.33,0.4,0.5,65.28,0.33,0.4,0.5
+10-09-2019,Oakland Athletics,Houston Astros,58.33,0.33,0.4,0.5,65.52,0.33,0.4,0.5
+11-09-2019,Oakland Athletics,Houston Astros,58.62,0.0,0.4,0.5,65.07,0.0,0.4,0.5
+12-09-2019,Oakland Athletics,Houston Astros,58.9,0.33,0.4,0.6,64.63,0.33,0.4,0.6
+17-09-2019,Texas Rangers,Houston Astros,49.01,0.0,0.2,0.5,64.9,0.0,0.2,0.5
+18-09-2019,Texas Rangers,Houston Astros,48.68,0.0,0.0,0.4,65.13,0.0,0.0,0.4
+20-09-2019,Los Angeles Angels,Houston Astros,45.1,0.33,0.4,0.2,65.36,0.33,0.4,0.2
+21-09-2019,Los Angeles Angels,Houston Astros,44.81,0.0,0.2,0.2,65.58,0.0,0.2,0.2
+22-09-2019,Los Angeles Angels,Houston Astros,45.16,0.0,0.2,0.2,65.16,0.0,0.2,0.2
+28-03-2019,Chicago White Sox,Kansas City Royals,0,0.0,0.4,0.5,0,0.0,0.4,0.5
+30-03-2019,Chicago White Sox,Kansas City Royals,0.0,nan,nan,nan,100.0,nan,nan,nan
+31-03-2019,Chicago White Sox,Kansas City Royals,0.0,0.0,nan,nan,100.0,0.0,nan,nan
+02-04-2019,Minnesota Twins,Kansas City Royals,66.67,0.0,nan,nan,66.67,0.0,nan,nan
+03-04-2019,Minnesota Twins,Kansas City Royals,75.0,0.33,0.4,nan,50.0,0.33,0.4,nan
+08-04-2019,Seattle Mariners,Kansas City Royals,81.82,0.33,0.4,0.6,25.0,0.33,0.4,0.6
+09-04-2019,Seattle Mariners,Kansas City Royals,83.33,0.33,0.4,0.6,22.22,0.33,0.4,0.6
+10-04-2019,Seattle Mariners,Kansas City Royals,84.62,0.33,0.6,0.7,20.0,0.33,0.6,0.7
+11-04-2019,Seattle Mariners,Kansas City Royals,85.71,0.33,0.6,0.7,18.18,0.33,0.6,0.7
+12-04-2019,Cleveland Indians,Kansas City Royals,66.67,0.0,0.4,0.6,16.67,0.0,0.4,0.6
+13-04-2019,Cleveland Indians,Kansas City Royals,61.54,0.33,0.4,0.6,23.08,0.33,0.4,0.6
+14-04-2019,Cleveland Indians,Kansas City Royals,57.14,0.0,0.2,0.6,28.57,0.0,0.2,0.6
+26-04-2019,Los Angeles Angels,Kansas City Royals,38.46,0.0,0.0,0.1,32.0,0.0,0.0,0.1
+27-04-2019,Los Angeles Angels,Kansas City Royals,40.74,0.33,0.2,0.2,30.77,0.33,0.2,0.2
+28-04-2019,Los Angeles Angels,Kansas City Royals,39.29,0.33,0.4,0.3,33.33,0.33,0.4,0.3
+29-04-2019,Tampa Bay Rays,Kansas City Royals,66.67,0.33,0.4,0.3,32.14,0.33,0.4,0.3
+02-05-2019,Tampa Bay Rays,Kansas City Royals,63.33,0.0,0.4,0.5,35.48,0.0,0.4,0.5
+10-05-2019,Philadelphia Phillies,Kansas City Royals,58.33,0.33,0.4,0.5,34.21,0.33,0.4,0.5
+11-05-2019,Philadelphia Phillies,Kansas City Royals,56.76,0.33,0.4,0.5,35.9,0.33,0.4,0.5
+12-05-2019,Philadelphia Phillies,Kansas City Royals,57.89,0.0,0.4,0.5,35.0,0.0,0.4,0.5
+14-05-2019,Texas Rangers,Kansas City Royals,44.74,0.0,0.0,0.3,34.15,0.0,0.0,0.3
+15-05-2019,Texas Rangers,Kansas City Royals,43.59,0.0,0.0,0.3,35.71,0.0,0.0,0.3
+16-05-2019,Texas Rangers,Kansas City Royals,45.0,0.0,0.0,0.2,34.88,0.0,0.0,0.2
+26-05-2019,New York Yankees,Kansas City Royals,66.67,0.33,0.6,0.7,33.33,0.33,0.6,0.7
+04-06-2019,Boston Red Sox,Kansas City Royals,50.85,0.0,0.0,0.2,32.2,0.0,0.0,0.2
+05-06-2019,Boston Red Sox,Kansas City Royals,51.67,0.33,0.2,0.3,31.67,0.33,0.2,0.3
+06-06-2019,Boston Red Sox,Kansas City Royals,52.46,0.33,0.4,0.4,31.15,0.33,0.4,0.4
+07-06-2019,Chicago White Sox,Kansas City Royals,47.54,0.0,0.2,0.6,30.65,0.0,0.2,0.6
+08-06-2019,Chicago White Sox,Kansas City Royals,46.77,0.0,0.2,0.5,31.75,0.0,0.2,0.5
+09-06-2019,Chicago White Sox,Kansas City Royals,47.62,0.0,0.0,0.4,31.25,0.0,0.0,0.4
+11-06-2019,Detroit Tigers,Kansas City Royals,38.1,0.33,0.2,0.3,30.77,0.33,0.2,0.3
+12-06-2019,Detroit Tigers,Kansas City Royals,37.5,0.0,0.2,0.2,31.82,0.0,0.2,0.2
+13-06-2019,Detroit Tigers,Kansas City Royals,38.46,0.0,0.2,0.2,31.34,0.0,0.2,0.2
+20-06-2019,Minnesota Twins,Kansas City Royals,65.75,0.33,0.2,0.5,33.78,0.33,0.2,0.5
+21-06-2019,Minnesota Twins,Kansas City Royals,64.86,0.0,0.2,0.4,34.67,0.0,0.2,0.4
+22-06-2019,Minnesota Twins,Kansas City Royals,65.33,0.0,0.2,0.4,34.21,0.0,0.2,0.4
+23-06-2019,Minnesota Twins,Kansas City Royals,65.79,0.33,0.2,0.4,33.77,0.33,0.2,0.4
+02-07-2019,Cleveland Indians,Kansas City Royals,54.22,0.0,0.2,0.5,34.12,0.0,0.2,0.5
+03-07-2019,Cleveland Indians,Kansas City Royals,54.76,0.33,0.2,0.5,33.72,0.33,0.2,0.5
+04-07-2019,Cleveland Indians,Kansas City Royals,55.29,0.33,0.4,0.5,33.33,0.33,0.4,0.5
+12-07-2019,Detroit Tigers,Kansas City Royals,32.56,0.0,0.2,0.2,32.97,0.0,0.2,0.2
+13-07-2019,Detroit Tigers,Kansas City Royals,32.18,0.0,0.0,0.2,33.7,0.0,0.0,0.2
+14-07-2019,Detroit Tigers,Kansas City Royals,31.82,0.0,0.0,0.1,34.41,0.0,0.0,0.1
+15-07-2019,Chicago White Sox,Kansas City Royals,47.19,0.0,0.2,0.4,34.04,0.0,0.2,0.4
+16-07-2019,Chicago White Sox,Kansas City Royals,46.67,0.0,0.0,0.3,34.74,0.0,0.0,0.3
+17-07-2019,Chicago White Sox,Kansas City Royals,46.15,0.0,0.0,0.2,35.42,0.0,0.0,0.2
+18-07-2019,Chicago White Sox,Kansas City Royals,45.65,0.0,0.0,0.1,36.08,0.0,0.0,0.1
+25-07-2019,Cleveland Indians,Kansas City Royals,58.42,0.0,0.4,0.6,37.86,0.0,0.4,0.6
+26-07-2019,Cleveland Indians,Kansas City Royals,58.82,0.33,0.4,0.6,37.5,0.33,0.4,0.6
+27-07-2019,Cleveland Indians,Kansas City Royals,59.22,0.33,0.4,0.6,37.14,0.33,0.4,0.6
+28-07-2019,Cleveland Indians,Kansas City Royals,59.62,0.33,0.6,0.6,36.79,0.33,0.6,0.6
+29-07-2019,Toronto Blue Jays,Kansas City Royals,37.38,0.33,0.2,0.4,37.38,0.33,0.2,0.4
+30-07-2019,Toronto Blue Jays,Kansas City Royals,37.96,0.0,0.2,0.3,37.04,0.0,0.2,0.3
+31-07-2019,Toronto Blue Jays,Kansas City Royals,38.53,0.33,0.4,0.3,36.7,0.33,0.4,0.3
+13-08-2019,St. Louis Cardinals,Kansas City Royals,52.59,0.33,0.4,0.3,35.83,0.33,0.4,0.3
+14-08-2019,St. Louis Cardinals,Kansas City Royals,52.99,0.33,0.6,0.3,35.54,0.33,0.6,0.3
+16-08-2019,New York Mets,Kansas City Royals,51.24,0.0,0.0,0.5,35.25,0.0,0.0,0.5
+17-08-2019,New York Mets,Kansas City Royals,50.82,0.33,0.2,0.5,35.77,0.33,0.2,0.5
+18-08-2019,New York Mets,Kansas City Royals,51.22,0.0,0.2,0.4,35.48,0.0,0.2,0.4
+26-08-2019,Oakland Athletics,Kansas City Royals,57.69,0.0,0.4,0.6,35.11,0.0,0.4,0.6
+27-08-2019,Oakland Athletics,Kansas City Royals,58.02,0.0,0.2,0.5,34.85,0.0,0.2,0.5
+28-08-2019,Oakland Athletics,Kansas City Royals,58.33,0.33,0.2,0.5,34.59,0.33,0.2,0.5
+29-08-2019,Oakland Athletics,Kansas City Royals,57.89,0.33,0.4,0.5,35.07,0.33,0.4,0.5
+30-08-2019,Baltimore Orioles,Kansas City Royals,33.08,0.33,0.6,0.5,34.81,0.33,0.6,0.5
+31-08-2019,Baltimore Orioles,Kansas City Royals,33.58,0.0,0.4,0.5,34.56,0.0,0.4,0.5
+01-09-2019,Baltimore Orioles,Kansas City Royals,33.33,0.33,0.4,0.5,35.04,0.33,0.4,0.5
+03-09-2019,Detroit Tigers,Kansas City Royals,29.41,0.0,0.2,0.1,35.51,0.0,0.2,0.1
+04-09-2019,Detroit Tigers,Kansas City Royals,29.2,0.0,0.2,0.1,35.97,0.0,0.2,0.1
+05-09-2019,Detroit Tigers,Kansas City Royals,28.99,0.0,0.0,0.1,36.43,0.0,0.0,0.1
+13-09-2019,Houston Astros,Kansas City Royals,64.19,0.0,0.2,0.5,37.41,0.0,0.2,0.5
+14-09-2019,Houston Astros,Kansas City Royals,64.43,0.0,0.0,0.5,37.16,0.0,0.0,0.5
+15-09-2019,Houston Astros,Kansas City Royals,64.67,0.33,0.2,0.5,36.91,0.33,0.2,0.5
+24-09-2019,Atlanta Braves,Kansas City Royals,61.15,0.33,0.6,0.5,36.31,0.33,0.6,0.5
+25-09-2019,Atlanta Braves,Kansas City Royals,60.76,0.0,0.4,0.4,36.71,0.0,0.4,0.4
+27-09-2019,Minnesota Twins,Kansas City Royals,62.26,0.33,0.6,0.6,36.48,0.33,0.6,0.6
+28-09-2019,Minnesota Twins,Kansas City Royals,62.5,0.33,0.6,0.6,36.25,0.33,0.6,0.6
+29-09-2019,Minnesota Twins,Kansas City Royals,62.73,0.33,0.6,0.7,36.02,0.33,0.6,0.7
+28-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,0,0.33,0.6,0.6,0,0.33,0.6,0.6
+29-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,0.0,nan,nan,nan,100.0,nan,nan,nan
+30-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+31-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,33.33,0.33,nan,nan,66.67,0.33,nan,nan
+01-04-2019,San Francisco Giants,Los Angeles Dodgers,25.0,0.33,0.2,nan,75.0,0.33,0.2,nan
+02-04-2019,San Francisco Giants,Los Angeles Dodgers,40.0,0.0,0.2,nan,60.0,0.0,0.2,nan
+03-04-2019,San Francisco Giants,Los Angeles Dodgers,33.33,0.33,0.4,nan,66.67,0.33,0.4,nan
+12-04-2019,Milwaukee Brewers,Los Angeles Dodgers,61.54,0.0,0.2,0.5,57.14,0.0,0.2,0.5
+13-04-2019,Milwaukee Brewers,Los Angeles Dodgers,64.29,0.0,0.0,0.4,53.33,0.0,0.0,0.4
+14-04-2019,Milwaukee Brewers,Los Angeles Dodgers,66.67,0.33,0.2,0.4,50.0,0.33,0.2,0.4
+15-04-2019,Cincinnati Reds,Los Angeles Dodgers,35.71,0.33,0.6,0.4,52.94,0.33,0.6,0.4
+16-04-2019,Cincinnati Reds,Los Angeles Dodgers,33.33,0.0,0.4,0.4,55.56,0.0,0.4,0.4
+17-04-2019,Cincinnati Reds,Los Angeles Dodgers,31.25,0.0,0.2,0.4,57.89,0.0,0.2,0.4
+26-04-2019,Pittsburgh Pirates,Los Angeles Dodgers,52.17,0.0,0.0,0.4,59.26,0.0,0.0,0.4
+27-04-2019,Pittsburgh Pirates,Los Angeles Dodgers,50.0,0.0,0.0,0.3,60.71,0.0,0.0,0.3
+28-04-2019,Pittsburgh Pirates,Los Angeles Dodgers,48.0,0.0,0.0,0.2,62.07,0.0,0.0,0.2
+06-05-2019,Atlanta Braves,Los Angeles Dodgers,52.94,0.33,0.4,0.5,61.11,0.33,0.4,0.5
+07-05-2019,Atlanta Braves,Los Angeles Dodgers,51.43,0.33,0.6,0.6,62.16,0.33,0.6,0.6
+08-05-2019,Atlanta Braves,Los Angeles Dodgers,50.0,0.0,0.4,0.5,63.16,0.0,0.4,0.5
+09-05-2019,Washington Nationals,Los Angeles Dodgers,38.89,0.0,0.0,0.2,64.1,0.0,0.0,0.2
+10-05-2019,Washington Nationals,Los Angeles Dodgers,40.54,0.0,0.0,0.2,62.5,0.0,0.0,0.2
+11-05-2019,Washington Nationals,Los Angeles Dodgers,39.47,0.33,0.2,0.3,63.41,0.33,0.2,0.3
+12-05-2019,Washington Nationals,Los Angeles Dodgers,41.03,0.0,0.2,0.2,61.9,0.0,0.2,0.2
+14-05-2019,San Diego Padres,Los Angeles Dodgers,53.66,0.33,0.4,0.4,62.79,0.33,0.4,0.4
+15-05-2019,San Diego Padres,Los Angeles Dodgers,52.38,0.0,0.2,0.4,63.64,0.0,0.2,0.4
+27-05-2019,New York Mets,Los Angeles Dodgers,50.0,0.33,0.4,0.5,66.04,0.33,0.4,0.5
+28-05-2019,New York Mets,Los Angeles Dodgers,49.06,0.33,0.4,0.6,66.67,0.33,0.4,0.6
+29-05-2019,New York Mets,Los Angeles Dodgers,50.0,0.0,0.4,0.6,65.45,0.0,0.4,0.6
+30-05-2019,New York Mets,Los Angeles Dodgers,49.09,0.33,0.4,0.6,66.07,0.33,0.4,0.6
+31-05-2019,Philadelphia Phillies,Los Angeles Dodgers,58.93,0.33,0.4,0.5,66.67,0.33,0.4,0.5
+01-06-2019,Philadelphia Phillies,Los Angeles Dodgers,57.89,0.0,0.4,0.5,67.24,0.0,0.4,0.5
+02-06-2019,Philadelphia Phillies,Los Angeles Dodgers,56.9,0.0,0.2,0.5,67.8,0.0,0.2,0.5
+13-06-2019,Chicago Cubs,Los Angeles Dodgers,56.72,0.0,0.2,0.5,66.18,0.0,0.2,0.5
+14-06-2019,Chicago Cubs,Los Angeles Dodgers,55.88,0.33,0.2,0.5,66.67,0.33,0.2,0.5
+15-06-2019,Chicago Cubs,Los Angeles Dodgers,55.07,0.0,0.2,0.4,67.14,0.0,0.2,0.4
+16-06-2019,Chicago Cubs,Los Angeles Dodgers,55.71,0.0,0.2,0.4,66.2,0.0,0.2,0.4
+17-06-2019,San Francisco Giants,Los Angeles Dodgers,43.48,0.33,0.6,0.5,66.67,0.33,0.6,0.5
+18-06-2019,San Francisco Giants,Los Angeles Dodgers,44.29,0.0,0.4,0.5,65.75,0.0,0.4,0.5
+19-06-2019,San Francisco Giants,Los Angeles Dodgers,43.66,0.33,0.4,0.5,66.22,0.33,0.4,0.5
+20-06-2019,San Francisco Giants,Los Angeles Dodgers,43.06,0.0,0.2,0.5,66.67,0.0,0.2,0.5
+21-06-2019,Colorado Rockies,Los Angeles Dodgers,54.05,0.33,0.4,0.5,67.11,0.33,0.4,0.5
+22-06-2019,Colorado Rockies,Los Angeles Dodgers,53.33,0.33,0.6,0.5,67.53,0.33,0.6,0.5
+23-06-2019,Colorado Rockies,Los Angeles Dodgers,52.63,0.0,0.4,0.5,67.95,0.0,0.4,0.5
+02-07-2019,Arizona Diamondbacks,Los Angeles Dodgers,50.0,0.33,0.4,0.5,66.28,0.33,0.4,0.5
+03-07-2019,Arizona Diamondbacks,Los Angeles Dodgers,49.43,0.0,0.2,0.5,66.67,0.0,0.2,0.5
+04-07-2019,San Diego Padres,Los Angeles Dodgers,48.84,0.0,0.0,0.4,67.05,0.0,0.0,0.4
+05-07-2019,San Diego Padres,Los Angeles Dodgers,48.28,0.0,0.0,0.4,67.42,0.0,0.0,0.4
+06-07-2019,San Diego Padres,Los Angeles Dodgers,48.86,0.0,0.0,0.3,66.67,0.0,0.0,0.3
+07-07-2019,San Diego Padres,Los Angeles Dodgers,49.44,0.33,0.2,0.3,65.93,0.33,0.2,0.3
+19-07-2019,Miami Marlins,Los Angeles Dodgers,38.3,0.0,0.2,0.3,64.65,0.0,0.2,0.3
+20-07-2019,Miami Marlins,Los Angeles Dodgers,37.89,0.33,0.4,0.4,65.0,0.33,0.4,0.4
+21-07-2019,Miami Marlins,Los Angeles Dodgers,37.5,0.0,0.2,0.3,65.35,0.0,0.2,0.3
+23-07-2019,Los Angeles Angels,Los Angeles Dodgers,51.49,0.33,0.2,0.5,65.69,0.33,0.2,0.5
+24-07-2019,Los Angeles Angels,Los Angeles Dodgers,51.96,0.33,0.4,0.5,65.05,0.33,0.4,0.5
+01-08-2019,San Diego Padres,Los Angeles Dodgers,46.73,0.33,0.4,0.4,64.55,0.33,0.4,0.4
+02-08-2019,San Diego Padres,Los Angeles Dodgers,46.3,0.0,0.2,0.3,64.86,0.0,0.2,0.3
+03-08-2019,San Diego Padres,Los Angeles Dodgers,46.79,0.0,0.2,0.3,64.29,0.0,0.2,0.3
+04-08-2019,San Diego Padres,Los Angeles Dodgers,46.36,0.33,0.2,0.3,64.6,0.33,0.2,0.3
+05-08-2019,St. Louis Cardinals,Los Angeles Dodgers,52.73,0.0,0.2,0.4,64.91,0.0,0.2,0.4
+06-08-2019,St. Louis Cardinals,Los Angeles Dodgers,52.25,0.0,0.2,0.3,65.22,0.0,0.2,0.3
+07-08-2019,St. Louis Cardinals,Los Angeles Dodgers,51.79,0.0,0.0,0.2,65.52,0.0,0.0,0.2
+09-08-2019,Arizona Diamondbacks,Los Angeles Dodgers,50.43,0.33,0.4,0.4,65.81,0.33,0.4,0.4
+10-08-2019,Arizona Diamondbacks,Los Angeles Dodgers,50.86,0.33,0.4,0.5,65.25,0.33,0.4,0.5
+11-08-2019,Arizona Diamondbacks,Los Angeles Dodgers,50.43,0.33,0.6,0.5,65.55,0.33,0.6,0.5
+20-08-2019,Toronto Blue Jays,Los Angeles Dodgers,40.94,0.0,0.2,0.5,65.08,0.0,0.2,0.5
+21-08-2019,Toronto Blue Jays,Los Angeles Dodgers,40.62,0.0,0.2,0.4,65.35,0.0,0.2,0.4
+22-08-2019,Toronto Blue Jays,Los Angeles Dodgers,40.31,0.0,0.0,0.3,65.62,0.0,0.0,0.3
+23-08-2019,New York Yankees,Los Angeles Dodgers,64.34,0.0,0.0,0.4,65.89,0.0,0.0,0.4
+24-08-2019,New York Yankees,Los Angeles Dodgers,64.62,0.0,0.0,0.3,65.38,0.0,0.0,0.3
+25-08-2019,New York Yankees,Los Angeles Dodgers,64.12,0.33,0.2,0.3,65.65,0.33,0.2,0.3
+02-09-2019,Colorado Rockies,Los Angeles Dodgers,42.75,0.0,0.0,0.1,64.03,0.0,0.0,0.1
+03-09-2019,Colorado Rockies,Los Angeles Dodgers,42.45,0.0,0.0,0.1,64.29,0.0,0.0,0.1
+04-09-2019,Colorado Rockies,Los Angeles Dodgers,42.14,0.0,0.0,0.1,64.54,0.0,0.0,0.1
+06-09-2019,San Francisco Giants,Los Angeles Dodgers,47.86,0.33,0.2,0.2,64.79,0.33,0.2,0.2
+07-09-2019,San Francisco Giants,Los Angeles Dodgers,48.23,0.0,0.2,0.2,64.34,0.0,0.2,0.2
+08-09-2019,San Francisco Giants,Los Angeles Dodgers,48.59,0.33,0.4,0.3,63.89,0.33,0.4,0.3
+17-09-2019,Tampa Bay Rays,Los Angeles Dodgers,58.94,0.33,0.4,0.6,64.24,0.33,0.4,0.6
+18-09-2019,Tampa Bay Rays,Los Angeles Dodgers,58.55,0.0,0.4,0.5,64.47,0.0,0.4,0.5
+20-09-2019,Colorado Rockies,Los Angeles Dodgers,43.14,0.0,0.4,0.6,64.05,0.0,0.4,0.6
+21-09-2019,Colorado Rockies,Los Angeles Dodgers,42.86,0.0,0.2,0.5,64.29,0.0,0.2,0.5
+22-09-2019,Colorado Rockies,Los Angeles Dodgers,43.23,0.0,0.0,0.4,63.87,0.0,0.0,0.4
+28-03-2019,Colorado Rockies,Miami Marlins,0,0.33,0.4,0.4,0,0.33,0.4,0.4
+29-03-2019,Colorado Rockies,Miami Marlins,100.0,nan,nan,nan,0.0,nan,nan,nan
+30-03-2019,Colorado Rockies,Miami Marlins,100.0,0.33,nan,nan,0.0,0.33,nan,nan
+31-03-2019,Colorado Rockies,Miami Marlins,66.67,0.33,nan,nan,33.33,0.33,nan,nan
+01-04-2019,New York Mets,Miami Marlins,66.67,0.33,nan,nan,50.0,0.33,nan,nan
+02-04-2019,New York Mets,Miami Marlins,75.0,0.0,0.4,nan,40.0,0.0,0.4,nan
+03-04-2019,New York Mets,Miami Marlins,80.0,0.33,0.4,nan,33.33,0.33,0.4,nan
+12-04-2019,Philadelphia Phillies,Miami Marlins,63.64,0.0,0.4,0.5,23.08,0.0,0.4,0.5
+13-04-2019,Philadelphia Phillies,Miami Marlins,66.67,0.0,0.2,0.4,21.43,0.0,0.2,0.4
+14-04-2019,Philadelphia Phillies,Miami Marlins,61.54,0.33,0.2,0.4,26.67,0.33,0.2,0.4
+15-04-2019,Chicago Cubs,Miami Marlins,35.71,0.33,0.4,0.4,25.0,0.33,0.4,0.4
+16-04-2019,Chicago Cubs,Miami Marlins,40.0,0.0,0.4,0.4,23.53,0.0,0.4,0.4
+17-04-2019,Chicago Cubs,Miami Marlins,43.75,0.33,0.4,0.5,22.22,0.33,0.4,0.5
+19-04-2019,Washington Nationals,Miami Marlins,52.94,0.33,0.2,0.4,21.05,0.33,0.2,0.4
+20-04-2019,Washington Nationals,Miami Marlins,50.0,0.33,0.4,0.5,25.0,0.33,0.4,0.5
+21-04-2019,Washington Nationals,Miami Marlins,47.37,0.0,0.4,0.4,28.57,0.0,0.4,0.4
+30-04-2019,Cleveland Indians,Miami Marlins,55.56,0.0,0.4,0.4,28.57,0.0,0.4,0.4
+01-05-2019,Cleveland Indians,Miami Marlins,57.14,0.0,0.2,0.3,27.59,0.0,0.2,0.3
+03-05-2019,Atlanta Braves,Miami Marlins,48.39,0.33,0.4,0.4,30.0,0.33,0.4,0.4
+04-05-2019,Atlanta Braves,Miami Marlins,50.0,0.0,0.2,0.3,29.03,0.0,0.2,0.3
+05-05-2019,Atlanta Braves,Miami Marlins,51.52,0.33,0.4,0.4,28.12,0.33,0.4,0.4
+14-05-2019,Tampa Bay Rays,Miami Marlins,61.54,0.33,0.2,0.5,25.64,0.33,0.2,0.5
+15-05-2019,Tampa Bay Rays,Miami Marlins,62.5,0.0,0.2,0.4,25.0,0.0,0.2,0.4
+17-05-2019,New York Mets,Miami Marlins,47.62,0.0,0.4,0.4,24.39,0.0,0.4,0.4
+18-05-2019,New York Mets,Miami Marlins,46.51,0.0,0.2,0.4,26.19,0.0,0.2,0.4
+19-05-2019,New York Mets,Miami Marlins,45.45,0.0,0.0,0.4,27.91,0.0,0.0,0.4
+28-05-2019,San Francisco Giants,Miami Marlins,40.38,0.0,0.0,0.3,33.33,0.0,0.0,0.3
+29-05-2019,San Francisco Giants,Miami Marlins,39.62,0.0,0.0,0.2,34.62,0.0,0.0,0.2
+30-05-2019,San Francisco Giants,Miami Marlins,38.89,0.0,0.0,0.1,35.85,0.0,0.0,0.1
+07-06-2019,Atlanta Braves,Miami Marlins,53.23,0.0,0.4,0.4,38.33,0.0,0.4,0.4
+08-06-2019,Atlanta Braves,Miami Marlins,53.97,0.0,0.2,0.3,37.7,0.0,0.2,0.3
+09-06-2019,Atlanta Braves,Miami Marlins,54.69,0.33,0.2,0.4,37.1,0.33,0.2,0.4
+10-06-2019,St. Louis Cardinals,Miami Marlins,49.21,0.0,0.2,0.5,36.51,0.0,0.2,0.5
+11-06-2019,St. Louis Cardinals,Miami Marlins,50.0,0.0,0.0,0.4,35.94,0.0,0.0,0.4
+12-06-2019,St. Louis Cardinals,Miami Marlins,50.77,0.33,0.2,0.4,35.38,0.33,0.2,0.4
+14-06-2019,Pittsburgh Pirates,Miami Marlins,44.12,0.0,0.0,0.2,36.36,0.0,0.0,0.2
+15-06-2019,Pittsburgh Pirates,Miami Marlins,44.93,0.0,0.0,0.1,35.82,0.0,0.0,0.1
+16-06-2019,Pittsburgh Pirates,Miami Marlins,44.29,0.33,0.2,0.1,36.76,0.33,0.2,0.1
+25-06-2019,Washington Nationals,Miami Marlins,48.05,0.0,0.4,0.6,39.47,0.0,0.4,0.6
+26-06-2019,Washington Nationals,Miami Marlins,48.72,0.0,0.2,0.5,38.96,0.0,0.2,0.5
+27-06-2019,Washington Nationals,Miami Marlins,49.37,0.33,0.2,0.6,38.46,0.33,0.2,0.6
+28-06-2019,Philadelphia Phillies,Miami Marlins,53.09,0.33,0.6,0.3,37.97,0.33,0.6,0.3
+29-06-2019,Philadelphia Phillies,Miami Marlins,52.44,0.33,0.6,0.4,38.75,0.33,0.6,0.4
+30-06-2019,Philadelphia Phillies,Miami Marlins,51.81,0.0,0.4,0.4,39.51,0.0,0.4,0.4
+12-07-2019,New York Mets,Miami Marlins,44.44,0.33,0.2,0.3,37.5,0.33,0.2,0.3
+13-07-2019,New York Mets,Miami Marlins,43.96,0.0,0.2,0.3,38.2,0.0,0.2,0.3
+14-07-2019,New York Mets,Miami Marlins,44.57,0.0,0.2,0.3,37.78,0.0,0.2,0.3
+16-07-2019,San Diego Padres,Miami Marlins,48.39,0.0,0.2,0.3,37.36,0.0,0.2,0.3
+17-07-2019,San Diego Padres,Miami Marlins,47.87,0.0,0.0,0.3,38.04,0.0,0.0,0.3
+18-07-2019,San Diego Padres,Miami Marlins,48.42,0.0,0.0,0.3,37.63,0.0,0.0,0.3
+26-07-2019,Arizona Diamondbacks,Miami Marlins,50.49,0.0,0.2,0.4,38.0,0.0,0.2,0.4
+27-07-2019,Arizona Diamondbacks,Miami Marlins,50.0,0.33,0.4,0.4,38.61,0.33,0.4,0.4
+28-07-2019,Arizona Diamondbacks,Miami Marlins,50.48,0.0,0.2,0.3,38.24,0.0,0.2,0.3
+29-07-2019,Arizona Diamondbacks,Miami Marlins,50.0,0.33,0.4,0.4,38.83,0.33,0.4,0.4
+30-07-2019,Minnesota Twins,Miami Marlins,60.95,0.0,0.4,0.4,39.42,0.0,0.4,0.4
+31-07-2019,Minnesota Twins,Miami Marlins,61.32,0.33,0.4,0.5,39.05,0.33,0.4,0.5
+01-08-2019,Minnesota Twins,Miami Marlins,61.68,0.33,0.4,0.5,38.68,0.33,0.4,0.5
+08-08-2019,Atlanta Braves,Miami Marlins,58.62,0.33,0.2,0.5,37.17,0.33,0.2,0.5
+09-08-2019,Atlanta Braves,Miami Marlins,58.12,0.33,0.4,0.5,37.72,0.33,0.4,0.5
+10-08-2019,Atlanta Braves,Miami Marlins,58.47,0.0,0.4,0.4,37.39,0.0,0.4,0.4
+11-08-2019,Atlanta Braves,Miami Marlins,57.98,0.33,0.4,0.4,37.93,0.33,0.4,0.4
+13-08-2019,Los Angeles Dodgers,Miami Marlins,65.83,0.33,0.4,0.6,37.61,0.33,0.4,0.6
+14-08-2019,Los Angeles Dodgers,Miami Marlins,66.12,0.33,0.4,0.7,37.29,0.33,0.4,0.7
+15-08-2019,Los Angeles Dodgers,Miami Marlins,66.39,0.33,0.6,0.7,36.97,0.33,0.6,0.7
+23-08-2019,Philadelphia Phillies,Miami Marlins,52.38,0.33,0.2,0.5,35.71,0.33,0.2,0.5
+24-08-2019,Philadelphia Phillies,Miami Marlins,51.97,0.33,0.4,0.6,36.22,0.33,0.4,0.6
+25-08-2019,Philadelphia Phillies,Miami Marlins,52.34,0.0,0.4,0.5,35.94,0.0,0.4,0.5
+26-08-2019,Cincinnati Reds,Miami Marlins,46.51,0.0,0.2,0.3,36.43,0.0,0.2,0.3
+27-08-2019,Cincinnati Reds,Miami Marlins,46.92,0.0,0.0,0.3,36.15,0.0,0.0,0.3
+28-08-2019,Cincinnati Reds,Miami Marlins,47.33,0.33,0.2,0.3,35.88,0.33,0.2,0.3
+29-08-2019,Cincinnati Reds,Miami Marlins,47.73,0.33,0.4,0.4,35.61,0.33,0.4,0.4
+06-09-2019,Kansas City Royals,Miami Marlins,36.17,0.33,0.6,0.5,35.97,0.33,0.6,0.5
+07-09-2019,Kansas City Royals,Miami Marlins,36.62,0.0,0.4,0.5,35.71,0.0,0.4,0.5
+08-09-2019,Kansas City Royals,Miami Marlins,37.06,0.33,0.4,0.5,35.46,0.33,0.4,0.5
+09-09-2019,Milwaukee Brewers,Miami Marlins,52.11,0.33,0.4,0.5,35.92,0.33,0.4,0.5
+10-09-2019,Milwaukee Brewers,Miami Marlins,52.45,0.33,0.6,0.6,35.66,0.33,0.6,0.6
+11-09-2019,Milwaukee Brewers,Miami Marlins,52.78,0.33,0.6,0.6,35.42,0.33,0.6,0.6
+12-09-2019,Milwaukee Brewers,Miami Marlins,53.1,0.33,0.6,0.6,35.17,0.33,0.6,0.6
+20-09-2019,Washington Nationals,Miami Marlins,54.97,0.33,0.4,0.4,34.87,0.33,0.4,0.4
+21-09-2019,Washington Nationals,Miami Marlins,55.26,0.0,0.2,0.4,34.64,0.0,0.2,0.4
+22-09-2019,Washington Nationals,Miami Marlins,55.56,0.33,0.4,0.4,34.42,0.33,0.4,0.4
+28-03-2019,St. Louis Cardinals,Milwaukee Brewers,0,0.0,0.0,0.4,0,0.0,0.0,0.4
+29-03-2019,St. Louis Cardinals,Milwaukee Brewers,0.0,nan,nan,nan,100.0,nan,nan,nan
+30-03-2019,St. Louis Cardinals,Milwaukee Brewers,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+31-03-2019,St. Louis Cardinals,Milwaukee Brewers,33.33,0.33,nan,nan,66.67,0.33,nan,nan
+05-04-2019,Chicago Cubs,Milwaukee Brewers,16.67,0.0,0.0,nan,85.71,0.0,0.0,nan
+06-04-2019,Chicago Cubs,Milwaukee Brewers,14.29,0.0,0.0,nan,87.5,0.0,0.0,nan
+07-04-2019,Chicago Cubs,Milwaukee Brewers,25.0,0.0,0.0,nan,77.78,0.0,0.0,nan
+15-04-2019,St. Louis Cardinals,Milwaukee Brewers,60.0,0.0,0.4,0.5,62.5,0.0,0.4,0.5
+16-04-2019,St. Louis Cardinals,Milwaukee Brewers,56.25,0.33,0.4,0.6,64.71,0.33,0.4,0.6
+17-04-2019,St. Louis Cardinals,Milwaukee Brewers,52.94,0.0,0.2,0.6,66.67,0.0,0.2,0.6
+18-04-2019,Los Angeles Dodgers,Milwaukee Brewers,60.0,0.33,0.6,0.3,63.16,0.33,0.6,0.3
+19-04-2019,Los Angeles Dodgers,Milwaukee Brewers,61.9,0.33,0.6,0.4,60.0,0.33,0.6,0.4
+20-04-2019,Los Angeles Dodgers,Milwaukee Brewers,63.64,0.33,0.6,0.5,57.14,0.33,0.6,0.5
+21-04-2019,Los Angeles Dodgers,Milwaukee Brewers,60.87,0.33,0.6,0.6,59.09,0.33,0.6,0.6
+29-04-2019,Colorado Rockies,Milwaukee Brewers,46.43,0.33,0.6,0.6,51.72,0.33,0.6,0.6
+30-04-2019,Colorado Rockies,Milwaukee Brewers,44.83,0.0,0.4,0.5,53.33,0.0,0.4,0.5
+01-05-2019,Colorado Rockies,Milwaukee Brewers,43.33,0.0,0.2,0.5,54.84,0.0,0.2,0.5
+02-05-2019,Colorado Rockies,Milwaukee Brewers,45.16,0.0,0.0,0.4,53.12,0.0,0.0,0.4
+03-05-2019,New York Mets,Milwaukee Brewers,51.61,0.0,0.2,0.3,51.52,0.0,0.2,0.3
+04-05-2019,New York Mets,Milwaukee Brewers,50.0,0.33,0.4,0.3,52.94,0.33,0.4,0.3
+05-05-2019,New York Mets,Milwaukee Brewers,48.48,0.0,0.2,0.3,54.29,0.0,0.2,0.3
+06-05-2019,Washington Nationals,Milwaukee Brewers,42.42,0.33,0.4,0.3,55.56,0.33,0.4,0.3
+07-05-2019,Washington Nationals,Milwaukee Brewers,41.18,0.0,0.2,0.3,56.76,0.0,0.2,0.3
+08-05-2019,Washington Nationals,Milwaukee Brewers,40.0,0.0,0.2,0.2,57.89,0.0,0.2,0.2
+21-05-2019,Cincinnati Reds,Milwaukee Brewers,44.68,0.33,0.4,0.5,57.14,0.33,0.4,0.5
+22-05-2019,Cincinnati Reds,Milwaukee Brewers,45.83,0.0,0.2,0.4,56.0,0.0,0.2,0.4
+24-05-2019,Philadelphia Phillies,Milwaukee Brewers,58.0,0.0,0.2,0.4,56.86,0.0,0.2,0.4
+25-05-2019,Philadelphia Phillies,Milwaukee Brewers,58.82,0.33,0.2,0.5,55.77,0.33,0.2,0.5
+26-05-2019,Philadelphia Phillies,Milwaukee Brewers,59.62,0.33,0.4,0.6,54.72,0.33,0.4,0.6
+04-06-2019,Miami Marlins,Milwaukee Brewers,36.84,0.33,0.2,0.4,56.67,0.33,0.2,0.4
+05-06-2019,Miami Marlins,Milwaukee Brewers,37.93,0.33,0.4,0.5,55.74,0.33,0.4,0.5
+06-06-2019,Miami Marlins,Milwaukee Brewers,38.98,0.33,0.6,0.6,54.84,0.33,0.6,0.6
+07-06-2019,Pittsburgh Pirates,Milwaukee Brewers,49.18,0.33,0.2,0.3,55.56,0.33,0.2,0.3
+08-06-2019,Pittsburgh Pirates,Milwaukee Brewers,48.39,0.33,0.4,0.4,56.25,0.33,0.4,0.4
+09-06-2019,Pittsburgh Pirates,Milwaukee Brewers,47.62,0.0,0.4,0.3,56.92,0.0,0.4,0.3
+20-06-2019,Cincinnati Reds,Milwaukee Brewers,47.22,0.33,0.6,0.5,54.05,0.33,0.6,0.5
+21-06-2019,Cincinnati Reds,Milwaukee Brewers,47.95,0.33,0.6,0.5,53.33,0.33,0.6,0.5
+22-06-2019,Cincinnati Reds,Milwaukee Brewers,48.65,0.33,0.6,0.6,52.63,0.33,0.6,0.6
+23-06-2019,Cincinnati Reds,Milwaukee Brewers,48.0,0.33,0.6,0.6,53.25,0.33,0.6,0.6
+25-06-2019,Seattle Mariners,Milwaukee Brewers,42.68,0.0,0.4,0.4,53.85,0.0,0.4,0.4
+26-06-2019,Seattle Mariners,Milwaukee Brewers,43.37,0.33,0.4,0.5,53.16,0.33,0.4,0.5
+27-06-2019,Seattle Mariners,Milwaukee Brewers,44.05,0.33,0.4,0.5,52.5,0.33,0.4,0.5
+28-06-2019,Pittsburgh Pirates,Milwaukee Brewers,48.1,0.33,0.4,0.6,53.09,0.33,0.4,0.6
+29-06-2019,Pittsburgh Pirates,Milwaukee Brewers,48.75,0.33,0.4,0.6,52.44,0.33,0.4,0.6
+30-06-2019,Pittsburgh Pirates,Milwaukee Brewers,48.15,0.33,0.6,0.7,53.01,0.33,0.6,0.7
+12-07-2019,San Francisco Giants,Milwaukee Brewers,46.07,0.33,0.4,0.6,51.65,0.33,0.4,0.6
+13-07-2019,San Francisco Giants,Milwaukee Brewers,46.67,0.33,0.4,0.6,51.09,0.33,0.4,0.6
+14-07-2019,San Francisco Giants,Milwaukee Brewers,46.15,0.33,0.6,0.7,51.61,0.33,0.6,0.7
+15-07-2019,Atlanta Braves,Milwaukee Brewers,60.64,0.33,0.6,0.6,51.06,0.33,0.6,0.6
+16-07-2019,Atlanta Braves,Milwaukee Brewers,61.05,0.33,0.6,0.7,50.53,0.33,0.6,0.7
+17-07-2019,Atlanta Braves,Milwaukee Brewers,60.42,0.33,0.6,0.7,51.04,0.33,0.6,0.7
+22-07-2019,Cincinnati Reds,Milwaukee Brewers,45.36,0.33,0.2,0.3,52.48,0.33,0.2,0.3
+23-07-2019,Cincinnati Reds,Milwaukee Brewers,45.92,0.0,0.2,0.2,51.96,0.0,0.2,0.2
+24-07-2019,Cincinnati Reds,Milwaukee Brewers,46.46,0.33,0.4,0.3,51.46,0.33,0.4,0.3
+26-07-2019,Chicago Cubs,Milwaukee Brewers,53.92,0.0,0.0,0.4,51.92,0.0,0.0,0.4
+27-07-2019,Chicago Cubs,Milwaukee Brewers,53.4,0.33,0.2,0.5,52.38,0.33,0.2,0.5
+28-07-2019,Chicago Cubs,Milwaukee Brewers,52.88,0.0,0.2,0.4,52.83,0.0,0.2,0.4
+09-08-2019,Texas Rangers,Milwaukee Brewers,50.88,0.0,0.4,0.5,51.72,0.0,0.4,0.5
+10-08-2019,Texas Rangers,Milwaukee Brewers,50.43,0.0,0.2,0.5,52.14,0.0,0.2,0.5
+11-08-2019,Texas Rangers,Milwaukee Brewers,50.0,0.0,0.0,0.5,52.54,0.0,0.0,0.5
+13-08-2019,Minnesota Twins,Milwaukee Brewers,60.17,0.33,0.2,0.4,52.1,0.33,0.2,0.4
+14-08-2019,Minnesota Twins,Milwaukee Brewers,60.5,0.0,0.2,0.3,51.67,0.0,0.2,0.3
+23-08-2019,Arizona Diamondbacks,Milwaukee Brewers,50.0,0.33,0.6,0.4,51.18,0.33,0.6,0.4
+24-08-2019,Arizona Diamondbacks,Milwaukee Brewers,49.61,0.0,0.4,0.3,51.56,0.0,0.4,0.3
+25-08-2019,Arizona Diamondbacks,Milwaukee Brewers,49.23,0.0,0.2,0.3,51.94,0.0,0.2,0.3
+26-08-2019,St. Louis Cardinals,Milwaukee Brewers,55.04,0.33,0.6,0.6,51.54,0.33,0.6,0.6
+27-08-2019,St. Louis Cardinals,Milwaukee Brewers,55.38,0.33,0.6,0.7,51.15,0.33,0.6,0.7
+28-08-2019,St. Louis Cardinals,Milwaukee Brewers,55.73,0.33,0.6,0.7,50.76,0.33,0.6,0.7
+02-09-2019,Houston Astros,Milwaukee Brewers,64.49,0.0,0.2,0.6,51.47,0.0,0.2,0.6
+03-09-2019,Houston Astros,Milwaukee Brewers,64.75,0.33,0.4,0.6,51.09,0.33,0.4,0.6
+05-09-2019,Chicago Cubs,Milwaukee Brewers,54.35,0.33,0.2,0.5,51.45,0.33,0.2,0.5
+06-09-2019,Chicago Cubs,Milwaukee Brewers,54.68,0.33,0.4,0.6,51.08,0.33,0.4,0.6
+07-09-2019,Chicago Cubs,Milwaukee Brewers,54.29,0.33,0.6,0.6,51.43,0.33,0.6,0.6
+08-09-2019,Chicago Cubs,Milwaukee Brewers,53.9,0.0,0.4,0.5,51.77,0.0,0.4,0.5
+16-09-2019,San Diego Padres,Milwaukee Brewers,45.64,0.0,0.0,0.4,53.69,0.0,0.0,0.4
+17-09-2019,San Diego Padres,Milwaukee Brewers,45.33,0.0,0.0,0.3,54.0,0.0,0.0,0.3
+18-09-2019,San Diego Padres,Milwaukee Brewers,45.03,0.0,0.0,0.2,54.3,0.0,0.0,0.2
+19-09-2019,San Diego Padres,Milwaukee Brewers,45.39,0.0,0.0,0.2,53.95,0.0,0.0,0.2
+20-09-2019,Pittsburgh Pirates,Milwaukee Brewers,42.48,0.0,0.0,0.2,54.25,0.0,0.0,0.2
+21-09-2019,Pittsburgh Pirates,Milwaukee Brewers,42.21,0.0,0.0,0.2,54.55,0.0,0.0,0.2
+22-09-2019,Pittsburgh Pirates,Milwaukee Brewers,41.94,0.0,0.0,0.1,54.84,0.0,0.0,0.1
+28-03-2019,Cleveland Indians,Minnesota Twins,0,0.0,0.0,0.3,0,0.0,0.0,0.3
+30-03-2019,Cleveland Indians,Minnesota Twins,0.0,nan,nan,nan,100.0,nan,nan,nan
+31-03-2019,Cleveland Indians,Minnesota Twins,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+13-04-2019,Detroit Tigers,Minnesota Twins,61.54,0.33,0.4,0.6,60.0,0.33,0.4,0.6
+14-04-2019,Detroit Tigers,Minnesota Twins,57.14,0.0,0.2,0.6,63.64,0.0,0.2,0.6
+15-04-2019,Toronto Blue Jays,Minnesota Twins,31.25,0.33,0.2,0.2,66.67,0.33,0.2,0.2
+16-04-2019,Toronto Blue Jays,Minnesota Twins,35.29,0.0,0.2,0.2,61.54,0.0,0.2,0.2
+17-04-2019,Toronto Blue Jays,Minnesota Twins,38.89,0.33,0.4,0.3,57.14,0.33,0.4,0.3
+18-04-2019,Toronto Blue Jays,Minnesota Twins,36.84,0.33,0.4,0.4,60.0,0.33,0.4,0.4
+26-04-2019,Baltimore Orioles,Minnesota Twins,38.46,0.33,0.2,0.2,59.09,0.33,0.2,0.2
+27-04-2019,Baltimore Orioles,Minnesota Twins,37.04,0.33,0.4,0.3,60.87,0.33,0.4,0.3
+28-04-2019,Baltimore Orioles,Minnesota Twins,35.71,0.0,0.4,0.3,62.5,0.0,0.4,0.3
+29-04-2019,Houston Astros,Minnesota Twins,60.71,0.33,0.2,0.3,64.0,0.33,0.2,0.3
+30-04-2019,Houston Astros,Minnesota Twins,58.62,0.33,0.4,0.4,65.38,0.33,0.4,0.4
+01-05-2019,Houston Astros,Minnesota Twins,60.0,0.0,0.4,0.4,62.96,0.0,0.4,0.4
+02-05-2019,Houston Astros,Minnesota Twins,58.06,0.33,0.4,0.5,64.29,0.33,0.4,0.5
+10-05-2019,Detroit Tigers,Minnesota Twins,47.06,0.33,0.4,0.4,65.71,0.33,0.4,0.4
+12-05-2019,Detroit Tigers,Minnesota Twins,45.95,0.33,0.2,0.4,65.79,0.33,0.2,0.4
+13-05-2019,Los Angeles Angels,Minnesota Twins,47.5,0.33,0.6,0.5,64.1,0.33,0.6,0.5
+14-05-2019,Los Angeles Angels,Minnesota Twins,48.78,0.0,0.4,0.4,62.5,0.0,0.4,0.4
+15-05-2019,Los Angeles Angels,Minnesota Twins,47.62,0.33,0.4,0.5,63.41,0.33,0.4,0.5
+24-05-2019,Chicago White Sox,Minnesota Twins,46.94,0.33,0.2,0.3,67.35,0.33,0.2,0.3
+25-05-2019,Chicago White Sox,Minnesota Twins,46.0,0.33,0.4,0.4,68.0,0.33,0.4,0.4
+26-05-2019,Chicago White Sox,Minnesota Twins,45.1,0.0,0.4,0.3,68.63,0.0,0.4,0.3
+27-05-2019,Milwaukee Brewers,Minnesota Twins,55.56,0.0,0.2,0.3,69.23,0.0,0.2,0.3
+28-05-2019,Milwaukee Brewers,Minnesota Twins,56.36,0.33,0.2,0.3,67.92,0.33,0.2,0.3
+11-06-2019,Seattle Mariners,Minnesota Twins,40.58,0.0,0.2,0.2,67.19,0.0,0.2,0.2
+12-06-2019,Seattle Mariners,Minnesota Twins,40.0,0.33,0.4,0.3,67.69,0.33,0.4,0.3
+13-06-2019,Seattle Mariners,Minnesota Twins,40.85,0.0,0.2,0.3,66.67,0.0,0.2,0.3
+14-06-2019,Kansas City Royals,Minnesota Twins,32.35,0.0,0.2,0.2,67.16,0.0,0.2,0.2
+15-06-2019,Kansas City Royals,Minnesota Twins,31.88,0.33,0.4,0.3,67.65,0.33,0.4,0.3
+16-06-2019,Kansas City Royals,Minnesota Twins,31.43,0.0,0.2,0.3,68.12,0.0,0.2,0.3
+17-06-2019,Boston Red Sox,Minnesota Twins,53.42,0.33,0.6,0.5,67.14,0.33,0.6,0.5
+18-06-2019,Boston Red Sox,Minnesota Twins,54.05,0.33,0.6,0.5,66.2,0.33,0.6,0.5
+19-06-2019,Boston Red Sox,Minnesota Twins,53.33,0.33,0.6,0.6,66.67,0.33,0.6,0.6
+25-06-2019,Tampa Bay Rays,Minnesota Twins,57.69,0.0,0.2,0.2,64.94,0.0,0.2,0.2
+26-06-2019,Tampa Bay Rays,Minnesota Twins,56.96,0.33,0.4,0.3,65.38,0.33,0.4,0.3
+27-06-2019,Tampa Bay Rays,Minnesota Twins,56.25,0.0,0.2,0.2,65.82,0.0,0.2,0.2
+05-07-2019,Texas Rangers,Minnesota Twins,54.02,0.0,0.0,0.4,62.79,0.0,0.0,0.4
+06-07-2019,Texas Rangers,Minnesota Twins,53.41,0.33,0.2,0.4,63.22,0.33,0.2,0.4
+07-07-2019,Texas Rangers,Minnesota Twins,52.81,0.0,0.2,0.3,63.64,0.0,0.2,0.3
+16-07-2019,New York Mets,Minnesota Twins,45.16,0.33,0.2,0.4,63.04,0.33,0.2,0.4
+17-07-2019,New York Mets,Minnesota Twins,45.74,0.33,0.4,0.4,62.37,0.33,0.4,0.4
+18-07-2019,Oakland Athletics,Minnesota Twins,57.73,0.33,0.6,0.7,61.7,0.33,0.6,0.7
+19-07-2019,Oakland Athletics,Minnesota Twins,57.14,0.33,0.6,0.7,62.11,0.33,0.6,0.7
+20-07-2019,Oakland Athletics,Minnesota Twins,57.58,0.0,0.4,0.6,61.46,0.0,0.4,0.6
+21-07-2019,Oakland Athletics,Minnesota Twins,58.0,0.33,0.4,0.7,60.82,0.33,0.4,0.7
+22-07-2019,New York Yankees,Minnesota Twins,65.31,0.33,0.6,0.6,61.22,0.33,0.6,0.6
+23-07-2019,New York Yankees,Minnesota Twins,64.65,0.0,0.4,0.6,61.62,0.0,0.4,0.6
+24-07-2019,New York Yankees,Minnesota Twins,65.0,0.0,0.2,0.5,61.0,0.0,0.2,0.5
+02-08-2019,Kansas City Royals,Minnesota Twins,36.36,0.0,0.2,0.3,61.11,0.0,0.2,0.3
+03-08-2019,Kansas City Royals,Minnesota Twins,36.04,0.0,0.0,0.2,61.47,0.0,0.0,0.2
+04-08-2019,Kansas City Royals,Minnesota Twins,35.71,0.0,0.0,0.1,61.82,0.0,0.0,0.1
+05-08-2019,Atlanta Braves,Minnesota Twins,58.41,0.33,0.4,0.5,62.16,0.33,0.4,0.5
+06-08-2019,Atlanta Braves,Minnesota Twins,57.89,0.0,0.2,0.4,62.5,0.0,0.2,0.4
+07-08-2019,Atlanta Braves,Minnesota Twins,58.26,0.0,0.2,0.4,61.95,0.0,0.2,0.4
+08-08-2019,Cleveland Indians,Minnesota Twins,59.65,0.33,0.4,0.5,61.4,0.33,0.4,0.5
+09-08-2019,Cleveland Indians,Minnesota Twins,60.0,0.33,0.4,0.6,60.87,0.33,0.4,0.6
+10-08-2019,Cleveland Indians,Minnesota Twins,60.34,0.33,0.6,0.6,60.34,0.33,0.6,0.6
+11-08-2019,Cleveland Indians,Minnesota Twins,59.83,0.33,0.6,0.7,60.68,0.33,0.6,0.7
+19-08-2019,Chicago White Sox,Minnesota Twins,44.72,0.0,0.2,0.4,61.29,0.0,0.2,0.4
+20-08-2019,Chicago White Sox,Minnesota Twins,45.16,0.0,0.2,0.3,60.8,0.0,0.2,0.3
+21-08-2019,Chicago White Sox,Minnesota Twins,44.8,0.33,0.2,0.4,61.11,0.33,0.2,0.4
+23-08-2019,Detroit Tigers,Minnesota Twins,30.16,0.33,0.2,0.3,60.63,0.33,0.2,0.3
+24-08-2019,Detroit Tigers,Minnesota Twins,30.71,0.0,0.2,0.2,60.16,0.0,0.2,0.2
+25-08-2019,Detroit Tigers,Minnesota Twins,30.47,0.33,0.4,0.3,60.47,0.33,0.4,0.3
+06-09-2019,Cleveland Indians,Minnesota Twins,57.45,0.33,0.4,0.4,62.14,0.33,0.4,0.4
+07-09-2019,Cleveland Indians,Minnesota Twins,57.75,0.0,0.2,0.3,61.7,0.0,0.2,0.3
+08-09-2019,Cleveland Indians,Minnesota Twins,57.34,0.33,0.4,0.3,61.97,0.33,0.4,0.3
+10-09-2019,Washington Nationals,Minnesota Twins,55.63,0.0,0.0,0.3,61.54,0.0,0.0,0.3
+11-09-2019,Washington Nationals,Minnesota Twins,55.24,0.33,0.2,0.3,61.81,0.33,0.2,0.3
+12-09-2019,Washington Nationals,Minnesota Twins,55.56,0.0,0.2,0.2,61.38,0.0,0.2,0.2
+16-09-2019,Chicago White Sox,Minnesota Twins,43.62,0.0,0.2,0.3,61.07,0.0,0.2,0.3
+17-09-2019,Chicago White Sox,Minnesota Twins,43.33,0.0,0.2,0.3,61.33,0.0,0.2,0.3
+18-09-2019,Chicago White Sox,Minnesota Twins,43.05,0.0,0.0,0.3,61.59,0.0,0.0,0.3
+19-09-2019,Kansas City Royals,Minnesota Twins,36.6,0.0,0.2,0.3,61.18,0.0,0.2,0.3
+20-09-2019,Kansas City Royals,Minnesota Twins,36.36,0.0,0.2,0.3,61.44,0.0,0.2,0.3
+21-09-2019,Kansas City Royals,Minnesota Twins,36.13,0.0,0.0,0.2,61.69,0.0,0.0,0.2
+22-09-2019,Kansas City Royals,Minnesota Twins,36.54,0.0,0.0,0.1,61.29,0.0,0.0,0.1
+28-03-2019,Baltimore Orioles,New York Yankees,0,0.33,0.4,0.5,0,0.33,0.4,0.5
+30-03-2019,Baltimore Orioles,New York Yankees,0.0,nan,nan,nan,100.0,nan,nan,nan
+31-03-2019,Baltimore Orioles,New York Yankees,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+01-04-2019,Detroit Tigers,New York Yankees,50.0,0.0,0.2,nan,33.33,0.0,0.2,nan
+02-04-2019,Detroit Tigers,New York Yankees,40.0,0.33,0.2,nan,50.0,0.33,0.2,nan
+03-04-2019,Detroit Tigers,New York Yankees,50.0,0.0,0.2,nan,40.0,0.0,0.2,nan
+12-04-2019,Chicago White Sox,New York Yankees,27.27,0.0,0.0,0.3,41.67,0.0,0.0,0.3
+13-04-2019,Chicago White Sox,New York Yankees,33.33,0.0,0.0,0.2,38.46,0.0,0.0,0.2
+14-04-2019,Chicago White Sox,New York Yankees,30.77,0.33,0.2,0.3,42.86,0.33,0.2,0.3
+16-04-2019,Boston Red Sox,New York Yankees,35.29,0.33,0.4,0.4,40.0,0.33,0.4,0.4
+17-04-2019,Boston Red Sox,New York Yankees,33.33,0.0,0.2,0.4,43.75,0.0,0.2,0.4
+18-04-2019,Kansas City Royals,New York Yankees,33.33,0.0,0.2,0.3,47.06,0.0,0.2,0.3
+19-04-2019,Kansas City Royals,New York Yankees,36.84,0.33,0.2,0.4,44.44,0.33,0.2,0.4
+20-04-2019,Kansas City Royals,New York Yankees,35.0,0.33,0.4,0.5,47.37,0.33,0.4,0.5
+21-04-2019,Kansas City Royals,New York Yankees,33.33,0.0,0.4,0.5,50.0,0.0,0.4,0.5
+03-05-2019,Minnesota Twins,New York Yankees,65.52,0.33,0.4,0.5,56.67,0.33,0.4,0.5
+04-05-2019,Minnesota Twins,New York Yankees,63.33,0.33,0.4,0.6,58.06,0.33,0.4,0.6
+05-05-2019,Minnesota Twins,New York Yankees,64.52,0.0,0.4,0.6,56.25,0.0,0.4,0.6
+06-05-2019,Seattle Mariners,New York Yankees,52.78,0.0,0.0,0.2,57.58,0.0,0.0,0.2
+07-05-2019,Seattle Mariners,New York Yankees,51.35,0.33,0.2,0.2,58.82,0.33,0.2,0.2
+08-05-2019,Seattle Mariners,New York Yankees,50.0,0.0,0.2,0.1,60.0,0.0,0.2,0.1
+09-05-2019,Seattle Mariners,New York Yankees,51.28,0.0,0.2,0.1,58.33,0.0,0.2,0.1
+17-05-2019,Tampa Bay Rays,New York Yankees,63.41,0.33,0.4,0.4,61.9,0.33,0.4,0.4
+18-05-2019,Tampa Bay Rays,New York Yankees,61.9,0.33,0.4,0.5,62.79,0.33,0.4,0.5
+19-05-2019,Tampa Bay Rays,New York Yankees,62.79,0.0,0.4,0.4,61.36,0.0,0.4,0.4
+27-05-2019,San Diego Padres,New York Yankees,52.83,0.33,0.6,0.5,65.38,0.33,0.6,0.5
+28-05-2019,San Diego Padres,New York Yankees,51.85,0.0,0.4,0.5,66.04,0.0,0.4,0.5
+29-05-2019,San Diego Padres,New York Yankees,52.73,0.0,0.2,0.5,64.81,0.0,0.2,0.5
+31-05-2019,Boston Red Sox,New York Yankees,51.79,0.0,0.4,0.4,65.45,0.0,0.4,0.4
+01-06-2019,Boston Red Sox,New York Yankees,50.88,0.0,0.2,0.4,66.07,0.0,0.2,0.4
+02-06-2019,Boston Red Sox,New York Yankees,50.0,0.0,0.0,0.3,66.67,0.0,0.0,0.3
+17-06-2019,Tampa Bay Rays,New York Yankees,60.56,0.0,0.2,0.3,61.43,0.0,0.2,0.3
+18-06-2019,Tampa Bay Rays,New York Yankees,59.72,0.33,0.4,0.4,61.97,0.33,0.4,0.4
+19-06-2019,Tampa Bay Rays,New York Yankees,58.9,0.0,0.2,0.3,62.5,0.0,0.2,0.3
+20-06-2019,Houston Astros,New York Yankees,64.0,0.0,0.0,0.4,63.01,0.0,0.0,0.4
+21-06-2019,Houston Astros,New York Yankees,63.16,0.0,0.0,0.3,63.51,0.0,0.0,0.3
+22-06-2019,Houston Astros,New York Yankees,62.34,0.0,0.0,0.2,64.0,0.0,0.0,0.2
+23-06-2019,Houston Astros,New York Yankees,61.54,0.0,0.0,0.2,64.47,0.0,0.0,0.2
+24-06-2019,Toronto Blue Jays,New York Yankees,37.18,0.33,0.4,0.3,63.64,0.33,0.4,0.3
+25-06-2019,Toronto Blue Jays,New York Yankees,36.71,0.33,0.4,0.4,64.1,0.33,0.4,0.4
+26-06-2019,Toronto Blue Jays,New York Yankees,36.25,0.0,0.4,0.3,64.56,0.0,0.4,0.3
+12-07-2019,Toronto Blue Jays,New York Yankees,37.36,0.0,0.0,0.3,64.77,0.0,0.0,0.3
+13-07-2019,Toronto Blue Jays,New York Yankees,36.96,0.33,0.2,0.3,65.17,0.33,0.2,0.3
+14-07-2019,Toronto Blue Jays,New York Yankees,37.63,0.0,0.2,0.3,64.44,0.0,0.2,0.3
+15-07-2019,Tampa Bay Rays,New York Yankees,57.89,0.33,0.4,0.4,64.84,0.33,0.4,0.4
+16-07-2019,Tampa Bay Rays,New York Yankees,58.33,0.33,0.4,0.5,64.13,0.33,0.4,0.5
+19-07-2019,Colorado Rockies,New York Yankees,47.92,0.0,0.0,0.2,65.26,0.0,0.0,0.2
+20-07-2019,Colorado Rockies,New York Yankees,47.42,0.0,0.0,0.2,65.62,0.0,0.0,0.2
+21-07-2019,Colorado Rockies,New York Yankees,46.94,0.0,0.0,0.2,65.98,0.0,0.0,0.2
+30-07-2019,Arizona Diamondbacks,New York Yankees,49.53,0.0,0.2,0.3,63.81,0.0,0.2,0.3
+31-07-2019,Arizona Diamondbacks,New York Yankees,50.0,0.0,0.2,0.3,63.21,0.0,0.2,0.3
+02-08-2019,Boston Red Sox,New York Yankees,53.64,0.0,0.0,0.4,63.55,0.0,0.0,0.4
+04-08-2019,Boston Red Sox,New York Yankees,52.21,0.0,0.0,0.2,64.55,0.0,0.0,0.2
+13-08-2019,Baltimore Orioles,New York Yankees,32.77,0.0,0.2,0.2,65.83,0.0,0.2,0.2
+14-08-2019,Baltimore Orioles,New York Yankees,32.5,0.0,0.2,0.1,66.12,0.0,0.2,0.1
+15-08-2019,Cleveland Indians,New York Yankees,59.5,0.0,0.4,0.6,66.39,0.0,0.4,0.6
+16-08-2019,Cleveland Indians,New York Yankees,59.84,0.0,0.2,0.5,65.85,0.0,0.2,0.5
+17-08-2019,Cleveland Indians,New York Yankees,59.35,0.33,0.2,0.5,66.13,0.33,0.2,0.5
+18-08-2019,Cleveland Indians,New York Yankees,58.87,0.0,0.2,0.4,66.4,0.0,0.2,0.4
+30-08-2019,Oakland Athletics,New York Yankees,58.21,0.0,0.4,0.5,65.19,0.0,0.4,0.5
+31-08-2019,Oakland Athletics,New York Yankees,58.52,0.33,0.4,0.5,64.71,0.33,0.4,0.5
+01-09-2019,Oakland Athletics,New York Yankees,58.09,0.33,0.4,0.5,64.96,0.33,0.4,0.5
+02-09-2019,Texas Rangers,New York Yankees,48.55,0.33,0.4,0.4,65.22,0.33,0.4,0.4
+03-09-2019,Texas Rangers,New York Yankees,48.92,0.0,0.4,0.4,64.75,0.0,0.4,0.4
+04-09-2019,Texas Rangers,New York Yankees,48.57,0.33,0.4,0.4,65.0,0.33,0.4,0.4
+17-09-2019,Los Angeles Angels,New York Yankees,45.33,0.0,0.0,0.2,64.9,0.0,0.0,0.2
+18-09-2019,Los Angeles Angels,New York Yankees,45.03,0.33,0.2,0.2,65.13,0.33,0.2,0.2
+19-09-2019,Los Angeles Angels,New York Yankees,45.39,0.0,0.2,0.1,64.71,0.0,0.2,0.1
+20-09-2019,Toronto Blue Jays,New York Yankees,40.52,0.33,0.6,0.6,64.94,0.33,0.6,0.6
+21-09-2019,Toronto Blue Jays,New York Yankees,40.91,0.33,0.6,0.6,64.52,0.33,0.6,0.6
+22-09-2019,Toronto Blue Jays,New York Yankees,40.65,0.33,0.6,0.6,64.74,0.33,0.6,0.6
+04-04-2019,Washington Nationals,New York Mets,40.0,0.0,0.2,nan,83.33,0.0,0.2,nan
+06-04-2019,Washington Nationals,New York Mets,50.0,0.33,0.4,nan,71.43,0.33,0.4,nan
+07-04-2019,Washington Nationals,New York Mets,42.86,0.33,0.4,nan,75.0,0.33,0.4,nan
+09-04-2019,Minnesota Twins,New York Mets,62.5,0.33,0.4,nan,66.67,0.33,0.4,nan
+10-04-2019,Minnesota Twins,New York Mets,66.67,0.0,0.2,0.5,60.0,0.0,0.2,0.5
+22-04-2019,Philadelphia Phillies,New York Mets,57.14,0.33,0.2,0.4,52.38,0.33,0.2,0.4
+23-04-2019,Philadelphia Phillies,New York Mets,54.55,0.0,0.2,0.4,54.55,0.0,0.2,0.4
+24-04-2019,Philadelphia Phillies,New York Mets,52.17,0.0,0.2,0.3,56.52,0.0,0.2,0.3
+26-04-2019,Milwaukee Brewers,New York Mets,50.0,0.0,0.0,0.2,54.17,0.0,0.0,0.2
+27-04-2019,Milwaukee Brewers,New York Mets,51.85,0.0,0.0,0.1,52.0,0.0,0.0,0.1
+28-04-2019,Milwaukee Brewers,New York Mets,53.57,0.33,0.2,0.2,50.0,0.33,0.2,0.2
+29-04-2019,Cincinnati Reds,New York Mets,40.74,0.0,0.4,0.5,51.85,0.0,0.4,0.5
+30-04-2019,Cincinnati Reds,New York Mets,42.86,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+01-05-2019,Cincinnati Reds,New York Mets,41.38,0.33,0.2,0.4,51.72,0.33,0.2,0.4
+02-05-2019,Cincinnati Reds,New York Mets,43.33,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+10-05-2019,Miami Marlins,New York Mets,27.03,0.0,0.2,0.2,45.95,0.0,0.2,0.2
+11-05-2019,Miami Marlins,New York Mets,26.32,0.0,0.0,0.2,47.37,0.0,0.0,0.2
+20-05-2019,Washington Nationals,New York Mets,41.3,0.33,0.4,0.4,44.44,0.33,0.4,0.4
+21-05-2019,Washington Nationals,New York Mets,40.43,0.0,0.2,0.4,45.65,0.0,0.2,0.4
+22-05-2019,Washington Nationals,New York Mets,39.58,0.0,0.2,0.3,46.81,0.0,0.2,0.3
+23-05-2019,Washington Nationals,New York Mets,38.78,0.0,0.0,0.3,47.92,0.0,0.0,0.3
+24-05-2019,Detroit Tigers,New York Mets,37.5,0.0,0.0,0.0,48.98,0.0,0.0,0.0
+25-05-2019,Detroit Tigers,New York Mets,38.78,0.0,0.0,0.0,48.0,0.0,0.0,0.0
+26-05-2019,Detroit Tigers,New York Mets,38.0,0.33,0.2,0.1,49.02,0.33,0.2,0.1
+04-06-2019,San Francisco Giants,New York Mets,41.38,0.33,0.4,0.2,47.46,0.33,0.4,0.2
+05-06-2019,San Francisco Giants,New York Mets,42.37,0.33,0.4,0.3,46.67,0.33,0.4,0.3
+06-06-2019,San Francisco Giants,New York Mets,41.67,0.33,0.6,0.4,47.54,0.33,0.6,0.4
+07-06-2019,Colorado Rockies,New York Mets,52.46,0.0,0.2,0.6,48.39,0.0,0.2,0.6
+08-06-2019,Colorado Rockies,New York Mets,53.23,0.33,0.2,0.6,47.62,0.33,0.2,0.6
+09-06-2019,Colorado Rockies,New York Mets,52.38,0.33,0.4,0.6,48.44,0.33,0.4,0.6
+13-06-2019,St. Louis Cardinals,New York Mets,50.0,0.33,0.4,0.4,49.25,0.33,0.4,0.4
+14-06-2019,St. Louis Cardinals,New York Mets,50.75,0.0,0.4,0.3,48.53,0.0,0.4,0.3
+15-06-2019,St. Louis Cardinals,New York Mets,51.47,0.33,0.4,0.4,47.83,0.33,0.4,0.4
+16-06-2019,St. Louis Cardinals,New York Mets,50.72,0.33,0.4,0.4,48.57,0.33,0.4,0.4
+28-06-2019,Atlanta Braves,New York Mets,58.54,0.33,0.4,0.5,45.12,0.33,0.4,0.5
+29-06-2019,Atlanta Braves,New York Mets,59.04,0.0,0.4,0.5,44.58,0.0,0.4,0.5
+30-06-2019,Atlanta Braves,New York Mets,59.52,0.33,0.4,0.5,44.05,0.33,0.4,0.5
+02-07-2019,New York Yankees,New York Mets,65.85,0.33,0.6,0.7,44.71,0.33,0.6,0.7
+03-07-2019,New York Yankees,New York Mets,65.06,0.33,0.6,0.7,45.35,0.33,0.6,0.7
+05-07-2019,Philadelphia Phillies,New York Mets,51.72,0.0,0.4,0.5,44.83,0.0,0.4,0.5
+06-07-2019,Philadelphia Phillies,New York Mets,52.27,0.0,0.2,0.4,44.32,0.0,0.2,0.4
+07-07-2019,Philadelphia Phillies,New York Mets,51.69,0.33,0.2,0.4,44.94,0.33,0.2,0.4
+23-07-2019,San Diego Padres,New York Mets,47.47,0.0,0.0,0.1,45.45,0.0,0.0,0.1
+24-07-2019,San Diego Padres,New York Mets,47.0,0.33,0.2,0.2,46.0,0.33,0.2,0.2
+25-07-2019,San Diego Padres,New York Mets,47.52,0.0,0.2,0.2,45.54,0.0,0.2,0.2
+26-07-2019,Pittsburgh Pirates,New York Mets,45.1,0.0,0.0,0.2,46.08,0.0,0.0,0.2
+27-07-2019,Pittsburgh Pirates,New York Mets,44.66,0.0,0.0,0.1,46.6,0.0,0.0,0.1
+28-07-2019,Pittsburgh Pirates,New York Mets,44.23,0.0,0.0,0.1,47.12,0.0,0.0,0.1
+06-08-2019,Miami Marlins,New York Mets,37.84,0.0,0.0,0.3,50.44,0.0,0.0,0.3
+07-08-2019,Miami Marlins,New York Mets,37.5,0.0,0.0,0.2,50.88,0.0,0.0,0.2
+09-08-2019,Washington Nationals,New York Mets,53.51,0.33,0.4,0.4,51.3,0.33,0.4,0.4
+10-08-2019,Washington Nationals,New York Mets,53.04,0.33,0.6,0.4,51.72,0.33,0.6,0.4
+11-08-2019,Washington Nationals,New York Mets,52.59,0.0,0.4,0.4,52.14,0.0,0.4,0.4
+20-08-2019,Cleveland Indians,New York Mets,59.2,0.0,0.2,0.3,51.61,0.0,0.2,0.3
+21-08-2019,Cleveland Indians,New York Mets,58.73,0.33,0.2,0.4,52.0,0.33,0.2,0.4
+22-08-2019,Cleveland Indians,New York Mets,58.27,0.0,0.2,0.3,52.38,0.0,0.2,0.3
+23-08-2019,Atlanta Braves,New York Mets,59.69,0.33,0.6,0.6,52.76,0.33,0.6,0.6
+24-08-2019,Atlanta Braves,New York Mets,60.0,0.33,0.6,0.6,52.34,0.33,0.6,0.6
+25-08-2019,Atlanta Braves,New York Mets,60.31,0.33,0.6,0.6,51.94,0.33,0.6,0.6
+27-08-2019,Chicago Cubs,New York Mets,53.08,0.0,0.2,0.5,51.54,0.0,0.2,0.5
+28-08-2019,Chicago Cubs,New York Mets,53.44,0.0,0.0,0.5,51.15,0.0,0.0,0.5
+29-08-2019,Chicago Cubs,New York Mets,53.79,0.33,0.2,0.5,50.76,0.33,0.2,0.5
+06-09-2019,Philadelphia Phillies,New York Mets,51.8,0.0,0.4,0.4,51.08,0.0,0.4,0.4
+07-09-2019,Philadelphia Phillies,New York Mets,51.43,0.0,0.2,0.4,51.43,0.0,0.2,0.4
+08-09-2019,Philadelphia Phillies,New York Mets,51.77,0.0,0.0,0.3,51.06,0.0,0.0,0.3
+09-09-2019,Arizona Diamondbacks,New York Mets,52.45,0.33,0.6,0.7,50.7,0.33,0.6,0.7
+10-09-2019,Arizona Diamondbacks,New York Mets,52.08,0.0,0.4,0.6,51.05,0.0,0.4,0.6
+11-09-2019,Arizona Diamondbacks,New York Mets,51.72,0.0,0.2,0.5,51.39,0.0,0.2,0.5
+12-09-2019,Arizona Diamondbacks,New York Mets,51.37,0.0,0.0,0.5,51.72,0.0,0.0,0.5
+13-09-2019,Los Angeles Dodgers,New York Mets,64.19,0.0,0.4,0.5,52.05,0.0,0.4,0.5
+14-09-2019,Los Angeles Dodgers,New York Mets,64.43,0.33,0.4,0.5,51.7,0.33,0.4,0.5
+15-09-2019,Los Angeles Dodgers,New York Mets,64.0,0.33,0.4,0.5,52.03,0.33,0.4,0.5
+23-09-2019,Miami Marlins,New York Mets,34.84,0.0,0.0,0.2,52.26,0.0,0.0,0.2
+24-09-2019,Miami Marlins,New York Mets,35.26,0.33,0.2,0.3,51.92,0.33,0.2,0.3
+25-09-2019,Miami Marlins,New York Mets,35.03,0.33,0.4,0.3,52.23,0.33,0.4,0.3
+26-09-2019,Miami Marlins,New York Mets,34.81,0.0,0.4,0.3,52.53,0.0,0.4,0.3
+27-09-2019,Atlanta Braves,New York Mets,61.01,0.0,0.2,0.3,52.2,0.0,0.2,0.3
+28-09-2019,Atlanta Braves,New York Mets,60.62,0.33,0.2,0.4,52.5,0.33,0.2,0.4
+29-09-2019,Atlanta Braves,New York Mets,60.25,0.0,0.2,0.4,52.8,0.0,0.2,0.4
+20-03-2019,Seattle Mariners,Oakland Athletics,0,0.0,0.2,0.2,0,0.0,0.2,0.2
+21-03-2019,Seattle Mariners,Oakland Athletics,100.0,nan,nan,nan,0.0,nan,nan,nan
+28-03-2019,Los Angeles Angels,Oakland Athletics,0,0.0,0.2,0.3,0.0,0.0,0.2,0.3
+29-03-2019,Los Angeles Angels,Oakland Athletics,0.0,nan,nan,nan,33.33,nan,nan,nan
+30-03-2019,Los Angeles Angels,Oakland Athletics,50.0,0.0,nan,nan,25.0,0.0,nan,nan
+31-03-2019,Los Angeles Angels,Oakland Athletics,33.33,0.33,nan,nan,40.0,0.33,nan,nan
+01-04-2019,Boston Red Sox,Oakland Athletics,25.0,0.0,0.2,nan,50.0,0.0,0.2,nan
+02-04-2019,Boston Red Sox,Oakland Athletics,20.0,0.0,0.2,nan,57.14,0.0,0.2,nan
+03-04-2019,Boston Red Sox,Oakland Athletics,16.67,0.0,0.0,nan,62.5,0.0,0.0,nan
+04-04-2019,Boston Red Sox,Oakland Athletics,28.57,0.0,0.0,nan,55.56,0.0,0.0,nan
+16-04-2019,Houston Astros,Oakland Athletics,68.75,0.33,0.6,0.8,52.63,0.33,0.6,0.8
+17-04-2019,Houston Astros,Oakland Athletics,70.59,0.33,0.6,0.8,50.0,0.33,0.6,0.8
+19-04-2019,Toronto Blue Jays,Oakland Athletics,40.0,0.0,0.4,0.4,52.38,0.0,0.4,0.4
+20-04-2019,Toronto Blue Jays,Oakland Athletics,42.86,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+21-04-2019,Toronto Blue Jays,Oakland Athletics,45.45,0.33,0.4,0.5,47.83,0.33,0.4,0.5
+22-04-2019,Texas Rangers,Oakland Athletics,60.0,0.33,0.4,0.6,45.83,0.33,0.4,0.6
+23-04-2019,Texas Rangers,Oakland Athletics,57.14,0.33,0.4,0.6,48.0,0.33,0.4,0.6
+24-04-2019,Texas Rangers,Oakland Athletics,54.55,0.0,0.4,0.6,50.0,0.0,0.4,0.6
+07-05-2019,Cincinnati Reds,Oakland Athletics,42.86,0.0,0.2,0.3,41.67,0.0,0.2,0.3
+08-05-2019,Cincinnati Reds,Oakland Athletics,41.67,0.33,0.4,0.4,43.24,0.33,0.4,0.4
+09-05-2019,Cincinnati Reds,Oakland Athletics,40.54,0.0,0.2,0.3,44.74,0.0,0.2,0.3
+10-05-2019,Cleveland Indians,Oakland Athletics,55.56,0.33,0.2,0.4,43.59,0.33,0.2,0.4
+11-05-2019,Cleveland Indians,Oakland Athletics,54.05,0.33,0.4,0.4,45.0,0.33,0.4,0.4
+12-05-2019,Cleveland Indians,Oakland Athletics,52.63,0.0,0.4,0.4,46.34,0.0,0.4,0.4
+24-05-2019,Seattle Mariners,Oakland Athletics,44.23,0.0,0.2,0.3,50.98,0.0,0.2,0.3
+25-05-2019,Seattle Mariners,Oakland Athletics,43.4,0.0,0.0,0.2,51.92,0.0,0.0,0.2
+26-05-2019,Seattle Mariners,Oakland Athletics,42.59,0.0,0.0,0.1,52.83,0.0,0.0,0.1
+27-05-2019,Los Angeles Angels,Oakland Athletics,46.15,0.33,0.2,0.3,53.7,0.33,0.2,0.3
+28-05-2019,Los Angeles Angels,Oakland Athletics,45.28,0.33,0.4,0.3,54.55,0.33,0.4,0.3
+29-05-2019,Los Angeles Angels,Oakland Athletics,46.3,0.0,0.4,0.2,53.57,0.0,0.4,0.2
+31-05-2019,Houston Astros,Oakland Athletics,64.91,0.33,0.4,0.5,52.63,0.33,0.4,0.5
+01-06-2019,Houston Astros,Oakland Athletics,65.52,0.0,0.4,0.4,51.72,0.0,0.4,0.4
+02-06-2019,Houston Astros,Oakland Athletics,66.1,0.33,0.4,0.5,50.85,0.33,0.4,0.5
+14-06-2019,Seattle Mariners,Oakland Athletics,40.28,0.33,0.4,0.4,51.43,0.33,0.4,0.4
+15-06-2019,Seattle Mariners,Oakland Athletics,41.1,0.0,0.2,0.4,50.7,0.0,0.2,0.4
+16-06-2019,Seattle Mariners,Oakland Athletics,40.54,0.33,0.4,0.4,51.39,0.33,0.4,0.4
+17-06-2019,Baltimore Orioles,Oakland Athletics,29.58,0.0,0.0,0.2,50.68,0.0,0.0,0.2
+18-06-2019,Baltimore Orioles,Oakland Athletics,29.17,0.0,0.0,0.2,51.35,0.0,0.0,0.2
+19-06-2019,Baltimore Orioles,Oakland Athletics,28.77,0.0,0.0,0.1,52.0,0.0,0.0,0.1
+20-06-2019,Tampa Bay Rays,Oakland Athletics,58.11,0.0,0.2,0.2,52.63,0.0,0.2,0.2
+21-06-2019,Tampa Bay Rays,Oakland Athletics,57.33,0.0,0.0,0.2,53.25,0.0,0.0,0.2
+22-06-2019,Tampa Bay Rays,Oakland Athletics,57.89,0.0,0.0,0.2,52.56,0.0,0.0,0.2
+23-06-2019,Tampa Bay Rays,Oakland Athletics,57.14,0.33,0.2,0.3,53.16,0.33,0.2,0.3
+02-07-2019,Minnesota Twins,Oakland Athletics,63.86,0.33,0.2,0.5,54.65,0.33,0.2,0.5
+03-07-2019,Minnesota Twins,Oakland Athletics,63.1,0.0,0.2,0.4,55.17,0.0,0.2,0.4
+04-07-2019,Minnesota Twins,Oakland Athletics,63.53,0.0,0.2,0.3,54.55,0.0,0.2,0.3
+12-07-2019,Chicago White Sox,Oakland Athletics,48.84,0.0,0.2,0.5,55.43,0.0,0.2,0.5
+13-07-2019,Chicago White Sox,Oakland Athletics,48.28,0.33,0.2,0.5,55.91,0.33,0.2,0.5
+14-07-2019,Chicago White Sox,Oakland Athletics,47.73,0.0,0.2,0.4,56.38,0.0,0.2,0.4
+16-07-2019,Seattle Mariners,Oakland Athletics,40.21,0.0,0.0,0.2,56.84,0.0,0.0,0.2
+17-07-2019,Seattle Mariners,Oakland Athletics,39.8,0.0,0.0,0.1,57.29,0.0,0.0,0.1
+25-07-2019,Texas Rangers,Oakland Athletics,50.0,0.33,0.2,0.1,56.73,0.33,0.2,0.1
+26-07-2019,Texas Rangers,Oakland Athletics,50.49,0.0,0.2,0.1,56.19,0.0,0.2,0.1
+27-07-2019,Texas Rangers,Oakland Athletics,50.96,0.33,0.4,0.2,55.66,0.33,0.4,0.2
+28-07-2019,Texas Rangers,Oakland Athletics,50.48,0.33,0.4,0.3,56.07,0.33,0.4,0.3
+30-07-2019,Milwaukee Brewers,Oakland Athletics,52.34,0.33,0.6,0.5,56.48,0.33,0.6,0.5
+31-07-2019,Milwaukee Brewers,Oakland Athletics,51.85,0.0,0.4,0.5,56.88,0.0,0.4,0.5
+01-08-2019,Milwaukee Brewers,Oakland Athletics,52.29,0.0,0.2,0.4,56.36,0.0,0.2,0.4
+03-08-2019,St. Louis Cardinals,Oakland Athletics,53.7,0.0,0.2,0.5,56.76,0.0,0.2,0.5
+04-08-2019,St. Louis Cardinals,Oakland Athletics,53.21,0.33,0.4,0.5,57.14,0.33,0.4,0.5
+15-08-2019,Houston Astros,Oakland Athletics,64.46,0.0,0.2,0.6,57.02,0.0,0.2,0.6
+16-08-2019,Houston Astros,Oakland Athletics,63.93,0.0,0.2,0.5,57.38,0.0,0.2,0.5
+17-08-2019,Houston Astros,Oakland Athletics,63.41,0.0,0.0,0.4,57.72,0.0,0.0,0.4
+18-08-2019,Houston Astros,Oakland Athletics,62.9,0.0,0.0,0.3,58.06,0.0,0.0,0.3
+20-08-2019,New York Yankees,Oakland Athletics,65.87,0.33,0.4,0.7,57.6,0.33,0.4,0.7
+21-08-2019,New York Yankees,Oakland Athletics,65.35,0.0,0.4,0.6,57.94,0.0,0.4,0.6
+22-08-2019,New York Yankees,Oakland Athletics,64.84,0.0,0.2,0.5,58.27,0.0,0.2,0.5
+24-08-2019,San Francisco Giants,Oakland Athletics,49.22,0.0,0.0,0.4,58.59,0.0,0.0,0.4
+25-08-2019,San Francisco Giants,Oakland Athletics,49.61,0.0,0.0,0.3,58.14,0.0,0.0,0.3
+03-09-2019,Los Angeles Angels,Oakland Athletics,47.1,0.33,0.2,0.2,57.66,0.33,0.2,0.2
+04-09-2019,Los Angeles Angels,Oakland Athletics,46.76,0.0,0.2,0.2,57.97,0.0,0.2,0.2
+05-09-2019,Los Angeles Angels,Oakland Athletics,46.43,0.0,0.2,0.2,58.27,0.0,0.2,0.2
+06-09-2019,Detroit Tigers,Oakland Athletics,29.5,0.0,0.0,0.1,58.57,0.0,0.0,0.1
+07-09-2019,Detroit Tigers,Oakland Athletics,30.0,0.33,0.2,0.2,58.16,0.33,0.2,0.2
+08-09-2019,Detroit Tigers,Oakland Athletics,29.79,0.33,0.4,0.3,58.45,0.33,0.4,0.3
+16-09-2019,Kansas City Royals,Oakland Athletics,36.67,0.0,0.2,0.4,60.0,0.0,0.2,0.4
+17-09-2019,Kansas City Royals,Oakland Athletics,37.09,0.0,0.0,0.3,59.6,0.0,0.0,0.3
+18-09-2019,Kansas City Royals,Oakland Athletics,36.84,0.33,0.2,0.3,59.87,0.33,0.2,0.3
+20-09-2019,Texas Rangers,Oakland Athletics,48.37,0.0,0.0,0.3,60.13,0.0,0.0,0.3
+21-09-2019,Texas Rangers,Oakland Athletics,48.05,0.0,0.0,0.2,60.39,0.0,0.0,0.2
+22-09-2019,Texas Rangers,Oakland Athletics,47.74,0.0,0.0,0.2,60.65,0.0,0.0,0.2
+28-03-2019,Atlanta Braves,Philadelphia Phillies,0,0.0,0.2,0.4,0,0.0,0.2,0.4
+30-03-2019,Atlanta Braves,Philadelphia Phillies,0.0,nan,nan,nan,100.0,nan,nan,nan
+31-03-2019,Atlanta Braves,Philadelphia Phillies,0.0,0.0,nan,nan,100.0,0.0,nan,nan
+05-04-2019,Minnesota Twins,Philadelphia Phillies,80.0,0.33,0.4,nan,80.0,0.33,0.4,nan
+06-04-2019,Minnesota Twins,Philadelphia Phillies,66.67,0.33,0.6,nan,83.33,0.33,0.6,nan
+07-04-2019,Minnesota Twins,Philadelphia Phillies,71.43,0.0,0.4,nan,71.43,0.0,0.4,nan
+08-04-2019,Washington Nationals,Philadelphia Phillies,50.0,0.0,0.4,nan,75.0,0.0,0.4,nan
+09-04-2019,Washington Nationals,Philadelphia Phillies,44.44,0.33,0.4,0.4,77.78,0.33,0.4,0.4
+10-04-2019,Washington Nationals,Philadelphia Phillies,50.0,0.0,0.2,0.4,70.0,0.0,0.2,0.4
+15-04-2019,New York Mets,Philadelphia Phillies,60.0,0.0,0.4,0.4,64.29,0.0,0.4,0.4
+16-04-2019,New York Mets,Philadelphia Phillies,62.5,0.0,0.2,0.4,60.0,0.0,0.2,0.4
+17-04-2019,New York Mets,Philadelphia Phillies,58.82,0.33,0.2,0.4,62.5,0.33,0.2,0.4
+25-04-2019,Miami Marlins,Philadelphia Phillies,29.17,0.33,0.4,0.3,54.17,0.33,0.4,0.3
+26-04-2019,Miami Marlins,Philadelphia Phillies,32.0,0.0,0.2,0.3,52.0,0.0,0.2,0.3
+27-04-2019,Miami Marlins,Philadelphia Phillies,30.77,0.33,0.4,0.4,53.85,0.33,0.4,0.4
+28-04-2019,Miami Marlins,Philadelphia Phillies,29.63,0.0,0.2,0.4,55.56,0.0,0.2,0.4
+30-04-2019,Detroit Tigers,Philadelphia Phillies,46.15,0.0,0.0,0.4,57.14,0.0,0.0,0.4
+01-05-2019,Detroit Tigers,Philadelphia Phillies,48.15,0.0,0.0,0.3,55.17,0.0,0.0,0.3
+03-05-2019,Washington Nationals,Philadelphia Phillies,43.33,0.0,0.0,0.2,56.67,0.0,0.0,0.2
+04-05-2019,Washington Nationals,Philadelphia Phillies,41.94,0.33,0.2,0.2,58.06,0.33,0.2,0.2
+05-05-2019,Washington Nationals,Philadelphia Phillies,43.75,0.0,0.2,0.2,56.25,0.0,0.2,0.2
+13-05-2019,Milwaukee Brewers,Philadelphia Phillies,57.14,0.0,0.4,0.7,58.97,0.0,0.4,0.7
+14-05-2019,Milwaukee Brewers,Philadelphia Phillies,55.81,0.0,0.2,0.6,60.0,0.0,0.2,0.6
+15-05-2019,Milwaukee Brewers,Philadelphia Phillies,56.82,0.0,0.0,0.5,58.54,0.0,0.0,0.5
+16-05-2019,Milwaukee Brewers,Philadelphia Phillies,57.78,0.33,0.2,0.5,57.14,0.33,0.2,0.5
+17-05-2019,Colorado Rockies,Philadelphia Phillies,47.62,0.33,0.4,0.5,55.81,0.33,0.4,0.5
+18-05-2019,Colorado Rockies,Philadelphia Phillies,46.51,0.0,0.4,0.5,56.82,0.0,0.4,0.5
+19-05-2019,Colorado Rockies,Philadelphia Phillies,45.45,0.0,0.2,0.4,57.78,0.0,0.2,0.4
+28-05-2019,St. Louis Cardinals,Philadelphia Phillies,50.0,0.33,0.4,0.3,58.49,0.33,0.4,0.3
+29-05-2019,St. Louis Cardinals,Philadelphia Phillies,49.06,0.0,0.2,0.3,59.26,0.0,0.2,0.3
+30-05-2019,St. Louis Cardinals,Philadelphia Phillies,48.15,0.0,0.2,0.3,60.0,0.0,0.2,0.3
+07-06-2019,Cincinnati Reds,Philadelphia Phillies,45.9,0.33,0.2,0.4,56.45,0.33,0.2,0.4
+08-06-2019,Cincinnati Reds,Philadelphia Phillies,45.16,0.0,0.2,0.4,57.14,0.0,0.2,0.4
+09-06-2019,Cincinnati Reds,Philadelphia Phillies,44.44,0.0,0.2,0.3,57.81,0.0,0.2,0.3
+10-06-2019,Arizona Diamondbacks,Philadelphia Phillies,51.52,0.33,0.6,0.5,56.92,0.33,0.6,0.5
+11-06-2019,Arizona Diamondbacks,Philadelphia Phillies,52.24,0.33,0.6,0.6,56.06,0.33,0.6,0.6
+12-06-2019,Arizona Diamondbacks,Philadelphia Phillies,51.47,0.33,0.6,0.6,56.72,0.33,0.6,0.6
+21-06-2019,Miami Marlins,Philadelphia Phillies,36.99,0.0,0.2,0.3,52.7,0.0,0.2,0.3
+22-06-2019,Miami Marlins,Philadelphia Phillies,37.84,0.33,0.4,0.4,52.0,0.33,0.4,0.4
+23-06-2019,Miami Marlins,Philadelphia Phillies,38.67,0.33,0.4,0.4,51.32,0.33,0.4,0.4
+24-06-2019,New York Mets,Philadelphia Phillies,47.44,0.33,0.4,0.4,50.65,0.33,0.4,0.4
+25-06-2019,New York Mets,Philadelphia Phillies,46.84,0.0,0.4,0.3,51.28,0.0,0.4,0.3
+26-06-2019,New York Mets,Philadelphia Phillies,46.25,0.0,0.2,0.3,51.9,0.0,0.2,0.3
+27-06-2019,New York Mets,Philadelphia Phillies,45.68,0.0,0.0,0.3,52.5,0.0,0.0,0.3
+12-07-2019,Washington Nationals,Philadelphia Phillies,52.81,0.33,0.4,0.6,52.22,0.33,0.4,0.6
+13-07-2019,Washington Nationals,Philadelphia Phillies,53.33,0.33,0.4,0.6,51.65,0.33,0.4,0.6
+14-07-2019,Washington Nationals,Philadelphia Phillies,53.85,0.33,0.6,0.7,51.09,0.33,0.6,0.7
+15-07-2019,Los Angeles Dodgers,Philadelphia Phillies,65.26,0.33,0.2,0.4,51.61,0.33,0.2,0.4
+16-07-2019,Los Angeles Dodgers,Philadelphia Phillies,65.62,0.33,0.4,0.4,51.06,0.33,0.4,0.4
+17-07-2019,Los Angeles Dodgers,Philadelphia Phillies,64.95,0.33,0.6,0.4,51.58,0.33,0.6,0.4
+18-07-2019,Los Angeles Dodgers,Philadelphia Phillies,65.31,0.0,0.4,0.3,51.04,0.0,0.4,0.3
+26-07-2019,Atlanta Braves,Philadelphia Phillies,58.25,0.0,0.2,0.3,52.94,0.0,0.2,0.3
+27-07-2019,Atlanta Braves,Philadelphia Phillies,58.65,0.0,0.2,0.2,52.43,0.0,0.2,0.2
+28-07-2019,Atlanta Braves,Philadelphia Phillies,59.05,0.33,0.2,0.3,51.92,0.33,0.2,0.3
+30-07-2019,San Francisco Giants,Philadelphia Phillies,50.94,0.0,0.2,0.5,52.38,0.0,0.2,0.5
+31-07-2019,San Francisco Giants,Philadelphia Phillies,50.47,0.33,0.4,0.5,52.83,0.33,0.4,0.5
+01-08-2019,San Francisco Giants,Philadelphia Phillies,50.93,0.0,0.2,0.5,52.34,0.0,0.2,0.5
+02-08-2019,Chicago White Sox,Philadelphia Phillies,43.4,0.0,0.0,0.1,52.78,0.0,0.0,0.1
+03-08-2019,Chicago White Sox,Philadelphia Phillies,43.93,0.0,0.0,0.1,52.29,0.0,0.0,0.1
+04-08-2019,Chicago White Sox,Philadelphia Phillies,43.52,0.33,0.2,0.2,52.73,0.33,0.2,0.2
+13-08-2019,Chicago Cubs,Philadelphia Phillies,54.24,0.0,0.2,0.5,50.85,0.0,0.2,0.5
+14-08-2019,Chicago Cubs,Philadelphia Phillies,53.78,0.33,0.2,0.5,51.26,0.33,0.2,0.5
+15-08-2019,Chicago Cubs,Philadelphia Phillies,53.33,0.0,0.2,0.4,51.67,0.0,0.2,0.4
+16-08-2019,San Diego Padres,Philadelphia Phillies,46.67,0.0,0.0,0.4,52.07,0.0,0.0,0.4
+17-08-2019,San Diego Padres,Philadelphia Phillies,46.28,0.33,0.2,0.4,52.46,0.33,0.2,0.4
+18-08-2019,San Diego Padres,Philadelphia Phillies,46.72,0.0,0.2,0.4,52.03,0.0,0.2,0.4
+26-08-2019,Pittsburgh Pirates,Philadelphia Phillies,42.31,0.33,0.4,0.3,51.94,0.33,0.4,0.3
+27-08-2019,Pittsburgh Pirates,Philadelphia Phillies,41.98,0.33,0.6,0.4,52.31,0.33,0.6,0.4
+28-08-2019,Pittsburgh Pirates,Philadelphia Phillies,42.42,0.0,0.4,0.4,51.91,0.0,0.4,0.4
+30-08-2019,New York Mets,Philadelphia Phillies,50.38,0.0,0.0,0.3,52.27,0.0,0.0,0.3
+31-08-2019,New York Mets,Philadelphia Phillies,50.75,0.0,0.0,0.2,51.88,0.0,0.0,0.2
+01-09-2019,New York Mets,Philadelphia Phillies,51.11,0.33,0.2,0.2,51.49,0.33,0.2,0.2
+09-09-2019,Atlanta Braves,Philadelphia Phillies,61.81,0.33,0.6,0.8,52.11,0.33,0.6,0.8
+10-09-2019,Atlanta Braves,Philadelphia Phillies,62.07,0.0,0.4,0.7,51.75,0.0,0.4,0.7
+11-09-2019,Atlanta Braves,Philadelphia Phillies,61.64,0.33,0.4,0.7,52.08,0.33,0.4,0.7
+12-09-2019,Atlanta Braves,Philadelphia Phillies,61.9,0.0,0.2,0.6,51.72,0.0,0.2,0.6
+14-09-2019,Boston Red Sox,Philadelphia Phillies,52.38,0.0,0.0,0.2,52.05,0.0,0.0,0.2
+15-09-2019,Boston Red Sox,Philadelphia Phillies,52.7,0.33,0.2,0.2,51.7,0.33,0.2,0.2
+27-09-2019,Miami Marlins,Philadelphia Phillies,35.22,0.0,0.2,0.3,49.69,0.0,0.2,0.3
+28-09-2019,Miami Marlins,Philadelphia Phillies,35.0,0.33,0.2,0.3,50.0,0.33,0.2,0.3
+29-09-2019,Miami Marlins,Philadelphia Phillies,34.78,0.0,0.2,0.3,50.31,0.0,0.2,0.3
+01-04-2019,St. Louis Cardinals,Pittsburgh Pirates,25.0,0.0,0.2,nan,50.0,0.0,0.2,nan
+03-04-2019,St. Louis Cardinals,Pittsburgh Pirates,40.0,0.0,0.2,nan,33.33,0.0,0.2,nan
+04-04-2019,Cincinnati Reds,Pittsburgh Pirates,20.0,0.0,0.0,nan,25.0,0.0,0.0,nan
+05-04-2019,Cincinnati Reds,Pittsburgh Pirates,16.67,0.0,0.0,nan,40.0,0.0,0.0,nan
+06-04-2019,Cincinnati Reds,Pittsburgh Pirates,14.29,0.0,0.0,nan,50.0,0.0,0.0,nan
+07-04-2019,Cincinnati Reds,Pittsburgh Pirates,12.5,0.0,0.0,nan,57.14,0.0,0.0,nan
+19-04-2019,San Francisco Giants,Pittsburgh Pirates,40.0,0.0,0.2,0.5,62.5,0.0,0.2,0.5
+20-04-2019,San Francisco Giants,Pittsburgh Pirates,38.1,0.0,0.2,0.4,64.71,0.0,0.2,0.4
+21-04-2019,San Francisco Giants,Pittsburgh Pirates,36.36,0.0,0.0,0.4,66.67,0.0,0.0,0.4
+22-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,50.0,0.33,0.4,0.5,63.16,0.33,0.4,0.5
+23-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,52.17,0.0,0.2,0.5,60.0,0.0,0.2,0.5
+24-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,54.17,0.33,0.4,0.6,57.14,0.33,0.4,0.6
+25-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,56.0,0.33,0.4,0.6,54.55,0.33,0.4,0.6
+03-05-2019,Oakland Athletics,Pittsburgh Pirates,42.42,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+04-05-2019,Oakland Athletics,Pittsburgh Pirates,44.12,0.0,0.0,0.2,48.28,0.0,0.0,0.2
+05-05-2019,Oakland Athletics,Pittsburgh Pirates,42.86,0.33,0.2,0.2,50.0,0.33,0.2,0.2
+07-05-2019,Texas Rangers,Pittsburgh Pirates,50.0,0.33,0.2,0.3,51.61,0.33,0.2,0.3
+08-05-2019,Texas Rangers,Pittsburgh Pirates,48.48,0.33,0.4,0.4,53.12,0.33,0.4,0.4
+21-05-2019,Colorado Rockies,Pittsburgh Pirates,44.44,0.0,0.0,0.4,54.55,0.0,0.0,0.4
+22-05-2019,Colorado Rockies,Pittsburgh Pirates,45.65,0.0,0.0,0.3,53.33,0.0,0.0,0.3
+23-05-2019,Colorado Rockies,Pittsburgh Pirates,46.81,0.33,0.2,0.3,52.17,0.33,0.2,0.3
+24-05-2019,Los Angeles Dodgers,Pittsburgh Pirates,64.0,0.33,0.4,0.6,53.19,0.33,0.4,0.6
+25-05-2019,Los Angeles Dodgers,Pittsburgh Pirates,64.71,0.0,0.4,0.6,52.08,0.0,0.4,0.6
+26-05-2019,Los Angeles Dodgers,Pittsburgh Pirates,65.38,0.33,0.4,0.6,51.02,0.33,0.4,0.6
+30-05-2019,Milwaukee Brewers,Pittsburgh Pirates,55.36,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+31-05-2019,Milwaukee Brewers,Pittsburgh Pirates,56.14,0.0,0.4,0.4,49.09,0.0,0.4,0.4
+01-06-2019,Milwaukee Brewers,Pittsburgh Pirates,55.17,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+02-06-2019,Milwaukee Brewers,Pittsburgh Pirates,55.93,0.0,0.2,0.4,49.12,0.0,0.2,0.4
+04-06-2019,Atlanta Braves,Pittsburgh Pirates,54.24,0.33,0.2,0.4,48.28,0.33,0.2,0.4
+05-06-2019,Atlanta Braves,Pittsburgh Pirates,55.0,0.33,0.4,0.4,47.46,0.33,0.4,0.4
+06-06-2019,Atlanta Braves,Pittsburgh Pirates,54.1,0.33,0.6,0.4,48.33,0.33,0.6,0.4
+18-06-2019,Detroit Tigers,Pittsburgh Pirates,36.23,0.0,0.0,0.2,45.07,0.0,0.0,0.2
+19-06-2019,Detroit Tigers,Pittsburgh Pirates,37.14,0.0,0.0,0.2,44.44,0.0,0.0,0.2
+21-06-2019,San Diego Padres,Pittsburgh Pirates,50.67,0.33,0.6,0.4,45.21,0.33,0.6,0.4
+22-06-2019,San Diego Padres,Pittsburgh Pirates,50.0,0.33,0.6,0.5,45.95,0.33,0.6,0.5
+23-06-2019,San Diego Padres,Pittsburgh Pirates,49.35,0.0,0.4,0.5,46.67,0.0,0.4,0.5
+01-07-2019,Chicago Cubs,Pittsburgh Pirates,53.57,0.33,0.4,0.4,47.56,0.33,0.4,0.4
+02-07-2019,Chicago Cubs,Pittsburgh Pirates,52.94,0.0,0.2,0.4,48.19,0.0,0.2,0.4
+03-07-2019,Chicago Cubs,Pittsburgh Pirates,52.33,0.0,0.2,0.3,48.81,0.0,0.2,0.3
+04-07-2019,Chicago Cubs,Pittsburgh Pirates,51.72,0.0,0.0,0.2,49.41,0.0,0.0,0.2
+05-07-2019,Milwaukee Brewers,Pittsburgh Pirates,52.27,0.0,0.2,0.4,48.84,0.0,0.2,0.4
+06-07-2019,Milwaukee Brewers,Pittsburgh Pirates,52.81,0.0,0.0,0.4,48.28,0.0,0.0,0.4
+07-07-2019,Milwaukee Brewers,Pittsburgh Pirates,52.22,0.33,0.2,0.4,48.86,0.33,0.2,0.4
+19-07-2019,Philadelphia Phillies,Pittsburgh Pirates,51.55,0.0,0.2,0.3,47.37,0.0,0.2,0.3
+20-07-2019,Philadelphia Phillies,Pittsburgh Pirates,52.04,0.33,0.4,0.4,46.88,0.33,0.4,0.4
+21-07-2019,Philadelphia Phillies,Pittsburgh Pirates,51.52,0.33,0.4,0.4,47.42,0.33,0.4,0.4
+22-07-2019,St. Louis Cardinals,Pittsburgh Pirates,52.04,0.0,0.4,0.6,46.94,0.0,0.4,0.6
+23-07-2019,St. Louis Cardinals,Pittsburgh Pirates,52.53,0.33,0.4,0.6,46.46,0.33,0.4,0.6
+24-07-2019,St. Louis Cardinals,Pittsburgh Pirates,53.0,0.33,0.4,0.6,46.0,0.33,0.4,0.6
+25-07-2019,St. Louis Cardinals,Pittsburgh Pirates,53.47,0.33,0.6,0.6,45.54,0.33,0.6,0.6
+02-08-2019,New York Mets,Pittsburgh Pirates,49.07,0.33,0.6,0.7,43.52,0.33,0.6,0.7
+03-08-2019,New York Mets,Pittsburgh Pirates,48.62,0.33,0.6,0.7,44.04,0.33,0.6,0.7
+04-08-2019,New York Mets,Pittsburgh Pirates,49.09,0.0,0.4,0.7,43.64,0.0,0.4,0.7
+05-08-2019,Milwaukee Brewers,Pittsburgh Pirates,50.44,0.0,0.0,0.3,43.24,0.0,0.0,0.3
+06-08-2019,Milwaukee Brewers,Pittsburgh Pirates,50.88,0.0,0.0,0.2,42.86,0.0,0.0,0.2
+07-08-2019,Milwaukee Brewers,Pittsburgh Pirates,51.3,0.33,0.2,0.2,42.48,0.33,0.2,0.2
+16-08-2019,Chicago Cubs,Pittsburgh Pirates,52.89,0.0,0.2,0.3,41.67,0.0,0.2,0.3
+17-08-2019,Chicago Cubs,Pittsburgh Pirates,52.46,0.0,0.0,0.3,42.15,0.0,0.0,0.3
+18-08-2019,Chicago Cubs,Pittsburgh Pirates,52.85,0.0,0.0,0.2,41.8,0.0,0.0,0.2
+19-08-2019,Washington Nationals,Pittsburgh Pirates,54.47,0.0,0.4,0.5,41.46,0.0,0.4,0.5
+20-08-2019,Washington Nationals,Pittsburgh Pirates,54.84,0.33,0.4,0.6,41.13,0.33,0.4,0.6
+21-08-2019,Washington Nationals,Pittsburgh Pirates,54.4,0.33,0.4,0.7,41.6,0.33,0.4,0.7
+22-08-2019,Washington Nationals,Pittsburgh Pirates,54.76,0.0,0.4,0.6,41.27,0.0,0.4,0.6
+23-08-2019,Cincinnati Reds,Pittsburgh Pirates,47.62,0.33,0.2,0.3,40.94,0.33,0.2,0.3
+24-08-2019,Cincinnati Reds,Pittsburgh Pirates,47.24,0.33,0.4,0.4,41.41,0.33,0.4,0.4
+25-08-2019,Cincinnati Reds,Pittsburgh Pirates,46.88,0.0,0.4,0.4,41.86,0.0,0.4,0.4
+03-09-2019,Miami Marlins,Pittsburgh Pirates,35.29,0.0,0.2,0.2,43.8,0.0,0.2,0.2
+04-09-2019,Miami Marlins,Pittsburgh Pirates,35.77,0.0,0.0,0.2,43.48,0.0,0.0,0.2
+05-09-2019,Miami Marlins,Pittsburgh Pirates,35.51,0.33,0.2,0.2,43.88,0.33,0.2,0.2
+06-09-2019,St. Louis Cardinals,Pittsburgh Pirates,56.43,0.0,0.4,0.5,43.57,0.0,0.4,0.5
+07-09-2019,St. Louis Cardinals,Pittsburgh Pirates,56.03,0.33,0.4,0.6,43.97,0.33,0.4,0.6
+08-09-2019,St. Louis Cardinals,Pittsburgh Pirates,56.34,0.0,0.2,0.5,43.66,0.0,0.2,0.5
+17-09-2019,Seattle Mariners,Pittsburgh Pirates,41.33,0.33,0.2,0.3,43.33,0.33,0.2,0.3
+18-09-2019,Seattle Mariners,Pittsburgh Pirates,41.72,0.33,0.4,0.4,43.05,0.33,0.4,0.4
+19-09-2019,Seattle Mariners,Pittsburgh Pirates,42.11,0.33,0.6,0.5,42.76,0.33,0.6,0.5
+24-09-2019,Chicago Cubs,Pittsburgh Pirates,52.56,0.0,0.0,0.3,41.67,0.0,0.0,0.3
+25-09-2019,Chicago Cubs,Pittsburgh Pirates,52.23,0.0,0.0,0.2,42.04,0.0,0.0,0.2
+26-09-2019,Chicago Cubs,Pittsburgh Pirates,51.9,0.0,0.0,0.1,42.41,0.0,0.0,0.1
+27-09-2019,Cincinnati Reds,Pittsburgh Pirates,45.91,0.0,0.0,0.3,42.77,0.0,0.0,0.3
+28-09-2019,Cincinnati Reds,Pittsburgh Pirates,45.62,0.0,0.0,0.3,43.12,0.0,0.0,0.3
+29-09-2019,Cincinnati Reds,Pittsburgh Pirates,45.96,0.0,0.0,0.2,42.86,0.0,0.0,0.2
+28-03-2019,San Francisco Giants,San Diego Padres,0,0.0,0.2,0.3,0,0.0,0.2,0.3
+29-03-2019,San Francisco Giants,San Diego Padres,0.0,nan,nan,nan,100.0,nan,nan,nan
+30-03-2019,San Francisco Giants,San Diego Padres,0.0,0.0,nan,nan,100.0,0.0,nan,nan
+31-03-2019,San Francisco Giants,San Diego Padres,33.33,0.0,nan,nan,66.67,0.0,nan,nan
+01-04-2019,Arizona Diamondbacks,San Diego Padres,25.0,0.0,0.2,nan,75.0,0.0,0.2,nan
+02-04-2019,Arizona Diamondbacks,San Diego Padres,40.0,0.0,0.2,nan,60.0,0.0,0.2,nan
+03-04-2019,Arizona Diamondbacks,San Diego Padres,50.0,0.33,0.2,nan,50.0,0.33,0.2,nan
+15-04-2019,Colorado Rockies,San Diego Padres,25.0,0.0,0.0,0.0,64.71,0.0,0.0,0.0
+16-04-2019,Colorado Rockies,San Diego Padres,29.41,0.33,0.2,0.1,61.11,0.33,0.2,0.1
+18-04-2019,Cincinnati Reds,San Diego Padres,29.41,0.0,0.0,0.4,57.89,0.0,0.0,0.4
+19-04-2019,Cincinnati Reds,San Diego Padres,33.33,0.0,0.0,0.4,55.0,0.0,0.0,0.4
+20-04-2019,Cincinnati Reds,San Diego Padres,36.84,0.33,0.2,0.4,52.38,0.33,0.2,0.4
+21-04-2019,Cincinnati Reds,San Diego Padres,40.0,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+23-04-2019,Seattle Mariners,San Diego Padres,64.0,0.33,0.6,0.3,52.17,0.33,0.6,0.3
+24-04-2019,Seattle Mariners,San Diego Padres,61.54,0.0,0.4,0.3,54.17,0.0,0.4,0.3
+03-05-2019,Los Angeles Dodgers,San Diego Padres,60.61,0.33,0.4,0.5,56.25,0.33,0.4,0.5
+04-05-2019,Los Angeles Dodgers,San Diego Padres,61.76,0.0,0.2,0.5,54.55,0.0,0.2,0.5
+05-05-2019,Los Angeles Dodgers,San Diego Padres,62.86,0.33,0.4,0.6,52.94,0.33,0.4,0.6
+06-05-2019,New York Mets,San Diego Padres,47.06,0.0,0.2,0.3,54.29,0.0,0.2,0.3
+07-05-2019,New York Mets,San Diego Padres,45.71,0.0,0.0,0.3,55.56,0.0,0.0,0.3
+08-05-2019,New York Mets,San Diego Padres,47.22,0.0,0.0,0.2,54.05,0.0,0.0,0.2
+16-05-2019,Pittsburgh Pirates,San Diego Padres,52.5,0.33,0.4,0.5,51.16,0.33,0.4,0.5
+17-05-2019,Pittsburgh Pirates,San Diego Padres,51.22,0.0,0.2,0.4,52.27,0.0,0.2,0.4
+18-05-2019,Pittsburgh Pirates,San Diego Padres,52.38,0.0,0.2,0.4,51.11,0.0,0.2,0.4
+19-05-2019,Pittsburgh Pirates,San Diego Padres,53.49,0.33,0.2,0.5,50.0,0.33,0.2,0.5
+20-05-2019,Arizona Diamondbacks,San Diego Padres,53.19,0.0,0.4,0.3,48.94,0.0,0.4,0.3
+21-05-2019,Arizona Diamondbacks,San Diego Padres,52.08,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+22-05-2019,Arizona Diamondbacks,San Diego Padres,51.02,0.0,0.0,0.3,51.02,0.0,0.0,0.3
+31-05-2019,Miami Marlins,San Diego Padres,35.19,0.33,0.6,0.5,51.79,0.33,0.6,0.5
+01-06-2019,Miami Marlins,San Diego Padres,34.55,0.0,0.4,0.4,52.63,0.0,0.4,0.4
+02-06-2019,Miami Marlins,San Diego Padres,35.71,0.0,0.2,0.3,51.72,0.0,0.2,0.3
+03-06-2019,Philadelphia Phillies,San Diego Padres,55.93,0.0,0.0,0.4,50.85,0.0,0.0,0.4
+04-06-2019,Philadelphia Phillies,San Diego Padres,55.0,0.0,0.0,0.3,51.67,0.0,0.0,0.3
+05-06-2019,Philadelphia Phillies,San Diego Padres,55.74,0.0,0.0,0.2,50.82,0.0,0.0,0.2
+06-06-2019,Washington Nationals,San Diego Padres,45.9,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+07-06-2019,Washington Nationals,San Diego Padres,45.16,0.33,0.6,0.6,50.79,0.33,0.6,0.6
+08-06-2019,Washington Nationals,San Diego Padres,44.44,0.0,0.4,0.6,51.56,0.0,0.4,0.6
+09-06-2019,Washington Nationals,San Diego Padres,45.31,0.0,0.2,0.5,50.77,0.0,0.2,0.5
+17-06-2019,Milwaukee Brewers,San Diego Padres,56.34,0.0,0.2,0.5,48.61,0.0,0.2,0.5
+18-06-2019,Milwaukee Brewers,San Diego Padres,55.56,0.33,0.2,0.5,49.32,0.33,0.2,0.5
+19-06-2019,Milwaukee Brewers,San Diego Padres,54.79,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+28-06-2019,St. Louis Cardinals,San Diego Padres,50.63,0.0,0.2,0.4,50.0,0.0,0.2,0.4
+29-06-2019,St. Louis Cardinals,San Diego Padres,50.0,0.0,0.0,0.3,50.62,0.0,0.0,0.3
+30-06-2019,St. Louis Cardinals,San Diego Padres,49.38,0.0,0.0,0.3,51.22,0.0,0.0,0.3
+01-07-2019,San Francisco Giants,San Diego Padres,43.37,0.0,0.2,0.3,50.6,0.0,0.2,0.3
+02-07-2019,San Francisco Giants,San Diego Padres,44.05,0.33,0.4,0.3,50.0,0.33,0.4,0.3
+03-07-2019,San Francisco Giants,San Diego Padres,44.71,0.33,0.4,0.4,49.41,0.33,0.4,0.4
+12-07-2019,Atlanta Braves,San Diego Padres,59.34,0.0,0.4,0.5,50.0,0.0,0.4,0.5
+13-07-2019,Atlanta Braves,San Diego Padres,59.78,0.33,0.4,0.5,49.45,0.33,0.4,0.5
+14-07-2019,Atlanta Braves,San Diego Padres,60.22,0.33,0.4,0.5,48.91,0.33,0.4,0.5
+26-07-2019,San Francisco Giants,San Diego Padres,50.49,0.33,0.6,0.7,47.06,0.33,0.6,0.7
+27-07-2019,San Francisco Giants,San Diego Padres,50.96,0.0,0.4,0.6,46.6,0.0,0.4,0.6
+28-07-2019,San Francisco Giants,San Diego Padres,50.48,0.33,0.4,0.6,47.12,0.33,0.4,0.6
+29-07-2019,Baltimore Orioles,San Diego Padres,33.33,0.33,0.6,0.5,46.67,0.33,0.6,0.5
+30-07-2019,Baltimore Orioles,San Diego Padres,33.02,0.0,0.4,0.5,47.17,0.0,0.4,0.5
+08-08-2019,Colorado Rockies,San Diego Padres,45.61,0.0,0.2,0.3,46.02,0.0,0.2,0.3
+09-08-2019,Colorado Rockies,San Diego Padres,45.22,0.0,0.2,0.3,46.49,0.0,0.2,0.3
+10-08-2019,Colorado Rockies,San Diego Padres,44.83,0.0,0.0,0.2,46.96,0.0,0.0,0.2
+11-08-2019,Colorado Rockies,San Diego Padres,44.44,0.0,0.0,0.2,47.41,0.0,0.0,0.2
+12-08-2019,Tampa Bay Rays,San Diego Padres,57.98,0.33,0.4,0.6,47.01,0.33,0.4,0.6
+13-08-2019,Tampa Bay Rays,San Diego Padres,58.33,0.33,0.6,0.6,46.61,0.33,0.6,0.6
+14-08-2019,Tampa Bay Rays,San Diego Padres,58.68,0.33,0.6,0.6,46.22,0.33,0.6,0.6
+23-08-2019,Boston Red Sox,San Diego Padres,52.71,0.0,0.4,0.5,46.83,0.0,0.4,0.5
+24-08-2019,Boston Red Sox,San Diego Padres,53.08,0.0,0.2,0.5,46.46,0.0,0.2,0.5
+25-08-2019,Boston Red Sox,San Diego Padres,53.44,0.33,0.2,0.6,46.09,0.33,0.2,0.6
+26-08-2019,Los Angeles Dodgers,San Diego Padres,65.15,0.33,0.4,0.5,46.51,0.33,0.4,0.5
+27-08-2019,Los Angeles Dodgers,San Diego Padres,64.66,0.0,0.2,0.4,46.92,0.0,0.2,0.4
+28-08-2019,Los Angeles Dodgers,San Diego Padres,64.93,0.0,0.2,0.4,46.56,0.0,0.2,0.4
+06-09-2019,Colorado Rockies,San Diego Padres,41.84,0.0,0.0,0.0,46.04,0.0,0.0,0.0
+07-09-2019,Colorado Rockies,San Diego Padres,42.25,0.0,0.0,0.0,45.71,0.0,0.0,0.0
+08-09-2019,Colorado Rockies,San Diego Padres,41.96,0.33,0.2,0.1,46.1,0.33,0.2,0.1
+09-09-2019,Chicago Cubs,San Diego Padres,53.52,0.0,0.2,0.4,46.48,0.0,0.2,0.4
+10-09-2019,Chicago Cubs,San Diego Padres,53.85,0.0,0.0,0.3,46.15,0.0,0.0,0.3
+11-09-2019,Chicago Cubs,San Diego Padres,53.47,0.33,0.2,0.4,46.53,0.33,0.2,0.4
+12-09-2019,Chicago Cubs,San Diego Padres,53.1,0.0,0.2,0.4,46.9,0.0,0.2,0.4
+20-09-2019,Arizona Diamondbacks,San Diego Padres,50.98,0.0,0.2,0.2,45.1,0.0,0.2,0.2
+21-09-2019,Arizona Diamondbacks,San Diego Padres,51.3,0.33,0.4,0.3,44.81,0.33,0.4,0.3
+22-09-2019,Arizona Diamondbacks,San Diego Padres,51.61,0.33,0.4,0.4,44.52,0.33,0.4,0.4
+24-09-2019,Los Angeles Dodgers,San Diego Padres,64.1,0.0,0.2,0.5,44.87,0.0,0.2,0.5
+25-09-2019,Los Angeles Dodgers,San Diego Padres,64.33,0.33,0.4,0.5,44.59,0.33,0.4,0.5
+26-09-2019,Los Angeles Dodgers,San Diego Padres,64.56,0.33,0.4,0.5,44.3,0.33,0.4,0.5
+28-03-2019,Boston Red Sox,Seattle Mariners,0,0.0,0.0,0.3,100.0,0.0,0.0,0.3
+29-03-2019,Boston Red Sox,Seattle Mariners,0.0,nan,nan,nan,100.0,nan,nan,nan
+30-03-2019,Boston Red Sox,Seattle Mariners,50.0,0.0,nan,nan,75.0,0.0,nan,nan
+31-03-2019,Boston Red Sox,Seattle Mariners,33.33,0.33,nan,nan,80.0,0.33,nan,nan
+01-04-2019,Los Angeles Angels,Seattle Mariners,25.0,0.0,0.2,nan,83.33,0.0,0.2,nan
+02-04-2019,Los Angeles Angels,Seattle Mariners,20.0,0.0,0.2,nan,85.71,0.0,0.2,nan
+12-04-2019,Houston Astros,Seattle Mariners,61.54,0.33,0.6,0.6,86.67,0.33,0.6,0.6
+13-04-2019,Houston Astros,Seattle Mariners,64.29,0.33,0.6,0.6,81.25,0.33,0.6,0.6
+14-04-2019,Houston Astros,Seattle Mariners,66.67,0.33,0.6,0.7,76.47,0.33,0.6,0.7
+15-04-2019,Cleveland Indians,Seattle Mariners,53.33,0.0,0.2,0.5,72.22,0.0,0.2,0.5
+16-04-2019,Cleveland Indians,Seattle Mariners,56.25,0.0,0.0,0.4,68.42,0.0,0.0,0.4
+17-04-2019,Cleveland Indians,Seattle Mariners,58.82,0.33,0.2,0.4,65.0,0.33,0.2,0.4
+25-04-2019,Texas Rangers,Seattle Mariners,52.17,0.0,0.2,0.5,59.26,0.0,0.2,0.5
+26-04-2019,Texas Rangers,Seattle Mariners,50.0,0.0,0.0,0.4,60.71,0.0,0.0,0.4
+27-04-2019,Texas Rangers,Seattle Mariners,48.0,0.0,0.0,0.3,62.07,0.0,0.0,0.3
+28-04-2019,Texas Rangers,Seattle Mariners,50.0,0.0,0.0,0.2,60.0,0.0,0.0,0.2
+30-04-2019,Chicago Cubs,Seattle Mariners,53.85,0.33,0.2,0.5,58.06,0.33,0.2,0.5
+01-05-2019,Chicago Cubs,Seattle Mariners,55.56,0.33,0.4,0.5,56.25,0.33,0.4,0.5
+13-05-2019,Oakland Athletics,Seattle Mariners,45.24,0.33,0.4,0.5,46.51,0.33,0.4,0.5
+14-05-2019,Oakland Athletics,Seattle Mariners,44.19,0.0,0.4,0.4,47.73,0.0,0.4,0.4
+16-05-2019,Minnesota Twins,Seattle Mariners,64.29,0.33,0.2,0.5,48.89,0.33,0.2,0.5
+17-05-2019,Minnesota Twins,Seattle Mariners,65.12,0.33,0.4,0.5,47.83,0.33,0.4,0.5
+18-05-2019,Minnesota Twins,Seattle Mariners,65.91,0.33,0.6,0.5,46.81,0.33,0.6,0.5
+19-05-2019,Minnesota Twins,Seattle Mariners,66.67,0.33,0.6,0.5,45.83,0.33,0.6,0.5
+27-05-2019,Texas Rangers,Seattle Mariners,50.0,0.0,0.4,0.6,41.82,0.0,0.4,0.6
+28-05-2019,Texas Rangers,Seattle Mariners,49.02,0.0,0.2,0.5,42.86,0.0,0.2,0.5
+29-05-2019,Texas Rangers,Seattle Mariners,50.0,0.0,0.0,0.5,42.11,0.0,0.0,0.5
+30-05-2019,Los Angeles Angels,Seattle Mariners,47.27,0.33,0.4,0.3,41.38,0.33,0.4,0.3
+31-05-2019,Los Angeles Angels,Seattle Mariners,48.21,0.33,0.4,0.4,40.68,0.33,0.4,0.4
+01-06-2019,Los Angeles Angels,Seattle Mariners,47.37,0.33,0.6,0.5,41.67,0.33,0.6,0.5
+02-06-2019,Los Angeles Angels,Seattle Mariners,48.28,0.0,0.4,0.5,40.98,0.0,0.4,0.5
+03-06-2019,Houston Astros,Seattle Mariners,66.67,0.33,0.4,0.6,40.32,0.33,0.4,0.6
+04-06-2019,Houston Astros,Seattle Mariners,67.21,0.33,0.6,0.6,39.68,0.33,0.6,0.6
+05-06-2019,Houston Astros,Seattle Mariners,67.74,0.33,0.6,0.6,39.06,0.33,0.6,0.6
+06-06-2019,Houston Astros,Seattle Mariners,66.67,0.33,0.6,0.7,40.0,0.33,0.6,0.7
+17-06-2019,Kansas City Royals,Seattle Mariners,32.39,0.0,0.2,0.3,41.33,0.0,0.2,0.3
+18-06-2019,Kansas City Royals,Seattle Mariners,33.33,0.33,0.2,0.3,40.79,0.33,0.2,0.3
+19-06-2019,Kansas City Royals,Seattle Mariners,34.25,0.33,0.4,0.4,40.26,0.33,0.4,0.4
+20-06-2019,Baltimore Orioles,Seattle Mariners,28.38,0.0,0.0,0.1,41.03,0.0,0.0,0.1
+21-06-2019,Baltimore Orioles,Seattle Mariners,28.0,0.0,0.0,0.0,41.77,0.0,0.0,0.0
+22-06-2019,Baltimore Orioles,Seattle Mariners,27.63,0.0,0.0,0.0,42.5,0.0,0.0,0.0
+23-06-2019,Baltimore Orioles,Seattle Mariners,28.57,0.0,0.0,0.0,41.98,0.0,0.0,0.0
+02-07-2019,St. Louis Cardinals,Seattle Mariners,50.0,0.0,0.0,0.2,42.05,0.0,0.0,0.2
+03-07-2019,St. Louis Cardinals,Seattle Mariners,49.4,0.33,0.2,0.3,42.7,0.33,0.2,0.3
+04-07-2019,St. Louis Cardinals,Seattle Mariners,50.0,0.0,0.2,0.2,42.22,0.0,0.2,0.2
+05-07-2019,Oakland Athletics,Seattle Mariners,55.06,0.0,0.4,0.6,41.76,0.0,0.4,0.6
+06-07-2019,Oakland Athletics,Seattle Mariners,55.56,0.33,0.4,0.6,41.3,0.33,0.4,0.6
+07-07-2019,Oakland Athletics,Seattle Mariners,54.95,0.33,0.4,0.6,41.94,0.33,0.4,0.6
+19-07-2019,Los Angeles Angels,Seattle Mariners,51.02,0.0,0.4,0.5,39.39,0.0,0.4,0.5
+20-07-2019,Los Angeles Angels,Seattle Mariners,50.51,0.0,0.2,0.5,40.0,0.0,0.2,0.5
+21-07-2019,Los Angeles Angels,Seattle Mariners,51.0,0.0,0.0,0.5,39.6,0.0,0.0,0.5
+22-07-2019,Texas Rangers,Seattle Mariners,50.51,0.0,0.0,0.2,39.22,0.0,0.0,0.2
+23-07-2019,Texas Rangers,Seattle Mariners,50.0,0.0,0.0,0.1,39.81,0.0,0.0,0.1
+24-07-2019,Texas Rangers,Seattle Mariners,50.5,0.0,0.0,0.0,39.42,0.0,0.0,0.0
+25-07-2019,Detroit Tigers,Seattle Mariners,30.61,0.0,0.2,0.1,40.0,0.0,0.2,0.1
+26-07-2019,Detroit Tigers,Seattle Mariners,30.3,0.0,0.2,0.1,40.57,0.0,0.2,0.1
+27-07-2019,Detroit Tigers,Seattle Mariners,30.0,0.0,0.0,0.1,41.12,0.0,0.0,0.1
+28-07-2019,Detroit Tigers,Seattle Mariners,29.7,0.0,0.0,0.1,41.67,0.0,0.0,0.1
+06-08-2019,San Diego Padres,Seattle Mariners,45.95,0.0,0.2,0.3,41.23,0.0,0.2,0.3
+07-08-2019,San Diego Padres,Seattle Mariners,46.43,0.0,0.2,0.3,40.87,0.0,0.2,0.3
+09-08-2019,Tampa Bay Rays,Seattle Mariners,56.9,0.33,0.4,0.7,41.38,0.33,0.4,0.7
+10-08-2019,Tampa Bay Rays,Seattle Mariners,57.26,0.0,0.2,0.6,41.03,0.0,0.2,0.6
+11-08-2019,Tampa Bay Rays,Seattle Mariners,57.63,0.33,0.4,0.6,40.68,0.33,0.4,0.6
+23-08-2019,Toronto Blue Jays,Seattle Mariners,40.0,0.0,0.0,0.3,42.19,0.0,0.0,0.3
+24-08-2019,Toronto Blue Jays,Seattle Mariners,39.69,0.0,0.0,0.2,42.64,0.0,0.0,0.2
+25-08-2019,Toronto Blue Jays,Seattle Mariners,40.15,0.0,0.0,0.1,42.31,0.0,0.0,0.1
+26-08-2019,New York Yankees,Seattle Mariners,64.39,0.0,0.2,0.3,42.75,0.0,0.2,0.3
+27-08-2019,New York Yankees,Seattle Mariners,64.66,0.33,0.4,0.3,42.42,0.33,0.4,0.3
+28-08-2019,New York Yankees,Seattle Mariners,64.93,0.33,0.4,0.3,42.11,0.33,0.4,0.3
+10-09-2019,Cincinnati Reds,Seattle Mariners,46.53,0.0,0.2,0.3,40.28,0.0,0.2,0.3
+11-09-2019,Cincinnati Reds,Seattle Mariners,46.21,0.33,0.2,0.4,40.69,0.33,0.2,0.4
+12-09-2019,Cincinnati Reds,Seattle Mariners,45.89,0.0,0.2,0.3,41.1,0.0,0.2,0.3
+13-09-2019,Chicago White Sox,Seattle Mariners,43.84,0.0,0.4,0.4,40.82,0.0,0.4,0.4
+14-09-2019,Chicago White Sox,Seattle Mariners,44.22,0.0,0.2,0.3,40.54,0.0,0.2,0.3
+15-09-2019,Chicago White Sox,Seattle Mariners,43.92,0.33,0.2,0.4,40.94,0.33,0.2,0.4
+24-09-2019,Houston Astros,Seattle Mariners,65.38,0.0,0.4,0.6,42.31,0.0,0.4,0.6
+25-09-2019,Houston Astros,Seattle Mariners,65.61,0.33,0.4,0.7,42.04,0.33,0.4,0.7
+26-09-2019,Oakland Athletics,Seattle Mariners,60.13,0.0,0.2,0.5,41.77,0.0,0.2,0.5
+27-09-2019,Oakland Athletics,Seattle Mariners,60.38,0.33,0.2,0.5,41.51,0.33,0.2,0.5
+28-09-2019,Oakland Athletics,Seattle Mariners,60.0,0.33,0.4,0.6,41.88,0.33,0.4,0.6
+29-09-2019,Oakland Athletics,Seattle Mariners,60.25,0.0,0.4,0.5,41.61,0.0,0.4,0.5
+05-04-2019,Tampa Bay Rays,San Francisco Giants,71.43,0.33,0.6,nan,28.57,0.33,0.6,nan
+06-04-2019,Tampa Bay Rays,San Francisco Giants,75.0,0.0,0.4,nan,25.0,0.0,0.4,nan
+07-04-2019,Tampa Bay Rays,San Francisco Giants,66.67,0.33,0.4,0.6,33.33,0.33,0.4,0.6
+08-04-2019,San Diego Padres,San Francisco Giants,60.0,0.33,0.6,0.5,30.0,0.33,0.6,0.5
+09-04-2019,San Diego Padres,San Francisco Giants,63.64,0.0,0.4,0.4,27.27,0.0,0.4,0.4
+10-04-2019,San Diego Padres,San Francisco Giants,58.33,0.33,0.4,0.5,33.33,0.33,0.4,0.5
+11-04-2019,Colorado Rockies,San Francisco Giants,25.0,0.0,0.0,0.1,30.77,0.0,0.0,0.1
+12-04-2019,Colorado Rockies,San Francisco Giants,23.08,0.0,0.0,0.1,35.71,0.0,0.0,0.1
+13-04-2019,Colorado Rockies,San Francisco Giants,21.43,0.0,0.0,0.1,40.0,0.0,0.0,0.1
+14-04-2019,Colorado Rockies,San Francisco Giants,20.0,0.0,0.0,0.1,43.75,0.0,0.0,0.1
+26-04-2019,New York Yankees,San Francisco Giants,56.0,0.33,0.6,0.7,44.0,0.33,0.6,0.7
+27-04-2019,New York Yankees,San Francisco Giants,57.69,0.0,0.4,0.6,42.31,0.0,0.4,0.6
+28-04-2019,New York Yankees,San Francisco Giants,59.26,0.33,0.4,0.7,40.74,0.33,0.4,0.7
+29-04-2019,Los Angeles Dodgers,San Francisco Giants,63.33,0.33,0.6,0.5,39.29,0.33,0.6,0.5
+30-04-2019,Los Angeles Dodgers,San Francisco Giants,61.29,0.33,0.6,0.5,41.38,0.33,0.6,0.5
+01-05-2019,Los Angeles Dodgers,San Francisco Giants,62.5,0.0,0.4,0.5,40.0,0.0,0.4,0.5
+10-05-2019,Cincinnati Reds,San Francisco Giants,42.11,0.0,0.2,0.3,43.24,0.0,0.2,0.3
+11-05-2019,Cincinnati Reds,San Francisco Giants,43.59,0.33,0.2,0.3,42.11,0.33,0.2,0.3
+12-05-2019,Cincinnati Reds,San Francisco Giants,45.0,0.33,0.4,0.4,41.03,0.33,0.4,0.4
+14-05-2019,Toronto Blue Jays,San Francisco Giants,40.0,0.0,0.2,0.2,42.5,0.0,0.2,0.2
+15-05-2019,Toronto Blue Jays,San Francisco Giants,41.46,0.0,0.2,0.1,41.46,0.0,0.2,0.1
+20-05-2019,Atlanta Braves,San Francisco Giants,53.19,0.33,0.6,0.7,44.44,0.33,0.6,0.7
+21-05-2019,Atlanta Braves,San Francisco Giants,54.17,0.0,0.4,0.6,43.48,0.0,0.4,0.6
+22-05-2019,Atlanta Braves,San Francisco Giants,53.06,0.33,0.4,0.6,44.68,0.33,0.4,0.6
+23-05-2019,Atlanta Braves,San Francisco Giants,54.0,0.0,0.2,0.5,43.75,0.0,0.2,0.5
+24-05-2019,Arizona Diamondbacks,San Francisco Giants,50.0,0.0,0.0,0.3,42.86,0.0,0.0,0.3
+25-05-2019,Arizona Diamondbacks,San Francisco Giants,50.98,0.0,0.0,0.2,42.0,0.0,0.0,0.2
+26-05-2019,Arizona Diamondbacks,San Francisco Giants,51.92,0.33,0.2,0.3,41.18,0.33,0.2,0.3
+07-06-2019,Los Angeles Dodgers,San Francisco Giants,68.25,0.33,0.6,0.7,40.98,0.33,0.6,0.7
+08-06-2019,Los Angeles Dodgers,San Francisco Giants,67.19,0.0,0.4,0.7,41.94,0.0,0.4,0.7
+09-06-2019,Los Angeles Dodgers,San Francisco Giants,67.69,0.0,0.2,0.6,41.27,0.0,0.2,0.6
+11-06-2019,San Diego Padres,San Francisco Giants,50.0,0.0,0.4,0.3,40.62,0.0,0.4,0.3
+12-06-2019,San Diego Padres,San Francisco Giants,49.25,0.0,0.2,0.3,41.54,0.0,0.2,0.3
+14-06-2019,Milwaukee Brewers,San Francisco Giants,57.35,0.0,0.4,0.5,42.42,0.0,0.4,0.5
+15-06-2019,Milwaukee Brewers,San Francisco Giants,56.52,0.33,0.4,0.5,43.28,0.33,0.4,0.5
+16-06-2019,Milwaukee Brewers,San Francisco Giants,55.71,0.0,0.2,0.5,44.12,0.0,0.2,0.5
+24-06-2019,Colorado Rockies,San Francisco Giants,51.95,0.0,0.2,0.4,43.42,0.0,0.2,0.4
+25-06-2019,Colorado Rockies,San Francisco Giants,52.56,0.0,0.0,0.4,42.86,0.0,0.0,0.4
+26-06-2019,Colorado Rockies,San Francisco Giants,51.9,0.33,0.2,0.4,43.59,0.33,0.2,0.4
+27-06-2019,Arizona Diamondbacks,San Francisco Giants,50.0,0.0,0.4,0.2,43.04,0.0,0.4,0.2
+28-06-2019,Arizona Diamondbacks,San Francisco Giants,50.6,0.33,0.4,0.3,42.5,0.33,0.4,0.3
+29-06-2019,Arizona Diamondbacks,San Francisco Giants,50.0,0.33,0.4,0.4,43.21,0.33,0.4,0.4
+30-06-2019,Arizona Diamondbacks,San Francisco Giants,50.59,0.0,0.4,0.4,42.68,0.0,0.4,0.4
+05-07-2019,St. Louis Cardinals,San Francisco Giants,50.59,0.33,0.4,0.2,45.35,0.33,0.4,0.2
+06-07-2019,St. Louis Cardinals,San Francisco Giants,51.16,0.33,0.4,0.3,44.83,0.33,0.4,0.3
+07-07-2019,St. Louis Cardinals,San Francisco Giants,50.57,0.33,0.6,0.4,45.45,0.33,0.6,0.4
+18-07-2019,New York Mets,San Francisco Giants,46.32,0.33,0.6,0.4,48.96,0.33,0.6,0.4
+19-07-2019,New York Mets,San Francisco Giants,45.83,0.33,0.6,0.5,49.48,0.33,0.6,0.5
+20-07-2019,New York Mets,San Francisco Giants,45.36,0.0,0.4,0.5,50.0,0.0,0.4,0.5
+21-07-2019,New York Mets,San Francisco Giants,45.92,0.0,0.2,0.4,49.49,0.0,0.2,0.4
+22-07-2019,Chicago Cubs,San Francisco Giants,54.55,0.33,0.6,0.7,50.0,0.33,0.6,0.7
+23-07-2019,Chicago Cubs,San Francisco Giants,54.0,0.0,0.4,0.6,50.5,0.0,0.4,0.6
+24-07-2019,Chicago Cubs,San Francisco Giants,53.47,0.0,0.2,0.5,50.98,0.0,0.2,0.5
+05-08-2019,Washington Nationals,San Francisco Giants,52.25,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+06-08-2019,Washington Nationals,San Francisco Giants,52.68,0.0,0.2,0.3,49.56,0.0,0.2,0.3
+07-08-2019,Washington Nationals,San Francisco Giants,53.1,0.33,0.2,0.4,49.12,0.33,0.2,0.4
+08-08-2019,Philadelphia Phillies,San Francisco Giants,51.75,0.0,0.2,0.4,48.7,0.0,0.2,0.4
+09-08-2019,Philadelphia Phillies,San Francisco Giants,51.3,0.0,0.2,0.3,49.14,0.0,0.2,0.3
+10-08-2019,Philadelphia Phillies,San Francisco Giants,51.72,0.0,0.0,0.3,48.72,0.0,0.0,0.3
+11-08-2019,Philadelphia Phillies,San Francisco Giants,51.28,0.33,0.2,0.3,49.15,0.33,0.2,0.3
+13-08-2019,Oakland Athletics,San Francisco Giants,57.14,0.0,0.2,0.5,49.58,0.0,0.2,0.5
+14-08-2019,Oakland Athletics,San Francisco Giants,56.67,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+26-08-2019,Arizona Diamondbacks,San Francisco Giants,49.62,0.0,0.0,0.3,50.0,0.0,0.0,0.3
+27-08-2019,Arizona Diamondbacks,San Francisco Giants,50.0,0.33,0.2,0.4,49.62,0.33,0.2,0.4
+29-08-2019,San Diego Padres,San Francisco Giants,46.21,0.0,0.4,0.3,49.24,0.0,0.4,0.3
+30-08-2019,San Diego Padres,San Francisco Giants,46.62,0.0,0.2,0.2,48.87,0.0,0.2,0.2
+31-08-2019,San Diego Padres,San Francisco Giants,46.27,0.33,0.2,0.3,49.25,0.33,0.2,0.3
+01-09-2019,San Diego Padres,San Francisco Giants,46.67,0.0,0.2,0.3,48.89,0.0,0.2,0.3
+09-09-2019,Pittsburgh Pirates,San Francisco Giants,43.36,0.0,0.2,0.5,48.25,0.0,0.2,0.5
+10-09-2019,Pittsburgh Pirates,San Francisco Giants,43.75,0.0,0.2,0.4,47.92,0.0,0.2,0.4
+11-09-2019,Pittsburgh Pirates,San Francisco Giants,43.45,0.33,0.2,0.4,48.28,0.33,0.2,0.4
+12-09-2019,Pittsburgh Pirates,San Francisco Giants,43.84,0.0,0.2,0.3,47.95,0.0,0.2,0.3
+13-09-2019,Miami Marlins,San Francisco Giants,34.93,0.0,0.0,0.2,47.62,0.0,0.0,0.2
+14-09-2019,Miami Marlins,San Francisco Giants,34.69,0.0,0.0,0.2,47.97,0.0,0.0,0.2
+15-09-2019,Miami Marlins,San Francisco Giants,35.14,0.0,0.0,0.1,47.65,0.0,0.0,0.1
+24-09-2019,Colorado Rockies,San Francisco Giants,42.95,0.33,0.2,0.5,48.08,0.33,0.2,0.5
+25-09-2019,Colorado Rockies,San Francisco Giants,43.31,0.0,0.2,0.4,47.77,0.0,0.2,0.4
+26-09-2019,Colorado Rockies,San Francisco Giants,43.04,0.33,0.4,0.4,48.1,0.33,0.4,0.4
+27-09-2019,Los Angeles Dodgers,San Francisco Giants,64.78,0.33,0.6,0.6,48.43,0.33,0.6,0.6
+28-09-2019,Los Angeles Dodgers,San Francisco Giants,65.0,0.33,0.6,0.6,48.12,0.33,0.6,0.6
+29-09-2019,Los Angeles Dodgers,San Francisco Giants,65.22,0.33,0.6,0.6,47.83,0.33,0.6,0.6
+05-04-2019,San Diego Padres,St. Louis Cardinals,57.14,0.0,0.2,nan,50.0,0.0,0.2,nan
+06-04-2019,San Diego Padres,St. Louis Cardinals,62.5,0.33,0.2,nan,42.86,0.33,0.2,nan
+07-04-2019,San Diego Padres,St. Louis Cardinals,66.67,0.33,0.4,0.5,37.5,0.33,0.4,0.5
+08-04-2019,Los Angeles Dodgers,St. Louis Cardinals,80.0,0.33,0.6,0.6,44.44,0.33,0.6,0.6
+09-04-2019,Los Angeles Dodgers,St. Louis Cardinals,72.73,0.33,0.6,0.7,50.0,0.33,0.6,0.7
+10-04-2019,Los Angeles Dodgers,St. Louis Cardinals,66.67,0.0,0.4,0.6,54.55,0.0,0.4,0.6
+11-04-2019,Los Angeles Dodgers,St. Louis Cardinals,61.54,0.0,0.2,0.5,58.33,0.0,0.2,0.5
+19-04-2019,New York Mets,St. Louis Cardinals,55.56,0.0,0.2,0.4,55.56,0.0,0.2,0.4
+20-04-2019,New York Mets,St. Louis Cardinals,57.89,0.0,0.2,0.4,52.63,0.0,0.2,0.4
+21-04-2019,New York Mets,St. Louis Cardinals,55.0,0.33,0.2,0.4,55.0,0.33,0.2,0.4
+22-04-2019,Milwaukee Brewers,St. Louis Cardinals,56.52,0.33,0.2,0.4,57.14,0.33,0.2,0.4
+23-04-2019,Milwaukee Brewers,St. Louis Cardinals,54.17,0.0,0.2,0.3,59.09,0.0,0.2,0.3
+24-04-2019,Milwaukee Brewers,St. Louis Cardinals,52.0,0.0,0.2,0.3,60.87,0.0,0.2,0.3
+26-04-2019,Cincinnati Reds,St. Louis Cardinals,41.67,0.0,0.2,0.4,62.5,0.0,0.2,0.4
+27-04-2019,Cincinnati Reds,St. Louis Cardinals,44.0,0.33,0.4,0.5,60.0,0.33,0.4,0.5
+28-04-2019,Cincinnati Reds,St. Louis Cardinals,42.31,0.33,0.4,0.6,61.54,0.33,0.4,0.6
+06-05-2019,Philadelphia Phillies,St. Louis Cardinals,57.58,0.0,0.4,0.5,58.82,0.0,0.4,0.5
+07-05-2019,Philadelphia Phillies,St. Louis Cardinals,55.88,0.33,0.4,0.6,60.0,0.33,0.4,0.6
+08-05-2019,Philadelphia Phillies,St. Louis Cardinals,57.14,0.0,0.2,0.5,58.33,0.0,0.2,0.5
+09-05-2019,Pittsburgh Pirates,St. Louis Cardinals,51.52,0.33,0.6,0.5,56.76,0.33,0.6,0.5
+10-05-2019,Pittsburgh Pirates,St. Louis Cardinals,50.0,0.0,0.4,0.5,57.89,0.0,0.4,0.5
+11-05-2019,Pittsburgh Pirates,St. Louis Cardinals,51.43,0.0,0.2,0.5,56.41,0.0,0.2,0.5
+12-05-2019,Pittsburgh Pirates,St. Louis Cardinals,52.78,0.33,0.2,0.5,55.0,0.33,0.2,0.5
+24-05-2019,Atlanta Braves,St. Louis Cardinals,54.9,0.33,0.4,0.6,51.02,0.33,0.4,0.6
+25-05-2019,Atlanta Braves,St. Louis Cardinals,55.77,0.33,0.4,0.6,50.0,0.33,0.4,0.6
+26-05-2019,Atlanta Braves,St. Louis Cardinals,54.72,0.33,0.6,0.6,50.98,0.33,0.6,0.6
+31-05-2019,Chicago Cubs,St. Louis Cardinals,57.41,0.0,0.0,0.3,49.09,0.0,0.0,0.3
+01-06-2019,Chicago Cubs,St. Louis Cardinals,56.36,0.33,0.2,0.3,50.0,0.33,0.2,0.3
+02-06-2019,Chicago Cubs,St. Louis Cardinals,55.36,0.0,0.2,0.2,50.88,0.0,0.2,0.2
+04-06-2019,Cincinnati Reds,St. Louis Cardinals,45.76,0.0,0.2,0.4,51.72,0.0,0.2,0.4
+06-06-2019,Cincinnati Reds,St. Louis Cardinals,46.67,0.0,0.2,0.4,50.85,0.0,0.2,0.4
+17-06-2019,Miami Marlins,St. Louis Cardinals,36.23,0.33,0.4,0.2,51.43,0.33,0.4,0.2
+18-06-2019,Miami Marlins,St. Louis Cardinals,35.71,0.0,0.2,0.2,52.11,0.0,0.2,0.2
+19-06-2019,Miami Marlins,St. Louis Cardinals,36.62,0.0,0.2,0.2,51.39,0.0,0.2,0.2
+20-06-2019,Miami Marlins,St. Louis Cardinals,36.11,0.33,0.2,0.3,52.05,0.33,0.2,0.3
+21-06-2019,Los Angeles Angels,St. Louis Cardinals,50.0,0.33,0.6,0.6,51.35,0.33,0.6,0.6
+22-06-2019,Los Angeles Angels,St. Louis Cardinals,49.35,0.0,0.4,0.5,52.0,0.0,0.4,0.5
+23-06-2019,Los Angeles Angels,St. Louis Cardinals,48.72,0.0,0.2,0.4,52.63,0.0,0.2,0.4
+25-06-2019,Oakland Athletics,St. Louis Cardinals,52.5,0.33,0.4,0.6,51.95,0.33,0.4,0.6
+26-06-2019,Oakland Athletics,St. Louis Cardinals,53.09,0.0,0.2,0.5,51.28,0.0,0.2,0.5
+12-07-2019,Arizona Diamondbacks,St. Louis Cardinals,50.55,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+13-07-2019,Arizona Diamondbacks,St. Louis Cardinals,51.09,0.33,0.6,0.4,49.44,0.33,0.6,0.4
+14-07-2019,Arizona Diamondbacks,St. Louis Cardinals,50.54,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+15-07-2019,Pittsburgh Pirates,St. Louis Cardinals,47.83,0.0,0.2,0.4,50.55,0.0,0.2,0.4
+16-07-2019,Pittsburgh Pirates,St. Louis Cardinals,47.31,0.0,0.0,0.3,51.09,0.0,0.0,0.3
+17-07-2019,Pittsburgh Pirates,St. Louis Cardinals,47.87,0.0,0.0,0.2,50.54,0.0,0.0,0.2
+26-07-2019,Houston Astros,St. Louis Cardinals,63.46,0.0,0.4,0.6,53.92,0.0,0.4,0.6
+27-07-2019,Houston Astros,St. Louis Cardinals,62.86,0.33,0.4,0.7,54.37,0.33,0.4,0.7
+28-07-2019,Houston Astros,St. Louis Cardinals,63.21,0.0,0.2,0.6,53.85,0.0,0.2,0.6
+30-07-2019,Chicago Cubs,St. Louis Cardinals,53.33,0.0,0.2,0.3,53.33,0.0,0.2,0.3
+31-07-2019,Chicago Cubs,St. Louis Cardinals,52.83,0.33,0.2,0.3,53.77,0.33,0.2,0.3
+01-08-2019,Chicago Cubs,St. Louis Cardinals,53.27,0.0,0.2,0.2,53.27,0.0,0.2,0.2
+09-08-2019,Pittsburgh Pirates,St. Louis Cardinals,42.11,0.0,0.0,0.2,51.33,0.0,0.0,0.2
+10-08-2019,Pittsburgh Pirates,St. Louis Cardinals,41.74,0.0,0.0,0.2,51.75,0.0,0.0,0.2
+11-08-2019,Pittsburgh Pirates,St. Louis Cardinals,41.38,0.0,0.0,0.1,52.17,0.0,0.0,0.1
+19-08-2019,Milwaukee Brewers,St. Louis Cardinals,51.61,0.33,0.4,0.5,53.28,0.33,0.4,0.5
+20-08-2019,Milwaukee Brewers,St. Louis Cardinals,51.2,0.0,0.2,0.4,53.66,0.0,0.2,0.4
+21-08-2019,Milwaukee Brewers,St. Louis Cardinals,50.79,0.0,0.2,0.3,54.03,0.0,0.2,0.3
+22-08-2019,Colorado Rockies,St. Louis Cardinals,45.67,0.0,0.2,0.4,53.6,0.0,0.2,0.4
+23-08-2019,Colorado Rockies,St. Louis Cardinals,45.31,0.33,0.2,0.5,53.97,0.33,0.2,0.5
+24-08-2019,Colorado Rockies,St. Louis Cardinals,44.96,0.0,0.2,0.5,54.33,0.0,0.2,0.5
+25-08-2019,Colorado Rockies,St. Louis Cardinals,44.62,0.0,0.2,0.4,54.69,0.0,0.2,0.4
+02-09-2019,San Francisco Giants,St. Louis Cardinals,48.53,0.0,0.2,0.3,55.88,0.0,0.2,0.3
+03-09-2019,San Francisco Giants,St. Louis Cardinals,48.18,0.0,0.2,0.3,56.2,0.0,0.2,0.3
+04-09-2019,San Francisco Giants,St. Louis Cardinals,47.83,0.0,0.0,0.2,56.52,0.0,0.0,0.2
+05-09-2019,San Francisco Giants,St. Louis Cardinals,48.2,0.0,0.0,0.1,56.12,0.0,0.0,0.1
+13-09-2019,Milwaukee Brewers,St. Louis Cardinals,53.42,0.33,0.6,0.7,56.16,0.33,0.6,0.7
+14-09-2019,Milwaukee Brewers,St. Louis Cardinals,53.06,0.33,0.6,0.7,56.46,0.33,0.6,0.7
+15-09-2019,Milwaukee Brewers,St. Louis Cardinals,53.38,0.0,0.4,0.7,56.08,0.0,0.4,0.7
+16-09-2019,Washington Nationals,St. Louis Cardinals,55.41,0.0,0.2,0.3,55.7,0.0,0.2,0.3
+17-09-2019,Washington Nationals,St. Louis Cardinals,55.03,0.33,0.2,0.4,56.0,0.33,0.2,0.4
+18-09-2019,Washington Nationals,St. Louis Cardinals,55.33,0.0,0.2,0.4,55.63,0.0,0.2,0.4
+27-09-2019,Chicago Cubs,St. Louis Cardinals,51.57,0.0,0.0,0.0,56.6,0.0,0.0,0.0
+28-09-2019,Chicago Cubs,St. Louis Cardinals,51.88,0.0,0.0,0.0,56.25,0.0,0.0,0.0
+29-09-2019,Chicago Cubs,St. Louis Cardinals,52.17,0.33,0.2,0.1,55.9,0.33,0.2,0.1
+28-03-2019,Houston Astros,Tampa Bay Rays,0,0.33,0.4,0.6,0,0.33,0.4,0.6
+29-03-2019,Houston Astros,Tampa Bay Rays,100.0,nan,nan,nan,0.0,nan,nan,nan
+30-03-2019,Houston Astros,Tampa Bay Rays,50.0,0.33,nan,nan,50.0,0.33,nan,nan
+31-03-2019,Houston Astros,Tampa Bay Rays,33.33,0.0,nan,nan,66.67,0.0,nan,nan
+01-04-2019,Colorado Rockies,Tampa Bay Rays,50.0,0.0,0.4,nan,75.0,0.0,0.4,nan
+02-04-2019,Colorado Rockies,Tampa Bay Rays,40.0,0.0,0.2,nan,80.0,0.0,0.2,nan
+03-04-2019,Colorado Rockies,Tampa Bay Rays,33.33,0.0,0.0,nan,83.33,0.0,0.0,nan
+16-04-2019,Baltimore Orioles,Tampa Bay Rays,41.18,0.0,0.2,0.2,75.0,0.0,0.2,0.2
+17-04-2019,Baltimore Orioles,Tampa Bay Rays,38.89,0.33,0.4,0.3,76.47,0.33,0.4,0.3
+18-04-2019,Baltimore Orioles,Tampa Bay Rays,36.84,0.0,0.2,0.2,77.78,0.0,0.2,0.2
+19-04-2019,Boston Red Sox,Tampa Bay Rays,31.58,0.0,0.2,0.4,73.68,0.0,0.2,0.4
+20-04-2019,Boston Red Sox,Tampa Bay Rays,35.0,0.0,0.0,0.3,70.0,0.0,0.0,0.3
+21-04-2019,Boston Red Sox,Tampa Bay Rays,38.1,0.33,0.2,0.4,66.67,0.33,0.2,0.4
+22-04-2019,Kansas City Royals,Tampa Bay Rays,31.82,0.0,0.2,0.4,63.64,0.0,0.2,0.4
+23-04-2019,Kansas City Royals,Tampa Bay Rays,30.43,0.0,0.0,0.3,65.22,0.0,0.0,0.3
+24-04-2019,Kansas City Royals,Tampa Bay Rays,29.17,0.0,0.0,0.2,66.67,0.0,0.0,0.2
+06-05-2019,Arizona Diamondbacks,Tampa Bay Rays,58.82,0.33,0.6,0.6,63.64,0.33,0.6,0.6
+07-05-2019,Arizona Diamondbacks,Tampa Bay Rays,57.14,0.0,0.4,0.5,64.71,0.0,0.4,0.5
+08-05-2019,Arizona Diamondbacks,Tampa Bay Rays,55.56,0.0,0.2,0.4,65.71,0.0,0.2,0.4
+10-05-2019,New York Yankees,Tampa Bay Rays,59.46,0.0,0.4,0.4,63.89,0.0,0.4,0.4
+11-05-2019,New York Yankees,Tampa Bay Rays,60.53,0.33,0.4,0.5,62.16,0.33,0.4,0.5
+12-05-2019,New York Yankees,Tampa Bay Rays,58.97,0.33,0.4,0.6,63.16,0.33,0.4,0.6
+21-05-2019,Los Angeles Dodgers,Tampa Bay Rays,64.58,0.0,0.4,0.5,61.36,0.0,0.4,0.5
+22-05-2019,Los Angeles Dodgers,Tampa Bay Rays,65.31,0.33,0.4,0.6,60.0,0.33,0.4,0.6
+27-05-2019,Toronto Blue Jays,Tampa Bay Rays,39.62,0.0,0.0,0.2,62.0,0.0,0.0,0.2
+28-05-2019,Toronto Blue Jays,Tampa Bay Rays,38.89,0.33,0.2,0.3,62.75,0.33,0.2,0.3
+29-05-2019,Toronto Blue Jays,Tampa Bay Rays,38.18,0.0,0.2,0.2,63.46,0.0,0.2,0.2
+30-05-2019,Minnesota Twins,Tampa Bay Rays,68.52,0.0,0.4,0.6,64.15,0.0,0.4,0.6
+31-05-2019,Minnesota Twins,Tampa Bay Rays,67.27,0.33,0.4,0.7,64.81,0.33,0.4,0.7
+01-06-2019,Minnesota Twins,Tampa Bay Rays,67.86,0.0,0.2,0.6,63.64,0.0,0.2,0.6
+02-06-2019,Minnesota Twins,Tampa Bay Rays,68.42,0.33,0.4,0.6,62.5,0.33,0.4,0.6
+10-06-2019,Oakland Athletics,Tampa Bay Rays,50.75,0.0,0.2,0.3,62.5,0.0,0.2,0.3
+11-06-2019,Oakland Athletics,Tampa Bay Rays,50.0,0.33,0.2,0.4,63.08,0.33,0.2,0.4
+12-06-2019,Oakland Athletics,Tampa Bay Rays,50.72,0.0,0.2,0.4,62.12,0.0,0.2,0.4
+13-06-2019,Los Angeles Angels,Tampa Bay Rays,48.53,0.33,0.4,0.3,61.19,0.33,0.4,0.3
+14-06-2019,Los Angeles Angels,Tampa Bay Rays,49.28,0.33,0.4,0.4,60.29,0.33,0.4,0.4
+15-06-2019,Los Angeles Angels,Tampa Bay Rays,48.57,0.33,0.6,0.5,60.87,0.33,0.6,0.5
+16-06-2019,Los Angeles Angels,Tampa Bay Rays,49.3,0.0,0.4,0.4,60.0,0.0,0.4,0.4
+28-06-2019,Texas Rangers,Tampa Bay Rays,55.56,0.33,0.6,0.5,56.79,0.33,0.6,0.5
+29-06-2019,Texas Rangers,Tampa Bay Rays,56.1,0.33,0.6,0.6,56.1,0.33,0.6,0.6
+30-06-2019,Texas Rangers,Tampa Bay Rays,55.42,0.33,0.6,0.7,56.63,0.33,0.6,0.7
+01-07-2019,Baltimore Orioles,Tampa Bay Rays,28.92,0.33,0.4,0.3,57.14,0.33,0.4,0.3
+02-07-2019,Baltimore Orioles,Tampa Bay Rays,28.57,0.0,0.4,0.3,57.65,0.0,0.4,0.3
+03-07-2019,Baltimore Orioles,Tampa Bay Rays,28.24,0.0,0.2,0.3,58.14,0.0,0.2,0.3
+04-07-2019,New York Yankees,Tampa Bay Rays,65.48,0.0,0.4,0.6,57.47,0.0,0.4,0.6
+05-07-2019,New York Yankees,Tampa Bay Rays,65.88,0.33,0.4,0.6,56.82,0.33,0.4,0.6
+06-07-2019,New York Yankees,Tampa Bay Rays,66.28,0.33,0.4,0.7,56.18,0.33,0.4,0.7
+07-07-2019,New York Yankees,Tampa Bay Rays,65.52,0.33,0.6,0.7,56.67,0.33,0.6,0.7
+19-07-2019,Chicago White Sox,Tampa Bay Rays,45.16,0.0,0.0,0.1,56.57,0.0,0.0,0.1
+20-07-2019,Chicago White Sox,Tampa Bay Rays,45.74,0.0,0.0,0.1,56.0,0.0,0.0,0.1
+21-07-2019,Chicago White Sox,Tampa Bay Rays,46.32,0.33,0.2,0.1,55.45,0.33,0.2,0.1
+22-07-2019,Boston Red Sox,Tampa Bay Rays,54.0,0.33,0.4,0.4,55.88,0.33,0.4,0.4
+23-07-2019,Boston Red Sox,Tampa Bay Rays,54.46,0.0,0.2,0.4,55.34,0.0,0.2,0.4
+24-07-2019,Boston Red Sox,Tampa Bay Rays,54.9,0.33,0.4,0.5,54.81,0.33,0.4,0.5
+03-08-2019,Miami Marlins,Tampa Bay Rays,39.25,0.0,0.2,0.5,56.76,0.0,0.2,0.5
+04-08-2019,Miami Marlins,Tampa Bay Rays,38.89,0.33,0.2,0.5,57.14,0.33,0.2,0.5
+05-08-2019,Toronto Blue Jays,Tampa Bay Rays,39.47,0.0,0.4,0.6,57.52,0.0,0.4,0.6
+06-08-2019,Toronto Blue Jays,Tampa Bay Rays,40.0,0.0,0.2,0.5,57.02,0.0,0.2,0.5
+07-08-2019,Toronto Blue Jays,Tampa Bay Rays,39.66,0.33,0.2,0.6,57.39,0.33,0.2,0.6
+16-08-2019,Detroit Tigers,Tampa Bay Rays,30.25,0.33,0.2,0.4,58.2,0.33,0.2,0.4
+17-08-2019,Detroit Tigers,Tampa Bay Rays,30.83,0.0,0.2,0.3,57.72,0.0,0.2,0.3
+18-08-2019,Detroit Tigers,Tampa Bay Rays,30.58,0.33,0.4,0.4,58.06,0.33,0.4,0.4
+19-08-2019,Seattle Mariners,Tampa Bay Rays,41.6,0.33,0.4,0.3,58.4,0.33,0.4,0.3
+20-08-2019,Seattle Mariners,Tampa Bay Rays,42.06,0.33,0.4,0.4,57.94,0.33,0.4,0.4
+21-08-2019,Seattle Mariners,Tampa Bay Rays,42.52,0.33,0.6,0.5,57.48,0.33,0.6,0.5
+30-08-2019,Cleveland Indians,Tampa Bay Rays,58.96,0.33,0.4,0.4,57.04,0.33,0.4,0.4
+31-08-2019,Cleveland Indians,Tampa Bay Rays,58.52,0.33,0.6,0.5,57.35,0.33,0.6,0.5
+01-09-2019,Cleveland Indians,Tampa Bay Rays,58.09,0.0,0.4,0.5,57.66,0.0,0.4,0.5
+02-09-2019,Baltimore Orioles,Tampa Bay Rays,33.09,0.0,0.2,0.4,57.97,0.0,0.2,0.4
+05-09-2019,Toronto Blue Jays,Tampa Bay Rays,39.29,0.0,0.2,0.3,58.16,0.0,0.2,0.3
+06-09-2019,Toronto Blue Jays,Tampa Bay Rays,39.01,0.0,0.0,0.2,58.45,0.0,0.0,0.2
+07-09-2019,Toronto Blue Jays,Tampa Bay Rays,38.73,0.0,0.0,0.2,58.74,0.0,0.0,0.2
+08-09-2019,Toronto Blue Jays,Tampa Bay Rays,38.46,0.0,0.0,0.1,59.03,0.0,0.0,0.1
+20-09-2019,Boston Red Sox,Tampa Bay Rays,52.63,0.0,0.2,0.3,58.82,0.0,0.2,0.3
+21-09-2019,Boston Red Sox,Tampa Bay Rays,52.29,0.33,0.2,0.4,59.09,0.33,0.2,0.4
+22-09-2019,Boston Red Sox,Tampa Bay Rays,51.95,0.0,0.2,0.4,59.35,0.0,0.2,0.4
+23-09-2019,Boston Red Sox,Tampa Bay Rays,52.26,0.0,0.2,0.4,58.97,0.0,0.2,0.4
+24-09-2019,New York Yankees,Tampa Bay Rays,64.97,0.33,0.4,0.4,59.24,0.33,0.4,0.4
+25-09-2019,New York Yankees,Tampa Bay Rays,64.56,0.33,0.4,0.5,59.49,0.33,0.4,0.5
+28-03-2019,Chicago Cubs,Texas Rangers,0,0.33,0.4,0.2,0,0.33,0.4,0.2
+30-03-2019,Chicago Cubs,Texas Rangers,100.0,nan,nan,nan,0.0,nan,nan,nan
+31-03-2019,Chicago Cubs,Texas Rangers,50.0,0.33,nan,nan,50.0,0.33,nan,nan
+01-04-2019,Houston Astros,Texas Rangers,25.0,0.0,0.2,nan,66.67,0.0,0.2,nan
+02-04-2019,Houston Astros,Texas Rangers,40.0,0.0,0.0,nan,50.0,0.0,0.0,nan
+03-04-2019,Houston Astros,Texas Rangers,33.33,0.33,0.2,nan,60.0,0.33,0.2,nan
+12-04-2019,Oakland Athletics,Texas Rangers,52.94,0.33,0.4,0.3,50.0,0.33,0.4,0.3
+14-04-2019,Oakland Athletics,Texas Rangers,55.56,0.33,0.6,0.4,46.15,0.33,0.6,0.4
+15-04-2019,Los Angeles Angels,Texas Rangers,53.33,0.0,0.4,0.6,50.0,0.0,0.4,0.6
+16-04-2019,Los Angeles Angels,Texas Rangers,50.0,0.33,0.4,0.7,53.33,0.33,0.4,0.7
+17-04-2019,Los Angeles Angels,Texas Rangers,47.06,0.0,0.2,0.6,56.25,0.0,0.2,0.6
+19-04-2019,Houston Astros,Texas Rangers,66.67,0.33,0.6,0.8,58.82,0.33,0.6,0.8
+20-04-2019,Houston Astros,Texas Rangers,68.42,0.0,0.4,0.7,55.56,0.0,0.4,0.7
+21-04-2019,Houston Astros,Texas Rangers,65.0,0.33,0.4,0.7,57.89,0.33,0.4,0.7
+30-04-2019,Pittsburgh Pirates,Texas Rangers,46.15,0.0,0.0,0.1,51.85,0.0,0.0,0.1
+01-05-2019,Pittsburgh Pirates,Texas Rangers,48.15,0.0,0.0,0.0,50.0,0.0,0.0,0.0
+03-05-2019,Toronto Blue Jays,Texas Rangers,45.16,0.0,0.2,0.4,48.28,0.0,0.2,0.4
+04-05-2019,Toronto Blue Jays,Texas Rangers,46.88,0.0,0.0,0.3,46.67,0.0,0.0,0.3
+05-05-2019,Toronto Blue Jays,Texas Rangers,45.45,0.33,0.2,0.4,48.39,0.33,0.2,0.4
+17-05-2019,St. Louis Cardinals,Texas Rangers,52.27,0.0,0.2,0.2,46.34,0.0,0.2,0.2
+18-05-2019,St. Louis Cardinals,Texas Rangers,51.11,0.0,0.2,0.2,47.62,0.0,0.2,0.2
+19-05-2019,St. Louis Cardinals,Texas Rangers,52.17,0.0,0.0,0.2,46.51,0.0,0.0,0.2
+20-05-2019,Seattle Mariners,Texas Rangers,46.94,0.0,0.0,0.2,47.73,0.0,0.0,0.2
+21-05-2019,Seattle Mariners,Texas Rangers,46.0,0.33,0.2,0.3,48.89,0.33,0.2,0.3
+22-05-2019,Seattle Mariners,Texas Rangers,45.1,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+30-05-2019,Kansas City Royals,Texas Rangers,32.73,0.0,0.2,0.3,50.94,0.0,0.2,0.3
+31-05-2019,Kansas City Royals,Texas Rangers,33.93,0.0,0.0,0.2,50.0,0.0,0.0,0.2
+01-06-2019,Kansas City Royals,Texas Rangers,33.33,0.33,0.2,0.2,50.91,0.33,0.2,0.2
+02-06-2019,Kansas City Royals,Texas Rangers,32.76,0.0,0.2,0.2,51.79,0.0,0.2,0.2
+04-06-2019,Baltimore Orioles,Texas Rangers,30.51,0.0,0.2,0.3,52.63,0.0,0.2,0.3
+05-06-2019,Baltimore Orioles,Texas Rangers,31.67,0.0,0.2,0.3,51.72,0.0,0.2,0.3
+06-06-2019,Baltimore Orioles,Texas Rangers,31.15,0.33,0.2,0.3,52.54,0.33,0.2,0.3
+07-06-2019,Oakland Athletics,Texas Rangers,50.79,0.0,0.2,0.2,53.33,0.0,0.2,0.2
+09-06-2019,Oakland Athletics,Texas Rangers,50.0,0.0,0.4,0.3,53.97,0.0,0.4,0.3
+17-06-2019,Cleveland Indians,Texas Rangers,52.86,0.33,0.4,0.5,53.52,0.33,0.4,0.5
+18-06-2019,Cleveland Indians,Texas Rangers,52.11,0.33,0.6,0.6,54.17,0.33,0.6,0.6
+19-06-2019,Cleveland Indians,Texas Rangers,52.78,0.0,0.4,0.5,53.42,0.0,0.4,0.5
+20-06-2019,Cleveland Indians,Texas Rangers,53.42,0.33,0.4,0.5,52.7,0.33,0.4,0.5
+21-06-2019,Chicago White Sox,Texas Rangers,48.61,0.33,0.2,0.5,53.33,0.33,0.2,0.5
+22-06-2019,Chicago White Sox,Texas Rangers,49.32,0.0,0.2,0.4,52.63,0.0,0.2,0.4
+23-06-2019,Chicago White Sox,Texas Rangers,48.65,0.33,0.4,0.5,53.25,0.33,0.4,0.5
+02-07-2019,Los Angeles Angels,Texas Rangers,49.41,0.0,0.2,0.4,54.76,0.0,0.2,0.4
+03-07-2019,Los Angeles Angels,Texas Rangers,50.0,0.0,0.0,0.4,54.12,0.0,0.0,0.4
+04-07-2019,Los Angeles Angels,Texas Rangers,50.57,0.33,0.2,0.5,53.49,0.33,0.2,0.5
+11-07-2019,Houston Astros,Texas Rangers,63.33,0.33,0.4,0.6,53.33,0.33,0.4,0.6
+12-07-2019,Houston Astros,Texas Rangers,62.64,0.33,0.4,0.7,53.85,0.33,0.4,0.7
+13-07-2019,Houston Astros,Texas Rangers,61.96,0.0,0.4,0.6,54.35,0.0,0.4,0.6
+14-07-2019,Houston Astros,Texas Rangers,62.37,0.0,0.2,0.5,53.76,0.0,0.2,0.5
+16-07-2019,Arizona Diamondbacks,Texas Rangers,50.0,0.0,0.4,0.4,53.19,0.0,0.4,0.4
+17-07-2019,Arizona Diamondbacks,Texas Rangers,50.53,0.0,0.2,0.4,52.63,0.0,0.2,0.4
+30-07-2019,Seattle Mariners,Texas Rangers,42.2,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+31-07-2019,Seattle Mariners,Texas Rangers,42.73,0.33,0.6,0.6,49.53,0.33,0.6,0.6
+02-08-2019,Detroit Tigers,Texas Rangers,30.48,0.0,0.2,0.1,50.0,0.0,0.2,0.1
+03-08-2019,Detroit Tigers,Texas Rangers,30.19,0.33,0.4,0.2,50.46,0.33,0.4,0.2
+04-08-2019,Detroit Tigers,Texas Rangers,29.91,0.0,0.2,0.2,50.91,0.0,0.2,0.2
+15-08-2019,Minnesota Twins,Texas Rangers,60.0,0.33,0.4,0.3,50.0,0.33,0.4,0.3
+16-08-2019,Minnesota Twins,Texas Rangers,60.33,0.0,0.2,0.2,49.59,0.0,0.2,0.2
+17-08-2019,Minnesota Twins,Texas Rangers,60.66,0.33,0.4,0.3,49.18,0.33,0.4,0.3
+18-08-2019,Minnesota Twins,Texas Rangers,60.98,0.33,0.4,0.4,48.78,0.33,0.4,0.4
+19-08-2019,Los Angeles Angels,Texas Rangers,49.21,0.33,0.4,0.5,48.39,0.33,0.4,0.5
+21-08-2019,Los Angeles Angels,Texas Rangers,48.84,0.33,0.4,0.5,48.82,0.33,0.4,0.5
+29-08-2019,Seattle Mariners,Texas Rangers,41.79,0.0,0.2,0.4,48.51,0.0,0.2,0.4
+30-08-2019,Seattle Mariners,Texas Rangers,42.22,0.0,0.0,0.3,48.15,0.0,0.0,0.3
+31-08-2019,Seattle Mariners,Texas Rangers,41.91,0.33,0.2,0.3,48.53,0.33,0.2,0.3
+01-09-2019,Seattle Mariners,Texas Rangers,41.61,0.0,0.2,0.3,48.91,0.0,0.2,0.3
+10-09-2019,Tampa Bay Rays,Texas Rangers,59.31,0.33,0.6,0.7,49.66,0.33,0.6,0.7
+11-09-2019,Tampa Bay Rays,Texas Rangers,59.59,0.33,0.6,0.7,49.32,0.33,0.6,0.7
+12-09-2019,Tampa Bay Rays,Texas Rangers,59.18,0.33,0.6,0.7,49.66,0.33,0.6,0.7
+13-09-2019,Oakland Athletics,Texas Rangers,59.18,0.33,0.4,0.6,50.0,0.33,0.4,0.6
+14-09-2019,Oakland Athletics,Texas Rangers,59.46,0.33,0.6,0.6,49.66,0.33,0.6,0.6
+15-09-2019,Oakland Athletics,Texas Rangers,59.73,0.33,0.6,0.6,49.33,0.33,0.6,0.6
+24-09-2019,Boston Red Sox,Texas Rangers,51.92,0.33,0.2,0.4,48.08,0.33,0.2,0.4
+25-09-2019,Boston Red Sox,Texas Rangers,52.23,0.0,0.2,0.3,47.77,0.0,0.2,0.3
+26-09-2019,Boston Red Sox,Texas Rangers,52.53,0.33,0.4,0.3,47.47,0.33,0.4,0.3
+27-09-2019,New York Yankees,Texas Rangers,64.15,0.0,0.4,0.4,47.8,0.0,0.4,0.4
+28-09-2019,New York Yankees,Texas Rangers,64.38,0.0,0.2,0.4,47.5,0.0,0.2,0.4
+29-09-2019,New York Yankees,Texas Rangers,63.98,0.33,0.2,0.4,47.83,0.33,0.2,0.4
+28-03-2019,Detroit Tigers,Toronto Blue Jays,0,0.33,0.2,0.2,0,0.33,0.2,0.2
+29-03-2019,Detroit Tigers,Toronto Blue Jays,100.0,nan,nan,nan,0.0,nan,nan,nan
+30-03-2019,Detroit Tigers,Toronto Blue Jays,50.0,0.33,nan,nan,50.0,0.33,nan,nan
+31-03-2019,Detroit Tigers,Toronto Blue Jays,33.33,0.0,nan,nan,66.67,0.0,nan,nan
+01-04-2019,Baltimore Orioles,Toronto Blue Jays,66.67,0.33,nan,nan,50.0,0.33,nan,nan
+02-04-2019,Baltimore Orioles,Toronto Blue Jays,75.0,0.33,0.4,nan,40.0,0.33,0.4,nan
+03-04-2019,Baltimore Orioles,Toronto Blue Jays,80.0,0.33,0.6,nan,33.33,0.33,0.6,nan
+12-04-2019,Tampa Bay Rays,Toronto Blue Jays,76.92,0.33,0.6,0.6,30.77,0.33,0.6,0.6
+13-04-2019,Tampa Bay Rays,Toronto Blue Jays,78.57,0.33,0.6,0.6,28.57,0.33,0.6,0.6
+14-04-2019,Tampa Bay Rays,Toronto Blue Jays,73.33,0.33,0.6,0.6,33.33,0.33,0.6,0.6
+23-04-2019,San Francisco Giants,Toronto Blue Jays,39.13,0.0,0.0,0.3,47.83,0.0,0.0,0.3
+24-04-2019,San Francisco Giants,Toronto Blue Jays,41.67,0.33,0.2,0.3,45.83,0.33,0.2,0.3
+26-04-2019,Oakland Athletics,Toronto Blue Jays,51.85,0.33,0.4,0.3,44.0,0.33,0.4,0.3
+27-04-2019,Oakland Athletics,Toronto Blue Jays,50.0,0.33,0.6,0.4,46.15,0.33,0.6,0.4
+28-04-2019,Oakland Athletics,Toronto Blue Jays,48.28,0.0,0.4,0.4,48.15,0.0,0.4,0.4
+06-05-2019,Minnesota Twins,Toronto Blue Jays,62.5,0.33,0.4,0.6,44.12,0.33,0.4,0.6
+07-05-2019,Minnesota Twins,Toronto Blue Jays,63.64,0.0,0.2,0.5,42.86,0.0,0.2,0.5
+08-05-2019,Minnesota Twins,Toronto Blue Jays,64.71,0.33,0.4,0.5,41.67,0.33,0.4,0.5
+10-05-2019,Chicago White Sox,Toronto Blue Jays,44.44,0.0,0.4,0.4,40.54,0.0,0.4,0.4
+11-05-2019,Chicago White Sox,Toronto Blue Jays,43.24,0.0,0.2,0.3,42.11,0.0,0.2,0.3
+12-05-2019,Chicago White Sox,Toronto Blue Jays,44.74,0.0,0.0,0.2,41.03,0.0,0.0,0.2
+20-05-2019,Boston Red Sox,Toronto Blue Jays,52.17,0.0,0.2,0.5,41.3,0.0,0.2,0.5
+21-05-2019,Boston Red Sox,Toronto Blue Jays,53.19,0.33,0.2,0.5,40.43,0.33,0.2,0.5
+22-05-2019,Boston Red Sox,Toronto Blue Jays,52.08,0.33,0.4,0.5,41.67,0.33,0.4,0.5
+23-05-2019,Boston Red Sox,Toronto Blue Jays,53.06,0.0,0.4,0.4,40.82,0.0,0.4,0.4
+24-05-2019,San Diego Padres,Toronto Blue Jays,52.0,0.33,0.4,0.3,40.0,0.33,0.4,0.3
+25-05-2019,San Diego Padres,Toronto Blue Jays,52.94,0.33,0.6,0.4,39.22,0.33,0.6,0.4
+26-05-2019,San Diego Padres,Toronto Blue Jays,53.85,0.33,0.6,0.5,38.46,0.33,0.6,0.5
+04-06-2019,New York Yankees,Toronto Blue Jays,65.52,0.33,0.6,0.6,35.59,0.33,0.6,0.6
+05-06-2019,New York Yankees,Toronto Blue Jays,64.41,0.0,0.4,0.5,36.67,0.0,0.4,0.5
+06-06-2019,New York Yankees,Toronto Blue Jays,63.33,0.0,0.2,0.4,37.7,0.0,0.2,0.4
+07-06-2019,Arizona Diamondbacks,Toronto Blue Jays,49.21,0.0,0.2,0.2,37.1,0.0,0.2,0.2
+08-06-2019,Arizona Diamondbacks,Toronto Blue Jays,50.0,0.33,0.2,0.3,36.51,0.33,0.2,0.3
+09-06-2019,Arizona Diamondbacks,Toronto Blue Jays,50.77,0.33,0.4,0.4,35.94,0.33,0.4,0.4
+17-06-2019,Los Angeles Angels,Toronto Blue Jays,48.61,0.33,0.4,0.5,36.62,0.33,0.4,0.5
+18-06-2019,Los Angeles Angels,Toronto Blue Jays,49.32,0.0,0.2,0.5,36.11,0.0,0.2,0.5
+19-06-2019,Los Angeles Angels,Toronto Blue Jays,50.0,0.33,0.4,0.5,35.62,0.33,0.4,0.5
+20-06-2019,Los Angeles Angels,Toronto Blue Jays,50.67,0.33,0.4,0.6,35.14,0.33,0.4,0.6
+28-06-2019,Kansas City Royals,Toronto Blue Jays,34.57,0.33,0.4,0.4,35.8,0.33,0.4,0.4
+29-06-2019,Kansas City Royals,Toronto Blue Jays,34.15,0.0,0.2,0.3,36.59,0.0,0.2,0.3
+30-06-2019,Kansas City Royals,Toronto Blue Jays,33.73,0.0,0.2,0.3,37.35,0.0,0.2,0.3
+01-07-2019,Kansas City Royals,Toronto Blue Jays,34.52,0.0,0.0,0.2,36.9,0.0,0.0,0.2
+02-07-2019,Boston Red Sox,Toronto Blue Jays,52.38,0.0,0.2,0.4,37.65,0.0,0.2,0.4
+03-07-2019,Boston Red Sox,Toronto Blue Jays,52.94,0.0,0.0,0.3,37.21,0.0,0.0,0.3
+04-07-2019,Boston Red Sox,Toronto Blue Jays,52.33,0.33,0.2,0.3,37.93,0.33,0.2,0.3
+05-07-2019,Baltimore Orioles,Toronto Blue Jays,29.07,0.0,0.0,0.2,37.5,0.0,0.0,0.2
+06-07-2019,Baltimore Orioles,Toronto Blue Jays,29.89,0.33,0.2,0.3,37.08,0.33,0.2,0.3
+07-07-2019,Baltimore Orioles,Toronto Blue Jays,30.68,0.33,0.4,0.4,36.67,0.33,0.4,0.4
+22-07-2019,Cleveland Indians,Toronto Blue Jays,58.16,0.0,0.4,0.6,37.62,0.0,0.4,0.6
+23-07-2019,Cleveland Indians,Toronto Blue Jays,58.59,0.33,0.4,0.7,37.25,0.33,0.4,0.7
+24-07-2019,Cleveland Indians,Toronto Blue Jays,58.0,0.33,0.4,0.7,37.86,0.33,0.4,0.7
+26-07-2019,Tampa Bay Rays,Toronto Blue Jays,55.24,0.0,0.2,0.1,37.5,0.0,0.2,0.1
+27-07-2019,Tampa Bay Rays,Toronto Blue Jays,55.66,0.33,0.2,0.2,37.14,0.33,0.2,0.2
+28-07-2019,Tampa Bay Rays,Toronto Blue Jays,55.14,0.33,0.4,0.3,37.74,0.33,0.4,0.3
+08-08-2019,New York Yankees,Toronto Blue Jays,65.79,0.33,0.6,0.7,40.17,0.33,0.6,0.7
+09-08-2019,New York Yankees,Toronto Blue Jays,66.09,0.33,0.6,0.8,39.83,0.33,0.6,0.8
+10-08-2019,New York Yankees,Toronto Blue Jays,65.52,0.33,0.6,0.8,40.34,0.33,0.6,0.8
+11-08-2019,New York Yankees,Toronto Blue Jays,64.96,0.0,0.4,0.7,40.83,0.0,0.4,0.7
+12-08-2019,Texas Rangers,Toronto Blue Jays,50.43,0.0,0.0,0.4,40.5,0.0,0.0,0.4
+13-08-2019,Texas Rangers,Toronto Blue Jays,50.0,0.33,0.2,0.4,40.98,0.33,0.2,0.4
+14-08-2019,Texas Rangers,Toronto Blue Jays,49.58,0.0,0.2,0.3,41.46,0.0,0.2,0.3
+16-08-2019,Seattle Mariners,Toronto Blue Jays,40.98,0.0,0.2,0.2,41.13,0.0,0.2,0.2
+17-08-2019,Seattle Mariners,Toronto Blue Jays,40.65,0.33,0.4,0.3,41.6,0.33,0.4,0.3
+18-08-2019,Seattle Mariners,Toronto Blue Jays,41.13,0.0,0.2,0.3,41.27,0.0,0.2,0.3
+27-08-2019,Atlanta Braves,Toronto Blue Jays,60.15,0.33,0.6,0.8,39.85,0.33,0.6,0.8
+28-08-2019,Atlanta Braves,Toronto Blue Jays,59.7,0.0,0.4,0.7,40.3,0.0,0.4,0.7
+30-08-2019,Houston Astros,Toronto Blue Jays,64.44,0.33,0.6,0.7,40.0,0.33,0.6,0.7
+31-08-2019,Houston Astros,Toronto Blue Jays,64.71,0.0,0.4,0.6,39.71,0.0,0.4,0.6
+01-09-2019,Houston Astros,Toronto Blue Jays,64.23,0.33,0.4,0.7,40.15,0.33,0.4,0.7
+10-09-2019,Boston Red Sox,Toronto Blue Jays,52.78,0.0,0.2,0.3,38.19,0.0,0.2,0.3
+11-09-2019,Boston Red Sox,Toronto Blue Jays,52.41,0.0,0.0,0.3,38.62,0.0,0.0,0.3
+12-09-2019,Boston Red Sox,Toronto Blue Jays,52.05,0.0,0.0,0.2,39.04,0.0,0.0,0.2
+13-09-2019,New York Yankees,Toronto Blue Jays,65.54,0.33,0.4,0.6,38.78,0.33,0.4,0.6
+14-09-2019,New York Yankees,Toronto Blue Jays,65.1,0.33,0.4,0.6,39.19,0.33,0.4,0.6
+15-09-2019,New York Yankees,Toronto Blue Jays,65.33,0.0,0.4,0.5,38.93,0.0,0.4,0.5
+23-09-2019,Baltimore Orioles,Toronto Blue Jays,32.69,0.0,0.2,0.2,40.38,0.0,0.2,0.2
+24-09-2019,Baltimore Orioles,Toronto Blue Jays,32.48,0.33,0.4,0.3,40.76,0.33,0.4,0.3
+25-09-2019,Baltimore Orioles,Toronto Blue Jays,32.91,0.0,0.2,0.2,40.51,0.0,0.2,0.2
+27-09-2019,Tampa Bay Rays,Toronto Blue Jays,59.75,0.33,0.4,0.5,40.88,0.33,0.4,0.5
+28-09-2019,Tampa Bay Rays,Toronto Blue Jays,60.0,0.33,0.6,0.6,40.62,0.33,0.6,0.6
+29-09-2019,Tampa Bay Rays,Toronto Blue Jays,59.63,0.33,0.6,0.7,40.99,0.33,0.6,0.7
+28-03-2019,New York Mets,Washington Nationals,0,0.33,0.4,0.5,0,0.33,0.4,0.5
+30-03-2019,New York Mets,Washington Nationals,100.0,nan,nan,nan,0.0,nan,nan,nan
+31-03-2019,New York Mets,Washington Nationals,100.0,0.33,nan,nan,0.0,0.33,nan,nan
+02-04-2019,Philadelphia Phillies,Washington Nationals,100.0,0.33,nan,nan,33.33,0.33,nan,nan
+03-04-2019,Philadelphia Phillies,Washington Nationals,100.0,0.33,0.6,nan,25.0,0.33,0.6,nan
+12-04-2019,Pittsburgh Pirates,Washington Nationals,54.55,0.33,0.4,0.5,54.55,0.33,0.4,0.5
+13-04-2019,Pittsburgh Pirates,Washington Nationals,58.33,0.0,0.2,0.5,50.0,0.0,0.2,0.5
+14-04-2019,Pittsburgh Pirates,Washington Nationals,53.85,0.33,0.4,0.6,53.85,0.33,0.4,0.6
+16-04-2019,San Francisco Giants,Washington Nationals,41.18,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+17-04-2019,San Francisco Giants,Washington Nationals,44.44,0.0,0.4,0.4,46.67,0.0,0.4,0.4
+18-04-2019,San Francisco Giants,Washington Nationals,42.11,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+26-04-2019,San Diego Padres,Washington Nationals,56.0,0.33,0.4,0.2,47.83,0.33,0.4,0.2
+27-04-2019,San Diego Padres,Washington Nationals,57.69,0.33,0.6,0.3,45.83,0.33,0.6,0.3
+28-04-2019,San Diego Padres,Washington Nationals,59.26,0.33,0.6,0.4,44.0,0.33,0.6,0.4
+29-04-2019,St. Louis Cardinals,Washington Nationals,62.96,0.33,0.4,0.6,46.15,0.33,0.4,0.6
+30-04-2019,St. Louis Cardinals,Washington Nationals,64.29,0.33,0.4,0.7,44.44,0.33,0.4,0.7
+01-05-2019,St. Louis Cardinals,Washington Nationals,65.52,0.33,0.6,0.7,42.86,0.33,0.6,0.7
+02-05-2019,St. Louis Cardinals,Washington Nationals,66.67,0.33,0.6,0.7,41.38,0.33,0.6,0.7
+14-05-2019,New York Mets,Washington Nationals,48.72,0.33,0.4,0.3,40.0,0.33,0.4,0.3
+15-05-2019,New York Mets,Washington Nationals,50.0,0.33,0.4,0.3,39.02,0.33,0.4,0.3
+16-05-2019,New York Mets,Washington Nationals,48.78,0.33,0.6,0.4,40.48,0.33,0.6,0.4
+17-05-2019,Chicago Cubs,Washington Nationals,60.98,0.0,0.4,0.6,41.86,0.0,0.4,0.6
+18-05-2019,Chicago Cubs,Washington Nationals,61.9,0.0,0.2,0.5,40.91,0.0,0.2,0.5
+19-05-2019,Chicago Cubs,Washington Nationals,60.47,0.33,0.2,0.5,42.22,0.33,0.2,0.5
+24-05-2019,Miami Marlins,Washington Nationals,34.04,0.33,0.6,0.5,38.0,0.33,0.6,0.5
+25-05-2019,Miami Marlins,Washington Nationals,33.33,0.33,0.6,0.6,39.22,0.33,0.6,0.6
+26-05-2019,Miami Marlins,Washington Nationals,32.65,0.0,0.4,0.6,40.38,0.0,0.4,0.6
+27-05-2019,Miami Marlins,Washington Nationals,32.0,0.0,0.2,0.6,41.51,0.0,0.2,0.6
+04-06-2019,Chicago White Sox,Washington Nationals,49.15,0.0,0.4,0.5,44.07,0.0,0.4,0.5
+05-06-2019,Chicago White Sox,Washington Nationals,48.33,0.33,0.4,0.6,45.0,0.33,0.4,0.6
+13-06-2019,Arizona Diamondbacks,Washington Nationals,52.17,0.0,0.4,0.5,46.27,0.0,0.4,0.5
+14-06-2019,Arizona Diamondbacks,Washington Nationals,52.86,0.33,0.4,0.6,45.59,0.33,0.4,0.6
+15-06-2019,Arizona Diamondbacks,Washington Nationals,52.11,0.33,0.4,0.7,46.38,0.33,0.4,0.7
+16-06-2019,Arizona Diamondbacks,Washington Nationals,52.78,0.0,0.4,0.6,45.71,0.0,0.4,0.6
+20-06-2019,Philadelphia Phillies,Washington Nationals,53.42,0.0,0.2,0.2,47.95,0.0,0.2,0.2
+21-06-2019,Atlanta Braves,Washington Nationals,58.67,0.0,0.4,0.6,48.65,0.0,0.4,0.6
+22-06-2019,Atlanta Braves,Washington Nationals,57.89,0.33,0.4,0.6,49.33,0.33,0.4,0.6
+23-06-2019,Atlanta Braves,Washington Nationals,58.44,0.0,0.2,0.5,48.68,0.0,0.2,0.5
+02-07-2019,Miami Marlins,Washington Nationals,39.02,0.33,0.4,0.5,50.6,0.33,0.4,0.5
+03-07-2019,Miami Marlins,Washington Nationals,38.55,0.0,0.4,0.4,51.19,0.0,0.4,0.4
+04-07-2019,Miami Marlins,Washington Nationals,38.1,0.0,0.2,0.3,51.76,0.0,0.2,0.3
+05-07-2019,Kansas City Royals,Washington Nationals,32.95,0.0,0.0,0.2,52.33,0.0,0.0,0.2
+06-07-2019,Kansas City Royals,Washington Nationals,33.71,0.0,0.0,0.1,51.72,0.0,0.0,0.1
+07-07-2019,Kansas City Royals,Washington Nationals,33.33,0.33,0.2,0.2,52.27,0.33,0.2,0.2
+23-07-2019,Colorado Rockies,Washington Nationals,47.47,0.0,0.0,0.1,53.06,0.0,0.0,0.1
+25-07-2019,Colorado Rockies,Washington Nationals,46.08,0.0,0.2,0.1,54.46,0.0,0.2,0.1
+26-07-2019,Los Angeles Dodgers,Washington Nationals,64.42,0.0,0.4,0.5,53.92,0.0,0.4,0.5
+27-07-2019,Los Angeles Dodgers,Washington Nationals,64.76,0.0,0.2,0.4,53.4,0.0,0.2,0.4
+28-07-2019,Los Angeles Dodgers,Washington Nationals,65.09,0.33,0.2,0.5,52.88,0.33,0.2,0.5
+29-07-2019,Atlanta Braves,Washington Nationals,58.49,0.33,0.4,0.4,53.33,0.33,0.4,0.4
+30-07-2019,Atlanta Braves,Washington Nationals,57.94,0.0,0.4,0.4,53.77,0.0,0.4,0.4
+31-07-2019,Atlanta Braves,Washington Nationals,58.33,0.0,0.2,0.3,53.27,0.0,0.2,0.3
+12-08-2019,Cincinnati Reds,Washington Nationals,48.28,0.33,0.4,0.6,52.99,0.33,0.4,0.6
+13-08-2019,Cincinnati Reds,Washington Nationals,47.86,0.0,0.4,0.5,53.39,0.0,0.4,0.5
+14-08-2019,Cincinnati Reds,Washington Nationals,47.46,0.0,0.2,0.5,53.78,0.0,0.2,0.5
+16-08-2019,Milwaukee Brewers,Washington Nationals,52.07,0.0,0.2,0.5,54.17,0.0,0.2,0.5
+17-08-2019,Milwaukee Brewers,Washington Nationals,51.64,0.33,0.2,0.6,54.55,0.33,0.2,0.6
+18-08-2019,Milwaukee Brewers,Washington Nationals,52.03,0.0,0.2,0.5,54.1,0.0,0.2,0.5
+27-08-2019,Baltimore Orioles,Washington Nationals,32.82,0.33,0.2,0.3,56.15,0.33,0.2,0.3
+28-08-2019,Baltimore Orioles,Washington Nationals,33.33,0.33,0.4,0.4,55.73,0.33,0.4,0.4
+30-08-2019,Miami Marlins,Washington Nationals,36.09,0.0,0.0,0.2,56.06,0.0,0.0,0.2
+31-08-2019,Miami Marlins,Washington Nationals,35.82,0.33,0.2,0.3,56.39,0.33,0.2,0.3
+01-09-2019,Miami Marlins,Washington Nationals,35.56,0.0,0.2,0.3,56.72,0.0,0.2,0.3
+02-09-2019,New York Mets,Washington Nationals,50.74,0.33,0.4,0.2,57.04,0.33,0.4,0.2
+03-09-2019,New York Mets,Washington Nationals,51.09,0.0,0.4,0.2,56.62,0.0,0.4,0.2
+04-09-2019,New York Mets,Washington Nationals,50.72,0.33,0.4,0.3,56.93,0.33,0.4,0.3
+13-09-2019,Atlanta Braves,Washington Nationals,61.49,0.33,0.4,0.6,55.86,0.33,0.4,0.6
+14-09-2019,Atlanta Braves,Washington Nationals,61.74,0.0,0.2,0.5,55.48,0.0,0.2,0.5
+15-09-2019,Atlanta Braves,Washington Nationals,62.0,0.33,0.4,0.5,55.1,0.33,0.4,0.5
+23-09-2019,Philadelphia Phillies,Washington Nationals,51.3,0.33,0.2,0.4,55.19,0.33,0.2,0.4
+25-09-2019,Philadelphia Phillies,Washington Nationals,50.32,0.0,0.0,0.3,56.05,0.0,0.0,0.3
+26-09-2019,Philadelphia Phillies,Washington Nationals,50.0,0.0,0.0,0.2,56.33,0.0,0.0,0.2
+27-09-2019,Cleveland Indians,Washington Nationals,58.49,0.0,0.4,0.6,56.6,0.0,0.4,0.6
+28-09-2019,Cleveland Indians,Washington Nationals,58.13,0.0,0.2,0.5,56.88,0.0,0.2,0.5
+29-09-2019,Cleveland Indians,Washington Nationals,57.76,0.0,0.0,0.4,57.14,0.0,0.0,0.4

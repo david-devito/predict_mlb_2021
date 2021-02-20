@@ -1,0 +1,82 @@
+Date,AwayTeam,HomeTeam,temperature,windspeed,precipitation
+04-04-2019,Texas Rangers,Los Angeles Angels,61,6,Overcast
+05-04-2019,Texas Rangers,Los Angeles Angels,63,8,Cloudy
+06-04-2019,Texas Rangers,Los Angeles Angels,68,8,Cloudy
+07-04-2019,Texas Rangers,Los Angeles Angels,75,6,Cloudy
+08-04-2019,Milwaukee Brewers,Los Angeles Angels,77,7,Cloudy
+09-04-2019,Milwaukee Brewers,Los Angeles Angels,70,11,Sunny
+10-04-2019,Milwaukee Brewers,Los Angeles Angels,70,9,Sunny
+18-04-2019,Seattle Mariners,Los Angeles Angels,77,7,Sunny
+19-04-2019,Seattle Mariners,Los Angeles Angels,64,8,Cloudy
+20-04-2019,Seattle Mariners,Los Angeles Angels,63,9,Cloudy
+21-04-2019,Seattle Mariners,Los Angeles Angels,68,5,Cloudy
+22-04-2019,New York Yankees,Los Angeles Angels,67,7,Cloudy
+23-04-2019,New York Yankees,Los Angeles Angels,68,6,Sunny
+24-04-2019,New York Yankees,Los Angeles Angels,70,7,Sunny
+25-04-2019,New York Yankees,Los Angeles Angels,71,4,Sunny
+30-04-2019,Toronto Blue Jays,Los Angeles Angels,63,8,Cloudy
+01-05-2019,Toronto Blue Jays,Los Angeles Angels,66,8,Sunny
+02-05-2019,Toronto Blue Jays,Los Angeles Angels,67,4,Sunny
+04-05-2019,Houston Astros,Los Angeles Angels,82,13,Overcast
+05-05-2019,Houston Astros,Los Angeles Angels,80,12,Cloudy
+17-05-2019,Kansas City Royals,Los Angeles Angels,66,7,Sunny
+18-05-2019,Kansas City Royals,Los Angeles Angels,64,4,Cloudy
+19-05-2019,Kansas City Royals,Los Angeles Angels,61,6,Cloudy
+20-05-2019,Minnesota Twins,Los Angeles Angels,65,8,Sunny
+21-05-2019,Minnesota Twins,Los Angeles Angels,63,8,Cloudy
+23-05-2019,Minnesota Twins,Los Angeles Angels,64,9,Cloudy
+24-05-2019,Texas Rangers,Los Angeles Angels,68,7,Sunny
+25-05-2019,Texas Rangers,Los Angeles Angels,64,8,Sunny
+26-05-2019,Texas Rangers,Los Angeles Angels,60,7,Cloudy
+04-06-2019,Oakland Athletics,Los Angeles Angels,67,8,Sunny
+05-06-2019,Oakland Athletics,Los Angeles Angels,67,8,Sunny
+06-06-2019,Oakland Athletics,Los Angeles Angels,65,12,Cloudy
+07-06-2019,Seattle Mariners,Los Angeles Angels,68,9,Cloudy
+08-06-2019,Seattle Mariners,Los Angeles Angels,71,7,Sunny
+09-06-2019,Seattle Mariners,Los Angeles Angels,80,8,Sunny
+10-06-2019,Los Angeles Dodgers,Los Angeles Angels,85,5,Cloudy
+11-06-2019,Los Angeles Dodgers,Los Angeles Angels,77,11,Cloudy
+25-06-2019,Cincinnati Reds,Los Angeles Angels,65,8,Overcast
+26-06-2019,Cincinnati Reds,Los Angeles Angels,73,9,Sunny
+27-06-2019,Oakland Athletics,Los Angeles Angels,72,9,Sunny
+28-06-2019,Oakland Athletics,Los Angeles Angels,75,9,Sunny
+29-06-2019,Oakland Athletics,Los Angeles Angels,76,7,Cloudy
+30-06-2019,Oakland Athletics,Los Angeles Angels,84,8,Sunny
+12-07-2019,Seattle Mariners,Los Angeles Angels,79,7,Sunny
+13-07-2019,Seattle Mariners,Los Angeles Angels,76,11,Sunny
+14-07-2019,Seattle Mariners,Los Angeles Angels,82,10,Sunny
+15-07-2019,Houston Astros,Los Angeles Angels,79,8,Sunny
+16-07-2019,Houston Astros,Los Angeles Angels,74,8,Sunny
+17-07-2019,Houston Astros,Los Angeles Angels,71,12,Sunny
+18-07-2019,Houston Astros,Los Angeles Angels,77,11,Sunny
+25-07-2019,Baltimore Orioles,Los Angeles Angels,88,10,Sunny
+26-07-2019,Baltimore Orioles,Los Angeles Angels,83,10,Sunny
+27-07-2019,Baltimore Orioles,Los Angeles Angels,86,8,Sunny
+28-07-2019,Baltimore Orioles,Los Angeles Angels,82,8,Cloudy
+29-07-2019,Detroit Tigers,Los Angeles Angels,77,9,Sunny
+30-07-2019,Detroit Tigers,Los Angeles Angels,75,10,Cloudy
+31-07-2019,Detroit Tigers,Los Angeles Angels,81,10,Sunny
+12-08-2019,Pittsburgh Pirates,Los Angeles Angels,74,9,Sunny
+13-08-2019,Pittsburgh Pirates,Los Angeles Angels,78,8,Sunny
+14-08-2019,Pittsburgh Pirates,Los Angeles Angels,86,9,Sunny
+15-08-2019,Chicago White Sox,Los Angeles Angels,78,10,Sunny
+16-08-2019,Chicago White Sox,Los Angeles Angels,71,12,Sunny
+17-08-2019,Chicago White Sox,Los Angeles Angels,75,11,Sunny
+18-08-2019,Chicago White Sox,Los Angeles Angels,77,6,Sunny
+27-08-2019,Texas Rangers,Los Angeles Angels,77,11,Sunny
+28-08-2019,Texas Rangers,Los Angeles Angels,76,7,Sunny
+30-08-2019,Boston Red Sox,Los Angeles Angels,81,10,Sunny
+31-08-2019,Boston Red Sox,Los Angeles Angels,84,8,Sunny
+01-09-2019,Boston Red Sox,Los Angeles Angels,83,8,Cloudy
+09-09-2019,Cleveland Indians,Los Angeles Angels,73,5,Sunny
+10-09-2019,Cleveland Indians,Los Angeles Angels,72,8,Cloudy
+11-09-2019,Cleveland Indians,Los Angeles Angels,79,8,Sunny
+13-09-2019,Tampa Bay Rays,Los Angeles Angels,85,7,Sunny
+14-09-2019,Tampa Bay Rays,Los Angeles Angels,88,7,Sunny
+15-09-2019,Tampa Bay Rays,Los Angeles Angels,86,7,Sunny
+24-09-2019,Oakland Athletics,Los Angeles Angels,81,5,Sunny
+25-09-2019,Oakland Athletics,Los Angeles Angels,72,11,Cloudy
+26-09-2019,Houston Astros,Los Angeles Angels,72,8,Cloudy
+27-09-2019,Houston Astros,Los Angeles Angels,70,6,Cloudy
+28-09-2019,Houston Astros,Los Angeles Angels,68,11,Overcast
+29-09-2019,Houston Astros,Los Angeles Angels,71,5,Cloudy
