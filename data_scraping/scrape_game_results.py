@@ -20,6 +20,7 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
+section = 'winpct' #lineups, recwOBA, winpct, weather
 
 year = '2019'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
@@ -33,14 +34,18 @@ else: weatherTable = "div_2016723098"
 
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam']
-#outputHeaders.extend(['AwayScore','HomeScore','AwaySP','HomeSP'])
-#outputHeaders.extend(['A_' + str(x) for x in list(range(1,10))])
-#outputHeaders.extend(['H_' + str(x) for x in list(range(1,10))])
-#outputHeaders.extend(['A_' + str(x) + '_recwOBA' for x in list(range(1,10))])
-#outputHeaders.extend(['H_' + str(x) + '_recwOBA' for x in list(range(1,10))])
-outputHeaders.extend(['A_SeaWinPct','A_last3WinPct','A_last5WinPct','A_last10WinPct','H_SeaWinPct','H_last3WinPct','H_last5WinPct','H_last10WinPct',])
-#outputHeaders.extend(['temperature','windspeed','precipitation'])
-with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_winpct.csv', 'w', newline='') as csvfile:
+if section == 'lineups':
+    outputHeaders.extend(['AwayScore','HomeScore','AwaySP','HomeSP'])
+    outputHeaders.extend(['A_' + str(x) for x in list(range(1,10))])
+    outputHeaders.extend(['H_' + str(x) for x in list(range(1,10))])
+elif section == 'recwOBA':
+    outputHeaders.extend(['A_' + str(x) + '_recwOBA' for x in list(range(1,10))])
+    outputHeaders.extend(['H_' + str(x) + '_recwOBA' for x in list(range(1,10))])
+elif section == 'winpct':
+    outputHeaders.extend(['A_SeaWinPct','A_last3WinPct','A_last5WinPct','A_last10WinPct','H_SeaWinPct','H_last3WinPct','H_last5WinPct','H_last10WinPct',])
+elif section == 'weather':
+    outputHeaders.extend(['temperature','windspeed','precipitation'])
+with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '.csv', 'w', newline='') as csvfile:
     statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     statswriter.writerow(outputHeaders)
 
@@ -70,122 +75,130 @@ for hometeami in homeTeams:
                 teamNames = [x.text for x in soup.find_all("a", {"itemprop": "name"})]
                 awayTeam, homeTeam = [teamNames[0], teamNames[1]]
                 
-                ## WEATHER
-                '''weather = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + weatherTable + '"' in n)
-                weather = BeautifulSoup(weather, "lxml")
-                weather = weather.find_all("div")[-1].text.split(':')[1].split(',')
-                temperature = int(''.join(filter(str.isdigit, weather[0])))
-                windspeed = int(''.join(filter(str.isdigit, weather[1])))
-                precipitation = weather[2].replace(' ','').replace('.','')'''
+                if section == 'weather':
+                    ## WEATHER
+                    weather = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + weatherTable + '"' in n)
+                    weather = BeautifulSoup(weather, "lxml")
+                    weather = weather.find_all("div")[-1].text.split(':')[1].split(',')
+                    temperature = int(''.join(filter(str.isdigit, weather[0])))
+                    windspeed = int(''.join(filter(str.isdigit, weather[1])))
+                    precipitation = weather[2].replace(' ','').replace('.','')
                 
                 ## RUNS SCORED BY EACH TEAM
                 t_runsScored = [int(x.text) for x in soup.find_all("div", {"class": "score"})]
                 awayScore, homeScore = [t_runsScored[0], t_runsScored[1]]
                 
-                ## TEAM WIN PERCENTAGE GOING INTO THE GAME
-                def getWinPct(soup,curTeamScore,oppTeamScore,divNum):
-                    WP_calc = soup.find_all("div", {"class": "scorebox"})[0]
-                    WP = WP_calc.find_all("div")[divNum].find_all("div")[4].text
-                    WP = [int(x) for x in WP.split('-')]
-                    # Record includes current game so subtract win or loss depending on result
-                    if curTeamScore > oppTeamScore: WP[0] = WP[0] - 1
-                    else: WP[1] = WP[1] - 1
-                    try: WP = round((WP[0] / (WP[0] + WP[1]))*100,2)
-                    except: WP = 0
-                    return WP
-                
-                AWP = getWinPct(soup,awayScore,homeScore,0)
-                HWP = getWinPct(soup,homeScore,awayScore,7)
-                
-                awayTeamAbb = soup.find_all("div", {"itemprop": "performer"})[0].select('a')[2]['href'].split('/')[2]
-                homeTeamAbb = soup.find_all("div", {"itemprop": "performer"})[1].select('a')[2]['href'].split('/')[2]
-                
-                
-                def recentTeamRecord(team,year,recentGames):
-                    url = "https://www.baseball-reference.com/teams/" + team + "/" + year + "-schedule-scores.shtml"
-                    r = requests.get(url, headers=BSheaders)
-                    soup = BeautifulSoup(r.content, "lxml")
-                    dates = [x.text for x in soup.find_all("td", {"data-stat": "date_game"})]
-                    curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%A, %b %d').lstrip("0").replace(" 0", " ")
-                    teamWinLoss = [x.text[0] for x in soup.find_all("td", {"data-stat": "win_loss_result"})]
-                    record = teamWinLoss[dates.index(curDate)-recentGames+1:dates.index(curDate)-1]
-                    if not record: record = np.nan
-                    else: record = round(np.sum([1 if x == 'W' else 0 for x in record])/recentGames,2)
-                    return record
+                if section == 'winpct':
+                    ## TEAM WIN PERCENTAGE GOING INTO THE GAME
+                    def getWinPct(soup,curTeamScore,oppTeamScore,divNum):
+                        WP_calc = soup.find_all("div", {"class": "scorebox"})[0]
+                        WP = WP_calc.find_all("div")[divNum].find_all("div")[4].text
+                        WP = [int(x) for x in WP.split('-')]
+                        # Record includes current game so subtract win or loss depending on result
+                        if curTeamScore > oppTeamScore: WP[0] = WP[0] - 1
+                        else: WP[1] = WP[1] - 1
+                        try: WP = round((WP[0] / (WP[0] + WP[1]))*100,2)
+                        except: WP = 0
+                        return WP
                     
-                A_last3Record = recentTeamRecord(awayTeamAbb,year,3)
-                A_last5Record = recentTeamRecord(awayTeamAbb,year,5)
-                A_last10Record = recentTeamRecord(awayTeamAbb,year,10)
-                H_last3Record = recentTeamRecord(homeTeamAbb,year,3)
-                H_last5Record = recentTeamRecord(homeTeamAbb,year,5)
-                H_last10Record = recentTeamRecord(homeTeamAbb,year,10)
-                
-                '''
-                ## STARTING LINEUPS
-                def getStarters(num):
-                    starters = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + num + '"' in n)
-                    starters = BeautifulSoup(starters, "lxml")
-                    starters = [x.text for x in starters.select('#' + num)[0].select('a')]
-                    return starters
-                
-                # Starting Hitters
-                awayStarters = getStarters("lineups_1")
-                homeStarters = getStarters("lineups_2")
-                # Starting Pitchers
-                awaySP = getStarters("div_" + awayTeam.replace(' ','').replace('.','') + "pitching")[0]
-                homeSP = getStarters("div_" + homeTeam.replace(' ','').replace('.','') + "pitching")[0]
-                
-                ## GET STARTING PLAYER STATS FROM PREVIOUS N NUMBER OF GAMES
-                numGames = 3
-                awayStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_1"' in n),"lxml").select('#lineups_1')[0].select('a')
-                awayStarterLinks = [x['href'].split('/')[-1].split('.')[0] for x in awayStarterLinks]
-                homeStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_2"' in n),"lxml").select('#lineups_2')[0].select('a')
-                homeStarterLinks = [x['href'].split('/')[-1].split('.')[0] for x in homeStarterLinks]
-                
-                recent_wOBA = []
-                for curPlayer in awayStarterLinks[0:9] + homeStarterLinks[0:9]:
-                    url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=b&year=" + year
-                    r = requests.get(url, headers=BSheaders)
-                    soup = BeautifulSoup(r.content, "lxml")
-                    dates = [x.text for x in soup.find_all("td", {"data-stat": "date_game"})]
-                    curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
+                    AWP = getWinPct(soup,awayScore,homeScore,0)
+                    HWP = getWinPct(soup,homeScore,awayScore,7)
                     
-                    statDict = dict()
-                    def recentStat(statDict,curStat):
-                        X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
-                        X = ['0' if x == '' else x for x in X]
-                        if dates.index(curDate)-(numGames+1) < 0:
-                            statDict[curStat] = np.nan
-                        else:
-                            statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames):dates.index(curDate)]])
-                        return statDict
+                    awayTeamAbb = soup.find_all("div", {"itemprop": "performer"})[0].select('a')[2]['href'].split('/')[2]
+                    homeTeamAbb = soup.find_all("div", {"itemprop": "performer"})[1].select('a')[2]['href'].split('/')[2]
                     
-                    for curStat in ['H','BB','HBP','2B','3B','HR','IBB','SF','AB']:
-                        statDict = recentStat(statDict,curStat)
-                    statDict['1B'] = statDict['H'] - statDict['2B'] - statDict['3B'] - statDict['HR']
-                    if statDict['AB'] == 0: recent_wOBA.append(np.nan)
-                    else: recent_wOBA.append(round((((0.69*statDict['BB']) + (0.719*statDict['HBP']) + (0.87*statDict['1B']) + (1.217*statDict['2B']) + 
-                                          (1.529*statDict['3B']) + (1.94*statDict['HR'])) / 
-                                         (statDict['AB'] + statDict['BB'] - statDict['IBB'] + statDict['SF'] + statDict['HBP'])),3))
                     
+                    def recentTeamRecord(team,year,recentGames):
+                        url = "https://www.baseball-reference.com/teams/" + team + "/" + year + "-schedule-scores.shtml"
+                        r = requests.get(url, headers=BSheaders)
+                        soup = BeautifulSoup(r.content, "lxml")
+                        dates = [x.text for x in soup.find_all("td", {"data-stat": "date_game"})]
+                        curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%A, %b %d').lstrip("0").replace(" 0", " ")
+                        teamWinLoss = [x.text[0] for x in soup.find_all("td", {"data-stat": "win_loss_result"})]
+                        record = teamWinLoss[dates.index(curDate)-recentGames+1:dates.index(curDate)-1]
+                        if not record: record = np.nan
+                        else: record = round(np.sum([1 if x == 'W' else 0 for x in record])/recentGames,2)
+                        return record
+                        
+                    A_last3Record = recentTeamRecord(awayTeamAbb,year,3)
+                    A_last5Record = recentTeamRecord(awayTeamAbb,year,5)
+                    A_last10Record = recentTeamRecord(awayTeamAbb,year,10)
+                    H_last3Record = recentTeamRecord(homeTeamAbb,year,3)
+                    H_last5Record = recentTeamRecord(homeTeamAbb,year,5)
+                    H_last10Record = recentTeamRecord(homeTeamAbb,year,10)
                 
-                # Replace Special Characters in Names
-                for repi in spcharReplace.keys():
-                    awayStarters = [x.replace(repi,spcharReplace[repi]) for x in awayStarters]
-                    homeStarters = [x.replace(repi,spcharReplace[repi]) for x in homeStarters]
-                    awaySP = awaySP.replace(repi,spcharReplace[repi])
-                    homeSP = homeSP.replace(repi,spcharReplace[repi])
-                '''
+                
+                if section == 'lineups':
+                    ## STARTING LINEUPS
+                    def getStarters(num):
+                        starters = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + num + '"' in n)
+                        starters = BeautifulSoup(starters, "lxml")
+                        starters = [x.text for x in starters.select('#' + num)[0].select('a')]
+                        return starters
+                    
+                    # Starting Hitters
+                    awayStarters = getStarters("lineups_1")
+                    homeStarters = getStarters("lineups_2")
+                    # Starting Pitchers
+                    awaySP = getStarters("div_" + awayTeam.replace(' ','').replace('.','') + "pitching")[0]
+                    homeSP = getStarters("div_" + homeTeam.replace(' ','').replace('.','') + "pitching")[0]
+                
+                    # Replace Special Characters in Names
+                    for repi in spcharReplace.keys():
+                        awayStarters = [x.replace(repi,spcharReplace[repi]) for x in awayStarters]
+                        homeStarters = [x.replace(repi,spcharReplace[repi]) for x in homeStarters]
+                        awaySP = awaySP.replace(repi,spcharReplace[repi])
+                        homeSP = homeSP.replace(repi,spcharReplace[repi])
+                
+                if section == 'recwOBA':
+                    ## GET STARTING PLAYER STATS FROM PREVIOUS N NUMBER OF GAMES
+                    numGames = 3
+                    awayStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_1"' in n),"lxml").select('#lineups_1')[0].select('a')
+                    awayStarterLinks = [x['href'].split('/')[-1].split('.')[0] for x in awayStarterLinks]
+                    homeStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_2"' in n),"lxml").select('#lineups_2')[0].select('a')
+                    homeStarterLinks = [x['href'].split('/')[-1].split('.')[0] for x in homeStarterLinks]
+                    
+                    recent_wOBA = []
+                    for curPlayer in awayStarterLinks[0:9] + homeStarterLinks[0:9]:
+                        url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=b&year=" + year
+                        r = requests.get(url, headers=BSheaders)
+                        soup = BeautifulSoup(r.content, "lxml")
+                        dates = [x.text for x in soup.find_all("td", {"data-stat": "date_game"})]
+                        curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
+                        
+                        statDict = dict()
+                        def recentStat(statDict,curStat):
+                            X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
+                            X = ['0' if x == '' else x for x in X]
+                            if dates.index(curDate)-(numGames+1) < 0:
+                                statDict[curStat] = np.nan
+                            else:
+                                statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames):dates.index(curDate)]])
+                            return statDict
+                        
+                        for curStat in ['H','BB','HBP','2B','3B','HR','IBB','SF','AB']:
+                            statDict = recentStat(statDict,curStat)
+                        statDict['1B'] = statDict['H'] - statDict['2B'] - statDict['3B'] - statDict['HR']
+                        if statDict['AB'] == 0: recent_wOBA.append(np.nan)
+                        else: recent_wOBA.append(round((((0.69*statDict['BB']) + (0.719*statDict['HBP']) + (0.87*statDict['1B']) + (1.217*statDict['2B']) + 
+                                              (1.529*statDict['3B']) + (1.94*statDict['HR'])) / 
+                                             (statDict['AB'] + statDict['BB'] - statDict['IBB'] + statDict['SF'] + statDict['HBP'])),3))
+                        
+                
                 ## WRITE TO CSV
                 dataToWrite = [date,awayTeam,homeTeam]
-                #dataToWrite.extend([awayScore,homeScore,awaySP,homeSP])
-                #dataToWrite.extend(awayStarters[0:9])
-                #dataToWrite.extend(homeStarters[0:9])
-                #dataToWrite.extend(recent_wOBA)
-                dataToWrite.extend([AWP,A_last3Record,A_last5Record,A_last10Record,HWP,H_last3Record,H_last5Record,H_last10Record])
-                #dataToWrite.extend([temperature,windspeed,precipitation])
+                if section == 'lineups':
+                    dataToWrite.extend([awayScore,homeScore,awaySP,homeSP])
+                    dataToWrite.extend(awayStarters[0:9])
+                    dataToWrite.extend(homeStarters[0:9])
+                elif section == 'recwOBA':
+                    dataToWrite.extend(recent_wOBA)
+                elif section == 'winpct':
+                    dataToWrite.extend([AWP,A_last3Record,A_last5Record,A_last10Record,HWP,H_last3Record,H_last5Record,H_last10Record])
+                elif section == 'weather':
+                    dataToWrite.extend([temperature,windspeed,precipitation])
                 
-                with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_winpct.csv', 'a', newline='') as csvfile:
+                with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '.csv', 'a', newline='') as csvfile:
                     statswriter = csv.writer(csvfile, delimiter=',',
                                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
                     statswriter.writerow(dataToWrite)
