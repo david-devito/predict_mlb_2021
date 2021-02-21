@@ -11,6 +11,7 @@ import numpy as np
 import csv
 from time import sleep
 import datetime
+from math import modf
 
 BSheaders = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
@@ -20,9 +21,9 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'winpct' #lineups, recwOBA, winpct, weather
+section = 'recFIP' #lineups, recwOBA, winpct, weather, recFIP
 
-year = '2019'
+year = '2020'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
@@ -41,6 +42,8 @@ if section == 'lineups':
 elif section == 'recwOBA':
     outputHeaders.extend(['A_' + str(x) + '_recwOBA' for x in list(range(1,10))])
     outputHeaders.extend(['H_' + str(x) + '_recwOBA' for x in list(range(1,10))])
+elif section == 'recFIP':
+    outputHeaders.extend(['A_SP_recFIP','H_SP_recFIP'])
 elif section == 'winpct':
     outputHeaders.extend(['A_SeaWinPct','A_last3WinPct','A_last5WinPct','A_last10WinPct','H_SeaWinPct','H_last3WinPct','H_last5WinPct','H_last10WinPct',])
 elif section == 'weather':
@@ -128,7 +131,7 @@ for hometeami in homeTeams:
                     H_last10Record = recentTeamRecord(homeTeamAbb,year,10)
                 
                 
-                if section == 'lineups':
+                if (section == 'lineups') | (section == 'recFIP'):
                     ## STARTING LINEUPS
                     def getStarters(num):
                         starters = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + num + '"' in n)
@@ -183,7 +186,42 @@ for hometeami in homeTeams:
                         else: recent_wOBA.append(round((((0.69*statDict['BB']) + (0.719*statDict['HBP']) + (0.87*statDict['1B']) + (1.217*statDict['2B']) + 
                                               (1.529*statDict['3B']) + (1.94*statDict['HR'])) / 
                                              (statDict['AB'] + statDict['BB'] - statDict['IBB'] + statDict['SF'] + statDict['HBP'])),3))
+                
+                if section == 'recFIP':
+                    ## GET STARTING PITCHER STATS FROM PREVIOUS N NUMBER OF GAMES
+                    numGames = 3
+                    awaySP_link = soup.find(text=lambda n: isinstance(n, Comment) and 'id="div_' + awayTeam.replace(' ','').replace('.','') + 'pitching"' in n)
+                    awaySP_link = BeautifulSoup(awaySP_link, "lxml")
+                    awaySP_link = awaySP_link.select('#div_' + awayTeam.replace(' ','').replace('.','') + 'pitching')[0].select('a')[0]['href'].split('/')[3].split('.')[0]
+                    homeSP_link = soup.find(text=lambda n: isinstance(n, Comment) and 'id="div_' + homeTeam.replace(' ','').replace('.','') + 'pitching"' in n)
+                    homeSP_link = BeautifulSoup(homeSP_link, "lxml")
+                    homeSP_link = homeSP_link.select('#div_' + homeTeam.replace(' ','').replace('.','') + 'pitching')[0].select('a')[0]['href'].split('/')[3].split('.')[0]
+                    
+                    recent_FIP = []
+                    for curPlayer in [awaySP_link,homeSP_link]:
+                        url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=p&year=" + year
+                        r = requests.get(url, headers=BSheaders)
+                        soup = BeautifulSoup(r.content, "lxml")
+                        dates = [re.sub('\xa0', ' ', x.text).split('(')[0] for x in soup.find_all("td", {"data-stat": "date_game"})]
+                        curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
                         
+                        statDict = dict()
+                        def recentStat(statDict,curStat):
+                            X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
+                            X = ['0' if x == '' else x for x in X]
+                            if dates.index(curDate)-(numGames+1) < 0:
+                                statDict[curStat] = np.nan
+                            else:
+                                statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames):dates.index(curDate)]])
+                            return statDict
+                        
+                        for curStat in ['HR','BB','HBP','SO','IP']:
+                            statDict = recentStat(statDict,curStat)
+                        statDict['IP'] = (modf(float(statDict['IP']))[0] * 3) + statDict['IP']
+                        if statDict['IP'] == 0: recent_FIP.append(np.nan)
+                        else: recent_FIP.append(((13 * statDict['HR']) + (3*(statDict['BB'] + statDict['HBP'])) - (2*statDict['SO'])) /  
+                                                (statDict['IP'] + 3.214))
+                
                 
                 ## WRITE TO CSV
                 dataToWrite = [date,awayTeam,homeTeam]
@@ -193,6 +231,8 @@ for hometeami in homeTeams:
                     dataToWrite.extend(homeStarters[0:9])
                 elif section == 'recwOBA':
                     dataToWrite.extend(recent_wOBA)
+                elif section == 'recFIP':
+                    dataToWrite.extend(recent_FIP)
                 elif section == 'winpct':
                     dataToWrite.extend([AWP,A_last3Record,A_last5Record,A_last10Record,HWP,H_last3Record,H_last5Record,H_last10Record])
                 elif section == 'weather':
