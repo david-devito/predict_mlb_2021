@@ -21,7 +21,7 @@ spcharReplace = {'í':'i',
                  'á':'a'}
 
 
-year = '2019'
+year = '2020'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
@@ -49,8 +49,8 @@ for hometeami in homeTeams:
     print(hometeami)
     # Loop through each day within every month of regular season
     for monthi in monthsWithGames:
+        print(monthi)
         for dayi in list(range(0,32)):
-    
             # Try statement will fail if no game exists for that particular day
             try:
                 # Add a 0 before day if it's a single digit
@@ -158,7 +158,7 @@ for hometeami in homeTeams:
                         if dates.index(curDate)-(numGames+1) < 0:
                             statDict[curStat] = np.nan
                         else:
-                            statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames+1):dates.index(curDate)-1]])
+                            statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames):dates.index(curDate)]])
                         return statDict
                     
                     for curStat in ['H','BB','HBP','2B','3B','HR','IBB','SF','AB']:
@@ -168,6 +168,7 @@ for hometeami in homeTeams:
                     else: recent_wOBA.append(round((((0.69*statDict['BB']) + (0.719*statDict['HBP']) + (0.87*statDict['1B']) + (1.217*statDict['2B']) + 
                                           (1.529*statDict['3B']) + (1.94*statDict['HR'])) / 
                                          (statDict['AB'] + statDict['BB'] - statDict['IBB'] + statDict['SF'] + statDict['HBP'])),3))
+                    
                 '''
                 # Replace Special Characters in Names
                 for repi in spcharReplace.keys():
@@ -177,7 +178,6 @@ for hometeami in homeTeams:
                     homeSP = homeSP.replace(repi,spcharReplace[repi])
                 '''
                 ## WRITE TO CSV
-                
                 dataToWrite = [date,awayTeam,homeTeam]
                 #dataToWrite.extend([awayScore,homeScore,awaySP,homeSP])
                 #dataToWrite.extend(awayStarters[0:9])
