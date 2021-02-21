@@ -1,791 +1,791 @@
 Date,AwayTeam,HomeTeam,A_SeaWinPct,A_last3WinPct,A_last5WinPct,A_last10WinPct,H_SeaWinPct,H_last3WinPct,H_last5WinPct,H_last10WinPct
-28-07-2020,Seattle Mariners,Los Angeles Angels,25.0,0.33,0.2,nan,25.0,0.33,0.2,nan
+28-07-2020,Seattle Mariners,Los Angeles Angels,25.0,0.33,0.2,nan,25.0,0.0,0.2,nan
 29-07-2020,Seattle Mariners,Los Angeles Angels,20.0,0.0,0.2,nan,40.0,0.0,0.2,nan
-30-07-2020,Seattle Mariners,Los Angeles Angels,33.33,0.0,0.2,nan,33.33,0.0,0.2,nan
+30-07-2020,Seattle Mariners,Los Angeles Angels,33.33,0.0,0.2,nan,33.33,0.33,0.2,nan
 31-07-2020,Houston Astros,Los Angeles Angels,50.0,0.0,0.2,nan,28.57,0.0,0.2,nan
 01-08-2020,Houston Astros,Los Angeles Angels,57.14,0.0,0.2,nan,25.0,0.0,0.2,nan
-02-08-2020,Houston Astros,Los Angeles Angels,50.0,0.33,0.2,nan,33.33,0.33,0.2,nan
-10-08-2020,Oakland Athletics,Los Angeles Angels,75.0,0.33,0.6,0.8,31.25,0.33,0.6,0.8
-11-08-2020,Oakland Athletics,Los Angeles Angels,70.59,0.33,0.6,0.8,35.29,0.33,0.6,0.8
-12-08-2020,Oakland Athletics,Los Angeles Angels,66.67,0.0,0.4,0.7,38.89,0.0,0.4,0.7
-14-08-2020,Los Angeles Dodgers,Los Angeles Angels,65.0,0.33,0.2,0.5,36.84,0.33,0.2,0.5
-15-08-2020,Los Angeles Dodgers,Los Angeles Angels,66.67,0.33,0.4,0.5,35.0,0.33,0.4,0.5
-16-08-2020,Los Angeles Dodgers,Los Angeles Angels,68.18,0.33,0.6,0.5,33.33,0.33,0.6,0.5
+02-08-2020,Houston Astros,Los Angeles Angels,50.0,0.33,0.2,nan,33.33,0.0,0.0,0.2
+10-08-2020,Oakland Athletics,Los Angeles Angels,75.0,0.33,0.6,0.8,31.25,0.0,0.2,0.3
+11-08-2020,Oakland Athletics,Los Angeles Angels,70.59,0.33,0.6,0.8,35.29,0.0,0.0,0.3
+12-08-2020,Oakland Athletics,Los Angeles Angels,66.67,0.0,0.4,0.7,38.89,0.33,0.2,0.3
+14-08-2020,Los Angeles Dodgers,Los Angeles Angels,65.0,0.33,0.2,0.5,36.84,0.33,0.4,0.4
+15-08-2020,Los Angeles Dodgers,Los Angeles Angels,66.67,0.33,0.4,0.5,35.0,0.0,0.4,0.3
+16-08-2020,Los Angeles Dodgers,Los Angeles Angels,68.18,0.33,0.6,0.5,33.33,0.0,0.2,0.3
 17-08-2020,San Francisco Giants,Los Angeles Angels,34.78,0.0,0.0,0.2,31.82,0.0,0.0,0.2
 18-08-2020,San Francisco Giants,Los Angeles Angels,33.33,0.0,0.0,0.2,34.78,0.0,0.0,0.2
-28-08-2020,Seattle Mariners,Los Angeles Angels,39.39,0.0,0.4,0.5,31.25,0.0,0.4,0.5
-29-08-2020,Seattle Mariners,Los Angeles Angels,38.24,0.33,0.4,0.6,33.33,0.33,0.4,0.6
-30-08-2020,Seattle Mariners,Los Angeles Angels,37.14,0.0,0.2,0.5,35.29,0.0,0.2,0.5
-31-08-2020,Seattle Mariners,Los Angeles Angels,38.89,0.0,0.2,0.5,34.29,0.0,0.2,0.5
-02-09-2020,San Diego Padres,Los Angeles Angels,59.46,0.33,0.4,0.5,33.33,0.33,0.4,0.5
-03-09-2020,San Diego Padres,Los Angeles Angels,60.53,0.33,0.4,0.5,32.43,0.33,0.4,0.5
-04-09-2020,Houston Astros,Los Angeles Angels,58.33,0.33,0.4,0.5,34.21,0.33,0.4,0.5
-06-09-2020,Houston Astros,Los Angeles Angels,53.85,0.0,0.2,0.4,39.02,0.0,0.2,0.4
-15-09-2020,Arizona Diamondbacks,Los Angeles Angels,35.42,0.0,0.4,0.2,41.67,0.0,0.4,0.2
-16-09-2020,Arizona Diamondbacks,Los Angeles Angels,36.73,0.0,0.2,0.2,40.82,0.0,0.2,0.2
-17-09-2020,Arizona Diamondbacks,Los Angeles Angels,38.0,0.33,0.2,0.3,40.0,0.33,0.2,0.3
-18-09-2020,Texas Rangers,Los Angeles Angels,36.0,0.33,0.4,0.4,41.18,0.33,0.4,0.4
-19-09-2020,Texas Rangers,Los Angeles Angels,35.29,0.0,0.2,0.3,42.31,0.0,0.2,0.3
-20-09-2020,Texas Rangers,Los Angeles Angels,34.62,0.0,0.2,0.3,43.4,0.0,0.2,0.3
-21-09-2020,Texas Rangers,Los Angeles Angels,35.85,0.0,0.0,0.3,42.59,0.0,0.0,0.3
-30-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,66.67,0.33,0.2,nan,33.33,0.33,0.2,nan
-31-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,71.43,0.33,0.4,nan,28.57,0.33,0.4,nan
-01-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,62.5,0.33,0.6,nan,37.5,0.33,0.6,nan
-02-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,66.67,0.0,0.4,0.5,33.33,0.0,0.4,0.5
-04-08-2020,Houston Astros,Arizona Diamondbacks,55.56,0.0,0.2,0.4,30.0,0.0,0.2,0.4
-05-08-2020,Houston Astros,Arizona Diamondbacks,60.0,0.33,0.4,0.4,27.27,0.33,0.4,0.4
-06-08-2020,Houston Astros,Arizona Diamondbacks,54.55,0.33,0.4,0.4,33.33,0.33,0.4,0.4
-14-08-2020,San Diego Padres,Arizona Diamondbacks,55.0,0.0,0.4,0.4,42.11,0.0,0.4,0.4
-15-08-2020,San Diego Padres,Arizona Diamondbacks,52.38,0.0,0.2,0.4,45.0,0.0,0.2,0.4
-16-08-2020,San Diego Padres,Arizona Diamondbacks,50.0,0.0,0.0,0.4,47.62,0.0,0.0,0.4
-17-08-2020,Oakland Athletics,Arizona Diamondbacks,72.73,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+28-08-2020,Seattle Mariners,Los Angeles Angels,39.39,0.0,0.4,0.5,31.25,0.0,0.0,0.1
+29-08-2020,Seattle Mariners,Los Angeles Angels,38.24,0.33,0.4,0.6,33.33,0.33,0.2,0.2
+30-08-2020,Seattle Mariners,Los Angeles Angels,37.14,0.0,0.2,0.5,35.29,0.33,0.4,0.3
+31-08-2020,Seattle Mariners,Los Angeles Angels,38.89,0.0,0.2,0.5,34.29,0.33,0.6,0.4
+02-09-2020,San Diego Padres,Los Angeles Angels,59.46,0.33,0.4,0.5,33.33,0.0,0.4,0.4
+03-09-2020,San Diego Padres,Los Angeles Angels,60.53,0.33,0.4,0.5,32.43,0.0,0.2,0.3
+04-09-2020,Houston Astros,Los Angeles Angels,58.33,0.33,0.4,0.5,34.21,0.0,0.0,0.3
+06-09-2020,Houston Astros,Los Angeles Angels,53.85,0.0,0.2,0.4,39.02,0.33,0.6,0.5
+15-09-2020,Arizona Diamondbacks,Los Angeles Angels,35.42,0.0,0.4,0.2,41.67,0.33,0.4,0.5
+16-09-2020,Arizona Diamondbacks,Los Angeles Angels,36.73,0.0,0.2,0.2,40.82,0.33,0.4,0.5
+17-09-2020,Arizona Diamondbacks,Los Angeles Angels,38.0,0.33,0.2,0.3,40.0,0.0,0.4,0.4
+18-09-2020,Texas Rangers,Los Angeles Angels,36.0,0.33,0.4,0.4,41.18,0.0,0.2,0.3
+19-09-2020,Texas Rangers,Los Angeles Angels,35.29,0.0,0.2,0.3,42.31,0.33,0.2,0.4
+20-09-2020,Texas Rangers,Los Angeles Angels,34.62,0.0,0.2,0.3,43.4,0.33,0.4,0.5
+21-09-2020,Texas Rangers,Los Angeles Angels,35.85,0.0,0.0,0.3,42.59,0.33,0.6,0.5
+30-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,66.67,0.33,0.2,nan,33.33,0.33,0.4,nan
+31-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,71.43,0.33,0.4,nan,28.57,0.0,0.2,nan
+01-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,62.5,0.33,0.6,nan,37.5,0.0,0.2,nan
+02-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,66.67,0.0,0.4,0.5,33.33,0.33,0.2,0.3
+04-08-2020,Houston Astros,Arizona Diamondbacks,55.56,0.0,0.2,0.4,30.0,0.0,0.2,0.3
+05-08-2020,Houston Astros,Arizona Diamondbacks,60.0,0.33,0.4,0.4,27.27,0.0,0.2,0.3
+06-08-2020,Houston Astros,Arizona Diamondbacks,54.55,0.33,0.4,0.4,33.33,0.0,0.0,0.2
+14-08-2020,San Diego Padres,Arizona Diamondbacks,55.0,0.0,0.4,0.4,42.11,0.0,0.2,0.4
+15-08-2020,San Diego Padres,Arizona Diamondbacks,52.38,0.0,0.2,0.4,45.0,0.33,0.4,0.5
+16-08-2020,San Diego Padres,Arizona Diamondbacks,50.0,0.0,0.0,0.4,47.62,0.33,0.4,0.5
+17-08-2020,Oakland Athletics,Arizona Diamondbacks,72.73,0.33,0.6,0.6,50.0,0.33,0.6,0.5
 18-08-2020,Oakland Athletics,Arizona Diamondbacks,69.57,0.33,0.6,0.6,52.17,0.33,0.6,0.6
-24-08-2020,Colorado Rockies,Arizona Diamondbacks,46.43,0.0,0.0,0.1,44.83,0.0,0.0,0.1
-25-08-2020,Colorado Rockies,Arizona Diamondbacks,48.28,0.0,0.0,0.1,43.33,0.0,0.0,0.1
-26-08-2020,Colorado Rockies,Arizona Diamondbacks,50.0,0.33,0.2,0.1,41.94,0.33,0.2,0.1
-28-08-2020,San Francisco Giants,Arizona Diamondbacks,45.45,0.0,0.4,0.7,40.62,0.0,0.4,0.7
-29-08-2020,San Francisco Giants,Arizona Diamondbacks,44.12,0.0,0.2,0.6,42.42,0.0,0.2,0.6
-30-08-2020,San Francisco Giants,Arizona Diamondbacks,45.71,0.0,0.0,0.5,41.18,0.0,0.0,0.5
-08-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,71.43,0.0,0.4,0.6,35.71,0.0,0.4,0.6
-09-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,72.09,0.0,0.2,0.6,34.88,0.0,0.2,0.6
-10-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,72.73,0.33,0.2,0.6,34.09,0.33,0.2,0.6
-11-09-2020,Seattle Mariners,Arizona Diamondbacks,44.19,0.0,0.4,0.6,35.56,0.0,0.4,0.6
-12-09-2020,Seattle Mariners,Arizona Diamondbacks,43.18,0.0,0.2,0.6,36.96,0.0,0.2,0.6
-13-09-2020,Seattle Mariners,Arizona Diamondbacks,44.44,0.0,0.0,0.5,36.17,0.0,0.0,0.5
-22-09-2020,Texas Rangers,Arizona Diamondbacks,35.19,0.33,0.2,0.3,37.04,0.33,0.2,0.3
+24-08-2020,Colorado Rockies,Arizona Diamondbacks,46.43,0.0,0.0,0.1,44.83,0.0,0.0,0.4
+25-08-2020,Colorado Rockies,Arizona Diamondbacks,48.28,0.0,0.0,0.1,43.33,0.0,0.0,0.3
+26-08-2020,Colorado Rockies,Arizona Diamondbacks,50.0,0.33,0.2,0.1,41.94,0.0,0.0,0.2
+28-08-2020,San Francisco Giants,Arizona Diamondbacks,45.45,0.0,0.4,0.7,40.62,0.0,0.0,0.1
+29-08-2020,San Francisco Giants,Arizona Diamondbacks,44.12,0.0,0.2,0.6,42.42,0.0,0.0,0.0
+30-08-2020,San Francisco Giants,Arizona Diamondbacks,45.71,0.0,0.0,0.5,41.18,0.33,0.2,0.1
+08-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,71.43,0.0,0.4,0.6,35.71,0.0,0.2,0.1
+09-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,72.09,0.0,0.2,0.6,34.88,0.0,0.0,0.1
+10-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,72.73,0.33,0.2,0.6,34.09,0.0,0.0,0.1
+11-09-2020,Seattle Mariners,Arizona Diamondbacks,44.19,0.0,0.4,0.6,35.56,0.0,0.0,0.1
+12-09-2020,Seattle Mariners,Arizona Diamondbacks,43.18,0.0,0.2,0.6,36.96,0.33,0.2,0.2
+13-09-2020,Seattle Mariners,Arizona Diamondbacks,44.44,0.0,0.0,0.5,36.17,0.33,0.4,0.3
+22-09-2020,Texas Rangers,Arizona Diamondbacks,35.19,0.33,0.2,0.3,37.04,0.0,0.2,0.4
 23-09-2020,Texas Rangers,Arizona Diamondbacks,34.55,0.0,0.2,0.3,38.18,0.0,0.2,0.3
-26-09-2020,Colorado Rockies,Arizona Diamondbacks,43.1,0.0,0.2,0.3,41.38,0.0,0.2,0.3
-27-09-2020,Colorado Rockies,Arizona Diamondbacks,44.07,0.0,0.2,0.3,40.68,0.0,0.2,0.3
-29-07-2020,Tampa Bay Rays,Atlanta Braves,80.0,0.33,0.6,nan,40.0,0.33,0.6,nan
-30-07-2020,Tampa Bay Rays,Atlanta Braves,66.67,0.33,0.6,nan,50.0,0.33,0.6,nan
-31-07-2020,New York Mets,Atlanta Braves,42.86,0.0,0.4,nan,57.14,0.0,0.4,nan
-01-08-2020,New York Mets,Atlanta Braves,37.5,0.0,0.2,nan,62.5,0.0,0.2,nan
-02-08-2020,New York Mets,Atlanta Braves,33.33,0.0,0.0,0.3,66.67,0.0,0.0,0.3
-03-08-2020,New York Mets,Atlanta Braves,30.0,0.0,0.0,0.2,70.0,0.0,0.0,0.2
-04-08-2020,Toronto Blue Jays,Atlanta Braves,42.86,0.0,0.4,nan,63.64,0.0,0.4,nan
-05-08-2020,Toronto Blue Jays,Atlanta Braves,37.5,0.0,0.2,nan,66.67,0.0,0.2,nan
-06-08-2020,Toronto Blue Jays,Atlanta Braves,44.44,0.0,0.0,0.3,61.54,0.0,0.0,0.3
-17-08-2020,Washington Nationals,Atlanta Braves,42.11,0.0,0.2,0.3,56.52,0.0,0.2,0.3
+26-09-2020,Colorado Rockies,Arizona Diamondbacks,43.1,0.0,0.2,0.3,41.38,0.33,0.6,0.5
+27-09-2020,Colorado Rockies,Arizona Diamondbacks,44.07,0.0,0.2,0.3,40.68,0.33,0.6,0.5
+29-07-2020,Tampa Bay Rays,Atlanta Braves,80.0,0.33,0.6,nan,40.0,0.0,0.4,nan
+30-07-2020,Tampa Bay Rays,Atlanta Braves,66.67,0.33,0.6,nan,50.0,0.0,0.2,nan
+31-07-2020,New York Mets,Atlanta Braves,42.86,0.0,0.4,nan,57.14,0.33,0.2,nan
+01-08-2020,New York Mets,Atlanta Braves,37.5,0.0,0.2,nan,62.5,0.33,0.4,nan
+02-08-2020,New York Mets,Atlanta Braves,33.33,0.0,0.0,0.3,66.67,0.33,0.6,0.5
+03-08-2020,New York Mets,Atlanta Braves,30.0,0.0,0.0,0.2,70.0,0.33,0.6,0.6
+04-08-2020,Toronto Blue Jays,Atlanta Braves,42.86,0.0,0.4,nan,63.64,0.33,0.6,0.6
+05-08-2020,Toronto Blue Jays,Atlanta Braves,37.5,0.0,0.2,nan,66.67,0.0,0.4,0.5
+06-08-2020,Toronto Blue Jays,Atlanta Braves,44.44,0.0,0.0,0.3,61.54,0.33,0.4,0.6
+17-08-2020,Washington Nationals,Atlanta Braves,42.11,0.0,0.2,0.3,56.52,0.33,0.2,0.3
 18-08-2020,Washington Nationals,Atlanta Braves,40.0,0.33,0.4,0.4,58.33,0.33,0.4,0.4
-21-08-2020,Philadelphia Phillies,Atlanta Braves,42.86,0.0,0.2,0.4,56.0,0.0,0.2,0.4
-22-08-2020,Philadelphia Phillies,Atlanta Braves,40.91,0.0,0.0,0.4,57.69,0.0,0.0,0.4
-23-08-2020,Philadelphia Phillies,Atlanta Braves,39.13,0.0,0.0,0.4,59.26,0.0,0.0,0.4
-05-09-2020,Washington Nationals,Atlanta Braves,35.14,0.0,0.0,0.1,60.53,0.0,0.0,0.1
-06-09-2020,Washington Nationals,Atlanta Braves,36.84,0.33,0.2,0.1,58.97,0.33,0.2,0.1
-07-09-2020,Miami Marlins,Atlanta Braves,48.57,0.33,0.2,0.3,60.0,0.33,0.2,0.3
-08-09-2020,Miami Marlins,Atlanta Braves,50.0,0.0,0.2,0.3,58.54,0.0,0.2,0.3
-09-09-2020,Miami Marlins,Atlanta Braves,51.35,0.33,0.4,0.4,57.14,0.33,0.4,0.4
-21-09-2020,Miami Marlins,Atlanta Braves,52.83,0.33,0.6,0.5,58.49,0.33,0.6,0.5
-22-09-2020,Miami Marlins,Atlanta Braves,51.85,0.0,0.4,0.4,59.26,0.0,0.4,0.4
-23-09-2020,Miami Marlins,Atlanta Braves,50.91,0.0,0.2,0.4,60.0,0.0,0.2,0.4
-24-09-2020,Miami Marlins,Atlanta Braves,50.0,0.0,0.0,0.3,60.71,0.0,0.0,0.3
-25-09-2020,Boston Red Sox,Atlanta Braves,38.6,0.33,0.6,0.5,59.65,0.33,0.6,0.5
-26-09-2020,Boston Red Sox,Atlanta Braves,37.93,0.0,0.4,0.4,60.34,0.0,0.4,0.4
-27-09-2020,Boston Red Sox,Atlanta Braves,38.98,0.0,0.2,0.4,59.32,0.0,0.2,0.4
-29-07-2020,New York Yankees,Baltimore Orioles,66.67,0.0,nan,nan,66.67,0.0,nan,nan
+21-08-2020,Philadelphia Phillies,Atlanta Braves,42.86,0.0,0.2,0.4,56.0,0.33,0.6,0.4
+22-08-2020,Philadelphia Phillies,Atlanta Braves,40.91,0.0,0.0,0.4,57.69,0.0,0.4,0.3
+23-08-2020,Philadelphia Phillies,Atlanta Braves,39.13,0.0,0.0,0.4,59.26,0.33,0.4,0.4
+05-09-2020,Washington Nationals,Atlanta Braves,35.14,0.0,0.0,0.1,60.53,0.33,0.6,0.6
+06-09-2020,Washington Nationals,Atlanta Braves,36.84,0.33,0.2,0.1,58.97,0.0,0.4,0.5
+07-09-2020,Miami Marlins,Atlanta Braves,48.57,0.33,0.2,0.3,60.0,0.0,0.2,0.5
+08-09-2020,Miami Marlins,Atlanta Braves,50.0,0.0,0.2,0.3,58.54,0.33,0.2,0.6
+09-09-2020,Miami Marlins,Atlanta Braves,51.35,0.33,0.4,0.4,57.14,0.0,0.2,0.5
+21-09-2020,Miami Marlins,Atlanta Braves,52.83,0.33,0.6,0.5,58.49,0.0,0.2,0.4
+22-09-2020,Miami Marlins,Atlanta Braves,51.85,0.0,0.4,0.4,59.26,0.33,0.4,0.5
+23-09-2020,Miami Marlins,Atlanta Braves,50.91,0.0,0.2,0.4,60.0,0.33,0.4,0.5
+24-09-2020,Miami Marlins,Atlanta Braves,50.0,0.0,0.0,0.3,60.71,0.33,0.6,0.5
+25-09-2020,Boston Red Sox,Atlanta Braves,38.6,0.33,0.6,0.5,59.65,0.33,0.6,0.6
+26-09-2020,Boston Red Sox,Atlanta Braves,37.93,0.0,0.4,0.4,60.34,0.0,0.4,0.5
+27-09-2020,Boston Red Sox,Atlanta Braves,38.98,0.0,0.2,0.4,59.32,0.33,0.4,0.6
+29-07-2020,New York Yankees,Baltimore Orioles,66.67,0.0,nan,nan,66.67,0.33,nan,nan
 30-07-2020,New York Yankees,Baltimore Orioles,75.0,0.33,0.4,nan,50.0,0.33,0.4,nan
 31-07-2020,Tampa Bay Rays,Baltimore Orioles,57.14,0.0,0.4,nan,40.0,0.0,0.4,nan
 01-08-2020,Tampa Bay Rays,Baltimore Orioles,50.0,0.0,0.2,nan,50.0,0.0,0.2,nan
-02-08-2020,Tampa Bay Rays,Baltimore Orioles,44.44,0.0,0.0,0.4,57.14,0.0,0.0,0.4
-04-08-2020,Miami Marlins,Baltimore Orioles,66.67,0.0,nan,nan,62.5,0.0,nan,nan
-06-08-2020,Miami Marlins,Baltimore Orioles,83.33,0.33,0.6,nan,45.45,0.33,0.6,nan
-14-08-2020,Washington Nationals,Baltimore Orioles,37.5,0.0,0.4,0.3,61.11,0.0,0.4,0.3
-15-08-2020,Washington Nationals,Baltimore Orioles,41.18,0.0,0.2,0.2,57.89,0.0,0.2,0.2
-16-08-2020,Washington Nationals,Baltimore Orioles,38.89,0.33,0.2,0.3,60.0,0.33,0.2,0.3
-17-08-2020,Toronto Blue Jays,Baltimore Orioles,38.89,0.0,0.2,0.3,57.14,0.0,0.2,0.3
-18-08-2020,Toronto Blue Jays,Baltimore Orioles,42.11,0.0,0.2,0.3,54.55,0.0,0.2,0.3
-19-08-2020,Toronto Blue Jays,Baltimore Orioles,45.0,0.33,0.2,0.4,52.17,0.33,0.2,0.4
-20-08-2020,Boston Red Sox,Baltimore Orioles,28.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0
-21-08-2020,Boston Red Sox,Baltimore Orioles,30.77,0.33,0.2,0.1,48.0,0.33,0.2,0.1
-22-08-2020,Boston Red Sox,Baltimore Orioles,33.33,0.33,0.4,0.2,46.15,0.33,0.4,0.2
-23-08-2020,Boston Red Sox,Baltimore Orioles,32.14,0.33,0.6,0.3,48.15,0.33,0.6,0.3
-01-09-2020,New York Mets,Baltimore Orioles,42.86,0.0,0.0,0.3,44.12,0.0,0.0,0.3
-02-09-2020,New York Mets,Baltimore Orioles,41.67,0.0,0.0,0.3,45.71,0.0,0.0,0.3
-05-09-2020,New York Yankees,Baltimore Orioles,55.26,0.33,0.2,0.5,44.74,0.33,0.2,0.5
-06-09-2020,New York Yankees,Baltimore Orioles,53.85,0.0,0.2,0.4,46.15,0.0,0.2,0.4
-14-09-2020,Atlanta Braves,Baltimore Orioles,59.57,0.33,0.4,0.4,43.48,0.33,0.4,0.4
-15-09-2020,Atlanta Braves,Baltimore Orioles,58.33,0.33,0.4,0.5,44.68,0.33,0.4,0.5
-16-09-2020,Atlanta Braves,Baltimore Orioles,59.18,0.0,0.4,0.4,43.75,0.0,0.4,0.4
-18-09-2020,Tampa Bay Rays,Baltimore Orioles,64.71,0.33,0.4,0.4,43.14,0.33,0.4,0.4
-19-09-2020,Tampa Bay Rays,Baltimore Orioles,65.38,0.33,0.4,0.5,42.31,0.33,0.4,0.5
-20-09-2020,Tampa Bay Rays,Baltimore Orioles,66.04,0.33,0.6,0.6,41.51,0.33,0.6,0.6
-24-07-2020,Baltimore Orioles,Boston Red Sox,0,0.0,0.2,0.2,0,0.0,0.2,0.2
+02-08-2020,Tampa Bay Rays,Baltimore Orioles,44.44,0.0,0.0,0.4,57.14,0.33,0.2,nan
+04-08-2020,Miami Marlins,Baltimore Orioles,66.67,0.0,nan,nan,62.5,0.33,0.4,nan
+06-08-2020,Miami Marlins,Baltimore Orioles,83.33,0.33,0.6,nan,45.45,0.0,0.2,0.4
+14-08-2020,Washington Nationals,Baltimore Orioles,37.5,0.0,0.4,0.3,61.11,0.33,0.6,0.5
+15-08-2020,Washington Nationals,Baltimore Orioles,41.18,0.0,0.2,0.2,57.89,0.33,0.6,0.6
+16-08-2020,Washington Nationals,Baltimore Orioles,38.89,0.33,0.2,0.3,60.0,0.0,0.4,0.6
+17-08-2020,Toronto Blue Jays,Baltimore Orioles,38.89,0.0,0.2,0.3,57.14,0.33,0.4,0.7
+18-08-2020,Toronto Blue Jays,Baltimore Orioles,42.11,0.0,0.2,0.3,54.55,0.0,0.2,0.6
+19-08-2020,Toronto Blue Jays,Baltimore Orioles,45.0,0.33,0.2,0.4,52.17,0.0,0.2,0.5
+20-08-2020,Boston Red Sox,Baltimore Orioles,28.0,0.0,0.0,0.0,50.0,0.0,0.0,0.4
+21-08-2020,Boston Red Sox,Baltimore Orioles,30.77,0.33,0.2,0.1,48.0,0.0,0.0,0.3
+22-08-2020,Boston Red Sox,Baltimore Orioles,33.33,0.33,0.4,0.2,46.15,0.0,0.0,0.2
+23-08-2020,Boston Red Sox,Baltimore Orioles,32.14,0.33,0.6,0.3,48.15,0.0,0.0,0.1
+01-09-2020,New York Mets,Baltimore Orioles,42.86,0.0,0.0,0.3,44.12,0.0,0.0,0.2
+02-09-2020,New York Mets,Baltimore Orioles,41.67,0.0,0.0,0.3,45.71,0.33,0.2,0.3
+05-09-2020,New York Yankees,Baltimore Orioles,55.26,0.33,0.2,0.5,44.74,0.0,0.2,0.2
+06-09-2020,New York Yankees,Baltimore Orioles,53.85,0.0,0.2,0.4,46.15,0.33,0.2,0.3
+14-09-2020,Atlanta Braves,Baltimore Orioles,59.57,0.33,0.4,0.4,43.48,0.0,0.0,0.4
+15-09-2020,Atlanta Braves,Baltimore Orioles,58.33,0.33,0.4,0.5,44.68,0.0,0.0,0.3
+16-09-2020,Atlanta Braves,Baltimore Orioles,59.18,0.0,0.4,0.4,43.75,0.33,0.2,0.3
+18-09-2020,Tampa Bay Rays,Baltimore Orioles,64.71,0.33,0.4,0.4,43.14,0.0,0.2,0.2
+19-09-2020,Tampa Bay Rays,Baltimore Orioles,65.38,0.33,0.4,0.5,42.31,0.0,0.2,0.2
+20-09-2020,Tampa Bay Rays,Baltimore Orioles,66.04,0.33,0.6,0.6,41.51,0.0,0.0,0.2
+24-07-2020,Baltimore Orioles,Boston Red Sox,0,0.0,0.2,0.2,0,0.33,0.2,0.4
 25-07-2020,Baltimore Orioles,Boston Red Sox,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Baltimore Orioles,Boston Red Sox,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+26-07-2020,Baltimore Orioles,Boston Red Sox,50.0,0.0,nan,nan,50.0,0.33,nan,nan
 27-07-2020,New York Mets,Boston Red Sox,33.33,0.0,nan,nan,33.33,0.0,nan,nan
 28-07-2020,New York Mets,Boston Red Sox,50.0,0.0,0.2,nan,25.0,0.0,0.2,nan
-07-08-2020,Toronto Blue Jays,Boston Red Sox,40.0,0.33,0.2,0.3,33.33,0.33,0.2,0.3
-08-08-2020,Toronto Blue Jays,Boston Red Sox,36.36,0.0,0.2,0.3,38.46,0.0,0.2,0.3
-09-08-2020,Toronto Blue Jays,Boston Red Sox,41.67,0.0,0.2,0.3,35.71,0.0,0.2,0.3
-10-08-2020,Tampa Bay Rays,Boston Red Sox,50.0,0.33,0.4,0.3,40.0,0.33,0.4,0.3
-11-08-2020,Tampa Bay Rays,Boston Red Sox,52.94,0.33,0.4,0.4,37.5,0.33,0.4,0.4
-12-08-2020,Tampa Bay Rays,Boston Red Sox,55.56,0.33,0.6,0.5,35.29,0.33,0.6,0.5
-13-08-2020,Tampa Bay Rays,Boston Red Sox,57.89,0.33,0.6,0.6,33.33,0.33,0.6,0.6
-18-08-2020,Philadelphia Phillies,Boston Red Sox,47.06,0.33,0.4,0.3,26.09,0.33,0.4,0.3
-19-08-2020,Philadelphia Phillies,Boston Red Sox,50.0,0.33,0.6,0.4,25.0,0.33,0.6,0.4
-28-08-2020,Washington Nationals,Boston Red Sox,39.29,0.0,0.2,0.3,32.26,0.0,0.2,0.3
-29-08-2020,Washington Nationals,Boston Red Sox,41.38,0.0,0.0,0.3,31.25,0.0,0.0,0.3
-30-08-2020,Washington Nationals,Boston Red Sox,40.0,0.33,0.2,0.3,33.33,0.33,0.2,0.3
-31-08-2020,Atlanta Braves,Boston Red Sox,57.58,0.0,0.2,0.4,35.29,0.0,0.2,0.4
-01-09-2020,Atlanta Braves,Boston Red Sox,58.82,0.33,0.2,0.5,34.29,0.33,0.2,0.5
-02-09-2020,Atlanta Braves,Boston Red Sox,60.0,0.33,0.4,0.5,33.33,0.33,0.4,0.5
-03-09-2020,Toronto Blue Jays,Boston Red Sox,54.29,0.0,0.2,0.5,32.43,0.0,0.2,0.5
-05-09-2020,Toronto Blue Jays,Boston Red Sox,55.26,0.33,0.6,0.6,32.5,0.33,0.6,0.6
-06-09-2020,Toronto Blue Jays,Boston Red Sox,53.85,0.0,0.4,0.5,34.15,0.0,0.4,0.5
-18-09-2020,New York Yankees,Boston Red Sox,58.0,0.33,0.6,0.7,37.25,0.33,0.6,0.7
-19-09-2020,New York Yankees,Boston Red Sox,58.82,0.33,0.6,0.8,36.54,0.33,0.6,0.8
-20-09-2020,New York Yankees,Boston Red Sox,59.62,0.33,0.6,0.8,35.85,0.33,0.6,0.8
-22-09-2020,Baltimore Orioles,Boston Red Sox,42.59,0.0,0.0,0.2,37.04,0.0,0.0,0.2
-23-09-2020,Baltimore Orioles,Boston Red Sox,41.82,0.33,0.2,0.3,38.18,0.33,0.2,0.3
-24-09-2020,Baltimore Orioles,Boston Red Sox,41.07,0.0,0.2,0.2,39.29,0.0,0.2,0.2
-24-07-2020,Minnesota Twins,Chicago White Sox,0,0.33,0.4,0.5,0,0.33,0.4,0.5
+07-08-2020,Toronto Blue Jays,Boston Red Sox,40.0,0.33,0.2,0.3,33.33,0.0,0.0,0.2
+08-08-2020,Toronto Blue Jays,Boston Red Sox,36.36,0.0,0.2,0.3,38.46,0.33,0.2,0.3
+09-08-2020,Toronto Blue Jays,Boston Red Sox,41.67,0.0,0.2,0.3,35.71,0.33,0.4,0.4
+10-08-2020,Tampa Bay Rays,Boston Red Sox,50.0,0.33,0.4,0.3,40.0,0.0,0.4,0.3
+11-08-2020,Tampa Bay Rays,Boston Red Sox,52.94,0.33,0.4,0.4,37.5,0.33,0.4,0.3
+12-08-2020,Tampa Bay Rays,Boston Red Sox,55.56,0.33,0.6,0.5,35.29,0.0,0.2,0.3
+13-08-2020,Tampa Bay Rays,Boston Red Sox,57.89,0.33,0.6,0.6,33.33,0.0,0.2,0.3
+18-08-2020,Philadelphia Phillies,Boston Red Sox,47.06,0.33,0.4,0.3,26.09,0.0,0.0,0.1
+19-08-2020,Philadelphia Phillies,Boston Red Sox,50.0,0.33,0.6,0.4,25.0,0.0,0.0,0.0
+28-08-2020,Washington Nationals,Boston Red Sox,39.29,0.0,0.2,0.3,32.26,0.33,0.2,0.4
+29-08-2020,Washington Nationals,Boston Red Sox,41.38,0.0,0.0,0.3,31.25,0.0,0.2,0.4
+30-08-2020,Washington Nationals,Boston Red Sox,40.0,0.33,0.2,0.3,33.33,0.0,0.2,0.4
+31-08-2020,Atlanta Braves,Boston Red Sox,57.58,0.0,0.2,0.4,35.29,0.33,0.2,0.4
+01-09-2020,Atlanta Braves,Boston Red Sox,58.82,0.33,0.2,0.5,34.29,0.33,0.4,0.4
+02-09-2020,Atlanta Braves,Boston Red Sox,60.0,0.33,0.4,0.5,33.33,0.0,0.4,0.3
+03-09-2020,Toronto Blue Jays,Boston Red Sox,54.29,0.0,0.2,0.5,32.43,0.0,0.2,0.3
+05-09-2020,Toronto Blue Jays,Boston Red Sox,55.26,0.33,0.6,0.6,32.5,0.0,0.0,0.2
+06-09-2020,Toronto Blue Jays,Boston Red Sox,53.85,0.0,0.4,0.5,34.15,0.33,0.2,0.3
+18-09-2020,New York Yankees,Boston Red Sox,58.0,0.33,0.6,0.7,37.25,0.0,0.4,0.4
+19-09-2020,New York Yankees,Boston Red Sox,58.82,0.33,0.6,0.8,36.54,0.33,0.4,0.5
+20-09-2020,New York Yankees,Boston Red Sox,59.62,0.33,0.6,0.8,35.85,0.0,0.2,0.4
+22-09-2020,Baltimore Orioles,Boston Red Sox,42.59,0.0,0.0,0.2,37.04,0.0,0.2,0.3
+23-09-2020,Baltimore Orioles,Boston Red Sox,41.82,0.33,0.2,0.3,38.18,0.33,0.2,0.4
+24-09-2020,Baltimore Orioles,Boston Red Sox,41.07,0.0,0.2,0.2,39.29,0.33,0.4,0.5
+24-07-2020,Minnesota Twins,Chicago White Sox,0,0.33,0.4,0.5,0,0.33,0.2,0.2
 25-07-2020,Minnesota Twins,Chicago White Sox,100.0,nan,nan,nan,0.0,nan,nan,nan
-26-07-2020,Minnesota Twins,Chicago White Sox,50.0,0.33,nan,nan,50.0,0.33,nan,nan
-05-08-2020,Milwaukee Brewers,Chicago White Sox,37.5,0.0,0.2,nan,63.64,0.0,0.2,nan
-06-08-2020,Milwaukee Brewers,Chicago White Sox,44.44,0.0,0.2,0.3,58.33,0.0,0.2,0.3
-07-08-2020,Cleveland Indians,Chicago White Sox,57.14,0.33,0.4,0.3,53.85,0.33,0.4,0.3
-08-08-2020,Cleveland Indians,Chicago White Sox,53.33,0.33,0.6,0.4,57.14,0.33,0.6,0.4
-09-08-2020,Cleveland Indians,Chicago White Sox,56.25,0.0,0.4,0.3,53.33,0.0,0.4,0.3
-16-08-2020,St. Louis Cardinals,Chicago White Sox,57.14,0.33,0.2,nan,47.62,0.33,0.2,nan
-17-08-2020,Detroit Tigers,Chicago White Sox,47.37,0.0,0.0,0.4,50.0,0.0,0.0,0.4
-18-08-2020,Detroit Tigers,Chicago White Sox,45.0,0.0,0.0,0.3,52.17,0.0,0.0,0.3
-19-08-2020,Detroit Tigers,Chicago White Sox,42.86,0.0,0.0,0.2,54.17,0.0,0.0,0.2
-20-08-2020,Detroit Tigers,Chicago White Sox,40.91,0.0,0.0,0.1,56.0,0.0,0.0,0.1
-25-08-2020,Pittsburgh Pirates,Chicago White Sox,29.17,0.33,0.4,0.3,58.62,0.33,0.4,0.3
-26-08-2020,Pittsburgh Pirates,Chicago White Sox,28.0,0.33,0.6,0.4,60.0,0.33,0.6,0.4
-28-08-2020,Kansas City Royals,Chicago White Sox,38.71,0.33,0.2,0.3,61.29,0.33,0.2,0.3
-29-08-2020,Kansas City Royals,Chicago White Sox,37.5,0.0,0.2,0.3,62.5,0.0,0.2,0.3
-30-08-2020,Kansas City Royals,Chicago White Sox,39.39,0.0,0.2,0.2,60.61,0.0,0.2,0.2
-11-09-2020,Detroit Tigers,Chicago White Sox,46.51,0.0,0.2,0.2,62.79,0.0,0.2,0.2
-12-09-2020,Detroit Tigers,Chicago White Sox,45.45,0.33,0.2,0.3,63.64,0.33,0.2,0.3
-13-09-2020,Detroit Tigers,Chicago White Sox,44.44,0.0,0.2,0.3,64.44,0.0,0.2,0.3
-14-09-2020,Minnesota Twins,Chicago White Sox,62.5,0.33,0.4,0.6,65.22,0.33,0.4,0.6
-15-09-2020,Minnesota Twins,Chicago White Sox,61.22,0.33,0.6,0.6,65.96,0.33,0.6,0.6
-16-09-2020,Minnesota Twins,Chicago White Sox,60.0,0.0,0.4,0.5,66.67,0.0,0.4,0.5
-17-09-2020,Minnesota Twins,Chicago White Sox,60.78,0.0,0.2,0.5,65.31,0.0,0.2,0.5
-25-09-2020,Chicago Cubs,Chicago White Sox,56.14,0.0,0.2,0.4,59.65,0.0,0.2,0.4
-26-09-2020,Chicago Cubs,Chicago White Sox,56.9,0.0,0.0,0.3,58.62,0.0,0.0,0.3
-27-09-2020,Chicago Cubs,Chicago White Sox,55.93,0.33,0.2,0.3,59.32,0.33,0.2,0.3
-24-07-2020,Milwaukee Brewers,Chicago Cubs,0,0.33,0.4,0.4,0,0.33,0.4,0.4
+26-07-2020,Minnesota Twins,Chicago White Sox,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+05-08-2020,Milwaukee Brewers,Chicago White Sox,37.5,0.0,0.2,nan,63.64,0.33,0.6,0.5
+06-08-2020,Milwaukee Brewers,Chicago White Sox,44.44,0.0,0.2,0.3,58.33,0.33,0.6,0.6
+07-08-2020,Cleveland Indians,Chicago White Sox,57.14,0.33,0.4,0.3,53.85,0.0,0.4,0.6
+08-08-2020,Cleveland Indians,Chicago White Sox,53.33,0.33,0.6,0.4,57.14,0.0,0.2,0.6
+09-08-2020,Cleveland Indians,Chicago White Sox,56.25,0.0,0.4,0.3,53.33,0.33,0.2,0.6
+16-08-2020,St. Louis Cardinals,Chicago White Sox,57.14,0.33,0.2,nan,47.62,0.0,0.4,0.3
+17-08-2020,Detroit Tigers,Chicago White Sox,47.37,0.0,0.0,0.4,50.0,0.0,0.2,0.3
+18-08-2020,Detroit Tigers,Chicago White Sox,45.0,0.0,0.0,0.3,52.17,0.33,0.2,0.3
+19-08-2020,Detroit Tigers,Chicago White Sox,42.86,0.0,0.0,0.2,54.17,0.33,0.4,0.4
+20-08-2020,Detroit Tigers,Chicago White Sox,40.91,0.0,0.0,0.1,56.0,0.33,0.6,0.5
+25-08-2020,Pittsburgh Pirates,Chicago White Sox,29.17,0.33,0.4,0.3,58.62,0.33,0.6,0.7
+26-08-2020,Pittsburgh Pirates,Chicago White Sox,28.0,0.33,0.6,0.4,60.0,0.0,0.4,0.7
+28-08-2020,Kansas City Royals,Chicago White Sox,38.71,0.33,0.2,0.3,61.29,0.33,0.4,0.7
+29-08-2020,Kansas City Royals,Chicago White Sox,37.5,0.0,0.2,0.3,62.5,0.33,0.4,0.7
+30-08-2020,Kansas City Royals,Chicago White Sox,39.39,0.0,0.2,0.2,60.61,0.33,0.6,0.7
+11-09-2020,Detroit Tigers,Chicago White Sox,46.51,0.0,0.2,0.2,62.79,0.0,0.4,0.5
+12-09-2020,Detroit Tigers,Chicago White Sox,45.45,0.33,0.2,0.3,63.64,0.33,0.4,0.5
+13-09-2020,Detroit Tigers,Chicago White Sox,44.44,0.0,0.2,0.3,64.44,0.33,0.4,0.6
+14-09-2020,Minnesota Twins,Chicago White Sox,62.5,0.33,0.4,0.6,65.22,0.33,0.6,0.7
+15-09-2020,Minnesota Twins,Chicago White Sox,61.22,0.33,0.6,0.6,65.96,0.33,0.6,0.7
+16-09-2020,Minnesota Twins,Chicago White Sox,60.0,0.0,0.4,0.5,66.67,0.33,0.6,0.7
+17-09-2020,Minnesota Twins,Chicago White Sox,60.78,0.0,0.2,0.5,65.31,0.33,0.6,0.7
+25-09-2020,Chicago Cubs,Chicago White Sox,56.14,0.0,0.2,0.4,59.65,0.0,0.0,0.2
+26-09-2020,Chicago Cubs,Chicago White Sox,56.9,0.0,0.0,0.3,58.62,0.0,0.0,0.2
+27-09-2020,Chicago Cubs,Chicago White Sox,55.93,0.33,0.2,0.3,59.32,0.0,0.0,0.1
+24-07-2020,Milwaukee Brewers,Chicago Cubs,0,0.33,0.4,0.4,0,0.0,0.2,0.2
 25-07-2020,Milwaukee Brewers,Chicago Cubs,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Milwaukee Brewers,Chicago Cubs,50.0,0.0,nan,nan,50.0,0.0,nan,nan
-31-07-2020,Pittsburgh Pirates,Chicago Cubs,33.33,0.33,0.4,nan,66.67,0.33,0.4,nan
-01-08-2020,Pittsburgh Pirates,Chicago Cubs,28.57,0.0,0.2,nan,71.43,0.0,0.2,nan
-02-08-2020,Pittsburgh Pirates,Chicago Cubs,25.0,0.0,0.2,nan,75.0,0.0,0.2,nan
-03-08-2020,Kansas City Royals,Chicago Cubs,30.0,0.0,0.2,0.3,77.78,0.0,0.2,0.3
-04-08-2020,Kansas City Royals,Chicago Cubs,27.27,0.0,0.0,0.2,80.0,0.0,0.0,0.2
-13-08-2020,Milwaukee Brewers,Chicago Cubs,43.75,0.33,0.4,0.4,80.0,0.33,0.4,0.4
-14-08-2020,Milwaukee Brewers,Chicago Cubs,41.18,0.0,0.2,0.4,81.25,0.0,0.2,0.4
-15-08-2020,Milwaukee Brewers,Chicago Cubs,44.44,0.0,0.2,0.3,76.47,0.0,0.2,0.3
-16-08-2020,Milwaukee Brewers,Chicago Cubs,47.37,0.33,0.2,0.3,72.22,0.33,0.2,0.3
-18-08-2020,St. Louis Cardinals,Chicago Cubs,50.0,0.33,0.4,0.4,66.67,0.33,0.4,0.4
-21-08-2020,Chicago White Sox,Chicago Cubs,57.69,0.33,0.6,0.6,66.67,0.33,0.6,0.6
-22-08-2020,Chicago White Sox,Chicago Cubs,59.26,0.33,0.6,0.6,64.0,0.33,0.6,0.6
-23-08-2020,Chicago White Sox,Chicago Cubs,60.71,0.33,0.6,0.6,61.54,0.33,0.6,0.6
+26-07-2020,Milwaukee Brewers,Chicago Cubs,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+31-07-2020,Pittsburgh Pirates,Chicago Cubs,33.33,0.33,0.4,nan,66.67,0.33,0.6,nan
+01-08-2020,Pittsburgh Pirates,Chicago Cubs,28.57,0.0,0.2,nan,71.43,0.0,0.4,nan
+02-08-2020,Pittsburgh Pirates,Chicago Cubs,25.0,0.0,0.2,nan,75.0,0.33,0.4,nan
+03-08-2020,Kansas City Royals,Chicago Cubs,30.0,0.0,0.2,0.3,77.78,0.33,0.4,0.6
+04-08-2020,Kansas City Royals,Chicago Cubs,27.27,0.0,0.0,0.2,80.0,0.33,0.6,0.6
+13-08-2020,Milwaukee Brewers,Chicago Cubs,43.75,0.33,0.4,0.4,80.0,0.33,0.4,0.7
+14-08-2020,Milwaukee Brewers,Chicago Cubs,41.18,0.0,0.2,0.4,81.25,0.33,0.4,0.7
+15-08-2020,Milwaukee Brewers,Chicago Cubs,44.44,0.0,0.2,0.3,76.47,0.33,0.6,0.7
+16-08-2020,Milwaukee Brewers,Chicago Cubs,47.37,0.33,0.2,0.3,72.22,0.0,0.4,0.6
+18-08-2020,St. Louis Cardinals,Chicago Cubs,50.0,0.33,0.4,0.4,66.67,0.0,0.0,0.3
+21-08-2020,Chicago White Sox,Chicago Cubs,57.69,0.33,0.6,0.6,66.67,0.0,0.4,0.3
+22-08-2020,Chicago White Sox,Chicago Cubs,59.26,0.33,0.6,0.6,64.0,0.33,0.4,0.3
+23-08-2020,Chicago White Sox,Chicago Cubs,60.71,0.33,0.6,0.6,61.54,0.0,0.2,0.3
 04-09-2020,St. Louis Cardinals,Chicago Cubs,50.0,0.33,0.6,0.4,59.46,0.33,0.6,0.4
-06-09-2020,St. Louis Cardinals,Chicago Cubs,51.61,0.33,0.2,0.4,57.5,0.33,0.2,0.4
-07-09-2020,St. Louis Cardinals,Chicago Cubs,53.12,0.33,0.4,0.5,56.1,0.33,0.4,0.5
-08-09-2020,Cincinnati Reds,Chicago Cubs,43.9,0.33,0.4,0.4,57.14,0.33,0.4,0.4
-09-09-2020,Cincinnati Reds,Chicago Cubs,42.86,0.0,0.2,0.3,58.14,0.0,0.2,0.3
-10-09-2020,Cincinnati Reds,Chicago Cubs,44.19,0.0,0.2,0.3,56.82,0.0,0.2,0.3
-15-09-2020,Cleveland Indians,Chicago Cubs,55.32,0.0,0.0,0.3,58.33,0.0,0.0,0.3
-16-09-2020,Cleveland Indians,Chicago Cubs,54.17,0.0,0.0,0.2,59.18,0.0,0.0,0.2
-18-09-2020,Minnesota Twins,Chicago Cubs,59.62,0.33,0.2,0.5,60.0,0.33,0.2,0.5
-19-09-2020,Minnesota Twins,Chicago Cubs,58.49,0.0,0.2,0.4,60.78,0.0,0.2,0.4
-20-09-2020,Minnesota Twins,Chicago Cubs,59.26,0.0,0.2,0.4,59.62,0.0,0.2,0.4
-24-07-2020,Detroit Tigers,Cincinnati Reds,0,0.33,0.2,0.2,0,0.33,0.2,0.2
+06-09-2020,St. Louis Cardinals,Chicago Cubs,51.61,0.33,0.2,0.4,57.5,0.0,0.2,0.5
+07-09-2020,St. Louis Cardinals,Chicago Cubs,53.12,0.33,0.4,0.5,56.1,0.0,0.2,0.4
+08-09-2020,Cincinnati Reds,Chicago Cubs,43.9,0.33,0.4,0.4,57.14,0.0,0.0,0.4
+09-09-2020,Cincinnati Reds,Chicago Cubs,42.86,0.0,0.2,0.3,58.14,0.33,0.2,0.4
+10-09-2020,Cincinnati Reds,Chicago Cubs,44.19,0.0,0.2,0.3,56.82,0.33,0.4,0.4
+15-09-2020,Cleveland Indians,Chicago Cubs,55.32,0.0,0.0,0.3,58.33,0.33,0.4,0.4
+16-09-2020,Cleveland Indians,Chicago Cubs,54.17,0.0,0.0,0.2,59.18,0.33,0.4,0.5
+18-09-2020,Minnesota Twins,Chicago Cubs,59.62,0.33,0.2,0.5,60.0,0.33,0.6,0.6
+19-09-2020,Minnesota Twins,Chicago Cubs,58.49,0.0,0.2,0.4,60.78,0.33,0.6,0.6
+20-09-2020,Minnesota Twins,Chicago Cubs,59.26,0.0,0.2,0.4,59.62,0.33,0.6,0.6
+24-07-2020,Detroit Tigers,Cincinnati Reds,0,0.33,0.2,0.2,0,0.0,0.4,0.5
 25-07-2020,Detroit Tigers,Cincinnati Reds,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Detroit Tigers,Cincinnati Reds,50.0,0.0,nan,nan,50.0,0.0,nan,nan
+26-07-2020,Detroit Tigers,Cincinnati Reds,50.0,0.0,nan,nan,50.0,0.33,nan,nan
 27-07-2020,Chicago Cubs,Cincinnati Reds,66.67,0.0,nan,nan,33.33,0.0,nan,nan
-28-07-2020,Chicago Cubs,Cincinnati Reds,75.0,0.33,0.4,nan,25.0,0.33,0.4,nan
-29-07-2020,Chicago Cubs,Cincinnati Reds,80.0,0.33,0.4,nan,20.0,0.33,0.4,nan
-03-08-2020,Cleveland Indians,Cincinnati Reds,50.0,0.0,0.2,0.4,44.44,0.0,0.2,0.4
-04-08-2020,Cleveland Indians,Cincinnati Reds,45.45,0.0,0.0,0.4,50.0,0.0,0.0,0.4
-11-08-2020,Kansas City Royals,Cincinnati Reds,41.18,0.33,0.6,0.3,43.75,0.33,0.6,0.3
-12-08-2020,Kansas City Royals,Cincinnati Reds,38.89,0.33,0.6,0.4,47.06,0.33,0.6,0.4
-13-08-2020,Pittsburgh Pirates,Cincinnati Reds,18.75,0.0,0.2,0.1,44.44,0.0,0.2,0.1
-14-08-2020,Pittsburgh Pirates,Cincinnati Reds,23.53,0.0,0.0,0.1,42.11,0.0,0.0,0.1
-28-08-2020,Chicago Cubs,Cincinnati Reds,60.0,0.0,0.4,0.4,43.33,0.0,0.4,0.4
-30-08-2020,Chicago Cubs,Cincinnati Reds,57.58,0.33,0.2,0.3,45.45,0.33,0.2,0.3
-31-08-2020,St. Louis Cardinals,Cincinnati Reds,48.0,0.0,0.0,0.3,44.12,0.0,0.0,0.3
-01-09-2020,St. Louis Cardinals,Cincinnati Reds,50.0,0.33,0.2,0.3,42.86,0.33,0.2,0.3
-02-09-2020,St. Louis Cardinals,Cincinnati Reds,51.85,0.33,0.4,0.3,41.67,0.33,0.4,0.3
-15-09-2020,Pittsburgh Pirates,Cincinnati Reds,30.43,0.0,0.0,0.2,46.94,0.0,0.0,0.2
-16-09-2020,Pittsburgh Pirates,Cincinnati Reds,29.79,0.0,0.0,0.2,48.0,0.0,0.0,0.2
-18-09-2020,Chicago White Sox,Cincinnati Reds,66.0,0.0,0.4,0.6,49.02,0.0,0.4,0.6
-19-09-2020,Chicago White Sox,Cincinnati Reds,64.71,0.33,0.4,0.7,50.0,0.33,0.4,0.7
-20-09-2020,Chicago White Sox,Cincinnati Reds,65.38,0.0,0.2,0.6,49.06,0.0,0.2,0.6
-21-09-2020,Milwaukee Brewers,Cincinnati Reds,50.0,0.33,0.6,0.5,50.0,0.33,0.6,0.5
-22-09-2020,Milwaukee Brewers,Cincinnati Reds,49.06,0.33,0.6,0.6,50.91,0.33,0.6,0.6
-23-09-2020,Milwaukee Brewers,Cincinnati Reds,50.0,0.0,0.4,0.5,50.0,0.0,0.4,0.5
-24-07-2020,Kansas City Royals,Cleveland Indians,0,0.0,0.4,0.4,0,0.0,0.4,0.4
+28-07-2020,Chicago Cubs,Cincinnati Reds,75.0,0.33,0.4,nan,25.0,0.0,0.2,nan
+29-07-2020,Chicago Cubs,Cincinnati Reds,80.0,0.33,0.4,nan,20.0,0.0,0.0,nan
+03-08-2020,Cleveland Indians,Cincinnati Reds,50.0,0.0,0.2,0.4,44.44,0.33,0.4,0.3
+04-08-2020,Cleveland Indians,Cincinnati Reds,45.45,0.0,0.0,0.4,50.0,0.33,0.4,0.3
+11-08-2020,Kansas City Royals,Cincinnati Reds,41.18,0.33,0.6,0.3,43.75,0.33,0.4,0.5
+12-08-2020,Kansas City Royals,Cincinnati Reds,38.89,0.33,0.6,0.4,47.06,0.0,0.4,0.4
+13-08-2020,Pittsburgh Pirates,Cincinnati Reds,18.75,0.0,0.2,0.1,44.44,0.33,0.4,0.4
+14-08-2020,Pittsburgh Pirates,Cincinnati Reds,23.53,0.0,0.0,0.1,42.11,0.0,0.2,0.3
+28-08-2020,Chicago Cubs,Cincinnati Reds,60.0,0.0,0.4,0.4,43.33,0.33,0.2,0.3
+30-08-2020,Chicago Cubs,Cincinnati Reds,57.58,0.33,0.2,0.3,45.45,0.0,0.4,0.3
+31-08-2020,St. Louis Cardinals,Cincinnati Reds,48.0,0.0,0.0,0.3,44.12,0.33,0.4,0.4
+01-09-2020,St. Louis Cardinals,Cincinnati Reds,50.0,0.33,0.2,0.3,42.86,0.0,0.2,0.4
+02-09-2020,St. Louis Cardinals,Cincinnati Reds,51.85,0.33,0.4,0.3,41.67,0.0,0.2,0.4
+15-09-2020,Pittsburgh Pirates,Cincinnati Reds,30.43,0.0,0.0,0.2,46.94,0.33,0.4,0.4
+16-09-2020,Pittsburgh Pirates,Cincinnati Reds,29.79,0.0,0.0,0.2,48.0,0.33,0.6,0.5
+18-09-2020,Chicago White Sox,Cincinnati Reds,66.0,0.0,0.4,0.6,49.02,0.33,0.6,0.6
+19-09-2020,Chicago White Sox,Cincinnati Reds,64.71,0.33,0.4,0.7,50.0,0.33,0.6,0.6
+20-09-2020,Chicago White Sox,Cincinnati Reds,65.38,0.0,0.2,0.6,49.06,0.33,0.6,0.7
+21-09-2020,Milwaukee Brewers,Cincinnati Reds,50.0,0.33,0.6,0.5,50.0,0.0,0.4,0.6
+22-09-2020,Milwaukee Brewers,Cincinnati Reds,49.06,0.33,0.6,0.6,50.91,0.33,0.4,0.7
+23-09-2020,Milwaukee Brewers,Cincinnati Reds,50.0,0.0,0.4,0.5,50.0,0.33,0.4,0.7
+24-07-2020,Kansas City Royals,Cleveland Indians,0,0.0,0.4,0.4,0,0.0,0.4,0.6
 25-07-2020,Kansas City Royals,Cleveland Indians,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Kansas City Royals,Cleveland Indians,50.0,0.0,nan,nan,50.0,0.0,nan,nan
-29-07-2020,Chicago White Sox,Cleveland Indians,20.0,0.0,0.2,nan,80.0,0.0,0.2,nan
-05-08-2020,Cincinnati Reds,Cleveland Indians,45.45,0.33,0.6,0.4,50.0,0.33,0.6,0.4
-06-08-2020,Cincinnati Reds,Cleveland Indians,41.67,0.0,0.4,0.4,53.85,0.0,0.4,0.4
-11-08-2020,Chicago Cubs,Cleveland Indians,76.92,0.33,0.6,0.7,58.82,0.33,0.6,0.7
-12-08-2020,Chicago Cubs,Cleveland Indians,78.57,0.0,0.4,0.6,55.56,0.0,0.4,0.6
-21-08-2020,Detroit Tigers,Cleveland Indians,39.13,0.0,0.0,0.0,64.0,0.0,0.0,0.0
-22-08-2020,Detroit Tigers,Cleveland Indians,41.67,0.0,0.0,0.0,61.54,0.0,0.0,0.0
-23-08-2020,Detroit Tigers,Cleveland Indians,40.0,0.33,0.2,0.1,62.96,0.33,0.2,0.1
-24-08-2020,Minnesota Twins,Cleveland Indians,65.52,0.33,0.4,0.5,60.71,0.33,0.4,0.5
-25-08-2020,Minnesota Twins,Cleveland Indians,66.67,0.33,0.4,0.6,58.62,0.33,0.4,0.6
-26-08-2020,Minnesota Twins,Cleveland Indians,64.52,0.33,0.6,0.6,60.0,0.33,0.6,0.6
-04-09-2020,Milwaukee Brewers,Cleveland Indians,47.22,0.0,0.2,0.4,62.16,0.0,0.2,0.4
-05-09-2020,Milwaukee Brewers,Cleveland Indians,48.65,0.33,0.4,0.4,60.53,0.33,0.4,0.4
-06-09-2020,Milwaukee Brewers,Cleveland Indians,47.37,0.33,0.4,0.5,61.54,0.33,0.4,0.5
-07-09-2020,Kansas City Royals,Cleveland Indians,34.15,0.0,0.0,0.2,62.5,0.0,0.0,0.2
-08-09-2020,Kansas City Royals,Cleveland Indians,33.33,0.0,0.0,0.1,63.41,0.0,0.0,0.1
-09-09-2020,Kansas City Royals,Cleveland Indians,34.88,0.0,0.0,0.1,61.9,0.0,0.0,0.1
-10-09-2020,Kansas City Royals,Cleveland Indians,36.36,0.33,0.2,0.1,60.47,0.33,0.2,0.1
-21-09-2020,Chicago White Sox,Cleveland Indians,64.15,0.33,0.4,0.6,54.72,0.33,0.4,0.6
-22-09-2020,Chicago White Sox,Cleveland Indians,62.96,0.0,0.2,0.5,55.56,0.0,0.2,0.5
-23-09-2020,Chicago White Sox,Cleveland Indians,61.82,0.0,0.2,0.4,56.36,0.0,0.2,0.4
-24-09-2020,Chicago White Sox,Cleveland Indians,60.71,0.0,0.0,0.3,57.14,0.0,0.0,0.3
-25-09-2020,Pittsburgh Pirates,Cleveland Indians,31.58,0.33,0.4,0.3,57.89,0.33,0.4,0.3
-26-09-2020,Pittsburgh Pirates,Cleveland Indians,31.03,0.33,0.6,0.3,58.62,0.33,0.6,0.3
-27-09-2020,Pittsburgh Pirates,Cleveland Indians,32.2,0.0,0.4,0.3,57.63,0.0,0.4,0.3
-31-07-2020,San Diego Padres,Colorado Rockies,71.43,0.0,0.4,nan,80.0,0.0,0.4,nan
-01-08-2020,San Diego Padres,Colorado Rockies,75.0,0.33,0.4,nan,66.67,0.33,0.4,nan
-02-08-2020,San Diego Padres,Colorado Rockies,66.67,0.33,0.4,0.6,71.43,0.33,0.4,0.6
-03-08-2020,San Francisco Giants,Colorado Rockies,50.0,0.33,0.4,0.5,75.0,0.33,0.4,0.5
-04-08-2020,San Francisco Giants,Colorado Rockies,45.45,0.0,0.4,0.5,77.78,0.0,0.4,0.5
-05-08-2020,San Francisco Giants,Colorado Rockies,41.67,0.0,0.2,0.4,80.0,0.0,0.2,0.4
-06-08-2020,San Francisco Giants,Colorado Rockies,46.15,0.0,0.0,0.3,72.73,0.0,0.0,0.3
-10-08-2020,Arizona Diamondbacks,Colorado Rockies,37.5,0.33,0.4,0.4,73.33,0.33,0.4,0.4
-11-08-2020,Arizona Diamondbacks,Colorado Rockies,41.18,0.0,0.2,0.3,68.75,0.0,0.2,0.3
-12-08-2020,Arizona Diamondbacks,Colorado Rockies,38.89,0.33,0.4,0.4,70.59,0.33,0.4,0.4
-14-08-2020,Texas Rangers,Colorado Rockies,47.06,0.33,0.4,0.4,66.67,0.33,0.4,0.4
-15-08-2020,Texas Rangers,Colorado Rockies,50.0,0.33,0.4,0.5,63.16,0.33,0.4,0.5
-16-08-2020,Texas Rangers,Colorado Rockies,52.63,0.33,0.6,0.6,60.0,0.33,0.6,0.6
-19-08-2020,Houston Astros,Colorado Rockies,56.52,0.33,0.6,0.6,56.52,0.33,0.6,0.6
-20-08-2020,Houston Astros,Colorado Rockies,58.33,0.33,0.6,0.7,54.17,0.33,0.6,0.7
-28-08-2020,San Diego Padres,Colorado Rockies,57.58,0.33,0.4,0.7,51.61,0.33,0.4,0.7
-29-08-2020,San Diego Padres,Colorado Rockies,58.82,0.0,0.2,0.6,50.0,0.0,0.2,0.6
-30-08-2020,San Diego Padres,Colorado Rockies,57.14,0.33,0.4,0.6,51.52,0.33,0.4,0.6
-31-08-2020,San Diego Padres,Colorado Rockies,58.33,0.0,0.2,0.5,50.0,0.0,0.2,0.5
-01-09-2020,San Francisco Giants,Colorado Rockies,47.22,0.33,0.2,0.5,48.57,0.33,0.2,0.5
-02-09-2020,San Francisco Giants,Colorado Rockies,48.65,0.33,0.4,0.5,47.22,0.33,0.4,0.5
-11-09-2020,Los Angeles Angels,Colorado Rockies,40.0,0.0,0.2,0.5,46.51,0.0,0.2,0.5
-12-09-2020,Los Angeles Angels,Colorado Rockies,39.13,0.33,0.2,0.6,47.73,0.33,0.2,0.6
-13-09-2020,Los Angeles Angels,Colorado Rockies,40.43,0.0,0.2,0.5,46.67,0.0,0.2,0.5
-15-09-2020,Oakland Athletics,Colorado Rockies,62.5,0.0,0.2,0.4,45.65,0.0,0.2,0.4
-16-09-2020,Oakland Athletics,Colorado Rockies,61.22,0.33,0.2,0.5,46.81,0.33,0.2,0.5
-17-09-2020,Los Angeles Dodgers,Colorado Rockies,70.0,0.33,0.4,0.4,45.83,0.33,0.4,0.4
-18-09-2020,Los Angeles Dodgers,Colorado Rockies,70.59,0.33,0.4,0.5,44.9,0.33,0.4,0.5
-19-09-2020,Los Angeles Dodgers,Colorado Rockies,71.15,0.33,0.6,0.5,44.0,0.33,0.6,0.5
-20-09-2020,Los Angeles Dodgers,Colorado Rockies,71.7,0.33,0.6,0.5,43.14,0.33,0.6,0.5
+26-07-2020,Kansas City Royals,Cleveland Indians,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+29-07-2020,Chicago White Sox,Cleveland Indians,20.0,0.0,0.2,nan,80.0,0.33,0.4,nan
+05-08-2020,Cincinnati Reds,Cleveland Indians,45.45,0.33,0.6,0.4,50.0,0.0,0.0,0.3
+06-08-2020,Cincinnati Reds,Cleveland Indians,41.67,0.0,0.4,0.4,53.85,0.33,0.2,0.3
+11-08-2020,Chicago Cubs,Cleveland Indians,76.92,0.33,0.6,0.7,58.82,0.33,0.4,0.4
+12-08-2020,Chicago Cubs,Cleveland Indians,78.57,0.0,0.4,0.6,55.56,0.33,0.4,0.5
+21-08-2020,Detroit Tigers,Cleveland Indians,39.13,0.0,0.0,0.0,64.0,0.33,0.6,0.6
+22-08-2020,Detroit Tigers,Cleveland Indians,41.67,0.0,0.0,0.0,61.54,0.33,0.6,0.6
+23-08-2020,Detroit Tigers,Cleveland Indians,40.0,0.33,0.2,0.1,62.96,0.0,0.4,0.6
+24-08-2020,Minnesota Twins,Cleveland Indians,65.52,0.33,0.4,0.5,60.71,0.33,0.4,0.7
+25-08-2020,Minnesota Twins,Cleveland Indians,66.67,0.33,0.4,0.6,58.62,0.0,0.2,0.6
+26-08-2020,Minnesota Twins,Cleveland Indians,64.52,0.33,0.6,0.6,60.0,0.0,0.2,0.5
+04-09-2020,Milwaukee Brewers,Cleveland Indians,47.22,0.0,0.2,0.4,62.16,0.33,0.2,0.5
+05-09-2020,Milwaukee Brewers,Cleveland Indians,48.65,0.33,0.4,0.4,60.53,0.33,0.4,0.6
+06-09-2020,Milwaukee Brewers,Cleveland Indians,47.37,0.33,0.4,0.5,61.54,0.0,0.4,0.5
+07-09-2020,Kansas City Royals,Cleveland Indians,34.15,0.0,0.0,0.2,62.5,0.33,0.4,0.5
+08-09-2020,Kansas City Royals,Cleveland Indians,33.33,0.0,0.0,0.1,63.41,0.33,0.4,0.5
+09-09-2020,Kansas City Royals,Cleveland Indians,34.88,0.0,0.0,0.1,61.9,0.33,0.6,0.5
+10-09-2020,Kansas City Royals,Cleveland Indians,36.36,0.33,0.2,0.1,60.47,0.0,0.4,0.5
+21-09-2020,Chicago White Sox,Cleveland Indians,64.15,0.33,0.4,0.6,54.72,0.0,0.4,0.2
+22-09-2020,Chicago White Sox,Cleveland Indians,62.96,0.0,0.2,0.5,55.56,0.33,0.4,0.3
+23-09-2020,Chicago White Sox,Cleveland Indians,61.82,0.0,0.2,0.4,56.36,0.33,0.4,0.4
+24-09-2020,Chicago White Sox,Cleveland Indians,60.71,0.0,0.0,0.3,57.14,0.33,0.6,0.5
+25-09-2020,Pittsburgh Pirates,Cleveland Indians,31.58,0.33,0.4,0.3,57.89,0.33,0.6,0.6
+26-09-2020,Pittsburgh Pirates,Cleveland Indians,31.03,0.33,0.6,0.3,58.62,0.33,0.6,0.7
+27-09-2020,Pittsburgh Pirates,Cleveland Indians,32.2,0.0,0.4,0.3,57.63,0.33,0.6,0.7
+31-07-2020,San Diego Padres,Colorado Rockies,71.43,0.0,0.4,nan,80.0,0.33,0.6,nan
+01-08-2020,San Diego Padres,Colorado Rockies,75.0,0.33,0.4,nan,66.67,0.33,0.6,nan
+02-08-2020,San Diego Padres,Colorado Rockies,66.67,0.33,0.4,0.6,71.43,0.0,0.4,nan
+03-08-2020,San Francisco Giants,Colorado Rockies,50.0,0.33,0.4,0.5,75.0,0.33,0.4,nan
+04-08-2020,San Francisco Giants,Colorado Rockies,45.45,0.0,0.4,0.5,77.78,0.33,0.4,0.6
+05-08-2020,San Francisco Giants,Colorado Rockies,41.67,0.0,0.2,0.4,80.0,0.33,0.6,0.7
+06-08-2020,San Francisco Giants,Colorado Rockies,46.15,0.0,0.0,0.3,72.73,0.33,0.6,0.7
+10-08-2020,Arizona Diamondbacks,Colorado Rockies,37.5,0.33,0.4,0.4,73.33,0.33,0.6,0.7
+11-08-2020,Arizona Diamondbacks,Colorado Rockies,41.18,0.0,0.2,0.3,68.75,0.0,0.4,0.6
+12-08-2020,Arizona Diamondbacks,Colorado Rockies,38.89,0.33,0.4,0.4,70.59,0.0,0.2,0.5
+14-08-2020,Texas Rangers,Colorado Rockies,47.06,0.33,0.4,0.4,66.67,0.33,0.2,0.5
+15-08-2020,Texas Rangers,Colorado Rockies,50.0,0.33,0.4,0.5,63.16,0.0,0.2,0.4
+16-08-2020,Texas Rangers,Colorado Rockies,52.63,0.33,0.6,0.6,60.0,0.0,0.2,0.4
+19-08-2020,Houston Astros,Colorado Rockies,56.52,0.33,0.6,0.6,56.52,0.0,0.2,0.2
+20-08-2020,Houston Astros,Colorado Rockies,58.33,0.33,0.6,0.7,54.17,0.0,0.2,0.2
+28-08-2020,San Diego Padres,Colorado Rockies,57.58,0.33,0.4,0.7,51.61,0.33,0.4,0.2
+29-08-2020,San Diego Padres,Colorado Rockies,58.82,0.0,0.2,0.6,50.0,0.33,0.6,0.3
+30-08-2020,San Diego Padres,Colorado Rockies,57.14,0.33,0.4,0.6,51.52,0.0,0.4,0.3
+31-08-2020,San Diego Padres,Colorado Rockies,58.33,0.0,0.2,0.5,50.0,0.33,0.4,0.4
+01-09-2020,San Francisco Giants,Colorado Rockies,47.22,0.33,0.2,0.5,48.57,0.0,0.2,0.4
+02-09-2020,San Francisco Giants,Colorado Rockies,48.65,0.33,0.4,0.5,47.22,0.0,0.2,0.4
+11-09-2020,Los Angeles Angels,Colorado Rockies,40.0,0.0,0.2,0.5,46.51,0.0,0.2,0.3
+12-09-2020,Los Angeles Angels,Colorado Rockies,39.13,0.33,0.2,0.6,47.73,0.0,0.0,0.3
+13-09-2020,Los Angeles Angels,Colorado Rockies,40.43,0.0,0.2,0.5,46.67,0.33,0.2,0.4
+15-09-2020,Oakland Athletics,Colorado Rockies,62.5,0.0,0.2,0.4,45.65,0.0,0.2,0.3
+16-09-2020,Oakland Athletics,Colorado Rockies,61.22,0.33,0.2,0.5,46.81,0.0,0.2,0.3
+17-09-2020,Los Angeles Dodgers,Colorado Rockies,70.0,0.33,0.4,0.4,45.83,0.33,0.2,0.3
+18-09-2020,Los Angeles Dodgers,Colorado Rockies,70.59,0.33,0.4,0.5,44.9,0.0,0.2,0.2
+19-09-2020,Los Angeles Dodgers,Colorado Rockies,71.15,0.33,0.6,0.5,44.0,0.0,0.2,0.2
+20-09-2020,Los Angeles Dodgers,Colorado Rockies,71.7,0.33,0.6,0.5,43.14,0.0,0.0,0.2
 27-07-2020,Kansas City Royals,Detroit Tigers,33.33,0.33,nan,nan,66.67,0.33,nan,nan
-28-07-2020,Kansas City Royals,Detroit Tigers,50.0,0.0,0.2,nan,50.0,0.0,0.2,nan
-29-07-2020,Kansas City Royals,Detroit Tigers,40.0,0.33,0.4,nan,60.0,0.33,0.4,nan
-30-07-2020,Kansas City Royals,Detroit Tigers,33.33,0.0,0.2,nan,66.67,0.0,0.2,nan
-31-07-2020,Cincinnati Reds,Detroit Tigers,33.33,0.0,0.0,nan,57.14,0.0,0.0,nan
-10-08-2020,Chicago White Sox,Detroit Tigers,50.0,0.0,0.2,0.5,61.54,0.0,0.2,0.5
-11-08-2020,Chicago White Sox,Detroit Tigers,47.06,0.0,0.2,0.4,64.29,0.0,0.2,0.4
-12-08-2020,Chicago White Sox,Detroit Tigers,50.0,0.0,0.0,0.3,60.0,0.0,0.0,0.3
+28-07-2020,Kansas City Royals,Detroit Tigers,50.0,0.0,0.2,nan,50.0,0.33,0.4,nan
+29-07-2020,Kansas City Royals,Detroit Tigers,40.0,0.33,0.4,nan,60.0,0.0,0.4,nan
+30-07-2020,Kansas City Royals,Detroit Tigers,33.33,0.0,0.2,nan,66.67,0.33,0.4,nan
+31-07-2020,Cincinnati Reds,Detroit Tigers,33.33,0.0,0.0,nan,57.14,0.33,0.4,nan
+10-08-2020,Chicago White Sox,Detroit Tigers,50.0,0.0,0.2,0.5,61.54,0.33,0.4,0.5
+11-08-2020,Chicago White Sox,Detroit Tigers,47.06,0.0,0.2,0.4,64.29,0.33,0.6,0.5
+12-08-2020,Chicago White Sox,Detroit Tigers,50.0,0.0,0.0,0.3,60.0,0.33,0.6,0.5
 14-08-2020,Cleveland Indians,Detroit Tigers,52.63,0.0,0.4,0.5,56.25,0.0,0.4,0.5
-15-08-2020,Cleveland Indians,Detroit Tigers,55.0,0.0,0.2,0.5,52.94,0.0,0.2,0.5
-16-08-2020,Cleveland Indians,Detroit Tigers,57.14,0.33,0.2,0.5,50.0,0.33,0.2,0.5
-24-08-2020,Chicago Cubs,Detroit Tigers,62.96,0.0,0.2,0.3,42.31,0.0,0.2,0.3
-25-08-2020,Chicago Cubs,Detroit Tigers,64.29,0.33,0.2,0.4,40.74,0.33,0.2,0.4
-26-08-2020,Chicago Cubs,Detroit Tigers,62.07,0.33,0.4,0.5,42.86,0.33,0.4,0.5
-30-08-2020,Minnesota Twins,Detroit Tigers,58.82,0.0,0.0,0.4,48.39,0.0,0.0,0.4
-08-09-2020,Milwaukee Brewers,Detroit Tigers,46.15,0.0,0.4,0.5,46.15,0.0,0.4,0.5
-09-09-2020,Milwaukee Brewers,Detroit Tigers,45.0,0.0,0.2,0.4,47.5,0.0,0.2,0.4
-15-09-2020,Kansas City Royals,Detroit Tigers,41.67,0.33,0.6,0.5,43.48,0.33,0.6,0.5
-16-09-2020,Kansas City Royals,Detroit Tigers,40.82,0.33,0.6,0.6,44.68,0.33,0.6,0.6
-17-09-2020,Cleveland Indians,Detroit Tigers,53.06,0.0,0.0,0.1,43.75,0.0,0.0,0.1
-18-09-2020,Cleveland Indians,Detroit Tigers,54.0,0.0,0.0,0.0,42.86,0.0,0.0,0.0
-19-09-2020,Cleveland Indians,Detroit Tigers,54.9,0.33,0.2,0.1,42.0,0.33,0.2,0.1
-20-09-2020,Cleveland Indians,Detroit Tigers,53.85,0.33,0.4,0.2,43.14,0.33,0.4,0.2
-24-07-2020,Seattle Mariners,Houston Astros,0,0.33,0.4,0.5,0,0.33,0.4,0.5
+15-08-2020,Cleveland Indians,Detroit Tigers,55.0,0.0,0.2,0.5,52.94,0.0,0.2,0.4
+16-08-2020,Cleveland Indians,Detroit Tigers,57.14,0.33,0.2,0.5,50.0,0.0,0.0,0.4
+24-08-2020,Chicago Cubs,Detroit Tigers,62.96,0.0,0.2,0.3,42.31,0.0,0.2,0.1
+25-08-2020,Chicago Cubs,Detroit Tigers,64.29,0.33,0.2,0.4,40.74,0.33,0.4,0.2
+26-08-2020,Chicago Cubs,Detroit Tigers,62.07,0.33,0.4,0.5,42.86,0.0,0.2,0.2
+30-08-2020,Minnesota Twins,Detroit Tigers,58.82,0.0,0.0,0.4,48.39,0.33,0.6,0.5
+08-09-2020,Milwaukee Brewers,Detroit Tigers,46.15,0.0,0.4,0.5,46.15,0.33,0.2,0.4
+09-09-2020,Milwaukee Brewers,Detroit Tigers,45.0,0.0,0.2,0.4,47.5,0.0,0.2,0.3
+15-09-2020,Kansas City Royals,Detroit Tigers,41.67,0.33,0.6,0.5,43.48,0.0,0.2,0.3
+16-09-2020,Kansas City Royals,Detroit Tigers,40.82,0.33,0.6,0.6,44.68,0.0,0.0,0.2
+17-09-2020,Cleveland Indians,Detroit Tigers,53.06,0.0,0.0,0.1,43.75,0.33,0.2,0.3
+18-09-2020,Cleveland Indians,Detroit Tigers,54.0,0.0,0.0,0.0,42.86,0.0,0.2,0.2
+19-09-2020,Cleveland Indians,Detroit Tigers,54.9,0.33,0.2,0.1,42.0,0.0,0.2,0.2
+20-09-2020,Cleveland Indians,Detroit Tigers,53.85,0.33,0.4,0.2,43.14,0.0,0.0,0.2
+24-07-2020,Seattle Mariners,Houston Astros,0,0.33,0.4,0.5,0,0.0,0.2,0.4
 25-07-2020,Seattle Mariners,Houston Astros,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Seattle Mariners,Houston Astros,0.0,0.0,nan,nan,100.0,0.0,nan,nan
-27-07-2020,Seattle Mariners,Houston Astros,33.33,0.0,nan,nan,66.67,0.0,nan,nan
+26-07-2020,Seattle Mariners,Houston Astros,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+27-07-2020,Seattle Mariners,Houston Astros,33.33,0.0,nan,nan,66.67,0.33,nan,nan
 28-07-2020,Los Angeles Dodgers,Houston Astros,50.0,0.0,0.4,nan,75.0,0.0,0.4,nan
-29-07-2020,Los Angeles Dodgers,Houston Astros,60.0,0.0,0.2,nan,60.0,0.0,0.2,nan
-10-08-2020,San Francisco Giants,Houston Astros,41.18,0.33,0.2,0.3,40.0,0.33,0.2,0.3
-11-08-2020,San Francisco Giants,Houston Astros,38.89,0.0,0.2,0.2,43.75,0.0,0.2,0.2
-12-08-2020,San Francisco Giants,Houston Astros,42.11,0.0,0.2,0.2,41.18,0.0,0.2,0.2
-14-08-2020,Seattle Mariners,Houston Astros,35.0,0.0,0.4,0.3,44.44,0.0,0.4,0.3
-15-08-2020,Seattle Mariners,Houston Astros,33.33,0.0,0.2,0.3,47.37,0.0,0.2,0.3
-16-08-2020,Seattle Mariners,Houston Astros,31.82,0.0,0.0,0.2,50.0,0.0,0.0,0.2
-17-08-2020,Colorado Rockies,Houston Astros,61.9,0.0,0.0,0.3,52.38,0.0,0.0,0.3
-18-08-2020,Colorado Rockies,Houston Astros,59.09,0.33,0.2,0.3,54.55,0.33,0.2,0.3
-24-08-2020,Los Angeles Angels,Houston Astros,31.03,0.33,0.2,0.2,53.57,0.33,0.2,0.2
-01-09-2020,Texas Rangers,Houston Astros,36.36,0.0,0.2,0.2,57.58,0.0,0.2,0.2
-02-09-2020,Texas Rangers,Houston Astros,38.24,0.0,0.2,0.2,55.88,0.0,0.2,0.2
-03-09-2020,Texas Rangers,Houston Astros,37.14,0.33,0.2,0.3,57.14,0.33,0.2,0.3
-15-09-2020,Texas Rangers,Houston Astros,36.17,0.0,0.2,0.3,48.94,0.0,0.2,0.3
-16-09-2020,Texas Rangers,Houston Astros,35.42,0.33,0.4,0.4,50.0,0.33,0.4,0.4
-17-09-2020,Texas Rangers,Houston Astros,36.73,0.0,0.2,0.4,48.98,0.0,0.2,0.4
-18-09-2020,Arizona Diamondbacks,Houston Astros,37.25,0.33,0.4,0.4,50.0,0.33,0.4,0.4
-19-09-2020,Arizona Diamondbacks,Houston Astros,38.46,0.0,0.4,0.4,49.02,0.0,0.4,0.4
-20-09-2020,Arizona Diamondbacks,Houston Astros,37.74,0.33,0.4,0.5,50.0,0.33,0.4,0.5
-31-07-2020,Chicago White Sox,Kansas City Royals,33.33,0.0,0.0,nan,42.86,0.0,0.0,nan
+29-07-2020,Los Angeles Dodgers,Houston Astros,60.0,0.0,0.2,nan,60.0,0.33,0.4,nan
+10-08-2020,San Francisco Giants,Houston Astros,41.18,0.33,0.2,0.3,40.0,0.0,0.0,0.3
+11-08-2020,San Francisco Giants,Houston Astros,38.89,0.0,0.2,0.2,43.75,0.0,0.0,0.2
+12-08-2020,San Francisco Giants,Houston Astros,42.11,0.0,0.2,0.2,41.18,0.33,0.2,0.3
+14-08-2020,Seattle Mariners,Houston Astros,35.0,0.0,0.4,0.3,44.44,0.0,0.2,0.2
+15-08-2020,Seattle Mariners,Houston Astros,33.33,0.0,0.2,0.3,47.37,0.33,0.4,0.2
+16-08-2020,Seattle Mariners,Houston Astros,31.82,0.0,0.0,0.2,50.0,0.33,0.4,0.3
+17-08-2020,Colorado Rockies,Houston Astros,61.9,0.0,0.0,0.3,52.38,0.33,0.6,0.4
+18-08-2020,Colorado Rockies,Houston Astros,59.09,0.33,0.2,0.3,54.55,0.33,0.6,0.5
+24-08-2020,Los Angeles Angels,Houston Astros,31.03,0.33,0.2,0.2,53.57,0.0,0.2,0.6
+01-09-2020,Texas Rangers,Houston Astros,36.36,0.0,0.2,0.2,57.58,0.33,0.4,0.4
+02-09-2020,Texas Rangers,Houston Astros,38.24,0.0,0.2,0.2,55.88,0.33,0.4,0.4
+03-09-2020,Texas Rangers,Houston Astros,37.14,0.33,0.2,0.3,57.14,0.0,0.4,0.4
+15-09-2020,Texas Rangers,Houston Astros,36.17,0.0,0.2,0.3,48.94,0.33,0.2,0.2
+16-09-2020,Texas Rangers,Houston Astros,35.42,0.33,0.4,0.4,50.0,0.0,0.2,0.2
+17-09-2020,Texas Rangers,Houston Astros,36.73,0.0,0.2,0.4,48.98,0.33,0.4,0.3
+18-09-2020,Arizona Diamondbacks,Houston Astros,37.25,0.33,0.4,0.4,50.0,0.0,0.2,0.3
+19-09-2020,Arizona Diamondbacks,Houston Astros,38.46,0.0,0.4,0.4,49.02,0.33,0.4,0.4
+20-09-2020,Arizona Diamondbacks,Houston Astros,37.74,0.33,0.4,0.5,50.0,0.0,0.2,0.3
+31-07-2020,Chicago White Sox,Kansas City Royals,33.33,0.0,0.0,nan,42.86,0.0,0.2,nan
 01-08-2020,Chicago White Sox,Kansas City Royals,42.86,0.33,0.2,nan,37.5,0.33,0.2,nan
-02-08-2020,Chicago White Sox,Kansas City Royals,50.0,0.33,0.4,nan,33.33,0.33,0.4,nan
-05-08-2020,Chicago Cubs,Kansas City Royals,81.82,0.33,0.6,0.7,25.0,0.33,0.6,0.7
-06-08-2020,Chicago Cubs,Kansas City Royals,83.33,0.33,0.6,0.7,23.08,0.33,0.6,0.7
-07-08-2020,Minnesota Twins,Kansas City Royals,76.92,0.33,0.6,0.7,28.57,0.33,0.6,0.7
-08-08-2020,Minnesota Twins,Kansas City Royals,71.43,0.0,0.4,0.6,33.33,0.0,0.4,0.6
-09-08-2020,Minnesota Twins,Kansas City Royals,66.67,0.0,0.2,0.6,37.5,0.0,0.2,0.6
-21-08-2020,Minnesota Twins,Kansas City Royals,65.38,0.0,0.4,0.5,40.0,0.0,0.4,0.5
-22-08-2020,Minnesota Twins,Kansas City Royals,62.96,0.33,0.4,0.6,42.31,0.33,0.4,0.6
-23-08-2020,Minnesota Twins,Kansas City Royals,64.29,0.0,0.2,0.5,40.74,0.0,0.2,0.5
-31-08-2020,Cleveland Indians,Kansas City Royals,61.76,0.33,0.6,0.5,38.24,0.33,0.6,0.5
-01-09-2020,Cleveland Indians,Kansas City Royals,60.0,0.0,0.4,0.5,40.0,0.0,0.4,0.5
-02-09-2020,Cleveland Indians,Kansas City Royals,61.11,0.0,0.2,0.4,38.89,0.0,0.2,0.4
-03-09-2020,Chicago White Sox,Kansas City Royals,59.46,0.0,0.4,0.5,37.84,0.0,0.4,0.5
-04-09-2020,Chicago White Sox,Kansas City Royals,60.53,0.0,0.2,0.5,36.84,0.0,0.2,0.5
-05-09-2020,Chicago White Sox,Kansas City Royals,61.54,0.33,0.2,0.5,35.9,0.33,0.2,0.5
-06-09-2020,Chicago White Sox,Kansas City Royals,62.5,0.33,0.4,0.5,35.0,0.33,0.4,0.5
-11-09-2020,Pittsburgh Pirates,Kansas City Royals,34.15,0.33,0.4,0.4,37.78,0.33,0.4,0.4
-12-09-2020,Pittsburgh Pirates,Kansas City Royals,33.33,0.0,0.4,0.4,39.13,0.0,0.4,0.4
-13-09-2020,Pittsburgh Pirates,Kansas City Royals,32.56,0.0,0.2,0.4,40.43,0.0,0.2,0.4
-21-09-2020,St. Louis Cardinals,Kansas City Royals,52.0,0.33,0.6,0.5,39.62,0.33,0.6,0.5
-22-09-2020,St. Louis Cardinals,Kansas City Royals,50.98,0.33,0.6,0.5,40.74,0.33,0.6,0.5
-23-09-2020,St. Louis Cardinals,Kansas City Royals,51.92,0.0,0.4,0.5,40.0,0.0,0.4,0.5
-24-09-2020,Detroit Tigers,Kansas City Royals,40.74,0.0,0.2,0.2,41.07,0.0,0.2,0.2
-25-09-2020,Detroit Tigers,Kansas City Royals,40.0,0.0,0.0,0.2,42.11,0.0,0.0,0.2
-26-09-2020,Detroit Tigers,Kansas City Royals,39.29,0.0,0.0,0.1,43.1,0.0,0.0,0.1
-27-09-2020,Detroit Tigers,Kansas City Royals,40.35,0.0,0.0,0.1,42.37,0.0,0.0,0.1
-23-07-2020,San Francisco Giants,Los Angeles Dodgers,0,0.0,0.2,0.4,0,0.0,0.2,0.4
+02-08-2020,Chicago White Sox,Kansas City Royals,50.0,0.33,0.4,nan,33.33,0.0,0.2,0.3
+05-08-2020,Chicago Cubs,Kansas City Royals,81.82,0.33,0.6,0.7,25.0,0.0,0.0,0.2
+06-08-2020,Chicago Cubs,Kansas City Royals,83.33,0.33,0.6,0.7,23.08,0.0,0.0,0.1
+07-08-2020,Minnesota Twins,Kansas City Royals,76.92,0.33,0.6,0.7,28.57,0.0,0.0,0.1
+08-08-2020,Minnesota Twins,Kansas City Royals,71.43,0.0,0.4,0.6,33.33,0.33,0.2,0.2
+09-08-2020,Minnesota Twins,Kansas City Royals,66.67,0.0,0.2,0.6,37.5,0.33,0.4,0.2
+21-08-2020,Minnesota Twins,Kansas City Royals,65.38,0.0,0.4,0.5,40.0,0.33,0.2,0.4
+22-08-2020,Minnesota Twins,Kansas City Royals,62.96,0.33,0.4,0.6,42.31,0.0,0.2,0.3
+23-08-2020,Minnesota Twins,Kansas City Royals,64.29,0.0,0.2,0.5,40.74,0.33,0.4,0.4
+31-08-2020,Cleveland Indians,Kansas City Royals,61.76,0.33,0.6,0.5,38.24,0.33,0.2,0.3
+01-09-2020,Cleveland Indians,Kansas City Royals,60.0,0.0,0.4,0.5,40.0,0.0,0.2,0.2
+02-09-2020,Cleveland Indians,Kansas City Royals,61.11,0.0,0.2,0.4,38.89,0.33,0.4,0.3
+03-09-2020,Chicago White Sox,Kansas City Royals,59.46,0.0,0.4,0.5,37.84,0.0,0.2,0.3
+04-09-2020,Chicago White Sox,Kansas City Royals,60.53,0.0,0.2,0.5,36.84,0.0,0.2,0.3
+05-09-2020,Chicago White Sox,Kansas City Royals,61.54,0.33,0.2,0.5,35.9,0.0,0.0,0.2
+06-09-2020,Chicago White Sox,Kansas City Royals,62.5,0.33,0.4,0.5,35.0,0.0,0.0,0.2
+11-09-2020,Pittsburgh Pirates,Kansas City Royals,34.15,0.33,0.4,0.4,37.78,0.33,0.4,0.2
+12-09-2020,Pittsburgh Pirates,Kansas City Royals,33.33,0.0,0.4,0.4,39.13,0.33,0.6,0.3
+13-09-2020,Pittsburgh Pirates,Kansas City Royals,32.56,0.0,0.2,0.4,40.43,0.33,0.6,0.4
+21-09-2020,St. Louis Cardinals,Kansas City Royals,52.0,0.33,0.6,0.5,39.62,0.0,0.2,0.5
+22-09-2020,St. Louis Cardinals,Kansas City Royals,50.98,0.33,0.6,0.5,40.74,0.0,0.0,0.4
+23-09-2020,St. Louis Cardinals,Kansas City Royals,51.92,0.0,0.4,0.5,40.0,0.33,0.2,0.4
+24-09-2020,Detroit Tigers,Kansas City Royals,40.74,0.0,0.2,0.2,41.07,0.0,0.2,0.3
+25-09-2020,Detroit Tigers,Kansas City Royals,40.0,0.0,0.0,0.2,42.11,0.33,0.4,0.3
+26-09-2020,Detroit Tigers,Kansas City Royals,39.29,0.0,0.0,0.1,43.1,0.33,0.4,0.4
+27-09-2020,Detroit Tigers,Kansas City Royals,40.35,0.0,0.0,0.1,42.37,0.33,0.6,0.4
+23-07-2020,San Francisco Giants,Los Angeles Dodgers,0,0.0,0.2,0.4,0,0.33,0.6,0.6
 24-07-2020,San Francisco Giants,Los Angeles Dodgers,0.0,nan,nan,nan,100.0,nan,nan,nan
-25-07-2020,San Francisco Giants,Los Angeles Dodgers,0.0,0.0,nan,nan,100.0,0.0,nan,nan
-26-07-2020,San Francisco Giants,Los Angeles Dodgers,33.33,0.0,nan,nan,66.67,0.0,nan,nan
-07-08-2020,San Francisco Giants,Los Angeles Dodgers,42.86,0.33,0.2,0.4,69.23,0.33,0.2,0.4
-08-08-2020,San Francisco Giants,Los Angeles Dodgers,40.0,0.0,0.2,0.3,71.43,0.0,0.2,0.3
-09-08-2020,San Francisco Giants,Los Angeles Dodgers,43.75,0.0,0.2,0.3,66.67,0.0,0.2,0.3
-10-08-2020,San Diego Padres,Los Angeles Dodgers,56.25,0.0,0.2,0.3,68.75,0.0,0.2,0.3
-11-08-2020,San Diego Padres,Los Angeles Dodgers,58.82,0.33,0.4,0.3,64.71,0.33,0.4,0.3
-12-08-2020,San Diego Padres,Los Angeles Dodgers,61.11,0.33,0.4,0.4,61.11,0.33,0.4,0.4
-13-08-2020,San Diego Padres,Los Angeles Dodgers,57.89,0.33,0.6,0.5,63.16,0.33,0.6,0.5
-17-08-2020,Seattle Mariners,Los Angeles Dodgers,30.43,0.0,0.0,0.2,69.57,0.0,0.0,0.2
-18-08-2020,Seattle Mariners,Los Angeles Dodgers,29.17,0.0,0.0,0.2,70.83,0.0,0.0,0.2
-21-08-2020,Colorado Rockies,Los Angeles Dodgers,52.0,0.0,0.0,0.2,70.37,0.0,0.0,0.2
-22-08-2020,Colorado Rockies,Los Angeles Dodgers,50.0,0.0,0.0,0.1,71.43,0.0,0.0,0.1
-23-08-2020,Colorado Rockies,Los Angeles Dodgers,48.15,0.0,0.0,0.1,72.41,0.0,0.0,0.1
-01-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,40.0,0.0,0.2,0.1,72.22,0.0,0.2,0.1
-02-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,38.89,0.0,0.2,0.1,72.97,0.0,0.2,0.1
-03-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,37.84,0.0,0.0,0.1,73.68,0.0,0.0,0.1
-04-09-2020,Colorado Rockies,Los Angeles Dodgers,48.65,0.0,0.0,0.4,74.36,0.0,0.0,0.4
-05-09-2020,Colorado Rockies,Los Angeles Dodgers,47.37,0.33,0.2,0.4,75.0,0.33,0.2,0.4
-06-09-2020,Colorado Rockies,Los Angeles Dodgers,48.72,0.0,0.2,0.3,73.17,0.0,0.2,0.3
-12-09-2020,Houston Astros,Los Angeles Dodgers,48.89,0.0,0.2,0.1,71.11,0.0,0.2,0.1
-13-09-2020,Houston Astros,Los Angeles Dodgers,50.0,0.0,0.2,0.1,69.57,0.0,0.2,0.1
-22-09-2020,Oakland Athletics,Los Angeles Dodgers,62.26,0.33,0.6,0.5,70.37,0.33,0.6,0.5
-23-09-2020,Oakland Athletics,Los Angeles Dodgers,61.11,0.0,0.4,0.4,70.91,0.0,0.4,0.4
-24-09-2020,Oakland Athletics,Los Angeles Dodgers,61.82,0.0,0.2,0.4,69.64,0.0,0.2,0.4
-25-09-2020,Los Angeles Angels,Los Angeles Dodgers,45.61,0.33,0.4,0.5,70.18,0.33,0.4,0.5
-26-09-2020,Los Angeles Angels,Los Angeles Dodgers,44.83,0.33,0.6,0.6,70.69,0.33,0.6,0.6
-27-09-2020,Los Angeles Angels,Los Angeles Dodgers,44.07,0.0,0.4,0.6,71.19,0.0,0.4,0.6
-14-08-2020,Atlanta Braves,Miami Marlins,55.0,0.0,0.2,0.4,66.67,0.0,0.2,0.4
-15-08-2020,Atlanta Braves,Miami Marlins,52.38,0.0,0.0,0.3,69.23,0.0,0.0,0.3
-16-08-2020,Atlanta Braves,Miami Marlins,54.55,0.0,0.0,0.3,64.29,0.0,0.0,0.3
-17-08-2020,New York Mets,Miami Marlins,39.13,0.0,0.2,0.4,60.0,0.0,0.2,0.4
-18-08-2020,New York Mets,Miami Marlins,41.67,0.0,0.0,0.3,56.25,0.0,0.0,0.3
-19-08-2020,New York Mets,Miami Marlins,44.0,0.33,0.2,0.3,52.94,0.33,0.2,0.3
-28-08-2020,Tampa Bay Rays,Miami Marlins,65.62,0.33,0.4,0.6,53.85,0.33,0.4,0.6
-29-08-2020,Tampa Bay Rays,Miami Marlins,66.67,0.33,0.4,0.6,51.85,0.33,0.4,0.6
-30-08-2020,Tampa Bay Rays,Miami Marlins,67.65,0.33,0.6,0.6,50.0,0.33,0.6,0.6
-01-09-2020,Toronto Blue Jays,Miami Marlins,54.55,0.33,0.6,0.5,50.0,0.33,0.6,0.5
-02-09-2020,Toronto Blue Jays,Miami Marlins,52.94,0.0,0.4,0.5,51.61,0.0,0.4,0.5
-10-09-2020,Philadelphia Phillies,Miami Marlins,53.85,0.33,0.4,0.6,50.0,0.33,0.4,0.6
-12-09-2020,Philadelphia Phillies,Miami Marlins,52.38,0.33,0.2,0.4,51.22,0.33,0.2,0.4
-14-09-2020,Philadelphia Phillies,Miami Marlins,51.11,0.0,0.2,0.4,52.27,0.0,0.2,0.4
-15-09-2020,Boston Red Sox,Miami Marlins,35.42,0.0,0.2,0.4,53.33,0.0,0.2,0.4
-16-09-2020,Boston Red Sox,Miami Marlins,36.73,0.33,0.2,0.4,52.17,0.33,0.2,0.4
-17-09-2020,Boston Red Sox,Miami Marlins,36.0,0.33,0.4,0.4,53.19,0.33,0.4,0.4
-19-09-2020,Washington Nationals,Miami Marlins,38.78,0.33,0.4,0.4,52.0,0.33,0.4,0.4
-03-08-2020,Chicago White Sox,Milwaukee Brewers,55.56,0.33,0.6,0.4,50.0,0.33,0.6,0.4
-04-08-2020,Chicago White Sox,Milwaukee Brewers,60.0,0.33,0.6,0.5,42.86,0.33,0.6,0.5
-07-08-2020,Cincinnati Reds,Milwaukee Brewers,38.46,0.0,0.2,0.4,50.0,0.0,0.2,0.4
-08-08-2020,Cincinnati Reds,Milwaukee Brewers,42.86,0.0,0.0,0.4,45.45,0.0,0.0,0.4
-09-08-2020,Cincinnati Reds,Milwaukee Brewers,46.67,0.33,0.2,0.4,41.67,0.33,0.2,0.4
-10-08-2020,Minnesota Twins,Milwaukee Brewers,62.5,0.0,0.0,0.5,46.15,0.0,0.0,0.5
-11-08-2020,Minnesota Twins,Milwaukee Brewers,64.71,0.0,0.0,0.4,42.86,0.0,0.0,0.4
-12-08-2020,Minnesota Twins,Milwaukee Brewers,61.11,0.33,0.2,0.4,46.67,0.33,0.2,0.4
-24-08-2020,Cincinnati Reds,Milwaukee Brewers,42.31,0.0,0.2,0.3,42.31,0.0,0.2,0.3
-25-08-2020,Cincinnati Reds,Milwaukee Brewers,40.74,0.0,0.2,0.3,44.44,0.0,0.2,0.3
-28-08-2020,Pittsburgh Pirates,Milwaukee Brewers,32.14,0.33,0.2,0.4,43.33,0.33,0.2,0.4
-29-08-2020,Pittsburgh Pirates,Milwaukee Brewers,31.03,0.33,0.4,0.5,45.16,0.33,0.4,0.5
-30-08-2020,Pittsburgh Pirates,Milwaukee Brewers,30.0,0.0,0.4,0.5,46.88,0.0,0.4,0.5
-31-08-2020,Pittsburgh Pirates,Milwaukee Brewers,32.26,0.0,0.2,0.4,45.45,0.0,0.2,0.4
-01-09-2020,Detroit Tigers,Milwaukee Brewers,50.0,0.33,0.6,0.6,47.06,0.33,0.6,0.6
-02-09-2020,Detroit Tigers,Milwaukee Brewers,51.52,0.33,0.6,0.6,45.71,0.33,0.6,0.6
-11-09-2020,Chicago Cubs,Milwaukee Brewers,57.78,0.0,0.4,0.3,46.34,0.0,0.4,0.3
-12-09-2020,Chicago Cubs,Milwaukee Brewers,56.52,0.33,0.4,0.4,47.62,0.33,0.4,0.4
-13-09-2020,Chicago Cubs,Milwaukee Brewers,57.45,0.0,0.2,0.3,46.51,0.0,0.2,0.3
-15-09-2020,St. Louis Cardinals,Milwaukee Brewers,50.0,0.0,0.2,0.3,45.65,0.0,0.2,0.3
-18-09-2020,Kansas City Royals,Milwaukee Brewers,42.0,0.0,0.4,0.6,46.94,0.0,0.4,0.6
-19-09-2020,Kansas City Royals,Milwaukee Brewers,41.18,0.33,0.4,0.7,48.0,0.33,0.4,0.7
-20-09-2020,Kansas City Royals,Milwaukee Brewers,40.38,0.0,0.2,0.6,49.02,0.0,0.2,0.6
-28-07-2020,St. Louis Cardinals,Minnesota Twins,66.67,0.33,nan,nan,66.67,0.33,nan,nan
-29-07-2020,St. Louis Cardinals,Minnesota Twins,50.0,0.0,0.4,nan,75.0,0.0,0.4,nan
-30-07-2020,Cleveland Indians,Minnesota Twins,66.67,0.33,0.6,nan,80.0,0.33,0.6,nan
-31-07-2020,Cleveland Indians,Minnesota Twins,71.43,0.0,0.4,nan,66.67,0.0,0.4,nan
-01-08-2020,Cleveland Indians,Minnesota Twins,62.5,0.33,0.4,nan,71.43,0.33,0.4,nan
-02-08-2020,Cleveland Indians,Minnesota Twins,55.56,0.0,0.2,0.5,75.0,0.0,0.2,0.5
-03-08-2020,Pittsburgh Pirates,Minnesota Twins,22.22,0.0,0.0,0.2,77.78,0.0,0.0,0.2
-04-08-2020,Pittsburgh Pirates,Minnesota Twins,20.0,0.0,0.0,0.2,80.0,0.0,0.0,0.2
-16-08-2020,Kansas City Royals,Minnesota Twins,42.86,0.0,0.2,0.5,61.9,0.0,0.2,0.5
-17-08-2020,Kansas City Royals,Minnesota Twins,40.91,0.33,0.4,0.6,63.64,0.33,0.4,0.6
+25-07-2020,San Francisco Giants,Los Angeles Dodgers,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+26-07-2020,San Francisco Giants,Los Angeles Dodgers,33.33,0.0,nan,nan,66.67,0.33,nan,nan
+07-08-2020,San Francisco Giants,Los Angeles Dodgers,42.86,0.33,0.2,0.4,69.23,0.33,0.4,0.6
+08-08-2020,San Francisco Giants,Los Angeles Dodgers,40.0,0.0,0.2,0.3,71.43,0.33,0.4,0.6
+09-08-2020,San Francisco Giants,Los Angeles Dodgers,43.75,0.0,0.2,0.3,66.67,0.33,0.6,0.6
+10-08-2020,San Diego Padres,Los Angeles Dodgers,56.25,0.0,0.2,0.3,68.75,0.0,0.4,0.5
+11-08-2020,San Diego Padres,Los Angeles Dodgers,58.82,0.33,0.4,0.3,64.71,0.33,0.4,0.6
+12-08-2020,San Diego Padres,Los Angeles Dodgers,61.11,0.33,0.4,0.4,61.11,0.0,0.2,0.5
+13-08-2020,San Diego Padres,Los Angeles Dodgers,57.89,0.33,0.6,0.5,63.16,0.0,0.2,0.4
+17-08-2020,Seattle Mariners,Los Angeles Dodgers,30.43,0.0,0.0,0.2,69.57,0.33,0.6,0.5
+18-08-2020,Seattle Mariners,Los Angeles Dodgers,29.17,0.0,0.0,0.2,70.83,0.33,0.6,0.6
+21-08-2020,Colorado Rockies,Los Angeles Dodgers,52.0,0.0,0.0,0.2,70.37,0.0,0.4,0.7
+22-08-2020,Colorado Rockies,Los Angeles Dodgers,50.0,0.0,0.0,0.1,71.43,0.33,0.4,0.7
+23-08-2020,Colorado Rockies,Los Angeles Dodgers,48.15,0.0,0.0,0.1,72.41,0.33,0.4,0.7
+01-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,40.0,0.0,0.2,0.1,72.22,0.33,0.4,0.6
+02-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,38.89,0.0,0.2,0.1,72.97,0.33,0.4,0.6
+03-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,37.84,0.0,0.0,0.1,73.68,0.33,0.6,0.6
+04-09-2020,Colorado Rockies,Los Angeles Dodgers,48.65,0.0,0.0,0.4,74.36,0.33,0.6,0.6
+05-09-2020,Colorado Rockies,Los Angeles Dodgers,47.37,0.33,0.2,0.4,75.0,0.33,0.6,0.7
+06-09-2020,Colorado Rockies,Los Angeles Dodgers,48.72,0.0,0.2,0.3,73.17,0.33,0.6,0.7
+12-09-2020,Houston Astros,Los Angeles Dodgers,48.89,0.0,0.2,0.1,71.11,0.33,0.4,0.6
+13-09-2020,Houston Astros,Los Angeles Dodgers,50.0,0.0,0.2,0.1,69.57,0.0,0.4,0.5
+22-09-2020,Oakland Athletics,Los Angeles Dodgers,62.26,0.33,0.6,0.5,70.37,0.33,0.6,0.6
+23-09-2020,Oakland Athletics,Los Angeles Dodgers,61.11,0.0,0.4,0.4,70.91,0.0,0.4,0.6
+24-09-2020,Oakland Athletics,Los Angeles Dodgers,61.82,0.0,0.2,0.4,69.64,0.33,0.4,0.6
+25-09-2020,Los Angeles Angels,Los Angeles Dodgers,45.61,0.33,0.4,0.5,70.18,0.0,0.2,0.6
+26-09-2020,Los Angeles Angels,Los Angeles Dodgers,44.83,0.33,0.6,0.6,70.69,0.33,0.4,0.6
+27-09-2020,Los Angeles Angels,Los Angeles Dodgers,44.07,0.0,0.4,0.6,71.19,0.33,0.4,0.6
+14-08-2020,Atlanta Braves,Miami Marlins,55.0,0.0,0.2,0.4,66.67,0.0,0.0,0.5
+15-08-2020,Atlanta Braves,Miami Marlins,52.38,0.0,0.0,0.3,69.23,0.33,0.2,0.5
+16-08-2020,Atlanta Braves,Miami Marlins,54.55,0.0,0.0,0.3,64.29,0.33,0.4,0.5
+17-08-2020,New York Mets,Miami Marlins,39.13,0.0,0.2,0.4,60.0,0.0,0.4,0.4
+18-08-2020,New York Mets,Miami Marlins,41.67,0.0,0.0,0.3,56.25,0.0,0.2,0.3
+19-08-2020,New York Mets,Miami Marlins,44.0,0.33,0.2,0.3,52.94,0.0,0.0,0.2
+28-08-2020,Tampa Bay Rays,Miami Marlins,65.62,0.33,0.4,0.6,53.85,0.33,0.6,0.5
+29-08-2020,Tampa Bay Rays,Miami Marlins,66.67,0.33,0.4,0.6,51.85,0.0,0.4,0.5
+30-08-2020,Tampa Bay Rays,Miami Marlins,67.65,0.33,0.6,0.6,50.0,0.0,0.2,0.4
+01-09-2020,Toronto Blue Jays,Miami Marlins,54.55,0.33,0.6,0.5,50.0,0.0,0.0,0.3
+02-09-2020,Toronto Blue Jays,Miami Marlins,52.94,0.0,0.4,0.5,51.61,0.33,0.2,0.4
+10-09-2020,Philadelphia Phillies,Miami Marlins,53.85,0.33,0.4,0.6,50.0,0.33,0.4,0.5
+12-09-2020,Philadelphia Phillies,Miami Marlins,52.38,0.33,0.2,0.4,51.22,0.0,0.2,0.4
+14-09-2020,Philadelphia Phillies,Miami Marlins,51.11,0.0,0.2,0.4,52.27,0.33,0.4,0.5
+15-09-2020,Boston Red Sox,Miami Marlins,35.42,0.0,0.2,0.4,53.33,0.33,0.4,0.5
+16-09-2020,Boston Red Sox,Miami Marlins,36.73,0.33,0.2,0.4,52.17,0.33,0.6,0.5
+17-09-2020,Boston Red Sox,Miami Marlins,36.0,0.33,0.4,0.4,53.19,0.0,0.4,0.5
+19-09-2020,Washington Nationals,Miami Marlins,38.78,0.33,0.4,0.4,52.0,0.0,0.2,0.4
+03-08-2020,Chicago White Sox,Milwaukee Brewers,55.56,0.33,0.6,0.4,50.0,0.0,0.2,nan
+04-08-2020,Chicago White Sox,Milwaukee Brewers,60.0,0.33,0.6,0.5,42.86,0.33,0.4,nan
+07-08-2020,Cincinnati Reds,Milwaukee Brewers,38.46,0.0,0.2,0.4,50.0,0.33,0.2,0.4
+08-08-2020,Cincinnati Reds,Milwaukee Brewers,42.86,0.0,0.0,0.4,45.45,0.33,0.4,0.4
+09-08-2020,Cincinnati Reds,Milwaukee Brewers,46.67,0.33,0.2,0.4,41.67,0.0,0.4,0.4
+10-08-2020,Minnesota Twins,Milwaukee Brewers,62.5,0.0,0.0,0.5,46.15,0.0,0.2,0.3
+11-08-2020,Minnesota Twins,Milwaukee Brewers,64.71,0.0,0.0,0.4,42.86,0.33,0.2,0.4
+12-08-2020,Minnesota Twins,Milwaukee Brewers,61.11,0.33,0.2,0.4,46.67,0.0,0.2,0.3
+24-08-2020,Cincinnati Reds,Milwaukee Brewers,42.31,0.0,0.2,0.3,42.31,0.0,0.0,0.4
+25-08-2020,Cincinnati Reds,Milwaukee Brewers,40.74,0.0,0.2,0.3,44.44,0.0,0.0,0.3
+28-08-2020,Pittsburgh Pirates,Milwaukee Brewers,32.14,0.33,0.2,0.4,43.33,0.0,0.4,0.3
+29-08-2020,Pittsburgh Pirates,Milwaukee Brewers,31.03,0.33,0.4,0.5,45.16,0.0,0.2,0.2
+30-08-2020,Pittsburgh Pirates,Milwaukee Brewers,30.0,0.0,0.4,0.5,46.88,0.33,0.2,0.3
+31-08-2020,Pittsburgh Pirates,Milwaukee Brewers,32.26,0.0,0.2,0.4,45.45,0.33,0.4,0.4
+01-09-2020,Detroit Tigers,Milwaukee Brewers,50.0,0.33,0.6,0.6,47.06,0.0,0.4,0.4
+02-09-2020,Detroit Tigers,Milwaukee Brewers,51.52,0.33,0.6,0.6,45.71,0.33,0.4,0.5
+11-09-2020,Chicago Cubs,Milwaukee Brewers,57.78,0.0,0.4,0.3,46.34,0.0,0.0,0.3
+12-09-2020,Chicago Cubs,Milwaukee Brewers,56.52,0.33,0.4,0.4,47.62,0.33,0.2,0.4
+13-09-2020,Chicago Cubs,Milwaukee Brewers,57.45,0.0,0.2,0.3,46.51,0.33,0.4,0.4
+15-09-2020,St. Louis Cardinals,Milwaukee Brewers,50.0,0.0,0.2,0.3,45.65,0.33,0.2,0.3
+18-09-2020,Kansas City Royals,Milwaukee Brewers,42.0,0.0,0.4,0.6,46.94,0.0,0.2,0.4
+19-09-2020,Kansas City Royals,Milwaukee Brewers,41.18,0.33,0.4,0.7,48.0,0.33,0.4,0.4
+20-09-2020,Kansas City Royals,Milwaukee Brewers,40.38,0.0,0.2,0.6,49.02,0.33,0.4,0.4
+28-07-2020,St. Louis Cardinals,Minnesota Twins,66.67,0.33,nan,nan,66.67,0.0,nan,nan
+29-07-2020,St. Louis Cardinals,Minnesota Twins,50.0,0.0,0.4,nan,75.0,0.33,0.4,nan
+30-07-2020,Cleveland Indians,Minnesota Twins,66.67,0.33,0.6,nan,80.0,0.33,0.4,nan
+31-07-2020,Cleveland Indians,Minnesota Twins,71.43,0.0,0.4,nan,66.67,0.33,0.6,nan
+01-08-2020,Cleveland Indians,Minnesota Twins,62.5,0.33,0.4,nan,71.43,0.0,0.4,nan
+02-08-2020,Cleveland Indians,Minnesota Twins,55.56,0.0,0.2,0.5,75.0,0.33,0.4,nan
+03-08-2020,Pittsburgh Pirates,Minnesota Twins,22.22,0.0,0.0,0.2,77.78,0.33,0.4,0.6
+04-08-2020,Pittsburgh Pirates,Minnesota Twins,20.0,0.0,0.0,0.2,80.0,0.33,0.6,0.6
+16-08-2020,Kansas City Royals,Minnesota Twins,42.86,0.0,0.2,0.5,61.9,0.33,0.4,0.3
+17-08-2020,Kansas City Royals,Minnesota Twins,40.91,0.33,0.4,0.6,63.64,0.0,0.4,0.3
 18-08-2020,Milwaukee Brewers,Minnesota Twins,50.0,0.33,0.4,0.4,65.22,0.33,0.4,0.4
-19-08-2020,Milwaukee Brewers,Minnesota Twins,47.62,0.33,0.6,0.5,66.67,0.33,0.6,0.5
-20-08-2020,Milwaukee Brewers,Minnesota Twins,50.0,0.0,0.4,0.4,64.0,0.0,0.4,0.4
-31-08-2020,Chicago White Sox,Minnesota Twins,61.76,0.0,0.4,0.6,57.14,0.0,0.4,0.6
-01-09-2020,Chicago White Sox,Minnesota Twins,62.86,0.33,0.4,0.6,55.56,0.33,0.4,0.6
-02-09-2020,Chicago White Sox,Minnesota Twins,61.11,0.33,0.4,0.6,56.76,0.33,0.4,0.6
-05-09-2020,Detroit Tigers,Minnesota Twins,47.22,0.0,0.2,0.6,60.0,0.0,0.2,0.6
-06-09-2020,Detroit Tigers,Minnesota Twins,45.95,0.0,0.0,0.5,60.98,0.0,0.0,0.5
-07-09-2020,Detroit Tigers,Minnesota Twins,47.37,0.0,0.0,0.4,59.52,0.0,0.0,0.4
-11-09-2020,Cleveland Indians,Minnesota Twins,59.09,0.0,0.2,0.5,60.0,0.0,0.2,0.5
-12-09-2020,Cleveland Indians,Minnesota Twins,57.78,0.0,0.0,0.4,60.87,0.0,0.0,0.4
-13-09-2020,Cleveland Indians,Minnesota Twins,56.52,0.0,0.0,0.3,61.7,0.0,0.0,0.3
-22-09-2020,Detroit Tigers,Minnesota Twins,42.31,0.33,0.2,0.2,60.0,0.33,0.2,0.2
-23-09-2020,Detroit Tigers,Minnesota Twins,41.51,0.0,0.2,0.2,60.71,0.0,0.2,0.2
-25-09-2020,Cincinnati Reds,Minnesota Twins,50.88,0.0,0.4,0.6,61.4,0.0,0.4,0.6
-26-09-2020,Cincinnati Reds,Minnesota Twins,51.72,0.33,0.4,0.6,60.34,0.33,0.4,0.6
-27-09-2020,Cincinnati Reds,Minnesota Twins,50.85,0.33,0.4,0.6,61.02,0.33,0.4,0.6
-31-07-2020,Boston Red Sox,New York Yankees,42.86,0.33,0.2,nan,80.0,0.33,0.2,nan
-01-08-2020,Boston Red Sox,New York Yankees,37.5,0.33,0.4,nan,83.33,0.33,0.4,nan
-02-08-2020,Boston Red Sox,New York Yankees,33.33,0.0,0.4,0.3,85.71,0.0,0.4,0.3
-03-08-2020,Philadelphia Phillies,New York Yankees,33.33,0.33,nan,nan,87.5,0.33,nan,nan
-11-08-2020,Atlanta Braves,New York Yankees,61.11,0.33,0.4,0.5,62.5,0.33,0.4,0.5
-12-08-2020,Atlanta Braves,New York Yankees,57.89,0.0,0.4,0.4,64.71,0.0,0.4,0.4
-14-08-2020,Boston Red Sox,New York Yankees,31.58,0.0,0.0,0.3,66.67,0.0,0.0,0.3
-15-08-2020,Boston Red Sox,New York Yankees,30.0,0.0,0.0,0.3,68.42,0.0,0.0,0.3
-16-08-2020,Boston Red Sox,New York Yankees,28.57,0.0,0.0,0.2,70.0,0.0,0.0,0.2
-17-08-2020,Boston Red Sox,New York Yankees,27.27,0.0,0.0,0.1,71.43,0.0,0.0,0.1
-18-08-2020,Tampa Bay Rays,New York Yankees,60.87,0.33,0.4,0.7,72.73,0.33,0.4,0.7
-19-08-2020,Tampa Bay Rays,New York Yankees,62.5,0.33,0.4,0.7,69.57,0.33,0.4,0.7
-20-08-2020,Tampa Bay Rays,New York Yankees,64.0,0.33,0.6,0.7,66.67,0.33,0.6,0.7
-29-08-2020,New York Mets,New York Yankees,48.39,0.33,0.4,0.5,55.17,0.33,0.4,0.5
-31-08-2020,Tampa Bay Rays,New York Yankees,68.57,0.33,0.6,0.6,59.38,0.33,0.6,0.6
-01-09-2020,Tampa Bay Rays,New York Yankees,69.44,0.33,0.6,0.7,57.58,0.33,0.6,0.7
-02-09-2020,Tampa Bay Rays,New York Yankees,67.57,0.33,0.6,0.7,58.82,0.33,0.6,0.7
-12-09-2020,Baltimore Orioles,New York Yankees,45.45,0.0,0.2,0.4,53.33,0.0,0.2,0.4
-13-09-2020,Baltimore Orioles,New York Yankees,44.44,0.0,0.0,0.4,54.35,0.0,0.0,0.4
-15-09-2020,Toronto Blue Jays,New York Yankees,56.52,0.33,0.2,0.4,55.32,0.33,0.2,0.4
-16-09-2020,Toronto Blue Jays,New York Yankees,55.32,0.33,0.4,0.5,56.25,0.33,0.4,0.5
-17-09-2020,Toronto Blue Jays,New York Yankees,54.17,0.0,0.4,0.5,57.14,0.0,0.4,0.5
-25-09-2020,Miami Marlins,New York Yankees,50.88,0.0,0.0,0.3,56.14,0.0,0.0,0.3
-26-09-2020,Miami Marlins,New York Yankees,51.72,0.33,0.2,0.4,55.17,0.33,0.2,0.4
-27-09-2020,Miami Marlins,New York Yankees,50.85,0.33,0.4,0.4,55.93,0.33,0.4,0.4
-24-07-2020,Atlanta Braves,New York Mets,0,0.0,0.2,0.5,0,0.0,0.2,0.5
+19-08-2020,Milwaukee Brewers,Minnesota Twins,47.62,0.33,0.6,0.5,66.67,0.33,0.4,0.5
+20-08-2020,Milwaukee Brewers,Minnesota Twins,50.0,0.0,0.4,0.4,64.0,0.33,0.6,0.6
+31-08-2020,Chicago White Sox,Minnesota Twins,61.76,0.0,0.4,0.6,57.14,0.0,0.0,0.3
+01-09-2020,Chicago White Sox,Minnesota Twins,62.86,0.33,0.4,0.6,55.56,0.0,0.0,0.3
+02-09-2020,Chicago White Sox,Minnesota Twins,61.11,0.33,0.4,0.6,56.76,0.0,0.0,0.2
+05-09-2020,Detroit Tigers,Minnesota Twins,47.22,0.0,0.2,0.6,60.0,0.33,0.6,0.3
+06-09-2020,Detroit Tigers,Minnesota Twins,45.95,0.0,0.0,0.5,60.98,0.33,0.6,0.4
+07-09-2020,Detroit Tigers,Minnesota Twins,47.37,0.0,0.0,0.4,59.52,0.33,0.6,0.5
+11-09-2020,Cleveland Indians,Minnesota Twins,59.09,0.0,0.2,0.5,60.0,0.33,0.4,0.7
+12-09-2020,Cleveland Indians,Minnesota Twins,57.78,0.0,0.0,0.4,60.87,0.0,0.4,0.6
+13-09-2020,Cleveland Indians,Minnesota Twins,56.52,0.0,0.0,0.3,61.7,0.33,0.4,0.6
+22-09-2020,Detroit Tigers,Minnesota Twins,42.31,0.33,0.2,0.2,60.0,0.33,0.2,0.4
+23-09-2020,Detroit Tigers,Minnesota Twins,41.51,0.0,0.2,0.2,60.71,0.33,0.4,0.4
+25-09-2020,Cincinnati Reds,Minnesota Twins,50.88,0.0,0.4,0.6,61.4,0.33,0.6,0.4
+26-09-2020,Cincinnati Reds,Minnesota Twins,51.72,0.33,0.4,0.6,60.34,0.33,0.6,0.5
+27-09-2020,Cincinnati Reds,Minnesota Twins,50.85,0.33,0.4,0.6,61.02,0.0,0.4,0.5
+31-07-2020,Boston Red Sox,New York Yankees,42.86,0.33,0.2,nan,80.0,0.33,0.4,nan
+01-08-2020,Boston Red Sox,New York Yankees,37.5,0.33,0.4,nan,83.33,0.33,0.6,nan
+02-08-2020,Boston Red Sox,New York Yankees,33.33,0.0,0.4,0.3,85.71,0.33,0.6,nan
+03-08-2020,Philadelphia Phillies,New York Yankees,33.33,0.33,nan,nan,87.5,0.33,0.6,nan
+11-08-2020,Atlanta Braves,New York Yankees,61.11,0.33,0.4,0.5,62.5,0.0,0.2,0.4
+12-08-2020,Atlanta Braves,New York Yankees,57.89,0.0,0.4,0.4,64.71,0.0,0.2,0.3
+14-08-2020,Boston Red Sox,New York Yankees,31.58,0.0,0.0,0.3,66.67,0.33,0.2,0.3
+15-08-2020,Boston Red Sox,New York Yankees,30.0,0.0,0.0,0.3,68.42,0.33,0.4,0.4
+16-08-2020,Boston Red Sox,New York Yankees,28.57,0.0,0.0,0.2,70.0,0.33,0.6,0.4
+17-08-2020,Boston Red Sox,New York Yankees,27.27,0.0,0.0,0.1,71.43,0.33,0.6,0.5
+18-08-2020,Tampa Bay Rays,New York Yankees,60.87,0.33,0.4,0.7,72.73,0.33,0.6,0.6
+19-08-2020,Tampa Bay Rays,New York Yankees,62.5,0.33,0.4,0.7,69.57,0.33,0.6,0.6
+20-08-2020,Tampa Bay Rays,New York Yankees,64.0,0.33,0.6,0.7,66.67,0.0,0.4,0.6
+29-08-2020,New York Mets,New York Yankees,48.39,0.33,0.4,0.5,55.17,0.0,0.0,0.2
+31-08-2020,Tampa Bay Rays,New York Yankees,68.57,0.33,0.6,0.6,59.38,0.33,0.4,0.2
+01-09-2020,Tampa Bay Rays,New York Yankees,69.44,0.33,0.6,0.7,57.58,0.33,0.6,0.3
+02-09-2020,Tampa Bay Rays,New York Yankees,67.57,0.33,0.6,0.7,58.82,0.0,0.4,0.3
+12-09-2020,Baltimore Orioles,New York Yankees,45.45,0.0,0.2,0.4,53.33,0.33,0.4,0.3
+13-09-2020,Baltimore Orioles,New York Yankees,44.44,0.0,0.0,0.4,54.35,0.33,0.6,0.3
+15-09-2020,Toronto Blue Jays,New York Yankees,56.52,0.33,0.2,0.4,55.32,0.33,0.6,0.4
+16-09-2020,Toronto Blue Jays,New York Yankees,55.32,0.33,0.4,0.5,56.25,0.33,0.6,0.5
+17-09-2020,Toronto Blue Jays,New York Yankees,54.17,0.0,0.4,0.5,57.14,0.33,0.6,0.6
+25-09-2020,Miami Marlins,New York Yankees,50.88,0.0,0.0,0.3,56.14,0.0,0.2,0.5
+26-09-2020,Miami Marlins,New York Yankees,51.72,0.33,0.2,0.4,55.17,0.0,0.2,0.4
+27-09-2020,Miami Marlins,New York Yankees,50.85,0.33,0.4,0.4,55.93,0.0,0.0,0.3
+24-07-2020,Atlanta Braves,New York Mets,0,0.0,0.2,0.5,0,0.0,0.2,0.3
 25-07-2020,Atlanta Braves,New York Mets,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Atlanta Braves,New York Mets,50.0,0.0,nan,nan,50.0,0.0,nan,nan
-29-07-2020,Boston Red Sox,New York Mets,20.0,0.0,0.0,nan,60.0,0.0,0.0,nan
-30-07-2020,Boston Red Sox,New York Mets,33.33,0.0,0.0,nan,50.0,0.0,0.0,nan
-07-08-2020,Miami Marlins,New York Mets,85.71,0.33,0.6,nan,38.46,0.33,0.6,nan
-08-08-2020,Miami Marlins,New York Mets,87.5,0.33,0.6,nan,35.71,0.33,0.6,nan
-09-08-2020,Miami Marlins,New York Mets,77.78,0.33,0.6,0.7,40.0,0.33,0.6,0.7
-10-08-2020,Washington Nationals,New York Mets,33.33,0.0,0.0,0.3,43.75,0.0,0.0,0.3
-11-08-2020,Washington Nationals,New York Mets,38.46,0.0,0.0,0.3,41.18,0.0,0.0,0.3
-12-08-2020,Washington Nationals,New York Mets,42.86,0.33,0.2,0.4,38.89,0.33,0.2,0.4
-13-08-2020,Washington Nationals,New York Mets,40.0,0.33,0.4,0.4,42.11,0.33,0.4,0.4
-26-08-2020,Miami Marlins,New York Mets,56.0,0.33,0.4,0.4,42.86,0.33,0.4,0.4
-31-08-2020,Miami Marlins,New York Mets,48.28,0.0,0.0,0.4,44.12,0.0,0.0,0.4
-03-09-2020,New York Yankees,New York Mets,57.14,0.33,0.4,0.4,43.24,0.33,0.4,0.4
-04-09-2020,Philadelphia Phillies,New York Mets,54.55,0.33,0.6,0.7,44.74,0.33,0.6,0.7
-05-09-2020,Philadelphia Phillies,New York Mets,55.88,0.33,0.6,0.7,43.59,0.33,0.6,0.7
-06-09-2020,Philadelphia Phillies,New York Mets,54.29,0.33,0.6,0.7,45.0,0.33,0.6,0.7
-07-09-2020,Philadelphia Phillies,New York Mets,52.78,0.0,0.4,0.6,46.34,0.0,0.4,0.6
+26-07-2020,Atlanta Braves,New York Mets,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+29-07-2020,Boston Red Sox,New York Mets,20.0,0.0,0.0,nan,60.0,0.33,0.2,nan
+30-07-2020,Boston Red Sox,New York Mets,33.33,0.0,0.0,nan,50.0,0.33,0.4,nan
+07-08-2020,Miami Marlins,New York Mets,85.71,0.33,0.6,nan,38.46,0.0,0.2,0.2
+08-08-2020,Miami Marlins,New York Mets,87.5,0.33,0.6,nan,35.71,0.33,0.4,0.2
+09-08-2020,Miami Marlins,New York Mets,77.78,0.33,0.6,0.7,40.0,0.0,0.2,0.2
+10-08-2020,Washington Nationals,New York Mets,33.33,0.0,0.0,0.3,43.75,0.33,0.4,0.3
+11-08-2020,Washington Nationals,New York Mets,38.46,0.0,0.0,0.3,41.18,0.33,0.4,0.4
+12-08-2020,Washington Nationals,New York Mets,42.86,0.33,0.2,0.4,38.89,0.0,0.4,0.4
+13-08-2020,Washington Nationals,New York Mets,40.0,0.33,0.4,0.4,42.11,0.0,0.2,0.4
+26-08-2020,Miami Marlins,New York Mets,56.0,0.33,0.4,0.4,42.86,0.0,0.4,0.4
+31-08-2020,Miami Marlins,New York Mets,48.28,0.0,0.0,0.4,44.12,0.0,0.2,0.4
+03-09-2020,New York Yankees,New York Mets,57.14,0.33,0.4,0.4,43.24,0.0,0.0,0.3
+04-09-2020,Philadelphia Phillies,New York Mets,54.55,0.33,0.6,0.7,44.74,0.33,0.2,0.3
+05-09-2020,Philadelphia Phillies,New York Mets,55.88,0.33,0.6,0.7,43.59,0.33,0.4,0.3
+06-09-2020,Philadelphia Phillies,New York Mets,54.29,0.33,0.6,0.7,45.0,0.0,0.4,0.2
+07-09-2020,Philadelphia Phillies,New York Mets,52.78,0.0,0.4,0.6,46.34,0.33,0.4,0.3
 08-09-2020,Baltimore Orioles,New York Mets,47.5,0.33,0.4,0.4,45.24,0.33,0.4,0.4
-09-09-2020,Baltimore Orioles,New York Mets,48.78,0.33,0.6,0.5,44.19,0.33,0.6,0.5
-18-09-2020,Atlanta Braves,New York Mets,58.0,0.33,0.4,0.5,46.0,0.33,0.4,0.5
-19-09-2020,Atlanta Braves,New York Mets,58.82,0.0,0.2,0.5,45.1,0.0,0.2,0.5
-20-09-2020,Atlanta Braves,New York Mets,57.69,0.33,0.4,0.5,46.15,0.33,0.4,0.5
-21-09-2020,Tampa Bay Rays,New York Mets,64.81,0.33,0.6,0.6,45.28,0.33,0.6,0.6
-22-09-2020,Tampa Bay Rays,New York Mets,65.45,0.0,0.4,0.5,44.44,0.0,0.4,0.5
-23-09-2020,Tampa Bay Rays,New York Mets,64.29,0.33,0.4,0.6,45.45,0.33,0.4,0.6
-24-07-2020,Los Angeles Angels,Oakland Athletics,0,0.0,0.2,0.5,0,0.0,0.2,0.5
+09-09-2020,Baltimore Orioles,New York Mets,48.78,0.33,0.6,0.5,44.19,0.0,0.4,0.4
+18-09-2020,Atlanta Braves,New York Mets,58.0,0.33,0.4,0.5,46.0,0.33,0.2,0.3
+19-09-2020,Atlanta Braves,New York Mets,58.82,0.0,0.2,0.5,45.1,0.33,0.4,0.4
+20-09-2020,Atlanta Braves,New York Mets,57.69,0.33,0.4,0.5,46.15,0.0,0.4,0.4
+21-09-2020,Tampa Bay Rays,New York Mets,64.81,0.33,0.6,0.6,45.28,0.33,0.4,0.4
+22-09-2020,Tampa Bay Rays,New York Mets,65.45,0.0,0.4,0.5,44.44,0.0,0.2,0.3
+23-09-2020,Tampa Bay Rays,New York Mets,64.29,0.33,0.4,0.6,45.45,0.0,0.2,0.3
+24-07-2020,Los Angeles Angels,Oakland Athletics,0,0.0,0.2,0.5,0,0.0,0.2,0.3
 25-07-2020,Los Angeles Angels,Oakland Athletics,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Los Angeles Angels,Oakland Athletics,50.0,0.0,nan,nan,50.0,0.0,nan,nan
-27-07-2020,Los Angeles Angels,Oakland Athletics,33.33,0.33,nan,nan,66.67,0.33,nan,nan
-28-07-2020,Colorado Rockies,Oakland Athletics,66.67,0.33,nan,nan,75.0,0.33,nan,nan
+26-07-2020,Los Angeles Angels,Oakland Athletics,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+27-07-2020,Los Angeles Angels,Oakland Athletics,33.33,0.33,nan,nan,66.67,0.0,nan,nan
+28-07-2020,Colorado Rockies,Oakland Athletics,66.67,0.33,nan,nan,75.0,0.33,0.4,nan
 29-07-2020,Colorado Rockies,Oakland Athletics,75.0,0.33,0.4,nan,60.0,0.33,0.4,nan
-04-08-2020,Texas Rangers,Oakland Athletics,37.5,0.0,0.2,nan,60.0,0.0,0.2,nan
-05-08-2020,Texas Rangers,Oakland Athletics,33.33,0.33,0.2,0.3,63.64,0.33,0.2,0.3
-06-08-2020,Texas Rangers,Oakland Athletics,30.0,0.0,0.2,0.2,66.67,0.0,0.2,0.2
-07-08-2020,Houston Astros,Oakland Athletics,50.0,0.0,0.4,0.4,69.23,0.0,0.4,0.4
-08-08-2020,Houston Astros,Oakland Athletics,46.15,0.0,0.2,0.3,71.43,0.0,0.2,0.3
-09-08-2020,Houston Astros,Oakland Athletics,42.86,0.0,0.0,0.3,73.33,0.0,0.0,0.3
-19-08-2020,Arizona Diamondbacks,Oakland Athletics,54.17,0.33,0.6,0.6,66.67,0.33,0.6,0.6
-20-08-2020,Arizona Diamondbacks,Oakland Athletics,52.0,0.33,0.6,0.7,68.0,0.33,0.6,0.7
-21-08-2020,Los Angeles Angels,Oakland Athletics,30.77,0.0,0.2,0.2,69.23,0.0,0.2,0.2
-22-08-2020,Los Angeles Angels,Oakland Athletics,29.63,0.0,0.0,0.1,70.37,0.0,0.0,0.1
-23-08-2020,Los Angeles Angels,Oakland Athletics,32.14,0.0,0.0,0.1,67.86,0.0,0.0,0.1
-04-09-2020,San Diego Padres,Oakland Athletics,58.97,0.33,0.6,0.5,64.71,0.33,0.6,0.5
-05-09-2020,San Diego Padres,Oakland Athletics,60.0,0.0,0.4,0.5,62.86,0.0,0.4,0.5
-06-09-2020,San Diego Padres,Oakland Athletics,58.54,0.33,0.4,0.5,63.89,0.33,0.4,0.5
-07-09-2020,Houston Astros,Oakland Athletics,52.5,0.0,0.0,0.4,62.16,0.0,0.0,0.4
-09-09-2020,Houston Astros,Oakland Athletics,51.16,0.0,0.0,0.2,62.5,0.0,0.0,0.2
-10-09-2020,Houston Astros,Oakland Athletics,50.0,0.33,0.2,0.2,63.41,0.33,0.2,0.2
-18-09-2020,San Francisco Giants,Oakland Athletics,51.02,0.33,0.2,0.5,62.0,0.33,0.2,0.5
-19-09-2020,San Francisco Giants,Oakland Athletics,50.0,0.33,0.4,0.5,62.75,0.33,0.4,0.5
-20-09-2020,San Francisco Giants,Oakland Athletics,49.02,0.0,0.4,0.4,63.46,0.0,0.4,0.4
-25-09-2020,Seattle Mariners,Oakland Athletics,44.64,0.0,0.2,0.2,60.71,0.0,0.2,0.2
-27-09-2020,Seattle Mariners,Oakland Athletics,45.76,0.33,0.4,0.4,59.32,0.33,0.4,0.4
-24-07-2020,Miami Marlins,Philadelphia Phillies,0,0.0,0.4,0.3,0,0.0,0.4,0.3
+04-08-2020,Texas Rangers,Oakland Athletics,37.5,0.0,0.2,nan,60.0,0.33,0.4,0.4
+05-08-2020,Texas Rangers,Oakland Athletics,33.33,0.33,0.2,0.3,63.64,0.33,0.6,0.5
+06-08-2020,Texas Rangers,Oakland Athletics,30.0,0.0,0.2,0.2,66.67,0.33,0.6,0.5
+07-08-2020,Houston Astros,Oakland Athletics,50.0,0.0,0.4,0.4,69.23,0.33,0.6,0.5
+08-08-2020,Houston Astros,Oakland Athletics,46.15,0.0,0.2,0.3,71.43,0.33,0.6,0.6
+09-08-2020,Houston Astros,Oakland Athletics,42.86,0.0,0.0,0.3,73.33,0.33,0.6,0.7
+19-08-2020,Arizona Diamondbacks,Oakland Athletics,54.17,0.33,0.6,0.6,66.67,0.0,0.4,0.5
+20-08-2020,Arizona Diamondbacks,Oakland Athletics,52.0,0.33,0.6,0.7,68.0,0.0,0.2,0.4
+21-08-2020,Los Angeles Angels,Oakland Athletics,30.77,0.0,0.2,0.2,69.23,0.33,0.2,0.5
+22-08-2020,Los Angeles Angels,Oakland Athletics,29.63,0.0,0.0,0.1,70.37,0.33,0.4,0.6
+23-08-2020,Los Angeles Angels,Oakland Athletics,32.14,0.0,0.0,0.1,67.86,0.33,0.6,0.6
+04-09-2020,San Diego Padres,Oakland Athletics,58.97,0.33,0.6,0.5,64.71,0.0,0.4,0.5
+05-09-2020,San Diego Padres,Oakland Athletics,60.0,0.0,0.4,0.5,62.86,0.0,0.2,0.4
+06-09-2020,San Diego Padres,Oakland Athletics,58.54,0.33,0.4,0.5,63.89,0.0,0.0,0.3
+07-09-2020,Houston Astros,Oakland Athletics,52.5,0.0,0.0,0.4,62.16,0.33,0.2,0.4
+09-09-2020,Houston Astros,Oakland Athletics,51.16,0.0,0.0,0.2,62.5,0.33,0.4,0.4
+10-09-2020,Houston Astros,Oakland Athletics,50.0,0.33,0.2,0.2,63.41,0.0,0.4,0.3
+18-09-2020,San Francisco Giants,Oakland Athletics,51.02,0.33,0.2,0.5,62.0,0.0,0.2,0.4
+19-09-2020,San Francisco Giants,Oakland Athletics,50.0,0.33,0.4,0.5,62.75,0.33,0.4,0.4
+20-09-2020,San Francisco Giants,Oakland Athletics,49.02,0.0,0.4,0.4,63.46,0.33,0.4,0.4
+25-09-2020,Seattle Mariners,Oakland Athletics,44.64,0.0,0.2,0.2,60.71,0.33,0.2,0.5
+27-09-2020,Seattle Mariners,Oakland Athletics,45.76,0.33,0.4,0.4,59.32,0.0,0.2,0.4
+24-07-2020,Miami Marlins,Philadelphia Phillies,0,0.0,0.4,0.3,0,0.0,0.2,0.2
 25-07-2020,Miami Marlins,Philadelphia Phillies,100.0,nan,nan,nan,0.0,nan,nan,nan
-26-07-2020,Miami Marlins,Philadelphia Phillies,50.0,0.33,nan,nan,50.0,0.33,nan,nan
-06-08-2020,New York Yankees,Philadelphia Phillies,81.82,0.0,0.4,0.7,33.33,0.0,0.4,0.7
-08-08-2020,Atlanta Braves,Philadelphia Phillies,64.29,0.0,0.2,0.6,42.86,0.0,0.2,0.6
-10-08-2020,Atlanta Braves,Philadelphia Phillies,64.71,0.33,0.4,0.5,40.0,0.33,0.4,0.5
-11-08-2020,Baltimore Orioles,Philadelphia Phillies,53.33,0.33,0.4,0.4,45.45,0.33,0.4,0.4
-12-08-2020,Baltimore Orioles,Philadelphia Phillies,56.25,0.33,0.6,0.4,41.67,0.33,0.6,0.4
-13-08-2020,Baltimore Orioles,Philadelphia Phillies,58.82,0.33,0.6,0.4,38.46,0.33,0.6,0.4
-14-08-2020,New York Mets,Philadelphia Phillies,45.0,0.33,0.2,0.4,35.71,0.33,0.2,0.4
-15-08-2020,New York Mets,Philadelphia Phillies,42.86,0.33,0.4,0.5,40.0,0.33,0.4,0.5
-16-08-2020,New York Mets,Philadelphia Phillies,40.91,0.0,0.4,0.4,43.75,0.0,0.4,0.4
-28-08-2020,Atlanta Braves,Philadelphia Phillies,60.0,0.33,0.4,0.6,46.15,0.33,0.4,0.6
-29-08-2020,Atlanta Braves,Philadelphia Phillies,58.06,0.33,0.4,0.6,48.15,0.33,0.4,0.6
-30-08-2020,Atlanta Braves,Philadelphia Phillies,56.25,0.0,0.4,0.5,50.0,0.0,0.4,0.5
-31-08-2020,Washington Nationals,Philadelphia Phillies,38.71,0.0,0.2,0.3,48.28,0.0,0.2,0.3
-01-09-2020,Washington Nationals,Philadelphia Phillies,37.5,0.0,0.2,0.2,50.0,0.0,0.2,0.2
-02-09-2020,Washington Nationals,Philadelphia Phillies,36.36,0.0,0.0,0.2,51.61,0.0,0.0,0.2
-03-09-2020,Washington Nationals,Philadelphia Phillies,35.29,0.0,0.0,0.1,53.12,0.0,0.0,0.1
-15-09-2020,New York Mets,Philadelphia Phillies,44.68,0.0,0.4,0.4,50.0,0.0,0.4,0.4
-16-09-2020,New York Mets,Philadelphia Phillies,43.75,0.0,0.2,0.4,51.06,0.0,0.2,0.4
-17-09-2020,New York Mets,Philadelphia Phillies,44.9,0.0,0.0,0.3,50.0,0.0,0.0,0.3
-19-09-2020,Toronto Blue Jays,Philadelphia Phillies,50.98,0.0,0.0,0.2,50.98,0.0,0.0,0.2
-20-09-2020,Toronto Blue Jays,Philadelphia Phillies,50.0,0.0,0.0,0.2,51.92,0.0,0.0,0.2
-27-07-2020,Milwaukee Brewers,Pittsburgh Pirates,33.33,0.33,nan,nan,33.33,0.33,nan,nan
-28-07-2020,Milwaukee Brewers,Pittsburgh Pirates,50.0,0.0,0.2,nan,25.0,0.0,0.2,nan
-29-07-2020,Milwaukee Brewers,Pittsburgh Pirates,40.0,0.33,0.4,nan,40.0,0.33,0.4,nan
-05-08-2020,Minnesota Twins,Pittsburgh Pirates,81.82,0.33,0.6,0.7,18.18,0.33,0.6,0.7
-06-08-2020,Minnesota Twins,Pittsburgh Pirates,83.33,0.33,0.6,0.7,16.67,0.33,0.6,0.7
-07-08-2020,Detroit Tigers,Pittsburgh Pirates,50.0,0.0,0.2,0.5,23.08,0.0,0.2,0.5
-08-08-2020,Detroit Tigers,Pittsburgh Pirates,54.55,0.0,0.2,0.4,21.43,0.0,0.2,0.4
-09-08-2020,Detroit Tigers,Pittsburgh Pirates,58.33,0.33,0.2,0.4,20.0,0.33,0.2,0.4
-18-08-2020,Cleveland Indians,Pittsburgh Pirates,59.09,0.33,0.4,0.5,22.22,0.33,0.4,0.5
-19-08-2020,Cleveland Indians,Pittsburgh Pirates,60.87,0.33,0.6,0.5,21.05,0.33,0.6,0.5
-20-08-2020,Cleveland Indians,Pittsburgh Pirates,62.5,0.33,0.6,0.6,20.0,0.33,0.6,0.6
-21-08-2020,Milwaukee Brewers,Pittsburgh Pirates,47.83,0.33,0.4,0.5,19.05,0.33,0.4,0.5
-22-08-2020,Milwaukee Brewers,Pittsburgh Pirates,45.83,0.0,0.2,0.4,22.73,0.0,0.2,0.4
-23-08-2020,Milwaukee Brewers,Pittsburgh Pirates,44.0,0.0,0.2,0.4,26.09,0.0,0.2,0.4
-01-09-2020,Chicago Cubs,Pittsburgh Pirates,58.82,0.0,0.2,0.3,31.25,0.0,0.2,0.3
-02-09-2020,Chicago Cubs,Pittsburgh Pirates,60.0,0.33,0.4,0.4,30.3,0.33,0.4,0.4
-03-09-2020,Chicago Cubs,Pittsburgh Pirates,61.11,0.33,0.4,0.4,29.41,0.33,0.4,0.4
-05-09-2020,Cincinnati Reds,Pittsburgh Pirates,43.59,0.33,0.4,0.4,32.43,0.33,0.4,0.4
-06-09-2020,Cincinnati Reds,Pittsburgh Pirates,45.0,0.0,0.4,0.3,31.58,0.0,0.4,0.3
-08-09-2020,Chicago White Sox,Pittsburgh Pirates,63.41,0.33,0.6,0.5,33.33,0.33,0.6,0.5
-09-09-2020,Chicago White Sox,Pittsburgh Pirates,61.9,0.33,0.6,0.6,35.0,0.33,0.6,0.6
-17-09-2020,St. Louis Cardinals,Pittsburgh Pirates,48.89,0.33,0.4,0.3,29.17,0.33,0.4,0.3
-19-09-2020,St. Louis Cardinals,Pittsburgh Pirates,50.0,0.33,0.2,0.3,29.41,0.33,0.2,0.3
-20-09-2020,St. Louis Cardinals,Pittsburgh Pirates,51.02,0.33,0.4,0.4,28.85,0.33,0.4,0.4
-21-09-2020,Chicago Cubs,Pittsburgh Pirates,58.49,0.0,0.4,0.6,28.3,0.0,0.4,0.6
-22-09-2020,Chicago Cubs,Pittsburgh Pirates,59.26,0.0,0.2,0.5,27.78,0.0,0.2,0.5
-23-09-2020,Chicago Cubs,Pittsburgh Pirates,58.18,0.33,0.2,0.6,29.09,0.33,0.2,0.6
-24-09-2020,Chicago Cubs,Pittsburgh Pirates,57.14,0.0,0.2,0.5,30.36,0.0,0.2,0.5
-24-07-2020,Arizona Diamondbacks,San Diego Padres,0,0.0,0.4,0.5,0,0.0,0.4,0.5
+26-07-2020,Miami Marlins,Philadelphia Phillies,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+06-08-2020,New York Yankees,Philadelphia Phillies,81.82,0.0,0.4,0.7,33.33,0.33,0.2,nan
+08-08-2020,Atlanta Braves,Philadelphia Phillies,64.29,0.0,0.2,0.6,42.86,0.0,0.2,nan
+10-08-2020,Atlanta Braves,Philadelphia Phillies,64.71,0.33,0.4,0.5,40.0,0.0,0.4,0.4
+11-08-2020,Baltimore Orioles,Philadelphia Phillies,53.33,0.33,0.4,0.4,45.45,0.0,0.2,0.3
+12-08-2020,Baltimore Orioles,Philadelphia Phillies,56.25,0.33,0.6,0.4,41.67,0.33,0.2,0.4
+13-08-2020,Baltimore Orioles,Philadelphia Phillies,58.82,0.33,0.6,0.4,38.46,0.0,0.2,0.4
+14-08-2020,New York Mets,Philadelphia Phillies,45.0,0.33,0.2,0.4,35.71,0.0,0.2,0.3
+15-08-2020,New York Mets,Philadelphia Phillies,42.86,0.33,0.4,0.5,40.0,0.0,0.0,0.3
+16-08-2020,New York Mets,Philadelphia Phillies,40.91,0.0,0.4,0.4,43.75,0.33,0.2,0.3
+28-08-2020,Atlanta Braves,Philadelphia Phillies,60.0,0.33,0.4,0.6,46.15,0.33,0.4,0.3
+29-08-2020,Atlanta Braves,Philadelphia Phillies,58.06,0.33,0.4,0.6,48.15,0.33,0.6,0.3
+30-08-2020,Atlanta Braves,Philadelphia Phillies,56.25,0.0,0.4,0.5,50.0,0.33,0.6,0.4
+31-08-2020,Washington Nationals,Philadelphia Phillies,38.71,0.0,0.2,0.3,48.28,0.33,0.6,0.5
+01-09-2020,Washington Nationals,Philadelphia Phillies,37.5,0.0,0.2,0.2,50.0,0.0,0.4,0.5
+02-09-2020,Washington Nationals,Philadelphia Phillies,36.36,0.0,0.0,0.2,51.61,0.33,0.4,0.6
+03-09-2020,Washington Nationals,Philadelphia Phillies,35.29,0.0,0.0,0.1,53.12,0.33,0.4,0.7
+15-09-2020,New York Mets,Philadelphia Phillies,44.68,0.0,0.4,0.4,50.0,0.0,0.2,0.3
+16-09-2020,New York Mets,Philadelphia Phillies,43.75,0.0,0.2,0.4,51.06,0.0,0.0,0.2
+17-09-2020,New York Mets,Philadelphia Phillies,44.9,0.0,0.0,0.3,50.0,0.33,0.2,0.3
+19-09-2020,Toronto Blue Jays,Philadelphia Phillies,50.98,0.0,0.0,0.2,50.98,0.33,0.2,0.3
+20-09-2020,Toronto Blue Jays,Philadelphia Phillies,50.0,0.0,0.0,0.2,51.92,0.33,0.4,0.3
+27-07-2020,Milwaukee Brewers,Pittsburgh Pirates,33.33,0.33,nan,nan,33.33,0.0,nan,nan
+28-07-2020,Milwaukee Brewers,Pittsburgh Pirates,50.0,0.0,0.2,nan,25.0,0.33,0.2,nan
+29-07-2020,Milwaukee Brewers,Pittsburgh Pirates,40.0,0.33,0.4,nan,40.0,0.0,0.2,nan
+05-08-2020,Minnesota Twins,Pittsburgh Pirates,81.82,0.33,0.6,0.7,18.18,0.0,0.0,0.2
+06-08-2020,Minnesota Twins,Pittsburgh Pirates,83.33,0.33,0.6,0.7,16.67,0.0,0.0,0.1
+07-08-2020,Detroit Tigers,Pittsburgh Pirates,50.0,0.0,0.2,0.5,23.08,0.0,0.0,0.1
+08-08-2020,Detroit Tigers,Pittsburgh Pirates,54.55,0.0,0.2,0.4,21.43,0.33,0.2,0.1
+09-08-2020,Detroit Tigers,Pittsburgh Pirates,58.33,0.33,0.2,0.4,20.0,0.0,0.2,0.1
+18-08-2020,Cleveland Indians,Pittsburgh Pirates,59.09,0.33,0.4,0.5,22.22,0.33,0.2,0.2
+19-08-2020,Cleveland Indians,Pittsburgh Pirates,60.87,0.33,0.6,0.5,21.05,0.0,0.2,0.2
+20-08-2020,Cleveland Indians,Pittsburgh Pirates,62.5,0.33,0.6,0.6,20.0,0.0,0.2,0.2
+21-08-2020,Milwaukee Brewers,Pittsburgh Pirates,47.83,0.33,0.4,0.5,19.05,0.0,0.0,0.2
+22-08-2020,Milwaukee Brewers,Pittsburgh Pirates,45.83,0.0,0.2,0.4,22.73,0.0,0.0,0.1
+23-08-2020,Milwaukee Brewers,Pittsburgh Pirates,44.0,0.0,0.2,0.4,26.09,0.33,0.2,0.2
+01-09-2020,Chicago Cubs,Pittsburgh Pirates,58.82,0.0,0.2,0.3,31.25,0.33,0.2,0.4
+02-09-2020,Chicago Cubs,Pittsburgh Pirates,60.0,0.33,0.4,0.4,30.3,0.0,0.2,0.3
+03-09-2020,Chicago Cubs,Pittsburgh Pirates,61.11,0.33,0.4,0.4,29.41,0.0,0.2,0.3
+05-09-2020,Cincinnati Reds,Pittsburgh Pirates,43.59,0.33,0.4,0.4,32.43,0.0,0.2,0.2
+06-09-2020,Cincinnati Reds,Pittsburgh Pirates,45.0,0.0,0.4,0.3,31.58,0.33,0.4,0.3
+08-09-2020,Chicago White Sox,Pittsburgh Pirates,63.41,0.33,0.6,0.5,33.33,0.0,0.2,0.3
+09-09-2020,Chicago White Sox,Pittsburgh Pirates,61.9,0.33,0.6,0.6,35.0,0.33,0.4,0.3
+17-09-2020,St. Louis Cardinals,Pittsburgh Pirates,48.89,0.33,0.4,0.3,29.17,0.0,0.0,0.1
+19-09-2020,St. Louis Cardinals,Pittsburgh Pirates,50.0,0.33,0.2,0.3,29.41,0.0,0.2,0.1
+20-09-2020,St. Louis Cardinals,Pittsburgh Pirates,51.02,0.33,0.4,0.4,28.85,0.0,0.2,0.1
+21-09-2020,Chicago Cubs,Pittsburgh Pirates,58.49,0.0,0.4,0.6,28.3,0.0,0.0,0.1
+22-09-2020,Chicago Cubs,Pittsburgh Pirates,59.26,0.0,0.2,0.5,27.78,0.0,0.0,0.1
+23-09-2020,Chicago Cubs,Pittsburgh Pirates,58.18,0.33,0.2,0.6,29.09,0.0,0.0,0.1
+24-09-2020,Chicago Cubs,Pittsburgh Pirates,57.14,0.0,0.2,0.5,30.36,0.33,0.2,0.2
+24-07-2020,Arizona Diamondbacks,San Diego Padres,0,0.0,0.4,0.5,0,0.33,0.4,0.4
 25-07-2020,Arizona Diamondbacks,San Diego Padres,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Arizona Diamondbacks,San Diego Padres,0.0,0.0,nan,nan,100.0,0.0,nan,nan
-27-07-2020,Arizona Diamondbacks,San Diego Padres,33.33,0.0,nan,nan,66.67,0.0,nan,nan
-03-08-2020,Los Angeles Dodgers,San Diego Padres,70.0,0.33,0.4,0.5,60.0,0.33,0.4,0.5
-04-08-2020,Los Angeles Dodgers,San Diego Padres,63.64,0.33,0.4,0.5,63.64,0.33,0.4,0.5
-05-08-2020,Los Angeles Dodgers,San Diego Padres,66.67,0.0,0.4,0.5,58.33,0.0,0.4,0.5
-07-08-2020,Arizona Diamondbacks,San Diego Padres,38.46,0.33,0.2,0.3,53.85,0.33,0.2,0.3
-08-08-2020,Arizona Diamondbacks,San Diego Padres,35.71,0.33,0.4,0.3,57.14,0.33,0.4,0.3
-09-08-2020,Arizona Diamondbacks,San Diego Padres,40.0,0.0,0.4,0.3,53.33,0.0,0.4,0.3
-19-08-2020,Texas Rangers,San Diego Padres,45.45,0.0,0.2,0.5,52.0,0.0,0.2,0.5
-20-08-2020,Texas Rangers,San Diego Padres,43.48,0.0,0.0,0.4,53.85,0.0,0.0,0.4
-21-08-2020,Houston Astros,San Diego Padres,60.0,0.33,0.6,0.7,55.56,0.33,0.6,0.7
-22-08-2020,Houston Astros,San Diego Padres,57.69,0.33,0.6,0.8,57.14,0.33,0.6,0.8
-23-08-2020,Houston Astros,San Diego Padres,55.56,0.0,0.4,0.7,58.62,0.0,0.4,0.7
-25-08-2020,Seattle Mariners,San Diego Padres,36.67,0.33,0.4,0.3,60.0,0.33,0.4,0.3
-07-09-2020,Colorado Rockies,San Diego Padres,50.0,0.33,0.4,0.3,59.52,0.33,0.4,0.3
-08-09-2020,Colorado Rockies,San Diego Padres,48.78,0.33,0.4,0.4,60.47,0.33,0.4,0.4
-09-09-2020,Colorado Rockies,San Diego Padres,47.62,0.0,0.4,0.3,61.36,0.0,0.4,0.3
+26-07-2020,Arizona Diamondbacks,San Diego Padres,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+27-07-2020,Arizona Diamondbacks,San Diego Padres,33.33,0.0,nan,nan,66.67,0.33,nan,nan
+03-08-2020,Los Angeles Dodgers,San Diego Padres,70.0,0.33,0.4,0.5,60.0,0.0,0.4,0.5
+04-08-2020,Los Angeles Dodgers,San Diego Padres,63.64,0.33,0.4,0.5,63.64,0.0,0.2,0.4
+05-08-2020,Los Angeles Dodgers,San Diego Padres,66.67,0.0,0.4,0.5,58.33,0.33,0.2,0.5
+07-08-2020,Arizona Diamondbacks,San Diego Padres,38.46,0.33,0.2,0.3,53.85,0.0,0.2,0.4
+08-08-2020,Arizona Diamondbacks,San Diego Padres,35.71,0.33,0.4,0.3,57.14,0.0,0.2,0.3
+09-08-2020,Arizona Diamondbacks,San Diego Padres,40.0,0.0,0.4,0.3,53.33,0.33,0.2,0.4
+19-08-2020,Texas Rangers,San Diego Padres,45.45,0.0,0.2,0.5,52.0,0.33,0.2,0.3
+20-08-2020,Texas Rangers,San Diego Padres,43.48,0.0,0.0,0.4,53.85,0.33,0.4,0.3
+21-08-2020,Houston Astros,San Diego Padres,60.0,0.33,0.6,0.7,55.56,0.33,0.6,0.3
+22-08-2020,Houston Astros,San Diego Padres,57.69,0.33,0.6,0.8,57.14,0.33,0.6,0.4
+23-08-2020,Houston Astros,San Diego Padres,55.56,0.0,0.4,0.7,58.62,0.33,0.6,0.5
+25-08-2020,Seattle Mariners,San Diego Padres,36.67,0.33,0.4,0.3,60.0,0.33,0.6,0.6
+07-09-2020,Colorado Rockies,San Diego Padres,50.0,0.33,0.4,0.3,59.52,0.0,0.2,0.5
+08-09-2020,Colorado Rockies,San Diego Padres,48.78,0.33,0.4,0.4,60.47,0.33,0.4,0.5
+09-09-2020,Colorado Rockies,San Diego Padres,47.62,0.0,0.4,0.3,61.36,0.33,0.4,0.6
 10-09-2020,San Francisco Giants,San Diego Padres,52.27,0.33,0.6,0.6,62.22,0.33,0.6,0.6
-14-09-2020,Los Angeles Dodgers,San Diego Padres,70.21,0.0,0.2,0.4,64.58,0.0,0.2,0.4
-15-09-2020,Los Angeles Dodgers,San Diego Padres,68.75,0.33,0.2,0.4,65.31,0.33,0.2,0.4
-16-09-2020,Los Angeles Dodgers,San Diego Padres,69.39,0.0,0.2,0.3,64.0,0.0,0.2,0.3
-18-09-2020,Seattle Mariners,San Diego Padres,44.0,0.0,0.2,0.3,62.75,0.0,0.2,0.3
-19-09-2020,Seattle Mariners,San Diego Padres,43.14,0.0,0.0,0.3,63.46,0.0,0.0,0.3
-20-09-2020,Seattle Mariners,San Diego Padres,44.23,0.0,0.0,0.3,62.26,0.0,0.0,0.3
-22-09-2020,Los Angeles Angels,San Diego Padres,43.64,0.0,0.4,0.5,62.96,0.0,0.4,0.5
+14-09-2020,Los Angeles Dodgers,San Diego Padres,70.21,0.0,0.2,0.4,64.58,0.33,0.6,0.7
+15-09-2020,Los Angeles Dodgers,San Diego Padres,68.75,0.33,0.2,0.4,65.31,0.33,0.6,0.7
+16-09-2020,Los Angeles Dodgers,San Diego Padres,69.39,0.0,0.2,0.3,64.0,0.33,0.6,0.8
+18-09-2020,Seattle Mariners,San Diego Padres,44.0,0.0,0.2,0.3,62.75,0.0,0.4,0.7
+19-09-2020,Seattle Mariners,San Diego Padres,43.14,0.0,0.0,0.3,63.46,0.0,0.2,0.6
+20-09-2020,Seattle Mariners,San Diego Padres,44.23,0.0,0.0,0.3,62.26,0.33,0.2,0.6
+22-09-2020,Los Angeles Angels,San Diego Padres,43.64,0.0,0.4,0.5,62.96,0.0,0.2,0.5
 23-09-2020,Los Angeles Angels,San Diego Padres,44.64,0.33,0.4,0.5,61.82,0.33,0.4,0.5
-31-07-2020,Oakland Athletics,Seattle Mariners,50.0,0.0,0.4,nan,42.86,0.0,0.4,nan
-01-08-2020,Oakland Athletics,Seattle Mariners,42.86,0.0,0.2,nan,50.0,0.0,0.2,nan
-02-08-2020,Oakland Athletics,Seattle Mariners,50.0,0.0,0.0,nan,44.44,0.0,0.0,nan
-03-08-2020,Oakland Athletics,Seattle Mariners,55.56,0.33,0.2,0.4,40.0,0.33,0.2,0.4
-04-08-2020,Los Angeles Angels,Seattle Mariners,30.0,0.33,0.2,0.3,36.36,0.33,0.2,0.3
-05-08-2020,Los Angeles Angels,Seattle Mariners,36.36,0.0,0.2,0.2,33.33,0.0,0.2,0.2
-06-08-2020,Los Angeles Angels,Seattle Mariners,33.33,0.33,0.4,0.3,38.46,0.33,0.4,0.3
-07-08-2020,Colorado Rockies,Seattle Mariners,75.0,0.0,0.4,0.6,35.71,0.0,0.4,0.6
-08-08-2020,Colorado Rockies,Seattle Mariners,76.92,0.33,0.4,0.6,33.33,0.33,0.4,0.6
-09-08-2020,Colorado Rockies,Seattle Mariners,78.57,0.33,0.4,0.6,31.25,0.33,0.4,0.6
-19-08-2020,Los Angeles Dodgers,Seattle Mariners,72.0,0.33,0.6,0.6,28.0,0.33,0.6,0.6
-20-08-2020,Los Angeles Dodgers,Seattle Mariners,69.23,0.33,0.6,0.7,30.77,0.33,0.6,0.7
-21-08-2020,Texas Rangers,Seattle Mariners,41.67,0.0,0.0,0.4,29.63,0.0,0.0,0.4
-22-08-2020,Texas Rangers,Seattle Mariners,40.0,0.0,0.0,0.3,32.14,0.0,0.0,0.3
-23-08-2020,Texas Rangers,Seattle Mariners,38.46,0.0,0.0,0.2,34.48,0.0,0.0,0.2
-04-09-2020,Texas Rangers,Seattle Mariners,36.11,0.0,0.2,0.3,40.54,0.0,0.2,0.3
-05-09-2020,Texas Rangers,Seattle Mariners,35.14,0.0,0.2,0.2,42.11,0.0,0.2,0.2
-06-09-2020,Texas Rangers,Seattle Mariners,34.21,0.0,0.0,0.2,43.59,0.0,0.0,0.2
-07-09-2020,Texas Rangers,Seattle Mariners,33.33,0.0,0.0,0.2,45.0,0.0,0.0,0.2
-16-09-2020,San Francisco Giants,Seattle Mariners,48.94,0.0,0.2,0.5,45.83,0.0,0.2,0.5
-18-09-2020,San Diego Padres,Seattle Mariners,62.75,0.0,0.4,0.7,44.0,0.0,0.4,0.7
-19-09-2020,San Diego Padres,Seattle Mariners,63.46,0.0,0.2,0.6,43.14,0.0,0.2,0.6
-20-09-2020,San Diego Padres,Seattle Mariners,62.26,0.33,0.2,0.6,44.23,0.33,0.2,0.6
-21-09-2020,Houston Astros,Seattle Mariners,50.94,0.33,0.4,0.4,43.4,0.33,0.4,0.4
-22-09-2020,Houston Astros,Seattle Mariners,50.0,0.33,0.4,0.5,44.44,0.33,0.4,0.5
-23-09-2020,Houston Astros,Seattle Mariners,50.91,0.0,0.4,0.4,43.64,0.0,0.4,0.4
-28-07-2020,San Diego Padres,San Francisco Giants,75.0,0.0,0.4,nan,50.0,0.0,0.4,nan
+31-07-2020,Oakland Athletics,Seattle Mariners,50.0,0.0,0.4,nan,42.86,0.33,0.2,nan
+01-08-2020,Oakland Athletics,Seattle Mariners,42.86,0.0,0.2,nan,50.0,0.33,0.4,nan
+02-08-2020,Oakland Athletics,Seattle Mariners,50.0,0.0,0.0,nan,44.44,0.33,0.6,0.4
+03-08-2020,Oakland Athletics,Seattle Mariners,55.56,0.33,0.2,0.4,40.0,0.0,0.4,0.4
+04-08-2020,Los Angeles Angels,Seattle Mariners,30.0,0.33,0.2,0.3,36.36,0.0,0.2,0.4
+05-08-2020,Los Angeles Angels,Seattle Mariners,36.36,0.0,0.2,0.2,33.33,0.0,0.0,0.3
+06-08-2020,Los Angeles Angels,Seattle Mariners,33.33,0.33,0.4,0.3,38.46,0.0,0.0,0.3
+07-08-2020,Colorado Rockies,Seattle Mariners,75.0,0.0,0.4,0.6,35.71,0.33,0.2,0.4
+08-08-2020,Colorado Rockies,Seattle Mariners,76.92,0.33,0.4,0.6,33.33,0.0,0.2,0.3
+09-08-2020,Colorado Rockies,Seattle Mariners,78.57,0.33,0.4,0.6,31.25,0.0,0.2,0.2
+19-08-2020,Los Angeles Dodgers,Seattle Mariners,72.0,0.33,0.6,0.6,28.0,0.0,0.0,0.2
+20-08-2020,Los Angeles Dodgers,Seattle Mariners,69.23,0.33,0.6,0.7,30.77,0.0,0.0,0.1
+21-08-2020,Texas Rangers,Seattle Mariners,41.67,0.0,0.0,0.4,29.63,0.33,0.2,0.1
+22-08-2020,Texas Rangers,Seattle Mariners,40.0,0.0,0.0,0.3,32.14,0.0,0.2,0.1
+23-08-2020,Texas Rangers,Seattle Mariners,38.46,0.0,0.0,0.2,34.48,0.33,0.4,0.2
+04-09-2020,Texas Rangers,Seattle Mariners,36.11,0.0,0.2,0.3,40.54,0.33,0.2,0.5
+05-09-2020,Texas Rangers,Seattle Mariners,35.14,0.0,0.2,0.2,42.11,0.33,0.4,0.5
+06-09-2020,Texas Rangers,Seattle Mariners,34.21,0.0,0.0,0.2,43.59,0.33,0.6,0.5
+07-09-2020,Texas Rangers,Seattle Mariners,33.33,0.0,0.0,0.2,45.0,0.33,0.6,0.5
+16-09-2020,San Francisco Giants,Seattle Mariners,48.94,0.0,0.2,0.5,45.83,0.33,0.6,0.5
+18-09-2020,San Diego Padres,Seattle Mariners,62.75,0.0,0.4,0.7,44.0,0.0,0.2,0.3
+19-09-2020,San Diego Padres,Seattle Mariners,63.46,0.0,0.2,0.6,43.14,0.0,0.0,0.3
+20-09-2020,San Diego Padres,Seattle Mariners,62.26,0.33,0.2,0.6,44.23,0.0,0.0,0.3
+21-09-2020,Houston Astros,Seattle Mariners,50.94,0.33,0.4,0.4,43.4,0.33,0.2,0.4
+22-09-2020,Houston Astros,Seattle Mariners,50.0,0.33,0.4,0.5,44.44,0.0,0.2,0.3
+23-09-2020,Houston Astros,Seattle Mariners,50.91,0.0,0.4,0.4,43.64,0.33,0.4,0.3
+28-07-2020,San Diego Padres,San Francisco Giants,75.0,0.0,0.4,nan,50.0,0.33,0.2,nan
 29-07-2020,San Diego Padres,San Francisco Giants,80.0,0.33,0.4,nan,40.0,0.33,0.4,nan
-30-07-2020,San Diego Padres,San Francisco Giants,66.67,0.33,0.4,nan,50.0,0.33,0.4,nan
-31-07-2020,Texas Rangers,San Francisco Giants,40.0,0.0,0.0,nan,42.86,0.0,0.0,nan
-01-08-2020,Texas Rangers,San Francisco Giants,33.33,0.33,0.2,nan,50.0,0.33,0.2,nan
-02-08-2020,Texas Rangers,San Francisco Giants,28.57,0.0,0.2,nan,55.56,0.0,0.2,nan
-14-08-2020,Oakland Athletics,San Francisco Giants,68.42,0.0,0.2,0.6,40.0,0.0,0.2,0.6
-15-08-2020,Oakland Athletics,San Francisco Giants,70.0,0.33,0.2,0.6,38.1,0.33,0.2,0.6
-16-08-2020,Oakland Athletics,San Francisco Giants,71.43,0.33,0.4,0.6,36.36,0.33,0.4,0.6
-19-08-2020,Los Angeles Angels,San Francisco Giants,33.33,0.33,0.2,0.3,36.0,0.33,0.2,0.3
-20-08-2020,Los Angeles Angels,San Francisco Giants,32.0,0.0,0.2,0.3,38.46,0.0,0.2,0.3
-21-08-2020,Arizona Diamondbacks,San Francisco Giants,50.0,0.0,0.4,0.6,40.74,0.0,0.4,0.6
-22-08-2020,Arizona Diamondbacks,San Francisco Giants,48.15,0.0,0.2,0.6,42.86,0.0,0.2,0.6
-23-08-2020,Arizona Diamondbacks,San Francisco Giants,46.43,0.0,0.0,0.5,44.83,0.0,0.0,0.5
-25-08-2020,Los Angeles Dodgers,San Francisco Giants,73.33,0.33,0.6,0.7,46.67,0.33,0.6,0.7
-04-09-2020,Arizona Diamondbacks,San Francisco Giants,36.84,0.0,0.0,0.1,47.37,0.0,0.0,0.1
-05-09-2020,Arizona Diamondbacks,San Francisco Giants,38.46,0.0,0.0,0.1,46.15,0.0,0.0,0.1
-06-09-2020,Arizona Diamondbacks,San Francisco Giants,37.5,0.33,0.2,0.2,47.5,0.33,0.2,0.2
-07-09-2020,Arizona Diamondbacks,San Francisco Giants,36.59,0.0,0.2,0.2,48.78,0.0,0.2,0.2
-08-09-2020,Seattle Mariners,San Francisco Giants,46.34,0.33,0.6,0.6,50.0,0.33,0.6,0.6
+30-07-2020,San Diego Padres,San Francisco Giants,66.67,0.33,0.4,nan,50.0,0.0,0.4,nan
+31-07-2020,Texas Rangers,San Francisco Giants,40.0,0.0,0.0,nan,42.86,0.33,0.4,nan
+01-08-2020,Texas Rangers,San Francisco Giants,33.33,0.33,0.2,nan,50.0,0.0,0.2,nan
+02-08-2020,Texas Rangers,San Francisco Giants,28.57,0.0,0.2,nan,55.56,0.33,0.4,0.4
+14-08-2020,Oakland Athletics,San Francisco Giants,68.42,0.0,0.2,0.6,40.0,0.33,0.2,0.3
+15-08-2020,Oakland Athletics,San Francisco Giants,70.0,0.33,0.2,0.6,38.1,0.0,0.2,0.3
+16-08-2020,Oakland Athletics,San Francisco Giants,71.43,0.33,0.4,0.6,36.36,0.0,0.2,0.2
+19-08-2020,Los Angeles Angels,San Francisco Giants,33.33,0.33,0.2,0.3,36.0,0.0,0.0,0.1
+20-08-2020,Los Angeles Angels,San Francisco Giants,32.0,0.0,0.2,0.3,38.46,0.33,0.2,0.2
+21-08-2020,Arizona Diamondbacks,San Francisco Giants,50.0,0.0,0.4,0.6,40.74,0.33,0.4,0.3
+22-08-2020,Arizona Diamondbacks,San Francisco Giants,48.15,0.0,0.2,0.6,42.86,0.33,0.6,0.3
+23-08-2020,Arizona Diamondbacks,San Francisco Giants,46.43,0.0,0.0,0.5,44.83,0.33,0.6,0.4
+25-08-2020,Los Angeles Dodgers,San Francisco Giants,73.33,0.33,0.6,0.7,46.67,0.33,0.6,0.5
+04-09-2020,Arizona Diamondbacks,San Francisco Giants,36.84,0.0,0.0,0.1,47.37,0.33,0.6,0.5
+05-09-2020,Arizona Diamondbacks,San Francisco Giants,38.46,0.0,0.0,0.1,46.15,0.0,0.4,0.4
+06-09-2020,Arizona Diamondbacks,San Francisco Giants,37.5,0.33,0.2,0.2,47.5,0.0,0.2,0.3
+07-09-2020,Arizona Diamondbacks,San Francisco Giants,36.59,0.0,0.2,0.2,48.78,0.33,0.2,0.4
+08-09-2020,Seattle Mariners,San Francisco Giants,46.34,0.33,0.6,0.6,50.0,0.33,0.4,0.5
 09-09-2020,Seattle Mariners,San Francisco Giants,45.24,0.33,0.6,0.6,51.16,0.33,0.6,0.6
-16-09-2020,Seattle Mariners,San Francisco Giants,45.83,0.33,0.6,0.5,48.94,0.33,0.6,0.5
-17-09-2020,Seattle Mariners,San Francisco Giants,44.9,0.0,0.4,0.4,50.0,0.0,0.4,0.4
-21-09-2020,Colorado Rockies,San Francisco Giants,44.23,0.0,0.0,0.2,50.0,0.0,0.0,0.2
-22-09-2020,Colorado Rockies,San Francisco Giants,45.28,0.33,0.2,0.2,49.06,0.33,0.2,0.2
-23-09-2020,Colorado Rockies,San Francisco Giants,44.44,0.33,0.4,0.3,50.0,0.33,0.4,0.3
-24-09-2020,Colorado Rockies,San Francisco Giants,43.64,0.0,0.4,0.3,50.91,0.0,0.4,0.3
-26-09-2020,San Diego Padres,San Francisco Giants,60.34,0.0,0.0,0.2,50.0,0.0,0.0,0.2
-27-09-2020,San Diego Padres,San Francisco Giants,61.02,0.33,0.2,0.3,49.15,0.33,0.2,0.3
-24-07-2020,Pittsburgh Pirates,St. Louis Cardinals,0,0.33,0.4,0.4,0,0.33,0.4,0.4
+16-09-2020,Seattle Mariners,San Francisco Giants,45.83,0.33,0.6,0.5,48.94,0.0,0.2,0.5
+17-09-2020,Seattle Mariners,San Francisco Giants,44.9,0.0,0.4,0.4,50.0,0.0,0.0,0.5
+21-09-2020,Colorado Rockies,San Francisco Giants,44.23,0.0,0.0,0.2,50.0,0.0,0.2,0.3
+22-09-2020,Colorado Rockies,San Francisco Giants,45.28,0.33,0.2,0.2,49.06,0.33,0.2,0.3
+23-09-2020,Colorado Rockies,San Francisco Giants,44.44,0.33,0.4,0.3,50.0,0.0,0.2,0.3
+24-09-2020,Colorado Rockies,San Francisco Giants,43.64,0.0,0.4,0.3,50.91,0.33,0.4,0.4
+26-09-2020,San Diego Padres,San Francisco Giants,60.34,0.0,0.0,0.2,50.0,0.33,0.4,0.4
+27-09-2020,San Diego Padres,San Francisco Giants,61.02,0.33,0.2,0.3,49.15,0.0,0.2,0.4
+24-07-2020,Pittsburgh Pirates,St. Louis Cardinals,0,0.33,0.4,0.4,0,0.0,0.2,0.4
 25-07-2020,Pittsburgh Pirates,St. Louis Cardinals,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Pittsburgh Pirates,St. Louis Cardinals,0.0,0.0,nan,nan,100.0,0.0,nan,nan
-20-08-2020,Cincinnati Reds,St. Louis Cardinals,45.45,0.0,0.2,0.4,46.15,0.0,0.2,0.4
-21-08-2020,Cincinnati Reds,St. Louis Cardinals,43.48,0.33,0.4,0.4,50.0,0.33,0.4,0.4
-22-08-2020,Cincinnati Reds,St. Louis Cardinals,45.83,0.0,0.2,0.3,46.67,0.0,0.2,0.3
-23-08-2020,Cincinnati Reds,St. Louis Cardinals,44.0,0.33,0.4,0.4,50.0,0.33,0.4,0.4
-24-08-2020,Kansas City Royals,St. Louis Cardinals,39.29,0.0,0.2,0.3,52.94,0.0,0.2,0.3
-25-08-2020,Kansas City Royals,St. Louis Cardinals,37.93,0.0,0.2,0.3,55.56,0.0,0.2,0.3
-26-08-2020,Kansas City Royals,St. Louis Cardinals,40.0,0.0,0.0,0.2,52.63,0.0,0.0,0.2
-28-08-2020,Cleveland Indians,St. Louis Cardinals,61.29,0.33,0.2,0.5,50.0,0.33,0.2,0.5
-29-08-2020,Cleveland Indians,St. Louis Cardinals,62.5,0.33,0.4,0.5,47.83,0.33,0.4,0.5
-30-08-2020,Cleveland Indians,St. Louis Cardinals,63.64,0.33,0.6,0.5,45.83,0.33,0.6,0.5
-11-09-2020,Cincinnati Reds,St. Louis Cardinals,43.18,0.33,0.2,0.4,51.35,0.33,0.2,0.4
-12-09-2020,Cincinnati Reds,St. Louis Cardinals,44.44,0.0,0.2,0.4,50.0,0.0,0.2,0.4
-13-09-2020,Cincinnati Reds,St. Louis Cardinals,43.48,0.33,0.4,0.4,51.28,0.33,0.4,0.4
-24-09-2020,Milwaukee Brewers,St. Louis Cardinals,49.09,0.33,0.4,0.6,50.94,0.33,0.4,0.6
-26-09-2020,Milwaukee Brewers,St. Louis Cardinals,48.28,0.33,0.2,0.5,51.79,0.33,0.2,0.5
-27-09-2020,Milwaukee Brewers,St. Louis Cardinals,49.15,0.0,0.2,0.4,50.88,0.0,0.2,0.4
+26-07-2020,Pittsburgh Pirates,St. Louis Cardinals,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+20-08-2020,Cincinnati Reds,St. Louis Cardinals,45.45,0.0,0.2,0.4,46.15,0.33,0.2,0.4
+21-08-2020,Cincinnati Reds,St. Louis Cardinals,43.48,0.33,0.4,0.4,50.0,0.0,0.2,0.4
+22-08-2020,Cincinnati Reds,St. Louis Cardinals,45.83,0.0,0.2,0.3,46.67,0.33,0.4,0.4
+23-08-2020,Cincinnati Reds,St. Louis Cardinals,44.0,0.33,0.4,0.4,50.0,0.0,0.2,0.3
+24-08-2020,Kansas City Royals,St. Louis Cardinals,39.29,0.0,0.2,0.3,52.94,0.33,0.4,0.4
+25-08-2020,Kansas City Royals,St. Louis Cardinals,37.93,0.0,0.2,0.3,55.56,0.33,0.4,0.4
+26-08-2020,Kansas City Royals,St. Louis Cardinals,40.0,0.0,0.0,0.2,52.63,0.33,0.6,0.5
+28-08-2020,Cleveland Indians,St. Louis Cardinals,61.29,0.33,0.2,0.5,50.0,0.0,0.2,0.5
+29-08-2020,Cleveland Indians,St. Louis Cardinals,62.5,0.33,0.4,0.5,47.83,0.0,0.2,0.4
+30-08-2020,Cleveland Indians,St. Louis Cardinals,63.64,0.33,0.6,0.5,45.83,0.0,0.0,0.4
+11-09-2020,Cincinnati Reds,St. Louis Cardinals,43.18,0.33,0.2,0.4,51.35,0.33,0.4,0.5
+12-09-2020,Cincinnati Reds,St. Louis Cardinals,44.44,0.0,0.2,0.4,50.0,0.0,0.4,0.5
+13-09-2020,Cincinnati Reds,St. Louis Cardinals,43.48,0.33,0.4,0.4,51.28,0.0,0.2,0.4
+24-09-2020,Milwaukee Brewers,St. Louis Cardinals,49.09,0.33,0.4,0.6,50.94,0.33,0.4,0.5
+26-09-2020,Milwaukee Brewers,St. Louis Cardinals,48.28,0.33,0.2,0.5,51.79,0.0,0.2,0.5
+27-09-2020,Milwaukee Brewers,St. Louis Cardinals,49.15,0.0,0.2,0.4,50.88,0.33,0.4,0.5
 24-07-2020,Toronto Blue Jays,Tampa Bay Rays,0,0.33,0.6,0.6,0,0.33,0.6,0.6
 25-07-2020,Toronto Blue Jays,Tampa Bay Rays,100.0,nan,nan,nan,0.0,nan,nan,nan
-26-07-2020,Toronto Blue Jays,Tampa Bay Rays,50.0,0.33,nan,nan,50.0,0.33,nan,nan
+26-07-2020,Toronto Blue Jays,Tampa Bay Rays,50.0,0.33,nan,nan,50.0,0.0,nan,nan
 27-07-2020,Atlanta Braves,Tampa Bay Rays,66.67,0.33,nan,nan,66.67,0.33,nan,nan
 28-07-2020,Atlanta Braves,Tampa Bay Rays,50.0,0.33,0.4,nan,75.0,0.33,0.4,nan
-04-08-2020,Boston Red Sox,Tampa Bay Rays,30.0,0.0,0.2,0.2,40.0,0.0,0.2,0.2
-05-08-2020,Boston Red Sox,Tampa Bay Rays,27.27,0.0,0.0,0.2,45.45,0.0,0.0,0.2
-07-08-2020,New York Yankees,Tampa Bay Rays,75.0,0.33,0.4,0.7,41.67,0.33,0.4,0.7
-09-08-2020,New York Yankees,Tampa Bay Rays,66.67,0.33,0.2,0.5,46.67,0.33,0.2,0.5
-21-08-2020,Toronto Blue Jays,Tampa Bay Rays,52.17,0.33,0.6,0.5,65.38,0.33,0.6,0.5
-22-08-2020,Toronto Blue Jays,Tampa Bay Rays,54.17,0.33,0.6,0.6,62.96,0.33,0.6,0.6
-23-08-2020,Toronto Blue Jays,Tampa Bay Rays,52.0,0.33,0.6,0.6,64.29,0.33,0.6,0.6
-24-08-2020,Toronto Blue Jays,Tampa Bay Rays,50.0,0.0,0.4,0.6,65.52,0.0,0.4,0.6
-25-08-2020,Baltimore Orioles,Tampa Bay Rays,50.0,0.33,0.2,0.2,63.33,0.33,0.2,0.2
-26-08-2020,Baltimore Orioles,Tampa Bay Rays,48.28,0.33,0.4,0.2,64.52,0.33,0.4,0.2
-04-09-2020,Miami Marlins,Tampa Bay Rays,50.0,0.33,0.4,0.4,68.42,0.33,0.4,0.4
-05-09-2020,Miami Marlins,Tampa Bay Rays,48.48,0.0,0.4,0.3,69.23,0.0,0.4,0.3
-06-09-2020,Miami Marlins,Tampa Bay Rays,50.0,0.0,0.2,0.2,67.5,0.0,0.2,0.2
-10-09-2020,Boston Red Sox,Tampa Bay Rays,34.09,0.0,0.2,0.2,65.12,0.0,0.2,0.2
-11-09-2020,Boston Red Sox,Tampa Bay Rays,35.56,0.33,0.2,0.3,63.64,0.33,0.2,0.3
-12-09-2020,Boston Red Sox,Tampa Bay Rays,34.78,0.33,0.4,0.4,64.44,0.33,0.4,0.4
-13-09-2020,Boston Red Sox,Tampa Bay Rays,34.04,0.0,0.4,0.4,65.22,0.0,0.4,0.4
-15-09-2020,Washington Nationals,Tampa Bay Rays,37.78,0.0,0.2,0.5,63.83,0.0,0.2,0.5
-16-09-2020,Washington Nationals,Tampa Bay Rays,36.96,0.0,0.2,0.4,64.58,0.0,0.2,0.4
-25-09-2020,Philadelphia Phillies,Tampa Bay Rays,49.12,0.0,0.0,0.3,64.91,0.0,0.0,0.3
-26-09-2020,Philadelphia Phillies,Tampa Bay Rays,48.28,0.33,0.2,0.4,65.52,0.33,0.2,0.4
-27-09-2020,Philadelphia Phillies,Tampa Bay Rays,47.46,0.0,0.2,0.3,66.1,0.0,0.2,0.3
-24-07-2020,Colorado Rockies,Texas Rangers,0,0.33,0.2,0.4,0,0.33,0.2,0.4
+04-08-2020,Boston Red Sox,Tampa Bay Rays,30.0,0.0,0.2,0.2,40.0,0.0,0.0,0.4
+05-08-2020,Boston Red Sox,Tampa Bay Rays,27.27,0.0,0.0,0.2,45.45,0.0,0.0,0.3
+07-08-2020,New York Yankees,Tampa Bay Rays,75.0,0.33,0.4,0.7,41.67,0.33,0.2,0.3
+09-08-2020,New York Yankees,Tampa Bay Rays,66.67,0.33,0.2,0.5,46.67,0.0,0.2,0.2
+21-08-2020,Toronto Blue Jays,Tampa Bay Rays,52.17,0.33,0.6,0.5,65.38,0.33,0.6,0.7
+22-08-2020,Toronto Blue Jays,Tampa Bay Rays,54.17,0.33,0.6,0.6,62.96,0.33,0.6,0.7
+23-08-2020,Toronto Blue Jays,Tampa Bay Rays,52.0,0.33,0.6,0.6,64.29,0.0,0.4,0.6
+24-08-2020,Toronto Blue Jays,Tampa Bay Rays,50.0,0.0,0.4,0.6,65.52,0.33,0.4,0.6
+25-08-2020,Baltimore Orioles,Tampa Bay Rays,50.0,0.33,0.2,0.2,63.33,0.33,0.4,0.7
+26-08-2020,Baltimore Orioles,Tampa Bay Rays,48.28,0.33,0.4,0.2,64.52,0.0,0.4,0.6
+04-09-2020,Miami Marlins,Tampa Bay Rays,50.0,0.33,0.4,0.4,68.42,0.0,0.4,0.6
+05-09-2020,Miami Marlins,Tampa Bay Rays,48.48,0.0,0.4,0.3,69.23,0.33,0.4,0.7
+06-09-2020,Miami Marlins,Tampa Bay Rays,50.0,0.0,0.2,0.2,67.5,0.33,0.4,0.7
+10-09-2020,Boston Red Sox,Tampa Bay Rays,34.09,0.0,0.2,0.2,65.12,0.0,0.2,0.5
+11-09-2020,Boston Red Sox,Tampa Bay Rays,35.56,0.33,0.2,0.3,63.64,0.0,0.2,0.4
+12-09-2020,Boston Red Sox,Tampa Bay Rays,34.78,0.33,0.4,0.4,64.44,0.0,0.0,0.3
+13-09-2020,Boston Red Sox,Tampa Bay Rays,34.04,0.0,0.4,0.4,65.22,0.33,0.2,0.4
+15-09-2020,Washington Nationals,Tampa Bay Rays,37.78,0.0,0.2,0.5,63.83,0.33,0.4,0.4
+16-09-2020,Washington Nationals,Tampa Bay Rays,36.96,0.0,0.2,0.4,64.58,0.0,0.4,0.3
+25-09-2020,Philadelphia Phillies,Tampa Bay Rays,49.12,0.0,0.0,0.3,64.91,0.0,0.2,0.5
+26-09-2020,Philadelphia Phillies,Tampa Bay Rays,48.28,0.33,0.2,0.4,65.52,0.33,0.4,0.6
+27-09-2020,Philadelphia Phillies,Tampa Bay Rays,47.46,0.0,0.2,0.3,66.1,0.33,0.4,0.6
+24-07-2020,Colorado Rockies,Texas Rangers,0,0.33,0.2,0.4,0,0.33,0.4,0.3
 25-07-2020,Colorado Rockies,Texas Rangers,0.0,nan,nan,nan,100.0,nan,nan,nan
-26-07-2020,Colorado Rockies,Texas Rangers,50.0,0.0,nan,nan,50.0,0.0,nan,nan
-28-07-2020,Arizona Diamondbacks,Texas Rangers,25.0,0.33,0.2,nan,33.33,0.33,0.2,nan
+26-07-2020,Colorado Rockies,Texas Rangers,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+28-07-2020,Arizona Diamondbacks,Texas Rangers,25.0,0.33,0.2,nan,33.33,0.0,nan,nan
 29-07-2020,Arizona Diamondbacks,Texas Rangers,40.0,0.0,0.2,nan,25.0,0.0,0.2,nan
-07-08-2020,Los Angeles Angels,Texas Rangers,38.46,0.0,0.2,0.3,27.27,0.0,0.2,0.3
-08-08-2020,Los Angeles Angels,Texas Rangers,35.71,0.33,0.4,0.3,33.33,0.33,0.4,0.3
-09-08-2020,Los Angeles Angels,Texas Rangers,33.33,0.0,0.2,0.3,38.46,0.0,0.2,0.3
-10-08-2020,Seattle Mariners,Texas Rangers,35.29,0.0,0.0,0.1,42.86,0.0,0.0,0.1
-11-08-2020,Seattle Mariners,Texas Rangers,38.89,0.33,0.2,0.2,40.0,0.33,0.2,0.2
-12-08-2020,Seattle Mariners,Texas Rangers,36.84,0.33,0.4,0.3,43.75,0.33,0.4,0.3
-17-08-2020,San Diego Padres,Texas Rangers,47.83,0.0,0.0,0.3,50.0,0.0,0.0,0.3
-18-08-2020,San Diego Padres,Texas Rangers,50.0,0.0,0.0,0.3,47.62,0.0,0.0,0.3
-24-08-2020,Oakland Athletics,Texas Rangers,68.97,0.0,0.4,0.5,37.04,0.0,0.4,0.5
-25-08-2020,Oakland Athletics,Texas Rangers,66.67,0.33,0.4,0.5,39.29,0.33,0.4,0.5
-26-08-2020,Oakland Athletics,Texas Rangers,67.74,0.0,0.2,0.4,37.93,0.0,0.2,0.4
-28-08-2020,Los Angeles Dodgers,Texas Rangers,72.73,0.33,0.4,0.6,36.67,0.33,0.4,0.6
-29-08-2020,Los Angeles Dodgers,Texas Rangers,70.59,0.33,0.4,0.6,38.71,0.33,0.4,0.6
-30-08-2020,Los Angeles Dodgers,Texas Rangers,71.43,0.0,0.4,0.6,37.5,0.0,0.4,0.6
-08-09-2020,Los Angeles Angels,Texas Rangers,40.48,0.33,0.6,0.5,32.5,0.33,0.6,0.5
-09-09-2020,Los Angeles Angels,Texas Rangers,39.53,0.33,0.6,0.5,34.15,0.33,0.6,0.5
-10-09-2020,Los Angeles Angels,Texas Rangers,38.64,0.0,0.4,0.5,35.71,0.0,0.4,0.5
-11-09-2020,Oakland Athletics,Texas Rangers,64.29,0.33,0.4,0.4,34.88,0.33,0.4,0.4
-13-09-2020,Oakland Athletics,Texas Rangers,64.44,0.0,0.4,0.5,34.78,0.0,0.4,0.5
-24-09-2020,Houston Astros,Texas Rangers,50.0,0.33,0.4,0.5,33.93,0.33,0.4,0.5
-25-09-2020,Houston Astros,Texas Rangers,50.88,0.0,0.2,0.4,33.33,0.0,0.2,0.4
-26-09-2020,Houston Astros,Texas Rangers,50.0,0.33,0.4,0.5,34.48,0.33,0.4,0.5
-27-09-2020,Houston Astros,Texas Rangers,49.15,0.0,0.2,0.4,35.59,0.0,0.2,0.4
-11-08-2020,Miami Marlins,Toronto Blue Jays,70.0,0.0,0.4,0.6,38.46,0.0,0.4,0.6
-12-08-2020,Miami Marlins,Toronto Blue Jays,63.64,0.0,0.2,0.6,42.86,0.0,0.2,0.6
-14-08-2020,Tampa Bay Rays,Toronto Blue Jays,60.0,0.33,0.6,0.6,40.0,0.33,0.6,0.6
-15-08-2020,Tampa Bay Rays,Toronto Blue Jays,57.14,0.33,0.6,0.7,43.75,0.33,0.6,0.7
-16-08-2020,Tampa Bay Rays,Toronto Blue Jays,59.09,0.0,0.4,0.6,41.18,0.0,0.4,0.6
-25-08-2020,Boston Red Sox,Toronto Blue Jays,31.03,0.0,0.4,0.3,51.85,0.0,0.4,0.3
-26-08-2020,Boston Red Sox,Toronto Blue Jays,33.33,0.0,0.2,0.3,50.0,0.0,0.2,0.3
-28-08-2020,Baltimore Orioles,Toronto Blue Jays,46.67,0.0,0.4,0.2,51.72,0.0,0.4,0.2
-29-08-2020,Baltimore Orioles,Toronto Blue Jays,45.16,0.0,0.2,0.2,53.33,0.0,0.2,0.2
-30-08-2020,Baltimore Orioles,Toronto Blue Jays,43.75,0.0,0.0,0.2,54.84,0.0,0.0,0.2
-31-08-2020,Baltimore Orioles,Toronto Blue Jays,42.42,0.0,0.0,0.2,56.25,0.0,0.0,0.2
-07-09-2020,New York Yankees,Toronto Blue Jays,52.5,0.0,0.2,0.3,55.0,0.0,0.2,0.3
-08-09-2020,New York Yankees,Toronto Blue Jays,51.22,0.0,0.0,0.2,56.1,0.0,0.0,0.2
-09-09-2020,New York Yankees,Toronto Blue Jays,50.0,0.0,0.0,0.2,57.14,0.0,0.0,0.2
-11-09-2020,New York Mets,Toronto Blue Jays,45.45,0.0,0.2,0.4,55.81,0.0,0.2,0.4
-12-09-2020,New York Mets,Toronto Blue Jays,46.67,0.33,0.2,0.5,54.55,0.33,0.2,0.5
-13-09-2020,New York Mets,Toronto Blue Jays,45.65,0.33,0.4,0.5,55.56,0.33,0.4,0.5
-21-09-2020,New York Yankees,Toronto Blue Jays,58.49,0.33,0.6,0.8,50.94,0.33,0.6,0.8
-22-09-2020,New York Yankees,Toronto Blue Jays,57.41,0.0,0.4,0.7,51.85,0.0,0.4,0.7
-23-09-2020,New York Yankees,Toronto Blue Jays,58.18,0.0,0.2,0.6,50.91,0.0,0.2,0.6
-24-09-2020,New York Yankees,Toronto Blue Jays,57.14,0.33,0.2,0.6,51.79,0.33,0.2,0.6
-25-09-2020,Baltimore Orioles,Toronto Blue Jays,42.11,0.0,0.2,0.2,52.63,0.0,0.2,0.2
-26-09-2020,Baltimore Orioles,Toronto Blue Jays,41.38,0.33,0.2,0.2,53.45,0.33,0.2,0.2
-27-09-2020,Baltimore Orioles,Toronto Blue Jays,40.68,0.0,0.2,0.2,54.24,0.0,0.2,0.2
-23-07-2020,New York Yankees,Washington Nationals,0,0.33,0.2,0.3,0,0.33,0.2,0.3
+07-08-2020,Los Angeles Angels,Texas Rangers,38.46,0.0,0.2,0.3,27.27,0.0,0.2,0.2
+08-08-2020,Los Angeles Angels,Texas Rangers,35.71,0.33,0.4,0.3,33.33,0.0,0.0,0.2
+09-08-2020,Los Angeles Angels,Texas Rangers,33.33,0.0,0.2,0.3,38.46,0.33,0.2,0.3
+10-08-2020,Seattle Mariners,Texas Rangers,35.29,0.0,0.0,0.1,42.86,0.33,0.4,0.3
+11-08-2020,Seattle Mariners,Texas Rangers,38.89,0.33,0.2,0.2,40.0,0.33,0.6,0.4
+12-08-2020,Seattle Mariners,Texas Rangers,36.84,0.33,0.4,0.3,43.75,0.0,0.4,0.4
+17-08-2020,San Diego Padres,Texas Rangers,47.83,0.0,0.0,0.3,50.0,0.33,0.6,0.7
+18-08-2020,San Diego Padres,Texas Rangers,50.0,0.0,0.0,0.3,47.62,0.0,0.4,0.6
+24-08-2020,Oakland Athletics,Texas Rangers,68.97,0.0,0.4,0.5,37.04,0.0,0.0,0.1
+25-08-2020,Oakland Athletics,Texas Rangers,66.67,0.33,0.4,0.5,39.29,0.0,0.0,0.0
+26-08-2020,Oakland Athletics,Texas Rangers,67.74,0.0,0.2,0.4,37.93,0.33,0.2,0.1
+28-08-2020,Los Angeles Dodgers,Texas Rangers,72.73,0.33,0.4,0.6,36.67,0.0,0.2,0.1
+29-08-2020,Los Angeles Dodgers,Texas Rangers,70.59,0.33,0.4,0.6,38.71,0.0,0.2,0.1
+30-08-2020,Los Angeles Dodgers,Texas Rangers,71.43,0.0,0.4,0.6,37.5,0.33,0.2,0.2
+08-09-2020,Los Angeles Angels,Texas Rangers,40.48,0.33,0.6,0.5,32.5,0.0,0.0,0.1
+09-09-2020,Los Angeles Angels,Texas Rangers,39.53,0.33,0.6,0.5,34.15,0.0,0.0,0.1
+10-09-2020,Los Angeles Angels,Texas Rangers,38.64,0.0,0.4,0.5,35.71,0.33,0.2,0.2
+11-09-2020,Oakland Athletics,Texas Rangers,64.29,0.33,0.4,0.4,34.88,0.33,0.4,0.2
+13-09-2020,Oakland Athletics,Texas Rangers,64.44,0.0,0.4,0.5,34.78,0.33,0.2,0.3
+24-09-2020,Houston Astros,Texas Rangers,50.0,0.33,0.4,0.5,33.93,0.0,0.2,0.2
+25-09-2020,Houston Astros,Texas Rangers,50.88,0.0,0.2,0.4,33.33,0.0,0.0,0.2
+26-09-2020,Houston Astros,Texas Rangers,50.0,0.33,0.4,0.5,34.48,0.0,0.0,0.1
+27-09-2020,Houston Astros,Texas Rangers,49.15,0.0,0.2,0.4,35.59,0.33,0.2,0.2
+11-08-2020,Miami Marlins,Toronto Blue Jays,70.0,0.0,0.4,0.6,38.46,0.33,0.2,0.3
+12-08-2020,Miami Marlins,Toronto Blue Jays,63.64,0.0,0.2,0.6,42.86,0.0,0.2,0.2
+14-08-2020,Tampa Bay Rays,Toronto Blue Jays,60.0,0.33,0.6,0.6,40.0,0.33,0.4,0.3
+15-08-2020,Tampa Bay Rays,Toronto Blue Jays,57.14,0.33,0.6,0.7,43.75,0.0,0.2,0.3
+16-08-2020,Tampa Bay Rays,Toronto Blue Jays,59.09,0.0,0.4,0.6,41.18,0.33,0.4,0.4
+25-08-2020,Boston Red Sox,Toronto Blue Jays,31.03,0.0,0.4,0.3,51.85,0.0,0.2,0.6
+26-08-2020,Boston Red Sox,Toronto Blue Jays,33.33,0.0,0.2,0.3,50.0,0.33,0.2,0.6
+28-08-2020,Baltimore Orioles,Toronto Blue Jays,46.67,0.0,0.4,0.2,51.72,0.0,0.2,0.5
+29-08-2020,Baltimore Orioles,Toronto Blue Jays,45.16,0.0,0.2,0.2,53.33,0.33,0.4,0.5
+30-08-2020,Baltimore Orioles,Toronto Blue Jays,43.75,0.0,0.0,0.2,54.84,0.33,0.4,0.5
+31-08-2020,Baltimore Orioles,Toronto Blue Jays,42.42,0.0,0.0,0.2,56.25,0.33,0.6,0.5
+07-09-2020,New York Yankees,Toronto Blue Jays,52.5,0.0,0.2,0.3,55.0,0.0,0.2,0.4
+08-09-2020,New York Yankees,Toronto Blue Jays,51.22,0.0,0.0,0.2,56.1,0.33,0.2,0.4
+09-09-2020,New York Yankees,Toronto Blue Jays,50.0,0.0,0.0,0.2,57.14,0.33,0.4,0.5
+11-09-2020,New York Mets,Toronto Blue Jays,45.45,0.0,0.2,0.4,55.81,0.33,0.6,0.6
+12-09-2020,New York Mets,Toronto Blue Jays,46.67,0.33,0.2,0.5,54.55,0.0,0.4,0.5
+13-09-2020,New York Mets,Toronto Blue Jays,45.65,0.33,0.4,0.5,55.56,0.0,0.2,0.4
+21-09-2020,New York Yankees,Toronto Blue Jays,58.49,0.33,0.6,0.8,50.94,0.0,0.0,0.2
+22-09-2020,New York Yankees,Toronto Blue Jays,57.41,0.0,0.4,0.7,51.85,0.33,0.2,0.2
+23-09-2020,New York Yankees,Toronto Blue Jays,58.18,0.0,0.2,0.6,50.91,0.33,0.4,0.2
+24-09-2020,New York Yankees,Toronto Blue Jays,57.14,0.33,0.2,0.6,51.79,0.0,0.4,0.2
+25-09-2020,Baltimore Orioles,Toronto Blue Jays,42.11,0.0,0.2,0.2,52.63,0.33,0.4,0.3
+26-09-2020,Baltimore Orioles,Toronto Blue Jays,41.38,0.33,0.2,0.2,53.45,0.33,0.4,0.4
+27-09-2020,Baltimore Orioles,Toronto Blue Jays,40.68,0.0,0.2,0.2,54.24,0.33,0.6,0.5
+23-07-2020,New York Yankees,Washington Nationals,0,0.33,0.2,0.3,0,0.33,0.4,0.6
 25-07-2020,New York Yankees,Washington Nationals,100.0,nan,nan,nan,0.0,nan,nan,nan
-26-07-2020,New York Yankees,Washington Nationals,50.0,0.33,nan,nan,50.0,0.33,nan,nan
-27-07-2020,Toronto Blue Jays,Washington Nationals,33.33,0.0,nan,nan,33.33,0.0,nan,nan
+26-07-2020,New York Yankees,Washington Nationals,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+27-07-2020,Toronto Blue Jays,Washington Nationals,33.33,0.0,nan,nan,33.33,0.33,nan,nan
 28-07-2020,Toronto Blue Jays,Washington Nationals,50.0,0.0,0.2,nan,25.0,0.0,0.2,nan
-29-07-2020,Toronto Blue Jays,Washington Nationals,60.0,0.33,0.2,nan,20.0,0.33,0.2,nan
-30-07-2020,Toronto Blue Jays,Washington Nationals,50.0,0.33,0.4,nan,33.33,0.33,0.4,nan
-04-08-2020,New York Mets,Washington Nationals,36.36,0.0,0.0,0.2,42.86,0.0,0.0,0.2
-05-08-2020,New York Mets,Washington Nationals,33.33,0.33,0.2,0.3,50.0,0.33,0.2,0.3
-07-08-2020,Baltimore Orioles,Washington Nationals,41.67,0.0,0.0,0.3,44.44,0.0,0.0,0.3
-08-08-2020,Baltimore Orioles,Washington Nationals,46.15,0.0,0.0,0.3,40.0,0.0,0.0,0.3
-09-08-2020,Baltimore Orioles,Washington Nationals,50.0,0.33,0.2,0.4,36.36,0.33,0.2,0.4
-21-08-2020,Miami Marlins,Washington Nationals,50.0,0.0,0.0,0.2,42.86,0.0,0.0,0.2
-23-08-2020,Miami Marlins,Washington Nationals,52.38,0.0,0.2,0.2,41.67,0.0,0.2,0.2
-24-08-2020,Miami Marlins,Washington Nationals,50.0,0.33,0.4,0.2,44.0,0.33,0.4,0.2
-25-08-2020,Philadelphia Phillies,Washington Nationals,41.67,0.0,0.0,0.3,42.31,0.0,0.0,0.3
-26-08-2020,Philadelphia Phillies,Washington Nationals,44.0,0.33,0.2,0.3,40.74,0.33,0.2,0.3
-07-09-2020,Tampa Bay Rays,Washington Nationals,68.29,0.0,0.4,0.6,35.9,0.0,0.4,0.6
-08-09-2020,Tampa Bay Rays,Washington Nationals,66.67,0.33,0.4,0.6,37.5,0.33,0.4,0.6
-10-09-2020,Atlanta Braves,Washington Nationals,58.14,0.0,0.2,0.4,39.02,0.0,0.2,0.4
-11-09-2020,Atlanta Braves,Washington Nationals,59.09,0.33,0.2,0.4,38.1,0.33,0.2,0.4
-12-09-2020,Atlanta Braves,Washington Nationals,57.78,0.33,0.4,0.4,39.53,0.33,0.4,0.4
-13-09-2020,Atlanta Braves,Washington Nationals,58.7,0.0,0.4,0.3,38.64,0.0,0.4,0.3
-21-09-2020,Philadelphia Phillies,Washington Nationals,50.94,0.33,0.6,0.4,38.46,0.33,0.6,0.4
-23-09-2020,Philadelphia Phillies,Washington Nationals,48.21,0.0,0.0,0.3,41.82,0.0,0.0,0.3
-24-09-2020,New York Mets,Washington Nationals,44.64,0.33,0.2,0.4,41.07,0.33,0.2,0.4
-27-09-2020,New York Mets,Washington Nationals,44.07,0.0,0.2,0.3,42.37,0.0,0.2,0.3
+29-07-2020,Toronto Blue Jays,Washington Nationals,60.0,0.33,0.2,nan,20.0,0.0,0.2,nan
+30-07-2020,Toronto Blue Jays,Washington Nationals,50.0,0.33,0.4,nan,33.33,0.0,0.0,nan
+04-08-2020,New York Mets,Washington Nationals,36.36,0.0,0.0,0.2,42.86,0.33,0.2,nan
+05-08-2020,New York Mets,Washington Nationals,33.33,0.33,0.2,0.3,50.0,0.33,0.4,nan
+07-08-2020,Baltimore Orioles,Washington Nationals,41.67,0.0,0.0,0.3,44.44,0.33,0.6,0.4
+08-08-2020,Baltimore Orioles,Washington Nationals,46.15,0.0,0.0,0.3,40.0,0.0,0.4,0.4
+09-08-2020,Baltimore Orioles,Washington Nationals,50.0,0.33,0.2,0.4,36.36,0.0,0.2,0.3
+21-08-2020,Miami Marlins,Washington Nationals,50.0,0.0,0.0,0.2,42.86,0.0,0.2,0.4
+23-08-2020,Miami Marlins,Washington Nationals,52.38,0.0,0.2,0.2,41.67,0.33,0.4,0.4
+24-08-2020,Miami Marlins,Washington Nationals,50.0,0.33,0.4,0.2,44.0,0.0,0.2,0.4
+25-08-2020,Philadelphia Phillies,Washington Nationals,41.67,0.0,0.0,0.3,42.31,0.33,0.4,0.4
+26-08-2020,Philadelphia Phillies,Washington Nationals,44.0,0.33,0.2,0.3,40.74,0.0,0.2,0.4
+07-09-2020,Tampa Bay Rays,Washington Nationals,68.29,0.0,0.4,0.6,35.9,0.33,0.4,0.2
+08-09-2020,Tampa Bay Rays,Washington Nationals,66.67,0.33,0.4,0.6,37.5,0.0,0.4,0.2
+10-09-2020,Atlanta Braves,Washington Nationals,58.14,0.0,0.2,0.4,39.02,0.33,0.4,0.3
+11-09-2020,Atlanta Braves,Washington Nationals,59.09,0.33,0.2,0.4,38.1,0.33,0.4,0.4
+12-09-2020,Atlanta Braves,Washington Nationals,57.78,0.33,0.4,0.4,39.53,0.0,0.4,0.4
+13-09-2020,Atlanta Braves,Washington Nationals,58.7,0.0,0.4,0.3,38.64,0.33,0.4,0.5
+21-09-2020,Philadelphia Phillies,Washington Nationals,50.94,0.33,0.6,0.4,38.46,0.0,0.0,0.2
+23-09-2020,Philadelphia Phillies,Washington Nationals,48.21,0.0,0.0,0.3,41.82,0.33,0.6,0.5
+24-09-2020,New York Mets,Washington Nationals,44.64,0.33,0.2,0.4,41.07,0.33,0.6,0.5
+27-09-2020,New York Mets,Washington Nationals,44.07,0.0,0.2,0.3,42.37,0.33,0.2,0.5

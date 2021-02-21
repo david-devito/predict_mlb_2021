@@ -21,13 +21,12 @@ spcharReplace = {'í':'i',
                  'á':'a'}
 
 
-year = '2020'
+year = '2019'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
-
 if year == '2020': weatherTable = "div_3390179539"
 else: weatherTable = "div_2016723098"
 
@@ -37,11 +36,11 @@ outputHeaders = ['Date','AwayTeam','HomeTeam']
 #outputHeaders.extend(['AwayScore','HomeScore','AwaySP','HomeSP'])
 #outputHeaders.extend(['A_' + str(x) for x in list(range(1,10))])
 #outputHeaders.extend(['H_' + str(x) for x in list(range(1,10))])
-outputHeaders.extend(['A_' + str(x) + '_recwOBA' for x in list(range(1,10))])
-outputHeaders.extend(['H_' + str(x) + '_recwOBA' for x in list(range(1,10))])
-#outputHeaders.extend(['A_SeaWinPct','A_last3WinPct','A_last5WinPct','A_last10WinPct','H_SeaWinPct','H_last3WinPct','H_last5WinPct','H_last10WinPct',])
+#outputHeaders.extend(['A_' + str(x) + '_recwOBA' for x in list(range(1,10))])
+#outputHeaders.extend(['H_' + str(x) + '_recwOBA' for x in list(range(1,10))])
+outputHeaders.extend(['A_SeaWinPct','A_last3WinPct','A_last5WinPct','A_last10WinPct','H_SeaWinPct','H_last3WinPct','H_last5WinPct','H_last10WinPct',])
 #outputHeaders.extend(['temperature','windspeed','precipitation'])
-with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_recwOBA.csv', 'w', newline='') as csvfile:
+with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_winpct.csv', 'w', newline='') as csvfile:
     statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     statswriter.writerow(outputHeaders)
 
@@ -82,7 +81,7 @@ for hometeami in homeTeams:
                 ## RUNS SCORED BY EACH TEAM
                 t_runsScored = [int(x.text) for x in soup.find_all("div", {"class": "score"})]
                 awayScore, homeScore = [t_runsScored[0], t_runsScored[1]]
-                '''
+                
                 ## TEAM WIN PERCENTAGE GOING INTO THE GAME
                 def getWinPct(soup,curTeamScore,oppTeamScore,divNum):
                     WP_calc = soup.find_all("div", {"class": "scorebox"})[0]
@@ -117,11 +116,11 @@ for hometeami in homeTeams:
                 A_last3Record = recentTeamRecord(awayTeamAbb,year,3)
                 A_last5Record = recentTeamRecord(awayTeamAbb,year,5)
                 A_last10Record = recentTeamRecord(awayTeamAbb,year,10)
-                H_last3Record = recentTeamRecord(awayTeamAbb,year,3)
-                H_last5Record = recentTeamRecord(awayTeamAbb,year,5)
-                H_last10Record = recentTeamRecord(awayTeamAbb,year,10)
+                H_last3Record = recentTeamRecord(homeTeamAbb,year,3)
+                H_last5Record = recentTeamRecord(homeTeamAbb,year,5)
+                H_last10Record = recentTeamRecord(homeTeamAbb,year,10)
                 
-                
+                '''
                 ## STARTING LINEUPS
                 def getStarters(num):
                     starters = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + num + '"' in n)
@@ -135,7 +134,7 @@ for hometeami in homeTeams:
                 # Starting Pitchers
                 awaySP = getStarters("div_" + awayTeam.replace(' ','').replace('.','') + "pitching")[0]
                 homeSP = getStarters("div_" + homeTeam.replace(' ','').replace('.','') + "pitching")[0]
-                '''
+                
                 ## GET STARTING PLAYER STATS FROM PREVIOUS N NUMBER OF GAMES
                 numGames = 3
                 awayStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_1"' in n),"lxml").select('#lineups_1')[0].select('a')
@@ -169,7 +168,7 @@ for hometeami in homeTeams:
                                           (1.529*statDict['3B']) + (1.94*statDict['HR'])) / 
                                          (statDict['AB'] + statDict['BB'] - statDict['IBB'] + statDict['SF'] + statDict['HBP'])),3))
                     
-                '''
+                
                 # Replace Special Characters in Names
                 for repi in spcharReplace.keys():
                     awayStarters = [x.replace(repi,spcharReplace[repi]) for x in awayStarters]
@@ -182,11 +181,11 @@ for hometeami in homeTeams:
                 #dataToWrite.extend([awayScore,homeScore,awaySP,homeSP])
                 #dataToWrite.extend(awayStarters[0:9])
                 #dataToWrite.extend(homeStarters[0:9])
-                dataToWrite.extend(recent_wOBA)
-                #dataToWrite.extend([AWP,A_last3Record,A_last5Record,A_last10Record,HWP,H_last3Record,H_last5Record,H_last10Record])
+                #dataToWrite.extend(recent_wOBA)
+                dataToWrite.extend([AWP,A_last3Record,A_last5Record,A_last10Record,HWP,H_last3Record,H_last5Record,H_last10Record])
                 #dataToWrite.extend([temperature,windspeed,precipitation])
                 
-                with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_recwOBA.csv', 'a', newline='') as csvfile:
+                with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_winpct.csv', 'a', newline='') as csvfile:
                     statswriter = csv.writer(csvfile, delimiter=',',
                                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
                     statswriter.writerow(dataToWrite)

@@ -17,7 +17,7 @@ import get_mlb_playerstats
 import assorted_funcs
 import pickle
 from create_kfolds import create_kfolds
-
+from joining_dfs import combine_df
 
 
 #for curBatStati in list(range(6,45)):
@@ -25,22 +25,29 @@ from create_kfolds import create_kfolds
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2015,2020):
-    loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
-    statsDF = pd.concat([statsDF, loadGames], ignore_index=True)
-# Create column containing year each game was played
-statsDF['year'] = statsDF['Date'].apply(lambda x: int(x[-4:]))
-statsDF['month'] = statsDF['Date'].apply(lambda x: int(x[3:5]))
+for yeari in range(2020,2021):
+    curYear_DF = combine_df(yeari)
+    #loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
+    statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
+# Fill NaN's in each numeric column with the column mean
+for coli in statsDF.columns:
+    if (statsDF[coli].dtypes == 'int64') | (statsDF[coli].dtypes == 'float64'):
+        statsDF[coli] = statsDF[coli].fillna(statsDF[coli].mean())
 # Calculate difference in WinPct
-statsDF['WinPct_Diff'] = statsDF.apply(lambda x: x['H_WinPct'] - x['A_WinPct'], axis=1)
+statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
+statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
+statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
+statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
+
 # Convert certain numerical columns to strings when you want them to be treated as categorical
-statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
+#statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
 
 # Create target variable
 statsDF['Winner'] = statsDF.apply(lambda x: 'Away' if x['AwayScore'] > x['HomeScore'] else 'Home', axis=1)
 # Split dataset into stratified k-folds based on target variable
 statsDF = create_kfolds(statsDF,5,'Winner')
 
+'''
 ## LOAD STATISTICS
 # Load Batting Stats
 #print('Loading Batting Stats...')
@@ -49,7 +56,7 @@ batting = dict()
 batStatsCols = [5]
 #batStatsCols.extend([43,44,45,48,56,58,68,71,76,78,79,80,93,104,105])
 batStatsCols.extend([6,7,8,9,10,11,12,13,14,15])
-for yeari in range(2014,2019):
+for yeari in range(2018,2019):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 
 #print('Loading Pitching Stats...')
@@ -57,7 +64,7 @@ pitching = dict()
 #batStatsCols = [5,curBatStati]
 pitchStatsCols = [13]
 pitchStatsCols.extend([46,47,48,49,50,52,59,62,64,76,77,81,83,102,107,123])
-for yeari in range(2014,2019):
+for yeari in range(2018,2019):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 
 #relStatsList = ['+WPA_A_1_prevY','+WPA_A_1_prevY']
@@ -118,6 +125,17 @@ for yeari in ['prevY']:
 #statsDF['H_FB-GB*WS_H'] = (statsDF['FB%_H_avg_prevY'] - statsDF['GB%_H_avg_prevY']) * statsDF['windspeed']
 #statsDF['H_FB-GB*WS_A'] = (statsDF['FB%_A_avg_prevY'] - statsDF['GB%_A_avg_prevY']) * statsDF['windspeed']
 #statsDF = statsDF.drop(['GB%_H_avg_prevY','GB%_A_avg_prevY'],axis=1)
+
+'''
+
+# Recent wOBA Stats
+statsDF['H_recwOBA_1-3'] = statsDF.apply(lambda x: (x['H_1_recwOBA'] + x['H_2_recwOBA'] + x['H_3_recwOBA'])/3, axis=1)
+statsDF['H_recwOBA_4-6'] = statsDF.apply(lambda x: (x['H_4_recwOBA'] + x['H_5_recwOBA'] + x['H_6_recwOBA'])/3, axis=1)
+statsDF['H_recwOBA_7-9'] = statsDF.apply(lambda x: (x['H_7_recwOBA'] + x['H_8_recwOBA'] + x['H_9_recwOBA'])/3, axis=1)
+statsDF['A_recwOBA_1-3'] = statsDF.apply(lambda x: (x['A_1_recwOBA'] + x['A_2_recwOBA'] + x['A_3_recwOBA'])/3, axis=1)
+statsDF['A_recwOBA_4-6'] = statsDF.apply(lambda x: (x['A_4_recwOBA'] + x['A_5_recwOBA'] + x['A_6_recwOBA'])/3, axis=1)
+statsDF['A_recwOBA_7-9'] = statsDF.apply(lambda x: (x['A_7_recwOBA'] + x['A_8_recwOBA'] + x['A_9_recwOBA'])/3, axis=1)
+
 
 
 '''
@@ -180,9 +198,12 @@ labels = np.array(statsDF[labelCol])
 kfolds = np.array(statsDF['kfold'])
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
-useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
-useful_features.extend(['WinPct_Diff','temperature'])#,'HLastGame','ALastGame'])
-useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
+useful_features = ['month']
+#useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
+useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
+useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
+#useful_features.extend(['WinPct_Diff','temperature'])#,'HLastGame','ALastGame'])
+#useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 featuresDF = pd.DataFrame()
 featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=False)
 featuresDF = pd.get_dummies(featuresDF)
@@ -200,7 +221,7 @@ for coli in A_useful_features:
 
 
 pd.set_option('display.max_columns', 500)
-sys.exit()
+#sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
@@ -221,6 +242,7 @@ for curFold in np.unique(statsDF['kfold']):
     # Fit the model
     # Train on all data
     rf = assorted_funcs.random_forest(train_features, train_labels)
+    #rf = assorted_funcs.gbtclassifier(train_features, train_labels)
     
     # Make predictions
     predictions = rf.predict_proba(test_features)

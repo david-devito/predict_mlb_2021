@@ -3,7 +3,7 @@
 
 import numpy as np
 from scipy.stats import ks_2samp
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 
 # Function to check if player name is part of dataframe index
 def isPlayerInDF(df, player):
@@ -77,6 +77,25 @@ def random_forest(
         max_features=max_features,
         max_depth=max_depth,
         bootstrap=bootstrap
+        )
+
+    regr.fit(X_train, y_train)
+    return regr
+
+def gbtclassifier(
+    X_train, 
+    y_train,
+    n_estimators=750,
+    validation_fraction=0.2, 
+    n_iter_no_change=5, 
+    tol=0.01
+    ):
+    # making the RandomForestRegressor paramteres changable for hyperparameter optimization
+    regr = GradientBoostingClassifier(
+        n_estimators = n_estimators, 
+        validation_fraction=validation_fraction, 
+        n_iter_no_change=n_iter_no_change,
+        tol=tol
         )
 
     regr.fit(X_train, y_train)
