@@ -16,6 +16,13 @@ def combine_df(year):
     recwOBA = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recwOBA.csv', sep=',')
     curDF = pd.merge(curDF, recwOBA,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
+    recFIP = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recFIP.csv', sep=',')
+    curDF = pd.merge(curDF, recFIP,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
+    weather = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_weather.csv', sep=',')
+    curDF = pd.merge(curDF, weather,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
+    
     curDF['year'] = curDF['Date'].apply(lambda x: int(x[-4:]))
     curDF['month'] = curDF['Date'].apply(lambda x: int(x[3:5]))
     # Remove playoff games

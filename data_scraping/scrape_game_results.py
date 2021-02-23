@@ -21,9 +21,9 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'recFIP' #lineups, recwOBA, winpct, weather, recFIP
+section = 'weather' #lineups, recwOBA, winpct, weather, recFIP
 
-year = '2020'
+year = '2016'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
@@ -47,7 +47,7 @@ elif section == 'recFIP':
 elif section == 'winpct':
     outputHeaders.extend(['A_SeaWinPct','A_last3WinPct','A_last5WinPct','A_last10WinPct','H_SeaWinPct','H_last3WinPct','H_last5WinPct','H_last10WinPct',])
 elif section == 'weather':
-    outputHeaders.extend(['temperature','windspeed','precipitation'])
+    outputHeaders.extend(['temperature','windSpeed','windDirection','precipitation'])
 with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '.csv', 'w', newline='') as csvfile:
     statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     statswriter.writerow(outputHeaders)
@@ -85,7 +85,9 @@ for hometeami in homeTeams:
                     weather = weather.find_all("div")[-1].text.split(':')[1].split(',')
                     temperature = int(''.join(filter(str.isdigit, weather[0])))
                     windspeed = int(''.join(filter(str.isdigit, weather[1])))
-                    precipitation = weather[2].replace(' ','').replace('.','')
+                    if windspeed == 0: windDirection = 'NoWind'
+                    else: windDirection = ' '.join(weather[1].split(' ')[3:])
+                    precipitation = weather[-1].replace(' ','').replace('.','')
                 
                 ## RUNS SCORED BY EACH TEAM
                 t_runsScored = [int(x.text) for x in soup.find_all("div", {"class": "score"})]
@@ -236,7 +238,7 @@ for hometeami in homeTeams:
                 elif section == 'winpct':
                     dataToWrite.extend([AWP,A_last3Record,A_last5Record,A_last10Record,HWP,H_last3Record,H_last5Record,H_last10Record])
                 elif section == 'weather':
-                    dataToWrite.extend([temperature,windspeed,precipitation])
+                    dataToWrite.extend([temperature,windspeed,windDirection,precipitation])
                 
                 with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '.csv', 'a', newline='') as csvfile:
                     statswriter = csv.writer(csvfile, delimiter=',',

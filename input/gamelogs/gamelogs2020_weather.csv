@@ -1,0 +1,787 @@
+Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
+28-07-2020,Seattle Mariners,Los Angeles Angels,79,8,in unknown direction,NoPrecipitation
+29-07-2020,Seattle Mariners,Los Angeles Angels,77,8,in unknown direction,NoPrecipitation
+30-07-2020,Seattle Mariners,Los Angeles Angels,86,7,out to Centerfield,NoPrecipitation
+31-07-2020,Houston Astros,Los Angeles Angels,92,8,from Right to Left,NoPrecipitation
+01-08-2020,Houston Astros,Los Angeles Angels,84,11,out to Centerfield,NoPrecipitation
+02-08-2020,Houston Astros,Los Angeles Angels,82,10,out to Centerfield,NoPrecipitation
+10-08-2020,Oakland Athletics,Los Angeles Angels,79,9,from Right to Left,NoPrecipitation
+11-08-2020,Oakland Athletics,Los Angeles Angels,83,7,out to Centerfield,NoPrecipitation
+12-08-2020,Oakland Athletics,Los Angeles Angels,86,9,out to Rightfield,NoPrecipitation
+14-08-2020,Los Angeles Dodgers,Los Angeles Angels,93,8,out to Centerfield,NoPrecipitation
+15-08-2020,Los Angeles Dodgers,Los Angeles Angels,88,8,out to Centerfield,NoPrecipitation
+16-08-2020,Los Angeles Dodgers,Los Angeles Angels,93,7,from Right to Left,NoPrecipitation
+17-08-2020,San Francisco Giants,Los Angeles Angels,90,5,in unknown direction,NoPrecipitation
+18-08-2020,San Francisco Giants,Los Angeles Angels,99,9,out to Centerfield,NoPrecipitation
+28-08-2020,Seattle Mariners,Los Angeles Angels,82,10,in unknown direction,NoPrecipitation
+29-08-2020,Seattle Mariners,Los Angeles Angels,75,9,in unknown direction,NoPrecipitation
+30-08-2020,Seattle Mariners,Los Angeles Angels,81,12,out to Rightfield,NoPrecipitation
+31-08-2020,Seattle Mariners,Los Angeles Angels,79,9,from Right to Left,NoPrecipitation
+02-09-2020,San Diego Padres,Los Angeles Angels,79,7,from Right to Left,NoPrecipitation
+03-09-2020,San Diego Padres,Los Angeles Angels,84,7,from Left to Right,NoPrecipitation
+04-09-2020,Houston Astros,Los Angeles Angels,84,6,out to Centerfield,NoPrecipitation
+06-09-2020,Houston Astros,Los Angeles Angels,106,9,from Left to Right,NoPrecipitation
+15-09-2020,Arizona Diamondbacks,Los Angeles Angels,82,7,from Left to Right,NoPrecipitation
+16-09-2020,Arizona Diamondbacks,Los Angeles Angels,87,5,in unknown direction,NoPrecipitation
+17-09-2020,Arizona Diamondbacks,Los Angeles Angels,93,5,out to Centerfield,NoPrecipitation
+18-09-2020,Texas Rangers,Los Angeles Angels,91,7,from Right to Left,NoPrecipitation
+19-09-2020,Texas Rangers,Los Angeles Angels,79,6,out to Rightfield,NoPrecipitation
+20-09-2020,Texas Rangers,Los Angeles Angels,82,8,out to Centerfield,NoPrecipitation
+21-09-2020,Texas Rangers,Los Angeles Angels,81,7,in from Rightfield,NoPrecipitation
+30-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,77,0,NoWind,InDome
+31-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,77,0,NoWind,InDome
+01-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,77,0,NoWind,InDome
+02-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,77,0,NoWind,InDome
+04-08-2020,Houston Astros,Arizona Diamondbacks,77,0,NoWind,InDome
+05-08-2020,Houston Astros,Arizona Diamondbacks,77,0,NoWind,InDome
+06-08-2020,Houston Astros,Arizona Diamondbacks,77,0,NoWind,InDome
+14-08-2020,San Diego Padres,Arizona Diamondbacks,113,13,out to Rightfield,NoPrecipitation
+15-08-2020,San Diego Padres,Arizona Diamondbacks,77,0,NoWind,InDome
+16-08-2020,San Diego Padres,Arizona Diamondbacks,79,0,NoWind,InDome
+17-08-2020,Oakland Athletics,Arizona Diamondbacks,79,0,NoWind,NoPrecipitation
+18-08-2020,Oakland Athletics,Arizona Diamondbacks,78,0,NoWind,InDome
+24-08-2020,Colorado Rockies,Arizona Diamondbacks,113,4,in unknown direction,NoPrecipitation
+25-08-2020,Colorado Rockies,Arizona Diamondbacks,79,0,NoWind,InDome
+26-08-2020,Colorado Rockies,Arizona Diamondbacks,107,6,out to Rightfield,NoPrecipitation
+28-08-2020,San Francisco Giants,Arizona Diamondbacks,108,5,in unknown direction,NoPrecipitation
+29-08-2020,San Francisco Giants,Arizona Diamondbacks,78,0,NoWind,InDome
+30-08-2020,San Francisco Giants,Arizona Diamondbacks,76,0,NoWind,InDome
+08-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,95,19,in unknown direction,NoPrecipitation
+09-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,86,7,out to Centerfield,NoPrecipitation
+10-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,87,5,in unknown direction,NoPrecipitation
+11-09-2020,Seattle Mariners,Arizona Diamondbacks,89,0,NoWind,NoPrecipitation
+12-09-2020,Seattle Mariners,Arizona Diamondbacks,78,0,NoWind,InDome
+13-09-2020,Seattle Mariners,Arizona Diamondbacks,75,0,NoWind,InDome
+22-09-2020,Texas Rangers,Arizona Diamondbacks,100,8,in unknown direction,NoPrecipitation
+23-09-2020,Texas Rangers,Arizona Diamondbacks,78,0,NoWind,InDome
+26-09-2020,Colorado Rockies,Arizona Diamondbacks,76,0,NoWind,InDome
+27-09-2020,Colorado Rockies,Arizona Diamondbacks,75,0,NoWind,InDome
+29-07-2020,Tampa Bay Rays,Atlanta Braves,82,3,from Left to Right,NoPrecipitation
+30-07-2020,Tampa Bay Rays,Atlanta Braves,87,4,from Left to Right,NoPrecipitation
+31-07-2020,New York Mets,Atlanta Braves,89,5,out to Leftfield,NoPrecipitation
+01-08-2020,New York Mets,Atlanta Braves,87,10,out to Rightfield,NoPrecipitation
+02-08-2020,New York Mets,Atlanta Braves,86,4,in unknown direction,NoPrecipitation
+03-08-2020,New York Mets,Atlanta Braves,80,5,out to Centerfield,NoPrecipitation
+04-08-2020,Toronto Blue Jays,Atlanta Braves,86,4,out to Centerfield,NoPrecipitation
+05-08-2020,Toronto Blue Jays,Atlanta Braves,84,4,out to Rightfield,NoPrecipitation
+06-08-2020,Toronto Blue Jays,Atlanta Braves,84,6,from Right to Left,NoPrecipitation
+17-08-2020,Washington Nationals,Atlanta Braves,85,4,out to Leftfield,NoPrecipitation
+18-08-2020,Washington Nationals,Atlanta Braves,86,4,in unknown direction,NoPrecipitation
+21-08-2020,Philadelphia Phillies,Atlanta Braves,70,6,out to Centerfield,NoPrecipitation
+22-08-2020,Philadelphia Phillies,Atlanta Braves,81,7,in from Rightfield,NoPrecipitation
+23-08-2020,Philadelphia Phillies,Atlanta Braves,82,7,in from Centerfield,NoPrecipitation
+05-09-2020,Washington Nationals,Atlanta Braves,83,2,in from Centerfield,NoPrecipitation
+06-09-2020,Washington Nationals,Atlanta Braves,81,2,in from Rightfield,NoPrecipitation
+07-09-2020,Miami Marlins,Atlanta Braves,80,9,out to Leftfield,NoPrecipitation
+08-09-2020,Miami Marlins,Atlanta Braves,83,6,in from Centerfield,NoPrecipitation
+09-09-2020,Miami Marlins,Atlanta Braves,83,2,in from Rightfield,NoPrecipitation
+21-09-2020,Miami Marlins,Atlanta Braves,66,10,from Right to Left,NoPrecipitation
+22-09-2020,Miami Marlins,Atlanta Braves,67,2,in from Leftfield,NoPrecipitation
+23-09-2020,Miami Marlins,Atlanta Braves,72,3,out to Rightfield,NoPrecipitation
+24-09-2020,Miami Marlins,Atlanta Braves,64,5,in from Rightfield,Rain
+25-09-2020,Boston Red Sox,Atlanta Braves,73,1,in unknown direction,NoPrecipitation
+26-09-2020,Boston Red Sox,Atlanta Braves,75,4,from Left to Right,NoPrecipitation
+27-09-2020,Boston Red Sox,Atlanta Braves,82,6,in from Centerfield,NoPrecipitation
+29-07-2020,New York Yankees,Baltimore Orioles,93,3,in from Leftfield,NoPrecipitation
+30-07-2020,New York Yankees,Baltimore Orioles,93,5,out to Rightfield,NoPrecipitation
+31-07-2020,Tampa Bay Rays,Baltimore Orioles,76,4,out to Leftfield,NoPrecipitation
+01-08-2020,Tampa Bay Rays,Baltimore Orioles,85,3,from Right to Left,NoPrecipitation
+02-08-2020,Tampa Bay Rays,Baltimore Orioles,89,9,out to Centerfield,NoPrecipitation
+04-08-2020,Miami Marlins,Baltimore Orioles,83,9,out to Rightfield,NoPrecipitation
+06-08-2020,Miami Marlins,Baltimore Orioles,79,9,out to Leftfield,NoPrecipitation
+14-08-2020,Washington Nationals,Baltimore Orioles,73,2,from Left to Right,NoPrecipitation
+15-08-2020,Washington Nationals,Baltimore Orioles,75,6,out to Leftfield,NoPrecipitation
+16-08-2020,Washington Nationals,Baltimore Orioles,75,11,in from Centerfield,NoPrecipitation
+17-08-2020,Toronto Blue Jays,Baltimore Orioles,78,4,from Right to Left,NoPrecipitation
+18-08-2020,Toronto Blue Jays,Baltimore Orioles,84,3,out to Rightfield,NoPrecipitation
+19-08-2020,Toronto Blue Jays,Baltimore Orioles,78,4,from Left to Right,NoPrecipitation
+20-08-2020,Boston Red Sox,Baltimore Orioles,81,5,from Right to Left,NoPrecipitation
+21-08-2020,Boston Red Sox,Baltimore Orioles,81,6,out to Leftfield,NoPrecipitation
+22-08-2020,Boston Red Sox,Baltimore Orioles,80,4,out to Leftfield,NoPrecipitation
+23-08-2020,Boston Red Sox,Baltimore Orioles,86,4,from Left to Right,NoPrecipitation
+01-09-2020,New York Mets,Baltimore Orioles,78,6,out to Leftfield,NoPrecipitation
+02-09-2020,New York Mets,Baltimore Orioles,87,3,out to Leftfield,NoPrecipitation
+05-09-2020,New York Yankees,Baltimore Orioles,78,5,out to Leftfield,NoPrecipitation
+06-09-2020,New York Yankees,Baltimore Orioles,83,0,NoWind,NoPrecipitation
+14-09-2020,Atlanta Braves,Baltimore Orioles,73,6,in from Leftfield,NoPrecipitation
+15-09-2020,Atlanta Braves,Baltimore Orioles,65,4,out to Leftfield,NoPrecipitation
+16-09-2020,Atlanta Braves,Baltimore Orioles,70,2,from Left to Right,NoPrecipitation
+18-09-2020,Tampa Bay Rays,Baltimore Orioles,71,2,from Right to Left,NoPrecipitation
+19-09-2020,Tampa Bay Rays,Baltimore Orioles,63,4,in from Leftfield,NoPrecipitation
+20-09-2020,Tampa Bay Rays,Baltimore Orioles,65,1,in from Centerfield,NoPrecipitation
+24-07-2020,Baltimore Orioles,Boston Red Sox,76,7,in unknown direction,NoPrecipitation
+25-07-2020,Baltimore Orioles,Boston Red Sox,87,4,in from Rightfield,NoPrecipitation
+26-07-2020,Baltimore Orioles,Boston Red Sox,89,14,in unknown direction,NoPrecipitation
+27-07-2020,New York Mets,Boston Red Sox,92,6,in unknown direction,NoPrecipitation
+28-07-2020,New York Mets,Boston Red Sox,88,12,out to Rightfield,NoPrecipitation
+07-08-2020,Toronto Blue Jays,Boston Red Sox,73,8,in from Rightfield,NoPrecipitation
+08-08-2020,Toronto Blue Jays,Boston Red Sox,75,4,from Right to Left,NoPrecipitation
+09-08-2020,Toronto Blue Jays,Boston Red Sox,87,10,from Left to Right,NoPrecipitation
+10-08-2020,Tampa Bay Rays,Boston Red Sox,91,7,out to Centerfield,NoPrecipitation
+11-08-2020,Tampa Bay Rays,Boston Red Sox,86,10,out to Centerfield,NoPrecipitation
+12-08-2020,Tampa Bay Rays,Boston Red Sox,87,6,out to Rightfield,NoPrecipitation
+13-08-2020,Tampa Bay Rays,Boston Red Sox,80,10,in from Rightfield,NoPrecipitation
+18-08-2020,Philadelphia Phillies,Boston Red Sox,82,8,from Left to Right,NoPrecipitation
+19-08-2020,Philadelphia Phillies,Boston Red Sox,77,6,out to Centerfield,NoPrecipitation
+28-08-2020,Washington Nationals,Boston Red Sox,69,5,out to Rightfield,NoPrecipitation
+29-08-2020,Washington Nationals,Boston Red Sox,78,7,out to Leftfield,NoPrecipitation
+30-08-2020,Washington Nationals,Boston Red Sox,75,17,out to Rightfield,NoPrecipitation
+31-08-2020,Atlanta Braves,Boston Red Sox,73,8,out to Leftfield,NoPrecipitation
+01-09-2020,Atlanta Braves,Boston Red Sox,69,10,out to Rightfield,NoPrecipitation
+02-09-2020,Atlanta Braves,Boston Red Sox,67,10,out to Leftfield,NoPrecipitation
+03-09-2020,Toronto Blue Jays,Boston Red Sox,71,6,from Right to Left,NoPrecipitation
+05-09-2020,Toronto Blue Jays,Boston Red Sox,76,7,out to Rightfield,NoPrecipitation
+06-09-2020,Toronto Blue Jays,Boston Red Sox,77,5,from Left to Right,NoPrecipitation
+18-09-2020,New York Yankees,Boston Red Sox,58,10,in from Centerfield,NoPrecipitation
+19-09-2020,New York Yankees,Boston Red Sox,53,4,from Left to Right,NoPrecipitation
+20-09-2020,New York Yankees,Boston Red Sox,57,15,in unknown direction,NoPrecipitation
+22-09-2020,Baltimore Orioles,Boston Red Sox,63,9,in from Leftfield,NoPrecipitation
+23-09-2020,Baltimore Orioles,Boston Red Sox,72,6,out to Rightfield,NoPrecipitation
+24-09-2020,Baltimore Orioles,Boston Red Sox,73,4,out to Leftfield,NoPrecipitation
+24-07-2020,Minnesota Twins,Chicago White Sox,81,7,from Left to Right,NoPrecipitation
+25-07-2020,Minnesota Twins,Chicago White Sox,86,8,in from Centerfield,NoPrecipitation
+26-07-2020,Minnesota Twins,Chicago White Sox,93,11,from Right to Left,NoPrecipitation
+05-08-2020,Milwaukee Brewers,Chicago White Sox,73,5,from Right to Left,NoPrecipitation
+06-08-2020,Milwaukee Brewers,Chicago White Sox,75,7,in from Centerfield,NoPrecipitation
+07-08-2020,Cleveland Indians,Chicago White Sox,79,9,in from Centerfield,NoPrecipitation
+08-08-2020,Cleveland Indians,Chicago White Sox,83,13,from Right to Left,NoPrecipitation
+09-08-2020,Cleveland Indians,Chicago White Sox,87,7,from Left to Right,NoPrecipitation
+16-08-2020,St. Louis Cardinals,Chicago White Sox,79,6,from Left to Right,NoPrecipitation
+17-08-2020,Detroit Tigers,Chicago White Sox,77,4,in from Centerfield,NoPrecipitation
+18-08-2020,Detroit Tigers,Chicago White Sox,72,12,out to Rightfield,NoPrecipitation
+19-08-2020,Detroit Tigers,Chicago White Sox,73,8,in from Centerfield,NoPrecipitation
+20-08-2020,Detroit Tigers,Chicago White Sox,82,7,from Right to Left,NoPrecipitation
+25-08-2020,Pittsburgh Pirates,Chicago White Sox,86,8,in from Rightfield,NoPrecipitation
+26-08-2020,Pittsburgh Pirates,Chicago White Sox,89,10,out to Leftfield,NoPrecipitation
+28-08-2020,Kansas City Royals,Chicago White Sox,90,12,from Left to Right,NoPrecipitation
+29-08-2020,Kansas City Royals,Chicago White Sox,78,5,out to Centerfield,NoPrecipitation
+30-08-2020,Kansas City Royals,Chicago White Sox,73,7,from Left to Right,NoPrecipitation
+11-09-2020,Detroit Tigers,Chicago White Sox,66,10,in from Leftfield,NoPrecipitation
+12-09-2020,Detroit Tigers,Chicago White Sox,73,4,from Right to Left,NoPrecipitation
+13-09-2020,Detroit Tigers,Chicago White Sox,72,8,out to Centerfield,NoPrecipitation
+14-09-2020,Minnesota Twins,Chicago White Sox,68,7,in from Leftfield,NoPrecipitation
+15-09-2020,Minnesota Twins,Chicago White Sox,77,7,in from Rightfield,NoPrecipitation
+16-09-2020,Minnesota Twins,Chicago White Sox,81,8,out to Leftfield,NoPrecipitation
+17-09-2020,Minnesota Twins,Chicago White Sox,67,17,out to Rightfield,NoPrecipitation
+25-09-2020,Chicago Cubs,Chicago White Sox,74,3,out to Leftfield,NoPrecipitation
+26-09-2020,Chicago Cubs,Chicago White Sox,75,14,from Right to Left,NoPrecipitation
+27-09-2020,Chicago Cubs,Chicago White Sox,77,6,out to Leftfield,NoPrecipitation
+24-07-2020,Milwaukee Brewers,Chicago Cubs,80,8,in from Centerfield,NoPrecipitation
+25-07-2020,Milwaukee Brewers,Chicago Cubs,85,8,in unknown direction,NoPrecipitation
+26-07-2020,Milwaukee Brewers,Chicago Cubs,93,5,in unknown direction,NoPrecipitation
+31-07-2020,Pittsburgh Pirates,Chicago Cubs,73,13,from Right to Left,NoPrecipitation
+01-08-2020,Pittsburgh Pirates,Chicago Cubs,72,3,in from Leftfield,NoPrecipitation
+02-08-2020,Pittsburgh Pirates,Chicago Cubs,79,8,from Right to Left,NoPrecipitation
+03-08-2020,Kansas City Royals,Chicago Cubs,64,16,in from Centerfield,NoPrecipitation
+04-08-2020,Kansas City Royals,Chicago Cubs,67,9,from Right to Left,NoPrecipitation
+13-08-2020,Milwaukee Brewers,Chicago Cubs,79,5,in from Centerfield,NoPrecipitation
+14-08-2020,Milwaukee Brewers,Chicago Cubs,80,5,from Left to Right,NoPrecipitation
+15-08-2020,Milwaukee Brewers,Chicago Cubs,84,9,from Right to Left,NoPrecipitation
+16-08-2020,Milwaukee Brewers,Chicago Cubs,81,10,in from Centerfield,NoPrecipitation
+18-08-2020,St. Louis Cardinals,Chicago Cubs,73,13,in from Centerfield,NoPrecipitation
+21-08-2020,Chicago White Sox,Chicago Cubs,81,2,from Left to Right,NoPrecipitation
+22-08-2020,Chicago White Sox,Chicago Cubs,84,9,out to Centerfield,NoPrecipitation
+23-08-2020,Chicago White Sox,Chicago Cubs,88,8,from Right to Left,NoPrecipitation
+04-09-2020,St. Louis Cardinals,Chicago Cubs,75,9,from Left to Right,NoPrecipitation
+06-09-2020,St. Louis Cardinals,Chicago Cubs,81,17,out to Centerfield,NoPrecipitation
+07-09-2020,St. Louis Cardinals,Chicago Cubs,72,16,in from Centerfield,NoPrecipitation
+08-09-2020,Cincinnati Reds,Chicago Cubs,61,20,in from Leftfield,NoPrecipitation
+09-09-2020,Cincinnati Reds,Chicago Cubs,63,10,from Left to Right,Drizzle
+10-09-2020,Cincinnati Reds,Chicago Cubs,61,10,in from Centerfield,NoPrecipitation
+15-09-2020,Cleveland Indians,Chicago Cubs,75,7,out to Centerfield,NoPrecipitation
+16-09-2020,Cleveland Indians,Chicago Cubs,79,10,in from Rightfield,NoPrecipitation
+18-09-2020,Minnesota Twins,Chicago Cubs,55,8,in from Centerfield,NoPrecipitation
+19-09-2020,Minnesota Twins,Chicago Cubs,61,6,in from Rightfield,NoPrecipitation
+20-09-2020,Minnesota Twins,Chicago Cubs,66,5,from Right to Left,NoPrecipitation
+24-07-2020,Detroit Tigers,Cincinnati Reds,89,6,out to Leftfield,NoPrecipitation
+25-07-2020,Detroit Tigers,Cincinnati Reds,90,6,from Right to Left,NoPrecipitation
+26-07-2020,Detroit Tigers,Cincinnati Reds,90,8,from Right to Left,NoPrecipitation
+27-07-2020,Chicago Cubs,Cincinnati Reds,79,5,from Right to Left,NoPrecipitation
+28-07-2020,Chicago Cubs,Cincinnati Reds,86,9,from Right to Left,NoPrecipitation
+29-07-2020,Chicago Cubs,Cincinnati Reds,91,6,from Right to Left,NoPrecipitation
+03-08-2020,Cleveland Indians,Cincinnati Reds,73,4,out to Leftfield,NoPrecipitation
+04-08-2020,Cleveland Indians,Cincinnati Reds,79,9,out to Leftfield,NoPrecipitation
+11-08-2020,Kansas City Royals,Cincinnati Reds,85,7,in from Rightfield,NoPrecipitation
+12-08-2020,Kansas City Royals,Cincinnati Reds,86,3,in unknown direction,NoPrecipitation
+13-08-2020,Pittsburgh Pirates,Cincinnati Reds,88,4,in unknown direction,NoPrecipitation
+14-08-2020,Pittsburgh Pirates,Cincinnati Reds,81,7,in unknown direction,NoPrecipitation
+28-08-2020,Chicago Cubs,Cincinnati Reds,81,9,in from Rightfield,NoPrecipitation
+30-08-2020,Chicago Cubs,Cincinnati Reds,78,6,from Right to Left,NoPrecipitation
+31-08-2020,St. Louis Cardinals,Cincinnati Reds,81,4,in from Centerfield,NoPrecipitation
+01-09-2020,St. Louis Cardinals,Cincinnati Reds,84,7,from Right to Left,NoPrecipitation
+02-09-2020,St. Louis Cardinals,Cincinnati Reds,82,7,from Right to Left,NoPrecipitation
+15-09-2020,Pittsburgh Pirates,Cincinnati Reds,73,6,from Left to Right,NoPrecipitation
+16-09-2020,Pittsburgh Pirates,Cincinnati Reds,78,5,from Right to Left,NoPrecipitation
+18-09-2020,Chicago White Sox,Cincinnati Reds,65,12,in from Rightfield,NoPrecipitation
+19-09-2020,Chicago White Sox,Cincinnati Reds,66,6,from Left to Right,NoPrecipitation
+20-09-2020,Chicago White Sox,Cincinnati Reds,66,10,from Left to Right,NoPrecipitation
+21-09-2020,Milwaukee Brewers,Cincinnati Reds,70,6,out to Leftfield,NoPrecipitation
+22-09-2020,Milwaukee Brewers,Cincinnati Reds,75,4,in unknown direction,NoPrecipitation
+23-09-2020,Milwaukee Brewers,Cincinnati Reds,73,6,out to Leftfield,NoPrecipitation
+24-07-2020,Kansas City Royals,Cleveland Indians,79,6,in from Centerfield,NoPrecipitation
+25-07-2020,Kansas City Royals,Cleveland Indians,80,7,in from Rightfield,NoPrecipitation
+26-07-2020,Kansas City Royals,Cleveland Indians,83,7,from Left to Right,NoPrecipitation
+29-07-2020,Chicago White Sox,Cleveland Indians,88,16,in from Rightfield,NoPrecipitation
+05-08-2020,Cincinnati Reds,Cleveland Indians,72,5,in from Leftfield,NoPrecipitation
+06-08-2020,Cincinnati Reds,Cleveland Indians,74,15,in from Centerfield,NoPrecipitation
+11-08-2020,Chicago Cubs,Cleveland Indians,81,0,NoWind,NoPrecipitation
+12-08-2020,Chicago Cubs,Cleveland Indians,78,13,in from Leftfield,NoPrecipitation
+21-08-2020,Detroit Tigers,Cleveland Indians,78,6,in from Centerfield,NoPrecipitation
+22-08-2020,Detroit Tigers,Cleveland Indians,81,7,in from Rightfield,NoPrecipitation
+23-08-2020,Detroit Tigers,Cleveland Indians,83,6,in unknown direction,NoPrecipitation
+24-08-2020,Minnesota Twins,Cleveland Indians,84,6,out to Centerfield,NoPrecipitation
+25-08-2020,Minnesota Twins,Cleveland Indians,79,7,in from Centerfield,NoPrecipitation
+26-08-2020,Minnesota Twins,Cleveland Indians,81,7,out to Rightfield,NoPrecipitation
+04-09-2020,Milwaukee Brewers,Cleveland Indians,73,4,out to Rightfield,NoPrecipitation
+05-09-2020,Milwaukee Brewers,Cleveland Indians,79,19,out to Rightfield,NoPrecipitation
+06-09-2020,Milwaukee Brewers,Cleveland Indians,74,7,in from Rightfield,NoPrecipitation
+07-09-2020,Kansas City Royals,Cleveland Indians,67,1,in unknown direction,NoPrecipitation
+08-09-2020,Kansas City Royals,Cleveland Indians,84,5,out to Leftfield,NoPrecipitation
+09-09-2020,Kansas City Royals,Cleveland Indians,73,3,in from Rightfield,NoPrecipitation
+10-09-2020,Kansas City Royals,Cleveland Indians,68,7,in from Centerfield,NoPrecipitation
+21-09-2020,Chicago White Sox,Cleveland Indians,67,5,in unknown direction,NoPrecipitation
+22-09-2020,Chicago White Sox,Cleveland Indians,68,1,in unknown direction,NoPrecipitation
+23-09-2020,Chicago White Sox,Cleveland Indians,73,5,out to Rightfield,NoPrecipitation
+24-09-2020,Chicago White Sox,Cleveland Indians,73,5,in from Centerfield,NoPrecipitation
+25-09-2020,Pittsburgh Pirates,Cleveland Indians,75,6,from Right to Left,NoPrecipitation
+26-09-2020,Pittsburgh Pirates,Cleveland Indians,78,11,out to Centerfield,NoPrecipitation
+27-09-2020,Pittsburgh Pirates,Cleveland Indians,80,13,out to Rightfield,NoPrecipitation
+31-07-2020,San Diego Padres,Colorado Rockies,87,7,in from Centerfield,NoPrecipitation
+01-08-2020,San Diego Padres,Colorado Rockies,81,11,from Right to Left,NoPrecipitation
+02-08-2020,San Diego Padres,Colorado Rockies,77,4,out to Centerfield,NoPrecipitation
+03-08-2020,San Francisco Giants,Colorado Rockies,83,4,out to Centerfield,NoPrecipitation
+04-08-2020,San Francisco Giants,Colorado Rockies,85,7,in from Centerfield,NoPrecipitation
+05-08-2020,San Francisco Giants,Colorado Rockies,81,9,in from Centerfield,NoPrecipitation
+06-08-2020,San Francisco Giants,Colorado Rockies,86,21,in from Centerfield,NoPrecipitation
+10-08-2020,Arizona Diamondbacks,Colorado Rockies,87,6,in from Centerfield,NoPrecipitation
+11-08-2020,Arizona Diamondbacks,Colorado Rockies,91,12,in from Centerfield,NoPrecipitation
+12-08-2020,Arizona Diamondbacks,Colorado Rockies,84,6,in from Centerfield,NoPrecipitation
+14-08-2020,Texas Rangers,Colorado Rockies,88,9,in from Rightfield,NoPrecipitation
+15-08-2020,Texas Rangers,Colorado Rockies,90,5,in from Centerfield,NoPrecipitation
+16-08-2020,Texas Rangers,Colorado Rockies,93,6,out to Leftfield,NoPrecipitation
+19-08-2020,Houston Astros,Colorado Rockies,90,6,in from Leftfield,NoPrecipitation
+20-08-2020,Houston Astros,Colorado Rockies,89,8,out to Leftfield,NoPrecipitation
+28-08-2020,San Diego Padres,Colorado Rockies,69,3,in from Leftfield,NoPrecipitation
+29-08-2020,San Diego Padres,Colorado Rockies,76,15,out to Centerfield,NoPrecipitation
+30-08-2020,San Diego Padres,Colorado Rockies,91,14,in from Leftfield,NoPrecipitation
+31-08-2020,San Diego Padres,Colorado Rockies,73,4,in from Centerfield,NoPrecipitation
+01-09-2020,San Francisco Giants,Colorado Rockies,80,6,in from Rightfield,NoPrecipitation
+02-09-2020,San Francisco Giants,Colorado Rockies,84,7,out to Leftfield,NoPrecipitation
+11-09-2020,Los Angeles Angels,Colorado Rockies,67,6,in from Rightfield,NoPrecipitation
+12-09-2020,Los Angeles Angels,Colorado Rockies,80,5,in from Rightfield,NoPrecipitation
+13-09-2020,Los Angeles Angels,Colorado Rockies,84,7,out to Leftfield,NoPrecipitation
+15-09-2020,Oakland Athletics,Colorado Rockies,84,4,in from Centerfield,NoPrecipitation
+16-09-2020,Oakland Athletics,Colorado Rockies,74,6,in from Centerfield,NoPrecipitation
+17-09-2020,Los Angeles Dodgers,Colorado Rockies,82,6,in from Centerfield,NoPrecipitation
+18-09-2020,Los Angeles Dodgers,Colorado Rockies,79,10,out to Rightfield,NoPrecipitation
+19-09-2020,Los Angeles Dodgers,Colorado Rockies,84,6,out to Rightfield,NoPrecipitation
+20-09-2020,Los Angeles Dodgers,Colorado Rockies,81,3,out to Leftfield,NoPrecipitation
+27-07-2020,Kansas City Royals,Detroit Tigers,84,10,from Left to Right,NoPrecipitation
+28-07-2020,Kansas City Royals,Detroit Tigers,85,15,out to Leftfield,NoPrecipitation
+29-07-2020,Kansas City Royals,Detroit Tigers,85,8,out to Leftfield,NoPrecipitation
+30-07-2020,Kansas City Royals,Detroit Tigers,79,5,from Right to Left,NoPrecipitation
+31-07-2020,Cincinnati Reds,Detroit Tigers,81,9,in from Leftfield,NoPrecipitation
+10-08-2020,Chicago White Sox,Detroit Tigers,87,12,in from Rightfield,NoPrecipitation
+11-08-2020,Chicago White Sox,Detroit Tigers,84,8,out to Leftfield,NoPrecipitation
+12-08-2020,Chicago White Sox,Detroit Tigers,82,3,from Left to Right,NoPrecipitation
+14-08-2020,Cleveland Indians,Detroit Tigers,81,12,from Left to Right,NoPrecipitation
+15-08-2020,Cleveland Indians,Detroit Tigers,86,7,in from Leftfield,NoPrecipitation
+16-08-2020,Cleveland Indians,Detroit Tigers,74,7,in from Leftfield,NoPrecipitation
+24-08-2020,Chicago Cubs,Detroit Tigers,88,9,from Right to Left,NoPrecipitation
+25-08-2020,Chicago Cubs,Detroit Tigers,84,7,from Left to Right,NoPrecipitation
+26-08-2020,Chicago Cubs,Detroit Tigers,82,4,from Right to Left,NoPrecipitation
+30-08-2020,Minnesota Twins,Detroit Tigers,71,6,out to Rightfield,NoPrecipitation
+08-09-2020,Milwaukee Brewers,Detroit Tigers,63,10,out to Rightfield,NoPrecipitation
+09-09-2020,Milwaukee Brewers,Detroit Tigers,66,5,out to Rightfield,NoPrecipitation
+15-09-2020,Kansas City Royals,Detroit Tigers,67,11,from Right to Left,NoPrecipitation
+16-09-2020,Kansas City Royals,Detroit Tigers,75,10,from Right to Left,NoPrecipitation
+17-09-2020,Cleveland Indians,Detroit Tigers,66,10,out to Rightfield,NoPrecipitation
+18-09-2020,Cleveland Indians,Detroit Tigers,58,12,out to Rightfield,NoPrecipitation
+19-09-2020,Cleveland Indians,Detroit Tigers,61,4,in unknown direction,NoPrecipitation
+20-09-2020,Cleveland Indians,Detroit Tigers,64,9,from Left to Right,NoPrecipitation
+24-07-2020,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+25-07-2020,Seattle Mariners,Houston Astros,74,0,NoWind,InDome
+26-07-2020,Seattle Mariners,Houston Astros,74,0,NoWind,InDome
+27-07-2020,Seattle Mariners,Houston Astros,74,0,NoWind,InDome
+28-07-2020,Los Angeles Dodgers,Houston Astros,81,4,out to Centerfield,InDome
+29-07-2020,Los Angeles Dodgers,Houston Astros,74,0,NoWind,InDome
+10-08-2020,San Francisco Giants,Houston Astros,78,0,NoWind,InDome
+11-08-2020,San Francisco Giants,Houston Astros,79,0,NoWind,InDome
+12-08-2020,San Francisco Giants,Houston Astros,78,1,in unknown direction,InDome
+14-08-2020,Seattle Mariners,Houston Astros,75,0,NoWind,InDome
+15-08-2020,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+16-08-2020,Seattle Mariners,Houston Astros,72,0,NoWind,InDome
+17-08-2020,Colorado Rockies,Houston Astros,74,0,NoWind,InDome
+18-08-2020,Colorado Rockies,Houston Astros,73,0,NoWind,InDome
+24-08-2020,Los Angeles Angels,Houston Astros,77,0,NoWind,InDome
+01-09-2020,Texas Rangers,Houston Astros,76,0,NoWind,InDome
+02-09-2020,Texas Rangers,Houston Astros,75,0,NoWind,InDome
+03-09-2020,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+15-09-2020,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+16-09-2020,Texas Rangers,Houston Astros,75,0,NoWind,InDome
+17-09-2020,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+18-09-2020,Arizona Diamondbacks,Houston Astros,75,0,NoWind,InDome
+19-09-2020,Arizona Diamondbacks,Houston Astros,73,0,NoWind,InDome
+20-09-2020,Arizona Diamondbacks,Houston Astros,73,0,NoWind,InDome
+31-07-2020,Chicago White Sox,Kansas City Royals,75,8,in from Leftfield,NoPrecipitation
+01-08-2020,Chicago White Sox,Kansas City Royals,81,8,from Left to Right,NoPrecipitation
+02-08-2020,Chicago White Sox,Kansas City Royals,76,9,from Left to Right,NoPrecipitation
+05-08-2020,Chicago Cubs,Kansas City Royals,78,9,from Right to Left,NoPrecipitation
+06-08-2020,Chicago Cubs,Kansas City Royals,84,10,from Right to Left,NoPrecipitation
+07-08-2020,Minnesota Twins,Kansas City Royals,84,10,from Right to Left,NoPrecipitation
+08-08-2020,Minnesota Twins,Kansas City Royals,81,10,from Right to Left,NoPrecipitation
+09-08-2020,Minnesota Twins,Kansas City Royals,79,13,from Right to Left,NoPrecipitation
+21-08-2020,Minnesota Twins,Kansas City Royals,87,8,from Right to Left,NoPrecipitation
+22-08-2020,Minnesota Twins,Kansas City Royals,91,8,from Right to Left,NoPrecipitation
+23-08-2020,Minnesota Twins,Kansas City Royals,84,9,out to Rightfield,NoPrecipitation
+31-08-2020,Cleveland Indians,Kansas City Royals,77,9,in from Rightfield,NoPrecipitation
+01-09-2020,Cleveland Indians,Kansas City Royals,81,6,from Left to Right,NoPrecipitation
+02-09-2020,Cleveland Indians,Kansas City Royals,81,5,from Left to Right,NoPrecipitation
+03-09-2020,Chicago White Sox,Kansas City Royals,79,11,in from Leftfield,NoPrecipitation
+04-09-2020,Chicago White Sox,Kansas City Royals,80,6,from Right to Left,NoPrecipitation
+05-09-2020,Chicago White Sox,Kansas City Royals,91,7,out to Centerfield,NoPrecipitation
+06-09-2020,Chicago White Sox,Kansas City Royals,89,15,in unknown direction,NoPrecipitation
+11-09-2020,Pittsburgh Pirates,Kansas City Royals,63,1,out to Centerfield,NoPrecipitation
+12-09-2020,Pittsburgh Pirates,Kansas City Royals,77,9,out to Rightfield,NoPrecipitation
+13-09-2020,Pittsburgh Pirates,Kansas City Royals,64,3,in unknown direction,NoPrecipitation
+21-09-2020,St. Louis Cardinals,Kansas City Royals,73,7,from Right to Left,NoPrecipitation
+22-09-2020,St. Louis Cardinals,Kansas City Royals,72,9,from Right to Left,NoPrecipitation
+23-09-2020,St. Louis Cardinals,Kansas City Royals,73,7,out to Leftfield,NoPrecipitation
+24-09-2020,Detroit Tigers,Kansas City Royals,77,7,out to Leftfield,NoPrecipitation
+25-09-2020,Detroit Tigers,Kansas City Royals,82,10,from Right to Left,NoPrecipitation
+26-09-2020,Detroit Tigers,Kansas City Royals,85,16,out to Centerfield,NoPrecipitation
+27-09-2020,Detroit Tigers,Kansas City Royals,69,6,in from Rightfield,NoPrecipitation
+23-07-2020,San Francisco Giants,Los Angeles Dodgers,70,8,out to Centerfield,NoPrecipitation
+24-07-2020,San Francisco Giants,Los Angeles Dodgers,72,8,out to Centerfield,NoPrecipitation
+25-07-2020,San Francisco Giants,Los Angeles Dodgers,81,6,from Left to Right,NoPrecipitation
+26-07-2020,San Francisco Giants,Los Angeles Dodgers,72,6,out to Rightfield,NoPrecipitation
+07-08-2020,San Francisco Giants,Los Angeles Dodgers,75,6,in unknown direction,NoPrecipitation
+08-08-2020,San Francisco Giants,Los Angeles Dodgers,76,8,in unknown direction,NoPrecipitation
+09-08-2020,San Francisco Giants,Los Angeles Dodgers,82,4,out to Rightfield,NoPrecipitation
+10-08-2020,San Diego Padres,Los Angeles Dodgers,72,10,out to Centerfield,NoPrecipitation
+11-08-2020,San Diego Padres,Los Angeles Dodgers,75,5,in unknown direction,NoPrecipitation
+12-08-2020,San Diego Padres,Los Angeles Dodgers,79,5,in unknown direction,NoPrecipitation
+13-08-2020,San Diego Padres,Los Angeles Dodgers,84,6,out to Centerfield,NoPrecipitation
+17-08-2020,Seattle Mariners,Los Angeles Dodgers,84,1,in unknown direction,NoPrecipitation
+18-08-2020,Seattle Mariners,Los Angeles Dodgers,102,3,out to Centerfield,NoPrecipitation
+21-08-2020,Colorado Rockies,Los Angeles Dodgers,88,3,in unknown direction,NoPrecipitation
+22-08-2020,Colorado Rockies,Los Angeles Dodgers,89,8,from Left to Right,NoPrecipitation
+23-08-2020,Colorado Rockies,Los Angeles Dodgers,91,5,out to Centerfield,NoPrecipitation
+01-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,71,7,out to Centerfield,NoPrecipitation
+02-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,73,6,in unknown direction,NoPrecipitation
+03-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,75,7,out to Centerfield,NoPrecipitation
+04-09-2020,Colorado Rockies,Los Angeles Dodgers,80,7,out to Centerfield,NoPrecipitation
+05-09-2020,Colorado Rockies,Los Angeles Dodgers,101,5,from Left to Right,NoPrecipitation
+06-09-2020,Colorado Rockies,Los Angeles Dodgers,93,1,in unknown direction,NoPrecipitation
+12-09-2020,Houston Astros,Los Angeles Dodgers,79,6,out to Centerfield,NoPrecipitation
+13-09-2020,Houston Astros,Los Angeles Dodgers,80,5,from Left to Right,NoPrecipitation
+22-09-2020,Oakland Athletics,Los Angeles Dodgers,73,6,out to Rightfield,NoPrecipitation
+23-09-2020,Oakland Athletics,Los Angeles Dodgers,76,5,from Left to Right,NoPrecipitation
+24-09-2020,Oakland Athletics,Los Angeles Dodgers,77,6,out to Centerfield,NoPrecipitation
+25-09-2020,Los Angeles Angels,Los Angeles Dodgers,75,4,out to Rightfield,NoPrecipitation
+26-09-2020,Los Angeles Angels,Los Angeles Dodgers,73,6,out to Rightfield,NoPrecipitation
+27-09-2020,Los Angeles Angels,Los Angeles Dodgers,79,2,out to Centerfield,NoPrecipitation
+14-08-2020,Atlanta Braves,Miami Marlins,76,0,NoWind,InDome
+15-08-2020,Atlanta Braves,Miami Marlins,78,0,NoWind,InDome
+16-08-2020,Atlanta Braves,Miami Marlins,76,0,NoWind,InDome
+17-08-2020,New York Mets,Miami Marlins,76,0,NoWind,InDome
+18-08-2020,New York Mets,Miami Marlins,70,0,NoWind,InDome
+19-08-2020,New York Mets,Miami Marlins,77,0,NoWind,InDome
+28-08-2020,Tampa Bay Rays,Miami Marlins,73,0,NoWind,InDome
+29-08-2020,Tampa Bay Rays,Miami Marlins,73,0,NoWind,InDome
+30-08-2020,Tampa Bay Rays,Miami Marlins,73,0,NoWind,InDome
+01-09-2020,Toronto Blue Jays,Miami Marlins,75,0,NoWind,InDome
+02-09-2020,Toronto Blue Jays,Miami Marlins,75,0,NoWind,InDome
+10-09-2020,Philadelphia Phillies,Miami Marlins,74,0,NoWind,InDome
+12-09-2020,Philadelphia Phillies,Miami Marlins,77,0,NoWind,InDome
+14-09-2020,Philadelphia Phillies,Miami Marlins,74,0,NoWind,InDome
+15-09-2020,Boston Red Sox,Miami Marlins,75,0,NoWind,InDome
+16-09-2020,Boston Red Sox,Miami Marlins,72,0,NoWind,InDome
+17-09-2020,Boston Red Sox,Miami Marlins,74,0,NoWind,InDome
+19-09-2020,Washington Nationals,Miami Marlins,74,0,NoWind,InDome
+03-08-2020,Chicago White Sox,Milwaukee Brewers,65,0,NoWind,InDome
+04-08-2020,Chicago White Sox,Milwaukee Brewers,68,0,NoWind,InDome
+07-08-2020,Cincinnati Reds,Milwaukee Brewers,77,3,out to Rightfield,NoPrecipitation
+08-08-2020,Cincinnati Reds,Milwaukee Brewers,72,0,NoWind,InDome
+09-08-2020,Cincinnati Reds,Milwaukee Brewers,86,4,out to Leftfield,NoPrecipitation
+10-08-2020,Minnesota Twins,Milwaukee Brewers,73,3,in from Rightfield,NoPrecipitation
+11-08-2020,Minnesota Twins,Milwaukee Brewers,78,4,in unknown direction,NoPrecipitation
+12-08-2020,Minnesota Twins,Milwaukee Brewers,81,7,in from Centerfield,NoPrecipitation
+24-08-2020,Cincinnati Reds,Milwaukee Brewers,89,3,out to Leftfield,NoPrecipitation
+25-08-2020,Cincinnati Reds,Milwaukee Brewers,78,0,NoWind,InDome
+28-08-2020,Pittsburgh Pirates,Milwaukee Brewers,77,0,NoWind,InDome
+29-08-2020,Pittsburgh Pirates,Milwaukee Brewers,74,11,in unknown direction,NoPrecipitation
+30-08-2020,Pittsburgh Pirates,Milwaukee Brewers,71,3,in unknown direction,NoPrecipitation
+31-08-2020,Pittsburgh Pirates,Milwaukee Brewers,72,0,NoWind,InDome
+01-09-2020,Detroit Tigers,Milwaukee Brewers,68,0,NoWind,InDome
+02-09-2020,Detroit Tigers,Milwaukee Brewers,81,13,from Right to Left,NoPrecipitation
+11-09-2020,Chicago Cubs,Milwaukee Brewers,64,0,NoWind,InDome
+12-09-2020,Chicago Cubs,Milwaukee Brewers,68,0,NoWind,InDome
+13-09-2020,Chicago Cubs,Milwaukee Brewers,65,0,NoWind,InDome
+15-09-2020,St. Louis Cardinals,Milwaukee Brewers,75,0,NoWind,InDome
+18-09-2020,Kansas City Royals,Milwaukee Brewers,74,0,NoWind,InDome
+19-09-2020,Kansas City Royals,Milwaukee Brewers,71,0,NoWind,InDome
+20-09-2020,Kansas City Royals,Milwaukee Brewers,69,0,NoWind,InDome
+28-07-2020,St. Louis Cardinals,Minnesota Twins,82,9,out to Rightfield,NoPrecipitation
+29-07-2020,St. Louis Cardinals,Minnesota Twins,80,9,from Left to Right,NoPrecipitation
+30-07-2020,Cleveland Indians,Minnesota Twins,80,8,from Left to Right,NoPrecipitation
+31-07-2020,Cleveland Indians,Minnesota Twins,82,5,in from Rightfield,NoPrecipitation
+01-08-2020,Cleveland Indians,Minnesota Twins,76,10,out to Rightfield,NoPrecipitation
+02-08-2020,Cleveland Indians,Minnesota Twins,69,13,in from Leftfield,NoPrecipitation
+03-08-2020,Pittsburgh Pirates,Minnesota Twins,71,10,in from Leftfield,NoPrecipitation
+04-08-2020,Pittsburgh Pirates,Minnesota Twins,73,6,from Left to Right,NoPrecipitation
+16-08-2020,Kansas City Royals,Minnesota Twins,79,7,from Right to Left,NoPrecipitation
+17-08-2020,Kansas City Royals,Minnesota Twins,76,9,from Left to Right,NoPrecipitation
+18-08-2020,Milwaukee Brewers,Minnesota Twins,78,5,in unknown direction,NoPrecipitation
+19-08-2020,Milwaukee Brewers,Minnesota Twins,79,7,in from Centerfield,NoPrecipitation
+20-08-2020,Milwaukee Brewers,Minnesota Twins,82,14,from Right to Left,NoPrecipitation
+31-08-2020,Chicago White Sox,Minnesota Twins,69,7,out to Centerfield,NoPrecipitation
+01-09-2020,Chicago White Sox,Minnesota Twins,70,12,from Right to Left,NoPrecipitation
+02-09-2020,Chicago White Sox,Minnesota Twins,79,8,out to Leftfield,NoPrecipitation
+05-09-2020,Detroit Tigers,Minnesota Twins,77,6,out to Rightfield,NoPrecipitation
+06-09-2020,Detroit Tigers,Minnesota Twins,77,15,from Right to Left,NoPrecipitation
+07-09-2020,Detroit Tigers,Minnesota Twins,58,10,from Left to Right,NoPrecipitation
+11-09-2020,Cleveland Indians,Minnesota Twins,55,9,from Left to Right,Rain
+12-09-2020,Cleveland Indians,Minnesota Twins,63,7,out to Centerfield,NoPrecipitation
+13-09-2020,Cleveland Indians,Minnesota Twins,72,2,in unknown direction,NoPrecipitation
+22-09-2020,Detroit Tigers,Minnesota Twins,81,8,out to Leftfield,NoPrecipitation
+23-09-2020,Detroit Tigers,Minnesota Twins,79,4,in unknown direction,NoPrecipitation
+25-09-2020,Cincinnati Reds,Minnesota Twins,75,8,from Left to Right,NoPrecipitation
+26-09-2020,Cincinnati Reds,Minnesota Twins,69,5,in from Centerfield,NoPrecipitation
+27-09-2020,Cincinnati Reds,Minnesota Twins,64,15,out to Rightfield,NoPrecipitation
+31-07-2020,Boston Red Sox,New York Yankees,79,4,in unknown direction,NoPrecipitation
+01-08-2020,Boston Red Sox,New York Yankees,83,10,in unknown direction,NoPrecipitation
+02-08-2020,Boston Red Sox,New York Yankees,88,15,from Right to Left,NoPrecipitation
+03-08-2020,Philadelphia Phillies,New York Yankees,86,8,out to Rightfield,NoPrecipitation
+11-08-2020,Atlanta Braves,New York Yankees,87,7,from Left to Right,NoPrecipitation
+12-08-2020,Atlanta Braves,New York Yankees,79,1,in unknown direction,NoPrecipitation
+14-08-2020,Boston Red Sox,New York Yankees,82,8,in from Leftfield,NoPrecipitation
+15-08-2020,Boston Red Sox,New York Yankees,76,14,out to Leftfield,NoPrecipitation
+16-08-2020,Boston Red Sox,New York Yankees,70,12,in from Leftfield,NoPrecipitation
+17-08-2020,Boston Red Sox,New York Yankees,74,11,from Right to Left,NoPrecipitation
+18-08-2020,Tampa Bay Rays,New York Yankees,83,9,out to Centerfield,NoPrecipitation
+19-08-2020,Tampa Bay Rays,New York Yankees,74,3,in unknown direction,NoPrecipitation
+20-08-2020,Tampa Bay Rays,New York Yankees,77,7,from Left to Right,NoPrecipitation
+29-08-2020,New York Mets,New York Yankees,75,11,out to Leftfield,NoPrecipitation
+31-08-2020,Tampa Bay Rays,New York Yankees,73,6,from Left to Right,NoPrecipitation
+01-09-2020,Tampa Bay Rays,New York Yankees,75,11,from Left to Right,NoPrecipitation
+02-09-2020,Tampa Bay Rays,New York Yankees,79,9,out to Leftfield,NoPrecipitation
+12-09-2020,Baltimore Orioles,New York Yankees,70,10,in from Leftfield,NoPrecipitation
+13-09-2020,Baltimore Orioles,New York Yankees,75,12,out to Leftfield,NoPrecipitation
+15-09-2020,Toronto Blue Jays,New York Yankees,64,5,out to Leftfield,NoPrecipitation
+16-09-2020,Toronto Blue Jays,New York Yankees,69,7,out to Leftfield,NoPrecipitation
+17-09-2020,Toronto Blue Jays,New York Yankees,72,8,out to Leftfield,NoPrecipitation
+25-09-2020,Miami Marlins,New York Yankees,70,7,out to Leftfield,NoPrecipitation
+26-09-2020,Miami Marlins,New York Yankees,73,9,from Left to Right,NoPrecipitation
+27-09-2020,Miami Marlins,New York Yankees,77,8,in from Rightfield,NoPrecipitation
+24-07-2020,Atlanta Braves,New York Mets,81,10,out to Rightfield,NoPrecipitation
+25-07-2020,Atlanta Braves,New York Mets,89,10,out to Centerfield,NoPrecipitation
+26-07-2020,Atlanta Braves,New York Mets,91,12,out to Rightfield,NoPrecipitation
+29-07-2020,Boston Red Sox,New York Mets,84,13,in from Leftfield,NoPrecipitation
+30-07-2020,Boston Red Sox,New York Mets,86,6,from Left to Right,NoPrecipitation
+07-08-2020,Miami Marlins,New York Mets,77,9,in unknown direction,NoPrecipitation
+08-08-2020,Miami Marlins,New York Mets,80,9,in from Rightfield,NoPrecipitation
+09-08-2020,Miami Marlins,New York Mets,85,6,in unknown direction,NoPrecipitation
+10-08-2020,Washington Nationals,New York Mets,84,12,in from Rightfield,NoPrecipitation
+11-08-2020,Washington Nationals,New York Mets,83,7,out to Rightfield,NoPrecipitation
+12-08-2020,Washington Nationals,New York Mets,83,4,out to Leftfield,NoPrecipitation
+13-08-2020,Washington Nationals,New York Mets,79,6,in from Rightfield,NoPrecipitation
+26-08-2020,Miami Marlins,New York Mets,76,13,in from Leftfield,NoPrecipitation
+31-08-2020,Miami Marlins,New York Mets,73,6,in from Leftfield,NoPrecipitation
+03-09-2020,New York Yankees,New York Mets,88,7,in from Leftfield,NoPrecipitation
+04-09-2020,Philadelphia Phillies,New York Mets,82,7,in from Leftfield,NoPrecipitation
+05-09-2020,Philadelphia Phillies,New York Mets,77,11,in from Rightfield,NoPrecipitation
+06-09-2020,Philadelphia Phillies,New York Mets,82,5,from Left to Right,NoPrecipitation
+07-09-2020,Philadelphia Phillies,New York Mets,80,13,in from Leftfield,NoPrecipitation
+08-09-2020,Baltimore Orioles,New York Mets,77,9,from Right to Left,NoPrecipitation
+09-09-2020,Baltimore Orioles,New York Mets,79,9,out to Centerfield,NoPrecipitation
+18-09-2020,Atlanta Braves,New York Mets,68,16,in from Leftfield,NoPrecipitation
+19-09-2020,Atlanta Braves,New York Mets,62,10,in from Leftfield,NoPrecipitation
+20-09-2020,Atlanta Braves,New York Mets,60,14,in from Leftfield,NoPrecipitation
+21-09-2020,Tampa Bay Rays,New York Mets,62,7,out to Centerfield,NoPrecipitation
+22-09-2020,Tampa Bay Rays,New York Mets,69,11,out to Centerfield,NoPrecipitation
+23-09-2020,Tampa Bay Rays,New York Mets,76,8,out to Leftfield,NoPrecipitation
+24-07-2020,Los Angeles Angels,Oakland Athletics,63,13,in unknown direction,NoPrecipitation
+25-07-2020,Los Angeles Angels,Oakland Athletics,75,12,out to Rightfield,NoPrecipitation
+26-07-2020,Los Angeles Angels,Oakland Athletics,73,7,out to Rightfield,NoPrecipitation
+27-07-2020,Los Angeles Angels,Oakland Athletics,68,10,in unknown direction,NoPrecipitation
+28-07-2020,Colorado Rockies,Oakland Athletics,67,9,in unknown direction,NoPrecipitation
+29-07-2020,Colorado Rockies,Oakland Athletics,70,9,from Left to Right,NoPrecipitation
+04-08-2020,Texas Rangers,Oakland Athletics,63,12,from Left to Right,NoPrecipitation
+05-08-2020,Texas Rangers,Oakland Athletics,63,5,in unknown direction,NoPrecipitation
+06-08-2020,Texas Rangers,Oakland Athletics,70,11,out to Rightfield,NoPrecipitation
+07-08-2020,Houston Astros,Oakland Athletics,70,13,in unknown direction,NoPrecipitation
+08-08-2020,Houston Astros,Oakland Athletics,75,4,in unknown direction,NoPrecipitation
+09-08-2020,Houston Astros,Oakland Athletics,79,12,from Left to Right,NoPrecipitation
+19-08-2020,Arizona Diamondbacks,Oakland Athletics,79,14,in unknown direction,NoPrecipitation
+20-08-2020,Arizona Diamondbacks,Oakland Athletics,73,12,in unknown direction,NoPrecipitation
+21-08-2020,Los Angeles Angels,Oakland Athletics,77,14,from Left to Right,NoPrecipitation
+22-08-2020,Los Angeles Angels,Oakland Athletics,80,10,from Left to Right,NoPrecipitation
+23-08-2020,Los Angeles Angels,Oakland Athletics,70,12,from Left to Right,NoPrecipitation
+04-09-2020,San Diego Padres,Oakland Athletics,72,9,from Left to Right,NoPrecipitation
+05-09-2020,San Diego Padres,Oakland Athletics,81,8,from Left to Right,NoPrecipitation
+06-09-2020,San Diego Padres,Oakland Athletics,94,7,from Left to Right,NoPrecipitation
+07-09-2020,Houston Astros,Oakland Athletics,86,12,out to Centerfield,NoPrecipitation
+09-09-2020,Houston Astros,Oakland Athletics,60,6,in from Leftfield,NoPrecipitation
+10-09-2020,Houston Astros,Oakland Athletics,66,2,out to Rightfield,NoPrecipitation
+18-09-2020,San Francisco Giants,Oakland Athletics,70,14,out to Rightfield,NoPrecipitation
+19-09-2020,San Francisco Giants,Oakland Athletics,72,7,out to Rightfield,NoPrecipitation
+20-09-2020,San Francisco Giants,Oakland Athletics,82,3,in unknown direction,NoPrecipitation
+25-09-2020,Seattle Mariners,Oakland Athletics,70,7,out to Rightfield,NoPrecipitation
+27-09-2020,Seattle Mariners,Oakland Athletics,81,5,in from Centerfield,NoPrecipitation
+24-07-2020,Miami Marlins,Philadelphia Phillies,75,7,out to Centerfield,NoPrecipitation
+25-07-2020,Miami Marlins,Philadelphia Phillies,86,6,out to Centerfield,NoPrecipitation
+26-07-2020,Miami Marlins,Philadelphia Phillies,90,9,out to Centerfield,NoPrecipitation
+06-08-2020,New York Yankees,Philadelphia Phillies,81,7,in from Rightfield,NoPrecipitation
+08-08-2020,Atlanta Braves,Philadelphia Phillies,84,2,in unknown direction,NoPrecipitation
+10-08-2020,Atlanta Braves,Philadelphia Phillies,90,8,out to Rightfield,NoPrecipitation
+11-08-2020,Baltimore Orioles,Philadelphia Phillies,88,10,out to Rightfield,NoPrecipitation
+12-08-2020,Baltimore Orioles,Philadelphia Phillies,74,4,out to Centerfield,NoPrecipitation
+13-08-2020,Baltimore Orioles,Philadelphia Phillies,77,5,from Right to Left,NoPrecipitation
+14-08-2020,New York Mets,Philadelphia Phillies,84,11,out to Rightfield,NoPrecipitation
+15-08-2020,New York Mets,Philadelphia Phillies,79,4,from Right to Left,NoPrecipitation
+16-08-2020,New York Mets,Philadelphia Phillies,70,11,in from Rightfield,NoPrecipitation
+28-08-2020,Atlanta Braves,Philadelphia Phillies,72,5,out to Rightfield,Rain
+29-08-2020,Atlanta Braves,Philadelphia Phillies,75,9,out to Rightfield,NoPrecipitation
+30-08-2020,Atlanta Braves,Philadelphia Phillies,77,10,out to Rightfield,NoPrecipitation
+31-08-2020,Washington Nationals,Philadelphia Phillies,71,5,out to Centerfield,NoPrecipitation
+01-09-2020,Washington Nationals,Philadelphia Phillies,76,4,out to Leftfield,NoPrecipitation
+02-09-2020,Washington Nationals,Philadelphia Phillies,83,8,out to Centerfield,NoPrecipitation
+03-09-2020,Washington Nationals,Philadelphia Phillies,90,9,out to Rightfield,NoPrecipitation
+15-09-2020,New York Mets,Philadelphia Phillies,64,2,in unknown direction,NoPrecipitation
+16-09-2020,New York Mets,Philadelphia Phillies,70,7,out to Centerfield,NoPrecipitation
+17-09-2020,New York Mets,Philadelphia Phillies,73,3,in from Rightfield,NoPrecipitation
+19-09-2020,Toronto Blue Jays,Philadelphia Phillies,63,9,from Right to Left,NoPrecipitation
+20-09-2020,Toronto Blue Jays,Philadelphia Phillies,65,12,in from Rightfield,NoPrecipitation
+27-07-2020,Milwaukee Brewers,Pittsburgh Pirates,91,13,out to Centerfield,Rain
+28-07-2020,Milwaukee Brewers,Pittsburgh Pirates,84,4,in unknown direction,NoPrecipitation
+29-07-2020,Milwaukee Brewers,Pittsburgh Pirates,89,10,out to Centerfield,NoPrecipitation
+05-08-2020,Minnesota Twins,Pittsburgh Pirates,79,5,out to Centerfield,NoPrecipitation
+06-08-2020,Minnesota Twins,Pittsburgh Pirates,82,3,from Left to Right,NoPrecipitation
+07-08-2020,Detroit Tigers,Pittsburgh Pirates,82,8,out to Centerfield,NoPrecipitation
+08-08-2020,Detroit Tigers,Pittsburgh Pirates,85,6,out to Rightfield,NoPrecipitation
+09-08-2020,Detroit Tigers,Pittsburgh Pirates,87,5,in unknown direction,NoPrecipitation
+18-08-2020,Cleveland Indians,Pittsburgh Pirates,79,11,out to Centerfield,NoPrecipitation
+19-08-2020,Cleveland Indians,Pittsburgh Pirates,76,8,out to Rightfield,NoPrecipitation
+20-08-2020,Cleveland Indians,Pittsburgh Pirates,83,4,from Right to Left,NoPrecipitation
+21-08-2020,Milwaukee Brewers,Pittsburgh Pirates,80,7,from Right to Left,NoPrecipitation
+22-08-2020,Milwaukee Brewers,Pittsburgh Pirates,90,3,in from Rightfield,NoPrecipitation
+23-08-2020,Milwaukee Brewers,Pittsburgh Pirates,80,5,in unknown direction,NoPrecipitation
+01-09-2020,Chicago Cubs,Pittsburgh Pirates,82,4,in from Rightfield,NoPrecipitation
+02-09-2020,Chicago Cubs,Pittsburgh Pirates,75,9,in unknown direction,NoPrecipitation
+03-09-2020,Chicago Cubs,Pittsburgh Pirates,70,4,out to Leftfield,NoPrecipitation
+05-09-2020,Cincinnati Reds,Pittsburgh Pirates,76,11,out to Leftfield,NoPrecipitation
+06-09-2020,Cincinnati Reds,Pittsburgh Pirates,76,5,from Right to Left,NoPrecipitation
+08-09-2020,Chicago White Sox,Pittsburgh Pirates,85,6,from Right to Left,NoPrecipitation
+09-09-2020,Chicago White Sox,Pittsburgh Pirates,84,5,in from Centerfield,NoPrecipitation
+17-09-2020,St. Louis Cardinals,Pittsburgh Pirates,70,8,in unknown direction,NoPrecipitation
+19-09-2020,St. Louis Cardinals,Pittsburgh Pirates,63,7,in unknown direction,NoPrecipitation
+20-09-2020,St. Louis Cardinals,Pittsburgh Pirates,69,8,from Left to Right,NoPrecipitation
+21-09-2020,Chicago Cubs,Pittsburgh Pirates,66,5,in from Leftfield,NoPrecipitation
+22-09-2020,Chicago Cubs,Pittsburgh Pirates,67,0,NoWind,NoPrecipitation
+23-09-2020,Chicago Cubs,Pittsburgh Pirates,75,2,out to Centerfield,NoPrecipitation
+24-09-2020,Chicago Cubs,Pittsburgh Pirates,72,4,in from Rightfield,NoPrecipitation
+24-07-2020,Arizona Diamondbacks,San Diego Padres,73,7,in unknown direction,NoPrecipitation
+25-07-2020,Arizona Diamondbacks,San Diego Padres,73,5,in unknown direction,NoPrecipitation
+26-07-2020,Arizona Diamondbacks,San Diego Padres,75,12,from Left to Right,NoPrecipitation
+27-07-2020,Arizona Diamondbacks,San Diego Padres,75,1,in unknown direction,NoPrecipitation
+03-08-2020,Los Angeles Dodgers,San Diego Padres,72,6,out to Rightfield,NoPrecipitation
+04-08-2020,Los Angeles Dodgers,San Diego Padres,72,7,from Left to Right,NoPrecipitation
+05-08-2020,Los Angeles Dodgers,San Diego Padres,72,8,from Left to Right,NoPrecipitation
+07-08-2020,Arizona Diamondbacks,San Diego Padres,73,9,in unknown direction,NoPrecipitation
+08-08-2020,Arizona Diamondbacks,San Diego Padres,72,11,in unknown direction,NoPrecipitation
+09-08-2020,Arizona Diamondbacks,San Diego Padres,75,11,in unknown direction,NoPrecipitation
+19-08-2020,Texas Rangers,San Diego Padres,79,8,out to Rightfield,NoPrecipitation
+20-08-2020,Texas Rangers,San Diego Padres,77,5,from Left to Right,NoPrecipitation
+21-08-2020,Houston Astros,San Diego Padres,81,6,from Left to Right,NoPrecipitation
+22-08-2020,Houston Astros,San Diego Padres,81,7,in from Rightfield,NoPrecipitation
+23-08-2020,Houston Astros,San Diego Padres,84,7,in unknown direction,NoPrecipitation
+25-08-2020,Seattle Mariners,San Diego Padres,79,10,from Left to Right,NoPrecipitation
+07-09-2020,Colorado Rockies,San Diego Padres,73,7,from Left to Right,NoPrecipitation
+08-09-2020,Colorado Rockies,San Diego Padres,75,7,in unknown direction,NoPrecipitation
+09-09-2020,Colorado Rockies,San Diego Padres,81,8,from Left to Right,NoPrecipitation
+10-09-2020,San Francisco Giants,San Diego Padres,75,10,in from Rightfield,NoPrecipitation
+14-09-2020,Los Angeles Dodgers,San Diego Padres,75,6,out to Rightfield,NoPrecipitation
+15-09-2020,Los Angeles Dodgers,San Diego Padres,81,7,from Left to Right,NoPrecipitation
+16-09-2020,Los Angeles Dodgers,San Diego Padres,86,13,from Left to Right,NoPrecipitation
+18-09-2020,Seattle Mariners,San Diego Padres,81,5,in from Leftfield,NoPrecipitation
+19-09-2020,Seattle Mariners,San Diego Padres,75,9,from Left to Right,NoPrecipitation
+20-09-2020,Seattle Mariners,San Diego Padres,75,8,out to Rightfield,NoPrecipitation
+22-09-2020,Los Angeles Angels,San Diego Padres,73,6,in from Rightfield,NoPrecipitation
+23-09-2020,Los Angeles Angels,San Diego Padres,81,8,from Left to Right,NoPrecipitation
+31-07-2020,Oakland Athletics,Seattle Mariners,79,0,NoWind,NoPrecipitation
+01-08-2020,Oakland Athletics,Seattle Mariners,79,3,in unknown direction,NoPrecipitation
+02-08-2020,Oakland Athletics,Seattle Mariners,77,5,in unknown direction,InDome
+03-08-2020,Oakland Athletics,Seattle Mariners,77,6,out to Centerfield,NoPrecipitation
+04-08-2020,Los Angeles Angels,Seattle Mariners,78,4,in from Leftfield,NoPrecipitation
+05-08-2020,Los Angeles Angels,Seattle Mariners,79,4,out to Rightfield,NoPrecipitation
+06-08-2020,Los Angeles Angels,Seattle Mariners,60,7,out to Rightfield,InDome
+07-08-2020,Colorado Rockies,Seattle Mariners,70,1,in unknown direction,NoPrecipitation
+08-08-2020,Colorado Rockies,Seattle Mariners,65,8,from Left to Right,NoPrecipitation
+09-08-2020,Colorado Rockies,Seattle Mariners,70,0,NoWind,InDome
+19-08-2020,Los Angeles Dodgers,Seattle Mariners,79,0,NoWind,NoPrecipitation
+20-08-2020,Los Angeles Dodgers,Seattle Mariners,75,7,out to Rightfield,InDome
+21-08-2020,Texas Rangers,Seattle Mariners,68,0,NoWind,NoPrecipitation
+22-08-2020,Texas Rangers,Seattle Mariners,71,9,from Left to Right,NoPrecipitation
+23-08-2020,Texas Rangers,Seattle Mariners,68,6,in unknown direction,InDome
+04-09-2020,Texas Rangers,Seattle Mariners,80,1,in unknown direction,NoPrecipitation
+05-09-2020,Texas Rangers,Seattle Mariners,72,1,in unknown direction,NoPrecipitation
+06-09-2020,Texas Rangers,Seattle Mariners,72,7,out to Centerfield,InDome
+07-09-2020,Texas Rangers,Seattle Mariners,73,10,from Left to Right,InDome
+21-09-2020,Houston Astros,Seattle Mariners,70,5,out to Centerfield,NoPrecipitation
+22-09-2020,Houston Astros,Seattle Mariners,70,2,from Right to Left,NoPrecipitation
+23-09-2020,Houston Astros,Seattle Mariners,63,7,from Left to Right,InDome
+28-07-2020,San Diego Padres,San Francisco Giants,59,16,out to Centerfield,NoPrecipitation
+29-07-2020,San Diego Padres,San Francisco Giants,60,10,out to Centerfield,NoPrecipitation
+30-07-2020,San Diego Padres,San Francisco Giants,62,17,out to Centerfield,NoPrecipitation
+31-07-2020,Texas Rangers,San Francisco Giants,63,16,out to Centerfield,NoPrecipitation
+01-08-2020,Texas Rangers,San Francisco Giants,65,17,out to Centerfield,NoPrecipitation
+02-08-2020,Texas Rangers,San Francisco Giants,65,8,out to Centerfield,NoPrecipitation
+14-08-2020,Oakland Athletics,San Francisco Giants,85,14,in unknown direction,NoPrecipitation
+15-08-2020,Oakland Athletics,San Francisco Giants,86,9,out to Centerfield,NoPrecipitation
+16-08-2020,Oakland Athletics,San Francisco Giants,79,5,in unknown direction,NoPrecipitation
+19-08-2020,Los Angeles Angels,San Francisco Giants,75,4,out to Centerfield,NoPrecipitation
+20-08-2020,Los Angeles Angels,San Francisco Giants,75,5,in from Centerfield,NoPrecipitation
+21-08-2020,Arizona Diamondbacks,San Francisco Giants,67,20,out to Centerfield,NoPrecipitation
+22-08-2020,Arizona Diamondbacks,San Francisco Giants,68,17,out to Rightfield,NoPrecipitation
+23-08-2020,Arizona Diamondbacks,San Francisco Giants,70,5,out to Centerfield,NoPrecipitation
+25-08-2020,Los Angeles Dodgers,San Francisco Giants,63,17,out to Centerfield,NoPrecipitation
+04-09-2020,Arizona Diamondbacks,San Francisco Giants,66,12,out to Centerfield,NoPrecipitation
+05-09-2020,Arizona Diamondbacks,San Francisco Giants,84,13,in from Leftfield,NoPrecipitation
+06-09-2020,Arizona Diamondbacks,San Francisco Giants,88,11,out to Centerfield,NoPrecipitation
+07-09-2020,Arizona Diamondbacks,San Francisco Giants,82,18,out to Centerfield,NoPrecipitation
+08-09-2020,Seattle Mariners,San Francisco Giants,64,13,in unknown direction,NoPrecipitation
+09-09-2020,Seattle Mariners,San Francisco Giants,60,9,out to Centerfield,NoPrecipitation
+16-09-2020,Seattle Mariners,San Francisco Giants,71,15,out to Centerfield,NoPrecipitation
+17-09-2020,Seattle Mariners,San Francisco Giants,70,8,from Left to Right,NoPrecipitation
+21-09-2020,Colorado Rockies,San Francisco Giants,65,13,out to Centerfield,NoPrecipitation
+22-09-2020,Colorado Rockies,San Francisco Giants,65,13,out to Rightfield,NoPrecipitation
+23-09-2020,Colorado Rockies,San Francisco Giants,68,15,out to Centerfield,NoPrecipitation
+24-09-2020,Colorado Rockies,San Francisco Giants,70,17,out to Centerfield,NoPrecipitation
+26-09-2020,San Diego Padres,San Francisco Giants,75,15,from Left to Right,NoPrecipitation
+27-09-2020,San Diego Padres,San Francisco Giants,84,2,from Left to Right,NoPrecipitation
+24-07-2020,Pittsburgh Pirates,St. Louis Cardinals,90,7,in from Rightfield,NoPrecipitation
+25-07-2020,Pittsburgh Pirates,St. Louis Cardinals,90,6,in unknown direction,NoPrecipitation
+26-07-2020,Pittsburgh Pirates,St. Louis Cardinals,92,7,in unknown direction,NoPrecipitation
+20-08-2020,Cincinnati Reds,St. Louis Cardinals,79,7,in unknown direction,NoPrecipitation
+21-08-2020,Cincinnati Reds,St. Louis Cardinals,80,8,in from Rightfield,NoPrecipitation
+22-08-2020,Cincinnati Reds,St. Louis Cardinals,83,7,from Right to Left,NoPrecipitation
+23-08-2020,Cincinnati Reds,St. Louis Cardinals,90,4,out to Centerfield,NoPrecipitation
+24-08-2020,Kansas City Royals,St. Louis Cardinals,95,6,from Right to Left,NoPrecipitation
+25-08-2020,Kansas City Royals,St. Louis Cardinals,87,7,from Right to Left,NoPrecipitation
+26-08-2020,Kansas City Royals,St. Louis Cardinals,84,7,from Right to Left,NoPrecipitation
+28-08-2020,Cleveland Indians,St. Louis Cardinals,84,5,from Right to Left,NoPrecipitation
+29-08-2020,Cleveland Indians,St. Louis Cardinals,83,8,from Left to Right,NoPrecipitation
+30-08-2020,Cleveland Indians,St. Louis Cardinals,80,5,from Right to Left,NoPrecipitation
+11-09-2020,Cincinnati Reds,St. Louis Cardinals,80,8,from Right to Left,NoPrecipitation
+12-09-2020,Cincinnati Reds,St. Louis Cardinals,74,6,from Left to Right,NoPrecipitation
+13-09-2020,Cincinnati Reds,St. Louis Cardinals,75,7,in unknown direction,NoPrecipitation
+24-09-2020,Milwaukee Brewers,St. Louis Cardinals,71,6,out to Leftfield,NoPrecipitation
+26-09-2020,Milwaukee Brewers,St. Louis Cardinals,81,14,out to Leftfield,NoPrecipitation
+27-09-2020,Milwaukee Brewers,St. Louis Cardinals,80,5,out to Centerfield,NoPrecipitation
+24-07-2020,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+25-07-2020,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+26-07-2020,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+27-07-2020,Atlanta Braves,Tampa Bay Rays,72,0,NoWind,InDome
+28-07-2020,Atlanta Braves,Tampa Bay Rays,72,0,NoWind,InDome
+04-08-2020,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+05-08-2020,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+07-08-2020,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+09-08-2020,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+21-08-2020,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+22-08-2020,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+23-08-2020,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+24-08-2020,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+25-08-2020,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+26-08-2020,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+04-09-2020,Miami Marlins,Tampa Bay Rays,72,0,NoWind,InDome
+05-09-2020,Miami Marlins,Tampa Bay Rays,72,0,NoWind,InDome
+06-09-2020,Miami Marlins,Tampa Bay Rays,72,0,NoWind,InDome
+10-09-2020,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+11-09-2020,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+12-09-2020,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+13-09-2020,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+15-09-2020,Washington Nationals,Tampa Bay Rays,72,0,NoWind,InDome
+16-09-2020,Washington Nationals,Tampa Bay Rays,72,0,NoWind,InDome
+25-09-2020,Philadelphia Phillies,Tampa Bay Rays,72,0,NoWind,InDome
+26-09-2020,Philadelphia Phillies,Tampa Bay Rays,72,0,NoWind,InDome
+27-09-2020,Philadelphia Phillies,Tampa Bay Rays,72,0,NoWind,InDome
+24-07-2020,Colorado Rockies,Texas Rangers,72,0,NoWind,InDome
+25-07-2020,Colorado Rockies,Texas Rangers,72,0,NoWind,InDome
+26-07-2020,Colorado Rockies,Texas Rangers,72,0,NoWind,InDome
+28-07-2020,Arizona Diamondbacks,Texas Rangers,72,1,in unknown direction,InDome
+29-07-2020,Arizona Diamondbacks,Texas Rangers,72,0,NoWind,InDome
+07-08-2020,Los Angeles Angels,Texas Rangers,72,0,NoWind,InDome
+08-08-2020,Los Angeles Angels,Texas Rangers,72,0,NoWind,InDome
+09-08-2020,Los Angeles Angels,Texas Rangers,72,0,NoWind,InDome
+10-08-2020,Seattle Mariners,Texas Rangers,95,10,in unknown direction,NoPrecipitation
+11-08-2020,Seattle Mariners,Texas Rangers,72,0,NoWind,InDome
+12-08-2020,Seattle Mariners,Texas Rangers,72,1,in unknown direction,InDome
+17-08-2020,San Diego Padres,Texas Rangers,72,0,NoWind,InDome
+18-08-2020,San Diego Padres,Texas Rangers,75,0,NoWind,InDome
+24-08-2020,Oakland Athletics,Texas Rangers,72,0,NoWind,InDome
+25-08-2020,Oakland Athletics,Texas Rangers,72,0,NoWind,InDome
+26-08-2020,Oakland Athletics,Texas Rangers,72,0,NoWind,InDome
+28-08-2020,Los Angeles Dodgers,Texas Rangers,72,0,NoWind,InDome
+29-08-2020,Los Angeles Dodgers,Texas Rangers,72,0,NoWind,InDome
+30-08-2020,Los Angeles Dodgers,Texas Rangers,72,0,NoWind,InDome
+08-09-2020,Los Angeles Angels,Texas Rangers,72,0,NoWind,InDome
+09-09-2020,Los Angeles Angels,Texas Rangers,74,0,NoWind,InDome
+10-09-2020,Los Angeles Angels,Texas Rangers,72,0,NoWind,InDome
+11-09-2020,Oakland Athletics,Texas Rangers,76,3,out to Centerfield,NoPrecipitation
+13-09-2020,Oakland Athletics,Texas Rangers,72,0,NoWind,InDome
+24-09-2020,Houston Astros,Texas Rangers,74,2,in unknown direction,NoPrecipitation
+25-09-2020,Houston Astros,Texas Rangers,80,9,out to Leftfield,NoPrecipitation
+26-09-2020,Houston Astros,Texas Rangers,85,3,from Left to Right,NoPrecipitation
+27-09-2020,Houston Astros,Texas Rangers,72,0,NoWind,InDome
+11-08-2020,Miami Marlins,Toronto Blue Jays,77,19,from Right to Left,NoPrecipitation
+12-08-2020,Miami Marlins,Toronto Blue Jays,81,8,from Left to Right,NoPrecipitation
+14-08-2020,Tampa Bay Rays,Toronto Blue Jays,83,15,from Left to Right,NoPrecipitation
+15-08-2020,Tampa Bay Rays,Toronto Blue Jays,82,7,out to Centerfield,NoPrecipitation
+16-08-2020,Tampa Bay Rays,Toronto Blue Jays,77,11,out to Rightfield,NoPrecipitation
+25-08-2020,Boston Red Sox,Toronto Blue Jays,80,10,in from Centerfield,NoPrecipitation
+26-08-2020,Boston Red Sox,Toronto Blue Jays,72,9,out to Rightfield,NoPrecipitation
+28-08-2020,Baltimore Orioles,Toronto Blue Jays,71,5,from Right to Left,NoPrecipitation
+29-08-2020,Baltimore Orioles,Toronto Blue Jays,72,19,from Right to Left,NoPrecipitation
+30-08-2020,Baltimore Orioles,Toronto Blue Jays,71,9,out to Leftfield,NoPrecipitation
+31-08-2020,Baltimore Orioles,Toronto Blue Jays,79,9,in from Centerfield,NoPrecipitation
+07-09-2020,New York Yankees,Toronto Blue Jays,76,16,out to Centerfield,NoPrecipitation
+08-09-2020,New York Yankees,Toronto Blue Jays,68,13,in from Centerfield,NoPrecipitation
+09-09-2020,New York Yankees,Toronto Blue Jays,75,10,in from Centerfield,NoPrecipitation
+11-09-2020,New York Mets,Toronto Blue Jays,61,10,in from Rightfield,NoPrecipitation
+12-09-2020,New York Mets,Toronto Blue Jays,75,12,out to Leftfield,NoPrecipitation
+13-09-2020,New York Mets,Toronto Blue Jays,71,19,from Left to Right,NoPrecipitation
+21-09-2020,New York Yankees,Toronto Blue Jays,67,7,from Left to Right,NoPrecipitation
+22-09-2020,New York Yankees,Toronto Blue Jays,66,7,in unknown direction,NoPrecipitation
+23-09-2020,New York Yankees,Toronto Blue Jays,68,17,out to Rightfield,NoPrecipitation
+24-09-2020,New York Yankees,Toronto Blue Jays,68,14,out to Centerfield,NoPrecipitation
+25-09-2020,Baltimore Orioles,Toronto Blue Jays,73,8,out to Rightfield,NoPrecipitation
+26-09-2020,Baltimore Orioles,Toronto Blue Jays,74,7,from Left to Right,NoPrecipitation
+27-09-2020,Baltimore Orioles,Toronto Blue Jays,79,13,in from Centerfield,NoPrecipitation
+23-07-2020,New York Yankees,Washington Nationals,90,7,out to Centerfield,NoPrecipitation
+25-07-2020,New York Yankees,Washington Nationals,89,2,in unknown direction,NoPrecipitation
+26-07-2020,New York Yankees,Washington Nationals,91,10,out to Centerfield,NoPrecipitation
+27-07-2020,Toronto Blue Jays,Washington Nationals,94,7,out to Rightfield,NoPrecipitation
+28-07-2020,Toronto Blue Jays,Washington Nationals,88,7,out to Rightfield,NoPrecipitation
+29-07-2020,Toronto Blue Jays,Washington Nationals,92,6,out to Centerfield,NoPrecipitation
+30-07-2020,Toronto Blue Jays,Washington Nationals,95,4,out to Leftfield,NoPrecipitation
+04-08-2020,New York Mets,Washington Nationals,82,11,from Left to Right,NoPrecipitation
+05-08-2020,New York Mets,Washington Nationals,87,4,in unknown direction,NoPrecipitation
+07-08-2020,Baltimore Orioles,Washington Nationals,86,9,out to Leftfield,NoPrecipitation
+08-08-2020,Baltimore Orioles,Washington Nationals,89,1,out to Rightfield,NoPrecipitation
+09-08-2020,Baltimore Orioles,Washington Nationals,87,2,out to Centerfield,NoPrecipitation
+21-08-2020,Miami Marlins,Washington Nationals,83,2,out to Leftfield,NoPrecipitation
+23-08-2020,Miami Marlins,Washington Nationals,87,4,in unknown direction,NoPrecipitation
+24-08-2020,Miami Marlins,Washington Nationals,86,2,out to Centerfield,NoPrecipitation
+25-08-2020,Philadelphia Phillies,Washington Nationals,90,9,out to Rightfield,NoPrecipitation
+26-08-2020,Philadelphia Phillies,Washington Nationals,85,8,from Left to Right,NoPrecipitation
+07-09-2020,Tampa Bay Rays,Washington Nationals,80,4,out to Leftfield,NoPrecipitation
+08-09-2020,Tampa Bay Rays,Washington Nationals,83,4,from Right to Left,NoPrecipitation
+10-09-2020,Atlanta Braves,Washington Nationals,80,6,from Left to Right,NoPrecipitation
+11-09-2020,Atlanta Braves,Washington Nationals,76,8,in from Centerfield,NoPrecipitation
+12-09-2020,Atlanta Braves,Washington Nationals,72,6,in from Rightfield,NoPrecipitation
+13-09-2020,Atlanta Braves,Washington Nationals,76,4,out to Rightfield,NoPrecipitation
+21-09-2020,Philadelphia Phillies,Washington Nationals,64,3,in from Rightfield,NoPrecipitation
+23-09-2020,Philadelphia Phillies,Washington Nationals,78,7,from Left to Right,NoPrecipitation
+24-09-2020,New York Mets,Washington Nationals,70,5,out to Centerfield,NoPrecipitation
+27-09-2020,New York Mets,Washington Nationals,77,3,out to Leftfield,NoPrecipitation

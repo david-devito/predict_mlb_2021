@@ -1,2 +1,791 @@
 Date,AwayTeam,HomeTeam,A_SP_recFIP,H_SP_recFIP
+28-07-2020,Seattle Mariners,Los Angeles Angels,nan,nan
+29-07-2020,Seattle Mariners,Los Angeles Angels,nan,nan
+30-07-2020,Seattle Mariners,Los Angeles Angels,nan,nan
+31-07-2020,Houston Astros,Los Angeles Angels,nan,nan
+01-08-2020,Houston Astros,Los Angeles Angels,nan,nan
+02-08-2020,Houston Astros,Los Angeles Angels,nan,nan
+10-08-2020,Oakland Athletics,Los Angeles Angels,nan,nan
+11-08-2020,Oakland Athletics,Los Angeles Angels,nan,nan
+12-08-2020,Oakland Athletics,Los Angeles Angels,nan,nan
+14-08-2020,Los Angeles Dodgers,Los Angeles Angels,nan,nan
+15-08-2020,Los Angeles Dodgers,Los Angeles Angels,nan,-0.6174918603345686
+16-08-2020,Los Angeles Dodgers,Los Angeles Angels,0.967014075427098,nan
+17-08-2020,San Francisco Giants,Los Angeles Angels,1.9718680163007756,2.40978018102739
+18-08-2020,San Francisco Giants,Los Angeles Angels,nan,-0.5949075910208614
+28-08-2020,Seattle Mariners,Los Angeles Angels,0.3330742755634507,0.1135460429204042
+29-08-2020,Seattle Mariners,Los Angeles Angels,-1.084189686056378,0.4496852203457581
+30-08-2020,Seattle Mariners,Los Angeles Angels,1.5103985128383874,3.5684548590460348
+31-08-2020,Seattle Mariners,Los Angeles Angels,-0.4947066389630949,nan
+02-09-2020,San Diego Padres,Los Angeles Angels,0.7286353700426773,2.7415620811502373
+03-09-2020,San Diego Padres,Los Angeles Angels,2.2088987062164724,-0.18506523549551213
+04-09-2020,Houston Astros,Los Angeles Angels,-0.24982512241431004,1.4119691539046382
+06-09-2020,Houston Astros,Los Angeles Angels,-0.4397537379067723,nan
+15-09-2020,Arizona Diamondbacks,Los Angeles Angels,7.527789503306599,1.122712473335579
+16-09-2020,Arizona Diamondbacks,Los Angeles Angels,nan,-1.216650734335622
+17-09-2020,Arizona Diamondbacks,Los Angeles Angels,2.3140843588934477,0.2855239364233369
+18-09-2020,Texas Rangers,Los Angeles Angels,0.9655616350177019,1.387809481514378
+19-09-2020,Texas Rangers,Los Angeles Angels,1.1200137847850435,-0.04501665616278023
+20-09-2020,Texas Rangers,Los Angeles Angels,1.8942655415877392,3.6632476355401633
+21-09-2020,Texas Rangers,Los Angeles Angels,1.0519856228631546,-1.420593710198883
+30-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,nan,nan
+31-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,nan,nan
+01-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,nan,nan
+02-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,nan,nan
+04-08-2020,Houston Astros,Arizona Diamondbacks,nan,nan
+05-08-2020,Houston Astros,Arizona Diamondbacks,nan,nan
+06-08-2020,Houston Astros,Arizona Diamondbacks,nan,nan
+14-08-2020,San Diego Padres,Arizona Diamondbacks,0.1441337561256847,nan
+15-08-2020,San Diego Padres,Arizona Diamondbacks,nan,2.4956326428749684
+16-08-2020,San Diego Padres,Arizona Diamondbacks,0.5995802937943441,4.698465564410612
+17-08-2020,Oakland Athletics,Arizona Diamondbacks,0.45842119739616777,0.18006662465112092
+18-08-2020,Oakland Athletics,Arizona Diamondbacks,-0.7202664986044837,5.215219626854709
+24-08-2020,Colorado Rockies,Arizona Diamondbacks,nan,2.107832260927446
+25-08-2020,Colorado Rockies,Arizona Diamondbacks,0.8013575940416706,2.013855324633478
+26-08-2020,Colorado Rockies,Arizona Diamondbacks,2.239577351556219,2.8212060655930418
+28-08-2020,San Francisco Giants,Arizona Diamondbacks,0.585216530116143,-0.04307745326096321
+29-08-2020,San Francisco Giants,Arizona Diamondbacks,nan,1.148501205926266
+30-08-2020,San Francisco Giants,Arizona Diamondbacks,0.0,1.4267879436418762
+08-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,-1.314820658462186,-0.7465257838520732
+09-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,-0.9453497794183848,1.1831208097804653
+10-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,1.7987408813830323,8.520640517114735
+11-09-2020,Seattle Mariners,Arizona Diamondbacks,0.10518565267697488,nan
+12-09-2020,Seattle Mariners,Arizona Diamondbacks,0.6186351955838966,-0.22508328081390117
+13-09-2020,Seattle Mariners,Arizona Diamondbacks,0.9899123220514755,0.12809017548354043
+22-09-2020,Texas Rangers,Arizona Diamondbacks,2.7102566274244086,nan
+23-09-2020,Texas Rangers,Arizona Diamondbacks,0.0,2.914238134887595
+26-09-2020,Colorado Rockies,Arizona Diamondbacks,-0.4345181194055793,0.965141364823436
+27-09-2020,Colorado Rockies,Arizona Diamondbacks,1.3879892662163409,2.417535188567745
+29-07-2020,Tampa Bay Rays,Atlanta Braves,nan,nan
+30-07-2020,Tampa Bay Rays,Atlanta Braves,nan,nan
+31-07-2020,New York Mets,Atlanta Braves,nan,nan
+01-08-2020,New York Mets,Atlanta Braves,nan,nan
+02-08-2020,New York Mets,Atlanta Braves,nan,nan
+03-08-2020,New York Mets,Atlanta Braves,nan,nan
+04-08-2020,Toronto Blue Jays,Atlanta Braves,nan,nan
+05-08-2020,Toronto Blue Jays,Atlanta Braves,nan,nan
+06-08-2020,Toronto Blue Jays,Atlanta Braves,nan,nan
+17-08-2020,Washington Nationals,Atlanta Braves,nan,0.5551237926057512
+18-08-2020,Washington Nationals,Atlanta Braves,nan,-0.15119443604475352
+21-08-2020,Philadelphia Phillies,Atlanta Braves,-1.032460560006608,-0.5336179295624331
+22-08-2020,Philadelphia Phillies,Atlanta Braves,0.5451076587626057,1.3317795904777763
+23-08-2020,Philadelphia Phillies,Atlanta Braves,nan,-0.3120449344705638
+05-09-2020,Washington Nationals,Atlanta Braves,2.3962475782604256,-0.7806807536171542
+06-09-2020,Washington Nationals,Atlanta Braves,1.5523430678179875,3.2845216915286715
+07-09-2020,Miami Marlins,Atlanta Braves,nan,nan
+08-09-2020,Miami Marlins,Atlanta Braves,nan,3.0101191238631997
+09-09-2020,Miami Marlins,Atlanta Braves,-0.15613615072343084,2.3977620887171978
+21-09-2020,Miami Marlins,Atlanta Braves,2.892073090574471,0.07927699381639448
+22-09-2020,Miami Marlins,Atlanta Braves,nan,1.1938354677664422
+23-09-2020,Miami Marlins,Atlanta Braves,0.0,0.16470846601515318
+24-09-2020,Miami Marlins,Atlanta Braves,1.1485012059262667,-0.4996114133451761
+25-09-2020,Boston Red Sox,Atlanta Braves,0.35669698591046906,1.9883756500458851
+26-09-2020,Boston Red Sox,Atlanta Braves,nan,nan
+27-09-2020,Boston Red Sox,Atlanta Braves,1.4132278123233466,0.15135462388375964
+29-07-2020,New York Yankees,Baltimore Orioles,nan,nan
+30-07-2020,New York Yankees,Baltimore Orioles,nan,nan
+31-07-2020,Tampa Bay Rays,Baltimore Orioles,nan,nan
+01-08-2020,Tampa Bay Rays,Baltimore Orioles,nan,nan
+02-08-2020,Tampa Bay Rays,Baltimore Orioles,nan,nan
+04-08-2020,Miami Marlins,Baltimore Orioles,nan,nan
+06-08-2020,Miami Marlins,Baltimore Orioles,nan,nan
+14-08-2020,Washington Nationals,Baltimore Orioles,nan,nan
+15-08-2020,Washington Nationals,Baltimore Orioles,nan,nan
 16-08-2020,Washington Nationals,Baltimore Orioles,-1.0219143862836382,nan
+17-08-2020,Toronto Blue Jays,Baltimore Orioles,0.21489201676157735,1.5896446008856593
+18-08-2020,Toronto Blue Jays,Baltimore Orioles,nan,2.076034773582458
+19-08-2020,Toronto Blue Jays,Baltimore Orioles,nan,-0.5490282200505107
+20-08-2020,Boston Red Sox,Baltimore Orioles,1.9883756500458851,1.2342776536969557
+21-08-2020,Boston Red Sox,Baltimore Orioles,1.344344152102938,nan
+22-08-2020,Boston Red Sox,Baltimore Orioles,1.939579170095216,1.518565690212599
+23-08-2020,Boston Red Sox,Baltimore Orioles,2.603067398339665,2.4975024975024978
+01-09-2020,New York Mets,Baltimore Orioles,nan,3.0598226551767214
+02-09-2020,New York Mets,Baltimore Orioles,0.9859340081503878,4.358089704013074
+05-09-2020,New York Yankees,Baltimore Orioles,3.1477965424203065,nan
+06-09-2020,New York Yankees,Baltimore Orioles,1.0431536180959702,nan
+14-09-2020,Atlanta Braves,Baltimore Orioles,5.080075770621664,1.2349837206691372
+15-09-2020,Atlanta Braves,Baltimore Orioles,1.4562096941959644,4.063153006733225
+16-09-2020,Atlanta Braves,Baltimore Orioles,nan,-0.651512957868829
+18-09-2020,Tampa Bay Rays,Baltimore Orioles,0.18506523549551213,2.9604045886271124
+19-09-2020,Tampa Bay Rays,Baltimore Orioles,0.0,1.5988807834515841
+20-09-2020,Tampa Bay Rays,Baltimore Orioles,-0.5372300419039432,1.9889395556417964
+24-07-2020,Baltimore Orioles,Boston Red Sox,nan,nan
+25-07-2020,Baltimore Orioles,Boston Red Sox,nan,nan
+26-07-2020,Baltimore Orioles,Boston Red Sox,nan,nan
+27-07-2020,New York Mets,Boston Red Sox,nan,nan
+28-07-2020,New York Mets,Boston Red Sox,nan,nan
+07-08-2020,Toronto Blue Jays,Boston Red Sox,nan,nan
+08-08-2020,Toronto Blue Jays,Boston Red Sox,nan,nan
+09-08-2020,Toronto Blue Jays,Boston Red Sox,nan,nan
+10-08-2020,Tampa Bay Rays,Boston Red Sox,nan,-0.1847063169560399
+11-08-2020,Tampa Bay Rays,Boston Red Sox,-0.28514399771884796,nan
+12-08-2020,Tampa Bay Rays,Boston Red Sox,nan,nan
+13-08-2020,Tampa Bay Rays,Boston Red Sox,nan,nan
+18-08-2020,Philadelphia Phillies,Boston Red Sox,nan,5.068312031732041
+19-08-2020,Philadelphia Phillies,Boston Red Sox,nan,nan
+28-08-2020,Washington Nationals,Boston Red Sox,1.2372703911677931,1.893341748185548
+29-08-2020,Washington Nationals,Boston Red Sox,1.5543466192961033,nan
+30-08-2020,Washington Nationals,Boston Red Sox,3.53003863061143,3.7651759643460894
+31-08-2020,Atlanta Braves,Boston Red Sox,-0.7761715339089937,3.705493797325599
+01-09-2020,Atlanta Braves,Boston Red Sox,nan,0.0
+02-09-2020,Atlanta Braves,Boston Red Sox,2.1033258840541604,nan
+03-09-2020,Toronto Blue Jays,Boston Red Sox,1.0353830917439453,2.9627047751829907
+05-09-2020,Toronto Blue Jays,Boston Red Sox,-0.3526507581991302,0.9987288905029961
+06-09-2020,Toronto Blue Jays,Boston Red Sox,2.2415780709619573,nan
+18-09-2020,New York Yankees,Boston Red Sox,1.0594823671863176,1.6488458079344461
+19-09-2020,New York Yankees,Boston Red Sox,0.5098399102681757,-0.40936630096610443
+20-09-2020,New York Yankees,Boston Red Sox,1.4081947851367314,nan
+22-09-2020,Baltimore Orioles,Boston Red Sox,-1.2487859025946992,nan
+23-09-2020,Baltimore Orioles,Boston Red Sox,nan,0.05490282200505106
+24-09-2020,Baltimore Orioles,Boston Red Sox,1.9170442662948763,1.3531799729364007
+24-07-2020,Minnesota Twins,Chicago White Sox,nan,nan
+25-07-2020,Minnesota Twins,Chicago White Sox,nan,nan
+26-07-2020,Minnesota Twins,Chicago White Sox,nan,nan
+05-08-2020,Milwaukee Brewers,Chicago White Sox,nan,nan
+06-08-2020,Milwaukee Brewers,Chicago White Sox,nan,nan
+07-08-2020,Cleveland Indians,Chicago White Sox,nan,nan
+08-08-2020,Cleveland Indians,Chicago White Sox,nan,nan
+09-08-2020,Cleveland Indians,Chicago White Sox,nan,nan
+16-08-2020,St. Louis Cardinals,Chicago White Sox,nan,0.4626630887387803
+17-08-2020,Detroit Tigers,Chicago White Sox,2.1331536993376004,2.343653632663131
+18-08-2020,Detroit Tigers,Chicago White Sox,nan,1.6820025724745227
+19-08-2020,Detroit Tigers,Chicago White Sox,nan,nan
+20-08-2020,Detroit Tigers,Chicago White Sox,-0.09517464547444562,0.14141604600735364
+25-08-2020,Pittsburgh Pirates,Chicago White Sox,0.9790483649892304,-1.0803997479067255
+26-08-2020,Pittsburgh Pirates,Chicago White Sox,0.0,0.5214217432866951
+28-08-2020,Kansas City Royals,Chicago White Sox,0.871383757406762,nan
+29-08-2020,Kansas City Royals,Chicago White Sox,2.1649827911624295,2.0357175904506333
+30-08-2020,Kansas City Royals,Chicago White Sox,2.49781441238916,nan
+11-09-2020,Detroit Tigers,Chicago White Sox,2.791244307330689,-1.20616869130697
+12-09-2020,Detroit Tigers,Chicago White Sox,1.2054417082831066,2.1749637506041575
+13-09-2020,Detroit Tigers,Chicago White Sox,1.0301844030081384,nan
+14-09-2020,Minnesota Twins,Chicago White Sox,0.4496852203457581,2.1006017940274786
+15-09-2020,Minnesota Twins,Chicago White Sox,0.45413260672116246,-0.5259282633848744
+16-09-2020,Minnesota Twins,Chicago White Sox,nan,-0.34975517138003404
+17-09-2020,Minnesota Twins,Chicago White Sox,0.09003331232556046,1.7839303553589272
+25-09-2020,Chicago Cubs,Chicago White Sox,-0.4051499054650221,1.061571125265393
+26-09-2020,Chicago Cubs,Chicago White Sox,0.24735331948154746,0.5441773028594044
+27-09-2020,Chicago Cubs,Chicago White Sox,0.28956131460836826,2.256366175996562
+24-07-2020,Milwaukee Brewers,Chicago Cubs,nan,nan
+25-07-2020,Milwaukee Brewers,Chicago Cubs,nan,nan
+26-07-2020,Milwaukee Brewers,Chicago Cubs,nan,nan
+31-07-2020,Pittsburgh Pirates,Chicago Cubs,nan,nan
+01-08-2020,Pittsburgh Pirates,Chicago Cubs,nan,nan
+02-08-2020,Pittsburgh Pirates,Chicago Cubs,nan,nan
+03-08-2020,Kansas City Royals,Chicago Cubs,nan,nan
+04-08-2020,Kansas City Royals,Chicago Cubs,nan,nan
+13-08-2020,Milwaukee Brewers,Chicago Cubs,nan,nan
+14-08-2020,Milwaukee Brewers,Chicago Cubs,-0.20393596410727027,nan
+15-08-2020,Milwaukee Brewers,Chicago Cubs,nan,nan
+16-08-2020,Milwaukee Brewers,Chicago Cubs,nan,nan
+18-08-2020,St. Louis Cardinals,Chicago Cubs,nan,-0.6892392521754114
+21-08-2020,Chicago White Sox,Chicago Cubs,0.09085127646043428,1.1784670500612804
+22-08-2020,Chicago White Sox,Chicago Cubs,nan,-0.4422039444591845
+23-08-2020,Chicago White Sox,Chicago Cubs,2.0374502765111084,-0.6892392521754114
+04-09-2020,St. Louis Cardinals,Chicago Cubs,1.4652990542160653,-1.1254164040695058
+06-09-2020,St. Louis Cardinals,Chicago Cubs,-0.04758732273722281,2.4118525324451596
+07-09-2020,St. Louis Cardinals,Chicago Cubs,nan,2.1344717182497326
+08-09-2020,Cincinnati Reds,Chicago Cubs,2.2484261017287905,2.8549467442626555
+09-09-2020,Cincinnati Reds,Chicago Cubs,1.5703816503283528,-0.9907814250021539
+10-09-2020,Cincinnati Reds,Chicago Cubs,0.333022512321833,nan
+15-09-2020,Cleveland Indians,Chicago Cubs,-1.0353830917439453,-0.6752498424417035
+16-09-2020,Cleveland Indians,Chicago Cubs,0.7070802300367682,1.1102475852115024
+18-09-2020,Minnesota Twins,Chicago Cubs,1.143613819670158,0.0399776125369793
+19-09-2020,Minnesota Twins,Chicago Cubs,nan,0.3446196260877057
+20-09-2020,Minnesota Twins,Chicago Cubs,-0.10409076714895389,-0.6892392521754114
+24-07-2020,Detroit Tigers,Cincinnati Reds,nan,nan
+25-07-2020,Detroit Tigers,Cincinnati Reds,nan,nan
+26-07-2020,Detroit Tigers,Cincinnati Reds,nan,nan
+27-07-2020,Chicago Cubs,Cincinnati Reds,nan,nan
+28-07-2020,Chicago Cubs,Cincinnati Reds,nan,nan
+29-07-2020,Chicago Cubs,Cincinnati Reds,nan,nan
+03-08-2020,Cleveland Indians,Cincinnati Reds,nan,nan
+04-08-2020,Cleveland Indians,Cincinnati Reds,nan,nan
+11-08-2020,Kansas City Royals,Cincinnati Reds,nan,nan
+12-08-2020,Kansas City Royals,Cincinnati Reds,nan,nan
+13-08-2020,Pittsburgh Pirates,Cincinnati Reds,nan,nan
+14-08-2020,Pittsburgh Pirates,Cincinnati Reds,nan,-0.7004763239002526
+28-08-2020,Chicago Cubs,Cincinnati Reds,0.9041591320072334,1.216856667093634
+30-08-2020,Chicago Cubs,Cincinnati Reds,0.9410742724771969,-0.7521220586655207
+31-08-2020,St. Louis Cardinals,Cincinnati Reds,0.5551237926057512,2.8820289483796593
+01-09-2020,St. Louis Cardinals,Cincinnati Reds,0.5785210897233619,-0.2855239364233369
+02-09-2020,St. Louis Cardinals,Cincinnati Reds,nan,1.9495552577068354
+15-09-2020,Pittsburgh Pirates,Cincinnati Reds,-0.07345379756133393,1.6143234517170526
+16-09-2020,Pittsburgh Pirates,Cincinnati Reds,1.3430751047598584,0.7753941586973379
+18-09-2020,Chicago White Sox,Cincinnati Reds,nan,0.8993704406915162
+19-09-2020,Chicago White Sox,Cincinnati Reds,-0.5724992193192464,-1.2812847014606652
+20-09-2020,Chicago White Sox,Cincinnati Reds,1.2767847229932279,-0.29958058717795083
+21-09-2020,Milwaukee Brewers,Cincinnati Reds,0.2775978532432682,-1.1898151820417229
+22-09-2020,Milwaukee Brewers,Cincinnati Reds,0.5724992193192464,0.48332527791203467
+23-09-2020,Milwaukee Brewers,Cincinnati Reds,0.24978144123891602,-0.1228803145736053
+24-07-2020,Kansas City Royals,Cleveland Indians,nan,nan
+25-07-2020,Kansas City Royals,Cleveland Indians,nan,nan
+26-07-2020,Kansas City Royals,Cleveland Indians,nan,nan
+29-07-2020,Chicago White Sox,Cleveland Indians,nan,nan
+05-08-2020,Cincinnati Reds,Cleveland Indians,nan,nan
+06-08-2020,Cincinnati Reds,Cleveland Indians,nan,nan
+11-08-2020,Chicago Cubs,Cleveland Indians,nan,nan
+12-08-2020,Chicago Cubs,Cleveland Indians,nan,nan
+21-08-2020,Detroit Tigers,Cleveland Indians,nan,-0.45396767750136185
+22-08-2020,Detroit Tigers,Cleveland Indians,4.579517069109076,nan
+23-08-2020,Detroit Tigers,Cleveland Indians,nan,0.4996114133451761
+24-08-2020,Minnesota Twins,Cleveland Indians,-0.7079203797784627,-0.3569445546125169
+25-08-2020,Minnesota Twins,Cleveland Indians,nan,-1.1254164040695058
+26-08-2020,Minnesota Twins,Cleveland Indians,0.5372300419039433,nan
+04-09-2020,Milwaukee Brewers,Cleveland Indians,-1.3255837666972567,0.8228517691313039
+05-09-2020,Milwaukee Brewers,Cleveland Indians,0.41636306859581557,0.04129842240026431
+06-09-2020,Milwaukee Brewers,Cleveland Indians,0.9894132779261898,-1.8384085980955973
+07-09-2020,Kansas City Royals,Cleveland Indians,-0.09797198001371614,0.3151165931394616
+08-09-2020,Kansas City Royals,Cleveland Indians,2.2764638927532563,nan
+09-09-2020,Kansas City Royals,Cleveland Indians,2.2983911262116523,0.5372300419039433
+10-09-2020,Kansas City Royals,Cleveland Indians,1.4988342400355283,1.2256057320637315
+21-09-2020,Chicago White Sox,Cleveland Indians,0.4282859046350053,1.131328368058829
+22-09-2020,Chicago White Sox,Cleveland Indians,2.8545478136758784,1.1089548100914888
+23-09-2020,Chicago White Sox,Cleveland Indians,0.9517464547444563,-0.08690362388111586
+24-09-2020,Chicago White Sox,Cleveland Indians,-0.6390147554316254,0.8395298632765653
+25-09-2020,Pittsburgh Pirates,Cleveland Indians,3.5966431330757964,-0.6892392521754114
+26-09-2020,Pittsburgh Pirates,Cleveland Indians,-1.0980564401010213,0.9899123220514755
+27-09-2020,Pittsburgh Pirates,Cleveland Indians,0.24022292687614114,-0.5874290189935383
+31-07-2020,San Diego Padres,Colorado Rockies,nan,nan
+01-08-2020,San Diego Padres,Colorado Rockies,nan,nan
+02-08-2020,San Diego Padres,Colorado Rockies,nan,nan
+03-08-2020,San Francisco Giants,Colorado Rockies,nan,nan
+04-08-2020,San Francisco Giants,Colorado Rockies,nan,nan
+05-08-2020,San Francisco Giants,Colorado Rockies,nan,nan
+06-08-2020,San Francisco Giants,Colorado Rockies,nan,nan
+10-08-2020,Arizona Diamondbacks,Colorado Rockies,nan,nan
+11-08-2020,Arizona Diamondbacks,Colorado Rockies,nan,nan
+12-08-2020,Arizona Diamondbacks,Colorado Rockies,nan,nan
+14-08-2020,Texas Rangers,Colorado Rockies,0.38808576695449687,nan
+15-08-2020,Texas Rangers,Colorado Rockies,nan,-0.2964343186245447
+16-08-2020,Texas Rangers,Colorado Rockies,nan,1.0861301183881833
+19-08-2020,Houston Astros,Colorado Rockies,-0.5748651277969399,nan
+20-08-2020,Houston Astros,Colorado Rockies,1.811793126166685,-0.2964343186245447
+28-08-2020,San Diego Padres,Colorado Rockies,-0.21538726630481608,1.2604663725578464
+29-08-2020,San Diego Padres,Colorado Rockies,nan,2.2994605111877595
+30-08-2020,San Diego Padres,Colorado Rockies,3.892180783083537,3.2300393661047746
+31-08-2020,San Diego Padres,Colorado Rockies,3.688335638543108,1.7695430415322162
+01-09-2020,San Francisco Giants,Colorado Rockies,1.0409076714895389,1.2990906365544121
+02-09-2020,San Francisco Giants,Colorado Rockies,-0.380145541435864,0.10196798205363514
+11-09-2020,Los Angeles Angels,Colorado Rockies,1.2990906365544121,1.3670217780710852
+12-09-2020,Los Angeles Angels,Colorado Rockies,1.0219143862836382,0.5123607019341617
+13-09-2020,Los Angeles Angels,Colorado Rockies,-0.5214217432866951,5.166178749784743
+15-09-2020,Oakland Athletics,Colorado Rockies,-0.8904719501335708,1.358300184340739
+16-09-2020,Oakland Athletics,Colorado Rockies,0.09894132779261898,-0.12923235978288963
+17-09-2020,Los Angeles Dodgers,Colorado Rockies,0.8157438564290811,0.40664575345648896
+18-09-2020,Los Angeles Dodgers,Colorado Rockies,0.4535833081342606,3.7628130271182036
+19-09-2020,Los Angeles Dodgers,Colorado Rockies,-0.5821286504317453,1.0401497815685459
+20-09-2020,Los Angeles Dodgers,Colorado Rockies,0.14141604600735364,1.2381710444857166
+27-07-2020,Kansas City Royals,Detroit Tigers,nan,nan
+28-07-2020,Kansas City Royals,Detroit Tigers,nan,nan
+29-07-2020,Kansas City Royals,Detroit Tigers,nan,nan
+30-07-2020,Kansas City Royals,Detroit Tigers,nan,nan
+31-07-2020,Cincinnati Reds,Detroit Tigers,nan,nan
+10-08-2020,Chicago White Sox,Detroit Tigers,nan,nan
+11-08-2020,Chicago White Sox,Detroit Tigers,nan,-1.9120458891013379
+12-08-2020,Chicago White Sox,Detroit Tigers,nan,nan
+14-08-2020,Cleveland Indians,Detroit Tigers,nan,nan
+15-08-2020,Cleveland Indians,Detroit Tigers,0.2398656752218758,nan
+16-08-2020,Cleveland Indians,Detroit Tigers,nan,nan
+24-08-2020,Chicago Cubs,Detroit Tigers,1.2990906365544121,nan
+25-08-2020,Chicago Cubs,Detroit Tigers,nan,1.2930527800634775
+26-08-2020,Chicago Cubs,Detroit Tigers,3.3133480593247087,3.1629765273847186
+30-08-2020,Minnesota Twins,Detroit Tigers,-0.9993916746328324,nan
+08-09-2020,Milwaukee Brewers,Detroit Tigers,1.6654522743832623,2.076034773582457
+09-09-2020,Milwaukee Brewers,Detroit Tigers,-1.6008537886872996,0.38808576695449687
+15-09-2020,Kansas City Royals,Detroit Tigers,2.6599195536525233,2.800043922257604
+16-09-2020,Kansas City Royals,Detroit Tigers,-0.13627691469065142,1.3568521031207599
+17-09-2020,Cleveland Indians,Detroit Tigers,-0.3299707740171585,1.0247214038683234
+18-09-2020,Cleveland Indians,Detroit Tigers,1.7661755836994917,0.963728754161556
+19-09-2020,Cleveland Indians,Detroit Tigers,1.128183087998281,1.450521113140647
+20-09-2020,Cleveland Indians,Detroit Tigers,-0.36013324930224183,2.8866437215499063
+24-07-2020,Seattle Mariners,Houston Astros,nan,nan
+25-07-2020,Seattle Mariners,Houston Astros,nan,nan
+26-07-2020,Seattle Mariners,Houston Astros,nan,nan
+27-07-2020,Seattle Mariners,Houston Astros,nan,nan
+28-07-2020,Los Angeles Dodgers,Houston Astros,nan,nan
+29-07-2020,Los Angeles Dodgers,Houston Astros,nan,nan
+10-08-2020,San Francisco Giants,Houston Astros,nan,nan
+11-08-2020,San Francisco Giants,Houston Astros,0.9990009990009991,nan
+12-08-2020,San Francisco Giants,Houston Astros,nan,nan
+14-08-2020,Seattle Mariners,Houston Astros,4.883872368135446,nan
+15-08-2020,Seattle Mariners,Houston Astros,1.5074429998115697,1.887420894859554
+16-08-2020,Seattle Mariners,Houston Astros,nan,1.3322971022538028
+17-08-2020,Colorado Rockies,Houston Astros,1.5208134179195276,1.3145786775338504
+18-08-2020,Colorado Rockies,Houston Astros,0.09427736400490243,-1.074063696647054
+24-08-2020,Los Angeles Angels,Houston Astros,2.4461330280004163,-0.16656950112434415
+01-09-2020,Texas Rangers,Houston Astros,0.19179133103183735,-0.2082118764054302
+02-09-2020,Texas Rangers,Houston Astros,1.1277589817947475,1.594557244605082
+03-09-2020,Texas Rangers,Houston Astros,1.350499684883407,-0.09003331232556046
+15-09-2020,Texas Rangers,Houston Astros,0.453967677501362,nan
+16-09-2020,Texas Rangers,Houston Astros,3.7737854788986938,1.336710285633882
+17-09-2020,Texas Rangers,Houston Astros,2.3595817525677796,1.3054830287206267
+18-09-2020,Arizona Diamondbacks,Houston Astros,0.7420599584446423,0.4452359750667854
+19-09-2020,Arizona Diamondbacks,Houston Astros,0.7948223004428296,1.2930527800634775
+20-09-2020,Arizona Diamondbacks,Houston Astros,4.768933802656978,nan
+31-07-2020,Chicago White Sox,Kansas City Royals,nan,nan
+01-08-2020,Chicago White Sox,Kansas City Royals,nan,nan
+02-08-2020,Chicago White Sox,Kansas City Royals,nan,nan
+05-08-2020,Chicago Cubs,Kansas City Royals,nan,nan
+06-08-2020,Chicago Cubs,Kansas City Royals,nan,nan
+07-08-2020,Minnesota Twins,Kansas City Royals,nan,nan
+08-08-2020,Minnesota Twins,Kansas City Royals,nan,nan
+09-08-2020,Minnesota Twins,Kansas City Royals,nan,nan
+21-08-2020,Minnesota Twins,Kansas City Royals,nan,1.1529592621060722
+22-08-2020,Minnesota Twins,Kansas City Royals,0.9177118384827162,1.8407489218470605
+23-08-2020,Minnesota Twins,Kansas City Royals,2.547381292031791,1.5042441173310415
+31-08-2020,Cleveland Indians,Kansas City Royals,-2.340866120464572,0.4496852203457581
+01-09-2020,Cleveland Indians,Kansas City Royals,nan,nan
+02-09-2020,Cleveland Indians,Kansas City Royals,nan,nan
+03-09-2020,Chicago White Sox,Kansas City Royals,2.4482861996602385,0.5785210897233619
+04-09-2020,Chicago White Sox,Kansas City Royals,nan,2.8866437215499063
+05-09-2020,Chicago White Sox,Kansas City Royals,-1.8997274304121583,0.7920068234434022
+06-09-2020,Chicago White Sox,Kansas City Royals,-0.45016656162780233,5.356708059410761
+11-09-2020,Pittsburgh Pirates,Kansas City Royals,1.2844298558584275,0.8940780477542866
+12-09-2020,Pittsburgh Pirates,Kansas City Royals,4.42385760383054,nan
+13-09-2020,Pittsburgh Pirates,Kansas City Royals,3.145429875416307,0.0
+21-09-2020,St. Louis Cardinals,Kansas City Royals,1.282391438931635,nan
+22-09-2020,St. Louis Cardinals,Kansas City Royals,1.0696458283812693,-1.173198922395064
+23-09-2020,St. Louis Cardinals,Kansas City Royals,1.5525853921965707,3.2422663973636667
+24-09-2020,Detroit Tigers,Kansas City Royals,1.4017872787804446,0.6306393713010574
+25-09-2020,Detroit Tigers,Kansas City Royals,-0.24735331948154746,1.124344132589323
+26-09-2020,Detroit Tigers,Kansas City Royals,2.7036558128599983,3.9800218511003584
+27-09-2020,Detroit Tigers,Kansas City Royals,nan,-0.6431186306520233
+23-07-2020,San Francisco Giants,Los Angeles Dodgers,nan,nan
+24-07-2020,San Francisco Giants,Los Angeles Dodgers,nan,nan
+25-07-2020,San Francisco Giants,Los Angeles Dodgers,nan,nan
+26-07-2020,San Francisco Giants,Los Angeles Dodgers,nan,nan
+07-08-2020,San Francisco Giants,Los Angeles Dodgers,nan,nan
+08-08-2020,San Francisco Giants,Los Angeles Dodgers,nan,nan
+09-08-2020,San Francisco Giants,Los Angeles Dodgers,nan,nan
+10-08-2020,San Diego Padres,Los Angeles Dodgers,nan,nan
+11-08-2020,San Diego Padres,Los Angeles Dodgers,nan,nan
+12-08-2020,San Diego Padres,Los Angeles Dodgers,nan,nan
+13-08-2020,San Diego Padres,Los Angeles Dodgers,1.1991605875886882,nan
+17-08-2020,Seattle Mariners,Los Angeles Dodgers,nan,2.4461330280004163
+18-08-2020,Seattle Mariners,Los Angeles Dodgers,1.5730545017118531,nan
+21-08-2020,Colorado Rockies,Los Angeles Dodgers,1.9883756500458851,2.7107473158286393
+22-08-2020,Colorado Rockies,Los Angeles Dodgers,1.303554358216738,1.3765677577240742
+23-08-2020,Colorado Rockies,Los Angeles Dodgers,0.08615490652192642,3.806351849649102
+01-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,2.166847237269773,1.492149993512391
+02-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,0.3876970793486689,-0.6561017462400323
+03-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,-0.7053015163982604,-0.3015421728267425
+04-09-2020,Colorado Rockies,Los Angeles Dodgers,1.863301431354281,1.3967981089502528
+05-09-2020,Colorado Rockies,Los Angeles Dodgers,2.029769959404601,-0.9991771482308689
+06-09-2020,Colorado Rockies,Los Angeles Dodgers,3.2541244135008323,0.3996270147861996
+12-09-2020,Houston Astros,Los Angeles Dodgers,0.45428264640290744,1.1354604292040424
+13-09-2020,Houston Astros,Los Angeles Dodgers,0.14841199168892846,1.126488574187319
+22-09-2020,Oakland Athletics,Los Angeles Dodgers,1.8808040437286946,2.3355391202802642
+23-09-2020,Oakland Athletics,Los Angeles Dodgers,-0.6186351955838966,-0.797766254487435
+24-09-2020,Oakland Athletics,Los Angeles Dodgers,0.09894132779261898,-0.5289761372986953
+25-09-2020,Los Angeles Angels,Los Angeles Dodgers,0.95393840283456,-0.7865272508559266
+26-09-2020,Los Angeles Angels,Los Angeles Dodgers,6.264753949518794,-0.5441773028594044
+27-09-2020,Los Angeles Angels,Los Angeles Dodgers,0.8211304228821679,-1.3759889920880632
+14-08-2020,Atlanta Braves,Miami Marlins,nan,nan
+15-08-2020,Atlanta Braves,Miami Marlins,-0.8089844865327879,nan
+16-08-2020,Atlanta Braves,Miami Marlins,nan,nan
+17-08-2020,New York Mets,Miami Marlins,nan,nan
+18-08-2020,New York Mets,Miami Marlins,nan,nan
+19-08-2020,New York Mets,Miami Marlins,-0.09894132779261898,nan
+28-08-2020,Tampa Bay Rays,Miami Marlins,1.939579170095216,nan
+29-08-2020,Tampa Bay Rays,Miami Marlins,nan,-0.4851072086931211
+30-08-2020,Tampa Bay Rays,Miami Marlins,0.6311139160618493,nan
+01-09-2020,Toronto Blue Jays,Miami Marlins,nan,0.8132915069129779
+02-09-2020,Toronto Blue Jays,Miami Marlins,-1.4346492529929753,nan
+10-09-2020,Philadelphia Phillies,Miami Marlins,1.5047550258817868,nan
+12-09-2020,Philadelphia Phillies,Miami Marlins,0.437117522168103,nan
+14-09-2020,Philadelphia Phillies,Miami Marlins,0.3286446693834626,1.124016485575122
+15-09-2020,Boston Red Sox,Miami Marlins,nan,1.8215884251066932
+16-09-2020,Boston Red Sox,Miami Marlins,nan,2.149413268270013
+17-09-2020,Boston Red Sox,Miami Marlins,2.739873213710111,nan
+19-09-2020,Washington Nationals,Miami Marlins,0.7276608130396817,1.810915448982141
+03-08-2020,Chicago White Sox,Milwaukee Brewers,nan,nan
+04-08-2020,Chicago White Sox,Milwaukee Brewers,nan,nan
+07-08-2020,Cincinnati Reds,Milwaukee Brewers,nan,nan
+08-08-2020,Cincinnati Reds,Milwaukee Brewers,nan,nan
+09-08-2020,Cincinnati Reds,Milwaukee Brewers,nan,nan
+10-08-2020,Minnesota Twins,Milwaukee Brewers,nan,nan
+11-08-2020,Minnesota Twins,Milwaukee Brewers,-1.1405759908753919,nan
+12-08-2020,Minnesota Twins,Milwaukee Brewers,nan,nan
+24-08-2020,Cincinnati Reds,Milwaukee Brewers,-0.9477039717411907,1.148501205926266
+25-08-2020,Cincinnati Reds,Milwaukee Brewers,-0.05677302146020212,0.24076080414108586
+28-08-2020,Pittsburgh Pirates,Milwaukee Brewers,4.403838569738399,-0.5742506029631333
+29-08-2020,Pittsburgh Pirates,Milwaukee Brewers,0.9838050552444377,1.2745997756704393
+30-08-2020,Pittsburgh Pirates,Milwaukee Brewers,1.2108369910700771,-0.8058450628559151
+31-08-2020,Pittsburgh Pirates,Milwaukee Brewers,2.360821346217196,0.8313934153641501
+01-09-2020,Detroit Tigers,Milwaukee Brewers,3.5791576494090234,0.3083754779819909
+02-09-2020,Detroit Tigers,Milwaukee Brewers,1.264702162640698,2.342042260851463
+11-09-2020,Chicago Cubs,Milwaukee Brewers,1.3518279064299992,1.0207370796174924
+12-09-2020,Chicago Cubs,Milwaukee Brewers,0.6892392521754114,0.46436034362665435
+13-09-2020,Chicago Cubs,Milwaukee Brewers,2.7303357732078544,1.1167274009639123
+15-09-2020,St. Louis Cardinals,Milwaukee Brewers,1.24890720619458,1.7695430415322162
+18-09-2020,Kansas City Royals,Milwaukee Brewers,2.6904967810127807,0.058775126366521706
+19-09-2020,Kansas City Royals,Milwaukee Brewers,0.24255360434656054,-1.9510802322261354
+20-09-2020,Kansas City Royals,Milwaukee Brewers,-0.1967419532541119,-1.5664773839827686
+28-07-2020,St. Louis Cardinals,Minnesota Twins,nan,nan
+29-07-2020,St. Louis Cardinals,Minnesota Twins,nan,nan
+30-07-2020,Cleveland Indians,Minnesota Twins,nan,nan
+31-07-2020,Cleveland Indians,Minnesota Twins,nan,nan
+01-08-2020,Cleveland Indians,Minnesota Twins,nan,nan
+02-08-2020,Cleveland Indians,Minnesota Twins,nan,-0.16092693916961698
+03-08-2020,Pittsburgh Pirates,Minnesota Twins,nan,nan
+04-08-2020,Pittsburgh Pirates,Minnesota Twins,nan,nan
+16-08-2020,Kansas City Royals,Minnesota Twins,2.1961128802020426,-0.36431768502133866
+17-08-2020,Kansas City Royals,Minnesota Twins,nan,2.139800285306704
+18-08-2020,Milwaukee Brewers,Minnesota Twins,0.24670038238559272,-0.36340510584173713
+19-08-2020,Milwaukee Brewers,Minnesota Twins,nan,nan
+20-08-2020,Milwaukee Brewers,Minnesota Twins,0.6245032360622234,1.1819060921886753
+31-08-2020,Chicago White Sox,Minnesota Twins,-1.8171305856116298,nan
+01-09-2020,Chicago White Sox,Minnesota Twins,-0.17380724776223172,nan
+02-09-2020,Chicago White Sox,Minnesota Twins,nan,0.473335437046387
+05-09-2020,Detroit Tigers,Minnesota Twins,nan,-0.2700999369766814
+06-09-2020,Detroit Tigers,Minnesota Twins,nan,1.6650478701262657
+07-09-2020,Detroit Tigers,Minnesota Twins,0.736859341738988,nan
+11-09-2020,Cleveland Indians,Minnesota Twins,-1.6820025724745227,0.5936479667557139
+12-09-2020,Cleveland Indians,Minnesota Twins,-0.22508328081390117,0.6019020103527147
+13-09-2020,Cleveland Indians,Minnesota Twins,0.32941693203030636,nan
+22-09-2020,Detroit Tigers,Minnesota Twins,0.5809225049378414,nan
+23-09-2020,Detroit Tigers,Minnesota Twins,1.7667844522968197,0.09427736400490243
+25-09-2020,Cincinnati Reds,Minnesota Twins,-0.797278622302541,0.0
+26-09-2020,Cincinnati Reds,Minnesota Twins,-0.6150534327669718,-1.0992305386229642
+27-09-2020,Cincinnati Reds,Minnesota Twins,0.6444337038827129,0.3462946472741664
+31-07-2020,Boston Red Sox,New York Yankees,nan,nan
+01-08-2020,Boston Red Sox,New York Yankees,nan,nan
+02-08-2020,Boston Red Sox,New York Yankees,1.8534359851725117,nan
+03-08-2020,Philadelphia Phillies,New York Yankees,nan,nan
+11-08-2020,Atlanta Braves,New York Yankees,nan,nan
+12-08-2020,Atlanta Braves,New York Yankees,nan,nan
+14-08-2020,Boston Red Sox,New York Yankees,0.12174336498660822,0.43240126837705406
+15-08-2020,Boston Red Sox,New York Yankees,0.5724992193192464,nan
+16-08-2020,Boston Red Sox,New York Yankees,nan,nan
+17-08-2020,Boston Red Sox,New York Yankees,0.7570404764308067,nan
+18-08-2020,Tampa Bay Rays,New York Yankees,0.14070634585619812,nan
+19-08-2020,Tampa Bay Rays,New York Yankees,0.9450519778587821,0.04758732273722281
+20-08-2020,Tampa Bay Rays,New York Yankees,nan,1.5328715794254573
+29-08-2020,New York Mets,New York Yankees,nan,nan
+31-08-2020,Tampa Bay Rays,New York Yankees,-0.6995103427600681,1.4990460615971657
+01-09-2020,Tampa Bay Rays,New York Yankees,1.665112561609165,1.6652275811027508
+02-09-2020,Tampa Bay Rays,New York Yankees,0.936680404645935,-0.4996114133451761
+12-09-2020,Baltimore Orioles,New York Yankees,nan,1.6110842597067823
+13-09-2020,Baltimore Orioles,New York Yankees,3.008488234662083,-0.13627691469065142
+15-09-2020,Toronto Blue Jays,New York Yankees,1.1044493531082362,nan
+16-09-2020,Toronto Blue Jays,New York Yankees,3.491031660045745,0.5185255020269633
+17-09-2020,Toronto Blue Jays,New York Yankees,-0.37434489643124524,0.8667278474558987
+25-09-2020,Miami Marlins,New York Yankees,0.23569341001225608,-0.7075263111346952
+26-09-2020,Miami Marlins,New York Yankees,1.2108369910700771,2.2756505392302366
+27-09-2020,Miami Marlins,New York Yankees,2.7814978881219736,nan
+24-07-2020,Atlanta Braves,New York Mets,nan,nan
+25-07-2020,Atlanta Braves,New York Mets,nan,nan
+26-07-2020,Atlanta Braves,New York Mets,nan,nan
+29-07-2020,Boston Red Sox,New York Mets,nan,nan
+30-07-2020,Boston Red Sox,New York Mets,nan,nan
+07-08-2020,Miami Marlins,New York Mets,nan,nan
+08-08-2020,Miami Marlins,New York Mets,nan,nan
+09-08-2020,Miami Marlins,New York Mets,nan,nan
+10-08-2020,Washington Nationals,New York Mets,nan,nan
+11-08-2020,Washington Nationals,New York Mets,nan,nan
+12-08-2020,Washington Nationals,New York Mets,nan,nan
+13-08-2020,Washington Nationals,New York Mets,nan,nan
+26-08-2020,Miami Marlins,New York Mets,0.26861502095197165,-0.5441773028594044
+31-08-2020,Miami Marlins,New York Mets,nan,-1.3670217780710852
+03-09-2020,New York Yankees,New York Mets,1.648295044813022,2.0882513165062644
+04-09-2020,Philadelphia Phillies,New York Mets,2.9970029970029977,-0.11618450098756827
+05-09-2020,Philadelphia Phillies,New York Mets,2.2706630336058122,-0.6355547485019066
+06-09-2020,Philadelphia Phillies,New York Mets,1.0945084229561246,-1.5755829656973082
+07-09-2020,Philadelphia Phillies,New York Mets,-0.26299640571578864,0.6167509559639818
+08-09-2020,Baltimore Orioles,New York Mets,4.611246317407455,0.35176586464049525
+09-09-2020,Baltimore Orioles,New York Mets,0.5708577137148567,-0.5228302544440572
+18-09-2020,Atlanta Braves,New York Mets,-0.36431768502133866,2.8430920547103127
+19-09-2020,Atlanta Braves,New York Mets,-0.7806807536171542,2.8844800900520613
+20-09-2020,Atlanta Braves,New York Mets,3.9472061181694835,-0.15613615072343084
+21-09-2020,Tampa Bay Rays,New York Mets,-0.33255736614566006,-0.878445152080817
+22-09-2020,Tampa Bay Rays,New York Mets,-0.15777847901546233,2.9194239003503317
+23-09-2020,Tampa Bay Rays,New York Mets,0.8731929756476179,2.0402420149148726
+24-07-2020,Los Angeles Angels,Oakland Athletics,nan,nan
+25-07-2020,Los Angeles Angels,Oakland Athletics,nan,nan
+26-07-2020,Los Angeles Angels,Oakland Athletics,nan,nan
+27-07-2020,Los Angeles Angels,Oakland Athletics,nan,nan
+28-07-2020,Colorado Rockies,Oakland Athletics,nan,nan
+29-07-2020,Colorado Rockies,Oakland Athletics,nan,nan
+04-08-2020,Texas Rangers,Oakland Athletics,nan,nan
+05-08-2020,Texas Rangers,Oakland Athletics,nan,nan
+06-08-2020,Texas Rangers,Oakland Athletics,nan,nan
+07-08-2020,Houston Astros,Oakland Athletics,nan,nan
+08-08-2020,Houston Astros,Oakland Athletics,nan,nan
+09-08-2020,Houston Astros,Oakland Athletics,nan,nan
+19-08-2020,Arizona Diamondbacks,Oakland Athletics,0.6813845734532572,1.7801768691857132
+20-08-2020,Arizona Diamondbacks,Oakland Athletics,1.4403687343960054,1.3181628971832937
+21-08-2020,Los Angeles Angels,Oakland Athletics,-0.10744600838078863,4.049647628063533
+22-08-2020,Los Angeles Angels,Oakland Athletics,3.6044011635259894,1.8679368637340068
+23-08-2020,Los Angeles Angels,Oakland Athletics,0.603084345653485,1.0518565267697488
+04-09-2020,San Diego Padres,Oakland Athletics,0.27255382938130285,1.312203492480065
+05-09-2020,San Diego Padres,Oakland Athletics,0.5441773028594044,-0.26861502095197165
+06-09-2020,San Diego Padres,Oakland Athletics,2.547381292031791,0.43659648782380894
+07-09-2020,Houston Astros,Oakland Athletics,2.243295605179973,2.5267026530377854
+09-09-2020,Houston Astros,Oakland Athletics,nan,-0.23569341001225608
+10-09-2020,Houston Astros,Oakland Athletics,nan,-0.26861502095197165
+18-09-2020,San Francisco Giants,Oakland Athletics,1.2490064721244467,1.3531799729364007
+19-09-2020,San Francisco Giants,Oakland Athletics,0.8940780477542866,1.9178358736247105
+20-09-2020,San Francisco Giants,Oakland Athletics,0.4601025371368476,1.163268099083071
+25-09-2020,Seattle Mariners,Oakland Athletics,0.8847715207661081,-0.4345181194055793
+27-09-2020,Seattle Mariners,Oakland Athletics,-0.08259684480052862,3.3496082661519253
+24-07-2020,Miami Marlins,Philadelphia Phillies,nan,nan
+25-07-2020,Miami Marlins,Philadelphia Phillies,nan,nan
+26-07-2020,Miami Marlins,Philadelphia Phillies,nan,nan
+06-08-2020,New York Yankees,Philadelphia Phillies,nan,nan
+08-08-2020,Atlanta Braves,Philadelphia Phillies,nan,nan
+10-08-2020,Atlanta Braves,Philadelphia Phillies,nan,nan
+11-08-2020,Baltimore Orioles,Philadelphia Phillies,nan,nan
+12-08-2020,Baltimore Orioles,Philadelphia Phillies,nan,nan
+13-08-2020,Baltimore Orioles,Philadelphia Phillies,nan,nan
+14-08-2020,New York Mets,Philadelphia Phillies,nan,nan
+15-08-2020,New York Mets,Philadelphia Phillies,4.683402023229675,nan
+16-08-2020,New York Mets,Philadelphia Phillies,-0.2968239833778569,nan
+28-08-2020,Atlanta Braves,Philadelphia Phillies,2.4975024975024978,-0.13035543582167378
+29-08-2020,Atlanta Braves,Philadelphia Phillies,2.1525744790769763,-0.05372300419039434
+30-08-2020,Atlanta Braves,Philadelphia Phillies,1.5042441173310415,1.6079016882967725
+31-08-2020,Washington Nationals,Philadelphia Phillies,1.3449468425771745,nan
+01-09-2020,Washington Nationals,Philadelphia Phillies,1.2612787426021148,1.0992305386229642
+02-09-2020,Washington Nationals,Philadelphia Phillies,0.5710478728466738,-0.21725905970278964
+03-09-2020,Washington Nationals,Philadelphia Phillies,1.3851785890966657,-0.6627918833486284
+15-09-2020,New York Mets,Philadelphia Phillies,-0.5490282200505107,0.9762260250373263
+16-09-2020,New York Mets,Philadelphia Phillies,-0.7202664986044837,-0.6417896763546348
+17-09-2020,New York Mets,Philadelphia Phillies,0.05742506029631333,-0.5928686372490894
+19-09-2020,Toronto Blue Jays,Philadelphia Phillies,0.5441773028594044,-1.4271442842871416
+20-09-2020,Toronto Blue Jays,Philadelphia Phillies,2.8351559335763477,nan
+27-07-2020,Milwaukee Brewers,Pittsburgh Pirates,nan,nan
+28-07-2020,Milwaukee Brewers,Pittsburgh Pirates,nan,nan
+29-07-2020,Milwaukee Brewers,Pittsburgh Pirates,nan,nan
+05-08-2020,Minnesota Twins,Pittsburgh Pirates,nan,nan
+06-08-2020,Minnesota Twins,Pittsburgh Pirates,nan,nan
+07-08-2020,Detroit Tigers,Pittsburgh Pirates,nan,nan
+08-08-2020,Detroit Tigers,Pittsburgh Pirates,nan,nan
+09-08-2020,Detroit Tigers,Pittsburgh Pirates,nan,nan
+18-08-2020,Cleveland Indians,Pittsburgh Pirates,2.2942795962067906,nan
+19-08-2020,Cleveland Indians,Pittsburgh Pirates,-0.09003331232556046,0.6087168249330411
+20-08-2020,Cleveland Indians,Pittsburgh Pirates,0.5413508786541186,0.8494054162086542
+21-08-2020,Milwaukee Brewers,Pittsburgh Pirates,1.0883546057188087,1.2487145585426767
+22-08-2020,Milwaukee Brewers,Pittsburgh Pirates,1.742767514813524,2.9973772948669923
+23-08-2020,Milwaukee Brewers,Pittsburgh Pirates,-0.34455036177787984,1.8012117242508596
+01-09-2020,Chicago Cubs,Pittsburgh Pirates,3.053180859331632,3.1227230144686167
+02-09-2020,Chicago Cubs,Pittsburgh Pirates,2.046254877700581,nan
+03-09-2020,Chicago Cubs,Pittsburgh Pirates,3.5265075819913023,0.5258314710135401
+05-09-2020,Cincinnati Reds,Pittsburgh Pirates,5.665722379603398,2.614151272220286
+06-09-2020,Cincinnati Reds,Pittsburgh Pirates,1.344344152102938,3.0745580322828596
+08-09-2020,Chicago White Sox,Pittsburgh Pirates,2.8473192220908996,1.6219021668612945
+09-09-2020,Chicago White Sox,Pittsburgh Pirates,nan,-0.3485535029627048
+17-09-2020,St. Louis Cardinals,Pittsburgh Pirates,0.659941548034317,1.1322765418942322
+19-09-2020,St. Louis Cardinals,Pittsburgh Pirates,-0.3771094560196097,nan
+20-09-2020,St. Louis Cardinals,Pittsburgh Pirates,1.9980019980019983,-0.5915604048902326
+21-09-2020,Chicago Cubs,Pittsburgh Pirates,1.7599636652662658,0.5259282633848744
+22-09-2020,Chicago Cubs,Pittsburgh Pirates,nan,0.6662225183211193
+23-09-2020,Chicago Cubs,Pittsburgh Pirates,-0.8514103798030652,4.45900934780273
+24-09-2020,Chicago Cubs,Pittsburgh Pirates,0.45428264640290744,2.4239753195240197
+24-07-2020,Arizona Diamondbacks,San Diego Padres,nan,nan
+25-07-2020,Arizona Diamondbacks,San Diego Padres,nan,nan
+26-07-2020,Arizona Diamondbacks,San Diego Padres,nan,nan
+27-07-2020,Arizona Diamondbacks,San Diego Padres,nan,nan
+03-08-2020,Los Angeles Dodgers,San Diego Padres,nan,nan
+04-08-2020,Los Angeles Dodgers,San Diego Padres,nan,nan
+05-08-2020,Los Angeles Dodgers,San Diego Padres,nan,nan
+07-08-2020,Arizona Diamondbacks,San Diego Padres,nan,nan
+08-08-2020,Arizona Diamondbacks,San Diego Padres,nan,nan
+09-08-2020,Arizona Diamondbacks,San Diego Padres,nan,nan
+19-08-2020,Texas Rangers,San Diego Padres,0.2540865588210383,3.663817031197958
+20-08-2020,Texas Rangers,San Diego Padres,1.2491256120715502,0.09168423947923354
+21-08-2020,Houston Astros,San Diego Padres,0.2523468254769356,1.084189686056378
+22-08-2020,Houston Astros,San Diego Padres,1.6654522743832623,-1.0469211002189018
+23-08-2020,Houston Astros,San Diego Padres,-1.2280850343016851,nan
+25-08-2020,Seattle Mariners,San Diego Padres,0.5401998739533628,3.996891306761409
+07-09-2020,Colorado Rockies,San Diego Padres,1.537082105802485,0.9177118384827162
+08-09-2020,Colorado Rockies,San Diego Padres,nan,0.47587322737222815
+09-09-2020,Colorado Rockies,San Diego Padres,2.855239364233369,0.5829932539352045
+10-09-2020,San Francisco Giants,San Diego Padres,0.40502227622519255,-0.21037130535394977
+14-09-2020,Los Angeles Dodgers,San Diego Padres,-0.7420599584446423,-0.3569197822789328
+15-09-2020,Los Angeles Dodgers,San Diego Padres,0.3485535029627048,1.1356409557554286
+16-09-2020,Los Angeles Dodgers,San Diego Padres,-0.7795447458684129,-1.4871468026343744
+18-09-2020,Seattle Mariners,San Diego Padres,-0.3462946472741664,-0.874235044336206
+19-09-2020,Seattle Mariners,San Diego Padres,0.6813845734532572,1.8387181507748886
+20-09-2020,Seattle Mariners,San Diego Padres,2.0332287672824445,-1.3926435651675269
+22-09-2020,Los Angeles Angels,San Diego Padres,-0.2220495170423005,1.0803997479067255
+23-09-2020,Los Angeles Angels,San Diego Padres,0.4496852203457581,-0.5656641840294145
+31-07-2020,Oakland Athletics,Seattle Mariners,nan,nan
+01-08-2020,Oakland Athletics,Seattle Mariners,nan,nan
+02-08-2020,Oakland Athletics,Seattle Mariners,nan,nan
+03-08-2020,Oakland Athletics,Seattle Mariners,nan,nan
+04-08-2020,Los Angeles Angels,Seattle Mariners,nan,nan
+05-08-2020,Los Angeles Angels,Seattle Mariners,nan,nan
+06-08-2020,Los Angeles Angels,Seattle Mariners,nan,nan
+07-08-2020,Colorado Rockies,Seattle Mariners,nan,nan
+08-08-2020,Colorado Rockies,Seattle Mariners,nan,nan
+09-08-2020,Colorado Rockies,Seattle Mariners,nan,nan
+19-08-2020,Los Angeles Dodgers,Seattle Mariners,0.7647598654022635,0.24982512241431004
+20-08-2020,Los Angeles Dodgers,Seattle Mariners,nan,nan
+21-08-2020,Texas Rangers,Seattle Mariners,nan,0.8211304228821679
+22-08-2020,Texas Rangers,Seattle Mariners,3.0657431588509145,-1.1491955631058262
+23-08-2020,Texas Rangers,Seattle Mariners,1.5611340077432252,4.272380701985013
+04-09-2020,Texas Rangers,Seattle Mariners,nan,0.0
+05-09-2020,Texas Rangers,Seattle Mariners,4.231671255225858,0.19986009793144802
+06-09-2020,Texas Rangers,Seattle Mariners,1.2335019119279635,1.2199372603694667
+07-09-2020,Texas Rangers,Seattle Mariners,1.0357012306567563,-0.6194763360039647
+16-09-2020,San Francisco Giants,Seattle Mariners,-0.6158478171616258,nan
+18-09-2020,San Diego Padres,Seattle Mariners,-0.874235044336206,-0.3462946472741664
+19-09-2020,San Diego Padres,Seattle Mariners,1.8387181507748886,0.6813845734532572
+20-09-2020,San Diego Padres,Seattle Mariners,-1.3926435651675269,2.0332287672824445
+21-09-2020,Houston Astros,Seattle Mariners,-0.3083754779819909,0.27762354247640203
+22-09-2020,Houston Astros,Seattle Mariners,0.6477283242342925,2.410883416566213
+23-09-2020,Houston Astros,Seattle Mariners,0.988862287915062,1.1570421794467238
+28-07-2020,San Diego Padres,San Francisco Giants,nan,nan
+29-07-2020,San Diego Padres,San Francisco Giants,nan,nan
+30-07-2020,San Diego Padres,San Francisco Giants,nan,nan
+31-07-2020,Texas Rangers,San Francisco Giants,nan,nan
+01-08-2020,Texas Rangers,San Francisco Giants,nan,nan
+02-08-2020,Texas Rangers,San Francisco Giants,nan,nan
+14-08-2020,Oakland Athletics,San Francisco Giants,0.05613562366677896,2.4699674413382744
+15-08-2020,Oakland Athletics,San Francisco Giants,1.303025915737658,-1.3392397239105804
+16-08-2020,Oakland Athletics,San Francisco Giants,3.471126538340171,0.5838847800700663
+19-08-2020,Los Angeles Angels,San Francisco Giants,nan,1.0945084229561246
+20-08-2020,Los Angeles Angels,San Francisco Giants,nan,0.1441337561256847
+21-08-2020,Arizona Diamondbacks,San Francisco Giants,3.2914070765252155,-0.37467216185837404
+22-08-2020,Arizona Diamondbacks,San Francisco Giants,0.12923235978288963,0.9882507960909191
+23-08-2020,Arizona Diamondbacks,San Francisco Giants,2.5318188038866842,nan
+25-08-2020,Los Angeles Dodgers,San Francisco Giants,0.9731413001167772,-0.04584211973961677
+04-09-2020,Arizona Diamondbacks,San Francisco Giants,1.407063458561981,0.04542563823021714
+05-09-2020,Arizona Diamondbacks,San Francisco Giants,6.460636739043561,0.7493443237167481
+06-09-2020,Arizona Diamondbacks,San Francisco Giants,2.149413268270013,0.7065711113354196
+07-09-2020,Arizona Diamondbacks,San Francisco Giants,0.04307745326096321,1.4119691539046377
+08-09-2020,Seattle Mariners,San Francisco Giants,nan,-0.15452766045122082
+09-09-2020,Seattle Mariners,San Francisco Giants,0.24255360434656054,0.6186351955838966
+16-09-2020,Seattle Mariners,San Francisco Giants,nan,-0.6158478171616258
+17-09-2020,Seattle Mariners,San Francisco Giants,0.41207376120325534,0.7216609303874766
+21-09-2020,Colorado Rockies,San Francisco Giants,-0.3331390022486883,1.084189686056378
+22-09-2020,Colorado Rockies,San Francisco Giants,0.32386416211714625,-1.3986945517516987
+23-09-2020,Colorado Rockies,San Francisco Giants,5.5012911193443355,0.9589566551591867
+24-09-2020,Colorado Rockies,San Francisco Giants,2.355379687205578,0.3462946472741664
+26-09-2020,San Diego Padres,San Francisco Giants,2.2155180541152073,1.5945572446050813
+27-09-2020,San Diego Padres,San Francisco Giants,6.1862383329715644,-1.0357012306567563
+24-07-2020,Pittsburgh Pirates,St. Louis Cardinals,nan,nan
+25-07-2020,Pittsburgh Pirates,St. Louis Cardinals,nan,nan
+26-07-2020,Pittsburgh Pirates,St. Louis Cardinals,nan,nan
+20-08-2020,Cincinnati Reds,St. Louis Cardinals,-0.14009526478005044,nan
+21-08-2020,Cincinnati Reds,St. Louis Cardinals,nan,nan
+22-08-2020,Cincinnati Reds,St. Louis Cardinals,nan,nan
+23-08-2020,Cincinnati Reds,St. Louis Cardinals,nan,nan
+24-08-2020,Kansas City Royals,St. Louis Cardinals,nan,nan
+25-08-2020,Kansas City Royals,St. Louis Cardinals,nan,nan
+26-08-2020,Kansas City Royals,St. Louis Cardinals,nan,nan
+28-08-2020,Cleveland Indians,St. Louis Cardinals,nan,2.694886288944393
+29-08-2020,Cleveland Indians,St. Louis Cardinals,2.2057869469313616,nan
+30-08-2020,Cleveland Indians,St. Louis Cardinals,0.45428264640290744,0.8553164670928244
+11-09-2020,Cincinnati Reds,St. Louis Cardinals,0.7420599584446423,1.2493167798859997
+12-09-2020,Cincinnati Reds,St. Louis Cardinals,1.07576456124174,1.2256057320637315
+13-09-2020,Cincinnati Reds,St. Louis Cardinals,0.9161322561838929,nan
+24-09-2020,Milwaukee Brewers,St. Louis Cardinals,-2.284191491386695,0.7761715339089937
+26-09-2020,Milwaukee Brewers,St. Louis Cardinals,-0.04345181194055793,0.04542563823021714
+27-09-2020,Milwaukee Brewers,St. Louis Cardinals,0.2968239833778569,1.051340459085334
+24-07-2020,Toronto Blue Jays,Tampa Bay Rays,nan,nan
+25-07-2020,Toronto Blue Jays,Tampa Bay Rays,nan,nan
+26-07-2020,Toronto Blue Jays,Tampa Bay Rays,nan,nan
+27-07-2020,Atlanta Braves,Tampa Bay Rays,nan,nan
+28-07-2020,Atlanta Braves,Tampa Bay Rays,nan,nan
+04-08-2020,Boston Red Sox,Tampa Bay Rays,nan,nan
+05-08-2020,Boston Red Sox,Tampa Bay Rays,nan,nan
+07-08-2020,New York Yankees,Tampa Bay Rays,nan,nan
+09-08-2020,New York Yankees,Tampa Bay Rays,nan,nan
+21-08-2020,Toronto Blue Jays,Tampa Bay Rays,3.3307427556345073,2.433713334187268
+22-08-2020,Toronto Blue Jays,Tampa Bay Rays,-0.3957653111704759,nan
+23-08-2020,Toronto Blue Jays,Tampa Bay Rays,nan,nan
+24-08-2020,Toronto Blue Jays,Tampa Bay Rays,3.2207177599579335,0.6167509559639818
+25-08-2020,Baltimore Orioles,Tampa Bay Rays,0.2602269178723847,0.5058808650562792
+26-08-2020,Baltimore Orioles,Tampa Bay Rays,2.1499936764891876,1.573833310524155
+04-09-2020,Miami Marlins,Tampa Bay Rays,-0.7865272508559266,nan
+05-09-2020,Miami Marlins,Tampa Bay Rays,nan,2.4192700115704224
+06-09-2020,Miami Marlins,Tampa Bay Rays,nan,-0.8630871263741258
+10-09-2020,Boston Red Sox,Tampa Bay Rays,nan,nan
+11-09-2020,Boston Red Sox,Tampa Bay Rays,nan,1.3674134848006736
+12-09-2020,Boston Red Sox,Tampa Bay Rays,2.2670491348200237,-0.9715924863514387
+13-09-2020,Boston Red Sox,Tampa Bay Rays,2.629641316924372,0.16374652038644177
+15-09-2020,Washington Nationals,Tampa Bay Rays,1.7455158300228726,-1.2874155133569358
+16-09-2020,Washington Nationals,Tampa Bay Rays,4.995143610378797,0.8599931200550396
+25-09-2020,Philadelphia Phillies,Tampa Bay Rays,-0.8326856889086268,0.11354604292040424
+26-09-2020,Philadelphia Phillies,Tampa Bay Rays,-0.0446149727848666,0.8126306013466451
+27-09-2020,Philadelphia Phillies,Tampa Bay Rays,-0.2775978532432682,1.5956708755376714
+24-07-2020,Colorado Rockies,Texas Rangers,nan,nan
+25-07-2020,Colorado Rockies,Texas Rangers,nan,nan
+26-07-2020,Colorado Rockies,Texas Rangers,nan,nan
+28-07-2020,Arizona Diamondbacks,Texas Rangers,nan,nan
+29-07-2020,Arizona Diamondbacks,Texas Rangers,nan,nan
+07-08-2020,Los Angeles Angels,Texas Rangers,nan,nan
+08-08-2020,Los Angeles Angels,Texas Rangers,nan,nan
+09-08-2020,Los Angeles Angels,Texas Rangers,nan,nan
+10-08-2020,Seattle Mariners,Texas Rangers,nan,nan
+11-08-2020,Seattle Mariners,Texas Rangers,nan,nan
+12-08-2020,Seattle Mariners,Texas Rangers,nan,nan
+17-08-2020,San Diego Padres,Texas Rangers,0.4282859046350053,3.1225161803111168
+18-08-2020,San Diego Padres,Texas Rangers,nan,1.1657599644720775
+24-08-2020,Oakland Athletics,Texas Rangers,1.5945572446050813,0.49558106880317176
+25-08-2020,Oakland Athletics,Texas Rangers,1.096624832460095,1.5777847901546234
+26-08-2020,Oakland Athletics,Texas Rangers,3.1497773433257312,0.24970867321458304
+28-08-2020,Los Angeles Dodgers,Texas Rangers,2.2026431718061676,3.0563065710591286
+29-08-2020,Los Angeles Dodgers,Texas Rangers,5.794591714399894,0.31728404854445946
+30-08-2020,Los Angeles Dodgers,Texas Rangers,nan,2.0938422004378037
+08-09-2020,Los Angeles Angels,Texas Rangers,-0.4383273428596477,1.8855472800980486
+09-09-2020,Los Angeles Angels,Texas Rangers,2.2204951704230047,0.5200748907842729
+10-09-2020,Los Angeles Angels,Texas Rangers,-0.7471747454936023,3.5026269702276704
+11-09-2020,Oakland Athletics,Texas Rangers,0.10196798205363514,-0.5343783398646241
+13-09-2020,Oakland Athletics,Texas Rangers,1.7667844522968197,2.2508328081390117
+24-09-2020,Houston Astros,Texas Rangers,0.9145912480652877,0.20649211200132156
+25-09-2020,Houston Astros,Texas Rangers,0.9453497794183848,0.7345379756133392
+26-09-2020,Houston Astros,Texas Rangers,0.6465263900317387,1.8170255292086857
+27-09-2020,Houston Astros,Texas Rangers,nan,1.9807328711623302
+11-08-2020,Miami Marlins,Toronto Blue Jays,nan,nan
+12-08-2020,Miami Marlins,Toronto Blue Jays,nan,nan
+14-08-2020,Tampa Bay Rays,Toronto Blue Jays,nan,nan
+15-08-2020,Tampa Bay Rays,Toronto Blue Jays,2.366677185231935,nan
+16-08-2020,Tampa Bay Rays,Toronto Blue Jays,nan,nan
+25-08-2020,Boston Red Sox,Toronto Blue Jays,nan,nan
+26-08-2020,Boston Red Sox,Toronto Blue Jays,1.226563868932889,nan
+28-08-2020,Baltimore Orioles,Toronto Blue Jays,2.539360081259522,-0.6431186306520233
+29-08-2020,Baltimore Orioles,Toronto Blue Jays,1.8124816302537472,2.048566003797342
+30-08-2020,Baltimore Orioles,Toronto Blue Jays,0.736859341738988,2.3817822702451497
+31-08-2020,Baltimore Orioles,Toronto Blue Jays,nan,1.1322765418942322
+07-09-2020,New York Yankees,Toronto Blue Jays,0.6243171531137821,-1.6325319085782133
+08-09-2020,New York Yankees,Toronto Blue Jays,0.5136826375268515,1.5898973380576
+09-09-2020,New York Yankees,Toronto Blue Jays,nan,3.406381287612127
+11-09-2020,New York Mets,Toronto Blue Jays,-1.1200137847850435,0.9875682583943303
+12-09-2020,New York Mets,Toronto Blue Jays,-0.1332090049287332,2.394963733406323
+13-09-2020,New York Mets,Toronto Blue Jays,2.194642046314515,0.6925892945483328
+21-09-2020,New York Yankees,Toronto Blue Jays,3.095666067505492,1.811793126166685
+22-09-2020,New York Yankees,Toronto Blue Jays,-1.1200137847850435,5.315742282566927
+23-09-2020,New York Yankees,Toronto Blue Jays,1.358300184340739,2.04646683519923
+24-09-2020,New York Yankees,Toronto Blue Jays,-0.3485535029627048,0.3957653111704759
+25-09-2020,Baltimore Orioles,Toronto Blue Jays,2.331778814123918,1.5985080591447984
+26-09-2020,Baltimore Orioles,Toronto Blue Jays,0.4282859046350053,nan
+27-09-2020,Baltimore Orioles,Toronto Blue Jays,-1.9978484708775168,4.739336492890995
+23-07-2020,New York Yankees,Washington Nationals,nan,nan
+25-07-2020,New York Yankees,Washington Nationals,nan,nan
+26-07-2020,New York Yankees,Washington Nationals,nan,nan
+27-07-2020,Toronto Blue Jays,Washington Nationals,nan,nan
+28-07-2020,Toronto Blue Jays,Washington Nationals,nan,nan
+29-07-2020,Toronto Blue Jays,Washington Nationals,nan,nan
+30-07-2020,Toronto Blue Jays,Washington Nationals,nan,nan
+04-08-2020,New York Mets,Washington Nationals,nan,nan
+05-08-2020,New York Mets,Washington Nationals,nan,nan
+07-08-2020,Baltimore Orioles,Washington Nationals,nan,nan
+08-08-2020,Baltimore Orioles,Washington Nationals,nan,nan
+09-08-2020,Baltimore Orioles,Washington Nationals,nan,nan
+21-08-2020,Miami Marlins,Washington Nationals,nan,0.4996502448286201
+23-08-2020,Miami Marlins,Washington Nationals,nan,1.5840136468868038
+24-08-2020,Miami Marlins,Washington Nationals,-0.29106432521587267,2.467003823855927
+25-08-2020,Philadelphia Phillies,Washington Nationals,0.2715325295970458,1.0283531658586749
+26-08-2020,Philadelphia Phillies,Washington Nationals,0.7138098410583422,0.5336179295624331
+07-09-2020,Tampa Bay Rays,Washington Nationals,0.6147226064238513,0.0
+08-09-2020,Tampa Bay Rays,Washington Nationals,0.30905532090244153,1.8803051466638017
+10-09-2020,Atlanta Braves,Washington Nationals,2.603067398339665,4.632981033733892
+11-09-2020,Atlanta Braves,Washington Nationals,2.708559046587216,4.718552237148885
+12-09-2020,Atlanta Braves,Washington Nationals,nan,2.243295605179973
+13-09-2020,Atlanta Braves,Washington Nationals,5.05735783890465,-1.1254164040695058
+21-09-2020,Philadelphia Phillies,Washington Nationals,-0.08541898009737768,1.3737979268140381
+23-09-2020,Philadelphia Phillies,Washington Nationals,0.8327261371916311,2.720106583768181
+24-09-2020,New York Mets,Washington Nationals,2.5903540150487236,0.4163967798649023
+27-09-2020,New York Mets,Washington Nationals,2.6168668966337587,0.8157438564290811

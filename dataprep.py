@@ -10,7 +10,7 @@ sys.path.append('./function_scripts')
 import pandas as pd
 import numpy as np
 # sklearn functions
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MinMaxScaler, KBinsDiscretizer
 from sklearn.model_selection import train_test_split
 # My functions
 import get_mlb_playerstats
@@ -25,7 +25,7 @@ from joining_dfs import combine_df
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2020,2021):
+for yeari in range(2019,2021):
     curYear_DF = combine_df(yeari)
     #loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
@@ -179,6 +179,16 @@ statsDF['P_FB-GB*WS_A'] = (statsDF['FB%_HomeSP_prevY'] - statsDF['FB%_HomeSP_pre
 statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY','GB%_HomeSP_prevY'],axis=1)
 '''
 
+statsDF['recFIP_Diff'] = statsDF.apply(lambda x: x['H_SP_recFIP'] - x['A_SP_recFIP'], axis=1)
+
+
+# WEATHER
+statsDF['windDirection'] = statsDF['windDirection'].fillna('NaN')
+statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else 'crosswind')))
+statsDF['precipitation'] = statsDF['precipitation'].fillna('NaN')
+statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: 'Rain' if 'Drizzle' in x else x)
+
+
 
 # Save Modes, Means, and SDs for testing data
 #pickle.dump(modeTestingList, open('modes.pkl', 'wb'))
@@ -198,15 +208,22 @@ labels = np.array(statsDF[labelCol])
 kfolds = np.array(statsDF['kfold'])
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
-useful_features = ['month']
+useful_features = []
 #useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
 useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
 useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
-#useful_features.extend(['WinPct_Diff','temperature'])#,'HLastGame','ALastGame'])
+useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
+useful_features.extend(['temperature','windSpeed'])#,'windDirection','precipitation'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
-featuresDF = pd.DataFrame()
-featuresDF = pd.concat([featuresDF, statsDF[useful_features]], axis=1, sort=False)
-featuresDF = pd.get_dummies(featuresDF)
+
+# Create Full Features DF
+featuresDF_orig = pd.DataFrame()
+featuresDF_orig = pd.concat([featuresDF_orig, statsDF[useful_features]], axis=1, sort=False)
+# Discretize Numeric Features into Bins
+kbins = KBinsDiscretizer(n_bins=20,encode='ordinal',strategy='uniform')
+featuresDF = kbins.fit_transform(featuresDF_orig)
+featuresDF = pd.DataFrame(data=featuresDF,columns=featuresDF_orig.columns)
+#featuresDF = pd.get_dummies(featuresDF)
 
 features_list = list(featuresDF.columns)
 
@@ -226,6 +243,8 @@ pd.set_option('display.max_columns', 500)
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
 accArray = []
+accCutOff = 0.6
+cutOffAccArray = []
 for curFold in np.unique(statsDF['kfold']):
 
     # Transform features into numpy array
@@ -254,9 +273,15 @@ for curFold in np.unique(statsDF['kfold']):
     accArray.append(curACC)
     #print('Accuracy: ', curACC)
 
+    # Using Accuracy Cutoff to get best predictions
+    # Transform predictions into binary
+    predictions_binary = np.array([0 if x[0] > accCutOff else (1 if x[0] < (1-accCutOff) else np.nan) for x in predictions])
+    ind = np.where(~np.isnan(predictions_binary))[0]
+    curACC = round(sum(predictions_binary[ind] == test_labels[ind])/len(test_labels[ind]),2)
+    cutOffAccArray.append(curACC)
 
 print('MEAN ACCURACY: ', np.mean(accArray))
-
+print('MEAN ACCURACY WITH CUTOFF: ', np.mean(cutOffAccArray))
 
 sys.exit()
 
