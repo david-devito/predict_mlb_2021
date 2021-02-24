@@ -25,14 +25,11 @@ from joining_dfs import combine_df
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2019,2021):
+for yeari in range(2016,2021):
     curYear_DF = combine_df(yeari)
     #loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
-# Fill NaN's in each numeric column with the column mean
-for coli in statsDF.columns:
-    if (statsDF[coli].dtypes == 'int64') | (statsDF[coli].dtypes == 'float64'):
-        statsDF[coli] = statsDF[coli].fillna(statsDF[coli].mean())
+
 # Calculate difference in WinPct
 statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
 statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
@@ -127,7 +124,7 @@ for yeari in ['prevY']:
 #statsDF = statsDF.drop(['GB%_H_avg_prevY','GB%_A_avg_prevY'],axis=1)
 
 '''
-
+'''
 # Recent wOBA Stats
 statsDF['H_recwOBA_1-3'] = statsDF.apply(lambda x: (x['H_1_recwOBA'] + x['H_2_recwOBA'] + x['H_3_recwOBA'])/3, axis=1)
 statsDF['H_recwOBA_4-6'] = statsDF.apply(lambda x: (x['H_4_recwOBA'] + x['H_5_recwOBA'] + x['H_6_recwOBA'])/3, axis=1)
@@ -135,7 +132,7 @@ statsDF['H_recwOBA_7-9'] = statsDF.apply(lambda x: (x['H_7_recwOBA'] + x['H_8_re
 statsDF['A_recwOBA_1-3'] = statsDF.apply(lambda x: (x['A_1_recwOBA'] + x['A_2_recwOBA'] + x['A_3_recwOBA'])/3, axis=1)
 statsDF['A_recwOBA_4-6'] = statsDF.apply(lambda x: (x['A_4_recwOBA'] + x['A_5_recwOBA'] + x['A_6_recwOBA'])/3, axis=1)
 statsDF['A_recwOBA_7-9'] = statsDF.apply(lambda x: (x['A_7_recwOBA'] + x['A_8_recwOBA'] + x['A_9_recwOBA'])/3, axis=1)
-
+'''
 
 
 '''
@@ -207,11 +204,18 @@ labels = np.array(statsDF[labelCol])
 # Get kfolds as a numpy array
 kfolds = np.array(statsDF['kfold'])
 
+# Classify all numeric data into bins
+for coli in statsDF.columns:
+    if ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year','kfold']:
+        statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
+        statsDF[coli] = statsDF[coli].astype(str)
+
+
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = []
 #useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
 useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
-useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
+#useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
 useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
 useful_features.extend(['temperature','windSpeed'])#,'windDirection','precipitation'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
@@ -220,10 +224,10 @@ useful_features.extend(['temperature','windSpeed'])#,'windDirection','precipitat
 featuresDF_orig = pd.DataFrame()
 featuresDF_orig = pd.concat([featuresDF_orig, statsDF[useful_features]], axis=1, sort=False)
 # Discretize Numeric Features into Bins
-kbins = KBinsDiscretizer(n_bins=20,encode='ordinal',strategy='uniform')
-featuresDF = kbins.fit_transform(featuresDF_orig)
-featuresDF = pd.DataFrame(data=featuresDF,columns=featuresDF_orig.columns)
-#featuresDF = pd.get_dummies(featuresDF)
+#kbins = KBinsDiscretizer(n_bins=20,encode='ordinal',strategy='uniform')
+#featuresDF = kbins.fit_transform(featuresDF_orig)
+#featuresDF = pd.DataFrame(data=featuresDF,columns=featuresDF_orig.columns)
+featuresDF = pd.get_dummies(featuresDF_orig)
 
 features_list = list(featuresDF.columns)
 
@@ -245,7 +249,7 @@ print('Modelling...')
 accArray = []
 accCutOff = 0.6
 cutOffAccArray = []
-for curFold in np.unique(statsDF['kfold']):
+for curFold in [int(x) for x in np.unique(statsDF['kfold'])]:
 
     # Transform features into numpy array
     train_features = np.array(featuresDF[kfolds != curFold])

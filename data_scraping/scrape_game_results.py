@@ -21,9 +21,9 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'weather' #lineups, recwOBA, winpct, weather, recFIP
+section = 'recFIP' #lineups, recwOBA, winpct, weather, recFIP
 
-year = '2016'
+year = '2015'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',

@@ -1,0 +1,2380 @@
+Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
+09-04-2013,Oakland Athletics,Los Angeles Angels of Anaheim,68,6,out to Centerfield,Sunny
+10-04-2013,Oakland Athletics,Los Angeles Angels of Anaheim,72,6,out to Centerfield,Sunny
+11-04-2013,Oakland Athletics,Los Angeles Angels of Anaheim,61,8,out to Centerfield,Sunny
+12-04-2013,Houston Astros,Los Angeles Angels of Anaheim,66,6,out to Centerfield,Sunny
+13-04-2013,Houston Astros,Los Angeles Angels of Anaheim,60,8,out to Centerfield.,Wind8mphouttoCenterfield
+14-04-2013,Houston Astros,Los Angeles Angels of Anaheim,63,5,out to Centerfield.,Wind5mphouttoCenterfield
+19-04-2013,Detroit Tigers,Los Angeles Angels of Anaheim,77,6,out to Centerfield,Sunny
+20-04-2013,Detroit Tigers,Los Angeles Angels of Anaheim,77,4,out to Centerfield,Sunny
+21-04-2013,Detroit Tigers,Los Angeles Angels of Anaheim,74,9,out to Centerfield,Sunny
+22-04-2013,Texas Rangers,Los Angeles Angels of Anaheim,62,10,out to Centerfield,Cloudy
+23-04-2013,Texas Rangers,Los Angeles Angels of Anaheim,64,7,out to Centerfield,Sunny
+24-04-2013,Texas Rangers,Los Angeles Angels of Anaheim,63,10,out to Centerfield.,Wind10mphouttoCenterfield
+02-05-2013,Baltimore Orioles,Los Angeles Angels of Anaheim,88,5,out to Rightfield,Sunny
+03-05-2013,Baltimore Orioles,Los Angeles Angels of Anaheim,83,6,out to Leftfield,Cloudy
+04-05-2013,Baltimore Orioles,Los Angeles Angels of Anaheim,70,11,from Right to Left,Sunny
+05-05-2013,Baltimore Orioles,Los Angeles Angels of Anaheim,65,12,out to Rightfield,Overcast
+13-05-2013,Kansas City Royals,Los Angeles Angels of Anaheim,86,3,out to Centerfield,Sunny
+14-05-2013,Kansas City Royals,Los Angeles Angels of Anaheim,71,5,out to Rightfield,Sunny
+15-05-2013,Kansas City Royals,Los Angeles Angels of Anaheim,67,6,out to Centerfield,Sunny
+16-05-2013,Chicago White Sox,Los Angeles Angels of Anaheim,66,7,out to Rightfield,Cloudy
+17-05-2013,Chicago White Sox,Los Angeles Angels of Anaheim,69,7,out to Centerfield,Cloudy
+18-05-2013,Chicago White Sox,Los Angeles Angels of Anaheim,72,7,from Right to Left,Cloudy
+19-05-2013,Chicago White Sox,Los Angeles Angels of Anaheim,74,7,out to Rightfield,Sunny
+21-05-2013,Seattle Mariners,Los Angeles Angels of Anaheim,69,8,out to Rightfield,Sunny
+22-05-2013,Seattle Mariners,Los Angeles Angels of Anaheim,71,8,in from Leftfield,Sunny
+29-05-2013,Los Angeles Dodgers,Los Angeles Angels of Anaheim,73,9,out to Centerfield,Sunny
+30-05-2013,Los Angeles Dodgers,Los Angeles Angels of Anaheim,71,11,out to Rightfield,Sunny
+31-05-2013,Houston Astros,Los Angeles Angels of Anaheim,72,7,out to Centerfield,Cloudy
+01-06-2013,Houston Astros,Los Angeles Angels of Anaheim,70,10,out to Rightfield,Sunny
+02-06-2013,Houston Astros,Los Angeles Angels of Anaheim,69,9,out to Centerfield,Overcast
+03-06-2013,Houston Astros,Los Angeles Angels of Anaheim,67,8,out to Centerfield,Cloudy
+04-06-2013,Chicago Cubs,Los Angeles Angels of Anaheim,69,9,out to Centerfield,Sunny
+05-06-2013,Chicago Cubs,Los Angeles Angels of Anaheim,75,9,out to Centerfield,Sunny
+14-06-2013,New York Yankees,Los Angeles Angels of Anaheim,67,9,out to Centerfield,Sunny
+15-06-2013,New York Yankees,Los Angeles Angels of Anaheim,72,7,from Left to Right,Sunny
+16-06-2013,New York Yankees,Los Angeles Angels of Anaheim,75,4,out to Rightfield,Sunny
+17-06-2013,Seattle Mariners,Los Angeles Angels of Anaheim,72,4,out to Leftfield,Sunny
+18-06-2013,Seattle Mariners,Los Angeles Angels of Anaheim,72,7,out to Rightfield,Sunny
+19-06-2013,Seattle Mariners,Los Angeles Angels of Anaheim,75,5,out to Centerfield,Sunny
+20-06-2013,Seattle Mariners,Los Angeles Angels of Anaheim,75,6,out to Centerfield,Sunny
+21-06-2013,Pittsburgh Pirates,Los Angeles Angels of Anaheim,73,8,out to Rightfield,Cloudy
+22-06-2013,Pittsburgh Pirates,Los Angeles Angels of Anaheim,73,7,out to Centerfield,Sunny
+23-06-2013,Pittsburgh Pirates,Los Angeles Angels of Anaheim,70,5,out to Centerfield.,Wind5mphouttoCenterfield
+02-07-2013,St. Louis Cardinals,Los Angeles Angels of Anaheim,71,6,out to Centerfield,Cloudy
+03-07-2013,St. Louis Cardinals,Los Angeles Angels of Anaheim,74,3,in unknown direction,Cloudy
+04-07-2013,St. Louis Cardinals,Los Angeles Angels of Anaheim,76,7,out to Centerfield,Sunny
+05-07-2013,Boston Red Sox,Los Angeles Angels of Anaheim,72,8,out to Centerfield,Sunny
+06-07-2013,Boston Red Sox,Los Angeles Angels of Anaheim,72,6,out to Centerfield,Cloudy
+07-07-2013,Boston Red Sox,Los Angeles Angels of Anaheim,81,3,out to Centerfield,Cloudy
+19-07-2013,Oakland Athletics,Los Angeles Angels of Anaheim,73,7,from Right to Left,Sunny
+20-07-2013,Oakland Athletics,Los Angeles Angels of Anaheim,68,7,out to Centerfield,Cloudy
+21-07-2013,Oakland Athletics,Los Angeles Angels of Anaheim,72,6,out to Centerfield,Overcast
+22-07-2013,Minnesota Twins,Los Angeles Angels of Anaheim,73,9,out to Centerfield,Cloudy
+23-07-2013,Minnesota Twins,Los Angeles Angels of Anaheim,76,8,out to Leftfield,Sunny
+24-07-2013,Minnesota Twins,Los Angeles Angels of Anaheim,79,6,out to Centerfield,Sunny
+01-08-2013,Toronto Blue Jays,Los Angeles Angels of Anaheim,71,6,out to Centerfield,Sunny
+02-08-2013,Toronto Blue Jays,Los Angeles Angels of Anaheim,72,8,from Right to Left,Cloudy
+03-08-2013,Toronto Blue Jays,Los Angeles Angels of Anaheim,74,10,out to Centerfield,Cloudy
+04-08-2013,Toronto Blue Jays,Los Angeles Angels of Anaheim,75,4,out to Leftfield,Sunny
+05-08-2013,Texas Rangers,Los Angeles Angels of Anaheim,72,7,out to Centerfield,Sunny
+06-08-2013,Texas Rangers,Los Angeles Angels of Anaheim,72,7,out to Rightfield,Cloudy
+07-08-2013,Texas Rangers,Los Angeles Angels of Anaheim,72,7,out to Centerfield,Sunny
+16-08-2013,Houston Astros,Los Angeles Angels of Anaheim,79,7,out to Rightfield,Sunny
+17-08-2013,Houston Astros,Los Angeles Angels of Anaheim,83,6,out to Centerfield,Sunny
+18-08-2013,Houston Astros,Los Angeles Angels of Anaheim,76,6,out to Leftfield,Sunny
+19-08-2013,Cleveland Indians,Los Angeles Angels of Anaheim,72,7,out to Centerfield,Cloudy
+20-08-2013,Cleveland Indians,Los Angeles Angels of Anaheim,77,6,out to Rightfield,Cloudy
+21-08-2013,Cleveland Indians,Los Angeles Angels of Anaheim,86,10,out to Centerfield,Sunny
+02-09-2013,Tampa Bay Rays,Los Angeles Angels of Anaheim,85,7,out to Centerfield,Cloudy
+03-09-2013,Tampa Bay Rays,Los Angeles Angels of Anaheim,86,7,out to Centerfield,Sunny
+04-09-2013,Tampa Bay Rays,Los Angeles Angels of Anaheim,89,6,out to Rightfield,Sunny
+05-09-2013,Tampa Bay Rays,Los Angeles Angels of Anaheim,88,4,out to Centerfield,Cloudy
+06-09-2013,Texas Rangers,Los Angeles Angels of Anaheim,89,4,out to Centerfield,Cloudy
+07-09-2013,Texas Rangers,Los Angeles Angels of Anaheim,88,9,out to Leftfield,Cloudy
+08-09-2013,Texas Rangers,Los Angeles Angels of Anaheim,84,8,out to Centerfield,Cloudy
+20-09-2013,Seattle Mariners,Los Angeles Angels of Anaheim,68,5,out to Rightfield,Overcast
+21-09-2013,Seattle Mariners,Los Angeles Angels of Anaheim,72,8,in from Centerfield,Sunny
+22-09-2013,Seattle Mariners,Los Angeles Angels of Anaheim,75,3,out to Centerfield,Cloudy
+23-09-2013,Oakland Athletics,Los Angeles Angels of Anaheim,80,5,out to Rightfield,Sunny
+24-09-2013,Oakland Athletics,Los Angeles Angels of Anaheim,78,5,out to Rightfield,Sunny
+25-09-2013,Oakland Athletics,Los Angeles Angels of Anaheim,75,7,out to Centerfield,Sunny
+01-04-2013,St. Louis Cardinals,Arizona Diamondbacks,82,8,in from Rightfield,Cloudy
+02-04-2013,St. Louis Cardinals,Arizona Diamondbacks,82,12,from Left to Right,Sunny
+03-04-2013,St. Louis Cardinals,Arizona Diamondbacks,83,5,in from Leftfield,Sunny
+08-04-2013,Pittsburgh Pirates,Arizona Diamondbacks,75,0,NoWind,InDome
+09-04-2013,Pittsburgh Pirates,Arizona Diamondbacks,73,10,out to Rightfield.,Wind10mphouttoRightfield
+10-04-2013,Pittsburgh Pirates,Arizona Diamondbacks,70,4,in from Leftfield,Sunny
+12-04-2013,Los Angeles Dodgers,Arizona Diamondbacks,84,2,from Left to Right,Sunny
+13-04-2013,Los Angeles Dodgers,Arizona Diamondbacks,86,8,out to Rightfield,Sunny
+14-04-2013,Los Angeles Dodgers,Arizona Diamondbacks,73,0,NoWind,InDome
+25-04-2013,Colorado Rockies,Arizona Diamondbacks,79,8,from Left to Right,Sunny
+26-04-2013,Colorado Rockies,Arizona Diamondbacks,88,8,from Left to Right,Sunny
+27-04-2013,Colorado Rockies,Arizona Diamondbacks,76,0,NoWind,InDome
+28-04-2013,Colorado Rockies,Arizona Diamondbacks,74,0,NoWind,InDome
+29-04-2013,San Francisco Giants,Arizona Diamondbacks,99,10,from Left to Right,Sunny
+30-04-2013,San Francisco Giants,Arizona Diamondbacks,96,14,in from Leftfield,Sunny
+01-05-2013,San Francisco Giants,Arizona Diamondbacks,92,9,in from Leftfield,Sunny
+09-05-2013,Philadelphia Phillies,Arizona Diamondbacks,88,4,out to Rightfield,Sunny
+10-05-2013,Philadelphia Phillies,Arizona Diamondbacks,92,6,from Left to Right,Cloudy
+11-05-2013,Philadelphia Phillies,Arizona Diamondbacks,94,5,from Right to Left,Sunny
+12-05-2013,Philadelphia Phillies,Arizona Diamondbacks,79,0,NoWind,InDome
+13-05-2013,Atlanta Braves,Arizona Diamondbacks,99,5,out to Leftfield,Cloudy
+14-05-2013,Atlanta Braves,Arizona Diamondbacks,98,13,from Left to Right,Sunny
+15-05-2013,Atlanta Braves,Arizona Diamondbacks,77,0,NoWind,InDome
+24-05-2013,San Diego Padres,Arizona Diamondbacks,95,13,in from Leftfield,Sunny
+25-05-2013,San Diego Padres,Arizona Diamondbacks,97,9,from Left to Right,Sunny
+26-05-2013,San Diego Padres,Arizona Diamondbacks,74,0,NoWind,InDome
+07-06-2013,San Francisco Giants,Arizona Diamondbacks,83,0,NoWind,InDome
+08-06-2013,San Francisco Giants,Arizona Diamondbacks,82,0,NoWind,InDome
+09-06-2013,San Francisco Giants,Arizona Diamondbacks,77,0,NoWind,InDome
+17-06-2013,Miami Marlins,Arizona Diamondbacks,81,0,NoWind,InDome
+18-06-2013,Miami Marlins,Arizona Diamondbacks,80,0,NoWind,InDome
+19-06-2013,Miami Marlins,Arizona Diamondbacks,77,0,NoWind,InDome
+21-06-2013,Cincinnati Reds,Arizona Diamondbacks,79,0,NoWind,InDome
+22-06-2013,Cincinnati Reds,Arizona Diamondbacks,77,0,NoWind,InDome
+23-06-2013,Cincinnati Reds,Arizona Diamondbacks,75,0,NoWind,InDome
+05-07-2013,Colorado Rockies,Arizona Diamondbacks,80,0,NoWind,InDome
+06-07-2013,Colorado Rockies,Arizona Diamondbacks,82,0,NoWind,InDome
+07-07-2013,Colorado Rockies,Arizona Diamondbacks,78,0,NoWind,InDome
+08-07-2013,Los Angeles Dodgers,Arizona Diamondbacks,81,0,NoWind,InDome
+09-07-2013,Los Angeles Dodgers,Arizona Diamondbacks,81,0,NoWind,InDome
+10-07-2013,Los Angeles Dodgers,Arizona Diamondbacks,80,0,NoWind,InDome
+11-07-2013,Milwaukee Brewers,Arizona Diamondbacks,78,0,NoWind,InDome
+12-07-2013,Milwaukee Brewers,Arizona Diamondbacks,77,0,NoWind,InDome
+13-07-2013,Milwaukee Brewers,Arizona Diamondbacks,79,0,NoWind,InDome
+14-07-2013,Milwaukee Brewers,Arizona Diamondbacks,77,0,NoWind,InDome
+22-07-2013,Chicago Cubs,Arizona Diamondbacks,80,0,NoWind,InDome
+23-07-2013,Chicago Cubs,Arizona Diamondbacks,79,0,NoWind,InDome
+24-07-2013,Chicago Cubs,Arizona Diamondbacks,80,0,NoWind,InDome
+25-07-2013,Chicago Cubs,Arizona Diamondbacks,78,0,NoWind,InDome
+26-07-2013,San Diego Padres,Arizona Diamondbacks,79,0,NoWind,InDome
+27-07-2013,San Diego Padres,Arizona Diamondbacks,79,0,NoWind,InDome
+28-07-2013,San Diego Padres,Arizona Diamondbacks,76,0,NoWind,InDome
+06-08-2013,Tampa Bay Rays,Arizona Diamondbacks,78,0,NoWind,InDome
+07-08-2013,Tampa Bay Rays,Arizona Diamondbacks,77,0,NoWind,InDome
+09-08-2013,New York Mets,Arizona Diamondbacks,79,0,NoWind,InDome
+10-08-2013,New York Mets,Arizona Diamondbacks,79,0,NoWind,InDome
+11-08-2013,New York Mets,Arizona Diamondbacks,76,0,NoWind,InDome
+12-08-2013,Baltimore Orioles,Arizona Diamondbacks,78,0,NoWind,InDome
+13-08-2013,Baltimore Orioles,Arizona Diamondbacks,77,0,NoWind,InDome
+14-08-2013,Baltimore Orioles,Arizona Diamondbacks,77,0,NoWind,InDome
+26-08-2013,San Diego Padres,Arizona Diamondbacks,78,0,NoWind,InDome
+27-08-2013,San Diego Padres,Arizona Diamondbacks,78,0,NoWind,InDome
+28-08-2013,San Diego Padres,Arizona Diamondbacks,78,0,NoWind,InDome
+30-08-2013,San Francisco Giants,Arizona Diamondbacks,78,0,NoWind,InDome
+31-08-2013,San Francisco Giants,Arizona Diamondbacks,77,0,NoWind,InDome
+01-09-2013,San Francisco Giants,Arizona Diamondbacks,76,0,NoWind,InDome
+02-09-2013,Toronto Blue Jays,Arizona Diamondbacks,76,0,NoWind,InDome
+03-09-2013,Toronto Blue Jays,Arizona Diamondbacks,77,0,NoWind,InDome
+04-09-2013,Toronto Blue Jays,Arizona Diamondbacks,75,0,NoWind,InDome
+13-09-2013,Colorado Rockies,Arizona Diamondbacks,97,7,from Right to Left,Sunny
+14-09-2013,Colorado Rockies,Arizona Diamondbacks,78,0,NoWind,InDome
+15-09-2013,Colorado Rockies,Arizona Diamondbacks,75,0,NoWind,InDome
+16-09-2013,Los Angeles Dodgers,Arizona Diamondbacks,101,5,in from Centerfield,Sunny
+17-09-2013,Los Angeles Dodgers,Arizona Diamondbacks,102,5,from Left to Right,Cloudy
+18-09-2013,Los Angeles Dodgers,Arizona Diamondbacks,98,4,out to Leftfield,Sunny
+19-09-2013,Los Angeles Dodgers,Arizona Diamondbacks,74,0,NoWind,InDome
+27-09-2013,Washington Nationals,Arizona Diamondbacks,84,6,in from Centerfield,Sunny
+28-09-2013,Washington Nationals,Arizona Diamondbacks,85,3,out to Leftfield,Sunny
+29-09-2013,Washington Nationals,Arizona Diamondbacks,74,0,NoWind,InDome
+01-04-2013,Philadelphia Phillies,Atlanta Braves,69,11,from Left to Right,Cloudy
+03-04-2013,Philadelphia Phillies,Atlanta Braves,60,9,from Right to Left,Rain
+04-04-2013,Philadelphia Phillies,Atlanta Braves,41,11,in from Rightfield.,Wind11mphinfromRightfield
+05-04-2013,Chicago Cubs,Atlanta Braves,62,13,from Left to Right,Sunny
+06-04-2013,Chicago Cubs,Atlanta Braves,69,8,out to Leftfield,Cloudy
+07-04-2013,Chicago Cubs,Atlanta Braves,73,9,out to Centerfield,Cloudy
+16-04-2013,Kansas City Royals,Atlanta Braves,78,7,from Right to Left,Cloudy
+17-04-2013,Kansas City Royals,Atlanta Braves,79,5,out to Centerfield,Cloudy
+29-04-2013,Washington Nationals,Atlanta Braves,72,4,from Right to Left,Cloudy
+30-04-2013,Washington Nationals,Atlanta Braves,75,8,from Right to Left,Cloudy
+01-05-2013,Washington Nationals,Atlanta Braves,67,13,in from Rightfield.,Wind13mphinfromRightfield
+02-05-2013,Washington Nationals,Atlanta Braves,65,15,in from Centerfield.,Wind15mphinfromCenterfield
+03-05-2013,New York Mets,Atlanta Braves,63,13,from Right to Left.,Wind13mphfromRighttoLeft
+05-05-2013,New York Mets,Atlanta Braves,61,1,from Left to Right,Cloudy
+17-05-2013,Los Angeles Dodgers,Atlanta Braves,79,6,from Right to Left.,Wind6mphfromRighttoLeft
+18-05-2013,Los Angeles Dodgers,Atlanta Braves,74,7,out to Centerfield.,Wind7mphouttoCenterfield
+19-05-2013,Los Angeles Dodgers,Atlanta Braves,70,3,in from Centerfield.,Wind3mphinfromCenterfield
+20-05-2013,Minnesota Twins,Atlanta Braves,85,5,in from Centerfield,Cloudy
+21-05-2013,Minnesota Twins,Atlanta Braves,85,5,out to Centerfield,Cloudy
+22-05-2013,Minnesota Twins,Atlanta Braves,84,1,from Right to Left,Cloudy
+29-05-2013,Toronto Blue Jays,Atlanta Braves,81,10,from Right to Left,Sunny
+30-05-2013,Toronto Blue Jays,Atlanta Braves,81,9,from Right to Left.,Wind9mphfromRighttoLeft
+31-05-2013,Washington Nationals,Atlanta Braves,82,9,out to Centerfield,Cloudy
+01-06-2013,Washington Nationals,Atlanta Braves,83,12,out to Leftfield.,Wind12mphouttoLeftfield
+02-06-2013,Washington Nationals,Atlanta Braves,83,10,out to Centerfield.,Wind10mphouttoCenterfield
+03-06-2013,Pittsburgh Pirates,Atlanta Braves,83,6,from Left to Right,Cloudy
+04-06-2013,Pittsburgh Pirates,Atlanta Braves,85,5,in from Centerfield,Cloudy
+05-06-2013,Pittsburgh Pirates,Atlanta Braves,78,6,from Right to Left.,Wind6mphfromRighttoLeft
+14-06-2013,San Francisco Giants,Atlanta Braves,85,3,from Right to Left,Cloudy
+15-06-2013,San Francisco Giants,Atlanta Braves,84,6,from Right to Left,Cloudy
+16-06-2013,San Francisco Giants,Atlanta Braves,82,6,out to Leftfield,Cloudy
+17-06-2013,New York Mets,Atlanta Braves,71,4,out to Leftfield,Rain
+19-06-2013,New York Mets,Atlanta Braves,80,7,in from Centerfield.,Wind7mphinfromCenterfield
+20-06-2013,New York Mets,Atlanta Braves,80,9,from Right to Left,Sunny
+28-06-2013,Arizona Diamondbacks,Atlanta Braves,87,14,from Left to Right.,Wind14mphfromLefttoRight
+29-06-2013,Arizona Diamondbacks,Atlanta Braves,87,8,from Left to Right.,Wind8mphfromLefttoRight
+30-06-2013,Arizona Diamondbacks,Atlanta Braves,86,4,from Left to Right,Cloudy
+02-07-2013,Miami Marlins,Atlanta Braves,85,6,from Right to Left.,Wind6mphfromRighttoLeft
+03-07-2013,Miami Marlins,Atlanta Braves,71,5,from Right to Left.,Wind5mphfromRighttoLeft
+04-07-2013,Miami Marlins,Atlanta Braves,72,15,from Right to Left,Rain
+11-07-2013,Cincinnati Reds,Atlanta Braves,81,3,from Left to Right.,Wind3mphfromLefttoRight
+12-07-2013,Cincinnati Reds,Atlanta Braves,74,4,from Left to Right,Cloudy
+13-07-2013,Cincinnati Reds,Atlanta Braves,76,9,from Right to Left.,Wind9mphfromRighttoLeft
+14-07-2013,Cincinnati Reds,Atlanta Braves,81,8,from Right to Left.,Wind8mphfromRighttoLeft
+26-07-2013,St. Louis Cardinals,Atlanta Braves,80,2,out to Centerfield.,Wind2mphouttoCenterfield
+27-07-2013,St. Louis Cardinals,Atlanta Braves,81,10,from Right to Left.,Wind10mphfromRighttoLeft
+28-07-2013,St. Louis Cardinals,Atlanta Braves,81,7,from Left to Right.,Wind7mphfromLefttoRight
+29-07-2013,Colorado Rockies,Atlanta Braves,83,9,from Left to Right,Cloudy
+30-07-2013,Colorado Rockies,Atlanta Braves,90,2,from Right to Left,Cloudy
+31-07-2013,Colorado Rockies,Atlanta Braves,76,5,out to Rightfield.,Wind5mphouttoRightfield
+01-08-2013,Colorado Rockies,Atlanta Braves,78,11,from Left to Right.,Wind11mphfromLefttoRight
+09-08-2013,Miami Marlins,Atlanta Braves,88,6,out to Centerfield,Cloudy
+10-08-2013,Miami Marlins,Atlanta Braves,86,2,from Right to Left.,Wind2mphfromRighttoLeft
+11-08-2013,Miami Marlins,Atlanta Braves,90,6,out to Rightfield,Cloudy
+12-08-2013,Philadelphia Phillies,Atlanta Braves,74,6,out to Rightfield,Rain
+13-08-2013,Philadelphia Phillies,Atlanta Braves,85,11,from Right to Left,Cloudy
+14-08-2013,Philadelphia Phillies,Atlanta Braves,73,4,from Right to Left,Drizzle
+16-08-2013,Washington Nationals,Atlanta Braves,67,6,from Right to Left.,Wind6mphfromRighttoLeft
+17-08-2013,Washington Nationals,Atlanta Braves,66,4,from Right to Left,Overcast
+18-08-2013,Washington Nationals,Atlanta Braves,73,4,from Right to Left.,Wind4mphfromRighttoLeft
+27-08-2013,Cleveland Indians,Atlanta Braves,85,6,from Left to Right,Cloudy
+28-08-2013,Cleveland Indians,Atlanta Braves,88,8,from Left to Right,Cloudy
+29-08-2013,Cleveland Indians,Atlanta Braves,88,11,from Left to Right,Cloudy
+30-08-2013,Miami Marlins,Atlanta Braves,83,2,from Right to Left,Cloudy
+31-08-2013,Miami Marlins,Atlanta Braves,86,7,from Right to Left,Cloudy
+01-09-2013,Miami Marlins,Atlanta Braves,73,5,from Left to Right.,Wind5mphfromLefttoRight
+02-09-2013,New York Mets,Atlanta Braves,72,7,from Left to Right,Overcast
+03-09-2013,New York Mets,Atlanta Braves,83,9,from Left to Right,Cloudy
+04-09-2013,New York Mets,Atlanta Braves,84,0,NoWind,Cloudy
+13-09-2013,San Diego Padres,Atlanta Braves,78,13,from Left to Right,Cloudy
+14-09-2013,San Diego Padres,Atlanta Braves,77,7,in from Centerfield,Sunny
+15-09-2013,San Diego Padres,Atlanta Braves,77,6,from Right to Left,Cloudy
+23-09-2013,Milwaukee Brewers,Atlanta Braves,75,9,from Right to Left,Cloudy
+24-09-2013,Milwaukee Brewers,Atlanta Braves,68,6,from Left to Right.,Wind6mphfromLefttoRight
+25-09-2013,Milwaukee Brewers,Atlanta Braves,64,8,in from Centerfield,Overcast
+26-09-2013,Philadelphia Phillies,Atlanta Braves,71,1,from Right to Left,Cloudy
+27-09-2013,Philadelphia Phillies,Atlanta Braves,71,7,from Right to Left,Sunny
+28-09-2013,Philadelphia Phillies,Atlanta Braves,70,11,in from Centerfield,Cloudy
+29-09-2013,Philadelphia Phillies,Atlanta Braves,73,4,from Right to Left,Cloudy
+05-04-2013,Minnesota Twins,Baltimore Orioles,60,6,from Left to Right,Sunny
+06-04-2013,Minnesota Twins,Baltimore Orioles,51,3,in from Leftfield,Sunny
+07-04-2013,Minnesota Twins,Baltimore Orioles,57,2,out to Centerfield,Sunny
+16-04-2013,Tampa Bay Rays,Baltimore Orioles,69,14,out to Centerfield,Sunny
+17-04-2013,Tampa Bay Rays,Baltimore Orioles,68,5,in from Centerfield,Cloudy
+18-04-2013,Tampa Bay Rays,Baltimore Orioles,59,9,out to Centerfield,Cloudy
+21-04-2013,Los Angeles Dodgers,Baltimore Orioles,49,3,in from Leftfield,Cloudy
+22-04-2013,Toronto Blue Jays,Baltimore Orioles,53,8,in from Rightfield,Cloudy
+23-04-2013,Toronto Blue Jays,Baltimore Orioles,58,8,in from Rightfield,Sunny
+24-04-2013,Toronto Blue Jays,Baltimore Orioles,66,5,from Right to Left,Sunny
+07-05-2013,Kansas City Royals,Baltimore Orioles,63,12,in from Rightfield,Drizzle
+08-05-2013,Kansas City Royals,Baltimore Orioles,60,2,out to Centerfield.,Wind2mphouttoCenterfield
+09-05-2013,Kansas City Royals,Baltimore Orioles,72,8,out to Rightfield,Cloudy
+14-05-2013,San Diego Padres,Baltimore Orioles,61,3,from Right to Left.,Wind3mphfromRighttoLeft
+15-05-2013,San Diego Padres,Baltimore Orioles,66,8,out to Leftfield,Overcast
+17-05-2013,Tampa Bay Rays,Baltimore Orioles,77,5,out to Leftfield,Sunny
+18-05-2013,Tampa Bay Rays,Baltimore Orioles,60,0,NoWind,Wind0mph
+19-05-2013,Tampa Bay Rays,Baltimore Orioles,66,3,in from Rightfield,Overcast
+20-05-2013,New York Yankees,Baltimore Orioles,80,2,from Left to Right,Cloudy
+21-05-2013,New York Yankees,Baltimore Orioles,84,6,from Left to Right,Cloudy
+22-05-2013,New York Yankees,Baltimore Orioles,83,8,out to Leftfield,Cloudy
+29-05-2013,Washington Nationals,Baltimore Orioles,86,0,NoWind,Cloudy
+30-05-2013,Washington Nationals,Baltimore Orioles,87,8,from Right to Left,Cloudy
+31-05-2013,Detroit Tigers,Baltimore Orioles,90,11,out to Centerfield,Sunny
+01-06-2013,Detroit Tigers,Baltimore Orioles,90,5,from Right to Left.,Wind5mphfromRighttoLeft
+02-06-2013,Detroit Tigers,Baltimore Orioles,83,3,out to Centerfield,Overcast
+10-06-2013,Los Angeles Angels of Anaheim,Baltimore Orioles,75,10,out to Leftfield,Rain
+11-06-2013,Los Angeles Angels of Anaheim,Baltimore Orioles,81,5,out to Centerfield,Cloudy
+12-06-2013,Los Angeles Angels of Anaheim,Baltimore Orioles,79,18,from Left to Right.,Wind18mphfromLefttoRight
+13-06-2013,Boston Red Sox,Baltimore Orioles,75,3,out to Centerfield.,Wind3mphouttoCenterfield
+14-06-2013,Boston Red Sox,Baltimore Orioles,79,8,in from Leftfield,Cloudy
+15-06-2013,Boston Red Sox,Baltimore Orioles,81,5,out to Centerfield,Cloudy
+16-06-2013,Boston Red Sox,Baltimore Orioles,81,9,out to Centerfield,Overcast
+24-06-2013,Cleveland Indians,Baltimore Orioles,85,7,in from Rightfield,Overcast
+25-06-2013,Cleveland Indians,Baltimore Orioles,91,6,in from Rightfield,Cloudy
+26-06-2013,Cleveland Indians,Baltimore Orioles,76,3,out to Rightfield.,Wind3mphouttoRightfield
+27-06-2013,Cleveland Indians,Baltimore Orioles,79,4,out to Centerfield.,Wind4mphouttoCenterfield
+28-06-2013,New York Yankees,Baltimore Orioles,76,6,out to Centerfield,Cloudy
+29-06-2013,New York Yankees,Baltimore Orioles,84,13,out to Centerfield,Cloudy
+30-06-2013,New York Yankees,Baltimore Orioles,79,7,out to Leftfield.,Wind7mphouttoLeftfield
+08-07-2013,Texas Rangers,Baltimore Orioles,84,4,in from Rightfield,Cloudy
+09-07-2013,Texas Rangers,Baltimore Orioles,84,7,from Left to Right.,Wind7mphfromLefttoRight
+10-07-2013,Texas Rangers,Baltimore Orioles,89,5,out to Rightfield,Cloudy
+11-07-2013,Texas Rangers,Baltimore Orioles,85,5,in from Centerfield,Cloudy
+12-07-2013,Toronto Blue Jays,Baltimore Orioles,72,5,in from Centerfield,Overcast
+13-07-2013,Toronto Blue Jays,Baltimore Orioles,79,0,NoWind,Wind0mph
+14-07-2013,Toronto Blue Jays,Baltimore Orioles,87,11,out to Leftfield.,Wind11mphouttoLeftfield
+26-07-2013,Boston Red Sox,Baltimore Orioles,85,9,out to Rightfield,Cloudy
+27-07-2013,Boston Red Sox,Baltimore Orioles,71,1,out to Rightfield,Overcast
+28-07-2013,Boston Red Sox,Baltimore Orioles,79,5,out to Rightfield,Overcast
+30-07-2013,Houston Astros,Baltimore Orioles,81,2,out to Centerfield,Cloudy
+31-07-2013,Houston Astros,Baltimore Orioles,80,2,from Left to Right.,Wind2mphfromLefttoRight
+01-08-2013,Houston Astros,Baltimore Orioles,78,4,in from Leftfield.,Wind4mphinfromLeftfield
+02-08-2013,Seattle Mariners,Baltimore Orioles,83,4,out to Centerfield,Cloudy
+03-08-2013,Seattle Mariners,Baltimore Orioles,72,8,out to Rightfield,Overcast
+04-08-2013,Seattle Mariners,Baltimore Orioles,77,16,in from Centerfield,Sunny
+16-08-2013,Colorado Rockies,Baltimore Orioles,77,4,in from Centerfield,Cloudy
+17-08-2013,Colorado Rockies,Baltimore Orioles,79,3,from Right to Left,Sunny
+18-08-2013,Colorado Rockies,Baltimore Orioles,72,8,in from Centerfield,Overcast
+19-08-2013,Tampa Bay Rays,Baltimore Orioles,77,1,out to Rightfield,Overcast
+20-08-2013,Tampa Bay Rays,Baltimore Orioles,84,6,from Left to Right,Cloudy
+21-08-2013,Tampa Bay Rays,Baltimore Orioles,85,7,in from Leftfield,Cloudy
+23-08-2013,Oakland Athletics,Baltimore Orioles,72,2,out to Rightfield,Cloudy
+24-08-2013,Oakland Athletics,Baltimore Orioles,80,7,in from Centerfield,Cloudy
+25-08-2013,Oakland Athletics,Baltimore Orioles,77,5,out to Leftfield,Cloudy
+05-09-2013,Chicago White Sox,Baltimore Orioles,76,4,out to Leftfield.,Wind4mphouttoLeftfield
+06-09-2013,Chicago White Sox,Baltimore Orioles,75,2,in from Rightfield,Sunny
+07-09-2013,Chicago White Sox,Baltimore Orioles,77,5,from Right to Left,Sunny
+08-09-2013,Chicago White Sox,Baltimore Orioles,84,8,from Left to Right,Cloudy
+09-09-2013,New York Yankees,Baltimore Orioles,75,6,in from Rightfield,Sunny
+10-09-2013,New York Yankees,Baltimore Orioles,87,4,from Left to Right,Cloudy
+11-09-2013,New York Yankees,Baltimore Orioles,89,5,out to Centerfield,Sunny
+12-09-2013,New York Yankees,Baltimore Orioles,72,1,from Left to Right.,Wind1mphfromLefttoRight
+24-09-2013,Toronto Blue Jays,Baltimore Orioles,72,2,out to Centerfield,Sunny
+25-09-2013,Toronto Blue Jays,Baltimore Orioles,71,6,out to Leftfield,Cloudy
+26-09-2013,Toronto Blue Jays,Baltimore Orioles,73,6,from Right to Left,Sunny
+27-09-2013,Boston Red Sox,Baltimore Orioles,70,3,from Left to Right,Cloudy
+28-09-2013,Boston Red Sox,Baltimore Orioles,70,4,from Right to Left,Cloudy
+29-09-2013,Boston Red Sox,Baltimore Orioles,71,2,from Right to Left,Cloudy
+08-04-2013,Baltimore Orioles,Boston Red Sox,59,8,in from Leftfield.,Wind8mphinfromLeftfield
+10-04-2013,Baltimore Orioles,Boston Red Sox,53,11,in from Rightfield.,Wind11mphinfromRightfield
+11-04-2013,Baltimore Orioles,Boston Red Sox,45,5,in from Rightfield.,Wind5mphinfromRightfield
+13-04-2013,Tampa Bay Rays,Boston Red Sox,45,7,out to Rightfield.,Wind7mphouttoRightfield
+14-04-2013,Tampa Bay Rays,Boston Red Sox,50,14,out to Rightfield,Cloudy
+15-04-2013,Tampa Bay Rays,Boston Red Sox,48,3,from Right to Left,Cloudy
+20-04-2013,Kansas City Royals,Boston Red Sox,56,15,out to Rightfield.,Wind15mphouttoRightfield
+22-04-2013,Oakland Athletics,Boston Red Sox,45,18,in from Rightfield,Cloudy
+23-04-2013,Oakland Athletics,Boston Red Sox,42,18,in from Centerfield,Drizzle
+24-04-2013,Oakland Athletics,Boston Red Sox,69,14,from Right to Left,Sunny
+25-04-2013,Houston Astros,Boston Red Sox,63,10,out to Rightfield,Cloudy
+26-04-2013,Houston Astros,Boston Red Sox,47,8,out to Rightfield,Cloudy
+27-04-2013,Houston Astros,Boston Red Sox,59,15,from Right to Left,Cloudy
+28-04-2013,Houston Astros,Boston Red Sox,59,13,in from Rightfield,Cloudy
+06-05-2013,Minnesota Twins,Boston Red Sox,53,12,in from Rightfield,Cloudy
+07-05-2013,Minnesota Twins,Boston Red Sox,64,14,in from Rightfield,Cloudy
+08-05-2013,Minnesota Twins,Boston Red Sox,63,17,in from Rightfield.,Wind17mphinfromRightfield
+09-05-2013,Minnesota Twins,Boston Red Sox,57,6,from Right to Left.,Wind6mphfromRighttoLeft
+10-05-2013,Toronto Blue Jays,Boston Red Sox,72,11,in from Rightfield,Cloudy
+11-05-2013,Toronto Blue Jays,Boston Red Sox,63,19,out to Rightfield,Drizzle
+12-05-2013,Toronto Blue Jays,Boston Red Sox,68,6,from Left to Right.,Wind6mphfromLefttoRight
+23-05-2013,Cleveland Indians,Boston Red Sox,72,20,out to Centerfield,Cloudy
+24-05-2013,Cleveland Indians,Boston Red Sox,56,12,from Left to Right,Rain
+25-05-2013,Cleveland Indians,Boston Red Sox,53,12,from Left to Right,Rain
+26-05-2013,Cleveland Indians,Boston Red Sox,56,17,out to Rightfield,Cloudy
+27-05-2013,Philadelphia Phillies,Boston Red Sox,74,12,from Left to Right,Sunny
+28-05-2013,Philadelphia Phillies,Boston Red Sox,62,10,in from Rightfield.,Wind10mphinfromRightfield
+04-06-2013,Texas Rangers,Boston Red Sox,71,15,in from Leftfield,Cloudy
+05-06-2013,Texas Rangers,Boston Red Sox,70,13,out to Leftfield.,Wind13mphouttoLeftfield
+06-06-2013,Texas Rangers,Boston Red Sox,67,13,out to Leftfield.,Wind13mphouttoLeftfield
+09-06-2013,Los Angeles Angels of Anaheim,Boston Red Sox,76,10,out to Rightfield,Sunny
+19-06-2013,Tampa Bay Rays,Boston Red Sox,70,8,from Right to Left,Cloudy
+25-06-2013,Colorado Rockies,Boston Red Sox,88,13,out to Rightfield,Cloudy
+26-06-2013,Colorado Rockies,Boston Red Sox,73,7,in from Rightfield,Cloudy
+27-06-2013,Toronto Blue Jays,Boston Red Sox,64,7,in from Rightfield.,Wind7mphinfromRightfield
+28-06-2013,Toronto Blue Jays,Boston Red Sox,77,18,out to Leftfield,Cloudy
+29-06-2013,Toronto Blue Jays,Boston Red Sox,82,17,out to Rightfield,Cloudy
+30-06-2013,Toronto Blue Jays,Boston Red Sox,83,12,out to Centerfield.,Wind12mphouttoCenterfield
+02-07-2013,San Diego Padres,Boston Red Sox,71,11,in from Rightfield.,Wind11mphinfromRightfield
+03-07-2013,San Diego Padres,Boston Red Sox,87,18,out to Centerfield.,Wind18mphouttoCenterfield
+04-07-2013,San Diego Padres,Boston Red Sox,91,12,out to Centerfield,Sunny
+19-07-2013,New York Yankees,Boston Red Sox,92,22,out to Rightfield,Cloudy
+20-07-2013,New York Yankees,Boston Red Sox,93,18,out to Centerfield.,Wind18mphouttoCenterfield
+21-07-2013,New York Yankees,Boston Red Sox,73,12,from Right to Left.,Wind12mphfromRighttoLeft
+22-07-2013,Tampa Bay Rays,Boston Red Sox,72,13,in from Rightfield.,Wind13mphinfromRightfield
+23-07-2013,Tampa Bay Rays,Boston Red Sox,72,6,in from Leftfield.,Wind6mphinfromLeftfield
+24-07-2013,Tampa Bay Rays,Boston Red Sox,82,10,from Left to Right,Cloudy
+29-07-2013,Tampa Bay Rays,Boston Red Sox,75,9,from Right to Left,Cloudy
+30-07-2013,Seattle Mariners,Boston Red Sox,78,2,in from Leftfield.,Wind2mphinfromLeftfield
+31-07-2013,Seattle Mariners,Boston Red Sox,75,12,from Right to Left,Cloudy
+01-08-2013,Seattle Mariners,Boston Red Sox,76,18,out to Rightfield.,Wind18mphouttoRightfield
+02-08-2013,Arizona Diamondbacks,Boston Red Sox,82,15,out to Rightfield,Cloudy
+03-08-2013,Arizona Diamondbacks,Boston Red Sox,80,13,out to Centerfield,Cloudy
+04-08-2013,Arizona Diamondbacks,Boston Red Sox,78,6,from Right to Left,Cloudy
+16-08-2013,New York Yankees,Boston Red Sox,79,6,out to Rightfield,Cloudy
+17-08-2013,New York Yankees,Boston Red Sox,72,11,from Right to Left,Cloudy
+18-08-2013,New York Yankees,Boston Red Sox,76,8,out to Rightfield,Cloudy
+27-08-2013,Baltimore Orioles,Boston Red Sox,69,7,from Right to Left,Cloudy
+28-08-2013,Baltimore Orioles,Boston Red Sox,65,7,in from Centerfield,Cloudy
+29-08-2013,Baltimore Orioles,Boston Red Sox,62,11,in from Rightfield.,Wind11mphinfromRightfield
+30-08-2013,Chicago White Sox,Boston Red Sox,82,11,in from Rightfield,Cloudy
+31-08-2013,Chicago White Sox,Boston Red Sox,82,14,in from Rightfield,Cloudy
+01-09-2013,Chicago White Sox,Boston Red Sox,74,9,in from Rightfield.,Wind9mphinfromRightfield
+02-09-2013,Detroit Tigers,Boston Red Sox,81,7,out to Leftfield.,Wind7mphouttoLeftfield
+03-09-2013,Detroit Tigers,Boston Red Sox,76,11,in from Rightfield.,Wind11mphinfromRightfield
+04-09-2013,Detroit Tigers,Boston Red Sox,77,11,out to Rightfield.,Wind11mphouttoRightfield
+13-09-2013,New York Yankees,Boston Red Sox,67,8,in from Leftfield.,Wind8mphinfromLeftfield
+14-09-2013,New York Yankees,Boston Red Sox,67,7,from Left to Right,Cloudy
+15-09-2013,New York Yankees,Boston Red Sox,69,6,in from Leftfield.,Wind6mphinfromLeftfield
+17-09-2013,Baltimore Orioles,Boston Red Sox,59,5,in from Rightfield,Cloudy
+18-09-2013,Baltimore Orioles,Boston Red Sox,70,9,out to Rightfield,Sunny
+19-09-2013,Baltimore Orioles,Boston Red Sox,69,2,in from Centerfield,Sunny
+20-09-2013,Toronto Blue Jays,Boston Red Sox,68,8,in from Leftfield,Sunny
+21-09-2013,Toronto Blue Jays,Boston Red Sox,71,18,out to Leftfield,Cloudy
+22-09-2013,Toronto Blue Jays,Boston Red Sox,68,11,out to Rightfield,Cloudy
+01-04-2013,Kansas City Royals,Chicago White Sox,44,12,out to Rightfield,Cloudy
+03-04-2013,Kansas City Royals,Chicago White Sox,43,11,from Left to Right,Sunny
+04-04-2013,Kansas City Royals,Chicago White Sox,57,12,in from Rightfield,Cloudy
+05-04-2013,Seattle Mariners,Chicago White Sox,34,10,from Left to Right,Cloudy
+06-04-2013,Seattle Mariners,Chicago White Sox,57,25,in from Rightfield.,Wind25mphinfromRightfield
+07-04-2013,Seattle Mariners,Chicago White Sox,52,9,in from Leftfield,Cloudy
+20-04-2013,Minnesota Twins,Chicago White Sox,43,8,out to Centerfield,Cloudy
+21-04-2013,Minnesota Twins,Chicago White Sox,53,11,from Right to Left,Cloudy
+22-04-2013,Cleveland Indians,Chicago White Sox,58,11,from Left to Right,Sunny
+24-04-2013,Cleveland Indians,Chicago White Sox,43,11,out to Rightfield.,Wind11mphouttoRightfield
+25-04-2013,Tampa Bay Rays,Chicago White Sox,52,9,out to Leftfield,Cloudy
+26-04-2013,Tampa Bay Rays,Chicago White Sox,61,17,from Right to Left,Cloudy
+27-04-2013,Tampa Bay Rays,Chicago White Sox,55,10,in from Leftfield,Cloudy
+28-04-2013,Tampa Bay Rays,Chicago White Sox,64,7,from Left to Right.,Wind7mphfromLefttoRight
+10-05-2013,Los Angeles Angels of Anaheim,Chicago White Sox,40,13,out to Rightfield.,Wind13mphouttoRightfield
+11-05-2013,Los Angeles Angels of Anaheim,Chicago White Sox,51,21,out to Centerfield,Cloudy
+12-05-2013,Los Angeles Angels of Anaheim,Chicago White Sox,52,12,out to Centerfield,Cloudy
+20-05-2013,Boston Red Sox,Chicago White Sox,86,9,in from Rightfield,Cloudy
+21-05-2013,Boston Red Sox,Chicago White Sox,79,18,from Right to Left,Cloudy
+22-05-2013,Boston Red Sox,Chicago White Sox,71,12,out to Leftfield,Cloudy
+24-05-2013,Miami Marlins,Chicago White Sox,51,9,from Left to Right,Sunny
+25-05-2013,Miami Marlins,Chicago White Sox,57,6,from Left to Right,Overcast
+26-05-2013,Miami Marlins,Chicago White Sox,65,10,in from Leftfield.,Wind10mphinfromLeftfield
+27-05-2013,Chicago Cubs,Chicago White Sox,57,8,from Left to Right.,Wind8mphfromLefttoRight
+06-06-2013,Oakland Athletics,Chicago White Sox,54,10,from Left to Right,Cloudy
+07-06-2013,Oakland Athletics,Chicago White Sox,60,10,from Left to Right,Sunny
+08-06-2013,Oakland Athletics,Chicago White Sox,65,7,from Left to Right.,Wind7mphfromLefttoRight
+09-06-2013,Oakland Athletics,Chicago White Sox,79,12,in from Rightfield.,Wind12mphinfromRightfield
+10-06-2013,Toronto Blue Jays,Chicago White Sox,66,8,from Left to Right,Cloudy
+11-06-2013,Toronto Blue Jays,Chicago White Sox,75,9,from Right to Left,Cloudy
+25-06-2013,New York Mets,Chicago White Sox,74,5,from Left to Right.,Wind5mphfromLefttoRight
+26-06-2013,New York Mets,Chicago White Sox,71,9,from Right to Left.,Wind9mphfromRighttoLeft
+29-06-2013,Cleveland Indians,Chicago White Sox,66,12,from Left to Right.,Wind12mphfromLefttoRight
+30-06-2013,Cleveland Indians,Chicago White Sox,69,20,out to Rightfield,Cloudy
+02-07-2013,Baltimore Orioles,Chicago White Sox,60,17,from Left to Right.,Wind17mphfromLefttoRight
+03-07-2013,Baltimore Orioles,Chicago White Sox,68,5,in from Centerfield,Cloudy
+04-07-2013,Baltimore Orioles,Chicago White Sox,82,7,from Right to Left,Cloudy
+08-07-2013,Chicago Cubs,Chicago White Sox,80,14,from Right to Left,Cloudy
+19-07-2013,Atlanta Braves,Chicago White Sox,91,17,out to Leftfield,Cloudy
+20-07-2013,Atlanta Braves,Chicago White Sox,84,8,out to Rightfield,Sunny
+21-07-2013,Atlanta Braves,Chicago White Sox,88,8,in from Leftfield.,Wind8mphinfromLeftfield
+22-07-2013,Detroit Tigers,Chicago White Sox,85,9,in from Rightfield,Cloudy
+23-07-2013,Detroit Tigers,Chicago White Sox,65,18,from Left to Right,Sunny
+24-07-2013,Detroit Tigers,Chicago White Sox,66,10,from Left to Right,Cloudy
+25-07-2013,Detroit Tigers,Chicago White Sox,78,3,in from Leftfield,Cloudy
+26-07-2013,Kansas City Royals,Chicago White Sox,68,13,in from Rightfield.,Wind13mphinfromRightfield
+27-07-2013,Kansas City Royals,Chicago White Sox,59,15,out to Centerfield.,Wind15mphouttoCenterfield
+28-07-2013,Kansas City Royals,Chicago White Sox,69,13,from Right to Left,Cloudy
+05-08-2013,New York Yankees,Chicago White Sox,68,8,in from Rightfield,Overcast
+06-08-2013,New York Yankees,Chicago White Sox,79,10,from Right to Left.,Wind10mphfromRighttoLeft
+07-08-2013,New York Yankees,Chicago White Sox,72,7,from Left to Right.,Wind7mphfromLefttoRight
+10-08-2013,Minnesota Twins,Chicago White Sox,77,7,in from Centerfield,Sunny
+11-08-2013,Minnesota Twins,Chicago White Sox,79,5,out to Rightfield,Cloudy
+12-08-2013,Detroit Tigers,Chicago White Sox,71,5,out to Leftfield,Cloudy
+13-08-2013,Detroit Tigers,Chicago White Sox,65,15,from Left to Right,Sunny
+14-08-2013,Detroit Tigers,Chicago White Sox,68,11,from Left to Right,Sunny
+23-08-2013,Texas Rangers,Chicago White Sox,70,11,from Left to Right,Sunny
+24-08-2013,Texas Rangers,Chicago White Sox,78,8,in from Centerfield,Sunny
+25-08-2013,Texas Rangers,Chicago White Sox,90,13,in from Rightfield,Cloudy
+26-08-2013,Houston Astros,Chicago White Sox,85,17,from Right to Left,Sunny
+27-08-2013,Houston Astros,Chicago White Sox,90,17,from Right to Left,Sunny
+28-08-2013,Houston Astros,Chicago White Sox,71,12,out to Rightfield,Cloudy
+09-09-2013,Detroit Tigers,Chicago White Sox,90,13,in from Rightfield,Sunny
+10-09-2013,Detroit Tigers,Chicago White Sox,90,12,in from Rightfield,Cloudy
+11-09-2013,Detroit Tigers,Chicago White Sox,75,3,in from Centerfield.,Wind3mphinfromCenterfield
+12-09-2013,Cleveland Indians,Chicago White Sox,65,14,from Left to Right,Cloudy
+13-09-2013,Cleveland Indians,Chicago White Sox,57,19,out to Rightfield,Cloudy
+14-09-2013,Cleveland Indians,Chicago White Sox,69,8,from Right to Left,Cloudy
+15-09-2013,Cleveland Indians,Chicago White Sox,58,2,in from Centerfield,Rain
+16-09-2013,Minnesota Twins,Chicago White Sox,57,15,from Left to Right,Sunny
+17-09-2013,Minnesota Twins,Chicago White Sox,65,11,in from Leftfield.,Wind11mphinfromLeftfield
+18-09-2013,Minnesota Twins,Chicago White Sox,80,9,in from Rightfield,Cloudy
+23-09-2013,Toronto Blue Jays,Chicago White Sox,63,9,from Left to Right,Sunny
+26-09-2013,Kansas City Royals,Chicago White Sox,65,9,in from Leftfield,Sunny
+27-09-2013,Kansas City Royals,Chicago White Sox,70,14,in from Leftfield,Sunny
+28-09-2013,Kansas City Royals,Chicago White Sox,78,22,in from Rightfield,Cloudy
+29-09-2013,Kansas City Royals,Chicago White Sox,68,9,out to Centerfield,Cloudy
+08-04-2013,Milwaukee Brewers,Chicago Cubs,60,24,out to Rightfield,Cloudy
+09-04-2013,Milwaukee Brewers,Chicago Cubs,39,23,in from Leftfield.,Wind23mphinfromLeftfield
+11-04-2013,San Francisco Giants,Chicago Cubs,40,5,in from Rightfield,Overcast
+12-04-2013,San Francisco Giants,Chicago Cubs,44,10,out to Rightfield.,Wind10mphouttoRightfield
+13-04-2013,San Francisco Giants,Chicago Cubs,38,16,from Left to Right,Overcast
+14-04-2013,San Francisco Giants,Chicago Cubs,42,11,out to Leftfield,Cloudy
+16-04-2013,Texas Rangers,Chicago Cubs,39,5,in from Rightfield,Cloudy
+18-04-2013,Texas Rangers,Chicago Cubs,58,8,out to Rightfield,Overcast
+29-04-2013,San Diego Padres,Chicago Cubs,70,10,out to Leftfield,Cloudy
+30-04-2013,San Diego Padres,Chicago Cubs,81,12,out to Centerfield,Cloudy
+01-05-2013,San Diego Padres,Chicago Cubs,71,9,from Right to Left,Cloudy
+02-05-2013,San Diego Padres,Chicago Cubs,45,19,in from Centerfield,Cloudy
+03-05-2013,Cincinnati Reds,Chicago Cubs,41,12,in from Leftfield.,Wind12mphinfromLeftfield
+04-05-2013,Cincinnati Reds,Chicago Cubs,60,3,in from Leftfield,Cloudy
+05-05-2013,Cincinnati Reds,Chicago Cubs,58,6,from Left to Right,Cloudy
+06-05-2013,Texas Rangers,Chicago Cubs,56,5,in from Centerfield,Cloudy
+07-05-2013,St. Louis Cardinals,Chicago Cubs,64,2,in from Rightfield,Sunny
+08-05-2013,St. Louis Cardinals,Chicago Cubs,60,9,in from Rightfield,Sunny
+13-05-2013,Colorado Rockies,Chicago Cubs,49,5,from Right to Left.,Wind5mphfromRighttoLeft
+14-05-2013,Colorado Rockies,Chicago Cubs,70,11,in from Rightfield,Cloudy
+15-05-2013,Colorado Rockies,Chicago Cubs,65,4,in from Rightfield,Cloudy
+17-05-2013,New York Mets,Chicago Cubs,49,12,in from Centerfield.,Wind12mphinfromCenterfield
+18-05-2013,New York Mets,Chicago Cubs,67,5,in from Rightfield,Cloudy
+19-05-2013,New York Mets,Chicago Cubs,76,9,in from Rightfield,Cloudy
+29-05-2013,Chicago White Sox,Chicago Cubs,73,8,in from Rightfield,Sunny
+30-05-2013,Chicago White Sox,Chicago Cubs,80,24,out to Centerfield.,Wind24mphouttoCenterfield
+31-05-2013,Arizona Diamondbacks,Chicago Cubs,75,8,out to Leftfield.,Wind8mphouttoLeftfield
+01-06-2013,Arizona Diamondbacks,Chicago Cubs,63,2,out to Rightfield,Overcast
+02-06-2013,Arizona Diamondbacks,Chicago Cubs,47,15,in from Centerfield.,Wind15mphinfromCenterfield
+07-06-2013,Pittsburgh Pirates,Chicago Cubs,55,9,in from Leftfield,Cloudy
+08-06-2013,Pittsburgh Pirates,Chicago Cubs,63,7,in from Rightfield.,Wind7mphinfromRightfield
+09-06-2013,Pittsburgh Pirates,Chicago Cubs,72,4,in from Rightfield.,Wind4mphinfromRightfield
+10-06-2013,Cincinnati Reds,Chicago Cubs,61,6,in from Leftfield.,Wind6mphinfromLeftfield
+11-06-2013,Cincinnati Reds,Chicago Cubs,80,3,out to Centerfield.,Wind3mphouttoCenterfield
+12-06-2013,Cincinnati Reds,Chicago Cubs,76,2,in from Centerfield.,Wind2mphinfromCenterfield
+13-06-2013,Cincinnati Reds,Chicago Cubs,61,23,in from Leftfield,Sunny
+21-06-2013,Houston Astros,Chicago Cubs,74,8,from Left to Right.,Wind8mphfromLefttoRight
+22-06-2013,Houston Astros,Chicago Cubs,74,10,from Right to Left.,Wind10mphfromRighttoLeft
+23-06-2013,Houston Astros,Chicago Cubs,84,14,out to Rightfield,Sunny
+05-07-2013,Pittsburgh Pirates,Chicago Cubs,75,8,in from Rightfield,Cloudy
+06-07-2013,Pittsburgh Pirates,Chicago Cubs,80,5,in from Rightfield.,Wind5mphinfromRightfield
+07-07-2013,Pittsburgh Pirates,Chicago Cubs,88,7,out to Rightfield,Cloudy
+09-07-2013,Los Angeles Angels of Anaheim,Chicago Cubs,84,7,out to Centerfield,Cloudy
+10-07-2013,Los Angeles Angels of Anaheim,Chicago Cubs,74,7,in from Rightfield,Sunny
+11-07-2013,St. Louis Cardinals,Chicago Cubs,72,6,in from Rightfield,Sunny
+12-07-2013,St. Louis Cardinals,Chicago Cubs,77,10,in from Leftfield,Sunny
+13-07-2013,St. Louis Cardinals,Chicago Cubs,79,10,in from Centerfield,Sunny
+14-07-2013,St. Louis Cardinals,Chicago Cubs,81,12,in from Rightfield,Sunny
+29-07-2013,Milwaukee Brewers,Chicago Cubs,64,7,in from Rightfield,Cloudy
+31-07-2013,Milwaukee Brewers,Chicago Cubs,68,2,in from Rightfield,Cloudy
+01-08-2013,Los Angeles Dodgers,Chicago Cubs,70,4,in from Rightfield,Cloudy
+02-08-2013,Los Angeles Dodgers,Chicago Cubs,75,9,in from Rightfield.,Wind9mphinfromRightfield
+03-08-2013,Los Angeles Dodgers,Chicago Cubs,70,14,in from Rightfield,Cloudy
+04-08-2013,Los Angeles Dodgers,Chicago Cubs,66,15,in from Rightfield,Cloudy
+12-08-2013,Cincinnati Reds,Chicago Cubs,70,7,in from Leftfield,Cloudy
+13-08-2013,Cincinnati Reds,Chicago Cubs,63,10,in from Rightfield,Cloudy
+14-08-2013,Cincinnati Reds,Chicago Cubs,64,14,in from Rightfield,Cloudy
+16-08-2013,St. Louis Cardinals,Chicago Cubs,74,8,from Right to Left,Sunny
+17-08-2013,St. Louis Cardinals,Chicago Cubs,73,10,in from Rightfield,Sunny
+18-08-2013,St. Louis Cardinals,Chicago Cubs,72,9,in from Rightfield,Sunny
+19-08-2013,Washington Nationals,Chicago Cubs,77,4,out to Rightfield.,Wind4mphouttoRightfield
+20-08-2013,Washington Nationals,Chicago Cubs,83,6,out to Rightfield,Cloudy
+21-08-2013,Washington Nationals,Chicago Cubs,84,11,out to Centerfield,Cloudy
+22-08-2013,Washington Nationals,Chicago Cubs,69,4,in from Centerfield.,Wind4mphinfromCenterfield
+30-08-2013,Philadelphia Phillies,Chicago Cubs,91,12,out to Rightfield,Cloudy
+31-08-2013,Philadelphia Phillies,Chicago Cubs,72,11,in from Centerfield.,Wind11mphinfromCenterfield
+01-09-2013,Philadelphia Phillies,Chicago Cubs,75,7,in from Rightfield,Sunny
+02-09-2013,Miami Marlins,Chicago Cubs,71,11,in from Centerfield,Cloudy
+03-09-2013,Miami Marlins,Chicago Cubs,67,6,in from Rightfield,Cloudy
+04-09-2013,Miami Marlins,Chicago Cubs,78,5,from Left to Right,Cloudy
+06-09-2013,Milwaukee Brewers,Chicago Cubs,76,6,from Right to Left,Sunny
+07-09-2013,Milwaukee Brewers,Chicago Cubs,82,2,out to Centerfield.,Wind2mphouttoCenterfield
+08-09-2013,Milwaukee Brewers,Chicago Cubs,71,15,in from Rightfield,Cloudy
+20-09-2013,Atlanta Braves,Chicago Cubs,76,6,out to Centerfield.,Wind6mphouttoCenterfield
+21-09-2013,Atlanta Braves,Chicago Cubs,63,11,from Left to Right,Cloudy
+22-09-2013,Atlanta Braves,Chicago Cubs,63,15,in from Centerfield,Cloudy
+23-09-2013,Pittsburgh Pirates,Chicago Cubs,63,12,in from Rightfield,Sunny
+24-09-2013,Pittsburgh Pirates,Chicago Cubs,63,14,in from Rightfield,Cloudy
+25-09-2013,Pittsburgh Pirates,Chicago Cubs,65,10,in from Rightfield,Sunny
+01-04-2013,Los Angeles Angels of Anaheim,Cincinnati Reds,47,11,out to Leftfield,Cloudy
+03-04-2013,Los Angeles Angels of Anaheim,Cincinnati Reds,49,11,out to Rightfield,Sunny
+04-04-2013,Los Angeles Angels of Anaheim,Cincinnati Reds,50,10,in from Leftfield,Cloudy
+05-04-2013,Washington Nationals,Cincinnati Reds,60,9,from Left to Right,Sunny
+06-04-2013,Washington Nationals,Cincinnati Reds,57,12,in from Centerfield,Cloudy
+07-04-2013,Washington Nationals,Cincinnati Reds,70,17,out to Centerfield,Cloudy
+15-04-2013,Philadelphia Phillies,Cincinnati Reds,69,9,in from Rightfield,Cloudy
+16-04-2013,Philadelphia Phillies,Cincinnati Reds,64,20,in unknown direction.,Wind20mphinunknowndirection
+17-04-2013,Philadelphia Phillies,Cincinnati Reds,77,9,in from Centerfield,Cloudy
+18-04-2013,Miami Marlins,Cincinnati Reds,81,21,in unknown direction,Cloudy
+19-04-2013,Miami Marlins,Cincinnati Reds,46,21,from Right to Left.,Wind21mphfromRighttoLeft
+20-04-2013,Miami Marlins,Cincinnati Reds,49,11,in unknown direction,Sunny
+21-04-2013,Miami Marlins,Cincinnati Reds,54,10,in from Leftfield,Cloudy
+22-04-2013,Chicago Cubs,Cincinnati Reds,70,2,in from Centerfield,Cloudy
+23-04-2013,Chicago Cubs,Cincinnati Reds,69,13,in unknown direction.,Wind13mphinunknowndirection
+24-04-2013,Chicago Cubs,Cincinnati Reds,48,7,in unknown direction,Overcast
+06-05-2013,Atlanta Braves,Cincinnati Reds,64,16,in unknown direction.,Wind16mphinunknowndirection
+07-05-2013,Atlanta Braves,Cincinnati Reds,62,5,from Left to Right.,Wind5mphfromLefttoRight
+08-05-2013,Atlanta Braves,Cincinnati Reds,66,5,out to Rightfield,Cloudy
+10-05-2013,Milwaukee Brewers,Cincinnati Reds,62,8,in unknown direction.,Wind8mphinunknowndirection
+11-05-2013,Milwaukee Brewers,Cincinnati Reds,55,11,out to Leftfield,Cloudy
+12-05-2013,Milwaukee Brewers,Cincinnati Reds,56,9,in unknown direction,Sunny
+24-05-2013,Chicago Cubs,Cincinnati Reds,66,8,from Left to Right,Sunny
+25-05-2013,Chicago Cubs,Cincinnati Reds,65,5,out to Centerfield.,Wind5mphouttoCenterfield
+26-05-2013,Chicago Cubs,Cincinnati Reds,70,5,from Left to Right,Cloudy
+27-05-2013,Cleveland Indians,Cincinnati Reds,76,11,in from Centerfield,Cloudy
+28-05-2013,Cleveland Indians,Cincinnati Reds,83,15,in unknown direction,Cloudy
+03-06-2013,Colorado Rockies,Cincinnati Reds,70,4,from Left to Right,Cloudy
+04-06-2013,Colorado Rockies,Cincinnati Reds,78,8,from Left to Right,Cloudy
+05-06-2013,Colorado Rockies,Cincinnati Reds,78,5,in from Leftfield,Cloudy
+07-06-2013,St. Louis Cardinals,Cincinnati Reds,77,11,from Left to Right,Cloudy
+08-06-2013,St. Louis Cardinals,Cincinnati Reds,79,6,in unknown direction,Cloudy
+09-06-2013,St. Louis Cardinals,Cincinnati Reds,73,9,in from Centerfield.,Wind9mphinfromCenterfield
+14-06-2013,Milwaukee Brewers,Cincinnati Reds,81,5,in unknown direction,Cloudy
+15-06-2013,Milwaukee Brewers,Cincinnati Reds,81,9,in from Rightfield.,Wind9mphinfromRightfield
+16-06-2013,Milwaukee Brewers,Cincinnati Reds,78,11,from Right to Left.,Wind11mphfromRighttoLeft
+17-06-2013,Pittsburgh Pirates,Cincinnati Reds,85,5,in unknown direction.,Wind5mphinunknowndirection
+18-06-2013,Pittsburgh Pirates,Cincinnati Reds,75,12,out to Centerfield.,Wind12mphouttoCenterfield
+19-06-2013,Pittsburgh Pirates,Cincinnati Reds,84,5,in unknown direction,Sunny
+20-06-2013,Pittsburgh Pirates,Cincinnati Reds,82,6,in from Centerfield,Cloudy
+01-07-2013,San Francisco Giants,Cincinnati Reds,73,8,from Left to Right,Overcast
+02-07-2013,San Francisco Giants,Cincinnati Reds,80,4,in from Rightfield,Cloudy
+03-07-2013,San Francisco Giants,Cincinnati Reds,79,6,from Right to Left.,Wind6mphfromRighttoLeft
+05-07-2013,Seattle Mariners,Cincinnati Reds,76,6,from Right to Left.,Wind6mphfromRighttoLeft
+06-07-2013,Seattle Mariners,Cincinnati Reds,75,11,in from Rightfield,Overcast
+07-07-2013,Seattle Mariners,Cincinnati Reds,79,3,from Right to Left,Cloudy
+19-07-2013,Pittsburgh Pirates,Cincinnati Reds,85,9,from Right to Left,Cloudy
+20-07-2013,Pittsburgh Pirates,Cincinnati Reds,89,15,from Right to Left.,Wind15mphfromRighttoLeft
+21-07-2013,Pittsburgh Pirates,Cincinnati Reds,83,3,from Right to Left,Cloudy
+02-08-2013,St. Louis Cardinals,Cincinnati Reds,82,11,in unknown direction.,Wind11mphinunknowndirection
+03-08-2013,St. Louis Cardinals,Cincinnati Reds,81,7,out to Centerfield,Cloudy
+04-08-2013,St. Louis Cardinals,Cincinnati Reds,75,8,from Left to Right,Cloudy
+06-08-2013,Oakland Athletics,Cincinnati Reds,81,7,in unknown direction.,Wind7mphinunknowndirection
+07-08-2013,Oakland Athletics,Cincinnati Reds,82,5,from Right to Left,Overcast
+09-08-2013,San Diego Padres,Cincinnati Reds,83,4,in from Leftfield.,Wind4mphinfromLeftfield
+10-08-2013,San Diego Padres,Cincinnati Reds,82,4,in unknown direction,Cloudy
+11-08-2013,San Diego Padres,Cincinnati Reds,84,8,from Left to Right,Cloudy
+19-08-2013,Arizona Diamondbacks,Cincinnati Reds,85,5,in from Leftfield,Cloudy
+20-08-2013,Arizona Diamondbacks,Cincinnati Reds,83,4,in from Centerfield,Cloudy
+21-08-2013,Arizona Diamondbacks,Cincinnati Reds,83,5,in from Rightfield,Cloudy
+22-08-2013,Arizona Diamondbacks,Cincinnati Reds,85,7,out to Leftfield,Cloudy
+23-08-2013,Milwaukee Brewers,Cincinnati Reds,84,6,in unknown direction,Cloudy
+24-08-2013,Milwaukee Brewers,Cincinnati Reds,83,5,in from Leftfield,Cloudy
+25-08-2013,Milwaukee Brewers,Cincinnati Reds,85,1,in unknown direction,Sunny
+02-09-2013,St. Louis Cardinals,Cincinnati Reds,87,8,from Right to Left,Cloudy
+03-09-2013,St. Louis Cardinals,Cincinnati Reds,75,6,out to Rightfield,Sunny
+04-09-2013,St. Louis Cardinals,Cincinnati Reds,81,4,out to Leftfield,Sunny
+05-09-2013,St. Louis Cardinals,Cincinnati Reds,85,10,in unknown direction,Cloudy
+06-09-2013,Los Angeles Dodgers,Cincinnati Reds,84,4,from Left to Right,Sunny
+07-09-2013,Los Angeles Dodgers,Cincinnati Reds,85,5,in unknown direction,Sunny
+08-09-2013,Los Angeles Dodgers,Cincinnati Reds,85,4,from Right to Left,Cloudy
+09-09-2013,Chicago Cubs,Cincinnati Reds,88,9,in unknown direction,Sunny
+10-09-2013,Chicago Cubs,Cincinnati Reds,90,10,from Right to Left,Overcast
+11-09-2013,Chicago Cubs,Cincinnati Reds,84,6,from Right to Left,Overcast
+23-09-2013,New York Mets,Cincinnati Reds,69,8,in unknown direction,Sunny
+24-09-2013,New York Mets,Cincinnati Reds,74,6,in from Centerfield,Cloudy
+25-09-2013,New York Mets,Cincinnati Reds,73,5,from Left to Right,Cloudy
+27-09-2013,Pittsburgh Pirates,Cincinnati Reds,79,8,in unknown direction,Sunny
+28-09-2013,Pittsburgh Pirates,Cincinnati Reds,77,0,NoWind,Sunny
+29-09-2013,Pittsburgh Pirates,Cincinnati Reds,71,5,out to Centerfield,Overcast
+08-04-2013,New York Yankees,Cleveland Indians,68,12,out to Centerfield.,Wind12mphouttoCenterfield
+09-04-2013,New York Yankees,Cleveland Indians,62,8,out to Rightfield,Overcast
+12-04-2013,Chicago White Sox,Cleveland Indians,42,15,out to Rightfield,Overcast
+13-04-2013,Chicago White Sox,Cleveland Indians,44,14,from Left to Right,Overcast
+14-04-2013,Chicago White Sox,Cleveland Indians,45,5,in from Rightfield.,Wind5mphinfromRightfield
+16-04-2013,Boston Red Sox,Cleveland Indians,50,2,out to Rightfield,Overcast
+17-04-2013,Boston Red Sox,Cleveland Indians,46,17,in from Rightfield.,Wind17mphinfromRightfield
+18-04-2013,Boston Red Sox,Cleveland Indians,81,21,out to Rightfield,Cloudy
+30-04-2013,Philadelphia Phillies,Cleveland Indians,76,15,out to Centerfield,Sunny
+01-05-2013,Philadelphia Phillies,Cleveland Indians,68,9,in from Rightfield,Sunny
+03-05-2013,Minnesota Twins,Cleveland Indians,76,16,from Right to Left,Sunny
+04-05-2013,Minnesota Twins,Cleveland Indians,68,10,out to Centerfield,Cloudy
+05-05-2013,Minnesota Twins,Cleveland Indians,66,8,from Right to Left,Cloudy
+06-05-2013,Oakland Athletics,Cleveland Indians,56,14,from Right to Left,Cloudy
+07-05-2013,Oakland Athletics,Cleveland Indians,58,8,in from Centerfield.,Wind8mphinfromCenterfield
+08-05-2013,Oakland Athletics,Cleveland Indians,64,8,in from Centerfield.,Wind8mphinfromCenterfield
+09-05-2013,Oakland Athletics,Cleveland Indians,66,7,from Left to Right,Sunny
+17-05-2013,Seattle Mariners,Cleveland Indians,58,14,in from Rightfield,Sunny
+18-05-2013,Seattle Mariners,Cleveland Indians,62,14,in from Rightfield,Cloudy
+19-05-2013,Seattle Mariners,Cleveland Indians,81,10,out to Centerfield.,Wind10mphouttoCenterfield
+20-05-2013,Seattle Mariners,Cleveland Indians,81,9,out to Rightfield,Cloudy
+21-05-2013,Detroit Tigers,Cleveland Indians,86,13,out to Rightfield,Overcast
+22-05-2013,Detroit Tigers,Cleveland Indians,82,18,out to Rightfield,Cloudy
+29-05-2013,Cincinnati Reds,Cleveland Indians,73,4,from Left to Right,Cloudy
+30-05-2013,Cincinnati Reds,Cleveland Indians,89,14,out to Centerfield,Sunny
+31-05-2013,Tampa Bay Rays,Cleveland Indians,70,10,out to Centerfield,Overcast
+01-06-2013,Tampa Bay Rays,Cleveland Indians,81,20,out to Rightfield.,Wind20mphouttoRightfield
+02-06-2013,Tampa Bay Rays,Cleveland Indians,73,17,from Left to Right,Cloudy
+14-06-2013,Washington Nationals,Cleveland Indians,67,7,in from Centerfield,Cloudy
+15-06-2013,Washington Nationals,Cleveland Indians,73,5,from Left to Right,Overcast
+16-06-2013,Washington Nationals,Cleveland Indians,71,11,from Left to Right,Overcast
+17-06-2013,Kansas City Royals,Cleveland Indians,77,6,out to Centerfield,Cloudy
+18-06-2013,Kansas City Royals,Cleveland Indians,68,17,in from Rightfield,Sunny
+19-06-2013,Kansas City Royals,Cleveland Indians,66,14,in from Rightfield,Sunny
+21-06-2013,Minnesota Twins,Cleveland Indians,77,4,in from Centerfield.,Wind4mphinfromCenterfield
+22-06-2013,Minnesota Twins,Cleveland Indians,89,17,out to Centerfield.,Wind17mphouttoCenterfield
+23-06-2013,Minnesota Twins,Cleveland Indians,88,13,out to Rightfield,Sunny
+05-07-2013,Detroit Tigers,Cleveland Indians,75,3,in from Centerfield,Cloudy
+06-07-2013,Detroit Tigers,Cleveland Indians,75,7,in from Centerfield.,Wind7mphinfromCenterfield
+07-07-2013,Detroit Tigers,Cleveland Indians,77,10,out to Rightfield,Overcast
+08-07-2013,Detroit Tigers,Cleveland Indians,79,13,out to Rightfield,Overcast
+09-07-2013,Toronto Blue Jays,Cleveland Indians,77,3,out to Leftfield,Cloudy
+10-07-2013,Toronto Blue Jays,Cleveland Indians,73,10,out to Centerfield.,Wind10mphouttoCenterfield
+11-07-2013,Toronto Blue Jays,Cleveland Indians,72,10,in from Centerfield,Sunny
+12-07-2013,Kansas City Royals,Cleveland Indians,74,12,in from Rightfield,Cloudy
+13-07-2013,Kansas City Royals,Cleveland Indians,76,12,in from Rightfield,Sunny
+14-07-2013,Kansas City Royals,Cleveland Indians,78,8,in from Centerfield.,Wind8mphinfromCenterfield
+26-07-2013,Texas Rangers,Cleveland Indians,75,6,in from Centerfield,Cloudy
+27-07-2013,Texas Rangers,Cleveland Indians,72,12,from Left to Right.,Wind12mphfromLefttoRight
+28-07-2013,Texas Rangers,Cleveland Indians,67,13,out to Rightfield.,Wind13mphouttoRightfield
+29-07-2013,Chicago White Sox,Cleveland Indians,70,8,in from Leftfield.,Wind8mphinfromLeftfield
+30-07-2013,Chicago White Sox,Cleveland Indians,72,6,in from Centerfield,Cloudy
+31-07-2013,Chicago White Sox,Cleveland Indians,77,10,out to Centerfield.,Wind10mphouttoCenterfield
+01-08-2013,Chicago White Sox,Cleveland Indians,73,12,from Left to Right,Sunny
+05-08-2013,Detroit Tigers,Cleveland Indians,68,4,from Right to Left.,Wind4mphfromRighttoLeft
+06-08-2013,Detroit Tigers,Cleveland Indians,79,9,out to Centerfield.,Wind9mphouttoCenterfield
+07-08-2013,Detroit Tigers,Cleveland Indians,78,9,out to Leftfield,Cloudy
+08-08-2013,Detroit Tigers,Cleveland Indians,73,7,in from Rightfield,Overcast
+09-08-2013,Los Angeles Angels of Anaheim,Cleveland Indians,73,5,from Left to Right,Cloudy
+10-08-2013,Los Angeles Angels of Anaheim,Cleveland Indians,70,12,in from Rightfield.,Wind12mphinfromRightfield
+11-08-2013,Los Angeles Angels of Anaheim,Cleveland Indians,76,4,from Right to Left,Cloudy
+23-08-2013,Minnesota Twins,Cleveland Indians,75,11,in from Rightfield,Sunny
+24-08-2013,Minnesota Twins,Cleveland Indians,74,14,in from Rightfield,Sunny
+25-08-2013,Minnesota Twins,Cleveland Indians,82,7,from Left to Right,Sunny
+02-09-2013,Baltimore Orioles,Cleveland Indians,73,8,from Left to Right.,Wind8mphfromLefttoRight
+03-09-2013,Baltimore Orioles,Cleveland Indians,68,9,in from Leftfield,Sunny
+04-09-2013,Baltimore Orioles,Cleveland Indians,77,11,from Left to Right,Sunny
+06-09-2013,New York Mets,Cleveland Indians,69,7,in from Rightfield.,Wind7mphinfromRightfield
+07-09-2013,New York Mets,Cleveland Indians,82,8,from Left to Right,Cloudy
+08-09-2013,New York Mets,Cleveland Indians,74,15,in from Rightfield,Cloudy
+09-09-2013,Kansas City Royals,Cleveland Indians,77,6,out to Leftfield,Cloudy
+10-09-2013,Kansas City Royals,Cleveland Indians,94,12,out to Rightfield,Sunny
+11-09-2013,Kansas City Royals,Cleveland Indians,87,8,out to Centerfield.,Wind8mphouttoCenterfield
+19-09-2013,Houston Astros,Cleveland Indians,74,10,out to Centerfield,Cloudy
+20-09-2013,Houston Astros,Cleveland Indians,82,11,out to Centerfield,Cloudy
+21-09-2013,Houston Astros,Cleveland Indians,65,10,in from Leftfield,Cloudy
+22-09-2013,Houston Astros,Cleveland Indians,59,10,in from Leftfield.,Wind10mphinfromLeftfield
+24-09-2013,Chicago White Sox,Cleveland Indians,62,12,in from Centerfield,Sunny
+25-09-2013,Chicago White Sox,Cleveland Indians,66,13,in from Rightfield,Cloudy
+05-04-2013,San Diego Padres,Colorado Rockies,70,4,out to Rightfield.,Wind4mphouttoRightfield
+06-04-2013,San Diego Padres,Colorado Rockies,61,21,from Left to Right,Overcast
+07-04-2013,San Diego Padres,Colorado Rockies,63,9,in from Leftfield,Cloudy
+18-04-2013,New York Mets,Colorado Rockies,28,6,out to Centerfield,Cloudy
+19-04-2013,Arizona Diamondbacks,Colorado Rockies,52,3,in from Leftfield.,Wind3mphinfromLeftfield
+20-04-2013,Arizona Diamondbacks,Colorado Rockies,52,8,from Right to Left,Overcast
+21-04-2013,Arizona Diamondbacks,Colorado Rockies,59,4,from Right to Left,Cloudy
+24-04-2013,Atlanta Braves,Colorado Rockies,48,7,in from Leftfield,Cloudy
+03-05-2013,Tampa Bay Rays,Colorado Rockies,57,8,in from Rightfield,Cloudy
+04-05-2013,Tampa Bay Rays,Colorado Rockies,54,9,out to Leftfield.,Wind9mphouttoLeftfield
+05-05-2013,Tampa Bay Rays,Colorado Rockies,55,7,in from Centerfield,Overcast
+07-05-2013,New York Yankees,Colorado Rockies,64,9,in from Rightfield.,Wind9mphinfromRightfield
+08-05-2013,New York Yankees,Colorado Rockies,45,3,out to Centerfield,Overcast
+09-05-2013,New York Yankees,Colorado Rockies,55,3,in from Centerfield,Overcast
+16-05-2013,San Francisco Giants,Colorado Rockies,75,7,in from Centerfield,Cloudy
+17-05-2013,San Francisco Giants,Colorado Rockies,81,6,out to Rightfield,Cloudy
+18-05-2013,San Francisco Giants,Colorado Rockies,73,6,in from Leftfield,Cloudy
+19-05-2013,San Francisco Giants,Colorado Rockies,66,12,from Left to Right.,Wind12mphfromLefttoRight
+20-05-2013,Arizona Diamondbacks,Colorado Rockies,52,3,out to Leftfield,Cloudy
+21-05-2013,Arizona Diamondbacks,Colorado Rockies,68,12,in from Centerfield,Cloudy
+22-05-2013,Arizona Diamondbacks,Colorado Rockies,72,5,in from Centerfield,Sunny
+29-05-2013,Houston Astros,Colorado Rockies,63,4,out to Leftfield,Cloudy
+30-05-2013,Houston Astros,Colorado Rockies,68,11,in from Centerfield,Sunny
+31-05-2013,Los Angeles Dodgers,Colorado Rockies,69,11,from Left to Right,Cloudy
+01-06-2013,Los Angeles Dodgers,Colorado Rockies,64,11,out to Leftfield,Cloudy
+02-06-2013,Los Angeles Dodgers,Colorado Rockies,79,2,in from Rightfield,Sunny
+06-06-2013,San Diego Padres,Colorado Rockies,77,8,in from Rightfield,Cloudy
+07-06-2013,San Diego Padres,Colorado Rockies,79,6,out to Centerfield,Cloudy
+08-06-2013,San Diego Padres,Colorado Rockies,70,14,from Right to Left,Cloudy
+09-06-2013,San Diego Padres,Colorado Rockies,84,5,in from Centerfield,Sunny
+11-06-2013,Washington Nationals,Colorado Rockies,95,9,out to Rightfield,Sunny
+12-06-2013,Washington Nationals,Colorado Rockies,88,8,out to Centerfield.,Wind8mphouttoCenterfield
+13-06-2013,Washington Nationals,Colorado Rockies,86,6,in from Centerfield,Cloudy
+14-06-2013,Philadelphia Phillies,Colorado Rockies,84,4,out to Centerfield,Cloudy
+15-06-2013,Philadelphia Phillies,Colorado Rockies,77,9,in from Rightfield,Cloudy
+16-06-2013,Philadelphia Phillies,Colorado Rockies,68,8,out to Centerfield.,Wind8mphouttoCenterfield
+27-06-2013,New York Mets,Colorado Rockies,95,7,in from Rightfield,Sunny
+28-06-2013,San Francisco Giants,Colorado Rockies,90,5,from Left to Right.,Wind5mphfromLefttoRight
+29-06-2013,San Francisco Giants,Colorado Rockies,82,5,in from Leftfield.,Wind5mphinfromLeftfield
+30-06-2013,San Francisco Giants,Colorado Rockies,73,4,in from Leftfield.,Wind4mphinfromLeftfield
+02-07-2013,Los Angeles Dodgers,Colorado Rockies,81,6,in from Leftfield,Sunny
+03-07-2013,Los Angeles Dodgers,Colorado Rockies,90,5,in from Centerfield,Sunny
+04-07-2013,Los Angeles Dodgers,Colorado Rockies,82,9,in from Leftfield.,Wind9mphinfromLeftfield
+19-07-2013,Chicago Cubs,Colorado Rockies,77,5,in from Rightfield,Sunny
+20-07-2013,Chicago Cubs,Colorado Rockies,86,10,in from Centerfield.,Wind10mphinfromCenterfield
+21-07-2013,Chicago Cubs,Colorado Rockies,82,4,in from Rightfield,Sunny
+22-07-2013,Miami Marlins,Colorado Rockies,91,8,in from Rightfield,Sunny
+23-07-2013,Miami Marlins,Colorado Rockies,89,3,from Left to Right.,Wind3mphfromLefttoRight
+24-07-2013,Miami Marlins,Colorado Rockies,79,8,out to Rightfield.,Wind8mphouttoRightfield
+25-07-2013,Miami Marlins,Colorado Rockies,77,4,in from Centerfield,Cloudy
+26-07-2013,Milwaukee Brewers,Colorado Rockies,82,2,out to Rightfield,Sunny
+27-07-2013,Milwaukee Brewers,Colorado Rockies,79,9,from Right to Left.,Wind9mphfromRighttoLeft
+28-07-2013,Milwaukee Brewers,Colorado Rockies,66,6,in from Leftfield.,Wind6mphinfromLeftfield
+09-08-2013,Pittsburgh Pirates,Colorado Rockies,63,5,out to Rightfield.,Wind5mphouttoRightfield
+10-08-2013,Pittsburgh Pirates,Colorado Rockies,77,5,out to Leftfield.,Wind5mphouttoLeftfield
+11-08-2013,Pittsburgh Pirates,Colorado Rockies,79,2,in from Rightfield.,Wind2mphinfromRightfield
+12-08-2013,San Diego Padres,Colorado Rockies,68,9,from Right to Left.,Wind9mphfromRighttoLeft
+13-08-2013,San Diego Padres,Colorado Rockies,72,2,from Left to Right,Cloudy
+14-08-2013,San Diego Padres,Colorado Rockies,77,5,in from Rightfield,Sunny
+26-08-2013,San Francisco Giants,Colorado Rockies,86,8,in from Leftfield,Cloudy
+27-08-2013,San Francisco Giants,Colorado Rockies,86,6,out to Leftfield,Cloudy
+28-08-2013,San Francisco Giants,Colorado Rockies,88,6,in from Leftfield,Cloudy
+30-08-2013,Cincinnati Reds,Colorado Rockies,73,5,in from Rightfield,Cloudy
+31-08-2013,Cincinnati Reds,Colorado Rockies,81,5,from Left to Right.,Wind5mphfromLefttoRight
+01-09-2013,Cincinnati Reds,Colorado Rockies,73,3,out to Leftfield.,Wind3mphouttoLeftfield
+02-09-2013,Los Angeles Dodgers,Colorado Rockies,90,3,in from Rightfield,Cloudy
+03-09-2013,Los Angeles Dodgers,Colorado Rockies,88,4,in from Leftfield,Cloudy
+04-09-2013,Los Angeles Dodgers,Colorado Rockies,79,6,out to Leftfield.,Wind6mphouttoLeftfield
+16-09-2013,St. Louis Cardinals,Colorado Rockies,72,3,from Right to Left,Sunny
+17-09-2013,St. Louis Cardinals,Colorado Rockies,81,2,out to Rightfield,Cloudy
+18-09-2013,St. Louis Cardinals,Colorado Rockies,68,8,out to Rightfield,Overcast
+19-09-2013,St. Louis Cardinals,Colorado Rockies,59,9,in from Leftfield,Cloudy
+20-09-2013,Arizona Diamondbacks,Colorado Rockies,70,3,in from Rightfield,Sunny
+21-09-2013,Arizona Diamondbacks,Colorado Rockies,77,3,from Right to Left,Cloudy
+22-09-2013,Arizona Diamondbacks,Colorado Rockies,75,9,out to Rightfield.,Wind9mphouttoRightfield
+24-09-2013,Boston Red Sox,Colorado Rockies,70,4,in from Rightfield,Sunny
+25-09-2013,Boston Red Sox,Colorado Rockies,79,6,out to Centerfield,Sunny
+05-04-2013,New York Yankees,Detroit Tigers,45,12,from Left to Right,Sunny
+06-04-2013,New York Yankees,Detroit Tigers,48,13,in from Leftfield.,Wind13mphinfromLeftfield
+07-04-2013,New York Yankees,Detroit Tigers,53,17,out to Leftfield,Cloudy
+09-04-2013,Toronto Blue Jays,Detroit Tigers,48,5,in from Centerfield.,Wind5mphinfromCenterfield
+10-04-2013,Toronto Blue Jays,Detroit Tigers,42,7,in from Centerfield,Drizzle
+11-04-2013,Toronto Blue Jays,Detroit Tigers,35,20,from Left to Right,Drizzle
+24-04-2013,Kansas City Royals,Detroit Tigers,41,10,from Left to Right,Drizzle
+25-04-2013,Kansas City Royals,Detroit Tigers,43,18,from Right to Left,Drizzle
+26-04-2013,Atlanta Braves,Detroit Tigers,55,12,in from Rightfield,Sunny
+27-04-2013,Atlanta Braves,Detroit Tigers,63,7,from Right to Left,Sunny
+28-04-2013,Atlanta Braves,Detroit Tigers,53,8,from Left to Right,Drizzle
+29-04-2013,Minnesota Twins,Detroit Tigers,65,6,from Right to Left,Cloudy
+30-04-2013,Minnesota Twins,Detroit Tigers,69,15,in from Centerfield,Sunny
+01-05-2013,Minnesota Twins,Detroit Tigers,73,8,in from Centerfield,Sunny
+10-05-2013,Cleveland Indians,Detroit Tigers,59,12,out to Rightfield.,Wind12mphouttoRightfield
+11-05-2013,Cleveland Indians,Detroit Tigers,58,15,from Right to Left.,Wind15mphfromRighttoLeft
+12-05-2013,Cleveland Indians,Detroit Tigers,46,13,out to Leftfield,Cloudy
+13-05-2013,Houston Astros,Detroit Tigers,54,7,from Right to Left,Cloudy
+14-05-2013,Houston Astros,Detroit Tigers,69,11,in from Leftfield.,Wind11mphinfromLeftfield
+15-05-2013,Houston Astros,Detroit Tigers,82,15,out to Leftfield,Sunny
+23-05-2013,Minnesota Twins,Detroit Tigers,43,18,out to Rightfield.,Wind18mphouttoRightfield
+24-05-2013,Minnesota Twins,Detroit Tigers,55,8,out to Centerfield,Sunny
+25-05-2013,Minnesota Twins,Detroit Tigers,63,6,in unknown direction,Sunny
+26-05-2013,Minnesota Twins,Detroit Tigers,68,5,in unknown direction,Sunny
+27-05-2013,Pittsburgh Pirates,Detroit Tigers,62,8,in from Centerfield,Cloudy
+28-05-2013,Pittsburgh Pirates,Detroit Tigers,72,10,from Right to Left.,Wind10mphfromRighttoLeft
+04-06-2013,Tampa Bay Rays,Detroit Tigers,66,9,in from Leftfield,Sunny
+05-06-2013,Tampa Bay Rays,Detroit Tigers,69,12,from Left to Right,Cloudy
+06-06-2013,Tampa Bay Rays,Detroit Tigers,62,10,from Left to Right.,Wind10mphfromLefttoRight
+07-06-2013,Cleveland Indians,Detroit Tigers,62,9,from Left to Right,Overcast
+08-06-2013,Cleveland Indians,Detroit Tigers,68,3,in from Leftfield,Cloudy
+09-06-2013,Cleveland Indians,Detroit Tigers,73,12,in from Leftfield.,Wind12mphinfromLeftfield
+17-06-2013,Baltimore Orioles,Detroit Tigers,72,9,out to Rightfield,Cloudy
+18-06-2013,Baltimore Orioles,Detroit Tigers,71,15,from Left to Right,Sunny
+19-06-2013,Baltimore Orioles,Detroit Tigers,67,5,in from Leftfield,Sunny
+20-06-2013,Boston Red Sox,Detroit Tigers,78,12,in unknown direction,Cloudy
+21-06-2013,Boston Red Sox,Detroit Tigers,82,10,in from Rightfield,Cloudy
+22-06-2013,Boston Red Sox,Detroit Tigers,77,12,in from Rightfield.,Wind12mphinfromRightfield
+23-06-2013,Boston Red Sox,Detroit Tigers,86,10,in from Rightfield,Sunny
+25-06-2013,Los Angeles Angels of Anaheim,Detroit Tigers,84,8,out to Leftfield,Cloudy
+26-06-2013,Los Angeles Angels of Anaheim,Detroit Tigers,80,6,from Right to Left,Cloudy
+27-06-2013,Los Angeles Angels of Anaheim,Detroit Tigers,79,7,in from Leftfield,Cloudy
+09-07-2013,Chicago White Sox,Detroit Tigers,78,8,from Right to Left,Cloudy
+10-07-2013,Chicago White Sox,Detroit Tigers,80,10,from Right to Left,Overcast
+11-07-2013,Chicago White Sox,Detroit Tigers,76,10,from Left to Right,Cloudy
+12-07-2013,Texas Rangers,Detroit Tigers,79,5,from Left to Right,Sunny
+13-07-2013,Texas Rangers,Detroit Tigers,80,8,in from Leftfield,Sunny
+14-07-2013,Texas Rangers,Detroit Tigers,83,5,in from Leftfield,Sunny
+26-07-2013,Philadelphia Phillies,Detroit Tigers,76,12,in from Rightfield,Cloudy
+27-07-2013,Philadelphia Phillies,Detroit Tigers,62,10,in from Rightfield,Cloudy
+28-07-2013,Philadelphia Phillies,Detroit Tigers,64,10,in from Centerfield,Cloudy
+30-07-2013,Washington Nationals,Detroit Tigers,73,7,in from Centerfield,Cloudy
+31-07-2013,Washington Nationals,Detroit Tigers,73,10,from Right to Left.,Wind10mphfromRighttoLeft
+02-08-2013,Chicago White Sox,Detroit Tigers,71,12,in from Rightfield.,Wind12mphinfromRightfield
+03-08-2013,Chicago White Sox,Detroit Tigers,79,8,out to Centerfield,Sunny
+04-08-2013,Chicago White Sox,Detroit Tigers,72,8,from Left to Right,Sunny
+15-08-2013,Kansas City Royals,Detroit Tigers,70,8,in from Rightfield,Cloudy
+17-08-2013,Kansas City Royals,Detroit Tigers,76,10,in from Leftfield,Sunny
+18-08-2013,Kansas City Royals,Detroit Tigers,79,5,out to Rightfield,Sunny
+20-08-2013,Minnesota Twins,Detroit Tigers,82,6,in from Rightfield,Cloudy
+21-08-2013,Minnesota Twins,Detroit Tigers,82,13,in from Rightfield,Cloudy
+22-08-2013,Minnesota Twins,Detroit Tigers,83,10,out to Leftfield,Cloudy
+26-08-2013,Oakland Athletics,Detroit Tigers,87,15,from Right to Left,Cloudy
+27-08-2013,Oakland Athletics,Detroit Tigers,81,4,in from Centerfield.,Wind4mphinfromCenterfield
+28-08-2013,Oakland Athletics,Detroit Tigers,82,10,in from Leftfield,Sunny
+29-08-2013,Oakland Athletics,Detroit Tigers,84,3,in from Leftfield,Sunny
+30-08-2013,Cleveland Indians,Detroit Tigers,87,16,from Right to Left,Sunny
+31-08-2013,Cleveland Indians,Detroit Tigers,79,8,from Left to Right.,Wind8mphfromLefttoRight
+01-09-2013,Cleveland Indians,Detroit Tigers,73,5,in from Leftfield.,Wind5mphinfromLeftfield
+13-09-2013,Kansas City Royals,Detroit Tigers,57,17,out to Rightfield,Sunny
+14-09-2013,Kansas City Royals,Detroit Tigers,65,6,in from Rightfield,Sunny
+15-09-2013,Kansas City Royals,Detroit Tigers,64,7,from Right to Left.,Wind7mphfromRighttoLeft
+16-09-2013,Seattle Mariners,Detroit Tigers,62,7,out to Rightfield,Sunny
+17-09-2013,Seattle Mariners,Detroit Tigers,61,10,in from Leftfield,Cloudy
+18-09-2013,Seattle Mariners,Detroit Tigers,71,10,in from Centerfield,Cloudy
+19-09-2013,Seattle Mariners,Detroit Tigers,77,11,in from Rightfield.,Wind11mphinfromRightfield
+20-09-2013,Chicago White Sox,Detroit Tigers,71,10,out to Leftfield,Overcast
+21-09-2013,Chicago White Sox,Detroit Tigers,66,7,out to Centerfield,Sunny
+22-09-2013,Chicago White Sox,Detroit Tigers,59,9,from Left to Right,Sunny
+31-03-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+02-04-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+03-04-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+05-04-2013,Oakland Athletics,Houston Astros,73,5,out to Centerfield,Cloudy
+06-04-2013,Oakland Athletics,Houston Astros,75,12,out to Leftfield,Cloudy
+07-04-2013,Oakland Athletics,Houston Astros,79,13,out to Leftfield.,Wind13mphouttoLeftfield
+19-04-2013,Cleveland Indians,Houston Astros,66,9,in from Centerfield,Sunny
+20-04-2013,Cleveland Indians,Houston Astros,68,12,out to Leftfield,Sunny
+21-04-2013,Cleveland Indians,Houston Astros,73,12,from Left to Right.,Wind12mphfromLefttoRight
+22-04-2013,Seattle Mariners,Houston Astros,76,13,out to Leftfield,Sunny
+23-04-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+24-04-2013,Seattle Mariners,Houston Astros,65,0,NoWind,InDome
+02-05-2013,Detroit Tigers,Houston Astros,73,0,NoWind,InDome
+03-05-2013,Detroit Tigers,Houston Astros,66,18,in from Centerfield,Sunny
+04-05-2013,Detroit Tigers,Houston Astros,78,15,out to Centerfield,Sunny
+05-05-2013,Detroit Tigers,Houston Astros,68,13,in from Centerfield,Sunny
+07-05-2013,Los Angeles Angels of Anaheim,Houston Astros,85,14,out to Leftfield,Sunny
+08-05-2013,Los Angeles Angels of Anaheim,Houston Astros,78,9,out to Leftfield,Cloudy
+09-05-2013,Los Angeles Angels of Anaheim,Houston Astros,73,0,NoWind,InDome
+10-05-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+11-05-2013,Texas Rangers,Houston Astros,86,10,in from Centerfield,Cloudy
+12-05-2013,Texas Rangers,Houston Astros,81,8,in from Rightfield.,Wind8mphinfromRightfield
+20-05-2013,Kansas City Royals,Houston Astros,72,0,NoWind,InDome
+21-05-2013,Kansas City Royals,Houston Astros,73,0,NoWind,InDome
+22-05-2013,Kansas City Royals,Houston Astros,73,0,NoWind,InDome
+24-05-2013,Oakland Athletics,Houston Astros,73,0,NoWind,InDome
+25-05-2013,Oakland Athletics,Houston Astros,73,0,NoWind,InDome
+26-05-2013,Oakland Athletics,Houston Astros,72,0,NoWind,InDome
+27-05-2013,Colorado Rockies,Houston Astros,73,0,NoWind,InDome
+28-05-2013,Colorado Rockies,Houston Astros,73,0,NoWind,InDome
+04-06-2013,Baltimore Orioles,Houston Astros,73,0,NoWind,InDome
+05-06-2013,Baltimore Orioles,Houston Astros,73,0,NoWind,InDome
+06-06-2013,Baltimore Orioles,Houston Astros,73,0,NoWind,InDome
+14-06-2013,Chicago White Sox,Houston Astros,73,0,NoWind,InDome
+15-06-2013,Chicago White Sox,Houston Astros,73,0,NoWind,InDome
+16-06-2013,Chicago White Sox,Houston Astros,73,0,NoWind,InDome
+17-06-2013,Chicago White Sox,Houston Astros,73,0,NoWind,InDome
+18-06-2013,Milwaukee Brewers,Houston Astros,73,0,NoWind,InDome
+19-06-2013,Milwaukee Brewers,Houston Astros,73,0,NoWind,InDome
+20-06-2013,Milwaukee Brewers,Houston Astros,72,0,NoWind,InDome
+25-06-2013,St. Louis Cardinals,Houston Astros,73,0,NoWind,InDome
+26-06-2013,St. Louis Cardinals,Houston Astros,73,0,NoWind,InDome
+28-06-2013,Los Angeles Angels of Anaheim,Houston Astros,73,0,NoWind,InDome
+29-06-2013,Los Angeles Angels of Anaheim,Houston Astros,73,0,NoWind,InDome
+30-06-2013,Los Angeles Angels of Anaheim,Houston Astros,73,0,NoWind,InDome
+01-07-2013,Tampa Bay Rays,Houston Astros,73,0,NoWind,InDome
+02-07-2013,Tampa Bay Rays,Houston Astros,73,0,NoWind,InDome
+03-07-2013,Tampa Bay Rays,Houston Astros,73,0,NoWind,InDome
+04-07-2013,Tampa Bay Rays,Houston Astros,73,0,NoWind,InDome
+19-07-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+20-07-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+21-07-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+22-07-2013,Oakland Athletics,Houston Astros,73,0,NoWind,InDome
+23-07-2013,Oakland Athletics,Houston Astros,73,0,NoWind,InDome
+24-07-2013,Oakland Athletics,Houston Astros,73,0,NoWind,InDome
+05-08-2013,Boston Red Sox,Houston Astros,73,0,NoWind,InDome
+06-08-2013,Boston Red Sox,Houston Astros,73,0,NoWind,InDome
+07-08-2013,Boston Red Sox,Houston Astros,73,0,NoWind,InDome
+09-08-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+10-08-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+11-08-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+12-08-2013,Texas Rangers,Houston Astros,73,0,NoWind,InDome
+23-08-2013,Toronto Blue Jays,Houston Astros,73,0,NoWind,InDome
+24-08-2013,Toronto Blue Jays,Houston Astros,73,0,NoWind,InDome
+25-08-2013,Toronto Blue Jays,Houston Astros,73,0,NoWind,InDome
+29-08-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+30-08-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+31-08-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+01-09-2013,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
+02-09-2013,Minnesota Twins,Houston Astros,73,0,NoWind,InDome
+03-09-2013,Minnesota Twins,Houston Astros,73,0,NoWind,InDome
+04-09-2013,Minnesota Twins,Houston Astros,73,0,NoWind,InDome
+13-09-2013,Los Angeles Angels of Anaheim,Houston Astros,73,0,NoWind,InDome
+14-09-2013,Los Angeles Angels of Anaheim,Houston Astros,73,0,NoWind,InDome
+15-09-2013,Los Angeles Angels of Anaheim,Houston Astros,73,0,NoWind,InDome
+16-09-2013,Cincinnati Reds,Houston Astros,73,0,NoWind,InDome
+17-09-2013,Cincinnati Reds,Houston Astros,73,0,NoWind,InDome
+18-09-2013,Cincinnati Reds,Houston Astros,73,0,NoWind,InDome
+27-09-2013,New York Yankees,Houston Astros,73,0,NoWind,InDome
+28-09-2013,New York Yankees,Houston Astros,73,0,NoWind,InDome
+29-09-2013,New York Yankees,Houston Astros,73,0,NoWind,InDome
+08-04-2013,Minnesota Twins,Kansas City Royals,73,10,from Right to Left,Overcast
+09-04-2013,Minnesota Twins,Kansas City Royals,71,9,from Right to Left.,Wind9mphfromRighttoLeft
+10-04-2013,Minnesota Twins,Kansas City Royals,45,5,from Left to Right,Overcast
+12-04-2013,Toronto Blue Jays,Kansas City Royals,52,8,from Left to Right,Cloudy
+13-04-2013,Toronto Blue Jays,Kansas City Royals,63,11,from Right to Left,Sunny
+14-04-2013,Toronto Blue Jays,Kansas City Royals,75,18,from Right to Left,Overcast
+27-04-2013,Cleveland Indians,Kansas City Royals,56,3,from Left to Right.,Wind3mphfromLefttoRight
+29-04-2013,Cleveland Indians,Kansas City Royals,81,15,from Right to Left,Cloudy
+30-04-2013,Tampa Bay Rays,Kansas City Royals,79,20,from Right to Left,Cloudy
+01-05-2013,Tampa Bay Rays,Kansas City Royals,66,17,from Left to Right,Overcast
+04-05-2013,Chicago White Sox,Kansas City Royals,50,9,in from Rightfield,Overcast
+05-05-2013,Chicago White Sox,Kansas City Royals,55,9,from Left to Right.,Wind9mphfromLefttoRight
+06-05-2013,Chicago White Sox,Kansas City Royals,58,4,from Left to Right.,Wind4mphfromLefttoRight
+10-05-2013,New York Yankees,Kansas City Royals,66,6,from Left to Right,Sunny
+11-05-2013,New York Yankees,Kansas City Royals,66,13,from Left to Right,Sunny
+12-05-2013,New York Yankees,Kansas City Royals,64,3,from Left to Right,Sunny
+23-05-2013,Los Angeles Angels of Anaheim,Kansas City Royals,66,6,from Left to Right.,Wind6mphfromLefttoRight
+24-05-2013,Los Angeles Angels of Anaheim,Kansas City Royals,71,11,from Right to Left,Cloudy
+25-05-2013,Los Angeles Angels of Anaheim,Kansas City Royals,80,5,from Right to Left,Cloudy
+26-05-2013,Los Angeles Angels of Anaheim,Kansas City Royals,81,11,from Right to Left.,Wind11mphfromRighttoLeft
+27-05-2013,St. Louis Cardinals,Kansas City Royals,65,15,from Right to Left,Cloudy
+28-05-2013,St. Louis Cardinals,Kansas City Royals,76,13,from Right to Left.,Wind13mphfromRighttoLeft
+04-06-2013,Minnesota Twins,Kansas City Royals,74,7,from Right to Left,Cloudy
+05-06-2013,Minnesota Twins,Kansas City Royals,67,4,in from Leftfield,Overcast
+06-06-2013,Minnesota Twins,Kansas City Royals,73,8,from Left to Right,Cloudy
+07-06-2013,Houston Astros,Kansas City Royals,73,5,from Left to Right,Sunny
+08-06-2013,Houston Astros,Kansas City Royals,81,16,from Left to Right,Sunny
+09-06-2013,Houston Astros,Kansas City Royals,78,13,from Left to Right,Cloudy
+10-06-2013,Detroit Tigers,Kansas City Royals,86,8,from Right to Left,Sunny
+11-06-2013,Detroit Tigers,Kansas City Royals,93,14,from Right to Left,Sunny
+12-06-2013,Detroit Tigers,Kansas City Royals,92,16,out to Rightfield,Sunny
+21-06-2013,Chicago White Sox,Kansas City Royals,89,14,from Right to Left,Cloudy
+22-06-2013,Chicago White Sox,Kansas City Royals,90,16,from Right to Left,Sunny
+23-06-2013,Chicago White Sox,Kansas City Royals,84,7,in from Rightfield.,Wind7mphinfromRightfield
+25-06-2013,Atlanta Braves,Kansas City Royals,87,19,from Right to Left,Cloudy
+26-06-2013,Atlanta Braves,Kansas City Royals,94,10,from Left to Right,Cloudy
+02-07-2013,Cleveland Indians,Kansas City Royals,82,4,from Left to Right,Cloudy
+03-07-2013,Cleveland Indians,Kansas City Royals,64,4,from Left to Right.,Wind4mphfromLefttoRight
+04-07-2013,Cleveland Indians,Kansas City Royals,85,7,from Right to Left,Sunny
+05-07-2013,Oakland Athletics,Kansas City Royals,87,13,from Right to Left,Sunny
+06-07-2013,Oakland Athletics,Kansas City Royals,88,16,from Right to Left,Cloudy
+07-07-2013,Oakland Athletics,Kansas City Royals,88,16,from Right to Left,Sunny
+19-07-2013,Detroit Tigers,Kansas City Royals,95,7,out to Leftfield,Cloudy
+20-07-2013,Detroit Tigers,Kansas City Royals,83,8,from Left to Right.,Wind8mphfromLefttoRight
+21-07-2013,Detroit Tigers,Kansas City Royals,82,10,from Right to Left.,Wind10mphfromRighttoLeft
+22-07-2013,Baltimore Orioles,Kansas City Royals,90,12,out to Rightfield,Cloudy
+23-07-2013,Baltimore Orioles,Kansas City Royals,85,11,from Left to Right,Sunny
+24-07-2013,Baltimore Orioles,Kansas City Royals,84,9,in from Rightfield,Sunny
+25-07-2013,Baltimore Orioles,Kansas City Royals,73,10,from Right to Left,Overcast
+05-08-2013,Minnesota Twins,Kansas City Royals,85,4,from Right to Left,Cloudy
+06-08-2013,Minnesota Twins,Kansas City Royals,87,7,from Right to Left,Cloudy
+07-08-2013,Minnesota Twins,Kansas City Royals,86,7,from Left to Right,Cloudy
+08-08-2013,Boston Red Sox,Kansas City Royals,73,8,from Left to Right.,Wind8mphfromLefttoRight
+09-08-2013,Boston Red Sox,Kansas City Royals,75,3,from Left to Right.,Wind3mphfromLefttoRight
+10-08-2013,Boston Red Sox,Kansas City Royals,82,7,in from Rightfield,Sunny
+11-08-2013,Boston Red Sox,Kansas City Royals,86,6,from Right to Left,Sunny
+12-08-2013,Miami Marlins,Kansas City Royals,83,9,in from Leftfield,Cloudy
+13-08-2013,Miami Marlins,Kansas City Royals,77,10,from Left to Right,Overcast
+14-08-2013,Miami Marlins,Kansas City Royals,78,6,from Right to Left,Sunny
+20-08-2013,Chicago White Sox,Kansas City Royals,86,8,from Right to Left,Sunny
+21-08-2013,Chicago White Sox,Kansas City Royals,87,10,from Right to Left,Sunny
+22-08-2013,Chicago White Sox,Kansas City Royals,91,6,from Right to Left,Cloudy
+23-08-2013,Washington Nationals,Kansas City Royals,88,8,from Right to Left,Cloudy
+24-08-2013,Washington Nationals,Kansas City Royals,91,15,from Right to Left,Sunny
+25-08-2013,Washington Nationals,Kansas City Royals,92,8,from Right to Left,Sunny
+26-08-2013,Tampa Bay Rays,Kansas City Royals,93,14,out to Centerfield,Sunny
+02-09-2013,Seattle Mariners,Kansas City Royals,78,9,out to Rightfield,Sunny
+03-09-2013,Seattle Mariners,Kansas City Royals,83,7,in from Rightfield,Sunny
+04-09-2013,Seattle Mariners,Kansas City Royals,82,7,in from Rightfield,Cloudy
+05-09-2013,Seattle Mariners,Kansas City Royals,87,4,in from Rightfield,Cloudy
+06-09-2013,Detroit Tigers,Kansas City Royals,88,5,from Right to Left,Sunny
+07-09-2013,Detroit Tigers,Kansas City Royals,96,13,from Right to Left,Sunny
+08-09-2013,Detroit Tigers,Kansas City Royals,99,6,from Right to Left,Sunny
+16-09-2013,Cleveland Indians,Kansas City Royals,61,7,in from Rightfield,Overcast
+17-09-2013,Cleveland Indians,Kansas City Royals,71,13,from Right to Left,Cloudy
+18-09-2013,Cleveland Indians,Kansas City Royals,85,15,from Right to Left,Sunny
+20-09-2013,Texas Rangers,Kansas City Royals,67,7,from Left to Right,Cloudy
+21-09-2013,Texas Rangers,Kansas City Royals,73,4,from Right to Left,Sunny
+22-09-2013,Texas Rangers,Kansas City Royals,75,9,from Right to Left,Sunny
+01-04-2013,San Francisco Giants,Los Angeles Dodgers,63,7,out to Centerfield.,Wind7mphouttoCenterfield
+02-04-2013,San Francisco Giants,Los Angeles Dodgers,65,5,out to Rightfield,Sunny
+03-04-2013,San Francisco Giants,Los Angeles Dodgers,65,8,out to Centerfield,Cloudy
+05-04-2013,Pittsburgh Pirates,Los Angeles Dodgers,64,5,out to Centerfield,Sunny
+06-04-2013,Pittsburgh Pirates,Los Angeles Dodgers,66,3,out to Centerfield,Cloudy
+07-04-2013,Pittsburgh Pirates,Los Angeles Dodgers,69,10,out to Rightfield,Cloudy
+15-04-2013,San Diego Padres,Los Angeles Dodgers,60,9,out to Rightfield,Cloudy
+16-04-2013,San Diego Padres,Los Angeles Dodgers,62,12,out to Rightfield,Sunny
+17-04-2013,San Diego Padres,Los Angeles Dodgers,67,8,from Left to Right,Sunny
+26-04-2013,Milwaukee Brewers,Los Angeles Dodgers,67,8,out to Centerfield,Sunny
+27-04-2013,Milwaukee Brewers,Los Angeles Dodgers,68,7,from Left to Right,Sunny
+28-04-2013,Milwaukee Brewers,Los Angeles Dodgers,75,5,out to Rightfield,Sunny
+29-04-2013,Colorado Rockies,Los Angeles Dodgers,69,5,in unknown direction,Sunny
+30-04-2013,Colorado Rockies,Los Angeles Dodgers,63,9,in unknown direction.,Wind9mphinunknowndirection
+01-05-2013,Colorado Rockies,Los Angeles Dodgers,70,7,out to Rightfield,Sunny
+06-05-2013,Arizona Diamondbacks,Los Angeles Dodgers,63,8,out to Centerfield,Cloudy
+07-05-2013,Arizona Diamondbacks,Los Angeles Dodgers,63,7,in unknown direction,Cloudy
+08-05-2013,Arizona Diamondbacks,Los Angeles Dodgers,64,10,from Left to Right.,Wind10mphfromLefttoRight
+10-05-2013,Miami Marlins,Los Angeles Dodgers,69,6,out to Centerfield,Cloudy
+11-05-2013,Miami Marlins,Los Angeles Dodgers,76,8,out to Centerfield,Cloudy
+12-05-2013,Miami Marlins,Los Angeles Dodgers,83,8,out to Centerfield,Sunny
+13-05-2013,Washington Nationals,Los Angeles Dodgers,84,6,in unknown direction,Sunny
+14-05-2013,Washington Nationals,Los Angeles Dodgers,70,10,out to Centerfield,Sunny
+15-05-2013,Washington Nationals,Los Angeles Dodgers,69,7,from Left to Right,Sunny
+24-05-2013,St. Louis Cardinals,Los Angeles Dodgers,68,7,out to Centerfield,Cloudy
+25-05-2013,St. Louis Cardinals,Los Angeles Dodgers,71,10,from Left to Right,Sunny
+26-05-2013,St. Louis Cardinals,Los Angeles Dodgers,70,9,from Left to Right,Cloudy
+27-05-2013,Los Angeles Angels of Anaheim,Los Angeles Dodgers,71,10,in unknown direction,Cloudy
+28-05-2013,Los Angeles Angels of Anaheim,Los Angeles Dodgers,73,9,out to Rightfield,Sunny
+03-06-2013,San Diego Padres,Los Angeles Dodgers,68,7,out to Rightfield,Cloudy
+04-06-2013,San Diego Padres,Los Angeles Dodgers,68,5,out to Centerfield,Sunny
+05-06-2013,San Diego Padres,Los Angeles Dodgers,69,9,out to Rightfield,Cloudy
+06-06-2013,Atlanta Braves,Los Angeles Dodgers,67,5,out to Rightfield,Sunny
+07-06-2013,Atlanta Braves,Los Angeles Dodgers,67,6,out to Rightfield,Sunny
+08-06-2013,Atlanta Braves,Los Angeles Dodgers,70,6,in unknown direction,Sunny
+09-06-2013,Atlanta Braves,Los Angeles Dodgers,72,8,from Left to Right,Sunny
+10-06-2013,Arizona Diamondbacks,Los Angeles Dodgers,70,7,out to Rightfield,Sunny
+11-06-2013,Arizona Diamondbacks,Los Angeles Dodgers,71,9,from Left to Right,Cloudy
+12-06-2013,Arizona Diamondbacks,Los Angeles Dodgers,67,7,out to Leftfield,Cloudy
+24-06-2013,San Francisco Giants,Los Angeles Dodgers,71,9,from Left to Right,Cloudy
+25-06-2013,San Francisco Giants,Los Angeles Dodgers,73,7,from Left to Right,Sunny
+26-06-2013,San Francisco Giants,Los Angeles Dodgers,79,5,in unknown direction,Sunny
+27-06-2013,Philadelphia Phillies,Los Angeles Dodgers,78,4,out to Rightfield,Sunny
+28-06-2013,Philadelphia Phillies,Los Angeles Dodgers,82,4,in unknown direction,Sunny
+29-06-2013,Philadelphia Phillies,Los Angeles Dodgers,83,5,out to Centerfield,Cloudy
+30-06-2013,Philadelphia Phillies,Los Angeles Dodgers,93,10,out to Leftfield.,Wind10mphouttoLeftfield
+11-07-2013,Colorado Rockies,Los Angeles Dodgers,76,4,out to Centerfield.,Wind4mphouttoCenterfield
+12-07-2013,Colorado Rockies,Los Angeles Dodgers,75,5,out to Centerfield,Sunny
+13-07-2013,Colorado Rockies,Los Angeles Dodgers,79,10,from Left to Right,Sunny
+14-07-2013,Colorado Rockies,Los Angeles Dodgers,80,5,out to Rightfield,Sunny
+25-07-2013,Cincinnati Reds,Los Angeles Dodgers,70,7,from Left to Right,Sunny
+26-07-2013,Cincinnati Reds,Los Angeles Dodgers,76,2,out to Rightfield,Cloudy
+27-07-2013,Cincinnati Reds,Los Angeles Dodgers,71,5,out to Rightfield,Sunny
+28-07-2013,Cincinnati Reds,Los Angeles Dodgers,74,4,in unknown direction,Sunny
+30-07-2013,New York Yankees,Los Angeles Dodgers,69,7,from Left to Right,Sunny
+31-07-2013,New York Yankees,Los Angeles Dodgers,67,7,in unknown direction,Cloudy
+09-08-2013,Tampa Bay Rays,Los Angeles Dodgers,68,3,out to Rightfield,Sunny
+10-08-2013,Tampa Bay Rays,Los Angeles Dodgers,75,8,from Left to Right,Sunny
+11-08-2013,Tampa Bay Rays,Los Angeles Dodgers,76,8,out to Centerfield,Sunny
+12-08-2013,New York Mets,Los Angeles Dodgers,72,6,out to Rightfield,Sunny
+13-08-2013,New York Mets,Los Angeles Dodgers,74,8,from Left to Right,Sunny
+14-08-2013,New York Mets,Los Angeles Dodgers,72,7,out to Rightfield,Sunny
+23-08-2013,Boston Red Sox,Los Angeles Dodgers,78,3,in unknown direction,Sunny
+24-08-2013,Boston Red Sox,Los Angeles Dodgers,82,7,from Left to Right,Sunny
+25-08-2013,Boston Red Sox,Los Angeles Dodgers,80,4,out to Centerfield,Sunny
+26-08-2013,Chicago Cubs,Los Angeles Dodgers,83,4,out to Rightfield.,Wind4mphouttoRightfield
+27-08-2013,Chicago Cubs,Los Angeles Dodgers,80,7,from Left to Right,Sunny
+28-08-2013,Chicago Cubs,Los Angeles Dodgers,88,7,from Left to Right,Sunny
+30-08-2013,San Diego Padres,Los Angeles Dodgers,89,3,out to Rightfield,Cloudy
+31-08-2013,San Diego Padres,Los Angeles Dodgers,85,9,out to Centerfield,Cloudy
+01-09-2013,San Diego Padres,Los Angeles Dodgers,84,6,out to Rightfield,Cloudy
+09-09-2013,Arizona Diamondbacks,Los Angeles Dodgers,68,5,out to Centerfield,Sunny
+10-09-2013,Arizona Diamondbacks,Los Angeles Dodgers,68,6,out to Centerfield,Sunny
+11-09-2013,Arizona Diamondbacks,Los Angeles Dodgers,70,4,out to Centerfield,Sunny
+12-09-2013,San Francisco Giants,Los Angeles Dodgers,74,7,from Left to Right,Sunny
+13-09-2013,San Francisco Giants,Los Angeles Dodgers,76,3,out to Rightfield,Sunny
+14-09-2013,San Francisco Giants,Los Angeles Dodgers,80,7,out to Centerfield,Sunny
+15-09-2013,San Francisco Giants,Los Angeles Dodgers,87,7,from Left to Right,Sunny
+27-09-2013,Colorado Rockies,Los Angeles Dodgers,74,3,out to Centerfield,Sunny
+28-09-2013,Colorado Rockies,Los Angeles Dodgers,79,6,out to Centerfield,Sunny
+29-09-2013,Colorado Rockies,Los Angeles Dodgers,85,5,out to Centerfield,Sunny
+08-04-2013,Atlanta Braves,Miami Marlins,79,9,in from Leftfield,Cloudy
+09-04-2013,Atlanta Braves,Miami Marlins,76,10,in from Leftfield,Cloudy
+10-04-2013,Atlanta Braves,Miami Marlins,81,12,in from Centerfield,Cloudy
+12-04-2013,Philadelphia Phillies,Miami Marlins,83,14,in from Rightfield,Cloudy
+13-04-2013,Philadelphia Phillies,Miami Marlins,72,0,NoWind,InDome
+14-04-2013,Philadelphia Phillies,Miami Marlins,73,0,NoWind,InDome
+15-04-2013,Washington Nationals,Miami Marlins,72,0,NoWind,InDome
+16-04-2013,Washington Nationals,Miami Marlins,76,5,in from Leftfield,Cloudy
+17-04-2013,Washington Nationals,Miami Marlins,76,5,in from Leftfield,Cloudy
+25-04-2013,Chicago Cubs,Miami Marlins,78,14,from Left to Right,Sunny
+26-04-2013,Chicago Cubs,Miami Marlins,77,13,in from Leftfield,Cloudy
+27-04-2013,Chicago Cubs,Miami Marlins,80,11,in from Leftfield,Cloudy
+28-04-2013,Chicago Cubs,Miami Marlins,75,0,NoWind,InDome
+29-04-2013,New York Mets,Miami Marlins,71,0,NoWind,InDome
+30-04-2013,New York Mets,Miami Marlins,76,0,NoWind,InDome
+01-05-2013,New York Mets,Miami Marlins,75,0,NoWind,InDome
+14-05-2013,Cincinnati Reds,Miami Marlins,76,12,from Left to Right,Cloudy
+15-05-2013,Cincinnati Reds,Miami Marlins,79,14,in from Leftfield,Cloudy
+16-05-2013,Cincinnati Reds,Miami Marlins,81,12,in from Leftfield,Cloudy
+17-05-2013,Arizona Diamondbacks,Miami Marlins,81,12,in from Leftfield,Cloudy
+18-05-2013,Arizona Diamondbacks,Miami Marlins,76,0,NoWind,InDome
+19-05-2013,Arizona Diamondbacks,Miami Marlins,76,0,NoWind,InDome
+20-05-2013,Philadelphia Phillies,Miami Marlins,74,0,NoWind,InDome
+21-05-2013,Philadelphia Phillies,Miami Marlins,73,0,NoWind,InDome
+22-05-2013,Philadelphia Phillies,Miami Marlins,76,0,NoWind,InDome
+29-05-2013,Tampa Bay Rays,Miami Marlins,74,0,NoWind,InDome
+30-05-2013,Tampa Bay Rays,Miami Marlins,76,0,NoWind,InDome
+31-05-2013,New York Mets,Miami Marlins,75,0,NoWind,InDome
+01-06-2013,New York Mets,Miami Marlins,78,0,NoWind,InDome
+02-06-2013,New York Mets,Miami Marlins,77,0,NoWind,InDome
+10-06-2013,Milwaukee Brewers,Miami Marlins,78,0,NoWind,InDome
+11-06-2013,Milwaukee Brewers,Miami Marlins,78,0,NoWind,InDome
+12-06-2013,Milwaukee Brewers,Miami Marlins,76,0,NoWind,InDome
+14-06-2013,St. Louis Cardinals,Miami Marlins,75,0,NoWind,InDome
+15-06-2013,St. Louis Cardinals,Miami Marlins,76,0,NoWind,InDome
+16-06-2013,St. Louis Cardinals,Miami Marlins,79,0,NoWind,InDome
+25-06-2013,Minnesota Twins,Miami Marlins,78,0,NoWind,InDome
+26-06-2013,Minnesota Twins,Miami Marlins,77,0,NoWind,InDome
+28-06-2013,San Diego Padres,Miami Marlins,78,0,NoWind,InDome
+29-06-2013,San Diego Padres,Miami Marlins,76,0,NoWind,InDome
+30-06-2013,San Diego Padres,Miami Marlins,77,0,NoWind,InDome
+01-07-2013,San Diego Padres,Miami Marlins,76,0,NoWind,InDome
+08-07-2013,Atlanta Braves,Miami Marlins,86,16,in from Leftfield,Cloudy
+09-07-2013,Atlanta Braves,Miami Marlins,77,0,NoWind,InDome
+10-07-2013,Atlanta Braves,Miami Marlins,76,0,NoWind,InDome
+12-07-2013,Washington Nationals,Miami Marlins,77,0,NoWind,InDome
+13-07-2013,Washington Nationals,Miami Marlins,75,0,NoWind,InDome
+14-07-2013,Washington Nationals,Miami Marlins,76,0,NoWind,InDome
+26-07-2013,Pittsburgh Pirates,Miami Marlins,81,0,NoWind,InDome
+27-07-2013,Pittsburgh Pirates,Miami Marlins,76,0,NoWind,InDome
+28-07-2013,Pittsburgh Pirates,Miami Marlins,77,0,NoWind,InDome
+29-07-2013,New York Mets,Miami Marlins,79,0,NoWind,InDome
+30-07-2013,New York Mets,Miami Marlins,79,0,NoWind,InDome
+31-07-2013,New York Mets,Miami Marlins,78,0,NoWind,InDome
+01-08-2013,New York Mets,Miami Marlins,78,0,NoWind,InDome
+02-08-2013,Cleveland Indians,Miami Marlins,75,0,NoWind,InDome
+03-08-2013,Cleveland Indians,Miami Marlins,76,0,NoWind,InDome
+04-08-2013,Cleveland Indians,Miami Marlins,75,0,NoWind,InDome
+16-08-2013,San Francisco Giants,Miami Marlins,79,0,NoWind,InDome
+17-08-2013,San Francisco Giants,Miami Marlins,78,0,NoWind,InDome
+18-08-2013,San Francisco Giants,Miami Marlins,83,0,NoWind,InDome
+19-08-2013,Los Angeles Dodgers,Miami Marlins,77,0,NoWind,InDome
+20-08-2013,Los Angeles Dodgers,Miami Marlins,79,0,NoWind,InDome
+21-08-2013,Los Angeles Dodgers,Miami Marlins,78,0,NoWind,InDome
+22-08-2013,Los Angeles Dodgers,Miami Marlins,78,0,NoWind,InDome
+23-08-2013,Colorado Rockies,Miami Marlins,76,0,NoWind,InDome
+24-08-2013,Colorado Rockies,Miami Marlins,79,0,NoWind,InDome
+25-08-2013,Colorado Rockies,Miami Marlins,76,0,NoWind,InDome
+06-09-2013,Washington Nationals,Miami Marlins,80,0,NoWind,InDome
+07-09-2013,Washington Nationals,Miami Marlins,78,0,NoWind,InDome
+08-09-2013,Washington Nationals,Miami Marlins,78,0,NoWind,InDome
+09-09-2013,Atlanta Braves,Miami Marlins,78,0,NoWind,InDome
+10-09-2013,Atlanta Braves,Miami Marlins,76,0,NoWind,InDome
+11-09-2013,Atlanta Braves,Miami Marlins,76,0,NoWind,InDome
+12-09-2013,Atlanta Braves,Miami Marlins,75,0,NoWind,InDome
+23-09-2013,Philadelphia Phillies,Miami Marlins,77,0,NoWind,InDome
+24-09-2013,Philadelphia Phillies,Miami Marlins,78,0,NoWind,InDome
+25-09-2013,Philadelphia Phillies,Miami Marlins,79,0,NoWind,InDome
+27-09-2013,Detroit Tigers,Miami Marlins,84,14,in from Leftfield,Cloudy
+28-09-2013,Detroit Tigers,Miami Marlins,78,0,NoWind,InDome
+29-09-2013,Detroit Tigers,Miami Marlins,75,0,NoWind,InDome
+01-04-2013,Colorado Rockies,Milwaukee Brewers,63,0,NoWind,InDome
+02-04-2013,Colorado Rockies,Milwaukee Brewers,63,0,NoWind,InDome
+03-04-2013,Colorado Rockies,Milwaukee Brewers,62,0,NoWind,InDome
+05-04-2013,Arizona Diamondbacks,Milwaukee Brewers,61,0,NoWind,InDome
+06-04-2013,Arizona Diamondbacks,Milwaukee Brewers,65,0,NoWind,InDome
+07-04-2013,Arizona Diamondbacks,Milwaukee Brewers,70,0,NoWind,InDome
+16-04-2013,San Francisco Giants,Milwaukee Brewers,70,0,NoWind,InDome
+17-04-2013,San Francisco Giants,Milwaukee Brewers,62,0,NoWind,InDome
+18-04-2013,San Francisco Giants,Milwaukee Brewers,64,0,NoWind,InDome
+19-04-2013,Chicago Cubs,Milwaukee Brewers,62,0,NoWind,InDome
+20-04-2013,Chicago Cubs,Milwaukee Brewers,70,0,NoWind,InDome
+21-04-2013,Chicago Cubs,Milwaukee Brewers,70,0,NoWind,InDome
+29-04-2013,Pittsburgh Pirates,Milwaukee Brewers,69,0,NoWind,InDome
+30-04-2013,Pittsburgh Pirates,Milwaukee Brewers,81,17,from Right to Left,Cloudy
+01-05-2013,Pittsburgh Pirates,Milwaukee Brewers,80,10,from Right to Left,Sunny
+02-05-2013,St. Louis Cardinals,Milwaukee Brewers,66,0,NoWind,InDome
+03-05-2013,St. Louis Cardinals,Milwaukee Brewers,66,0,NoWind,InDome
+04-05-2013,St. Louis Cardinals,Milwaukee Brewers,70,0,NoWind,InDome
+05-05-2013,St. Louis Cardinals,Milwaukee Brewers,63,9,out to Rightfield,Cloudy
+07-05-2013,Texas Rangers,Milwaukee Brewers,72,4,in from Leftfield,Cloudy
+08-05-2013,Texas Rangers,Milwaukee Brewers,71,9,in from Centerfield,Sunny
+20-05-2013,Los Angeles Dodgers,Milwaukee Brewers,85,12,from Right to Left,Cloudy
+21-05-2013,Los Angeles Dodgers,Milwaukee Brewers,81,13,from Right to Left,Cloudy
+22-05-2013,Los Angeles Dodgers,Milwaukee Brewers,73,0,NoWind,InDome
+24-05-2013,Pittsburgh Pirates,Milwaukee Brewers,64,0,NoWind,InDome
+25-05-2013,Pittsburgh Pirates,Milwaukee Brewers,66,0,NoWind,InDome
+26-05-2013,Pittsburgh Pirates,Milwaukee Brewers,60,9,in from Centerfield,Cloudy
+27-05-2013,Minnesota Twins,Milwaukee Brewers,70,0,NoWind,InDome
+28-05-2013,Minnesota Twins,Milwaukee Brewers,70,0,NoWind,InDome
+03-06-2013,Oakland Athletics,Milwaukee Brewers,68,0,NoWind,InDome
+04-06-2013,Oakland Athletics,Milwaukee Brewers,68,0,NoWind,InDome
+05-06-2013,Oakland Athletics,Milwaukee Brewers,70,0,NoWind,InDome
+06-06-2013,Philadelphia Phillies,Milwaukee Brewers,70,0,NoWind,InDome
+07-06-2013,Philadelphia Phillies,Milwaukee Brewers,70,13,from Left to Right,Sunny
+08-06-2013,Philadelphia Phillies,Milwaukee Brewers,63,9,out to Leftfield,Cloudy
+09-06-2013,Philadelphia Phillies,Milwaukee Brewers,69,9,out to Leftfield,Cloudy
+21-06-2013,Atlanta Braves,Milwaukee Brewers,77,7,from Right to Left,Overcast
+22-06-2013,Atlanta Braves,Milwaukee Brewers,77,15,out to Centerfield,Cloudy
+23-06-2013,Atlanta Braves,Milwaukee Brewers,85,15,from Right to Left,Sunny
+25-06-2013,Chicago Cubs,Milwaukee Brewers,73,4,in from Leftfield,Overcast
+26-06-2013,Chicago Cubs,Milwaukee Brewers,73,5,in from Leftfield,Cloudy
+27-06-2013,Chicago Cubs,Milwaukee Brewers,80,9,in from Leftfield,Cloudy
+05-07-2013,New York Mets,Milwaukee Brewers,85,14,in from Centerfield,Sunny
+06-07-2013,New York Mets,Milwaukee Brewers,86,12,in from Centerfield,Sunny
+07-07-2013,New York Mets,Milwaukee Brewers,85,9,from Right to Left,Cloudy
+08-07-2013,Cincinnati Reds,Milwaukee Brewers,80,7,from Right to Left,Cloudy
+09-07-2013,Cincinnati Reds,Milwaukee Brewers,84,13,from Right to Left,Cloudy
+10-07-2013,Cincinnati Reds,Milwaukee Brewers,77,11,in from Centerfield,Cloudy
+19-07-2013,Miami Marlins,Milwaukee Brewers,90,13,out to Leftfield,Cloudy
+20-07-2013,Miami Marlins,Milwaukee Brewers,73,14,from Left to Right,Cloudy
+21-07-2013,Miami Marlins,Milwaukee Brewers,76,8,in from Leftfield,Cloudy
+22-07-2013,San Diego Padres,Milwaukee Brewers,83,11,from Right to Left,Cloudy
+23-07-2013,San Diego Padres,Milwaukee Brewers,68,14,from Left to Right,Sunny
+24-07-2013,San Diego Padres,Milwaukee Brewers,68,7,out to Leftfield,Cloudy
+25-07-2013,San Diego Padres,Milwaukee Brewers,75,7,from Left to Right.,Wind7mphfromLefttoRight
+02-08-2013,Washington Nationals,Milwaukee Brewers,78,10,out to Leftfield.,Wind10mphouttoLeftfield
+03-08-2013,Washington Nationals,Milwaukee Brewers,73,8,from Left to Right,Sunny
+04-08-2013,Washington Nationals,Milwaukee Brewers,69,4,in from Leftfield,Cloudy
+15-08-2013,Cincinnati Reds,Milwaukee Brewers,73,11,in from Centerfield,Cloudy
+16-08-2013,Cincinnati Reds,Milwaukee Brewers,76,8,in from Centerfield,Sunny
+17-08-2013,Cincinnati Reds,Milwaukee Brewers,74,8,in from Centerfield,Cloudy
+18-08-2013,Cincinnati Reds,Milwaukee Brewers,74,4,out to Leftfield,Cloudy
+19-08-2013,St. Louis Cardinals,Milwaukee Brewers,79,8,from Right to Left,Overcast
+20-08-2013,St. Louis Cardinals,Milwaukee Brewers,83,14,from Right to Left,Sunny
+21-08-2013,St. Louis Cardinals,Milwaukee Brewers,84,15,from Left to Right.,Wind15mphfromLefttoRight
+30-08-2013,Los Angeles Angels of Anaheim,Milwaukee Brewers,79,8,from Left to Right.,Wind8mphfromLefttoRight
+31-08-2013,Los Angeles Angels of Anaheim,Milwaukee Brewers,73,8,from Right to Left.,Wind8mphfromRighttoLeft
+01-09-2013,Los Angeles Angels of Anaheim,Milwaukee Brewers,81,5,out to Leftfield,Sunny
+02-09-2013,Pittsburgh Pirates,Milwaukee Brewers,66,10,in from Rightfield.,Wind10mphinfromRightfield
+03-09-2013,Pittsburgh Pirates,Milwaukee Brewers,72,7,out to Leftfield,Cloudy
+04-09-2013,Pittsburgh Pirates,Milwaukee Brewers,70,18,from Left to Right,Cloudy
+13-09-2013,Cincinnati Reds,Milwaukee Brewers,70,0,NoWind,InDome
+14-09-2013,Cincinnati Reds,Milwaukee Brewers,63,6,from Left to Right,Cloudy
+15-09-2013,Cincinnati Reds,Milwaukee Brewers,67,0,NoWind,InDome
+16-09-2013,Chicago Cubs,Milwaukee Brewers,68,0,NoWind,InDome
+17-09-2013,Chicago Cubs,Milwaukee Brewers,68,0,NoWind,InDome
+18-09-2013,Chicago Cubs,Milwaukee Brewers,74,13,in from Rightfield,Sunny
+19-09-2013,Chicago Cubs,Milwaukee Brewers,78,7,in from Rightfield,Cloudy
+20-09-2013,St. Louis Cardinals,Milwaukee Brewers,66,11,out to Centerfield.,Wind11mphouttoCenterfield
+21-09-2013,St. Louis Cardinals,Milwaukee Brewers,68,0,NoWind,InDome
+22-09-2013,St. Louis Cardinals,Milwaukee Brewers,67,0,NoWind,InDome
+01-04-2013,Detroit Tigers,Minnesota Twins,35,17,out to Centerfield,Sunny
+03-04-2013,Detroit Tigers,Minnesota Twins,46,18,from Right to Left,Sunny
+04-04-2013,Detroit Tigers,Minnesota Twins,46,13,out to Rightfield,Cloudy
+12-04-2013,New York Mets,Minnesota Twins,34,7,from Left to Right.,Wind7mphfromLefttoRight
+13-04-2013,New York Mets,Minnesota Twins,35,12,out to Rightfield,Overcast
+15-04-2013,Los Angeles Angels of Anaheim,Minnesota Twins,38,16,from Right to Left.,Wind16mphfromRighttoLeft
+16-04-2013,Los Angeles Angels of Anaheim,Minnesota Twins,45,7,in from Leftfield,Cloudy
+25-04-2013,Texas Rangers,Minnesota Twins,51,5,out to Leftfield,Sunny
+26-04-2013,Texas Rangers,Minnesota Twins,71,11,out to Rightfield,Cloudy
+27-04-2013,Texas Rangers,Minnesota Twins,73,11,from Right to Left,Cloudy
+28-04-2013,Texas Rangers,Minnesota Twins,74,24,from Right to Left.,Wind24mphfromRighttoLeft
+10-05-2013,Baltimore Orioles,Minnesota Twins,67,12,out to Leftfield,Cloudy
+11-05-2013,Baltimore Orioles,Minnesota Twins,53,25,from Left to Right,Cloudy
+12-05-2013,Baltimore Orioles,Minnesota Twins,52,15,out to Rightfield,Sunny
+13-05-2013,Chicago White Sox,Minnesota Twins,72,17,from Right to Left,Sunny
+14-05-2013,Chicago White Sox,Minnesota Twins,92,18,out to Leftfield,Sunny
+15-05-2013,Chicago White Sox,Minnesota Twins,67,0,NoWind,Cloudy
+17-05-2013,Boston Red Sox,Minnesota Twins,59,13,in from Centerfield,Overcast
+18-05-2013,Boston Red Sox,Minnesota Twins,81,11,from Right to Left,Cloudy
+19-05-2013,Boston Red Sox,Minnesota Twins,80,13,from Right to Left,Cloudy
+29-05-2013,Milwaukee Brewers,Minnesota Twins,74,15,in from Leftfield,Overcast
+30-05-2013,Milwaukee Brewers,Minnesota Twins,74,15,from Right to Left,Overcast
+31-05-2013,Seattle Mariners,Minnesota Twins,72,14,from Right to Left,Overcast
+01-06-2013,Seattle Mariners,Minnesota Twins,68,7,from Right to Left,Cloudy
+02-06-2013,Seattle Mariners,Minnesota Twins,60,8,from Left to Right,Cloudy
+11-06-2013,Philadelphia Phillies,Minnesota Twins,77,4,from Left to Right.,Wind4mphfromLefttoRight
+12-06-2013,Philadelphia Phillies,Minnesota Twins,74,10,from Left to Right,Cloudy
+13-06-2013,Philadelphia Phillies,Minnesota Twins,78,8,from Left to Right,Cloudy
+14-06-2013,Detroit Tigers,Minnesota Twins,76,11,in from Rightfield.,Wind11mphinfromRightfield
+15-06-2013,Detroit Tigers,Minnesota Twins,68,8,in unknown direction,Cloudy
+16-06-2013,Detroit Tigers,Minnesota Twins,82,9,out to Rightfield,Cloudy
+18-06-2013,Chicago White Sox,Minnesota Twins,73,9,from Right to Left,Cloudy
+19-06-2013,Chicago White Sox,Minnesota Twins,83,10,in from Rightfield,Cloudy
+20-06-2013,Chicago White Sox,Minnesota Twins,82,12,from Left to Right,Overcast
+27-06-2013,Kansas City Royals,Minnesota Twins,84,22,out to Rightfield,Cloudy
+28-06-2013,Kansas City Royals,Minnesota Twins,72,9,from Left to Right.,Wind9mphfromLefttoRight
+29-06-2013,Kansas City Royals,Minnesota Twins,75,18,in from Leftfield.,Wind18mphinfromLeftfield
+30-06-2013,Kansas City Royals,Minnesota Twins,78,13,from Left to Right,Cloudy
+01-07-2013,New York Yankees,Minnesota Twins,83,13,in from Leftfield,Cloudy
+02-07-2013,New York Yankees,Minnesota Twins,82,8,from Left to Right,Cloudy
+03-07-2013,New York Yankees,Minnesota Twins,83,5,in from Rightfield,Cloudy
+04-07-2013,New York Yankees,Minnesota Twins,83,10,from Right to Left,Cloudy
+19-07-2013,Cleveland Indians,Minnesota Twins,84,15,out to Centerfield,Cloudy
+20-07-2013,Cleveland Indians,Minnesota Twins,79,10,in from Leftfield,Sunny
+21-07-2013,Cleveland Indians,Minnesota Twins,75,7,in from Leftfield,Cloudy
+30-07-2013,Kansas City Royals,Minnesota Twins,72,6,in unknown direction,Overcast
+31-07-2013,Kansas City Royals,Minnesota Twins,80,22,out to Rightfield,Cloudy
+01-08-2013,Kansas City Royals,Minnesota Twins,78,11,out to Rightfield,Cloudy
+02-08-2013,Houston Astros,Minnesota Twins,78,8,from Left to Right,Cloudy
+03-08-2013,Houston Astros,Minnesota Twins,76,14,out to Rightfield,Cloudy
+04-08-2013,Houston Astros,Minnesota Twins,72,4,from Left to Right,Overcast
+12-08-2013,Cleveland Indians,Minnesota Twins,77,18,out to Rightfield.,Wind18mphouttoRightfield
+13-08-2013,Cleveland Indians,Minnesota Twins,74,12,out to Rightfield,Cloudy
+14-08-2013,Cleveland Indians,Minnesota Twins,73,7,from Left to Right,Cloudy
+15-08-2013,Chicago White Sox,Minnesota Twins,78,5,out to Rightfield,Overcast
+16-08-2013,Chicago White Sox,Minnesota Twins,78,6,out to Leftfield,Cloudy
+17-08-2013,Chicago White Sox,Minnesota Twins,81,11,out to Leftfield,Cloudy
+18-08-2013,Chicago White Sox,Minnesota Twins,82,16,from Right to Left,Cloudy
+19-08-2013,New York Mets,Minnesota Twins,78,9,from Right to Left.,Wind9mphfromRighttoLeft
+27-08-2013,Kansas City Royals,Minnesota Twins,91,9,from Left to Right,Cloudy
+28-08-2013,Kansas City Royals,Minnesota Twins,88,7,out to Leftfield,Cloudy
+29-08-2013,Kansas City Royals,Minnesota Twins,87,11,in from Rightfield,Cloudy
+06-09-2013,Toronto Blue Jays,Minnesota Twins,89,13,from Right to Left,Cloudy
+07-09-2013,Toronto Blue Jays,Minnesota Twins,88,11,in from Leftfield,Cloudy
+08-09-2013,Toronto Blue Jays,Minnesota Twins,75,12,in from Centerfield,Overcast
+09-09-2013,Los Angeles Angels of Anaheim,Minnesota Twins,93,13,from Right to Left,Cloudy
+10-09-2013,Oakland Athletics,Minnesota Twins,80,9,out to Leftfield,Cloudy
+11-09-2013,Oakland Athletics,Minnesota Twins,83,14,from Right to Left,Cloudy
+12-09-2013,Oakland Athletics,Minnesota Twins,70,17,from Left to Right,Cloudy
+13-09-2013,Tampa Bay Rays,Minnesota Twins,67,8,in from Rightfield,Sunny
+14-09-2013,Tampa Bay Rays,Minnesota Twins,70,11,from Right to Left,Rain
+15-09-2013,Tampa Bay Rays,Minnesota Twins,62,12,from Left to Right,Overcast
+23-09-2013,Detroit Tigers,Minnesota Twins,72,15,from Left to Right,Cloudy
+24-09-2013,Detroit Tigers,Minnesota Twins,72,9,in from Centerfield,Sunny
+25-09-2013,Detroit Tigers,Minnesota Twins,70,16,in from Rightfield,Sunny
+26-09-2013,Cleveland Indians,Minnesota Twins,79,11,in from Rightfield,Sunny
+27-09-2013,Cleveland Indians,Minnesota Twins,82,12,from Right to Left,Overcast
+28-09-2013,Cleveland Indians,Minnesota Twins,55,13,from Right to Left,Rain
+29-09-2013,Cleveland Indians,Minnesota Twins,68,9,from Right to Left,Sunny
+01-04-2013,Boston Red Sox,New York Yankees,62,17,from Right to Left,Cloudy
+03-04-2013,Boston Red Sox,New York Yankees,43,22,from Left to Right,Sunny
+04-04-2013,Boston Red Sox,New York Yankees,43,14,from Right to Left,Cloudy
+12-04-2013,Baltimore Orioles,New York Yankees,42,15,from Left to Right.,Wind15mphfromLefttoRight
+13-04-2013,Baltimore Orioles,New York Yankees,54,6,out to Centerfield.,Wind6mphouttoCenterfield
+14-04-2013,Baltimore Orioles,New York Yankees,56,12,from Left to Right,Cloudy
+16-04-2013,Arizona Diamondbacks,New York Yankees,60,17,from Right to Left,Cloudy
+17-04-2013,Arizona Diamondbacks,New York Yankees,68,8,in unknown direction,Sunny
+18-04-2013,Arizona Diamondbacks,New York Yankees,55,12,in from Rightfield.,Wind12mphinfromRightfield
+25-04-2013,Toronto Blue Jays,New York Yankees,65,6,out to Leftfield,Sunny
+26-04-2013,Toronto Blue Jays,New York Yankees,64,6,out to Rightfield,Sunny
+27-04-2013,Toronto Blue Jays,New York Yankees,68,5,out to Rightfield,Sunny
+28-04-2013,Toronto Blue Jays,New York Yankees,66,11,from Right to Left,Sunny
+29-04-2013,Houston Astros,New York Yankees,57,10,from Right to Left.,Wind10mphfromRighttoLeft
+30-04-2013,Houston Astros,New York Yankees,61,10,from Right to Left,Sunny
+01-05-2013,Houston Astros,New York Yankees,61,11,in from Rightfield,Sunny
+03-05-2013,Oakland Athletics,New York Yankees,60,11,from Right to Left,Sunny
+04-05-2013,Oakland Athletics,New York Yankees,64,14,from Right to Left,Sunny
+05-05-2013,Oakland Athletics,New York Yankees,58,14,in from Rightfield,Sunny
+14-05-2013,Seattle Mariners,New York Yankees,61,11,from Right to Left,Cloudy
+15-05-2013,Seattle Mariners,New York Yankees,67,10,from Right to Left,Cloudy
+16-05-2013,Seattle Mariners,New York Yankees,75,14,from Right to Left,Cloudy
+17-05-2013,Toronto Blue Jays,New York Yankees,72,4,in from Rightfield,Sunny
+18-05-2013,Toronto Blue Jays,New York Yankees,66,8,from Right to Left.,Wind8mphfromRighttoLeft
+29-05-2013,New York Mets,New York Yankees,80,8,from Right to Left,Cloudy
+30-05-2013,New York Mets,New York Yankees,88,11,from Right to Left,Sunny
+31-05-2013,Boston Red Sox,New York Yankees,86,10,from Right to Left,Sunny
+01-06-2013,Boston Red Sox,New York Yankees,86,14,in from Centerfield,Cloudy
+02-06-2013,Boston Red Sox,New York Yankees,81,10,from Right to Left.,Wind10mphfromRighttoLeft
+03-06-2013,Cleveland Indians,New York Yankees,71,7,from Right to Left.,Wind7mphfromRighttoLeft
+04-06-2013,Cleveland Indians,New York Yankees,74,14,out to Rightfield,Sunny
+05-06-2013,Cleveland Indians,New York Yankees,70,9,out to Rightfield,Cloudy
+20-06-2013,Tampa Bay Rays,New York Yankees,73,17,from Right to Left,Sunny
+21-06-2013,Tampa Bay Rays,New York Yankees,75,13,from Right to Left,Cloudy
+22-06-2013,Tampa Bay Rays,New York Yankees,81,5,from Right to Left,Cloudy
+23-06-2013,Tampa Bay Rays,New York Yankees,87,11,from Right to Left,Sunny
+25-06-2013,Texas Rangers,New York Yankees,84,13,out to Leftfield,Cloudy
+26-06-2013,Texas Rangers,New York Yankees,82,5,out to Rightfield,Overcast
+27-06-2013,Texas Rangers,New York Yankees,82,13,in from Centerfield,Cloudy
+05-07-2013,Baltimore Orioles,New York Yankees,90,12,from Right to Left,Cloudy
+06-07-2013,Baltimore Orioles,New York Yankees,91,12,out to Centerfield,Cloudy
+07-07-2013,Baltimore Orioles,New York Yankees,92,10,from Right to Left,Cloudy
+08-07-2013,Kansas City Royals,New York Yankees,87,13,out to Centerfield,Cloudy
+09-07-2013,Kansas City Royals,New York Yankees,82,10,from Right to Left,Overcast
+10-07-2013,Kansas City Royals,New York Yankees,85,13,out to Centerfield.,Wind13mphouttoCenterfield
+11-07-2013,Kansas City Royals,New York Yankees,83,10,out to Rightfield.,Wind10mphouttoRightfield
+12-07-2013,Minnesota Twins,New York Yankees,73,10,in from Leftfield.,Wind10mphinfromLeftfield
+13-07-2013,Minnesota Twins,New York Yankees,76,10,from Left to Right,Cloudy
+14-07-2013,Minnesota Twins,New York Yankees,88,10,out to Leftfield,Cloudy
+26-07-2013,Tampa Bay Rays,New York Yankees,79,8,from Right to Left,Cloudy
+27-07-2013,Tampa Bay Rays,New York Yankees,83,10,from Right to Left.,Wind10mphfromRighttoLeft
+28-07-2013,Tampa Bay Rays,New York Yankees,79,11,from Right to Left.,Wind11mphfromRighttoLeft
+09-08-2013,Detroit Tigers,New York Yankees,81,6,out to Rightfield.,Wind6mphouttoRightfield
+10-08-2013,Detroit Tigers,New York Yankees,81,11,out to Leftfield,Cloudy
+11-08-2013,Detroit Tigers,New York Yankees,78,4,out to Centerfield,Cloudy
+12-08-2013,Los Angeles Angels of Anaheim,New York Yankees,80,8,from Right to Left,Cloudy
+13-08-2013,Los Angeles Angels of Anaheim,New York Yankees,77,6,out to Rightfield.,Wind6mphouttoRightfield
+14-08-2013,Los Angeles Angels of Anaheim,New York Yankees,71,18,out to Rightfield,Cloudy
+15-08-2013,Los Angeles Angels of Anaheim,New York Yankees,75,9,out to Rightfield,Sunny
+21-08-2013,Toronto Blue Jays,New York Yankees,83,11,from Right to Left,Cloudy
+22-08-2013,Toronto Blue Jays,New York Yankees,75,7,from Right to Left,Rain
+30-08-2013,Baltimore Orioles,New York Yankees,83,8,out to Rightfield,Cloudy
+31-08-2013,Baltimore Orioles,New York Yankees,83,8,out to Leftfield.,Wind8mphouttoLeftfield
+01-09-2013,Baltimore Orioles,New York Yankees,82,7,from Right to Left.,Wind7mphfromRighttoLeft
+02-09-2013,Chicago White Sox,New York Yankees,81,9,from Left to Right,Overcast
+03-09-2013,Chicago White Sox,New York Yankees,78,11,from Left to Right,Cloudy
+04-09-2013,Chicago White Sox,New York Yankees,79,9,out to Rightfield,Sunny
+05-09-2013,Boston Red Sox,New York Yankees,71,14,from Left to Right,Sunny
+06-09-2013,Boston Red Sox,New York Yankees,68,5,from Left to Right,Sunny
+07-09-2013,Boston Red Sox,New York Yankees,76,7,from Right to Left,Sunny
+08-09-2013,Boston Red Sox,New York Yankees,80,13,out to Rightfield,Cloudy
+20-09-2013,San Francisco Giants,New York Yankees,69,13,from Right to Left,Sunny
+21-09-2013,San Francisco Giants,New York Yankees,74,14,in from Rightfield.,Wind14mphinfromRightfield
+22-09-2013,San Francisco Giants,New York Yankees,68,16,out to Centerfield,Sunny
+24-09-2013,Tampa Bay Rays,New York Yankees,69,9,out to Centerfield,Sunny
+25-09-2013,Tampa Bay Rays,New York Yankees,70,7,from Left to Right,Cloudy
+26-09-2013,Tampa Bay Rays,New York Yankees,66,6,from Right to Left,Cloudy
+01-04-2013,San Diego Padres,New York Mets,61,18,out to Centerfield.,Wind18mphouttoCenterfield
+03-04-2013,San Diego Padres,New York Mets,44,21,out to Rightfield,Sunny
+04-04-2013,San Diego Padres,New York Mets,47,9,out to Leftfield.,Wind9mphouttoLeftfield
+05-04-2013,Miami Marlins,New York Mets,57,17,from Left to Right,Sunny
+06-04-2013,Miami Marlins,New York Mets,46,10,from Left to Right,Sunny
+07-04-2013,Miami Marlins,New York Mets,53,20,out to Leftfield,Cloudy
+19-04-2013,Washington Nationals,New York Mets,59,20,out to Leftfield,Overcast
+20-04-2013,Washington Nationals,New York Mets,54,17,from Right to Left.,Wind17mphfromRighttoLeft
+21-04-2013,Washington Nationals,New York Mets,49,5,in from Leftfield,Sunny
+23-04-2013,Los Angeles Dodgers,New York Mets,52,10,in from Leftfield.,Wind10mphinfromLeftfield
+24-04-2013,Los Angeles Dodgers,New York Mets,53,19,out to Leftfield.,Wind19mphouttoLeftfield
+25-04-2013,Los Angeles Dodgers,New York Mets,59,13,from Left to Right,Sunny
+26-04-2013,Philadelphia Phillies,New York Mets,63,7,from Right to Left,Cloudy
+27-04-2013,Philadelphia Phillies,New York Mets,65,8,in from Leftfield,Sunny
+28-04-2013,Philadelphia Phillies,New York Mets,66,10,from Right to Left,Cloudy
+07-05-2013,Chicago White Sox,New York Mets,70,9,from Right to Left.,Wind9mphfromRighttoLeft
+08-05-2013,Chicago White Sox,New York Mets,62,10,from Right to Left.,Wind10mphfromRighttoLeft
+09-05-2013,Pittsburgh Pirates,New York Mets,64,3,out to Leftfield.,Wind3mphouttoLeftfield
+10-05-2013,Pittsburgh Pirates,New York Mets,68,14,out to Leftfield,Overcast
+11-05-2013,Pittsburgh Pirates,New York Mets,66,16,out to Leftfield.,Wind16mphouttoLeftfield
+12-05-2013,Pittsburgh Pirates,New York Mets,70,20,out to Rightfield,Sunny
+20-05-2013,Cincinnati Reds,New York Mets,75,12,out to Leftfield.,Wind12mphouttoLeftfield
+21-05-2013,Cincinnati Reds,New York Mets,81,13,out to Leftfield,Cloudy
+22-05-2013,Cincinnati Reds,New York Mets,71,9,in from Rightfield.,Wind9mphinfromRightfield
+24-05-2013,Atlanta Braves,New York Mets,50,18,from Left to Right.,Wind18mphfromLefttoRight
+25-05-2013,Atlanta Braves,New York Mets,53,25,from Left to Right.,Wind25mphfromLefttoRight
+26-05-2013,Atlanta Braves,New York Mets,64,17,in from Leftfield,Cloudy
+27-05-2013,New York Yankees,New York Mets,74,12,out to Rightfield,Cloudy
+28-05-2013,New York Yankees,New York Mets,60,6,from Right to Left.,Wind6mphfromRighttoLeft
+08-06-2013,Miami Marlins,New York Mets,77,9,out to Rightfield.,Wind9mphouttoRightfield
+09-06-2013,Miami Marlins,New York Mets,80,12,out to Rightfield,Cloudy
+11-06-2013,St. Louis Cardinals,New York Mets,80,22,out to Rightfield.,Wind22mphouttoRightfield
+12-06-2013,St. Louis Cardinals,New York Mets,75,14,from Left to Right,Sunny
+13-06-2013,St. Louis Cardinals,New York Mets,64,21,in from Rightfield.,Wind21mphinfromRightfield
+14-06-2013,Chicago Cubs,New York Mets,70,12,out to Centerfield.,Wind12mphouttoCenterfield
+15-06-2013,Chicago Cubs,New York Mets,78,10,from Left to Right,Cloudy
+16-06-2013,Chicago Cubs,New York Mets,81,15,out to Centerfield.,Wind15mphouttoCenterfield
+28-06-2013,Washington Nationals,New York Mets,81,14,out to Leftfield.,Wind14mphouttoLeftfield
+29-06-2013,Washington Nationals,New York Mets,83,10,out to Leftfield,Sunny
+30-06-2013,Washington Nationals,New York Mets,83,10,out to Leftfield,Overcast
+01-07-2013,Arizona Diamondbacks,New York Mets,73,10,out to Leftfield.,Wind10mphouttoLeftfield
+02-07-2013,Arizona Diamondbacks,New York Mets,79,12,out to Leftfield.,Wind12mphouttoLeftfield
+03-07-2013,Arizona Diamondbacks,New York Mets,77,9,out to Leftfield.,Wind9mphouttoLeftfield
+04-07-2013,Arizona Diamondbacks,New York Mets,87,12,out to Leftfield,Cloudy
+19-07-2013,Philadelphia Phillies,New York Mets,95,17,out to Centerfield,Cloudy
+20-07-2013,Philadelphia Phillies,New York Mets,93,14,out to Centerfield,Cloudy
+21-07-2013,Philadelphia Phillies,New York Mets,88,11,in from Centerfield.,Wind11mphinfromCenterfield
+22-07-2013,Atlanta Braves,New York Mets,78,8,in from Centerfield.,Wind8mphinfromCenterfield
+23-07-2013,Atlanta Braves,New York Mets,81,8,out to Leftfield.,Wind8mphouttoLeftfield
+24-07-2013,Atlanta Braves,New York Mets,80,9,in from Leftfield,Cloudy
+25-07-2013,Atlanta Braves,New York Mets,66,16,in from Centerfield.,Wind16mphinfromCenterfield
+02-08-2013,Kansas City Royals,New York Mets,83,14,out to Rightfield,Cloudy
+03-08-2013,Kansas City Royals,New York Mets,76,13,out to Rightfield.,Wind13mphouttoRightfield
+04-08-2013,Kansas City Royals,New York Mets,80,12,from Left to Right,Cloudy
+06-08-2013,Colorado Rockies,New York Mets,75,14,out to Leftfield,Sunny
+07-08-2013,Colorado Rockies,New York Mets,74,18,out to Leftfield.,Wind18mphouttoLeftfield
+08-08-2013,Colorado Rockies,New York Mets,79,7,out to Leftfield.,Wind7mphouttoLeftfield
+20-08-2013,Atlanta Braves,New York Mets,84,7,out to Rightfield,Cloudy
+21-08-2013,Atlanta Braves,New York Mets,89,8,out to Rightfield,Cloudy
+23-08-2013,Detroit Tigers,New York Mets,78,9,in from Leftfield,Cloudy
+24-08-2013,Detroit Tigers,New York Mets,78,12,in from Rightfield,Sunny
+25-08-2013,Detroit Tigers,New York Mets,81,6,out to Rightfield,Sunny
+26-08-2013,Philadelphia Phillies,New York Mets,82,12,out to Rightfield.,Wind12mphouttoRightfield
+27-08-2013,Philadelphia Phillies,New York Mets,85,7,in from Leftfield,Cloudy
+28-08-2013,Philadelphia Phillies,New York Mets,78,2,in from Centerfield.,Wind2mphinfromCenterfield
+29-08-2013,Philadelphia Phillies,New York Mets,79,16,in from Centerfield,Sunny
+09-09-2013,Washington Nationals,New York Mets,68,12,out to Leftfield.,Wind12mphouttoLeftfield
+10-09-2013,Washington Nationals,New York Mets,84,11,out to Leftfield.,Wind11mphouttoLeftfield
+11-09-2013,Washington Nationals,New York Mets,84,12,out to Leftfield,Cloudy
+12-09-2013,Washington Nationals,New York Mets,84,10,out to Leftfield.,Wind10mphouttoLeftfield
+13-09-2013,Miami Marlins,New York Mets,70,17,in from Leftfield,Cloudy
+15-09-2013,Miami Marlins,New York Mets,69,5,out to Rightfield,Cloudy
+17-09-2013,San Francisco Giants,New York Mets,63,5,from Left to Right,Sunny
+18-09-2013,San Francisco Giants,New York Mets,64,11,out to Leftfield,Sunny
+19-09-2013,San Francisco Giants,New York Mets,75,6,out to Rightfield,Sunny
+26-09-2013,Milwaukee Brewers,New York Mets,64,7,out to Leftfield.,Wind7mphouttoLeftfield
+27-09-2013,Milwaukee Brewers,New York Mets,63,7,in from Rightfield.,Wind7mphinfromRightfield
+28-09-2013,Milwaukee Brewers,New York Mets,72,12,in from Rightfield,Cloudy
+29-09-2013,Milwaukee Brewers,New York Mets,69,11,in from Rightfield,Cloudy
+01-04-2013,Seattle Mariners,Oakland Athletics,61,11,out to Rightfield,Cloudy
+02-04-2013,Seattle Mariners,Oakland Athletics,61,10,out to Rightfield,Cloudy
+03-04-2013,Seattle Mariners,Oakland Athletics,60,11,out to Rightfield.,Wind11mphouttoRightfield
+04-04-2013,Seattle Mariners,Oakland Athletics,65,12,out to Leftfield,Overcast
+12-04-2013,Detroit Tigers,Oakland Athletics,59,11,out to Rightfield,Cloudy
+13-04-2013,Detroit Tigers,Oakland Athletics,65,10,in from Rightfield.,Wind10mphinfromRightfield
+14-04-2013,Detroit Tigers,Oakland Athletics,69,10,from Left to Right,Sunny
+15-04-2013,Houston Astros,Oakland Athletics,55,25,out to Rightfield,Cloudy
+16-04-2013,Houston Astros,Oakland Athletics,63,17,out to Rightfield,Sunny
+17-04-2013,Houston Astros,Oakland Athletics,69,16,in from Leftfield,Sunny
+25-04-2013,Baltimore Orioles,Oakland Athletics,58,15,out to Rightfield,Sunny
+26-04-2013,Baltimore Orioles,Oakland Athletics,59,11,out to Rightfield,Sunny
+27-04-2013,Baltimore Orioles,Oakland Athletics,61,7,in from Rightfield,Sunny
+28-04-2013,Baltimore Orioles,Oakland Athletics,68,7,out to Centerfield,Sunny
+29-04-2013,Los Angeles Angels of Anaheim,Oakland Athletics,71,16,out to Rightfield,Cloudy
+30-04-2013,Los Angeles Angels of Anaheim,Oakland Athletics,71,9,out to Rightfield,Cloudy
+01-05-2013,Los Angeles Angels of Anaheim,Oakland Athletics,79,10,in from Leftfield,Sunny
+13-05-2013,Texas Rangers,Oakland Athletics,65,13,out to Rightfield,Sunny
+14-05-2013,Texas Rangers,Oakland Athletics,61,16,out to Rightfield,Sunny
+15-05-2013,Texas Rangers,Oakland Athletics,63,12,out to Rightfield,Cloudy
+17-05-2013,Kansas City Royals,Oakland Athletics,58,16,out to Rightfield,Sunny
+18-05-2013,Kansas City Royals,Oakland Athletics,65,13,out to Leftfield,Sunny
+19-05-2013,Kansas City Royals,Oakland Athletics,72,9,out to Rightfield,Sunny
+27-05-2013,San Francisco Giants,Oakland Athletics,57,12,out to Rightfield,Rain
+28-05-2013,San Francisco Giants,Oakland Athletics,60,14,out to Rightfield,Cloudy
+31-05-2013,Chicago White Sox,Oakland Athletics,64,10,out to Rightfield,Sunny
+01-06-2013,Chicago White Sox,Oakland Athletics,77,7,out to Rightfield,Cloudy
+02-06-2013,Chicago White Sox,Oakland Athletics,63,11,out to Rightfield,Sunny
+11-06-2013,New York Yankees,Oakland Athletics,61,11,out to Rightfield,Cloudy
+12-06-2013,New York Yankees,Oakland Athletics,62,17,out to Rightfield,Sunny
+13-06-2013,New York Yankees,Oakland Athletics,65,6,out to Rightfield,Sunny
+14-06-2013,Seattle Mariners,Oakland Athletics,61,15,out to Rightfield,Cloudy
+15-06-2013,Seattle Mariners,Oakland Athletics,56,17,out to Rightfield,Cloudy
+16-06-2013,Seattle Mariners,Oakland Athletics,65,17,out to Rightfield,Sunny
+25-06-2013,Cincinnati Reds,Oakland Athletics,67,8,out to Rightfield,Overcast
+26-06-2013,Cincinnati Reds,Oakland Athletics,72,8,out to Rightfield,Cloudy
+28-06-2013,St. Louis Cardinals,Oakland Athletics,75,7,out to Rightfield,Sunny
+29-06-2013,St. Louis Cardinals,Oakland Athletics,84,5,out to Rightfield,Sunny
+30-06-2013,St. Louis Cardinals,Oakland Athletics,76,9,out to Rightfield,Sunny
+02-07-2013,Chicago Cubs,Oakland Athletics,64,18,out to Rightfield,Cloudy
+03-07-2013,Chicago Cubs,Oakland Athletics,73,9,out to Rightfield,Cloudy
+04-07-2013,Chicago Cubs,Oakland Athletics,75,16,out to Rightfield,Cloudy
+12-07-2013,Boston Red Sox,Oakland Athletics,61,7,out to Rightfield,Sunny
+13-07-2013,Boston Red Sox,Oakland Athletics,62,5,out to Rightfield,Sunny
+14-07-2013,Boston Red Sox,Oakland Athletics,61,12,out to Rightfield,Sunny
+25-07-2013,Los Angeles Angels of Anaheim,Oakland Athletics,61,12,out to Rightfield,Cloudy
+26-07-2013,Los Angeles Angels of Anaheim,Oakland Athletics,60,21,out to Rightfield,Sunny
+27-07-2013,Los Angeles Angels of Anaheim,Oakland Athletics,63,8,out to Rightfield.,Wind8mphouttoRightfield
+28-07-2013,Los Angeles Angels of Anaheim,Oakland Athletics,61,11,out to Rightfield,Cloudy
+29-07-2013,Toronto Blue Jays,Oakland Athletics,58,13,out to Rightfield.,Wind13mphouttoRightfield
+30-07-2013,Toronto Blue Jays,Oakland Athletics,58,9,out to Rightfield,Sunny
+31-07-2013,Toronto Blue Jays,Oakland Athletics,62,9,out to Rightfield,Sunny
+02-08-2013,Texas Rangers,Oakland Athletics,61,11,out to Rightfield,Sunny
+03-08-2013,Texas Rangers,Oakland Athletics,64,8,out to Rightfield,Sunny
+04-08-2013,Texas Rangers,Oakland Athletics,61,8,out to Rightfield,Sunny
+13-08-2013,Houston Astros,Oakland Athletics,67,12,out to Rightfield,Sunny
+14-08-2013,Houston Astros,Oakland Athletics,66,11,out to Rightfield,Sunny
+15-08-2013,Houston Astros,Oakland Athletics,69,10,out to Rightfield,Sunny
+16-08-2013,Cleveland Indians,Oakland Athletics,65,14,out to Rightfield,Cloudy
+17-08-2013,Cleveland Indians,Oakland Athletics,72,13,out to Rightfield,Cloudy
+18-08-2013,Cleveland Indians,Oakland Athletics,73,7,out to Rightfield.,Wind7mphouttoRightfield
+19-08-2013,Seattle Mariners,Oakland Athletics,65,8,from Left to Right,Cloudy
+20-08-2013,Seattle Mariners,Oakland Athletics,65,10,out to Rightfield,Sunny
+21-08-2013,Seattle Mariners,Oakland Athletics,64,7,out to Rightfield,Cloudy
+30-08-2013,Tampa Bay Rays,Oakland Athletics,68,6,out to Rightfield,Sunny
+31-08-2013,Tampa Bay Rays,Oakland Athletics,64,6,out to Rightfield,Cloudy
+01-09-2013,Tampa Bay Rays,Oakland Athletics,68,6,out to Rightfield,Cloudy
+02-09-2013,Texas Rangers,Oakland Athletics,70,11,out to Rightfield.,Wind11mphouttoRightfield
+03-09-2013,Texas Rangers,Oakland Athletics,65,12,out to Rightfield,Sunny
+04-09-2013,Texas Rangers,Oakland Athletics,68,6,out to Rightfield,Sunny
+05-09-2013,Houston Astros,Oakland Athletics,69,13,out to Rightfield,Sunny
+06-09-2013,Houston Astros,Oakland Athletics,80,7,out to Rightfield,Sunny
+07-09-2013,Houston Astros,Oakland Athletics,84,6,out to Leftfield,Sunny
+08-09-2013,Houston Astros,Oakland Athletics,75,6,out to Rightfield,Sunny
+16-09-2013,Los Angeles Angels of Anaheim,Oakland Athletics,58,12,out to Rightfield,Sunny
+17-09-2013,Los Angeles Angels of Anaheim,Oakland Athletics,62,9,out to Rightfield,Sunny
+18-09-2013,Los Angeles Angels of Anaheim,Oakland Athletics,70,8,out to Rightfield,Sunny
+19-09-2013,Minnesota Twins,Oakland Athletics,72,9,out to Rightfield,Sunny
+20-09-2013,Minnesota Twins,Oakland Athletics,60,12,out to Rightfield,Overcast
+21-09-2013,Minnesota Twins,Oakland Athletics,64,10,out to Rightfield,Overcast
+22-09-2013,Minnesota Twins,Oakland Athletics,63,10,out to Rightfield.,Wind10mphouttoRightfield
+05-04-2013,Kansas City Royals,Philadelphia Phillies,64,19,in from Leftfield,Sunny
+06-04-2013,Kansas City Royals,Philadelphia Phillies,52,4,out to Centerfield,Sunny
+07-04-2013,Kansas City Royals,Philadelphia Phillies,59,15,out to Centerfield,Cloudy
+08-04-2013,New York Mets,Philadelphia Phillies,72,10,out to Centerfield,Cloudy
+09-04-2013,New York Mets,Philadelphia Phillies,81,8,from Right to Left,Sunny
+10-04-2013,New York Mets,Philadelphia Phillies,76,14,from Left to Right,Cloudy
+18-04-2013,St. Louis Cardinals,Philadelphia Phillies,64,8,from Right to Left.,Wind8mphfromRighttoLeft
+19-04-2013,St. Louis Cardinals,Philadelphia Phillies,74,17,from Left to Right.,Wind17mphfromLefttoRight
+20-04-2013,St. Louis Cardinals,Philadelphia Phillies,57,16,from Left to Right,Cloudy
+21-04-2013,St. Louis Cardinals,Philadelphia Phillies,50,7,from Right to Left.,Wind7mphfromRighttoLeft
+22-04-2013,Pittsburgh Pirates,Philadelphia Phillies,50,13,from Right to Left.,Wind13mphfromRighttoLeft
+23-04-2013,Pittsburgh Pirates,Philadelphia Phillies,51,8,in from Centerfield.,Wind8mphinfromCenterfield
+24-04-2013,Pittsburgh Pirates,Philadelphia Phillies,69,12,from Left to Right,Cloudy
+25-04-2013,Pittsburgh Pirates,Philadelphia Phillies,58,9,from Left to Right,Sunny
+02-05-2013,Miami Marlins,Philadelphia Phillies,71,8,out to Leftfield,Sunny
+03-05-2013,Miami Marlins,Philadelphia Phillies,63,13,from Right to Left,Cloudy
+04-05-2013,Miami Marlins,Philadelphia Phillies,63,9,from Right to Left,Sunny
+05-05-2013,Miami Marlins,Philadelphia Phillies,62,12,from Right to Left,Sunny
+14-05-2013,Cleveland Indians,Philadelphia Phillies,63,8,from Left to Right,Sunny
+15-05-2013,Cleveland Indians,Philadelphia Phillies,74,8,from Right to Left.,Wind8mphfromRighttoLeft
+17-05-2013,Cincinnati Reds,Philadelphia Phillies,77,3,in from Leftfield,Cloudy
+18-05-2013,Cincinnati Reds,Philadelphia Phillies,69,8,from Right to Left.,Wind8mphfromRighttoLeft
+19-05-2013,Cincinnati Reds,Philadelphia Phillies,66,8,out to Leftfield,Overcast
+29-05-2013,Boston Red Sox,Philadelphia Phillies,88,15,out to Leftfield,Cloudy
+30-05-2013,Boston Red Sox,Philadelphia Phillies,92,10,out to Rightfield,Cloudy
+31-05-2013,Milwaukee Brewers,Philadelphia Phillies,91,13,out to Rightfield,Cloudy
+01-06-2013,Milwaukee Brewers,Philadelphia Phillies,93,15,out to Rightfield,Cloudy
+02-06-2013,Milwaukee Brewers,Philadelphia Phillies,89,13,out to Rightfield,Cloudy
+03-06-2013,Miami Marlins,Philadelphia Phillies,74,1,out to Rightfield.,Wind1mphouttoRightfield
+04-06-2013,Miami Marlins,Philadelphia Phillies,78,3,in from Leftfield,Cloudy
+05-06-2013,Miami Marlins,Philadelphia Phillies,79,3,from Right to Left.,Wind3mphfromRighttoLeft
+17-06-2013,Washington Nationals,Philadelphia Phillies,80,13,out to Rightfield.,Wind13mphouttoRightfield
+18-06-2013,Washington Nationals,Philadelphia Phillies,70,2,from Right to Left,Drizzle
+19-06-2013,Washington Nationals,Philadelphia Phillies,82,1,out to Centerfield,Cloudy
+21-06-2013,New York Mets,Philadelphia Phillies,81,16,out to Rightfield,Cloudy
+22-06-2013,New York Mets,Philadelphia Phillies,89,8,out to Rightfield.,Wind8mphouttoRightfield
+23-06-2013,New York Mets,Philadelphia Phillies,87,11,out to Centerfield.,Wind11mphouttoCenterfield
+05-07-2013,Atlanta Braves,Philadelphia Phillies,92,14,from Left to Right,Cloudy
+06-07-2013,Atlanta Braves,Philadelphia Phillies,94,10,out to Centerfield,Cloudy
+07-07-2013,Atlanta Braves,Philadelphia Phillies,95,8,out to Rightfield,Cloudy
+08-07-2013,Washington Nationals,Philadelphia Phillies,84,9,from Left to Right,Cloudy
+09-07-2013,Washington Nationals,Philadelphia Phillies,86,10,out to Centerfield.,Wind10mphouttoCenterfield
+10-07-2013,Washington Nationals,Philadelphia Phillies,91,11,out to Rightfield,Cloudy
+11-07-2013,Washington Nationals,Philadelphia Phillies,88,7,in from Leftfield,Cloudy
+14-07-2013,Chicago White Sox,Philadelphia Phillies,92,7,from Left to Right,Cloudy
+30-07-2013,San Francisco Giants,Philadelphia Phillies,84,10,from Left to Right.,Wind10mphfromLefttoRight
+31-07-2013,San Francisco Giants,Philadelphia Phillies,81,4,out to Centerfield.,Wind4mphouttoCenterfield
+01-08-2013,San Francisco Giants,Philadelphia Phillies,74,7,out to Centerfield.,Wind7mphouttoCenterfield
+02-08-2013,Atlanta Braves,Philadelphia Phillies,83,14,out to Centerfield.,Wind14mphouttoCenterfield
+03-08-2013,Atlanta Braves,Philadelphia Phillies,82,11,out to Rightfield.,Wind11mphouttoRightfield
+04-08-2013,Atlanta Braves,Philadelphia Phillies,80,14,in from Leftfield,Cloudy
+06-08-2013,Chicago Cubs,Philadelphia Phillies,72,5,out to Centerfield.,Wind5mphouttoCenterfield
+07-08-2013,Chicago Cubs,Philadelphia Phillies,75,8,out to Leftfield.,Wind8mphouttoLeftfield
+08-08-2013,Chicago Cubs,Philadelphia Phillies,84,10,out to Rightfield.,Wind10mphouttoRightfield
+16-08-2013,Los Angeles Dodgers,Philadelphia Phillies,79,4,out to Centerfield.,Wind4mphouttoCenterfield
+17-08-2013,Los Angeles Dodgers,Philadelphia Phillies,82,7,from Left to Right,Cloudy
+18-08-2013,Los Angeles Dodgers,Philadelphia Phillies,78,5,in from Rightfield.,Wind5mphinfromRightfield
+19-08-2013,Colorado Rockies,Philadelphia Phillies,77,6,out to Centerfield.,Wind6mphouttoCenterfield
+20-08-2013,Colorado Rockies,Philadelphia Phillies,87,8,out to Rightfield,Sunny
+21-08-2013,Colorado Rockies,Philadelphia Phillies,85,6,out to Centerfield.,Wind6mphouttoCenterfield
+22-08-2013,Colorado Rockies,Philadelphia Phillies,79,5,out to Leftfield.,Wind5mphouttoLeftfield
+23-08-2013,Arizona Diamondbacks,Philadelphia Phillies,77,8,in from Leftfield.,Wind8mphinfromLeftfield
+24-08-2013,Arizona Diamondbacks,Philadelphia Phillies,84,8,in from Rightfield,Cloudy
+25-08-2013,Arizona Diamondbacks,Philadelphia Phillies,83,5,out to Rightfield,Cloudy
+02-09-2013,Washington Nationals,Philadelphia Phillies,80,1,out to Leftfield.,Wind1mphouttoLeftfield
+03-09-2013,Washington Nationals,Philadelphia Phillies,79,10,from Left to Right,Sunny
+04-09-2013,Washington Nationals,Philadelphia Phillies,80,11,in from Leftfield,Sunny
+06-09-2013,Atlanta Braves,Philadelphia Phillies,71,7,in from Leftfield,Sunny
+07-09-2013,Atlanta Braves,Philadelphia Phillies,79,7,out to Leftfield,Cloudy
+08-09-2013,Atlanta Braves,Philadelphia Phillies,83,13,from Left to Right,Cloudy
+10-09-2013,San Diego Padres,Philadelphia Phillies,86,10,out to Centerfield,Cloudy
+11-09-2013,San Diego Padres,Philadelphia Phillies,91,12,out to Centerfield,Cloudy
+12-09-2013,San Diego Padres,Philadelphia Phillies,74,8,in from Leftfield.,Wind8mphinfromLeftfield
+16-09-2013,Miami Marlins,Philadelphia Phillies,71,11,in from Leftfield.,Wind11mphinfromLeftfield
+17-09-2013,Miami Marlins,Philadelphia Phillies,63,7,from Right to Left,Sunny
+18-09-2013,Miami Marlins,Philadelphia Phillies,70,5,from Left to Right,Cloudy
+20-09-2013,New York Mets,Philadelphia Phillies,75,7,out to Centerfield,Sunny
+21-09-2013,New York Mets,Philadelphia Phillies,77,13,out to Centerfield.,Wind13mphouttoCenterfield
+22-09-2013,New York Mets,Philadelphia Phillies,71,14,in from Leftfield,Cloudy
+01-04-2013,Chicago Cubs,Pittsburgh Pirates,41,12,out to Centerfield.,Wind12mphouttoCenterfield
+03-04-2013,Chicago Cubs,Pittsburgh Pirates,35,17,out to Centerfield,Cloudy
+04-04-2013,Chicago Cubs,Pittsburgh Pirates,45,7,in from Centerfield,Cloudy
+12-04-2013,Cincinnati Reds,Pittsburgh Pirates,52,15,out to Leftfield,Cloudy
+13-04-2013,Cincinnati Reds,Pittsburgh Pirates,52,13,out to Leftfield,Cloudy
+14-04-2013,Cincinnati Reds,Pittsburgh Pirates,54,1,out to Rightfield,Cloudy
+15-04-2013,St. Louis Cardinals,Pittsburgh Pirates,62,11,out to Leftfield.,Wind11mphouttoLeftfield
+17-04-2013,St. Louis Cardinals,Pittsburgh Pirates,68,4,in from Rightfield,Cloudy
+18-04-2013,Atlanta Braves,Pittsburgh Pirates,83,16,from Right to Left,Cloudy
+19-04-2013,Atlanta Braves,Pittsburgh Pirates,49,13,from Right to Left.,Wind13mphfromRighttoLeft
+20-04-2013,Atlanta Braves,Pittsburgh Pirates,45,14,out to Leftfield.,Wind14mphouttoLeftfield
+21-04-2013,Atlanta Braves,Pittsburgh Pirates,45,5,out to Centerfield,Cloudy
+03-05-2013,Washington Nationals,Pittsburgh Pirates,72,15,from Left to Right,Cloudy
+04-05-2013,Washington Nationals,Pittsburgh Pirates,71,16,in from Leftfield,Cloudy
+05-05-2013,Washington Nationals,Pittsburgh Pirates,69,14,in from Leftfield,Cloudy
+07-05-2013,Seattle Mariners,Pittsburgh Pirates,65,5,in from Leftfield,Drizzle
+08-05-2013,Seattle Mariners,Pittsburgh Pirates,67,5,in from Leftfield,Cloudy
+13-05-2013,Milwaukee Brewers,Pittsburgh Pirates,51,13,from Left to Right,Cloudy
+14-05-2013,Milwaukee Brewers,Pittsburgh Pirates,62,12,in from Leftfield,Cloudy
+15-05-2013,Milwaukee Brewers,Pittsburgh Pirates,84,13,out to Leftfield,Cloudy
+16-05-2013,Milwaukee Brewers,Pittsburgh Pirates,83,8,out to Leftfield,Sunny
+17-05-2013,Houston Astros,Pittsburgh Pirates,80,5,out to Leftfield,Cloudy
+18-05-2013,Houston Astros,Pittsburgh Pirates,78,6,in from Centerfield.,Wind6mphinfromCenterfield
+19-05-2013,Houston Astros,Pittsburgh Pirates,78,9,out to Rightfield.,Wind9mphouttoRightfield
+21-05-2013,Chicago Cubs,Pittsburgh Pirates,85,12,from Right to Left,Cloudy
+22-05-2013,Chicago Cubs,Pittsburgh Pirates,72,14,from Right to Left.,Wind14mphfromRighttoLeft
+23-05-2013,Chicago Cubs,Pittsburgh Pirates,73,13,from Right to Left.,Wind13mphfromRighttoLeft
+29-05-2013,Detroit Tigers,Pittsburgh Pirates,85,15,from Right to Left,Cloudy
+30-05-2013,Detroit Tigers,Pittsburgh Pirates,86,6,out to Centerfield,Cloudy
+31-05-2013,Cincinnati Reds,Pittsburgh Pirates,86,11,from Right to Left,Cloudy
+01-06-2013,Cincinnati Reds,Pittsburgh Pirates,84,14,from Right to Left.,Wind14mphfromRighttoLeft
+02-06-2013,Cincinnati Reds,Pittsburgh Pirates,79,13,from Right to Left.,Wind13mphfromRighttoLeft
+11-06-2013,San Francisco Giants,Pittsburgh Pirates,78,11,out to Leftfield,Cloudy
+12-06-2013,San Francisco Giants,Pittsburgh Pirates,80,6,out to Leftfield.,Wind6mphouttoLeftfield
+13-06-2013,San Francisco Giants,Pittsburgh Pirates,70,14,out to Centerfield.,Wind14mphouttoCenterfield
+14-06-2013,Los Angeles Dodgers,Pittsburgh Pirates,74,9,out to Leftfield,Cloudy
+15-06-2013,Los Angeles Dodgers,Pittsburgh Pirates,78,8,out to Leftfield,Cloudy
+16-06-2013,Los Angeles Dodgers,Pittsburgh Pirates,71,14,from Right to Left,Rain
+28-06-2013,Milwaukee Brewers,Pittsburgh Pirates,69,13,out to Leftfield,Cloudy
+29-06-2013,Milwaukee Brewers,Pittsburgh Pirates,76,6,from Right to Left.,Wind6mphfromRighttoLeft
+30-06-2013,Milwaukee Brewers,Pittsburgh Pirates,84,5,in from Rightfield,Cloudy
+02-07-2013,Philadelphia Phillies,Pittsburgh Pirates,82,6,out to Leftfield,Cloudy
+03-07-2013,Philadelphia Phillies,Pittsburgh Pirates,85,6,out to Leftfield,Cloudy
+04-07-2013,Philadelphia Phillies,Pittsburgh Pirates,86,5,in from Rightfield,Cloudy
+08-07-2013,Oakland Athletics,Pittsburgh Pirates,83,9,out to Leftfield.,Wind9mphouttoLeftfield
+09-07-2013,Oakland Athletics,Pittsburgh Pirates,76,7,in from Rightfield.,Wind7mphinfromRightfield
+10-07-2013,Oakland Athletics,Pittsburgh Pirates,67,7,from Right to Left.,Wind7mphfromRighttoLeft
+12-07-2013,New York Mets,Pittsburgh Pirates,73,4,out to Centerfield.,Wind4mphouttoCenterfield
+13-07-2013,New York Mets,Pittsburgh Pirates,80,7,from Left to Right,Cloudy
+14-07-2013,New York Mets,Pittsburgh Pirates,87,8,in from Rightfield,Sunny
+29-07-2013,St. Louis Cardinals,Pittsburgh Pirates,74,10,out to Leftfield,Cloudy
+31-07-2013,St. Louis Cardinals,Pittsburgh Pirates,74,6,out to Leftfield.,Wind6mphouttoLeftfield
+01-08-2013,St. Louis Cardinals,Pittsburgh Pirates,81,11,out to Leftfield,Cloudy
+02-08-2013,Colorado Rockies,Pittsburgh Pirates,75,9,out to Leftfield.,Wind9mphouttoLeftfield
+03-08-2013,Colorado Rockies,Pittsburgh Pirates,76,8,out to Leftfield.,Wind8mphouttoLeftfield
+04-08-2013,Colorado Rockies,Pittsburgh Pirates,73,9,out to Centerfield.,Wind9mphouttoCenterfield
+06-08-2013,Miami Marlins,Pittsburgh Pirates,81,7,in from Centerfield,Cloudy
+07-08-2013,Miami Marlins,Pittsburgh Pirates,71,6,out to Centerfield.,Wind6mphouttoCenterfield
+08-08-2013,Miami Marlins,Pittsburgh Pirates,81,7,from Right to Left.,Wind7mphfromRighttoLeft
+16-08-2013,Arizona Diamondbacks,Pittsburgh Pirates,77,5,in from Leftfield,Cloudy
+17-08-2013,Arizona Diamondbacks,Pittsburgh Pirates,79,10,in from Leftfield,Cloudy
+18-08-2013,Arizona Diamondbacks,Pittsburgh Pirates,73,4,in from Leftfield,Cloudy
+27-08-2013,Milwaukee Brewers,Pittsburgh Pirates,78,9,out to Leftfield.,Wind9mphouttoLeftfield
+28-08-2013,Milwaukee Brewers,Pittsburgh Pirates,73,6,in from Rightfield.,Wind6mphinfromRightfield
+29-08-2013,Milwaukee Brewers,Pittsburgh Pirates,84,2,in from Leftfield,Cloudy
+30-08-2013,St. Louis Cardinals,Pittsburgh Pirates,85,9,from Right to Left,Cloudy
+31-08-2013,St. Louis Cardinals,Pittsburgh Pirates,83,8,out to Leftfield.,Wind8mphouttoLeftfield
+01-09-2013,St. Louis Cardinals,Pittsburgh Pirates,75,5,out to Rightfield.,Wind5mphouttoRightfield
+12-09-2013,Chicago Cubs,Pittsburgh Pirates,72,7,out to Leftfield.,Wind7mphouttoLeftfield
+13-09-2013,Chicago Cubs,Pittsburgh Pirates,59,13,out to Centerfield.,Wind13mphouttoCenterfield
+14-09-2013,Chicago Cubs,Pittsburgh Pirates,64,2,in from Rightfield,Sunny
+15-09-2013,Chicago Cubs,Pittsburgh Pirates,68,4,from Left to Right,Cloudy
+16-09-2013,San Diego Padres,Pittsburgh Pirates,66,7,in from Centerfield.,Wind7mphinfromCenterfield
+17-09-2013,San Diego Padres,Pittsburgh Pirates,67,5,in from Centerfield,Sunny
+18-09-2013,San Diego Padres,Pittsburgh Pirates,71,7,out to Centerfield,Cloudy
+19-09-2013,San Diego Padres,Pittsburgh Pirates,71,4,from Right to Left,Cloudy
+20-09-2013,Cincinnati Reds,Pittsburgh Pirates,77,9,out to Centerfield,Cloudy
+21-09-2013,Cincinnati Reds,Pittsburgh Pirates,62,6,from Left to Right.,Wind6mphfromLefttoRight
+22-09-2013,Cincinnati Reds,Pittsburgh Pirates,61,11,out to Centerfield,Cloudy
+09-04-2013,Los Angeles Dodgers,San Diego Padres,67,12,from Left to Right,Sunny
+10-04-2013,Los Angeles Dodgers,San Diego Padres,67,10,from Left to Right,Sunny
+11-04-2013,Los Angeles Dodgers,San Diego Padres,63,7,in unknown direction,Overcast
+12-04-2013,Colorado Rockies,San Diego Padres,62,8,from Left to Right,Cloudy
+13-04-2013,Colorado Rockies,San Diego Padres,63,5,in unknown direction,Overcast
+14-04-2013,Colorado Rockies,San Diego Padres,62,13,out to Rightfield,Overcast
+22-04-2013,Milwaukee Brewers,San Diego Padres,63,8,from Left to Right,Cloudy
+23-04-2013,Milwaukee Brewers,San Diego Padres,63,11,out to Rightfield,Sunny
+24-04-2013,Milwaukee Brewers,San Diego Padres,64,5,out to Rightfield,Overcast
+26-04-2013,San Francisco Giants,San Diego Padres,64,12,from Left to Right,Sunny
+27-04-2013,San Francisco Giants,San Diego Padres,65,7,from Left to Right,Sunny
+28-04-2013,San Francisco Giants,San Diego Padres,69,8,from Left to Right,Sunny
+03-05-2013,Arizona Diamondbacks,San Diego Padres,69,7,out to Rightfield.,Wind7mphouttoRightfield
+04-05-2013,Arizona Diamondbacks,San Diego Padres,66,13,from Left to Right.,Wind13mphfromLefttoRight
+05-05-2013,Arizona Diamondbacks,San Diego Padres,67,12,out to Rightfield,Overcast
+06-05-2013,Miami Marlins,San Diego Padres,65,5,in unknown direction.,Wind5mphinunknowndirection
+07-05-2013,Miami Marlins,San Diego Padres,65,7,from Left to Right,Cloudy
+08-05-2013,Miami Marlins,San Diego Padres,68,7,from Left to Right,Cloudy
+16-05-2013,Washington Nationals,San Diego Padres,64,10,out to Rightfield.,Wind10mphouttoRightfield
+17-05-2013,Washington Nationals,San Diego Padres,66,3,from Left to Right.,Wind3mphfromLefttoRight
+18-05-2013,Washington Nationals,San Diego Padres,67,6,out to Rightfield,Sunny
+19-05-2013,Washington Nationals,San Diego Padres,72,7,out to Rightfield,Sunny
+20-05-2013,St. Louis Cardinals,San Diego Padres,66,6,out to Rightfield,Cloudy
+21-05-2013,St. Louis Cardinals,San Diego Padres,66,7,out to Rightfield.,Wind7mphouttoRightfield
+22-05-2013,St. Louis Cardinals,San Diego Padres,66,5,in unknown direction,Cloudy
+29-05-2013,Seattle Mariners,San Diego Padres,66,5,from Left to Right,Sunny
+30-05-2013,Seattle Mariners,San Diego Padres,67,6,from Left to Right,Cloudy
+31-05-2013,Toronto Blue Jays,San Diego Padres,67,6,from Left to Right.,Wind6mphfromLefttoRight
+01-06-2013,Toronto Blue Jays,San Diego Padres,67,8,from Left to Right.,Wind8mphfromLefttoRight
+02-06-2013,Toronto Blue Jays,San Diego Padres,65,8,from Left to Right,Overcast
+10-06-2013,Atlanta Braves,San Diego Padres,65,10,from Left to Right,Sunny
+11-06-2013,Atlanta Braves,San Diego Padres,66,6,from Left to Right.,Wind6mphfromLefttoRight
+12-06-2013,Atlanta Braves,San Diego Padres,69,7,from Left to Right,Overcast
+14-06-2013,Arizona Diamondbacks,San Diego Padres,66,8,from Left to Right,Cloudy
+15-06-2013,Arizona Diamondbacks,San Diego Padres,66,9,from Left to Right,Sunny
+16-06-2013,Arizona Diamondbacks,San Diego Padres,70,9,from Left to Right,Sunny
+20-06-2013,Los Angeles Dodgers,San Diego Padres,70,9,out to Rightfield,Sunny
+21-06-2013,Los Angeles Dodgers,San Diego Padres,68,7,in from Rightfield,Sunny
+22-06-2013,Los Angeles Dodgers,San Diego Padres,72,12,out to Rightfield,Sunny
+23-06-2013,Los Angeles Dodgers,San Diego Padres,71,8,out to Rightfield,Cloudy
+24-06-2013,Philadelphia Phillies,San Diego Padres,67,13,from Left to Right,Cloudy
+25-06-2013,Philadelphia Phillies,San Diego Padres,69,10,from Left to Right,Sunny
+26-06-2013,Philadelphia Phillies,San Diego Padres,69,10,from Left to Right,Sunny
+08-07-2013,Colorado Rockies,San Diego Padres,70,7,from Left to Right,Sunny
+09-07-2013,Colorado Rockies,San Diego Padres,71,6,from Left to Right,Sunny
+10-07-2013,Colorado Rockies,San Diego Padres,68,6,from Left to Right.,Wind6mphfromLefttoRight
+11-07-2013,San Francisco Giants,San Diego Padres,69,5,out to Rightfield,Cloudy
+12-07-2013,San Francisco Giants,San Diego Padres,71,6,from Left to Right,Cloudy
+13-07-2013,San Francisco Giants,San Diego Padres,70,8,from Left to Right,Sunny
+14-07-2013,San Francisco Giants,San Diego Padres,76,8,from Left to Right,Sunny
+29-07-2013,Cincinnati Reds,San Diego Padres,66,7,out to Rightfield,Sunny
+30-07-2013,Cincinnati Reds,San Diego Padres,66,12,from Left to Right,Cloudy
+31-07-2013,Cincinnati Reds,San Diego Padres,70,8,from Left to Right,Cloudy
+02-08-2013,New York Yankees,San Diego Padres,68,6,from Left to Right,Sunny
+03-08-2013,New York Yankees,San Diego Padres,68,3,from Left to Right,Cloudy
+04-08-2013,New York Yankees,San Diego Padres,71,9,from Left to Right,Sunny
+06-08-2013,Baltimore Orioles,San Diego Padres,66,10,from Left to Right,Sunny
+07-08-2013,Baltimore Orioles,San Diego Padres,70,6,from Left to Right,Sunny
+15-08-2013,New York Mets,San Diego Padres,69,8,from Left to Right,Sunny
+16-08-2013,New York Mets,San Diego Padres,69,5,in unknown direction,Sunny
+17-08-2013,New York Mets,San Diego Padres,70,9,out to Rightfield,Sunny
+18-08-2013,New York Mets,San Diego Padres,72,8,from Left to Right,Cloudy
+19-08-2013,Pittsburgh Pirates,San Diego Padres,66,12,from Left to Right,Sunny
+20-08-2013,Pittsburgh Pirates,San Diego Padres,72,12,from Left to Right,Cloudy
+21-08-2013,Pittsburgh Pirates,San Diego Padres,71,8,from Left to Right,Sunny
+23-08-2013,Chicago Cubs,San Diego Padres,68,10,from Left to Right,Sunny
+24-08-2013,Chicago Cubs,San Diego Padres,72,7,from Left to Right,Sunny
+25-08-2013,Chicago Cubs,San Diego Padres,71,5,from Left to Right,Sunny
+02-09-2013,San Francisco Giants,San Diego Padres,71,9,from Left to Right,Cloudy
+03-09-2013,San Francisco Giants,San Diego Padres,78,10,from Left to Right,Sunny
+04-09-2013,San Francisco Giants,San Diego Padres,78,10,from Left to Right,Sunny
+06-09-2013,Colorado Rockies,San Diego Padres,75,8,from Left to Right,Cloudy
+07-09-2013,Colorado Rockies,San Diego Padres,77,6,from Left to Right,Sunny
+08-09-2013,Colorado Rockies,San Diego Padres,73,10,from Left to Right,Sunny
+20-09-2013,Los Angeles Dodgers,San Diego Padres,64,8,from Left to Right,Overcast
+21-09-2013,Los Angeles Dodgers,San Diego Padres,71,12,from Left to Right,Cloudy
+22-09-2013,Los Angeles Dodgers,San Diego Padres,72,7,in unknown direction,Sunny
+23-09-2013,Arizona Diamondbacks,San Diego Padres,70,5,in unknown direction,Sunny
+24-09-2013,Arizona Diamondbacks,San Diego Padres,69,9,from Left to Right,Cloudy
+25-09-2013,Arizona Diamondbacks,San Diego Padres,65,5,in unknown direction,Overcast
+26-09-2013,Arizona Diamondbacks,San Diego Padres,71,10,from Left to Right,Cloudy
+08-04-2013,Houston Astros,Seattle Mariners,56,2,out to Leftfield.,Wind2mphouttoLeftfield
+09-04-2013,Houston Astros,Seattle Mariners,55,0,NoWind,Wind0mph
+10-04-2013,Houston Astros,Seattle Mariners,56,2,in from Centerfield,Cloudy
+11-04-2013,Texas Rangers,Seattle Mariners,53,2,in unknown direction,Cloudy
+12-04-2013,Texas Rangers,Seattle Mariners,46,0,NoWind,InDome
+13-04-2013,Texas Rangers,Seattle Mariners,46,0,NoWind,InDome
+14-04-2013,Texas Rangers,Seattle Mariners,48,4,out to Centerfield,Cloudy
+16-04-2013,Detroit Tigers,Seattle Mariners,48,12,in from Rightfield.,Wind12mphinfromRightfield
+17-04-2013,Detroit Tigers,Seattle Mariners,54,1,in from Leftfield,Cloudy
+18-04-2013,Detroit Tigers,Seattle Mariners,51,0,NoWind,Wind0mph
+25-04-2013,Los Angeles Angels of Anaheim,Seattle Mariners,66,2,from Left to Right,Sunny
+26-04-2013,Los Angeles Angels of Anaheim,Seattle Mariners,63,4,out to Rightfield,Cloudy
+27-04-2013,Los Angeles Angels of Anaheim,Seattle Mariners,57,1,out to Rightfield,Overcast
+28-04-2013,Los Angeles Angels of Anaheim,Seattle Mariners,56,1,in unknown direction.,Wind1mphinunknowndirection
+29-04-2013,Baltimore Orioles,Seattle Mariners,51,0,NoWind,InDome
+30-04-2013,Baltimore Orioles,Seattle Mariners,53,2,in from Leftfield,Cloudy
+01-05-2013,Baltimore Orioles,Seattle Mariners,61,4,in from Leftfield,Sunny
+10-05-2013,Oakland Athletics,Seattle Mariners,68,5,out to Centerfield,Overcast
+11-05-2013,Oakland Athletics,Seattle Mariners,80,0,NoWind,Sunny
+12-05-2013,Oakland Athletics,Seattle Mariners,68,2,out to Centerfield.,Wind2mphouttoCenterfield
+24-05-2013,Texas Rangers,Seattle Mariners,60,3,in from Centerfield,Cloudy
+25-05-2013,Texas Rangers,Seattle Mariners,59,0,NoWind,Wind0mph
+26-05-2013,Texas Rangers,Seattle Mariners,54,0,NoWind,InDome
+27-05-2013,San Diego Padres,Seattle Mariners,60,0,NoWind,InDome
+28-05-2013,San Diego Padres,Seattle Mariners,61,2,out to Rightfield.,Wind2mphouttoRightfield
+03-06-2013,Chicago White Sox,Seattle Mariners,67,3,from Right to Left,Sunny
+04-06-2013,Chicago White Sox,Seattle Mariners,75,3,out to Rightfield,Sunny
+05-06-2013,Chicago White Sox,Seattle Mariners,68,4,from Left to Right,Overcast
+06-06-2013,New York Yankees,Seattle Mariners,77,4,in from Centerfield,Cloudy
+07-06-2013,New York Yankees,Seattle Mariners,66,3,from Left to Right.,Wind3mphfromLefttoRight
+08-06-2013,New York Yankees,Seattle Mariners,59,3,out to Rightfield,Cloudy
+09-06-2013,New York Yankees,Seattle Mariners,61,1,in unknown direction.,Wind1mphinunknowndirection
+10-06-2013,Houston Astros,Seattle Mariners,69,3,out to Rightfield,Cloudy
+11-06-2013,Houston Astros,Seattle Mariners,65,1,in unknown direction,Cloudy
+12-06-2013,Houston Astros,Seattle Mariners,63,1,from Right to Left,Sunny
+21-06-2013,Oakland Athletics,Seattle Mariners,67,4,out to Rightfield,Cloudy
+22-06-2013,Oakland Athletics,Seattle Mariners,76,3,out to Rightfield,Sunny
+23-06-2013,Oakland Athletics,Seattle Mariners,63,0,NoWind,InDome
+25-06-2013,Pittsburgh Pirates,Seattle Mariners,65,0,NoWind,InDome
+26-06-2013,Pittsburgh Pirates,Seattle Mariners,65,5,from Right to Left,Cloudy
+28-06-2013,Chicago Cubs,Seattle Mariners,79,2,out to Centerfield,Sunny
+29-06-2013,Chicago Cubs,Seattle Mariners,82,0,NoWind,Sunny
+30-06-2013,Chicago Cubs,Seattle Mariners,73,4,out to Rightfield,Sunny
+08-07-2013,Boston Red Sox,Seattle Mariners,76,3,out to Centerfield,Sunny
+09-07-2013,Boston Red Sox,Seattle Mariners,79,2,from Right to Left,Sunny
+10-07-2013,Boston Red Sox,Seattle Mariners,69,2,out to Rightfield,Cloudy
+11-07-2013,Boston Red Sox,Seattle Mariners,60,1,in from Leftfield.,Wind1mphinfromLeftfield
+12-07-2013,Los Angeles Angels of Anaheim,Seattle Mariners,65,1,in from Leftfield,Cloudy
+13-07-2013,Los Angeles Angels of Anaheim,Seattle Mariners,73,2,from Left to Right,Sunny
+14-07-2013,Los Angeles Angels of Anaheim,Seattle Mariners,68,4,out to Centerfield,Sunny
+22-07-2013,Cleveland Indians,Seattle Mariners,73,3,in from Leftfield,Sunny
+23-07-2013,Cleveland Indians,Seattle Mariners,80,2,out to Centerfield,Sunny
+24-07-2013,Cleveland Indians,Seattle Mariners,69,4,from Right to Left,Sunny
+25-07-2013,Minnesota Twins,Seattle Mariners,83,3,out to Centerfield,Sunny
+26-07-2013,Minnesota Twins,Seattle Mariners,82,2,from Left to Right,Sunny
+27-07-2013,Minnesota Twins,Seattle Mariners,65,3,in from Leftfield,Sunny
+28-07-2013,Minnesota Twins,Seattle Mariners,63,3,in from Centerfield,Cloudy
+05-08-2013,Toronto Blue Jays,Seattle Mariners,79,3,out to Rightfield,Sunny
+06-08-2013,Toronto Blue Jays,Seattle Mariners,76,4,out to Rightfield,Sunny
+07-08-2013,Toronto Blue Jays,Seattle Mariners,69,3,out to Rightfield,Sunny
+09-08-2013,Milwaukee Brewers,Seattle Mariners,75,2,out to Rightfield,Sunny
+10-08-2013,Milwaukee Brewers,Seattle Mariners,70,0,NoWind,InDome
+11-08-2013,Milwaukee Brewers,Seattle Mariners,65,2,out to Rightfield,Sunny
+23-08-2013,Los Angeles Angels of Anaheim,Seattle Mariners,72,2,out to Leftfield,Cloudy
+24-08-2013,Los Angeles Angels of Anaheim,Seattle Mariners,72,2,out to Centerfield.,Wind2mphouttoCenterfield
+25-08-2013,Los Angeles Angels of Anaheim,Seattle Mariners,67,2,from Left to Right,Overcast
+26-08-2013,Texas Rangers,Seattle Mariners,69,0,NoWind,InDome
+27-08-2013,Texas Rangers,Seattle Mariners,73,0,NoWind,InDome
+28-08-2013,Texas Rangers,Seattle Mariners,72,3,out to Rightfield,Sunny
+06-09-2013,Tampa Bay Rays,Seattle Mariners,69,1,in unknown direction,Cloudy
+07-09-2013,Tampa Bay Rays,Seattle Mariners,72,0,NoWind,Sunny
+08-09-2013,Tampa Bay Rays,Seattle Mariners,66,3,out to Rightfield,Sunny
+09-09-2013,Houston Astros,Seattle Mariners,73,4,in from Rightfield,Sunny
+10-09-2013,Houston Astros,Seattle Mariners,73,2,out to Rightfield,Sunny
+11-09-2013,Houston Astros,Seattle Mariners,80,0,NoWind,Sunny
+23-09-2013,Kansas City Royals,Seattle Mariners,60,0,NoWind,InDome
+24-09-2013,Kansas City Royals,Seattle Mariners,58,1,from Right to Left.,Wind1mphfromRighttoLeft
+25-09-2013,Kansas City Royals,Seattle Mariners,59,2,from Right to Left,Cloudy
+27-09-2013,Oakland Athletics,Seattle Mariners,59,0,NoWind,InDome
+28-09-2013,Oakland Athletics,Seattle Mariners,60,0,NoWind,InDome
+29-09-2013,Oakland Athletics,Seattle Mariners,56,0,NoWind,InDome
+05-04-2013,St. Louis Cardinals,San Francisco Giants,64,11,out to Centerfield.,Wind11mphouttoCenterfield
+06-04-2013,St. Louis Cardinals,San Francisco Giants,59,9,out to Centerfield,Overcast
+07-04-2013,St. Louis Cardinals,San Francisco Giants,59,8,in from Rightfield.,Wind8mphinfromRightfield
+08-04-2013,Colorado Rockies,San Francisco Giants,58,25,in from Rightfield,Sunny
+09-04-2013,Colorado Rockies,San Francisco Giants,64,11,out to Rightfield,Sunny
+10-04-2013,Colorado Rockies,San Francisco Giants,78,3,from Left to Right,Sunny
+19-04-2013,San Diego Padres,San Francisco Giants,62,3,in unknown direction,Sunny
+20-04-2013,San Diego Padres,San Francisco Giants,62,11,out to Centerfield,Sunny
+21-04-2013,San Diego Padres,San Francisco Giants,69,5,out to Rightfield,Sunny
+22-04-2013,Arizona Diamondbacks,San Francisco Giants,65,8,out to Rightfield,Sunny
+23-04-2013,Arizona Diamondbacks,San Francisco Giants,63,8,out to Centerfield,Sunny
+24-04-2013,Arizona Diamondbacks,San Francisco Giants,62,8,in from Centerfield,Sunny
+03-05-2013,Los Angeles Dodgers,San Francisco Giants,64,8,out to Centerfield,Sunny
+04-05-2013,Los Angeles Dodgers,San Francisco Giants,62,12,out to Centerfield,Sunny
+05-05-2013,Los Angeles Dodgers,San Francisco Giants,63,2,from Left to Right.,Wind2mphfromLefttoRight
+06-05-2013,Philadelphia Phillies,San Francisco Giants,62,7,out to Centerfield.,Wind7mphouttoCenterfield
+07-05-2013,Philadelphia Phillies,San Francisco Giants,61,13,out to Centerfield,Cloudy
+08-05-2013,Philadelphia Phillies,San Francisco Giants,62,12,out to Centerfield,Overcast
+09-05-2013,Atlanta Braves,San Francisco Giants,57,14,out to Centerfield,Cloudy
+10-05-2013,Atlanta Braves,San Francisco Giants,56,13,out to Centerfield,Cloudy
+11-05-2013,Atlanta Braves,San Francisco Giants,66,7,out to Centerfield,Cloudy
+12-05-2013,Atlanta Braves,San Francisco Giants,70,12,out to Centerfield,Cloudy
+20-05-2013,Washington Nationals,San Francisco Giants,63,13,out to Rightfield,Cloudy
+21-05-2013,Washington Nationals,San Francisco Giants,57,22,out to Centerfield,Sunny
+22-05-2013,Washington Nationals,San Francisco Giants,61,15,out to Centerfield,Sunny
+24-05-2013,Colorado Rockies,San Francisco Giants,59,24,out to Centerfield,Sunny
+25-05-2013,Colorado Rockies,San Francisco Giants,63,15,out to Centerfield,Sunny
+26-05-2013,Colorado Rockies,San Francisco Giants,59,15,out to Centerfield.,Wind15mphouttoCenterfield
+29-05-2013,Oakland Athletics,San Francisco Giants,64,14,out to Rightfield,Sunny
+30-05-2013,Oakland Athletics,San Francisco Giants,61,12,from Right to Left,Sunny
+04-06-2013,Toronto Blue Jays,San Francisco Giants,61,10,out to Centerfield,Cloudy
+05-06-2013,Toronto Blue Jays,San Francisco Giants,62,11,out to Centerfield,Cloudy
+17-06-2013,San Diego Padres,San Francisco Giants,60,14,out to Rightfield,Cloudy
+18-06-2013,San Diego Padres,San Francisco Giants,54,21,out to Centerfield,Cloudy
+19-06-2013,San Diego Padres,San Francisco Giants,63,11,out to Centerfield,Sunny
+20-06-2013,Miami Marlins,San Francisco Giants,60,22,out to Rightfield,Cloudy
+21-06-2013,Miami Marlins,San Francisco Giants,63,11,out to Centerfield,Sunny
+22-06-2013,Miami Marlins,San Francisco Giants,69,9,out to Centerfield,Sunny
+23-06-2013,Miami Marlins,San Francisco Giants,59,11,out to Rightfield,Overcast
+05-07-2013,Los Angeles Dodgers,San Francisco Giants,61,17,out to Centerfield,Cloudy
+06-07-2013,Los Angeles Dodgers,San Francisco Giants,66,13,out to Centerfield,Sunny
+07-07-2013,Los Angeles Dodgers,San Francisco Giants,67,7,out to Centerfield,Sunny
+08-07-2013,New York Mets,San Francisco Giants,60,9,out to Centerfield,Sunny
+09-07-2013,New York Mets,San Francisco Giants,62,12,out to Rightfield,Cloudy
+10-07-2013,New York Mets,San Francisco Giants,61,11,out to Centerfield,Cloudy
+19-07-2013,Arizona Diamondbacks,San Francisco Giants,57,12,out to Rightfield,Sunny
+20-07-2013,Arizona Diamondbacks,San Francisco Giants,63,10,out to Centerfield,Sunny
+21-07-2013,Arizona Diamondbacks,San Francisco Giants,62,9,out to Centerfield,Cloudy
+22-07-2013,Cincinnati Reds,San Francisco Giants,61,9,out to Centerfield.,Wind9mphouttoCenterfield
+24-07-2013,Cincinnati Reds,San Francisco Giants,62,12,out to Centerfield,Cloudy
+26-07-2013,Chicago Cubs,San Francisco Giants,58,13,out to Rightfield,Overcast
+27-07-2013,Chicago Cubs,San Francisco Giants,59,12,out to Centerfield,Cloudy
+28-07-2013,Chicago Cubs,San Francisco Giants,62,15,from Right to Left.,Wind15mphfromRighttoLeft
+05-08-2013,Milwaukee Brewers,San Francisco Giants,59,9,out to Centerfield,Cloudy
+06-08-2013,Milwaukee Brewers,San Francisco Giants,57,11,out to Centerfield,Cloudy
+07-08-2013,Milwaukee Brewers,San Francisco Giants,65,3,out to Rightfield.,Wind3mphouttoRightfield
+08-08-2013,Milwaukee Brewers,San Francisco Giants,59,11,out to Centerfield,Cloudy
+09-08-2013,Baltimore Orioles,San Francisco Giants,62,15,out to Centerfield.,Wind15mphouttoCenterfield
+10-08-2013,Baltimore Orioles,San Francisco Giants,64,10,out to Centerfield,Cloudy
+11-08-2013,Baltimore Orioles,San Francisco Giants,63,8,out to Centerfield.,Wind8mphouttoCenterfield
+19-08-2013,Boston Red Sox,San Francisco Giants,64,18,out to Rightfield,Cloudy
+20-08-2013,Boston Red Sox,San Francisco Giants,64,8,out to Rightfield,Sunny
+21-08-2013,Boston Red Sox,San Francisco Giants,68,13,out to Centerfield,Overcast
+22-08-2013,Pittsburgh Pirates,San Francisco Giants,65,15,out to Centerfield,Cloudy
+23-08-2013,Pittsburgh Pirates,San Francisco Giants,59,14,out to Rightfield,Cloudy
+24-08-2013,Pittsburgh Pirates,San Francisco Giants,66,15,out to Centerfield,Cloudy
+25-08-2013,Pittsburgh Pirates,San Francisco Giants,71,9,out to Centerfield.,Wind9mphouttoCenterfield
+05-09-2013,Arizona Diamondbacks,San Francisco Giants,67,13,out to Centerfield,Sunny
+06-09-2013,Arizona Diamondbacks,San Francisco Giants,72,12,out to Rightfield,Sunny
+07-09-2013,Arizona Diamondbacks,San Francisco Giants,74,8,out to Centerfield,Sunny
+08-09-2013,Arizona Diamondbacks,San Francisco Giants,72,5,out to Rightfield,Sunny
+09-09-2013,Colorado Rockies,San Francisco Giants,66,9,out to Centerfield,Sunny
+10-09-2013,Colorado Rockies,San Francisco Giants,65,15,out to Rightfield,Cloudy
+11-09-2013,Colorado Rockies,San Francisco Giants,68,7,in from Centerfield,Overcast
+24-09-2013,Los Angeles Dodgers,San Francisco Giants,61,25,out to Centerfield,Cloudy
+25-09-2013,Los Angeles Dodgers,San Francisco Giants,58,27,out to Rightfield,Sunny
+26-09-2013,Los Angeles Dodgers,San Francisco Giants,65,11,out to Centerfield,Sunny
+27-09-2013,San Diego Padres,San Francisco Giants,68,0,NoWind,Sunny
+28-09-2013,San Diego Padres,San Francisco Giants,67,3,out to Centerfield,Cloudy
+29-09-2013,San Diego Padres,San Francisco Giants,67,9,out to Rightfield.,Wind9mphouttoRightfield
+08-04-2013,Cincinnati Reds,St. Louis Cardinals,78,10,from Right to Left.,Wind10mphfromRighttoLeft
+09-04-2013,Cincinnati Reds,St. Louis Cardinals,77,6,from Right to Left,Cloudy
+10-04-2013,Cincinnati Reds,St. Louis Cardinals,76,15,out to Leftfield.,Wind15mphouttoLeftfield
+12-04-2013,Milwaukee Brewers,St. Louis Cardinals,45,13,in unknown direction.,Wind13mphinunknowndirection
+13-04-2013,Milwaukee Brewers,St. Louis Cardinals,59,10,from Left to Right,Cloudy
+14-04-2013,Milwaukee Brewers,St. Louis Cardinals,76,20,from Right to Left,Sunny
+26-04-2013,Pittsburgh Pirates,St. Louis Cardinals,56,8,out to Centerfield.,Wind8mphouttoCenterfield
+27-04-2013,Pittsburgh Pirates,St. Louis Cardinals,53,5,in from Rightfield,Overcast
+28-04-2013,Pittsburgh Pirates,St. Louis Cardinals,57,8,from Left to Right.,Wind8mphfromLefttoRight
+29-04-2013,Cincinnati Reds,St. Louis Cardinals,75,19,out to Leftfield,Sunny
+30-04-2013,Cincinnati Reds,St. Louis Cardinals,79,15,from Right to Left,Sunny
+01-05-2013,Cincinnati Reds,St. Louis Cardinals,81,2,from Right to Left,Sunny
+10-05-2013,Colorado Rockies,St. Louis Cardinals,61,14,from Right to Left.,Wind14mphfromRighttoLeft
+11-05-2013,Colorado Rockies,St. Louis Cardinals,70,10,out to Rightfield,Cloudy
+12-05-2013,Colorado Rockies,St. Louis Cardinals,60,15,from Left to Right,Sunny
+13-05-2013,New York Mets,St. Louis Cardinals,74,5,from Right to Left,Sunny
+14-05-2013,New York Mets,St. Louis Cardinals,93,12,out to Rightfield,Sunny
+15-05-2013,New York Mets,St. Louis Cardinals,87,11,out to Centerfield,Cloudy
+16-05-2013,New York Mets,St. Louis Cardinals,74,8,out to Leftfield.,Wind8mphouttoLeftfield
+17-05-2013,Milwaukee Brewers,St. Louis Cardinals,76,12,in from Rightfield.,Wind12mphinfromRightfield
+18-05-2013,Milwaukee Brewers,St. Louis Cardinals,84,7,from Right to Left,Cloudy
+19-05-2013,Milwaukee Brewers,St. Louis Cardinals,88,4,out to Centerfield,Cloudy
+29-05-2013,Kansas City Royals,St. Louis Cardinals,84,14,from Right to Left,Cloudy
+30-05-2013,Kansas City Royals,St. Louis Cardinals,70,15,from Right to Left.,Wind15mphfromRighttoLeft
+02-06-2013,San Francisco Giants,St. Louis Cardinals,67,8,out to Rightfield.,Wind8mphouttoRightfield
+03-06-2013,Arizona Diamondbacks,St. Louis Cardinals,73,7,from Right to Left,Sunny
+04-06-2013,Arizona Diamondbacks,St. Louis Cardinals,73,5,in from Rightfield.,Wind5mphinfromRightfield
+05-06-2013,Arizona Diamondbacks,St. Louis Cardinals,70,14,in unknown direction.,Wind14mphinunknowndirection
+06-06-2013,Arizona Diamondbacks,St. Louis Cardinals,78,12,out to Rightfield,Cloudy
+17-06-2013,Chicago Cubs,St. Louis Cardinals,69,9,from Right to Left,Rain
+18-06-2013,Chicago Cubs,St. Louis Cardinals,84,10,out to Rightfield,Cloudy
+19-06-2013,Chicago Cubs,St. Louis Cardinals,83,4,from Right to Left,Cloudy
+20-06-2013,Chicago Cubs,St. Louis Cardinals,88,9,in unknown direction,Cloudy
+21-06-2013,Texas Rangers,St. Louis Cardinals,88,7,from Right to Left,Cloudy
+22-06-2013,Texas Rangers,St. Louis Cardinals,70,4,out to Leftfield.,Wind4mphouttoLeftfield
+23-06-2013,Texas Rangers,St. Louis Cardinals,69,12,out to Rightfield,Drizzle
+05-07-2013,Miami Marlins,St. Louis Cardinals,82,6,from Right to Left,Sunny
+06-07-2013,Miami Marlins,St. Louis Cardinals,82,6,from Right to Left,Cloudy
+07-07-2013,Miami Marlins,St. Louis Cardinals,87,5,out to Leftfield,Cloudy
+09-07-2013,Houston Astros,St. Louis Cardinals,92,8,out to Leftfield,Cloudy
+10-07-2013,Houston Astros,St. Louis Cardinals,87,9,out to Rightfield,Cloudy
+19-07-2013,San Diego Padres,St. Louis Cardinals,93,9,out to Centerfield,Cloudy
+20-07-2013,San Diego Padres,St. Louis Cardinals,92,11,from Right to Left.,Wind11mphfromRighttoLeft
+21-07-2013,San Diego Padres,St. Louis Cardinals,79,6,from Right to Left.,Wind6mphfromRighttoLeft
+23-07-2013,Philadelphia Phillies,St. Louis Cardinals,90,10,from Left to Right,Cloudy
+24-07-2013,Philadelphia Phillies,St. Louis Cardinals,78,11,in from Centerfield,Sunny
+25-07-2013,Philadelphia Phillies,St. Louis Cardinals,81,8,in from Centerfield,Cloudy
+05-08-2013,Los Angeles Dodgers,St. Louis Cardinals,73,8,from Right to Left.,Wind8mphfromRighttoLeft
+06-08-2013,Los Angeles Dodgers,St. Louis Cardinals,86,7,from Right to Left,Sunny
+07-08-2013,Los Angeles Dodgers,St. Louis Cardinals,88,6,from Right to Left,Cloudy
+08-08-2013,Los Angeles Dodgers,St. Louis Cardinals,79,7,from Left to Right,Overcast
+09-08-2013,Chicago Cubs,St. Louis Cardinals,78,2,in from Rightfield.,Wind2mphinfromRightfield
+10-08-2013,Chicago Cubs,St. Louis Cardinals,87,11,from Left to Right,Sunny
+11-08-2013,Chicago Cubs,St. Louis Cardinals,82,6,in from Rightfield,Sunny
+13-08-2013,Pittsburgh Pirates,St. Louis Cardinals,77,8,from Left to Right,Cloudy
+14-08-2013,Pittsburgh Pirates,St. Louis Cardinals,70,7,in from Rightfield,Cloudy
+15-08-2013,Pittsburgh Pirates,St. Louis Cardinals,74,2,from Right to Left,Cloudy
+22-08-2013,Atlanta Braves,St. Louis Cardinals,89,6,in from Rightfield.,Wind6mphinfromRightfield
+23-08-2013,Atlanta Braves,St. Louis Cardinals,91,8,in from Rightfield,Sunny
+24-08-2013,Atlanta Braves,St. Louis Cardinals,92,8,in from Rightfield,Sunny
+25-08-2013,Atlanta Braves,St. Louis Cardinals,88,5,out to Centerfield,Sunny
+26-08-2013,Cincinnati Reds,St. Louis Cardinals,93,4,out to Leftfield,Cloudy
+27-08-2013,Cincinnati Reds,St. Louis Cardinals,91,8,out to Centerfield,Cloudy
+28-08-2013,Cincinnati Reds,St. Louis Cardinals,96,6,out to Rightfield,Sunny
+06-09-2013,Pittsburgh Pirates,St. Louis Cardinals,85,8,out to Leftfield,Sunny
+07-09-2013,Pittsburgh Pirates,St. Louis Cardinals,95,9,from Right to Left,Cloudy
+08-09-2013,Pittsburgh Pirates,St. Louis Cardinals,73,4,from Right to Left,Overcast
+10-09-2013,Milwaukee Brewers,St. Louis Cardinals,94,7,out to Leftfield,Cloudy
+11-09-2013,Milwaukee Brewers,St. Louis Cardinals,91,5,from Right to Left,Sunny
+12-09-2013,Milwaukee Brewers,St. Louis Cardinals,81,14,out to Rightfield,Sunny
+13-09-2013,Seattle Mariners,St. Louis Cardinals,70,9,out to Rightfield,Sunny
+14-09-2013,Seattle Mariners,St. Louis Cardinals,73,3,from Right to Left,Sunny
+15-09-2013,Seattle Mariners,St. Louis Cardinals,77,8,out to Centerfield,Cloudy
+23-09-2013,Washington Nationals,St. Louis Cardinals,73,8,from Right to Left,Sunny
+24-09-2013,Washington Nationals,St. Louis Cardinals,77,8,from Right to Left,Cloudy
+25-09-2013,Washington Nationals,St. Louis Cardinals,77,4,in unknown direction,Cloudy
+27-09-2013,Chicago Cubs,St. Louis Cardinals,82,10,from Right to Left,Sunny
+28-09-2013,Chicago Cubs,St. Louis Cardinals,82,15,from Right to Left,Cloudy
+29-09-2013,Chicago Cubs,St. Louis Cardinals,70,8,in from Centerfield,Sunny
+02-04-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+03-04-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+04-04-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+05-04-2013,Cleveland Indians,Tampa Bay Rays,72,0,NoWind,InDome
+06-04-2013,Cleveland Indians,Tampa Bay Rays,72,0,NoWind,InDome
+07-04-2013,Cleveland Indians,Tampa Bay Rays,72,0,NoWind,InDome
+19-04-2013,Oakland Athletics,Tampa Bay Rays,72,0,NoWind,InDome
+20-04-2013,Oakland Athletics,Tampa Bay Rays,72,0,NoWind,InDome
+21-04-2013,Oakland Athletics,Tampa Bay Rays,72,0,NoWind,InDome
+22-04-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+23-04-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+24-04-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+06-05-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+07-05-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+08-05-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+09-05-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+10-05-2013,San Diego Padres,Tampa Bay Rays,72,0,NoWind,InDome
+11-05-2013,San Diego Padres,Tampa Bay Rays,72,0,NoWind,InDome
+12-05-2013,San Diego Padres,Tampa Bay Rays,72,0,NoWind,InDome
+14-05-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+15-05-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+16-05-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+24-05-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+25-05-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+26-05-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+27-05-2013,Miami Marlins,Tampa Bay Rays,72,0,NoWind,InDome
+28-05-2013,Miami Marlins,Tampa Bay Rays,72,0,NoWind,InDome
+07-06-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+08-06-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+09-06-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+10-06-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+11-06-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+12-06-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+13-06-2013,Kansas City Royals,Tampa Bay Rays,72,0,NoWind,InDome
+14-06-2013,Kansas City Royals,Tampa Bay Rays,72,0,NoWind,InDome
+15-06-2013,Kansas City Royals,Tampa Bay Rays,72,0,NoWind,InDome
+16-06-2013,Kansas City Royals,Tampa Bay Rays,72,0,NoWind,InDome
+24-06-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+25-06-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+26-06-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+28-06-2013,Detroit Tigers,Tampa Bay Rays,72,0,NoWind,InDome
+29-06-2013,Detroit Tigers,Tampa Bay Rays,72,0,NoWind,InDome
+30-06-2013,Detroit Tigers,Tampa Bay Rays,72,0,NoWind,InDome
+05-07-2013,Chicago White Sox,Tampa Bay Rays,72,0,NoWind,InDome
+06-07-2013,Chicago White Sox,Tampa Bay Rays,72,0,NoWind,InDome
+07-07-2013,Chicago White Sox,Tampa Bay Rays,72,0,NoWind,InDome
+08-07-2013,Minnesota Twins,Tampa Bay Rays,72,0,NoWind,InDome
+09-07-2013,Minnesota Twins,Tampa Bay Rays,72,0,NoWind,InDome
+10-07-2013,Minnesota Twins,Tampa Bay Rays,72,0,NoWind,InDome
+11-07-2013,Minnesota Twins,Tampa Bay Rays,72,0,NoWind,InDome
+12-07-2013,Houston Astros,Tampa Bay Rays,72,0,NoWind,InDome
+13-07-2013,Houston Astros,Tampa Bay Rays,72,0,NoWind,InDome
+14-07-2013,Houston Astros,Tampa Bay Rays,72,0,NoWind,InDome
+30-07-2013,Arizona Diamondbacks,Tampa Bay Rays,72,0,NoWind,InDome
+31-07-2013,Arizona Diamondbacks,Tampa Bay Rays,72,0,NoWind,InDome
+02-08-2013,San Francisco Giants,Tampa Bay Rays,72,0,NoWind,InDome
+03-08-2013,San Francisco Giants,Tampa Bay Rays,72,0,NoWind,InDome
+04-08-2013,San Francisco Giants,Tampa Bay Rays,72,0,NoWind,InDome
+13-08-2013,Seattle Mariners,Tampa Bay Rays,72,0,NoWind,InDome
+14-08-2013,Seattle Mariners,Tampa Bay Rays,72,0,NoWind,InDome
+15-08-2013,Seattle Mariners,Tampa Bay Rays,72,0,NoWind,InDome
+16-08-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+17-08-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+18-08-2013,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
+23-08-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+24-08-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+25-08-2013,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
+27-08-2013,Los Angeles Angels of Anaheim,Tampa Bay Rays,72,0,NoWind,InDome
+28-08-2013,Los Angeles Angels of Anaheim,Tampa Bay Rays,72,0,NoWind,InDome
+29-08-2013,Los Angeles Angels of Anaheim,Tampa Bay Rays,72,0,NoWind,InDome
+10-09-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+11-09-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+12-09-2013,Boston Red Sox,Tampa Bay Rays,72,0,NoWind,InDome
+16-09-2013,Texas Rangers,Tampa Bay Rays,72,0,NoWind,InDome
+17-09-2013,Texas Rangers,Tampa Bay Rays,72,0,NoWind,InDome
+18-09-2013,Texas Rangers,Tampa Bay Rays,72,0,NoWind,InDome
+19-09-2013,Texas Rangers,Tampa Bay Rays,72,0,NoWind,InDome
+20-09-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+21-09-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+22-09-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+23-09-2013,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
+05-04-2013,Los Angeles Angels of Anaheim,Texas Rangers,64,0,NoWind,Sunny
+06-04-2013,Los Angeles Angels of Anaheim,Texas Rangers,72,17,in from Rightfield,Sunny
+07-04-2013,Los Angeles Angels of Anaheim,Texas Rangers,73,17,in from Rightfield.,Wind17mphinfromRightfield
+08-04-2013,Tampa Bay Rays,Texas Rangers,73,21,from Right to Left.,Wind21mphfromRighttoLeft
+09-04-2013,Tampa Bay Rays,Texas Rangers,79,11,in from Rightfield.,Wind11mphinfromRightfield
+10-04-2013,Tampa Bay Rays,Texas Rangers,39,13,in unknown direction.,Wind13mphinunknowndirection
+19-04-2013,Seattle Mariners,Texas Rangers,62,3,in unknown direction,Sunny
+20-04-2013,Seattle Mariners,Texas Rangers,68,16,in from Centerfield,Sunny
+21-04-2013,Seattle Mariners,Texas Rangers,69,8,in from Rightfield.,Wind8mphinfromRightfield
+30-04-2013,Chicago White Sox,Texas Rangers,82,8,in from Centerfield,Cloudy
+01-05-2013,Chicago White Sox,Texas Rangers,81,6,in from Centerfield,Sunny
+02-05-2013,Chicago White Sox,Texas Rangers,44,12,in unknown direction,Overcast
+03-05-2013,Boston Red Sox,Texas Rangers,66,9,out to Centerfield,Cloudy
+04-05-2013,Boston Red Sox,Texas Rangers,73,10,from Right to Left,Sunny
+05-05-2013,Boston Red Sox,Texas Rangers,63,8,out to Centerfield,Sunny
+16-05-2013,Detroit Tigers,Texas Rangers,80,10,from Right to Left,Cloudy
+17-05-2013,Detroit Tigers,Texas Rangers,87,8,in from Rightfield,Cloudy
+18-05-2013,Detroit Tigers,Texas Rangers,88,16,from Right to Left,Cloudy
+19-05-2013,Detroit Tigers,Texas Rangers,88,19,from Right to Left.,Wind19mphfromRighttoLeft
+20-05-2013,Oakland Athletics,Texas Rangers,87,14,in from Rightfield.,Wind14mphinfromRightfield
+21-05-2013,Oakland Athletics,Texas Rangers,64,4,out to Rightfield.,Wind4mphouttoRightfield
+22-05-2013,Oakland Athletics,Texas Rangers,81,2,in from Leftfield,Sunny
+30-05-2013,Arizona Diamondbacks,Texas Rangers,82,12,from Right to Left.,Wind12mphfromRighttoLeft
+31-05-2013,Kansas City Royals,Texas Rangers,89,13,from Right to Left,Sunny
+01-06-2013,Kansas City Royals,Texas Rangers,83,14,in unknown direction,Cloudy
+02-06-2013,Kansas City Royals,Texas Rangers,80,8,out to Centerfield,Sunny
+10-06-2013,Cleveland Indians,Texas Rangers,96,8,in from Rightfield,Sunny
+11-06-2013,Cleveland Indians,Texas Rangers,91,14,in from Rightfield,Cloudy
+12-06-2013,Cleveland Indians,Texas Rangers,93,11,in from Rightfield,Sunny
+13-06-2013,Toronto Blue Jays,Texas Rangers,97,5,in from Rightfield,Sunny
+14-06-2013,Toronto Blue Jays,Texas Rangers,93,7,in unknown direction,Cloudy
+15-06-2013,Toronto Blue Jays,Texas Rangers,88,6,in unknown direction.,Wind6mphinunknowndirection
+16-06-2013,Toronto Blue Jays,Texas Rangers,93,7,from Right to Left,Sunny
+17-06-2013,Oakland Athletics,Texas Rangers,91,5,out to Rightfield.,Wind5mphouttoRightfield
+18-06-2013,Oakland Athletics,Texas Rangers,84,6,in from Leftfield,Sunny
+19-06-2013,Oakland Athletics,Texas Rangers,84,5,in from Centerfield.,Wind5mphinfromCenterfield
+20-06-2013,Oakland Athletics,Texas Rangers,90,13,in from Rightfield,Sunny
+28-06-2013,Cincinnati Reds,Texas Rangers,100,11,from Left to Right,Sunny
+29-06-2013,Cincinnati Reds,Texas Rangers,97,17,out to Rightfield,Sunny
+30-06-2013,Cincinnati Reds,Texas Rangers,90,10,from Left to Right,Sunny
+02-07-2013,Seattle Mariners,Texas Rangers,85,10,out to Rightfield,Sunny
+03-07-2013,Seattle Mariners,Texas Rangers,89,1,in from Leftfield,Sunny
+04-07-2013,Seattle Mariners,Texas Rangers,93,10,out to Rightfield,Sunny
+05-07-2013,Houston Astros,Texas Rangers,94,10,in from Leftfield,Cloudy
+06-07-2013,Houston Astros,Texas Rangers,93,10,in from Rightfield,Sunny
+07-07-2013,Houston Astros,Texas Rangers,93,8,in from Leftfield,Sunny
+19-07-2013,Baltimore Orioles,Texas Rangers,87,7,in from Centerfield,Cloudy
+20-07-2013,Baltimore Orioles,Texas Rangers,84,1,in from Centerfield,Cloudy
+21-07-2013,Baltimore Orioles,Texas Rangers,93,6,in from Rightfield,Cloudy
+22-07-2013,New York Yankees,Texas Rangers,99,12,in from Rightfield,Sunny
+23-07-2013,New York Yankees,Texas Rangers,96,12,in from Rightfield,Sunny
+24-07-2013,New York Yankees,Texas Rangers,96,5,from Left to Right,Cloudy
+25-07-2013,New York Yankees,Texas Rangers,91,3,in from Rightfield,Cloudy
+29-07-2013,Los Angeles Angels of Anaheim,Texas Rangers,96,10,in from Rightfield,Cloudy
+30-07-2013,Los Angeles Angels of Anaheim,Texas Rangers,97,5,from Right to Left,Sunny
+31-07-2013,Los Angeles Angels of Anaheim,Texas Rangers,100,3,in from Rightfield,Cloudy
+01-08-2013,Arizona Diamondbacks,Texas Rangers,101,5,out to Centerfield,Sunny
+13-08-2013,Milwaukee Brewers,Texas Rangers,80,8,out to Rightfield.,Wind8mphouttoRightfield
+14-08-2013,Milwaukee Brewers,Texas Rangers,80,6,in from Leftfield.,Wind6mphinfromLeftfield
+16-08-2013,Seattle Mariners,Texas Rangers,87,8,out to Rightfield,Sunny
+17-08-2013,Seattle Mariners,Texas Rangers,89,8,from Left to Right,Sunny
+18-08-2013,Seattle Mariners,Texas Rangers,88,5,in unknown direction,Sunny
+19-08-2013,Houston Astros,Texas Rangers,92,8,out to Rightfield,Sunny
+20-08-2013,Houston Astros,Texas Rangers,94,10,from Left to Right,Sunny
+21-08-2013,Houston Astros,Texas Rangers,92,6,in from Rightfield,Cloudy
+30-08-2013,Minnesota Twins,Texas Rangers,100,3,in unknown direction,Sunny
+31-08-2013,Minnesota Twins,Texas Rangers,100,2,from Right to Left,Sunny
+01-09-2013,Minnesota Twins,Texas Rangers,99,2,in from Centerfield,Sunny
+09-09-2013,Pittsburgh Pirates,Texas Rangers,92,11,in from Centerfield,Cloudy
+10-09-2013,Pittsburgh Pirates,Texas Rangers,89,8,in from Leftfield,Cloudy
+11-09-2013,Pittsburgh Pirates,Texas Rangers,87,3,in from Rightfield,Sunny
+13-09-2013,Oakland Athletics,Texas Rangers,92,5,in from Leftfield,Sunny
+14-09-2013,Oakland Athletics,Texas Rangers,83,9,out to Rightfield,Sunny
+15-09-2013,Oakland Athletics,Texas Rangers,92,2,in from Rightfield,Cloudy
+23-09-2013,Houston Astros,Texas Rangers,83,9,in from Rightfield,Sunny
+24-09-2013,Houston Astros,Texas Rangers,89,2,out to Rightfield,Sunny
+25-09-2013,Houston Astros,Texas Rangers,89,7,in from Rightfield,Sunny
+26-09-2013,Los Angeles Angels of Anaheim,Texas Rangers,89,12,in from Rightfield,Sunny
+27-09-2013,Los Angeles Angels of Anaheim,Texas Rangers,86,18,in from Rightfield,Cloudy
+28-09-2013,Los Angeles Angels of Anaheim,Texas Rangers,79,15,in from Rightfield,Overcast
+29-09-2013,Los Angeles Angels of Anaheim,Texas Rangers,78,16,out to Rightfield,Sunny
+30-09-2013,Tampa Bay Rays,Texas Rangers,82,8,in from Rightfield,Sunny
+02-04-2013,Cleveland Indians,Toronto Blue Jays,68,0,NoWind,InDome
+03-04-2013,Cleveland Indians,Toronto Blue Jays,68,0,NoWind,InDome
+04-04-2013,Cleveland Indians,Toronto Blue Jays,68,0,NoWind,InDome
+05-04-2013,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
+06-04-2013,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
+07-04-2013,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
+15-04-2013,Chicago White Sox,Toronto Blue Jays,68,0,NoWind,InDome
+16-04-2013,Chicago White Sox,Toronto Blue Jays,68,0,NoWind,InDome
+17-04-2013,Chicago White Sox,Toronto Blue Jays,68,0,NoWind,InDome
+18-04-2013,Chicago White Sox,Toronto Blue Jays,68,0,NoWind,InDome
+19-04-2013,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
+20-04-2013,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
+21-04-2013,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
+30-04-2013,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
+01-05-2013,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
+02-05-2013,Boston Red Sox,Toronto Blue Jays,60,14,in from Rightfield,Sunny
+03-05-2013,Seattle Mariners,Toronto Blue Jays,68,0,NoWind,InDome
+04-05-2013,Seattle Mariners,Toronto Blue Jays,60,8,in from Rightfield,Sunny
+05-05-2013,Seattle Mariners,Toronto Blue Jays,64,9,out to Centerfield,Sunny
+14-05-2013,San Francisco Giants,Toronto Blue Jays,68,0,NoWind,InDome
+15-05-2013,San Francisco Giants,Toronto Blue Jays,72,22,from Left to Right,Cloudy
+20-05-2013,Tampa Bay Rays,Toronto Blue Jays,67,7,in from Rightfield,Sunny
+21-05-2013,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
+22-05-2013,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
+23-05-2013,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
+24-05-2013,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
+25-05-2013,Baltimore Orioles,Toronto Blue Jays,57,11,in from Centerfield,Sunny
+26-05-2013,Baltimore Orioles,Toronto Blue Jays,61,10,in from Leftfield,Sunny
+27-05-2013,Atlanta Braves,Toronto Blue Jays,66,8,out to Centerfield,Cloudy
+28-05-2013,Atlanta Braves,Toronto Blue Jays,68,0,NoWind,InDome
+07-06-2013,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
+08-06-2013,Texas Rangers,Toronto Blue Jays,60,11,out to Rightfield,Cloudy
+09-06-2013,Texas Rangers,Toronto Blue Jays,63,5,out to Centerfield,Sunny
+17-06-2013,Colorado Rockies,Toronto Blue Jays,72,6,from Right to Left,Cloudy
+18-06-2013,Colorado Rockies,Toronto Blue Jays,63,5,out to Rightfield,Sunny
+19-06-2013,Colorado Rockies,Toronto Blue Jays,63,6,out to Leftfield,Sunny
+21-06-2013,Baltimore Orioles,Toronto Blue Jays,68,11,from Right to Left,Cloudy
+22-06-2013,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
+23-06-2013,Baltimore Orioles,Toronto Blue Jays,75,6,out to Centerfield,Sunny
+01-07-2013,Detroit Tigers,Toronto Blue Jays,71,14,in from Rightfield.,Wind14mphinfromRightfield
+02-07-2013,Detroit Tigers,Toronto Blue Jays,69,7,out to Centerfield,Sunny
+03-07-2013,Detroit Tigers,Toronto Blue Jays,70,7,in from Rightfield,Overcast
+04-07-2013,Detroit Tigers,Toronto Blue Jays,76,10,out to Centerfield,Cloudy
+05-07-2013,Minnesota Twins,Toronto Blue Jays,68,0,NoWind,InDome
+06-07-2013,Minnesota Twins,Toronto Blue Jays,77,9,out to Centerfield,Cloudy
+07-07-2013,Minnesota Twins,Toronto Blue Jays,69,0,NoWind,InDome
+19-07-2013,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
+20-07-2013,Tampa Bay Rays,Toronto Blue Jays,75,11,out to Centerfield,Sunny
+21-07-2013,Tampa Bay Rays,Toronto Blue Jays,66,13,from Right to Left,Sunny
+22-07-2013,Los Angeles Dodgers,Toronto Blue Jays,69,11,in from Rightfield.,Wind11mphinfromRightfield
+23-07-2013,Los Angeles Dodgers,Toronto Blue Jays,73,16,in from Centerfield,Cloudy
+24-07-2013,Los Angeles Dodgers,Toronto Blue Jays,66,8,out to Centerfield,Sunny
+25-07-2013,Houston Astros,Toronto Blue Jays,70,7,from Right to Left,Cloudy
+26-07-2013,Houston Astros,Toronto Blue Jays,71,10,from Right to Left,Cloudy
+27-07-2013,Houston Astros,Toronto Blue Jays,69,0,NoWind,InDome
+28-07-2013,Houston Astros,Toronto Blue Jays,68,13,out to Centerfield,Sunny
+09-08-2013,Oakland Athletics,Toronto Blue Jays,73,8,out to Rightfield,Cloudy
+10-08-2013,Oakland Athletics,Toronto Blue Jays,68,14,from Left to Right,Cloudy
+11-08-2013,Oakland Athletics,Toronto Blue Jays,68,9,out to Leftfield,Sunny
+12-08-2013,Oakland Athletics,Toronto Blue Jays,68,4,out to Rightfield.,Wind4mphouttoRightfield
+13-08-2013,Boston Red Sox,Toronto Blue Jays,69,0,NoWind,InDome
+14-08-2013,Boston Red Sox,Toronto Blue Jays,72,12,from Left to Right,Sunny
+15-08-2013,Boston Red Sox,Toronto Blue Jays,68,11,from Left to Right,Cloudy
+26-08-2013,New York Yankees,Toronto Blue Jays,72,6,out to Centerfield,Cloudy
+27-08-2013,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
+28-08-2013,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
+30-08-2013,Kansas City Royals,Toronto Blue Jays,68,0,NoWind,InDome
+31-08-2013,Kansas City Royals,Toronto Blue Jays,68,0,NoWind,InDome
+01-09-2013,Kansas City Royals,Toronto Blue Jays,74,17,from Right to Left,Cloudy
+10-09-2013,Los Angeles Angels of Anaheim,Toronto Blue Jays,72,10,from Left to Right,Sunny
+11-09-2013,Los Angeles Angels of Anaheim,Toronto Blue Jays,68,0,NoWind,InDome
+12-09-2013,Los Angeles Angels of Anaheim,Toronto Blue Jays,70,9,in from Centerfield,Cloudy
+13-09-2013,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
+14-09-2013,Baltimore Orioles,Toronto Blue Jays,59,9,out to Centerfield,Sunny
+15-09-2013,Baltimore Orioles,Toronto Blue Jays,69,0,NoWind,InDome
+17-09-2013,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
+18-09-2013,New York Yankees,Toronto Blue Jays,61,9,in from Rightfield,Cloudy
+19-09-2013,New York Yankees,Toronto Blue Jays,68,6,out to Centerfield,Cloudy
+27-09-2013,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
+28-09-2013,Tampa Bay Rays,Toronto Blue Jays,64,12,in from Rightfield,Cloudy
+29-09-2013,Tampa Bay Rays,Toronto Blue Jays,66,5,from Right to Left,Sunny
+01-04-2013,Miami Marlins,Washington Nationals,61,15,out to Rightfield,Cloudy
+03-04-2013,Miami Marlins,Washington Nationals,45,17,in from Centerfield,Sunny
+04-04-2013,Miami Marlins,Washington Nationals,47,7,out to Rightfield.,Wind7mphouttoRightfield
+09-04-2013,Chicago White Sox,Washington Nationals,81,9,from Left to Right,Sunny
+10-04-2013,Chicago White Sox,Washington Nationals,82,12,out to Centerfield,Cloudy
+11-04-2013,Chicago White Sox,Washington Nationals,78,10,in from Centerfield.,Wind10mphinfromCenterfield
+12-04-2013,Atlanta Braves,Washington Nationals,64,11,in from Rightfield,Cloudy
+13-04-2013,Atlanta Braves,Washington Nationals,57,12,in from Centerfield,Cloudy
+14-04-2013,Atlanta Braves,Washington Nationals,61,4,in from Centerfield,Sunny
+22-04-2013,St. Louis Cardinals,Washington Nationals,51,9,from Right to Left.,Wind9mphfromRighttoLeft
+23-04-2013,St. Louis Cardinals,Washington Nationals,60,3,from Right to Left,Sunny
+24-04-2013,St. Louis Cardinals,Washington Nationals,69,7,from Left to Right,Sunny
+25-04-2013,Cincinnati Reds,Washington Nationals,63,1,in from Rightfield,Sunny
+26-04-2013,Cincinnati Reds,Washington Nationals,62,0,NoWind,Cloudy
+27-04-2013,Cincinnati Reds,Washington Nationals,65,3,in from Rightfield,Sunny
+28-04-2013,Cincinnati Reds,Washington Nationals,66,3,from Right to Left.,Wind3mphfromRighttoLeft
+08-05-2013,Detroit Tigers,Washington Nationals,59,5,out to Centerfield.,Wind5mphouttoCenterfield
+09-05-2013,Detroit Tigers,Washington Nationals,71,6,from Left to Right.,Wind6mphfromLefttoRight
+10-05-2013,Chicago Cubs,Washington Nationals,80,1,out to Rightfield,Cloudy
+11-05-2013,Chicago Cubs,Washington Nationals,76,10,out to Rightfield,Overcast
+12-05-2013,Chicago Cubs,Washington Nationals,63,19,from Left to Right,Cloudy
+24-05-2013,Philadelphia Phillies,Washington Nationals,53,11,in from Centerfield.,Wind11mphinfromCenterfield
+25-05-2013,Philadelphia Phillies,Washington Nationals,63,11,from Left to Right,Cloudy
+26-05-2013,Philadelphia Phillies,Washington Nationals,65,9,from Left to Right,Sunny
+27-05-2013,Baltimore Orioles,Washington Nationals,70,2,from Right to Left,Overcast
+28-05-2013,Baltimore Orioles,Washington Nationals,70,4,from Right to Left,Cloudy
+04-06-2013,New York Mets,Washington Nationals,72,2,out to Leftfield,Sunny
+05-06-2013,New York Mets,Washington Nationals,76,4,from Right to Left,Sunny
+08-06-2013,Minnesota Twins,Washington Nationals,82,3,from Left to Right,Sunny
+20-06-2013,Colorado Rockies,Washington Nationals,75,5,out to Leftfield,Cloudy
+21-06-2013,Colorado Rockies,Washington Nationals,80,3,out to Rightfield,Sunny
+22-06-2013,Colorado Rockies,Washington Nationals,80,4,out to Centerfield,Sunny
+23-06-2013,Colorado Rockies,Washington Nationals,79,2,in from Centerfield,Overcast
+25-06-2013,Arizona Diamondbacks,Washington Nationals,90,9,out to Rightfield,Cloudy
+26-06-2013,Arizona Diamondbacks,Washington Nationals,82,5,from Left to Right.,Wind5mphfromLefttoRight
+27-06-2013,Arizona Diamondbacks,Washington Nationals,74,5,out to Rightfield,Overcast
+01-07-2013,Milwaukee Brewers,Washington Nationals,80,3,out to Leftfield.,Wind3mphouttoLeftfield
+02-07-2013,Milwaukee Brewers,Washington Nationals,75,1,out to Leftfield,Drizzle
+03-07-2013,Milwaukee Brewers,Washington Nationals,84,1,in unknown direction,Cloudy
+04-07-2013,Milwaukee Brewers,Washington Nationals,80,2,in from Rightfield.,Wind2mphinfromRightfield
+05-07-2013,San Diego Padres,Washington Nationals,88,2,out to Centerfield,Cloudy
+06-07-2013,San Diego Padres,Washington Nationals,90,4,out to Leftfield,Cloudy
+07-07-2013,San Diego Padres,Washington Nationals,90,14,out to Leftfield.,Wind14mphouttoLeftfield
+19-07-2013,Los Angeles Dodgers,Washington Nationals,92,4,from Left to Right.,Wind4mphfromLefttoRight
+20-07-2013,Los Angeles Dodgers,Washington Nationals,92,12,from Left to Right,Cloudy
+21-07-2013,Los Angeles Dodgers,Washington Nationals,89,3,in from Centerfield,Cloudy
+22-07-2013,Pittsburgh Pirates,Washington Nationals,86,6,out to Centerfield.,Wind6mphouttoCenterfield
+23-07-2013,Pittsburgh Pirates,Washington Nationals,83,7,in from Rightfield,Sunny
+24-07-2013,Pittsburgh Pirates,Washington Nationals,81,10,in from Centerfield,Cloudy
+25-07-2013,Pittsburgh Pirates,Washington Nationals,73,2,in from Centerfield,Sunny
+27-07-2013,New York Mets,Washington Nationals,83,8,out to Rightfield.,Wind8mphouttoRightfield
+28-07-2013,New York Mets,Washington Nationals,81,2,out to Centerfield.,Wind2mphouttoCenterfield
+05-08-2013,Atlanta Braves,Washington Nationals,77,2,out to Leftfield,Cloudy
+06-08-2013,Atlanta Braves,Washington Nationals,72,1,out to Rightfield.,Wind1mphouttoRightfield
+07-08-2013,Atlanta Braves,Washington Nationals,81,1,out to Centerfield.,Wind1mphouttoCenterfield
+09-08-2013,Philadelphia Phillies,Washington Nationals,87,14,in from Leftfield,Cloudy
+10-08-2013,Philadelphia Phillies,Washington Nationals,82,8,from Left to Right,Cloudy
+11-08-2013,Philadelphia Phillies,Washington Nationals,83,9,from Left to Right,Cloudy
+13-08-2013,San Francisco Giants,Washington Nationals,84,3,in from Rightfield.,Wind3mphinfromRightfield
+14-08-2013,San Francisco Giants,Washington Nationals,72,8,from Left to Right,Cloudy
+15-08-2013,San Francisco Giants,Washington Nationals,76,6,out to Rightfield,Sunny
+27-08-2013,Miami Marlins,Washington Nationals,84,8,out to Leftfield,Cloudy
+28-08-2013,Miami Marlins,Washington Nationals,76,6,from Left to Right,Overcast
+29-08-2013,Miami Marlins,Washington Nationals,82,5,in from Rightfield,Cloudy
+30-08-2013,New York Mets,Washington Nationals,82,9,out to Centerfield,Sunny
+31-08-2013,New York Mets,Washington Nationals,84,7,in from Centerfield.,Wind7mphinfromCenterfield
+01-09-2013,New York Mets,Washington Nationals,85,4,in from Centerfield.,Wind4mphinfromCenterfield
+13-09-2013,Philadelphia Phillies,Washington Nationals,71,6,in from Centerfield.,Wind6mphinfromCenterfield
+14-09-2013,Philadelphia Phillies,Washington Nationals,66,12,in from Centerfield,Sunny
+15-09-2013,Philadelphia Phillies,Washington Nationals,72,4,from Right to Left.,Wind4mphfromRighttoLeft
+18-09-2013,Atlanta Braves,Washington Nationals,65,2,from Right to Left,Cloudy
+19-09-2013,Miami Marlins,Washington Nationals,73,3,out to Leftfield,Cloudy
+20-09-2013,Miami Marlins,Washington Nationals,73,4,out to Rightfield,Cloudy
