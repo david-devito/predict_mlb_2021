@@ -5,10 +5,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-04-2010,Minnesota Twins,Los Angeles Angels of Anaheim,74,5,out to Centerfield,Sunny
 09-04-2010,Oakland Athletics,Los Angeles Angels of Anaheim,61,7,out to Centerfield,Sunny
 10-04-2010,Oakland Athletics,Los Angeles Angels of Anaheim,62,6,out to Centerfield,Sunny
-11-04-2010,Oakland Athletics,Los Angeles Angels of Anaheim,62,7,out to Centerfield.,Wind7mphouttoCenterfield
+11-04-2010,Oakland Athletics,Los Angeles Angels of Anaheim,62,7,out to Centerfield.,
 19-04-2010,Detroit Tigers,Los Angeles Angels of Anaheim,66,5,out to Centerfield,Sunny
-20-04-2010,Detroit Tigers,Los Angeles Angels of Anaheim,58,5,out to Rightfield.,Wind5mphouttoRightfield
-21-04-2010,Detroit Tigers,Los Angeles Angels of Anaheim,54,11,out to Centerfield.,Wind11mphouttoCenterfield
+20-04-2010,Detroit Tigers,Los Angeles Angels of Anaheim,58,5,out to Rightfield.,
+21-04-2010,Detroit Tigers,Los Angeles Angels of Anaheim,54,11,out to Centerfield.,
 22-04-2010,Detroit Tigers,Los Angeles Angels of Anaheim,56,4,out to Centerfield,Cloudy
 23-04-2010,New York Yankees,Los Angeles Angels of Anaheim,62,10,out to Rightfield,Sunny
 24-04-2010,New York Yankees,Los Angeles Angels of Anaheim,68,6,out to Centerfield,Sunny
@@ -21,7 +21,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-05-2010,Tampa Bay Rays,Los Angeles Angels of Anaheim,70,10,out to Leftfield,Sunny
 14-05-2010,Oakland Athletics,Los Angeles Angels of Anaheim,64,10,out to Centerfield,Cloudy
 15-05-2010,Oakland Athletics,Los Angeles Angels of Anaheim,67,7,out to Centerfield,Sunny
-16-05-2010,Oakland Athletics,Los Angeles Angels of Anaheim,64,3,out to Centerfield.,Wind3mphouttoCenterfield
+16-05-2010,Oakland Athletics,Los Angeles Angels of Anaheim,64,3,out to Centerfield.,
 24-05-2010,Toronto Blue Jays,Los Angeles Angels of Anaheim,64,7,out to Rightfield,Sunny
 25-05-2010,Toronto Blue Jays,Los Angeles Angels of Anaheim,65,7,out to Centerfield,Cloudy
 26-05-2010,Toronto Blue Jays,Los Angeles Angels of Anaheim,68,11,out to Centerfield,Cloudy
@@ -43,7 +43,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-07-2010,Kansas City Royals,Los Angeles Angels of Anaheim,70,6,out to Centerfield,Sunny
 03-07-2010,Kansas City Royals,Los Angeles Angels of Anaheim,70,12,out to Centerfield,Sunny
 04-07-2010,Kansas City Royals,Los Angeles Angels of Anaheim,71,8,out to Centerfield,Sunny
-15-07-2010,Seattle Mariners,Los Angeles Angels of Anaheim,81,9,out to Rightfield.,Wind9mphouttoRightfield
+15-07-2010,Seattle Mariners,Los Angeles Angels of Anaheim,81,9,out to Rightfield.,
 16-07-2010,Seattle Mariners,Los Angeles Angels of Anaheim,86,3,out to Centerfield,Cloudy
 17-07-2010,Seattle Mariners,Los Angeles Angels of Anaheim,86,5,out to Centerfield,Sunny
 18-07-2010,Seattle Mariners,Los Angeles Angels of Anaheim,81,10,out to Centerfield,Sunny
@@ -67,33 +67,33 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-08-2010,Baltimore Orioles,Los Angeles Angels of Anaheim,75,9,out to Centerfield,Cloudy
 06-09-2010,Cleveland Indians,Los Angeles Angels of Anaheim,69,8,out to Centerfield,Sunny
 07-09-2010,Cleveland Indians,Los Angeles Angels of Anaheim,66,5,out to Rightfield,Cloudy
-08-09-2010,Cleveland Indians,Los Angeles Angels of Anaheim,71,8,out to Centerfield.,Wind8mphouttoCenterfield
+08-09-2010,Cleveland Indians,Los Angeles Angels of Anaheim,71,8,out to Centerfield.,
 10-09-2010,Seattle Mariners,Los Angeles Angels of Anaheim,70,6,out to Centerfield,Sunny
 11-09-2010,Seattle Mariners,Los Angeles Angels of Anaheim,72,5,out to Centerfield,Sunny
 12-09-2010,Seattle Mariners,Los Angeles Angels of Anaheim,70,3,out to Rightfield,Sunny
 20-09-2010,Texas Rangers,Los Angeles Angels of Anaheim,67,7,out to Centerfield,Sunny
-21-09-2010,Texas Rangers,Los Angeles Angels of Anaheim,67,7,out to Centerfield.,Wind7mphouttoCenterfield
-22-09-2010,Texas Rangers,Los Angeles Angels of Anaheim,66,4,in unknown direction.,Wind4mphinunknowndirection
+21-09-2010,Texas Rangers,Los Angeles Angels of Anaheim,67,7,out to Centerfield.,
+22-09-2010,Texas Rangers,Los Angeles Angels of Anaheim,66,4,in unknown direction.,
 24-09-2010,Chicago White Sox,Los Angeles Angels of Anaheim,79,5,out to Centerfield,Sunny
 25-09-2010,Chicago White Sox,Los Angeles Angels of Anaheim,85,5,out to Centerfield,Sunny
 26-09-2010,Chicago White Sox,Los Angeles Angels of Anaheim,94,2,from Left to Right,Sunny
 27-09-2010,Oakland Athletics,Los Angeles Angels of Anaheim,96,4,out to Centerfield,Sunny
-28-09-2010,Oakland Athletics,Los Angeles Angels of Anaheim,78,4,out to Centerfield.,Wind4mphouttoCenterfield
+28-09-2010,Oakland Athletics,Los Angeles Angels of Anaheim,78,4,out to Centerfield.,
 29-09-2010,Oakland Athletics,Los Angeles Angels of Anaheim,88,6,out to Centerfield,Cloudy
 05-04-2010,San Diego Padres,Arizona Diamondbacks,74,6,in from Rightfield,Sunny
 06-04-2010,San Diego Padres,Arizona Diamondbacks,76,20,in from Rightfield,Sunny
 07-04-2010,San Diego Padres,Arizona Diamondbacks,74,3,out to Rightfield,Sunny
 09-04-2010,Pittsburgh Pirates,Arizona Diamondbacks,81,7,in from Rightfield,Sunny
-10-04-2010,Pittsburgh Pirates,Arizona Diamondbacks,84,10,out to Rightfield.,Wind10mphouttoRightfield
+10-04-2010,Pittsburgh Pirates,Arizona Diamondbacks,84,10,out to Rightfield.,
 11-04-2010,Pittsburgh Pirates,Arizona Diamondbacks,87,10,in from Rightfield,Sunny
 19-04-2010,St. Louis Cardinals,Arizona Diamondbacks,83,7,in from Rightfield,Sunny
 20-04-2010,St. Louis Cardinals,Arizona Diamondbacks,79,7,from Right to Left,Cloudy
 21-04-2010,St. Louis Cardinals,Arizona Diamondbacks,71,0,NoWind,InDome
-23-04-2010,Philadelphia Phillies,Arizona Diamondbacks,72,12,in from Leftfield.,Wind12mphinfromLeftfield
+23-04-2010,Philadelphia Phillies,Arizona Diamondbacks,72,12,in from Leftfield.,
 24-04-2010,Philadelphia Phillies,Arizona Diamondbacks,73,6,from Right to Left,Sunny
 25-04-2010,Philadelphia Phillies,Arizona Diamondbacks,76,6,in from Rightfield,Sunny
 07-05-2010,Milwaukee Brewers,Arizona Diamondbacks,93,7,in from Rightfield,Sunny
-08-05-2010,Milwaukee Brewers,Arizona Diamondbacks,90,8,in from Centerfield.,Wind8mphinfromCenterfield
+08-05-2010,Milwaukee Brewers,Arizona Diamondbacks,90,8,in from Centerfield.,
 09-05-2010,Milwaukee Brewers,Arizona Diamondbacks,74,0,NoWind,InDome
 10-05-2010,Los Angeles Dodgers,Arizona Diamondbacks,79,11,in from Rightfield,Sunny
 11-05-2010,Los Angeles Dodgers,Arizona Diamondbacks,75,19,from Left to Right,Sunny
@@ -165,66 +165,66 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-04-2010,Chicago Cubs,Atlanta Braves,77,12,out to Centerfield,Cloudy
 08-04-2010,Chicago Cubs,Atlanta Braves,66,11,from Left to Right,Sunny
 16-04-2010,Colorado Rockies,Atlanta Braves,79,6,from Right to Left,Cloudy
-17-04-2010,Colorado Rockies,Atlanta Braves,71,10,from Left to Right.,Wind10mphfromLefttoRight
+17-04-2010,Colorado Rockies,Atlanta Braves,71,10,from Left to Right.,
 18-04-2010,Colorado Rockies,Atlanta Braves,69,3,from Left to Right,Sunny
-20-04-2010,Philadelphia Phillies,Atlanta Braves,61,8,from Right to Left.,Wind8mphfromRighttoLeft
+20-04-2010,Philadelphia Phillies,Atlanta Braves,61,8,from Right to Left.,
 21-04-2010,Philadelphia Phillies,Atlanta Braves,70,9,from Left to Right,Cloudy
 22-04-2010,Philadelphia Phillies,Atlanta Braves,75,4,from Left to Right,Cloudy
 30-04-2010,Houston Astros,Atlanta Braves,78,12,from Right to Left,Sunny
-01-05-2010,Houston Astros,Atlanta Braves,78,10,out to Centerfield.,Wind10mphouttoCenterfield
+01-05-2010,Houston Astros,Atlanta Braves,78,10,out to Centerfield.,
 02-05-2010,Houston Astros,Atlanta Braves,85,21,out to Centerfield,Cloudy
-14-05-2010,Arizona Diamondbacks,Atlanta Braves,82,6,from Right to Left.,Wind6mphfromRighttoLeft
+14-05-2010,Arizona Diamondbacks,Atlanta Braves,82,6,from Right to Left.,
 15-05-2010,Arizona Diamondbacks,Atlanta Braves,82,9,from Right to Left,Cloudy
-16-05-2010,Arizona Diamondbacks,Atlanta Braves,84,10,from Right to Left.,Wind10mphfromRighttoLeft
+16-05-2010,Arizona Diamondbacks,Atlanta Braves,84,10,from Right to Left.,
 17-05-2010,New York Mets,Atlanta Braves,80,11,from Left to Right,Cloudy
 18-05-2010,New York Mets,Atlanta Braves,79,11,from Left to Right,Cloudy
 19-05-2010,Cincinnati Reds,Atlanta Braves,76,10,from Left to Right,Cloudy
 20-05-2010,Cincinnati Reds,Atlanta Braves,77,7,in unknown direction,Sunny
 28-05-2010,Pittsburgh Pirates,Atlanta Braves,69,6,from Right to Left,Drizzle
-29-05-2010,Pittsburgh Pirates,Atlanta Braves,78,6,from Right to Left.,Wind6mphfromRighttoLeft
-30-05-2010,Pittsburgh Pirates,Atlanta Braves,78,7,from Right to Left.,Wind7mphfromRighttoLeft
-31-05-2010,Philadelphia Phillies,Atlanta Braves,76,3,in unknown direction.,Wind3mphinunknowndirection
-01-06-2010,Philadelphia Phillies,Atlanta Braves,83,5,from Right to Left.,Wind5mphfromRighttoLeft
+29-05-2010,Pittsburgh Pirates,Atlanta Braves,78,6,from Right to Left.,
+30-05-2010,Pittsburgh Pirates,Atlanta Braves,78,7,from Right to Left.,
+31-05-2010,Philadelphia Phillies,Atlanta Braves,76,3,in unknown direction.,
+01-06-2010,Philadelphia Phillies,Atlanta Braves,83,5,from Right to Left.,
 02-06-2010,Philadelphia Phillies,Atlanta Braves,81,7,from Left to Right,Cloudy
-15-06-2010,Tampa Bay Rays,Atlanta Braves,72,6,from Right to Left.,Wind6mphfromRighttoLeft
+15-06-2010,Tampa Bay Rays,Atlanta Braves,72,6,from Right to Left.,
 16-06-2010,Tampa Bay Rays,Atlanta Braves,88,6,from Left to Right,Cloudy
-17-06-2010,Tampa Bay Rays,Atlanta Braves,79,8,from Left to Right.,Wind8mphfromLefttoRight
+17-06-2010,Tampa Bay Rays,Atlanta Braves,79,8,from Left to Right.,
 18-06-2010,Kansas City Royals,Atlanta Braves,84,6,from Left to Right,Cloudy
-19-06-2010,Kansas City Royals,Atlanta Braves,79,7,from Right to Left.,Wind7mphfromRighttoLeft
+19-06-2010,Kansas City Royals,Atlanta Braves,79,7,from Right to Left.,
 20-06-2010,Kansas City Royals,Atlanta Braves,91,5,from Left to Right,Sunny
-25-06-2010,Detroit Tigers,Atlanta Braves,88,10,from Left to Right.,Wind10mphfromLefttoRight
+25-06-2010,Detroit Tigers,Atlanta Braves,88,10,from Left to Right.,
 26-06-2010,Detroit Tigers,Atlanta Braves,92,9,from Left to Right,Cloudy
 27-06-2010,Detroit Tigers,Atlanta Braves,91,13,from Left to Right,Sunny
 28-06-2010,Washington Nationals,Atlanta Braves,92,11,from Left to Right,Cloudy
 29-06-2010,Washington Nationals,Atlanta Braves,85,6,from Left to Right,Cloudy
 30-06-2010,Washington Nationals,Atlanta Braves,83,3,in unknown direction,Overcast
-02-07-2010,Florida Marlins,Atlanta Braves,79,5,from Right to Left.,Wind5mphfromRighttoLeft
-03-07-2010,Florida Marlins,Atlanta Braves,82,7,from Right to Left.,Wind7mphfromRighttoLeft
+02-07-2010,Florida Marlins,Atlanta Braves,79,5,from Right to Left.,
+03-07-2010,Florida Marlins,Atlanta Braves,82,7,from Right to Left.,
 04-07-2010,Florida Marlins,Atlanta Braves,85,9,from Right to Left,Cloudy
 15-07-2010,Milwaukee Brewers,Atlanta Braves,90,6,in unknown direction,Cloudy
 16-07-2010,Milwaukee Brewers,Atlanta Braves,87,8,from Right to Left,Cloudy
-17-07-2010,Milwaukee Brewers,Atlanta Braves,83,1,in unknown direction.,Wind1mphinunknowndirection
-18-07-2010,Milwaukee Brewers,Atlanta Braves,78,5,out to Centerfield.,Wind5mphouttoCenterfield
+17-07-2010,Milwaukee Brewers,Atlanta Braves,83,1,in unknown direction.,
+18-07-2010,Milwaukee Brewers,Atlanta Braves,78,5,out to Centerfield.,
 20-07-2010,San Diego Padres,Atlanta Braves,90,7,from Left to Right,Sunny
-21-07-2010,San Diego Padres,Atlanta Braves,77,4,from Left to Right.,Wind4mphfromLefttoRight
+21-07-2010,San Diego Padres,Atlanta Braves,77,4,from Left to Right.,
 22-07-2010,San Diego Padres,Atlanta Braves,92,6,from Left to Right,Cloudy
-02-08-2010,New York Mets,Atlanta Braves,83,5,from Right to Left.,Wind5mphfromRighttoLeft
+02-08-2010,New York Mets,Atlanta Braves,83,5,from Right to Left.,
 03-08-2010,New York Mets,Atlanta Braves,91,5,from Right to Left,Cloudy
 04-08-2010,New York Mets,Atlanta Braves,92,8,from Right to Left,Cloudy
 05-08-2010,San Francisco Giants,Atlanta Braves,91,7,from Right to Left,Cloudy
-06-08-2010,San Francisco Giants,Atlanta Braves,75,6,from Left to Right.,Wind6mphfromLefttoRight
+06-08-2010,San Francisco Giants,Atlanta Braves,75,6,from Left to Right.,
 07-08-2010,San Francisco Giants,Atlanta Braves,89,7,from Right to Left,Cloudy
 08-08-2010,San Francisco Giants,Atlanta Braves,90,4,from Right to Left,Cloudy
-13-08-2010,Los Angeles Dodgers,Atlanta Braves,83,7,in from Centerfield.,Wind7mphinfromCenterfield
-14-08-2010,Los Angeles Dodgers,Atlanta Braves,79,3,in unknown direction.,Wind3mphinunknowndirection
-15-08-2010,Los Angeles Dodgers,Atlanta Braves,84,7,in from Centerfield.,Wind7mphinfromCenterfield
+13-08-2010,Los Angeles Dodgers,Atlanta Braves,83,7,in from Centerfield.,
+14-08-2010,Los Angeles Dodgers,Atlanta Braves,79,3,in unknown direction.,
+15-08-2010,Los Angeles Dodgers,Atlanta Braves,84,7,in from Centerfield.,
 16-08-2010,Los Angeles Dodgers,Atlanta Braves,86,5,in unknown direction,Cloudy
 17-08-2010,Washington Nationals,Atlanta Braves,89,6,in unknown direction,Cloudy
 18-08-2010,Washington Nationals,Atlanta Braves,89,7,in unknown direction,Cloudy
 19-08-2010,Washington Nationals,Atlanta Braves,86,11,out to Centerfield,Cloudy
 27-08-2010,Florida Marlins,Atlanta Braves,84,7,out to Centerfield,Cloudy
-28-08-2010,Florida Marlins,Atlanta Braves,85,9,from Right to Left.,Wind9mphfromRighttoLeft
-29-08-2010,Florida Marlins,Atlanta Braves,82,17,from Right to Left.,Wind17mphfromRighttoLeft
+28-08-2010,Florida Marlins,Atlanta Braves,85,9,from Right to Left.,
+29-08-2010,Florida Marlins,Atlanta Braves,82,17,from Right to Left.,
 30-08-2010,New York Mets,Atlanta Braves,81,6,from Right to Left,Cloudy
 31-08-2010,New York Mets,Atlanta Braves,85,6,from Right to Left,Sunny
 01-09-2010,New York Mets,Atlanta Braves,87,5,from Right to Left,Sunny
@@ -236,9 +236,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-09-2010,Washington Nationals,Atlanta Braves,81,5,from Right to Left,Sunny
 14-09-2010,Washington Nationals,Atlanta Braves,85,1,in unknown direction,Sunny
 15-09-2010,Washington Nationals,Atlanta Braves,84,2,from Right to Left,Sunny
-27-09-2010,Florida Marlins,Atlanta Braves,60,5,from Left to Right.,Wind5mphfromLefttoRight
+27-09-2010,Florida Marlins,Atlanta Braves,60,5,from Left to Right.,
 28-09-2010,Florida Marlins,Atlanta Braves,72,0,NoWind,Cloudy
-29-09-2010,Florida Marlins,Atlanta Braves,74,12,in from Rightfield.,Wind12mphinfromRightfield
+29-09-2010,Florida Marlins,Atlanta Braves,74,12,in from Rightfield.,
 01-10-2010,Philadelphia Phillies,Atlanta Braves,72,12,in from Leftfield,Sunny
 02-10-2010,Philadelphia Phillies,Atlanta Braves,76,3,from Left to Right,Sunny
 03-10-2010,Philadelphia Phillies,Atlanta Braves,67,16,from Left to Right,Sunny
@@ -248,13 +248,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-04-2010,Tampa Bay Rays,Baltimore Orioles,66,5,out to Leftfield,Sunny
 13-04-2010,Tampa Bay Rays,Baltimore Orioles,46,4,in from Centerfield,Overcast
 14-04-2010,Tampa Bay Rays,Baltimore Orioles,62,0,NoWind,Sunny
-27-04-2010,New York Yankees,Baltimore Orioles,54,12,in from Leftfield.,Wind12mphinfromLeftfield
+27-04-2010,New York Yankees,Baltimore Orioles,54,12,in from Leftfield.,
 28-04-2010,New York Yankees,Baltimore Orioles,55,15,from Left to Right,Cloudy
 29-04-2010,New York Yankees,Baltimore Orioles,67,13,from Right to Left,Sunny
 30-04-2010,Boston Red Sox,Baltimore Orioles,80,11,out to Rightfield,Sunny
 01-05-2010,Boston Red Sox,Baltimore Orioles,84,5,out to Leftfield,Cloudy
-02-05-2010,Boston Red Sox,Baltimore Orioles,87,8,out to Centerfield.,Wind8mphouttoCenterfield
-11-05-2010,Seattle Mariners,Baltimore Orioles,45,2,from Left to Right.,Wind2mphfromLefttoRight
+02-05-2010,Boston Red Sox,Baltimore Orioles,87,8,out to Centerfield.,
+11-05-2010,Seattle Mariners,Baltimore Orioles,45,2,from Left to Right.,
 12-05-2010,Seattle Mariners,Baltimore Orioles,56,3,in from Leftfield,Drizzle
 13-05-2010,Seattle Mariners,Baltimore Orioles,56,2,in from Rightfield,Overcast
 14-05-2010,Cleveland Indians,Baltimore Orioles,74,14,from Left to Right,Cloudy
@@ -266,36 +266,36 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-05-2010,Oakland Athletics,Baltimore Orioles,86,8,out to Rightfield,Cloudy
 27-05-2010,Oakland Athletics,Baltimore Orioles,84,9,out to Leftfield,Cloudy
 04-06-2010,Boston Red Sox,Baltimore Orioles,86,5,in from Centerfield,Overcast
-05-06-2010,Boston Red Sox,Baltimore Orioles,87,4,out to Rightfield.,Wind4mphouttoRightfield
-06-06-2010,Boston Red Sox,Baltimore Orioles,90,8,out to Rightfield.,Wind8mphouttoRightfield
+05-06-2010,Boston Red Sox,Baltimore Orioles,87,4,out to Rightfield.,
+06-06-2010,Boston Red Sox,Baltimore Orioles,90,8,out to Rightfield.,
 08-06-2010,New York Yankees,Baltimore Orioles,75,8,in from Leftfield,Sunny
-09-06-2010,New York Yankees,Baltimore Orioles,68,1,in from Centerfield.,Wind1mphinfromCenterfield
+09-06-2010,New York Yankees,Baltimore Orioles,68,1,in from Centerfield.,
 10-06-2010,New York Yankees,Baltimore Orioles,85,10,from Left to Right,Sunny
 11-06-2010,New York Mets,Baltimore Orioles,76,6,from Left to Right,Sunny
 12-06-2010,New York Mets,Baltimore Orioles,88,10,out to Leftfield,Overcast
-13-06-2010,New York Mets,Baltimore Orioles,91,14,out to Rightfield.,Wind14mphouttoRightfield
+13-06-2010,New York Mets,Baltimore Orioles,91,14,out to Rightfield.,
 22-06-2010,Florida Marlins,Baltimore Orioles,94,3,out to Rightfield,Cloudy
 23-06-2010,Florida Marlins,Baltimore Orioles,95,8,out to Rightfield,Cloudy
 24-06-2010,Florida Marlins,Baltimore Orioles,92,12,out to Rightfield,Cloudy
 25-06-2010,Washington Nationals,Baltimore Orioles,90,5,out to Rightfield,Cloudy
 26-06-2010,Washington Nationals,Baltimore Orioles,91,7,out to Leftfield,Cloudy
-27-06-2010,Washington Nationals,Baltimore Orioles,94,4,out to Rightfield.,Wind4mphouttoRightfield
+27-06-2010,Washington Nationals,Baltimore Orioles,94,4,out to Rightfield.,
 29-06-2010,Oakland Athletics,Baltimore Orioles,85,9,out to Rightfield,Cloudy
 30-06-2010,Oakland Athletics,Baltimore Orioles,78,1,out to Centerfield,Sunny
 01-07-2010,Oakland Athletics,Baltimore Orioles,75,13,from Left to Right,Sunny
 16-07-2010,Toronto Blue Jays,Baltimore Orioles,94,5,from Right to Left,Cloudy
 17-07-2010,Toronto Blue Jays,Baltimore Orioles,93,5,out to Centerfield,Cloudy
 18-07-2010,Toronto Blue Jays,Baltimore Orioles,91,10,out to Rightfield,Cloudy
-19-07-2010,Tampa Bay Rays,Baltimore Orioles,90,8,out to Centerfield.,Wind8mphouttoCenterfield
-20-07-2010,Tampa Bay Rays,Baltimore Orioles,80,7,in from Centerfield.,Wind7mphinfromCenterfield
-21-07-2010,Tampa Bay Rays,Baltimore Orioles,89,10,out to Rightfield.,Wind10mphouttoRightfield
+19-07-2010,Tampa Bay Rays,Baltimore Orioles,90,8,out to Centerfield.,
+20-07-2010,Tampa Bay Rays,Baltimore Orioles,80,7,in from Centerfield.,
+21-07-2010,Tampa Bay Rays,Baltimore Orioles,89,10,out to Rightfield.,
 22-07-2010,Minnesota Twins,Baltimore Orioles,92,5,in from Leftfield,Sunny
 23-07-2010,Minnesota Twins,Baltimore Orioles,96,10,out to Centerfield,Sunny
 24-07-2010,Minnesota Twins,Baltimore Orioles,99,9,out to Rightfield,Sunny
-25-07-2010,Minnesota Twins,Baltimore Orioles,96,11,from Left to Right.,Wind11mphfromLefttoRight
-03-08-2010,Los Angeles Angels of Anaheim,Baltimore Orioles,83,6,from Left to Right.,Wind6mphfromLefttoRight
+25-07-2010,Minnesota Twins,Baltimore Orioles,96,11,from Left to Right.,
+03-08-2010,Los Angeles Angels of Anaheim,Baltimore Orioles,83,6,from Left to Right.,
 04-08-2010,Los Angeles Angels of Anaheim,Baltimore Orioles,93,6,out to Centerfield,Cloudy
-05-08-2010,Los Angeles Angels of Anaheim,Baltimore Orioles,84,3,out to Centerfield.,Wind3mphouttoCenterfield
+05-08-2010,Los Angeles Angels of Anaheim,Baltimore Orioles,84,3,out to Centerfield.,
 06-08-2010,Chicago White Sox,Baltimore Orioles,87,2,out to Centerfield,Sunny
 07-08-2010,Chicago White Sox,Baltimore Orioles,82,9,from Right to Left,Sunny
 08-08-2010,Chicago White Sox,Baltimore Orioles,86,6,out to Centerfield,Cloudy
@@ -305,7 +305,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-08-2010,Seattle Mariners,Baltimore Orioles,74,2,out to Centerfield,Drizzle
 19-08-2010,Texas Rangers,Baltimore Orioles,87,4,out to Centerfield,Cloudy
 20-08-2010,Texas Rangers,Baltimore Orioles,88,7,out to Leftfield,Sunny
-21-08-2010,Texas Rangers,Baltimore Orioles,85,6,from Right to Left.,Wind6mphfromRighttoLeft
+21-08-2010,Texas Rangers,Baltimore Orioles,85,6,from Right to Left.,
 22-08-2010,Texas Rangers,Baltimore Orioles,83,7,in unknown direction,Rain
 31-08-2010,Boston Red Sox,Baltimore Orioles,93,3,from Left to Right,Sunny
 01-09-2010,Boston Red Sox,Baltimore Orioles,93,7,out to Centerfield,Sunny
@@ -322,46 +322,46 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-10-2010,Detroit Tigers,Baltimore Orioles,64,5,from Right to Left,Sunny
 03-10-2010,Detroit Tigers,Baltimore Orioles,62,2,in from Centerfield,Overcast
 04-04-2010,New York Yankees,Boston Red Sox,67,15,out to Rightfield,Cloudy
-06-04-2010,New York Yankees,Boston Red Sox,53,12,in from Rightfield.,Wind12mphinfromRightfield
+06-04-2010,New York Yankees,Boston Red Sox,53,12,in from Rightfield.,
 07-04-2010,New York Yankees,Boston Red Sox,86,8,out to Rightfield,Cloudy
 16-04-2010,Tampa Bay Rays,Boston Red Sox,41,11,from Right to Left,Drizzle
-17-04-2010,Tampa Bay Rays,Boston Red Sox,39,6,in from Rightfield.,Wind6mphinfromRightfield
+17-04-2010,Tampa Bay Rays,Boston Red Sox,39,6,in from Rightfield.,
 18-04-2010,Tampa Bay Rays,Boston Red Sox,48,9,out to Leftfield,Drizzle
 19-04-2010,Tampa Bay Rays,Boston Red Sox,52,16,from Left to Right,Cloudy
 20-04-2010,Texas Rangers,Boston Red Sox,62,8,from Left to Right,Sunny
 21-04-2010,Texas Rangers,Boston Red Sox,63,16,out to Leftfield,Cloudy
-22-04-2010,Texas Rangers,Boston Red Sox,56,11,from Right to Left.,Wind11mphfromRighttoLeft
-23-04-2010,Baltimore Orioles,Boston Red Sox,53,11,in from Leftfield.,Wind11mphinfromLeftfield
+22-04-2010,Texas Rangers,Boston Red Sox,56,11,from Right to Left.,
+23-04-2010,Baltimore Orioles,Boston Red Sox,53,11,in from Leftfield.,
 24-04-2010,Baltimore Orioles,Boston Red Sox,56,13,from Right to Left,Cloudy
-25-04-2010,Baltimore Orioles,Boston Red Sox,58,16,out to Rightfield.,Wind16mphouttoRightfield
+25-04-2010,Baltimore Orioles,Boston Red Sox,58,16,out to Rightfield.,
 03-05-2010,Los Angeles Angels of Anaheim,Boston Red Sox,75,13,out to Rightfield,Cloudy
-04-05-2010,Los Angeles Angels of Anaheim,Boston Red Sox,60,13,from Left to Right.,Wind13mphfromLefttoRight
+04-05-2010,Los Angeles Angels of Anaheim,Boston Red Sox,60,13,from Left to Right.,
 05-05-2010,Los Angeles Angels of Anaheim,Boston Red Sox,69,9,out to Leftfield,Sunny
 06-05-2010,Los Angeles Angels of Anaheim,Boston Red Sox,70,19,from Left to Right,Cloudy
 07-05-2010,New York Yankees,Boston Red Sox,68,11,from Left to Right,Cloudy
-08-05-2010,New York Yankees,Boston Red Sox,54,4,out to Leftfield.,Wind4mphouttoLeftfield
-09-05-2010,New York Yankees,Boston Red Sox,47,20,out to Rightfield.,Wind20mphouttoRightfield
+08-05-2010,New York Yankees,Boston Red Sox,54,4,out to Leftfield.,
+09-05-2010,New York Yankees,Boston Red Sox,47,20,out to Rightfield.,
 10-05-2010,Toronto Blue Jays,Boston Red Sox,54,20,from Left to Right,Cloudy
-11-05-2010,Toronto Blue Jays,Boston Red Sox,53,10,from Right to Left.,Wind10mphfromRighttoLeft
-12-05-2010,Toronto Blue Jays,Boston Red Sox,51,1,out to Centerfield.,Wind1mphouttoCenterfield
+11-05-2010,Toronto Blue Jays,Boston Red Sox,53,10,from Right to Left.,
+12-05-2010,Toronto Blue Jays,Boston Red Sox,51,1,out to Centerfield.,
 19-05-2010,Minnesota Twins,Boston Red Sox,53,13,in from Rightfield,Rain
 20-05-2010,Minnesota Twins,Boston Red Sox,82,7,out to Rightfield,Cloudy
 27-05-2010,Kansas City Royals,Boston Red Sox,68,10,from Right to Left,Cloudy
 28-05-2010,Kansas City Royals,Boston Red Sox,65,12,from Right to Left,Cloudy
-29-05-2010,Kansas City Royals,Boston Red Sox,68,11,out to Centerfield.,Wind11mphouttoCenterfield
+29-05-2010,Kansas City Royals,Boston Red Sox,68,11,out to Centerfield.,
 30-05-2010,Kansas City Royals,Boston Red Sox,78,12,from Left to Right,Cloudy
-01-06-2010,Oakland Athletics,Boston Red Sox,72,11,out to Rightfield.,Wind11mphouttoRightfield
+01-06-2010,Oakland Athletics,Boston Red Sox,72,11,out to Rightfield.,
 02-06-2010,Oakland Athletics,Boston Red Sox,68,14,from Right to Left,Cloudy
 03-06-2010,Oakland Athletics,Boston Red Sox,81,17,out to Centerfield,Cloudy
-11-06-2010,Philadelphia Phillies,Boston Red Sox,64,10,out to Rightfield.,Wind10mphouttoRightfield
-12-06-2010,Philadelphia Phillies,Boston Red Sox,63,5,in from Centerfield.,Wind5mphinfromCenterfield
-13-06-2010,Philadelphia Phillies,Boston Red Sox,62,9,in from Centerfield.,Wind9mphinfromCenterfield
+11-06-2010,Philadelphia Phillies,Boston Red Sox,64,10,out to Rightfield.,
+12-06-2010,Philadelphia Phillies,Boston Red Sox,63,5,in from Centerfield.,
+13-06-2010,Philadelphia Phillies,Boston Red Sox,62,9,in from Centerfield.,
 15-06-2010,Arizona Diamondbacks,Boston Red Sox,69,7,from Right to Left,Cloudy
-16-06-2010,Arizona Diamondbacks,Boston Red Sox,66,8,out to Leftfield.,Wind8mphouttoLeftfield
-17-06-2010,Arizona Diamondbacks,Boston Red Sox,62,12,in from Centerfield.,Wind12mphinfromCenterfield
+16-06-2010,Arizona Diamondbacks,Boston Red Sox,66,8,out to Leftfield.,
+17-06-2010,Arizona Diamondbacks,Boston Red Sox,62,12,in from Centerfield.,
 18-06-2010,Los Angeles Dodgers,Boston Red Sox,86,10,out to Rightfield,Cloudy
 19-06-2010,Los Angeles Dodgers,Boston Red Sox,82,18,out to Centerfield,Sunny
-20-06-2010,Los Angeles Dodgers,Boston Red Sox,72,4,out to Leftfield.,Wind4mphouttoLeftfield
+20-06-2010,Los Angeles Dodgers,Boston Red Sox,72,4,out to Leftfield.,
 29-06-2010,Tampa Bay Rays,Boston Red Sox,83,11,out to Rightfield,Cloudy
 30-06-2010,Tampa Bay Rays,Boston Red Sox,73,17,out to Rightfield,Cloudy
 02-07-2010,Baltimore Orioles,Boston Red Sox,74,12,from Right to Left,Cloudy
@@ -371,39 +371,39 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-07-2010,Texas Rangers,Boston Red Sox,86,15,from Left to Right,Cloudy
 17-07-2010,Texas Rangers,Boston Red Sox,88,14,out to Centerfield,Cloudy
 18-07-2010,Texas Rangers,Boston Red Sox,89,14,from Left to Right,Sunny
-30-07-2010,Detroit Tigers,Boston Red Sox,75,8,in from Rightfield.,Wind8mphinfromRightfield
-31-07-2010,Detroit Tigers,Boston Red Sox,72,6,from Right to Left.,Wind6mphfromRighttoLeft
+30-07-2010,Detroit Tigers,Boston Red Sox,75,8,in from Rightfield.,
+31-07-2010,Detroit Tigers,Boston Red Sox,72,6,from Right to Left.,
 01-08-2010,Detroit Tigers,Boston Red Sox,77,14,out to Rightfield,Cloudy
 02-08-2010,Cleveland Indians,Boston Red Sox,78,13,out to Centerfield,Cloudy
 03-08-2010,Cleveland Indians,Boston Red Sox,81,16,out to Centerfield,Cloudy
 04-08-2010,Cleveland Indians,Boston Red Sox,86,16,out to Rightfield,Cloudy
-05-08-2010,Cleveland Indians,Boston Red Sox,78,8,out to Rightfield.,Wind8mphouttoRightfield
-17-08-2010,Los Angeles Angels of Anaheim,Boston Red Sox,85,9,out to Rightfield.,Wind9mphouttoRightfield
-18-08-2010,Los Angeles Angels of Anaheim,Boston Red Sox,74,8,from Right to Left.,Wind8mphfromRighttoLeft
+05-08-2010,Cleveland Indians,Boston Red Sox,78,8,out to Rightfield.,
+17-08-2010,Los Angeles Angels of Anaheim,Boston Red Sox,85,9,out to Rightfield.,
+18-08-2010,Los Angeles Angels of Anaheim,Boston Red Sox,74,8,from Right to Left.,
 19-08-2010,Los Angeles Angels of Anaheim,Boston Red Sox,78,9,from Right to Left,Cloudy
 20-08-2010,Toronto Blue Jays,Boston Red Sox,76,12,from Right to Left,Cloudy
-21-08-2010,Toronto Blue Jays,Boston Red Sox,70,6,from Right to Left.,Wind6mphfromRighttoLeft
-22-08-2010,Toronto Blue Jays,Boston Red Sox,68,12,out to Rightfield.,Wind12mphouttoRightfield
+21-08-2010,Toronto Blue Jays,Boston Red Sox,70,6,from Right to Left.,
+22-08-2010,Toronto Blue Jays,Boston Red Sox,68,12,out to Rightfield.,
 23-08-2010,Seattle Mariners,Boston Red Sox,62,17,in from Centerfield,Rain
 05-09-2010,Chicago White Sox,Boston Red Sox,72,18,out to Rightfield,Cloudy
 06-09-2010,Tampa Bay Rays,Boston Red Sox,72,13,out to Centerfield,Cloudy
 07-09-2010,Tampa Bay Rays,Boston Red Sox,79,16,out to Centerfield,Cloudy
 08-09-2010,Tampa Bay Rays,Boston Red Sox,77,16,out to Leftfield,Cloudy
-17-09-2010,Toronto Blue Jays,Boston Red Sox,58,2,in from Centerfield.,Wind2mphinfromCenterfield
-18-09-2010,Toronto Blue Jays,Boston Red Sox,60,7,from Right to Left.,Wind7mphfromRighttoLeft
+17-09-2010,Toronto Blue Jays,Boston Red Sox,58,2,in from Centerfield.,
+18-09-2010,Toronto Blue Jays,Boston Red Sox,60,7,from Right to Left.,
 19-09-2010,Toronto Blue Jays,Boston Red Sox,71,1,out to Rightfield,Cloudy
 20-09-2010,Baltimore Orioles,Boston Red Sox,64,17,in from Leftfield,Cloudy
 21-09-2010,Baltimore Orioles,Boston Red Sox,66,16,out to Centerfield,Cloudy
 22-09-2010,Baltimore Orioles,Boston Red Sox,79,12,out to Rightfield,Cloudy
-03-10-2010,New York Yankees,Boston Red Sox,57,13,in from Centerfield.,Wind13mphinfromCenterfield
+03-10-2010,New York Yankees,Boston Red Sox,57,13,in from Centerfield.,
 05-04-2010,Cleveland Indians,Chicago White Sox,75,4,out to Leftfield,Cloudy
 07-04-2010,Cleveland Indians,Chicago White Sox,43,15,out to Rightfield,Overcast
-08-04-2010,Cleveland Indians,Chicago White Sox,43,8,out to Rightfield.,Wind8mphouttoRightfield
+08-04-2010,Cleveland Indians,Chicago White Sox,43,8,out to Rightfield.,
 09-04-2010,Minnesota Twins,Chicago White Sox,50,6,in from Leftfield,Sunny
 10-04-2010,Minnesota Twins,Chicago White Sox,69,14,from Right to Left,Sunny
 11-04-2010,Minnesota Twins,Chicago White Sox,54,8,from Left to Right,Cloudy
-20-04-2010,Tampa Bay Rays,Chicago White Sox,54,7,in from Leftfield.,Wind7mphinfromLeftfield
-21-04-2010,Tampa Bay Rays,Chicago White Sox,39,11,from Left to Right.,Wind11mphfromLefttoRight
+20-04-2010,Tampa Bay Rays,Chicago White Sox,54,7,in from Leftfield.,
+21-04-2010,Tampa Bay Rays,Chicago White Sox,39,11,from Left to Right.,
 22-04-2010,Tampa Bay Rays,Chicago White Sox,46,10,from Left to Right,Cloudy
 23-04-2010,Seattle Mariners,Chicago White Sox,57,10,from Left to Right,Overcast
 24-04-2010,Seattle Mariners,Chicago White Sox,55,13,from Left to Right,Overcast
@@ -412,13 +412,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-05-2010,Kansas City Royals,Chicago White Sox,75,16,from Right to Left,Sunny
 05-05-2010,Kansas City Royals,Chicago White Sox,67,12,out to Centerfield,Sunny
 06-05-2010,Toronto Blue Jays,Chicago White Sox,45,14,from Left to Right,Cloudy
-07-05-2010,Toronto Blue Jays,Chicago White Sox,54,12,out to Centerfield.,Wind12mphouttoCenterfield
+07-05-2010,Toronto Blue Jays,Chicago White Sox,54,12,out to Centerfield.,
 08-05-2010,Toronto Blue Jays,Chicago White Sox,46,12,out to Centerfield,Sunny
 09-05-2010,Toronto Blue Jays,Chicago White Sox,55,8,from Left to Right,Sunny
 19-05-2010,Los Angeles Angels of Anaheim,Chicago White Sox,68,8,from Left to Right,Sunny
 20-05-2010,Los Angeles Angels of Anaheim,Chicago White Sox,64,9,in from Rightfield,Overcast
-21-05-2010,Florida Marlins,Chicago White Sox,66,7,in from Leftfield.,Wind7mphinfromLeftfield
-22-05-2010,Florida Marlins,Chicago White Sox,67,7,in from Leftfield.,Wind7mphinfromLeftfield
+21-05-2010,Florida Marlins,Chicago White Sox,66,7,in from Leftfield.,
+22-05-2010,Florida Marlins,Chicago White Sox,67,7,in from Leftfield.,
 23-05-2010,Florida Marlins,Chicago White Sox,87,11,in from Centerfield,Cloudy
 01-06-2010,Texas Rangers,Chicago White Sox,79,10,in from Rightfield,Cloudy
 02-06-2010,Texas Rangers,Chicago White Sox,61,8,from Left to Right,Cloudy
@@ -437,16 +437,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-06-2010,Chicago Cubs,Chicago White Sox,85,13,from Right to Left,Overcast
 05-07-2010,Los Angeles Angels of Anaheim,Chicago White Sox,86,14,from Right to Left,Sunny
 06-07-2010,Los Angeles Angels of Anaheim,Chicago White Sox,75,8,from Right to Left,Overcast
-07-07-2010,Los Angeles Angels of Anaheim,Chicago White Sox,75,5,from Right to Left.,Wind5mphfromRighttoLeft
+07-07-2010,Los Angeles Angels of Anaheim,Chicago White Sox,75,5,from Right to Left.,
 08-07-2010,Los Angeles Angels of Anaheim,Chicago White Sox,79,5,from Left to Right,Cloudy
 09-07-2010,Kansas City Royals,Chicago White Sox,77,8,from Left to Right,Sunny
 10-07-2010,Kansas City Royals,Chicago White Sox,79,13,out to Leftfield,Sunny
-11-07-2010,Kansas City Royals,Chicago White Sox,86,11,from Right to Left.,Wind11mphfromRighttoLeft
+11-07-2010,Kansas City Royals,Chicago White Sox,86,11,from Right to Left.,
 26-07-2010,Seattle Mariners,Chicago White Sox,78,10,in from Leftfield,Cloudy
 27-07-2010,Seattle Mariners,Chicago White Sox,84,11,in from Rightfield,Cloudy
-28-07-2010,Seattle Mariners,Chicago White Sox,79,5,from Left to Right.,Wind5mphfromLefttoRight
+28-07-2010,Seattle Mariners,Chicago White Sox,79,5,from Left to Right.,
 29-07-2010,Seattle Mariners,Chicago White Sox,73,11,from Left to Right,Cloudy
-30-07-2010,Oakland Athletics,Chicago White Sox,74,7,in from Rightfield.,Wind7mphinfromRightfield
+30-07-2010,Oakland Athletics,Chicago White Sox,74,7,in from Rightfield.,
 31-07-2010,Oakland Athletics,Chicago White Sox,75,3,out to Rightfield,Sunny
 01-08-2010,Oakland Athletics,Chicago White Sox,83,3,from Left to Right,Cloudy
 10-08-2010,Minnesota Twins,Chicago White Sox,79,7,from Left to Right,Cloudy
@@ -465,10 +465,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-09-2010,Kansas City Royals,Chicago White Sox,67,11,out to Rightfield,Cloudy
 12-09-2010,Kansas City Royals,Chicago White Sox,78,11,out to Centerfield,Sunny
 14-09-2010,Minnesota Twins,Chicago White Sox,68,11,in from Leftfield,Sunny
-15-09-2010,Minnesota Twins,Chicago White Sox,72,9,in from Centerfield.,Wind9mphinfromCenterfield
-16-09-2010,Minnesota Twins,Chicago White Sox,57,15,out to Rightfield.,Wind15mphouttoRightfield
+15-09-2010,Minnesota Twins,Chicago White Sox,72,9,in from Centerfield.,
+16-09-2010,Minnesota Twins,Chicago White Sox,57,15,out to Rightfield.,
 17-09-2010,Detroit Tigers,Chicago White Sox,68,7,in from Centerfield,Sunny
-18-09-2010,Detroit Tigers,Chicago White Sox,62,9,from Left to Right.,Wind9mphfromLefttoRight
+18-09-2010,Detroit Tigers,Chicago White Sox,62,9,from Left to Right.,
 19-09-2010,Detroit Tigers,Chicago White Sox,61,8,from Left to Right,Overcast
 27-09-2010,Boston Red Sox,Chicago White Sox,61,5,from Left to Right,Cloudy
 28-09-2010,Boston Red Sox,Chicago White Sox,64,8,in from Leftfield,Sunny
@@ -488,32 +488,32 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-04-2010,Washington Nationals,Chicago Cubs,51,10,in from Rightfield,Sunny
 29-04-2010,Arizona Diamondbacks,Chicago Cubs,71,27,from Right to Left,Cloudy
 30-04-2010,Arizona Diamondbacks,Chicago Cubs,78,18,out to Leftfield,Sunny
-01-05-2010,Arizona Diamondbacks,Chicago Cubs,67,10,out to Centerfield.,Wind10mphouttoCenterfield
-02-05-2010,Arizona Diamondbacks,Chicago Cubs,64,6,in from Rightfield.,Wind6mphinfromRightfield
+01-05-2010,Arizona Diamondbacks,Chicago Cubs,67,10,out to Centerfield.,
+02-05-2010,Arizona Diamondbacks,Chicago Cubs,64,6,in from Rightfield.,
 10-05-2010,Florida Marlins,Chicago Cubs,51,10,in from Rightfield,Overcast
 11-05-2010,Florida Marlins,Chicago Cubs,48,5,in from Leftfield,Overcast
-12-05-2010,Florida Marlins,Chicago Cubs,45,8,in from Centerfield.,Wind8mphinfromCenterfield
+12-05-2010,Florida Marlins,Chicago Cubs,45,8,in from Centerfield.,
 14-05-2010,Pittsburgh Pirates,Chicago Cubs,64,8,from Left to Right,Sunny
 15-05-2010,Pittsburgh Pirates,Chicago Cubs,56,5,in from Centerfield,Overcast
 16-05-2010,Pittsburgh Pirates,Chicago Cubs,58,6,in from Centerfield,Cloudy
-17-05-2010,Colorado Rockies,Chicago Cubs,53,10,in from Leftfield.,Wind10mphinfromLeftfield
-18-05-2010,Colorado Rockies,Chicago Cubs,56,10,in from Centerfield.,Wind10mphinfromCenterfield
+17-05-2010,Colorado Rockies,Chicago Cubs,53,10,in from Leftfield.,
+18-05-2010,Colorado Rockies,Chicago Cubs,56,10,in from Centerfield.,
 25-05-2010,Los Angeles Dodgers,Chicago Cubs,75,6,in from Rightfield,Sunny
-26-05-2010,Los Angeles Dodgers,Chicago Cubs,78,2,in from Leftfield.,Wind2mphinfromLeftfield
+26-05-2010,Los Angeles Dodgers,Chicago Cubs,78,2,in from Leftfield.,
 27-05-2010,Los Angeles Dodgers,Chicago Cubs,66,11,in from Rightfield,Cloudy
 28-05-2010,St. Louis Cardinals,Chicago Cubs,67,15,in from Leftfield,Sunny
 29-05-2010,St. Louis Cardinals,Chicago Cubs,71,6,in from Centerfield,Sunny
 30-05-2010,St. Louis Cardinals,Chicago Cubs,84,8,in from Rightfield,Sunny
-11-06-2010,Chicago White Sox,Chicago Cubs,84,5,out to Centerfield.,Wind5mphouttoCenterfield
+11-06-2010,Chicago White Sox,Chicago Cubs,84,5,out to Centerfield.,
 12-06-2010,Chicago White Sox,Chicago Cubs,63,8,in from Centerfield,Overcast
-13-06-2010,Chicago White Sox,Chicago Cubs,63,5,from Right to Left.,Wind5mphfromRighttoLeft
+13-06-2010,Chicago White Sox,Chicago Cubs,63,5,from Right to Left.,
 15-06-2010,Oakland Athletics,Chicago Cubs,70,3,out to Centerfield,Sunny
 16-06-2010,Oakland Athletics,Chicago Cubs,73,4,in from Rightfield,Cloudy
 17-06-2010,Oakland Athletics,Chicago Cubs,73,12,in from Rightfield,Sunny
 18-06-2010,Los Angeles Angels of Anaheim,Chicago Cubs,88,10,out to Centerfield,Sunny
 19-06-2010,Los Angeles Angels of Anaheim,Chicago Cubs,82,11,from Left to Right,Sunny
 20-06-2010,Los Angeles Angels of Anaheim,Chicago Cubs,74,8,from Right to Left,Sunny
-28-06-2010,Pittsburgh Pirates,Chicago Cubs,76,6,in from Leftfield.,Wind6mphinfromLeftfield
+28-06-2010,Pittsburgh Pirates,Chicago Cubs,76,6,in from Leftfield.,
 29-06-2010,Pittsburgh Pirates,Chicago Cubs,65,9,in from Centerfield,Sunny
 30-06-2010,Pittsburgh Pirates,Chicago Cubs,68,15,in from Centerfield,Sunny
 01-07-2010,Cincinnati Reds,Chicago Cubs,69,10,in from Rightfield,Sunny
@@ -532,9 +532,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-07-2010,St. Louis Cardinals,Chicago Cubs,73,8,in from Leftfield,Sunny
 02-08-2010,Milwaukee Brewers,Chicago Cubs,80,5,out to Leftfield,Sunny
 03-08-2010,Milwaukee Brewers,Chicago Cubs,81,4,in from Rightfield,Cloudy
-04-08-2010,Milwaukee Brewers,Chicago Cubs,81,7,in from Rightfield.,Wind7mphinfromRightfield
+04-08-2010,Milwaukee Brewers,Chicago Cubs,81,7,in from Rightfield.,
 06-08-2010,Cincinnati Reds,Chicago Cubs,79,9,in from Rightfield,Sunny
-07-08-2010,Cincinnati Reds,Chicago Cubs,78,8,out to Centerfield.,Wind8mphouttoCenterfield
+07-08-2010,Cincinnati Reds,Chicago Cubs,78,8,out to Centerfield.,
 08-08-2010,Cincinnati Reds,Chicago Cubs,75,17,out to Centerfield,Cloudy
 16-08-2010,San Diego Padres,Chicago Cubs,77,8,from Left to Right,Cloudy
 17-08-2010,San Diego Padres,Chicago Cubs,72,3,from Left to Right,Sunny
@@ -546,15 +546,15 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-08-2010,Pittsburgh Pirates,Chicago Cubs,83,8,out to Centerfield,Cloudy
 31-08-2010,Pittsburgh Pirates,Chicago Cubs,88,6,out to Centerfield,Cloudy
 01-09-2010,Pittsburgh Pirates,Chicago Cubs,78,5,from Left to Right,Cloudy
-03-09-2010,New York Mets,Chicago Cubs,66,15,out to Rightfield.,Wind15mphouttoRightfield
+03-09-2010,New York Mets,Chicago Cubs,66,15,out to Rightfield.,
 04-09-2010,New York Mets,Chicago Cubs,61,15,from Left to Right,Cloudy
 05-09-2010,New York Mets,Chicago Cubs,70,7,out to Centerfield,Cloudy
-06-09-2010,Houston Astros,Chicago Cubs,79,8,out to Leftfield.,Wind8mphouttoLeftfield
+06-09-2010,Houston Astros,Chicago Cubs,79,8,out to Leftfield.,
 07-09-2010,Houston Astros,Chicago Cubs,72,18,out to Rightfield,Sunny
 08-09-2010,Houston Astros,Chicago Cubs,61,9,in from Centerfield,Sunny
 21-09-2010,San Francisco Giants,Chicago Cubs,70,4,out to Centerfield,Overcast
-22-09-2010,San Francisco Giants,Chicago Cubs,64,5,in from Rightfield.,Wind5mphinfromRightfield
-23-09-2010,San Francisco Giants,Chicago Cubs,85,15,out to Centerfield.,Wind15mphouttoCenterfield
+22-09-2010,San Francisco Giants,Chicago Cubs,64,5,in from Rightfield.,
+23-09-2010,San Francisco Giants,Chicago Cubs,85,15,out to Centerfield.,
 24-09-2010,St. Louis Cardinals,Chicago Cubs,61,16,out to Centerfield,Cloudy
 25-09-2010,St. Louis Cardinals,Chicago Cubs,55,11,in from Leftfield,Cloudy
 26-09-2010,St. Louis Cardinals,Chicago Cubs,56,11,in from Centerfield,Cloudy
@@ -564,22 +564,22 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-04-2010,Chicago Cubs,Cincinnati Reds,54,13,out to Centerfield,Sunny
 10-04-2010,Chicago Cubs,Cincinnati Reds,59,4,in unknown direction,Cloudy
 11-04-2010,Chicago Cubs,Cincinnati Reds,79,0,NoWind,Sunny
-20-04-2010,Los Angeles Dodgers,Cincinnati Reds,64,3,in from Leftfield.,Wind3mphinfromLeftfield
+20-04-2010,Los Angeles Dodgers,Cincinnati Reds,64,3,in from Leftfield.,
 21-04-2010,Los Angeles Dodgers,Cincinnati Reds,70,4,from Right to Left,Cloudy
 22-04-2010,Los Angeles Dodgers,Cincinnati Reds,68,8,out to Leftfield,Cloudy
-23-04-2010,San Diego Padres,Cincinnati Reds,59,2,from Left to Right.,Wind2mphfromLefttoRight
+23-04-2010,San Diego Padres,Cincinnati Reds,59,2,from Left to Right.,
 24-04-2010,San Diego Padres,Cincinnati Reds,67,2,in from Leftfield,Cloudy
 25-04-2010,San Diego Padres,Cincinnati Reds,66,15,from Right to Left,Cloudy
 03-05-2010,New York Mets,Cincinnati Reds,75,12,from Right to Left,Sunny
 04-05-2010,New York Mets,Cincinnati Reds,76,0,NoWind,Sunny
 05-05-2010,New York Mets,Cincinnati Reds,77,11,out to Leftfield,Sunny
-07-05-2010,Chicago Cubs,Cincinnati Reds,81,16,from Right to Left.,Wind16mphfromRighttoLeft
-08-05-2010,Chicago Cubs,Cincinnati Reds,51,17,out to Centerfield.,Wind17mphouttoCenterfield
+07-05-2010,Chicago Cubs,Cincinnati Reds,81,16,from Right to Left.,
+08-05-2010,Chicago Cubs,Cincinnati Reds,51,17,out to Centerfield.,
 09-05-2010,Chicago Cubs,Cincinnati Reds,53,8,in unknown direction,Cloudy
 14-05-2010,St. Louis Cardinals,Cincinnati Reds,75,14,in unknown direction,Cloudy
 15-05-2010,St. Louis Cardinals,Cincinnati Reds,73,6,out to Centerfield,Cloudy
 16-05-2010,St. Louis Cardinals,Cincinnati Reds,67,10,from Left to Right,Overcast
-17-05-2010,Milwaukee Brewers,Cincinnati Reds,59,4,out to Leftfield.,Wind4mphouttoLeftfield
+17-05-2010,Milwaukee Brewers,Cincinnati Reds,59,4,out to Leftfield.,
 18-05-2010,Milwaukee Brewers,Cincinnati Reds,60,6,in unknown direction,Overcast
 24-05-2010,Pittsburgh Pirates,Cincinnati Reds,83,6,in from Leftfield,Cloudy
 25-05-2010,Pittsburgh Pirates,Cincinnati Reds,80,8,in from Centerfield,Cloudy
@@ -589,7 +589,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-05-2010,Houston Astros,Cincinnati Reds,87,3,in from Leftfield,Sunny
 30-05-2010,Houston Astros,Cincinnati Reds,86,1,in unknown direction,Cloudy
 07-06-2010,San Francisco Giants,Cincinnati Reds,74,15,from Left to Right,Cloudy
-08-06-2010,San Francisco Giants,Cincinnati Reds,75,5,from Right to Left.,Wind5mphfromRighttoLeft
+08-06-2010,San Francisco Giants,Cincinnati Reds,75,5,from Right to Left.,
 09-06-2010,San Francisco Giants,Cincinnati Reds,80,9,from Right to Left,Cloudy
 10-06-2010,San Francisco Giants,Cincinnati Reds,81,8,from Right to Left,Cloudy
 11-06-2010,Kansas City Royals,Cincinnati Reds,83,10,out to Leftfield,Cloudy
@@ -605,20 +605,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-06-2010,Philadelphia Phillies,Cincinnati Reds,76,10,out to Rightfield,Cloudy
 30-06-2010,Philadelphia Phillies,Cincinnati Reds,73,8,from Left to Right,Sunny
 16-07-2010,Colorado Rockies,Cincinnati Reds,88,8,from Left to Right,Cloudy
-17-07-2010,Colorado Rockies,Cincinnati Reds,76,7,in unknown direction.,Wind7mphinunknowndirection
+17-07-2010,Colorado Rockies,Cincinnati Reds,76,7,in unknown direction.,
 18-07-2010,Colorado Rockies,Cincinnati Reds,85,9,from Right to Left,Cloudy
-19-07-2010,Washington Nationals,Cincinnati Reds,88,8,out to Leftfield.,Wind8mphouttoLeftfield
+19-07-2010,Washington Nationals,Cincinnati Reds,88,8,out to Leftfield.,
 20-07-2010,Washington Nationals,Cincinnati Reds,75,9,from Right to Left,Rain
-21-07-2010,Washington Nationals,Cincinnati Reds,77,5,out to Leftfield.,Wind5mphouttoLeftfield
+21-07-2010,Washington Nationals,Cincinnati Reds,77,5,out to Leftfield.,
 22-07-2010,Washington Nationals,Cincinnati Reds,83,6,from Right to Left,Cloudy
 30-07-2010,Atlanta Braves,Cincinnati Reds,78,7,in from Leftfield,Cloudy
-31-07-2010,Atlanta Braves,Cincinnati Reds,78,5,in from Centerfield.,Wind5mphinfromCenterfield
+31-07-2010,Atlanta Braves,Cincinnati Reds,78,5,in from Centerfield.,
 01-08-2010,Atlanta Braves,Cincinnati Reds,84,5,in from Centerfield,Cloudy
 09-08-2010,St. Louis Cardinals,Cincinnati Reds,90,7,out to Centerfield,Cloudy
 10-08-2010,St. Louis Cardinals,Cincinnati Reds,94,7,from Left to Right,Cloudy
 11-08-2010,St. Louis Cardinals,Cincinnati Reds,93,5,out to Rightfield,Cloudy
 13-08-2010,Florida Marlins,Cincinnati Reds,89,3,in unknown direction,Cloudy
-14-08-2010,Florida Marlins,Cincinnati Reds,75,6,in unknown direction.,Wind6mphinunknowndirection
+14-08-2010,Florida Marlins,Cincinnati Reds,75,6,in unknown direction.,
 15-08-2010,Florida Marlins,Cincinnati Reds,86,6,in unknown direction,Cloudy
 27-08-2010,Chicago Cubs,Cincinnati Reds,82,6,in unknown direction,Sunny
 28-08-2010,Chicago Cubs,Cincinnati Reds,85,4,in unknown direction,Sunny
@@ -626,16 +626,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-08-2010,Milwaukee Brewers,Cincinnati Reds,88,5,in unknown direction,Cloudy
 31-08-2010,Milwaukee Brewers,Cincinnati Reds,88,3,in from Rightfield,Cloudy
 01-09-2010,Milwaukee Brewers,Cincinnati Reds,90,10,out to Leftfield,Sunny
-10-09-2010,Pittsburgh Pirates,Cincinnati Reds,75,9,in unknown direction.,Wind9mphinunknowndirection
-11-09-2010,Pittsburgh Pirates,Cincinnati Reds,74,4,in unknown direction.,Wind4mphinunknowndirection
+10-09-2010,Pittsburgh Pirates,Cincinnati Reds,75,9,in unknown direction.,
+11-09-2010,Pittsburgh Pirates,Cincinnati Reds,74,4,in unknown direction.,
 12-09-2010,Pittsburgh Pirates,Cincinnati Reds,75,13,from Left to Right,Sunny
 13-09-2010,Arizona Diamondbacks,Cincinnati Reds,86,18,in unknown direction,Cloudy
-14-09-2010,Arizona Diamondbacks,Cincinnati Reds,81,5,in unknown direction.,Wind5mphinunknowndirection
+14-09-2010,Arizona Diamondbacks,Cincinnati Reds,81,5,in unknown direction.,
 15-09-2010,Arizona Diamondbacks,Cincinnati Reds,86,6,in unknown direction,Cloudy
 16-09-2010,Arizona Diamondbacks,Cincinnati Reds,74,15,out to Leftfield,Overcast
 28-09-2010,Houston Astros,Cincinnati Reds,64,3,in unknown direction,Sunny
 29-09-2010,Houston Astros,Cincinnati Reds,73,3,from Left to Right,Sunny
-30-09-2010,Houston Astros,Cincinnati Reds,74,13,in unknown direction.,Wind13mphinunknowndirection
+30-09-2010,Houston Astros,Cincinnati Reds,74,13,in unknown direction.,
 01-10-2010,Milwaukee Brewers,Cincinnati Reds,68,9,in unknown direction,Sunny
 02-10-2010,Milwaukee Brewers,Cincinnati Reds,62,15,in unknown direction,Cloudy
 03-10-2010,Milwaukee Brewers,Cincinnati Reds,51,14,out to Rightfield,Overcast
@@ -644,18 +644,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-04-2010,Texas Rangers,Cleveland Indians,75,9,from Left to Right,Sunny
 16-04-2010,Chicago White Sox,Cleveland Indians,58,22,from Left to Right,Sunny
 17-04-2010,Chicago White Sox,Cleveland Indians,44,14,out to Rightfield,Overcast
-18-04-2010,Chicago White Sox,Cleveland Indians,45,13,from Left to Right.,Wind13mphfromLefttoRight
+18-04-2010,Chicago White Sox,Cleveland Indians,45,13,from Left to Right.,
 30-04-2010,Minnesota Twins,Cleveland Indians,76,13,out to Rightfield,Sunny
-01-05-2010,Minnesota Twins,Cleveland Indians,72,12,out to Centerfield.,Wind12mphouttoCenterfield
-02-05-2010,Minnesota Twins,Cleveland Indians,75,20,out to Centerfield.,Wind20mphouttoCenterfield
+01-05-2010,Minnesota Twins,Cleveland Indians,72,12,out to Centerfield.,
+02-05-2010,Minnesota Twins,Cleveland Indians,75,20,out to Centerfield.,
 03-05-2010,Toronto Blue Jays,Cleveland Indians,65,7,from Left to Right,Cloudy
 04-05-2010,Toronto Blue Jays,Cleveland Indians,66,7,from Left to Right,Sunny
 05-05-2010,Toronto Blue Jays,Cleveland Indians,74,17,out to Rightfield,Sunny
-08-05-2010,Detroit Tigers,Cleveland Indians,51,30,from Left to Right.,Wind30mphfromLefttoRight
+08-05-2010,Detroit Tigers,Cleveland Indians,51,30,from Left to Right.,
 09-05-2010,Detroit Tigers,Cleveland Indians,48,16,from Left to Right,Cloudy
 19-05-2010,Kansas City Royals,Cleveland Indians,58,5,in from Centerfield,Sunny
 20-05-2010,Kansas City Royals,Cleveland Indians,65,7,from Left to Right,Sunny
-21-05-2010,Cincinnati Reds,Cleveland Indians,73,12,from Left to Right.,Wind12mphfromLefttoRight
+21-05-2010,Cincinnati Reds,Cleveland Indians,73,12,from Left to Right.,
 22-05-2010,Cincinnati Reds,Cleveland Indians,70,4,from Left to Right,Cloudy
 23-05-2010,Cincinnati Reds,Cleveland Indians,74,6,in from Centerfield,Sunny
 24-05-2010,Chicago White Sox,Cleveland Indians,81,6,out to Leftfield,Cloudy
@@ -667,11 +667,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-06-2010,Boston Red Sox,Cleveland Indians,71,5,in from Rightfield,Cloudy
 11-06-2010,Washington Nationals,Cleveland Indians,79,13,out to Centerfield,Cloudy
 12-06-2010,Washington Nationals,Cleveland Indians,82,5,from Left to Right,Cloudy
-13-06-2010,Washington Nationals,Cleveland Indians,72,8,in from Centerfield.,Wind8mphinfromCenterfield
+13-06-2010,Washington Nationals,Cleveland Indians,72,8,in from Centerfield.,
 15-06-2010,New York Mets,Cleveland Indians,77,9,in from Rightfield,Overcast
 16-06-2010,New York Mets,Cleveland Indians,75,12,from Left to Right,Sunny
 17-06-2010,New York Mets,Cleveland Indians,68,6,in from Centerfield,Sunny
-28-06-2010,Toronto Blue Jays,Cleveland Indians,78,9,from Left to Right.,Wind9mphfromLefttoRight
+28-06-2010,Toronto Blue Jays,Cleveland Indians,78,9,from Left to Right.,
 29-06-2010,Toronto Blue Jays,Cleveland Indians,66,8,in from Leftfield,Sunny
 30-06-2010,Toronto Blue Jays,Cleveland Indians,66,3,from Left to Right,Sunny
 01-07-2010,Toronto Blue Jays,Cleveland Indians,67,13,in from Rightfield,Sunny
@@ -680,12 +680,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-07-2010,Oakland Athletics,Cleveland Indians,84,6,in from Centerfield,Cloudy
 16-07-2010,Detroit Tigers,Cleveland Indians,80,5,out to Rightfield,Sunny
 18-07-2010,Detroit Tigers,Cleveland Indians,83,5,out to Centerfield,Cloudy
-23-07-2010,Tampa Bay Rays,Cleveland Indians,85,3,out to Centerfield.,Wind3mphouttoCenterfield
-24-07-2010,Tampa Bay Rays,Cleveland Indians,83,10,out to Rightfield.,Wind10mphouttoRightfield
+23-07-2010,Tampa Bay Rays,Cleveland Indians,85,3,out to Centerfield.,
+24-07-2010,Tampa Bay Rays,Cleveland Indians,83,10,out to Rightfield.,
 25-07-2010,Tampa Bay Rays,Cleveland Indians,74,16,in from Rightfield,Overcast
-26-07-2010,New York Yankees,Cleveland Indians,77,7,in from Rightfield.,Wind7mphinfromRightfield
+26-07-2010,New York Yankees,Cleveland Indians,77,7,in from Rightfield.,
 27-07-2010,New York Yankees,Cleveland Indians,79,6,in from Centerfield,Sunny
-28-07-2010,New York Yankees,Cleveland Indians,70,10,from Left to Right.,Wind10mphfromLefttoRight
+28-07-2010,New York Yankees,Cleveland Indians,70,10,from Left to Right.,
 29-07-2010,New York Yankees,Cleveland Indians,74,10,in from Centerfield,Sunny
 06-08-2010,Minnesota Twins,Cleveland Indians,76,10,from Left to Right,Cloudy
 07-08-2010,Minnesota Twins,Cleveland Indians,78,4,from Left to Right,Cloudy
@@ -696,7 +696,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-08-2010,Seattle Mariners,Cleveland Indians,83,9,from Right to Left,Cloudy
 14-08-2010,Seattle Mariners,Cleveland Indians,75,9,out to Centerfield,Overcast
 15-08-2010,Seattle Mariners,Cleveland Indians,84,5,from Left to Right,Cloudy
-24-08-2010,Oakland Athletics,Cleveland Indians,75,5,in from Rightfield.,Wind5mphinfromRightfield
+24-08-2010,Oakland Athletics,Cleveland Indians,75,5,in from Rightfield.,
 25-08-2010,Oakland Athletics,Cleveland Indians,74,11,from Left to Right,Cloudy
 26-08-2010,Oakland Athletics,Cleveland Indians,71,6,from Left to Right,Sunny
 27-08-2010,Kansas City Royals,Cleveland Indians,69,6,from Left to Right,Sunny
@@ -707,14 +707,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-09-2010,Chicago White Sox,Cleveland Indians,86,13,out to Rightfield,Sunny
 10-09-2010,Minnesota Twins,Cleveland Indians,66,9,in from Centerfield,Sunny
 11-09-2010,Minnesota Twins,Cleveland Indians,64,5,in from Centerfield,Overcast
-12-09-2010,Minnesota Twins,Cleveland Indians,66,15,out to Rightfield.,Wind15mphouttoRightfield
+12-09-2010,Minnesota Twins,Cleveland Indians,66,15,out to Rightfield.,
 14-09-2010,Los Angeles Angels of Anaheim,Cleveland Indians,66,12,from Left to Right,Sunny
-15-09-2010,Los Angeles Angels of Anaheim,Cleveland Indians,64,9,in from Rightfield.,Wind9mphinfromRightfield
+15-09-2010,Los Angeles Angels of Anaheim,Cleveland Indians,64,9,in from Rightfield.,
 16-09-2010,Los Angeles Angels of Anaheim,Cleveland Indians,65,11,out to Rightfield,Overcast
-23-09-2010,Kansas City Royals,Cleveland Indians,88,13,out to Rightfield.,Wind13mphouttoRightfield
+23-09-2010,Kansas City Royals,Cleveland Indians,88,13,out to Rightfield.,
 24-09-2010,Kansas City Royals,Cleveland Indians,81,16,from Left to Right,Cloudy
 25-09-2010,Kansas City Royals,Cleveland Indians,60,14,from Left to Right,Cloudy
-26-09-2010,Kansas City Royals,Cleveland Indians,56,6,in from Centerfield.,Wind6mphinfromCenterfield
+26-09-2010,Kansas City Royals,Cleveland Indians,56,6,in from Centerfield.,
 27-09-2010,Detroit Tigers,Cleveland Indians,61,5,in from Rightfield,Overcast
 09-04-2010,San Diego Padres,Colorado Rockies,62,5,out to Leftfield,Sunny
 10-04-2010,San Diego Padres,Colorado Rockies,56,5,in from Centerfield,Cloudy
@@ -724,27 +724,27 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-04-2010,New York Mets,Colorado Rockies,60,7,in from Rightfield,Cloudy
 25-04-2010,Florida Marlins,Colorado Rockies,60,12,in from Leftfield,Cloudy
 26-04-2010,Arizona Diamondbacks,Colorado Rockies,50,11,in from Rightfield,Cloudy
-27-04-2010,Arizona Diamondbacks,Colorado Rockies,66,5,out to Centerfield.,Wind5mphouttoCenterfield
+27-04-2010,Arizona Diamondbacks,Colorado Rockies,66,5,out to Centerfield.,
 28-04-2010,Arizona Diamondbacks,Colorado Rockies,76,16,out to Rightfield,Cloudy
-10-05-2010,Philadelphia Phillies,Colorado Rockies,63,16,in from Leftfield.,Wind16mphinfromLeftfield
+10-05-2010,Philadelphia Phillies,Colorado Rockies,63,16,in from Leftfield.,
 12-05-2010,Philadelphia Phillies,Colorado Rockies,40,6,in from Centerfield,Overcast
 13-05-2010,Washington Nationals,Colorado Rockies,47,4,in from Leftfield,Rain
 16-05-2010,Washington Nationals,Colorado Rockies,60,7,in from Rightfield,Sunny
-25-05-2010,Arizona Diamondbacks,Colorado Rockies,67,12,out to Leftfield.,Wind12mphouttoLeftfield
+25-05-2010,Arizona Diamondbacks,Colorado Rockies,67,12,out to Leftfield.,
 26-05-2010,Arizona Diamondbacks,Colorado Rockies,73,14,in from Rightfield,Cloudy
 27-05-2010,Arizona Diamondbacks,Colorado Rockies,84,9,out to Centerfield,Cloudy
 28-05-2010,Los Angeles Dodgers,Colorado Rockies,93,2,out to Rightfield,Cloudy
-29-05-2010,Los Angeles Dodgers,Colorado Rockies,70,15,in from Rightfield.,Wind15mphinfromRightfield
+29-05-2010,Los Angeles Dodgers,Colorado Rockies,70,15,in from Rightfield.,
 30-05-2010,Los Angeles Dodgers,Colorado Rockies,65,4,out to Leftfield,Sunny
 07-06-2010,Houston Astros,Colorado Rockies,93,3,in from Centerfield,Cloudy
-08-06-2010,Houston Astros,Colorado Rockies,76,17,out to Leftfield.,Wind17mphouttoLeftfield
+08-06-2010,Houston Astros,Colorado Rockies,76,17,out to Leftfield.,
 09-06-2010,Houston Astros,Colorado Rockies,80,9,in from Leftfield,Cloudy
 10-06-2010,Houston Astros,Colorado Rockies,77,5,out to Centerfield,Cloudy
-11-06-2010,Toronto Blue Jays,Colorado Rockies,58,8,in from Rightfield.,Wind8mphinfromRightfield
-12-06-2010,Toronto Blue Jays,Colorado Rockies,51,6,in from Centerfield.,Wind6mphinfromCenterfield
+11-06-2010,Toronto Blue Jays,Colorado Rockies,58,8,in from Rightfield.,
+12-06-2010,Toronto Blue Jays,Colorado Rockies,51,6,in from Centerfield.,
 13-06-2010,Toronto Blue Jays,Colorado Rockies,52,9,in from Centerfield,Overcast
 18-06-2010,Milwaukee Brewers,Colorado Rockies,81,16,in from Leftfield,Cloudy
-19-06-2010,Milwaukee Brewers,Colorado Rockies,78,16,in from Leftfield.,Wind16mphinfromLeftfield
+19-06-2010,Milwaukee Brewers,Colorado Rockies,78,16,in from Leftfield.,
 20-06-2010,Milwaukee Brewers,Colorado Rockies,78,10,in from Rightfield,Cloudy
 22-06-2010,Boston Red Sox,Colorado Rockies,88,8,in from Centerfield,Sunny
 23-06-2010,Boston Red Sox,Colorado Rockies,79,10,from Right to Left,Sunny
@@ -755,14 +755,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-07-2010,San Francisco Giants,Colorado Rockies,75,4,from Right to Left,Cloudy
 06-07-2010,St. Louis Cardinals,Colorado Rockies,81,4,from Right to Left,Cloudy
 07-07-2010,St. Louis Cardinals,Colorado Rockies,61,9,in from Centerfield,Overcast
-08-07-2010,St. Louis Cardinals,Colorado Rockies,65,4,in from Centerfield.,Wind4mphinfromCenterfield
+08-07-2010,St. Louis Cardinals,Colorado Rockies,65,4,in from Centerfield.,
 09-07-2010,San Diego Padres,Colorado Rockies,77,14,in from Rightfield,Cloudy
 10-07-2010,San Diego Padres,Colorado Rockies,85,2,from Left to Right,Cloudy
 11-07-2010,San Diego Padres,Colorado Rockies,87,4,in from Rightfield,Sunny
-27-07-2010,Pittsburgh Pirates,Colorado Rockies,79,19,from Right to Left.,Wind19mphfromRighttoLeft
+27-07-2010,Pittsburgh Pirates,Colorado Rockies,79,19,from Right to Left.,
 28-07-2010,Pittsburgh Pirates,Colorado Rockies,83,6,out to Centerfield,Cloudy
 29-07-2010,Pittsburgh Pirates,Colorado Rockies,88,10,in from Rightfield,Cloudy
-30-07-2010,Chicago Cubs,Colorado Rockies,74,8,out to Leftfield.,Wind8mphouttoLeftfield
+30-07-2010,Chicago Cubs,Colorado Rockies,74,8,out to Leftfield.,
 31-07-2010,Chicago Cubs,Colorado Rockies,87,2,out to Rightfield,Cloudy
 01-08-2010,Chicago Cubs,Colorado Rockies,86,5,from Right to Left,Cloudy
 03-08-2010,San Francisco Giants,Colorado Rockies,78,6,from Left to Right,Cloudy
@@ -774,14 +774,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 24-08-2010,Atlanta Braves,Colorado Rockies,79,5,from Right to Left,Sunny
 25-08-2010,Atlanta Braves,Colorado Rockies,84,3,in from Rightfield,Sunny
 27-08-2010,Los Angeles Dodgers,Colorado Rockies,88,5,out to Centerfield,Cloudy
-28-08-2010,Los Angeles Dodgers,Colorado Rockies,91,4,from Left to Right.,Wind4mphfromLefttoRight
+28-08-2010,Los Angeles Dodgers,Colorado Rockies,91,4,from Left to Right.,
 29-08-2010,Los Angeles Dodgers,Colorado Rockies,86,5,from Right to Left,Sunny
 02-09-2010,Philadelphia Phillies,Colorado Rockies,70,4,from Right to Left,Cloudy
 06-09-2010,Cincinnati Reds,Colorado Rockies,74,11,in from Centerfield,Sunny
 07-09-2010,Cincinnati Reds,Colorado Rockies,80,7,out to Centerfield,Cloudy
-08-09-2010,Cincinnati Reds,Colorado Rockies,71,7,in from Leftfield.,Wind7mphinfromLeftfield
+08-09-2010,Cincinnati Reds,Colorado Rockies,71,7,in from Leftfield.,
 09-09-2010,Cincinnati Reds,Colorado Rockies,85,9,out to Rightfield,Cloudy
-10-09-2010,Arizona Diamondbacks,Colorado Rockies,72,12,from Right to Left.,Wind12mphfromRighttoLeft
+10-09-2010,Arizona Diamondbacks,Colorado Rockies,72,12,from Right to Left.,
 11-09-2010,Arizona Diamondbacks,Colorado Rockies,81,4,out to Leftfield,Sunny
 12-09-2010,Arizona Diamondbacks,Colorado Rockies,80,7,from Right to Left,Cloudy
 13-09-2010,San Diego Padres,Colorado Rockies,87,4,out to Leftfield,Cloudy
@@ -793,35 +793,35 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-09-2010,Los Angeles Dodgers,Colorado Rockies,81,3,out to Leftfield,Sunny
 28-09-2010,Los Angeles Dodgers,Colorado Rockies,89,2,out to Rightfield,Sunny
 29-09-2010,Los Angeles Dodgers,Colorado Rockies,78,14,in from Rightfield,Sunny
-09-04-2010,Cleveland Indians,Detroit Tigers,38,17,out to Leftfield.,Wind17mphouttoLeftfield
+09-04-2010,Cleveland Indians,Detroit Tigers,38,17,out to Leftfield.,
 10-04-2010,Cleveland Indians,Detroit Tigers,50,14,from Right to Left,Sunny
 11-04-2010,Cleveland Indians,Detroit Tigers,54,0,NoWind,Cloudy
 12-04-2010,Kansas City Royals,Detroit Tigers,56,6,in from Leftfield,Sunny
-13-04-2010,Kansas City Royals,Detroit Tigers,47,9,from Left to Right.,Wind9mphfromLefttoRight
+13-04-2010,Kansas City Royals,Detroit Tigers,47,9,from Left to Right.,
 14-04-2010,Kansas City Royals,Detroit Tigers,59,15,in from Centerfield,Cloudy
 27-04-2010,Minnesota Twins,Detroit Tigers,52,14,in from Leftfield,Sunny
 28-04-2010,Minnesota Twins,Detroit Tigers,58,8,out to Leftfield,Cloudy
 29-04-2010,Minnesota Twins,Detroit Tigers,59,9,from Right to Left,Cloudy
 30-04-2010,Los Angeles Angels of Anaheim,Detroit Tigers,81,21,from Right to Left,Sunny
-01-05-2010,Los Angeles Angels of Anaheim,Detroit Tigers,67,18,from Right to Left.,Wind18mphfromRighttoLeft
-02-05-2010,Los Angeles Angels of Anaheim,Detroit Tigers,69,9,from Right to Left.,Wind9mphfromRighttoLeft
+01-05-2010,Los Angeles Angels of Anaheim,Detroit Tigers,67,18,from Right to Left.,
+02-05-2010,Los Angeles Angels of Anaheim,Detroit Tigers,69,9,from Right to Left.,
 10-05-2010,New York Yankees,Detroit Tigers,54,5,out to Rightfield,Sunny
-13-05-2010,New York Yankees,Detroit Tigers,50,16,in from Leftfield.,Wind16mphinfromLeftfield
+13-05-2010,New York Yankees,Detroit Tigers,50,16,in from Leftfield.,
 14-05-2010,Boston Red Sox,Detroit Tigers,67,21,in from Centerfield,Sunny
 15-05-2010,Boston Red Sox,Detroit Tigers,62,7,in from Centerfield,Cloudy
 16-05-2010,Boston Red Sox,Detroit Tigers,61,10,from Left to Right,Sunny
-18-05-2010,Chicago White Sox,Detroit Tigers,52,14,from Left to Right.,Wind14mphfromLefttoRight
+18-05-2010,Chicago White Sox,Detroit Tigers,52,14,from Left to Right.,
 28-05-2010,Oakland Athletics,Detroit Tigers,80,10,in from Leftfield,Sunny
 29-05-2010,Oakland Athletics,Detroit Tigers,78,14,from Left to Right,Sunny
 30-05-2010,Oakland Athletics,Detroit Tigers,80,3,in from Leftfield,Sunny
 31-05-2010,Oakland Athletics,Detroit Tigers,70,5,from Right to Left,Cloudy
 01-06-2010,Cleveland Indians,Detroit Tigers,79,8,in from Rightfield,Sunny
 02-06-2010,Cleveland Indians,Detroit Tigers,73,15,out to Leftfield,Cloudy
-03-06-2010,Cleveland Indians,Detroit Tigers,74,11,from Right to Left.,Wind11mphfromRighttoLeft
+03-06-2010,Cleveland Indians,Detroit Tigers,74,11,from Right to Left.,
 11-06-2010,Pittsburgh Pirates,Detroit Tigers,79,9,from Right to Left,Sunny
 12-06-2010,Pittsburgh Pirates,Detroit Tigers,87,5,out to Leftfield,Cloudy
 13-06-2010,Pittsburgh Pirates,Detroit Tigers,71,3,in from Leftfield,Cloudy
-15-06-2010,Washington Nationals,Detroit Tigers,76,12,from Left to Right.,Wind12mphfromLefttoRight
+15-06-2010,Washington Nationals,Detroit Tigers,76,12,from Left to Right.,
 16-06-2010,Washington Nationals,Detroit Tigers,77,19,out to Leftfield,Cloudy
 17-06-2010,Washington Nationals,Detroit Tigers,70,12,out to Rightfield,Cloudy
 18-06-2010,Arizona Diamondbacks,Detroit Tigers,87,11,from Right to Left,Sunny
@@ -837,23 +837,23 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-07-2010,Minnesota Twins,Detroit Tigers,84,6,in from Leftfield,Sunny
 11-07-2010,Minnesota Twins,Detroit Tigers,83,2,from Right to Left,Sunny
 19-07-2010,Texas Rangers,Detroit Tigers,78,9,in from Leftfield,Cloudy
-20-07-2010,Texas Rangers,Detroit Tigers,79,3,in from Leftfield.,Wind3mphinfromLeftfield
+20-07-2010,Texas Rangers,Detroit Tigers,79,3,in from Leftfield.,
 21-07-2010,Texas Rangers,Detroit Tigers,87,12,out to Leftfield,Cloudy
 22-07-2010,Toronto Blue Jays,Detroit Tigers,81,5,from Right to Left,Cloudy
 24-07-2010,Toronto Blue Jays,Detroit Tigers,83,31,out to Leftfield,Cloudy
 04-08-2010,Chicago White Sox,Detroit Tigers,84,9,from Right to Left,Cloudy
 05-08-2010,Chicago White Sox,Detroit Tigers,84,12,from Right to Left,Cloudy
-06-08-2010,Los Angeles Angels of Anaheim,Detroit Tigers,79,13,out to Leftfield.,Wind13mphouttoLeftfield
-07-08-2010,Los Angeles Angels of Anaheim,Detroit Tigers,79,11,from Right to Left.,Wind11mphfromRighttoLeft
+06-08-2010,Los Angeles Angels of Anaheim,Detroit Tigers,79,13,out to Leftfield.,
+07-08-2010,Los Angeles Angels of Anaheim,Detroit Tigers,79,11,from Right to Left.,
 08-08-2010,Los Angeles Angels of Anaheim,Detroit Tigers,80,17,from Right to Left,Sunny
-09-08-2010,Tampa Bay Rays,Detroit Tigers,79,4,in from Rightfield.,Wind4mphinfromRightfield
+09-08-2010,Tampa Bay Rays,Detroit Tigers,79,4,in from Rightfield.,
 10-08-2010,Tampa Bay Rays,Detroit Tigers,85,8,in from Rightfield,Cloudy
 11-08-2010,Tampa Bay Rays,Detroit Tigers,83,5,in from Leftfield,Cloudy
 20-08-2010,Cleveland Indians,Detroit Tigers,81,11,in from Centerfield,Sunny
-21-08-2010,Cleveland Indians,Detroit Tigers,71,6,from Left to Right.,Wind6mphfromLefttoRight
-22-08-2010,Cleveland Indians,Detroit Tigers,73,10,from Left to Right.,Wind10mphfromLefttoRight
+21-08-2010,Cleveland Indians,Detroit Tigers,71,6,from Left to Right.,
+22-08-2010,Cleveland Indians,Detroit Tigers,73,10,from Left to Right.,
 23-08-2010,Kansas City Royals,Detroit Tigers,76,11,out to Rightfield,Cloudy
-24-08-2010,Kansas City Royals,Detroit Tigers,74,9,in from Centerfield.,Wind9mphinfromCenterfield
+24-08-2010,Kansas City Royals,Detroit Tigers,74,9,in from Centerfield.,
 25-08-2010,Kansas City Royals,Detroit Tigers,75,12,out to Leftfield,Cloudy
 06-09-2010,Chicago White Sox,Detroit Tigers,74,18,in from Rightfield,Cloudy
 07-09-2010,Chicago White Sox,Detroit Tigers,82,23,in from Rightfield,Sunny
@@ -866,7 +866,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-09-2010,Kansas City Royals,Detroit Tigers,87,17,in from Rightfield,Cloudy
 22-09-2010,Kansas City Royals,Detroit Tigers,70,10,from Left to Right,Cloudy
 24-09-2010,Minnesota Twins,Detroit Tigers,81,22,out to Leftfield,Sunny
-25-09-2010,Minnesota Twins,Detroit Tigers,57,10,out to Leftfield.,Wind10mphouttoLeftfield
+25-09-2010,Minnesota Twins,Detroit Tigers,57,10,out to Leftfield.,
 26-09-2010,Minnesota Twins,Detroit Tigers,58,10,from Left to Right,Cloudy
 05-04-2010,San Francisco Giants,Houston Astros,77,13,out to Centerfield,Cloudy
 06-04-2010,San Francisco Giants,Houston Astros,73,15,out to Centerfield,Cloudy
@@ -888,7 +888,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-05-2010,Arizona Diamondbacks,Houston Astros,89,9,out to Centerfield,Sunny
 06-05-2010,Arizona Diamondbacks,Houston Astros,81,14,out to Leftfield,Cloudy
 07-05-2010,San Diego Padres,Houston Astros,73,0,NoWind,InDome
-08-05-2010,San Diego Padres,Houston Astros,79,11,in from Centerfield.,Wind11mphinfromCenterfield
+08-05-2010,San Diego Padres,Houston Astros,79,11,in from Centerfield.,
 09-05-2010,San Diego Padres,Houston Astros,73,0,NoWind,InDome
 19-05-2010,Colorado Rockies,Houston Astros,84,12,out to Leftfield,Cloudy
 20-05-2010,Colorado Rockies,Houston Astros,86,10,out to Leftfield,Cloudy
@@ -956,27 +956,27 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-04-2010,Boston Red Sox,Kansas City Royals,74,14,from Right to Left,Sunny
 11-04-2010,Boston Red Sox,Kansas City Royals,75,7,from Right to Left,Sunny
 23-04-2010,Minnesota Twins,Kansas City Royals,74,18,from Right to Left,Sunny
-24-04-2010,Minnesota Twins,Kansas City Royals,57,5,from Left to Right.,Wind5mphfromLefttoRight
+24-04-2010,Minnesota Twins,Kansas City Royals,57,5,from Left to Right.,
 25-04-2010,Minnesota Twins,Kansas City Royals,58,11,from Left to Right,Overcast
 26-04-2010,Seattle Mariners,Kansas City Royals,51,7,from Left to Right,Overcast
 27-04-2010,Seattle Mariners,Kansas City Royals,62,6,from Left to Right,Cloudy
 28-04-2010,Seattle Mariners,Kansas City Royals,67,21,from Right to Left,Sunny
 11-05-2010,Cleveland Indians,Kansas City Royals,64,10,in from Rightfield,Sunny
 12-05-2010,Cleveland Indians,Kansas City Royals,66,6,in from Rightfield,Overcast
-13-05-2010,Cleveland Indians,Kansas City Royals,58,9,from Left to Right.,Wind9mphfromLefttoRight
+13-05-2010,Cleveland Indians,Kansas City Royals,58,9,from Left to Right.,
 14-05-2010,Chicago White Sox,Kansas City Royals,65,5,in from Rightfield,Overcast
-15-05-2010,Chicago White Sox,Kansas City Royals,55,8,in from Rightfield.,Wind8mphinfromRightfield
+15-05-2010,Chicago White Sox,Kansas City Royals,55,8,in from Rightfield.,
 16-05-2010,Chicago White Sox,Kansas City Royals,57,9,in from Rightfield,Overcast
 21-05-2010,Colorado Rockies,Kansas City Royals,72,2,from Left to Right,Cloudy
 22-05-2010,Colorado Rockies,Kansas City Royals,87,17,from Right to Left,Sunny
 23-05-2010,Colorado Rockies,Kansas City Royals,78,15,from Right to Left,Overcast
-25-05-2010,Texas Rangers,Kansas City Royals,71,12,in from Rightfield.,Wind12mphinfromRightfield
+25-05-2010,Texas Rangers,Kansas City Royals,71,12,in from Rightfield.,
 26-05-2010,Texas Rangers,Kansas City Royals,82,9,in from Rightfield,Sunny
 31-05-2010,Los Angeles Angels of Anaheim,Kansas City Royals,79,5,from Left to Right,Sunny
 01-06-2010,Los Angeles Angels of Anaheim,Kansas City Royals,89,12,from Right to Left,Sunny
 02-06-2010,Los Angeles Angels of Anaheim,Kansas City Royals,76,5,from Left to Right,Cloudy
 03-06-2010,Los Angeles Angels of Anaheim,Kansas City Royals,80,7,from Left to Right,Sunny
-04-06-2010,Detroit Tigers,Kansas City Royals,88,14,from Right to Left.,Wind14mphfromRighttoLeft
+04-06-2010,Detroit Tigers,Kansas City Royals,88,14,from Right to Left.,
 05-06-2010,Detroit Tigers,Kansas City Royals,91,12,out to Rightfield,Sunny
 06-06-2010,Detroit Tigers,Kansas City Royals,81,8,from Left to Right,Sunny
 15-06-2010,Houston Astros,Kansas City Royals,80,2,from Left to Right,Cloudy
@@ -997,7 +997,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-07-2010,Minnesota Twins,Kansas City Royals,85,19,in from Rightfield,Cloudy
 27-07-2010,Minnesota Twins,Kansas City Royals,88,6,from Right to Left,Cloudy
 28-07-2010,Minnesota Twins,Kansas City Royals,90,10,from Left to Right,Cloudy
-29-07-2010,Baltimore Orioles,Kansas City Royals,83,7,from Right to Left.,Wind7mphfromRighttoLeft
+29-07-2010,Baltimore Orioles,Kansas City Royals,83,7,from Right to Left.,
 30-07-2010,Baltimore Orioles,Kansas City Royals,92,9,from Right to Left,Cloudy
 31-07-2010,Baltimore Orioles,Kansas City Royals,87,7,from Left to Right,Cloudy
 01-08-2010,Baltimore Orioles,Kansas City Royals,86,8,from Right to Left,Sunny
@@ -1011,7 +1011,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-08-2010,Chicago White Sox,Kansas City Royals,87,6,in from Rightfield,Sunny
 30-08-2010,Texas Rangers,Kansas City Royals,88,10,from Right to Left,Sunny
 31-08-2010,Texas Rangers,Kansas City Royals,91,11,from Right to Left,Cloudy
-01-09-2010,Texas Rangers,Kansas City Royals,77,13,from Right to Left.,Wind13mphfromRighttoLeft
+01-09-2010,Texas Rangers,Kansas City Royals,77,13,from Right to Left.,
 03-09-2010,Detroit Tigers,Kansas City Royals,71,10,from Left to Right,Sunny
 04-09-2010,Detroit Tigers,Kansas City Royals,77,7,from Right to Left,Sunny
 05-09-2010,Detroit Tigers,Kansas City Royals,81,17,from Right to Left,Sunny
@@ -1043,9 +1043,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-05-2010,Milwaukee Brewers,Los Angeles Dodgers,66,6,in from Leftfield,Sunny
 07-05-2010,Colorado Rockies,Los Angeles Dodgers,71,3,out to Centerfield,Sunny
 08-05-2010,Colorado Rockies,Los Angeles Dodgers,68,3,out to Leftfield,Sunny
-09-05-2010,Colorado Rockies,Los Angeles Dodgers,65,6,out to Centerfield.,Wind6mphouttoCenterfield
-17-05-2010,Houston Astros,Los Angeles Dodgers,59,1,out to Centerfield.,Wind1mphouttoCenterfield
-18-05-2010,Houston Astros,Los Angeles Dodgers,64,5,out to Centerfield.,Wind5mphouttoCenterfield
+09-05-2010,Colorado Rockies,Los Angeles Dodgers,65,6,out to Centerfield.,
+17-05-2010,Houston Astros,Los Angeles Dodgers,59,1,out to Centerfield.,
+18-05-2010,Houston Astros,Los Angeles Dodgers,64,5,out to Centerfield.,
 19-05-2010,San Diego Padres,Los Angeles Dodgers,67,7,in from Leftfield,Sunny
 20-05-2010,San Diego Padres,Los Angeles Dodgers,72,8,out to Centerfield,Sunny
 21-05-2010,Detroit Tigers,Los Angeles Dodgers,65,8,out to Rightfield,Sunny
@@ -1053,7 +1053,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-05-2010,Detroit Tigers,Los Angeles Dodgers,64,16,in unknown direction,Cloudy
 31-05-2010,Arizona Diamondbacks,Los Angeles Dodgers,69,9,out to Centerfield,Sunny
 01-06-2010,Arizona Diamondbacks,Los Angeles Dodgers,66,6,out to Leftfield,Cloudy
-02-06-2010,Arizona Diamondbacks,Los Angeles Dodgers,71,4,out to Centerfield.,Wind4mphouttoCenterfield
+02-06-2010,Arizona Diamondbacks,Los Angeles Dodgers,71,4,out to Centerfield.,
 03-06-2010,Atlanta Braves,Los Angeles Dodgers,70,6,out to Rightfield,Cloudy
 04-06-2010,Atlanta Braves,Los Angeles Dodgers,71,6,out to Rightfield,Sunny
 05-06-2010,Atlanta Braves,Los Angeles Dodgers,74,2,out to Leftfield,Sunny
@@ -1061,7 +1061,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-06-2010,St. Louis Cardinals,Los Angeles Dodgers,70,3,out to Centerfield,Cloudy
 08-06-2010,St. Louis Cardinals,Los Angeles Dodgers,68,8,out to Centerfield,Sunny
 09-06-2010,St. Louis Cardinals,Los Angeles Dodgers,67,7,out to Centerfield,Cloudy
-11-06-2010,Los Angeles Angels of Anaheim,Los Angeles Dodgers,67,8,out to Centerfield.,Wind8mphouttoCenterfield
+11-06-2010,Los Angeles Angels of Anaheim,Los Angeles Dodgers,67,8,out to Centerfield.,
 12-06-2010,Los Angeles Angels of Anaheim,Los Angeles Dodgers,67,2,out to Centerfield,Sunny
 13-06-2010,Los Angeles Angels of Anaheim,Los Angeles Dodgers,75,8,out to Centerfield,Cloudy
 25-06-2010,New York Yankees,Los Angeles Dodgers,71,7,out to Rightfield,Sunny
@@ -1104,7 +1104,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-09-2010,Colorado Rockies,Los Angeles Dodgers,80,3,out to Centerfield,Sunny
 19-09-2010,Colorado Rockies,Los Angeles Dodgers,82,8,out to Centerfield,Sunny
 21-09-2010,San Diego Padres,Los Angeles Dodgers,65,3,out to Centerfield,Cloudy
-22-09-2010,San Diego Padres,Los Angeles Dodgers,65,1,out to Centerfield.,Wind1mphouttoCenterfield
+22-09-2010,San Diego Padres,Los Angeles Dodgers,65,1,out to Centerfield.,
 23-09-2010,San Diego Padres,Los Angeles Dodgers,69,5,out to Rightfield,Cloudy
 01-10-2010,Arizona Diamondbacks,Los Angeles Dodgers,75,3,out to Leftfield,Cloudy
 02-10-2010,Arizona Diamondbacks,Los Angeles Dodgers,73,8,out to Centerfield,Sunny
@@ -1125,7 +1125,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-05-2010,Atlanta Braves,Milwaukee Brewers,65,0,NoWind,InDome
 12-05-2010,Atlanta Braves,Milwaukee Brewers,67,0,NoWind,InDome
 14-05-2010,Philadelphia Phillies,Milwaukee Brewers,67,10,from Right to Left,Cloudy
-15-05-2010,Philadelphia Phillies,Milwaukee Brewers,62,6,from Left to Right.,Wind6mphfromLefttoRight
+15-05-2010,Philadelphia Phillies,Milwaukee Brewers,62,6,from Left to Right.,
 16-05-2010,Philadelphia Phillies,Milwaukee Brewers,67,0,NoWind,InDome
 25-05-2010,Houston Astros,Milwaukee Brewers,77,10,in from Centerfield,Cloudy
 26-05-2010,Houston Astros,Milwaukee Brewers,79,0,NoWind,InDome
@@ -1137,18 +1137,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-06-2010,Chicago Cubs,Milwaukee Brewers,80,22,out to Centerfield,Sunny
 10-06-2010,Chicago Cubs,Milwaukee Brewers,69,8,from Left to Right,Cloudy
 11-06-2010,Texas Rangers,Milwaukee Brewers,87,13,in from Rightfield,Cloudy
-12-06-2010,Texas Rangers,Milwaukee Brewers,62,10,from Left to Right.,Wind10mphfromLefttoRight
+12-06-2010,Texas Rangers,Milwaukee Brewers,62,10,from Left to Right.,
 13-06-2010,Texas Rangers,Milwaukee Brewers,74,9,in from Leftfield,Cloudy
 22-06-2010,Minnesota Twins,Milwaukee Brewers,88,7,from Right to Left,Sunny
 23-06-2010,Minnesota Twins,Milwaukee Brewers,83,7,out to Leftfield,Overcast
 24-06-2010,Minnesota Twins,Milwaukee Brewers,77,9,out to Centerfield,Sunny
 25-06-2010,Seattle Mariners,Milwaukee Brewers,85,12,from Right to Left,Sunny
 26-06-2010,Seattle Mariners,Milwaukee Brewers,84,8,from Left to Right,Cloudy
-27-06-2010,Seattle Mariners,Milwaukee Brewers,75,4,in from Centerfield.,Wind4mphinfromCenterfield
-28-06-2010,Houston Astros,Milwaukee Brewers,68,13,in from Centerfield.,Wind13mphinfromCenterfield
+27-06-2010,Seattle Mariners,Milwaukee Brewers,75,4,in from Centerfield.,
+28-06-2010,Houston Astros,Milwaukee Brewers,68,13,in from Centerfield.,
 29-06-2010,Houston Astros,Milwaukee Brewers,67,7,in from Leftfield,Sunny
 30-06-2010,Houston Astros,Milwaukee Brewers,67,7,from Left to Right,Cloudy
-05-07-2010,San Francisco Giants,Milwaukee Brewers,87,16,from Right to Left.,Wind16mphfromRighttoLeft
+05-07-2010,San Francisco Giants,Milwaukee Brewers,87,16,from Right to Left.,
 06-07-2010,San Francisco Giants,Milwaukee Brewers,90,6,out to Leftfield,Cloudy
 07-07-2010,San Francisco Giants,Milwaukee Brewers,83,0,NoWind,InDome
 08-07-2010,San Francisco Giants,Milwaukee Brewers,85,6,out to Centerfield,Cloudy
@@ -1156,12 +1156,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-07-2010,Pittsburgh Pirates,Milwaukee Brewers,83,0,NoWind,InDome
 11-07-2010,Pittsburgh Pirates,Milwaukee Brewers,84,11,from Right to Left,Cloudy
 23-07-2010,Washington Nationals,Milwaukee Brewers,83,11,from Left to Right,Cloudy
-24-07-2010,Washington Nationals,Milwaukee Brewers,84,9,out to Rightfield.,Wind9mphouttoRightfield
+24-07-2010,Washington Nationals,Milwaukee Brewers,84,9,out to Rightfield.,
 25-07-2010,Washington Nationals,Milwaukee Brewers,76,11,from Left to Right,Sunny
 26-07-2010,Cincinnati Reds,Milwaukee Brewers,81,12,in from Centerfield,Sunny
 27-07-2010,Cincinnati Reds,Milwaukee Brewers,88,11,in from Rightfield,Sunny
 28-07-2010,Cincinnati Reds,Milwaukee Brewers,84,9,out to Centerfield,Cloudy
-06-08-2010,Houston Astros,Milwaukee Brewers,76,6,out to Centerfield.,Wind6mphouttoCenterfield
+06-08-2010,Houston Astros,Milwaukee Brewers,76,6,out to Centerfield.,
 07-08-2010,Houston Astros,Milwaukee Brewers,83,14,from Left to Right,Cloudy
 08-08-2010,Houston Astros,Milwaukee Brewers,83,17,from Left to Right,Sunny
 09-08-2010,Arizona Diamondbacks,Milwaukee Brewers,83,5,from Left to Right,Cloudy
@@ -1169,56 +1169,56 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-08-2010,Arizona Diamondbacks,Milwaukee Brewers,84,11,out to Centerfield,Cloudy
 12-08-2010,Arizona Diamondbacks,Milwaukee Brewers,85,5,in from Leftfield,Cloudy
 20-08-2010,San Diego Padres,Milwaukee Brewers,84,0,NoWind,InDome
-21-08-2010,San Diego Padres,Milwaukee Brewers,77,11,from Left to Right.,Wind11mphfromLefttoRight
+21-08-2010,San Diego Padres,Milwaukee Brewers,77,11,from Left to Right.,
 22-08-2010,San Diego Padres,Milwaukee Brewers,78,8,from Left to Right,Sunny
-24-08-2010,Los Angeles Dodgers,Milwaukee Brewers,74,11,out to Centerfield.,Wind11mphouttoCenterfield
+24-08-2010,Los Angeles Dodgers,Milwaukee Brewers,74,11,out to Centerfield.,
 25-08-2010,Los Angeles Dodgers,Milwaukee Brewers,72,13,out to Centerfield,Cloudy
 26-08-2010,Los Angeles Dodgers,Milwaukee Brewers,74,6,out to Centerfield,Sunny
 27-08-2010,Pittsburgh Pirates,Milwaukee Brewers,80,14,out to Centerfield,Sunny
 28-08-2010,Pittsburgh Pirates,Milwaukee Brewers,81,10,in from Centerfield,Sunny
 29-08-2010,Pittsburgh Pirates,Milwaukee Brewers,88,9,in from Centerfield,Sunny
 06-09-2010,St. Louis Cardinals,Milwaukee Brewers,72,18,from Right to Left,Cloudy
-07-09-2010,St. Louis Cardinals,Milwaukee Brewers,65,23,out to Leftfield.,Wind23mphouttoLeftfield
+07-09-2010,St. Louis Cardinals,Milwaukee Brewers,65,23,out to Leftfield.,
 08-09-2010,St. Louis Cardinals,Milwaukee Brewers,71,0,NoWind,InDome
 10-09-2010,Chicago Cubs,Milwaukee Brewers,64,11,in from Centerfield,Sunny
 11-09-2010,Chicago Cubs,Milwaukee Brewers,71,8,from Right to Left,Cloudy
 12-09-2010,Chicago Cubs,Milwaukee Brewers,75,9,out to Leftfield,Sunny
-20-09-2010,Cincinnati Reds,Milwaukee Brewers,67,6,out to Leftfield.,Wind6mphouttoLeftfield
+20-09-2010,Cincinnati Reds,Milwaukee Brewers,67,6,out to Leftfield.,
 21-09-2010,Cincinnati Reds,Milwaukee Brewers,70,0,NoWind,InDome
-22-09-2010,Cincinnati Reds,Milwaukee Brewers,63,7,from Left to Right.,Wind7mphfromLefttoRight
-23-09-2010,Florida Marlins,Milwaukee Brewers,82,12,in from Rightfield.,Wind12mphinfromRightfield
+22-09-2010,Cincinnati Reds,Milwaukee Brewers,63,7,from Left to Right.,
+23-09-2010,Florida Marlins,Milwaukee Brewers,82,12,in from Rightfield.,
 24-09-2010,Florida Marlins,Milwaukee Brewers,74,0,NoWind,InDome
 25-09-2010,Florida Marlins,Milwaukee Brewers,68,0,NoWind,InDome
 26-09-2010,Florida Marlins,Milwaukee Brewers,69,0,NoWind,InDome
 12-04-2010,Boston Red Sox,Minnesota Twins,65,10,from Right to Left,Cloudy
 14-04-2010,Boston Red Sox,Minnesota Twins,73,17,out to Leftfield,Overcast
-15-04-2010,Boston Red Sox,Minnesota Twins,65,17,out to Leftfield.,Wind17mphouttoLeftfield
+15-04-2010,Boston Red Sox,Minnesota Twins,65,17,out to Leftfield.,
 16-04-2010,Kansas City Royals,Minnesota Twins,56,16,from Left to Right,Sunny
 17-04-2010,Kansas City Royals,Minnesota Twins,58,12,from Left to Right,Sunny
 18-04-2010,Kansas City Royals,Minnesota Twins,64,4,from Left to Right,Cloudy
 20-04-2010,Cleveland Indians,Minnesota Twins,68,5,from Left to Right,Sunny
 21-04-2010,Cleveland Indians,Minnesota Twins,58,11,in from Leftfield,Sunny
 22-04-2010,Cleveland Indians,Minnesota Twins,52,1,from Right to Left,Sunny
-03-05-2010,Detroit Tigers,Minnesota Twins,55,10,out to Leftfield.,Wind10mphouttoLeftfield
-04-05-2010,Detroit Tigers,Minnesota Twins,70,19,out to Centerfield.,Wind19mphouttoCenterfield
+03-05-2010,Detroit Tigers,Minnesota Twins,55,10,out to Leftfield.,
+04-05-2010,Detroit Tigers,Minnesota Twins,70,19,out to Centerfield.,
 05-05-2010,Detroit Tigers,Minnesota Twins,53,24,out to Leftfield,Overcast
 06-05-2010,Baltimore Orioles,Minnesota Twins,52,4,out to Centerfield,Overcast
 09-05-2010,Baltimore Orioles,Minnesota Twins,54,6,from Left to Right,Cloudy
-11-05-2010,Chicago White Sox,Minnesota Twins,45,10,in from Leftfield.,Wind10mphinfromLeftfield
+11-05-2010,Chicago White Sox,Minnesota Twins,45,10,in from Leftfield.,
 12-05-2010,Chicago White Sox,Minnesota Twins,47,14,out to Leftfield,Overcast
-21-05-2010,Milwaukee Brewers,Minnesota Twins,64,5,from Right to Left.,Wind5mphfromRighttoLeft
+21-05-2010,Milwaukee Brewers,Minnesota Twins,64,5,from Right to Left.,
 22-05-2010,Milwaukee Brewers,Minnesota Twins,67,22,in from Centerfield,Cloudy
-23-05-2010,Milwaukee Brewers,Minnesota Twins,80,8,from Right to Left.,Wind8mphfromRighttoLeft
+23-05-2010,Milwaukee Brewers,Minnesota Twins,80,8,from Right to Left.,
 25-05-2010,New York Yankees,Minnesota Twins,87,10,out to Rightfield,Cloudy
 26-05-2010,New York Yankees,Minnesota Twins,78,9,from Left to Right,Cloudy
 27-05-2010,New York Yankees,Minnesota Twins,80,9,from Right to Left,Sunny
-28-05-2010,Texas Rangers,Minnesota Twins,82,14,in from Centerfield.,Wind14mphinfromCenterfield
+28-05-2010,Texas Rangers,Minnesota Twins,82,14,in from Centerfield.,
 29-05-2010,Texas Rangers,Minnesota Twins,88,9,out to Leftfield,Sunny
 30-05-2010,Texas Rangers,Minnesota Twins,66,11,from Left to Right,Overcast
 08-06-2010,Kansas City Royals,Minnesota Twins,70,8,from Right to Left,Cloudy
 09-06-2010,Kansas City Royals,Minnesota Twins,70,15,from Left to Right,Cloudy
-10-06-2010,Kansas City Royals,Minnesota Twins,66,17,from Right to Left.,Wind17mphfromRighttoLeft
-11-06-2010,Atlanta Braves,Minnesota Twins,73,13,from Left to Right.,Wind13mphfromLefttoRight
+10-06-2010,Kansas City Royals,Minnesota Twins,66,17,from Right to Left.,
+11-06-2010,Atlanta Braves,Minnesota Twins,73,13,from Left to Right.,
 12-06-2010,Atlanta Braves,Minnesota Twins,60,6,from Left to Right,Drizzle
 13-06-2010,Atlanta Braves,Minnesota Twins,65,0,NoWind,Overcast
 15-06-2010,Colorado Rockies,Minnesota Twins,74,12,from Left to Right,Cloudy
@@ -1233,15 +1233,15 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-07-2010,Tampa Bay Rays,Minnesota Twins,80,10,out to Leftfield,Overcast
 15-07-2010,Chicago White Sox,Minnesota Twins,84,20,from Right to Left,Sunny
 16-07-2010,Chicago White Sox,Minnesota Twins,88,15,from Left to Right,Cloudy
-17-07-2010,Chicago White Sox,Minnesota Twins,79,17,from Left to Right.,Wind17mphfromLefttoRight
-18-07-2010,Chicago White Sox,Minnesota Twins,74,10,from Left to Right.,Wind10mphfromLefttoRight
+17-07-2010,Chicago White Sox,Minnesota Twins,79,17,from Left to Right.,
+18-07-2010,Chicago White Sox,Minnesota Twins,74,10,from Left to Right.,
 19-07-2010,Cleveland Indians,Minnesota Twins,78,6,out to Leftfield,Cloudy
 20-07-2010,Cleveland Indians,Minnesota Twins,83,11,from Left to Right,Cloudy
 21-07-2010,Cleveland Indians,Minnesota Twins,83,7,in from Rightfield,Sunny
 30-07-2010,Seattle Mariners,Minnesota Twins,72,9,in from Leftfield,Overcast
 31-07-2010,Seattle Mariners,Minnesota Twins,82,6,from Right to Left,Cloudy
 01-08-2010,Seattle Mariners,Minnesota Twins,86,8,from Right to Left,Overcast
-13-08-2010,Oakland Athletics,Minnesota Twins,75,17,in from Leftfield.,Wind17mphinfromLeftfield
+13-08-2010,Oakland Athletics,Minnesota Twins,75,17,in from Leftfield.,
 14-08-2010,Oakland Athletics,Minnesota Twins,82,13,from Right to Left,Cloudy
 15-08-2010,Oakland Athletics,Minnesota Twins,74,21,from Right to Left,Cloudy
 17-08-2010,Chicago White Sox,Minnesota Twins,77,7,from Right to Left,Cloudy
@@ -1257,7 +1257,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-09-2010,Texas Rangers,Minnesota Twins,67,7,from Left to Right,Cloudy
 05-09-2010,Texas Rangers,Minnesota Twins,70,19,from Right to Left,Overcast
 06-09-2010,Kansas City Royals,Minnesota Twins,69,9,out to Leftfield,Drizzle
-07-09-2010,Kansas City Royals,Minnesota Twins,60,10,from Left to Right.,Wind10mphfromLefttoRight
+07-09-2010,Kansas City Royals,Minnesota Twins,60,10,from Left to Right.,
 08-09-2010,Kansas City Royals,Minnesota Twins,66,5,in from Leftfield,Cloudy
 17-09-2010,Oakland Athletics,Minnesota Twins,64,4,from Left to Right,Overcast
 18-09-2010,Oakland Athletics,Minnesota Twins,52,10,from Left to Right,Cloudy
@@ -1269,11 +1269,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-10-2010,Toronto Blue Jays,Minnesota Twins,58,9,from Left to Right,Cloudy
 02-10-2010,Toronto Blue Jays,Minnesota Twins,50,11,from Left to Right,Cloudy
 03-10-2010,Toronto Blue Jays,Minnesota Twins,55,8,from Right to Left,Cloudy
-13-04-2010,Los Angeles Angels of Anaheim,New York Yankees,55,9,out to Rightfield.,Wind9mphouttoRightfield
+13-04-2010,Los Angeles Angels of Anaheim,New York Yankees,55,9,out to Rightfield.,
 14-04-2010,Los Angeles Angels of Anaheim,New York Yankees,62,12,from Left to Right,Sunny
 15-04-2010,Los Angeles Angels of Anaheim,New York Yankees,71,8,from Left to Right,Cloudy
-16-04-2010,Texas Rangers,New York Yankees,50,10,from Left to Right.,Wind10mphfromLefttoRight
-17-04-2010,Texas Rangers,New York Yankees,55,12,from Left to Right.,Wind12mphfromLefttoRight
+16-04-2010,Texas Rangers,New York Yankees,50,10,from Left to Right.,
+17-04-2010,Texas Rangers,New York Yankees,55,12,from Left to Right.,
 18-04-2010,Texas Rangers,New York Yankees,53,15,from Left to Right,Cloudy
 30-04-2010,Chicago White Sox,New York Yankees,70,12,from Right to Left,Sunny
 01-05-2010,Chicago White Sox,New York Yankees,71,9,from Left to Right,Sunny
@@ -1284,23 +1284,23 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-05-2010,Minnesota Twins,New York Yankees,78,13,out to Leftfield,Cloudy
 15-05-2010,Minnesota Twins,New York Yankees,68,19,from Left to Right,Cloudy
 16-05-2010,Minnesota Twins,New York Yankees,67,14,from Left to Right,Cloudy
-17-05-2010,Boston Red Sox,New York Yankees,67,9,from Right to Left.,Wind9mphfromRighttoLeft
+17-05-2010,Boston Red Sox,New York Yankees,67,9,from Right to Left.,
 18-05-2010,Boston Red Sox,New York Yankees,51,18,in from Rightfield,Rain
-19-05-2010,Tampa Bay Rays,New York Yankees,62,7,out to Rightfield.,Wind7mphouttoRightfield
+19-05-2010,Tampa Bay Rays,New York Yankees,62,7,out to Rightfield.,
 20-05-2010,Tampa Bay Rays,New York Yankees,75,9,from Right to Left,Sunny
-28-05-2010,Cleveland Indians,New York Yankees,65,10,from Right to Left.,Wind10mphfromRighttoLeft
+28-05-2010,Cleveland Indians,New York Yankees,65,10,from Right to Left.,
 29-05-2010,Cleveland Indians,New York Yankees,74,7,from Left to Right,Cloudy
 30-05-2010,Cleveland Indians,New York Yankees,80,6,from Right to Left,Cloudy
 31-05-2010,Cleveland Indians,New York Yankees,80,16,from Left to Right,Sunny
-01-06-2010,Baltimore Orioles,New York Yankees,76,8,in unknown direction.,Wind8mphinunknowndirection
+01-06-2010,Baltimore Orioles,New York Yankees,76,8,in unknown direction.,
 02-06-2010,Baltimore Orioles,New York Yankees,79,12,from Right to Left,Cloudy
 03-06-2010,Baltimore Orioles,New York Yankees,85,8,out to Leftfield,Cloudy
 11-06-2010,Houston Astros,New York Yankees,67,8,from Right to Left,Cloudy
 12-06-2010,Houston Astros,New York Yankees,71,11,from Right to Left,Cloudy
 13-06-2010,Houston Astros,New York Yankees,73,12,in from Leftfield,Cloudy
 15-06-2010,Philadelphia Phillies,New York Yankees,73,8,from Right to Left,Cloudy
-16-06-2010,Philadelphia Phillies,New York Yankees,72,15,from Right to Left.,Wind15mphfromRighttoLeft
-17-06-2010,Philadelphia Phillies,New York Yankees,71,12,out to Rightfield.,Wind12mphouttoRightfield
+16-06-2010,Philadelphia Phillies,New York Yankees,72,15,from Right to Left.,
+17-06-2010,Philadelphia Phillies,New York Yankees,71,12,out to Rightfield.,
 18-06-2010,New York Mets,New York Yankees,79,10,from Right to Left,Sunny
 19-06-2010,New York Mets,New York Yankees,80,6,in unknown direction,Sunny
 20-06-2010,New York Mets,New York Yankees,86,6,from Right to Left,Cloudy
@@ -1319,16 +1319,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-07-2010,Kansas City Royals,New York Yankees,86,5,from Right to Left,Cloudy
 24-07-2010,Kansas City Royals,New York Yankees,89,8,from Right to Left,Cloudy
 25-07-2010,Kansas City Royals,New York Yankees,90,9,out to Rightfield,Cloudy
-02-08-2010,Toronto Blue Jays,New York Yankees,78,12,from Right to Left.,Wind12mphfromRighttoLeft
-03-08-2010,Toronto Blue Jays,New York Yankees,78,12,from Right to Left.,Wind12mphfromRighttoLeft
+02-08-2010,Toronto Blue Jays,New York Yankees,78,12,from Right to Left.,
+03-08-2010,Toronto Blue Jays,New York Yankees,78,12,from Right to Left.,
 04-08-2010,Toronto Blue Jays,New York Yankees,89,2,from Right to Left,Cloudy
 06-08-2010,Boston Red Sox,New York Yankees,82,16,from Left to Right,Cloudy
 07-08-2010,Boston Red Sox,New York Yankees,83,9,from Right to Left,Cloudy
 08-08-2010,Boston Red Sox,New York Yankees,77,12,from Right to Left,Cloudy
 09-08-2010,Boston Red Sox,New York Yankees,92,13,in unknown direction,Cloudy
-16-08-2010,Detroit Tigers,New York Yankees,80,9,from Right to Left.,Wind9mphfromRighttoLeft
+16-08-2010,Detroit Tigers,New York Yankees,80,9,from Right to Left.,
 17-08-2010,Detroit Tigers,New York Yankees,87,7,from Right to Left,Cloudy
-18-08-2010,Detroit Tigers,New York Yankees,79,9,in from Centerfield.,Wind9mphinfromCenterfield
+18-08-2010,Detroit Tigers,New York Yankees,79,9,in from Centerfield.,
 19-08-2010,Detroit Tigers,New York Yankees,87,6,out to Centerfield,Sunny
 20-08-2010,Seattle Mariners,New York Yankees,84,6,from Left to Right,Sunny
 21-08-2010,Seattle Mariners,New York Yankees,80,12,from Left to Right,Cloudy
@@ -1337,7 +1337,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 31-08-2010,Oakland Athletics,New York Yankees,90,10,from Left to Right,Sunny
 01-09-2010,Oakland Athletics,New York Yankees,85,10,out to Leftfield,Sunny
 02-09-2010,Oakland Athletics,New York Yankees,92,10,from Right to Left,Sunny
-03-09-2010,Toronto Blue Jays,New York Yankees,80,11,in from Leftfield.,Wind11mphinfromLeftfield
+03-09-2010,Toronto Blue Jays,New York Yankees,80,11,in from Leftfield.,
 04-09-2010,Toronto Blue Jays,New York Yankees,78,18,from Right to Left,Cloudy
 05-09-2010,Toronto Blue Jays,New York Yankees,72,13,out to Rightfield,Sunny
 06-09-2010,Baltimore Orioles,New York Yankees,76,4,from Right to Left,Cloudy
@@ -1346,95 +1346,95 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-09-2010,Tampa Bay Rays,New York Yankees,66,7,from Left to Right,Sunny
 21-09-2010,Tampa Bay Rays,New York Yankees,66,13,from Right to Left,Sunny
 22-09-2010,Tampa Bay Rays,New York Yankees,80,8,from Right to Left,Cloudy
-23-09-2010,Tampa Bay Rays,New York Yankees,71,9,from Right to Left.,Wind9mphfromRighttoLeft
+23-09-2010,Tampa Bay Rays,New York Yankees,71,9,from Right to Left.,
 24-09-2010,Boston Red Sox,New York Yankees,75,12,from Right to Left,Cloudy
 25-09-2010,Boston Red Sox,New York Yankees,87,18,out to Leftfield,Cloudy
-26-09-2010,Boston Red Sox,New York Yankees,69,11,out to Rightfield.,Wind11mphouttoRightfield
-05-04-2010,Florida Marlins,New York Mets,66,13,out to Leftfield.,Wind13mphouttoLeftfield
-07-04-2010,Florida Marlins,New York Mets,83,18,out to Centerfield.,Wind18mphouttoCenterfield
-08-04-2010,Florida Marlins,New York Mets,63,21,out to Leftfield.,Wind21mphouttoLeftfield
-09-04-2010,Washington Nationals,New York Mets,54,20,in from Leftfield.,Wind20mphinfromLeftfield
+26-09-2010,Boston Red Sox,New York Yankees,69,11,out to Rightfield.,
+05-04-2010,Florida Marlins,New York Mets,66,13,out to Leftfield.,
+07-04-2010,Florida Marlins,New York Mets,83,18,out to Centerfield.,
+08-04-2010,Florida Marlins,New York Mets,63,21,out to Leftfield.,
+09-04-2010,Washington Nationals,New York Mets,54,20,in from Leftfield.,
 10-04-2010,Washington Nationals,New York Mets,52,20,out to Rightfield,Cloudy
 11-04-2010,Washington Nationals,New York Mets,71,13,out to Rightfield,Cloudy
 19-04-2010,Chicago Cubs,New York Mets,58,12,in from Leftfield,Cloudy
 20-04-2010,Chicago Cubs,New York Mets,61,15,out to Leftfield,Cloudy
 21-04-2010,Chicago Cubs,New York Mets,57,12,out to Leftfield,Overcast
-22-04-2010,Chicago Cubs,New York Mets,61,11,out to Leftfield.,Wind11mphouttoLeftfield
+22-04-2010,Chicago Cubs,New York Mets,61,11,out to Leftfield.,
 23-04-2010,Atlanta Braves,New York Mets,64,14,from Left to Right,Sunny
 24-04-2010,Atlanta Braves,New York Mets,64,6,from Right to Left,Cloudy
-25-04-2010,Atlanta Braves,New York Mets,50,12,in from Centerfield.,Wind12mphinfromCenterfield
-28-04-2010,Los Angeles Dodgers,New York Mets,53,26,from Left to Right.,Wind26mphfromLefttoRight
+25-04-2010,Atlanta Braves,New York Mets,50,12,in from Centerfield.,
+28-04-2010,Los Angeles Dodgers,New York Mets,53,26,from Left to Right.,
 07-05-2010,San Francisco Giants,New York Mets,60,17,out to Leftfield,Cloudy
-08-05-2010,San Francisco Giants,New York Mets,72,21,out to Rightfield.,Wind21mphouttoRightfield
-09-05-2010,San Francisco Giants,New York Mets,53,25,from Left to Right.,Wind25mphfromLefttoRight
+08-05-2010,San Francisco Giants,New York Mets,72,21,out to Rightfield.,
+09-05-2010,San Francisco Giants,New York Mets,53,25,from Left to Right.,
 10-05-2010,Washington Nationals,New York Mets,57,19,in from Leftfield,Cloudy
-11-05-2010,Washington Nationals,New York Mets,52,12,out to Leftfield.,Wind12mphouttoLeftfield
+11-05-2010,Washington Nationals,New York Mets,52,12,out to Leftfield.,
 12-05-2010,Washington Nationals,New York Mets,48,12,in from Centerfield,Drizzle
-21-05-2010,New York Yankees,New York Mets,72,9,from Right to Left.,Wind9mphfromRighttoLeft
-22-05-2010,New York Yankees,New York Mets,68,11,from Right to Left.,Wind11mphfromRighttoLeft
-23-05-2010,New York Yankees,New York Mets,63,11,in from Centerfield.,Wind11mphinfromCenterfield
+21-05-2010,New York Yankees,New York Mets,72,9,from Right to Left.,
+22-05-2010,New York Yankees,New York Mets,68,11,from Right to Left.,
+23-05-2010,New York Yankees,New York Mets,63,11,in from Centerfield.,
 25-05-2010,Philadelphia Phillies,New York Mets,71,15,out to Leftfield,Sunny
 26-05-2010,Philadelphia Phillies,New York Mets,87,8,out to Rightfield,Cloudy
-27-05-2010,Philadelphia Phillies,New York Mets,60,13,out to Leftfield.,Wind13mphouttoLeftfield
+27-05-2010,Philadelphia Phillies,New York Mets,60,13,out to Leftfield.,
 04-06-2010,Florida Marlins,New York Mets,82,15,out to Leftfield,Cloudy
-05-06-2010,Florida Marlins,New York Mets,89,16,out to Rightfield.,Wind16mphouttoRightfield
-06-06-2010,Florida Marlins,New York Mets,87,17,out to Centerfield.,Wind17mphouttoCenterfield
+05-06-2010,Florida Marlins,New York Mets,89,16,out to Rightfield.,
+06-06-2010,Florida Marlins,New York Mets,87,17,out to Centerfield.,
 08-06-2010,San Diego Padres,New York Mets,70,9,in from Leftfield,Cloudy
-22-06-2010,Detroit Tigers,New York Mets,74,11,in from Rightfield.,Wind11mphinfromRightfield
+22-06-2010,Detroit Tigers,New York Mets,74,11,in from Rightfield.,
 23-06-2010,Detroit Tigers,New York Mets,88,8,from Left to Right,Cloudy
 24-06-2010,Detroit Tigers,New York Mets,91,17,out to Rightfield,Cloudy
 25-06-2010,Minnesota Twins,New York Mets,78,14,out to Leftfield,Cloudy
 26-06-2010,Minnesota Twins,New York Mets,87,12,out to Rightfield,Cloudy
-27-06-2010,Minnesota Twins,New York Mets,83,7,in from Leftfield.,Wind7mphinfromLeftfield
+27-06-2010,Minnesota Twins,New York Mets,83,7,in from Leftfield.,
 05-07-2010,Cincinnati Reds,New York Mets,91,9,in from Rightfield,Sunny
 06-07-2010,Cincinnati Reds,New York Mets,96,7,out to Centerfield,Cloudy
 07-07-2010,Cincinnati Reds,New York Mets,87,10,out to Leftfield,Sunny
 09-07-2010,Atlanta Braves,New York Mets,82,14,out to Leftfield,Cloudy
-10-07-2010,Atlanta Braves,New York Mets,79,10,in from Centerfield.,Wind10mphinfromCenterfield
+10-07-2010,Atlanta Braves,New York Mets,79,10,in from Centerfield.,
 11-07-2010,Atlanta Braves,New York Mets,86,8,in from Leftfield,Cloudy
 27-07-2010,St. Louis Cardinals,New York Mets,83,16,out to Leftfield,Cloudy
-28-07-2010,St. Louis Cardinals,New York Mets,85,19,out to Leftfield.,Wind19mphouttoLeftfield
-29-07-2010,St. Louis Cardinals,New York Mets,83,6,out to Leftfield.,Wind6mphouttoLeftfield
-30-07-2010,Arizona Diamondbacks,New York Mets,76,7,out to Leftfield.,Wind7mphouttoLeftfield
-31-07-2010,Arizona Diamondbacks,New York Mets,77,4,out to Leftfield.,Wind4mphouttoLeftfield
-01-08-2010,Arizona Diamondbacks,New York Mets,77,8,in from Rightfield.,Wind8mphinfromRightfield
-10-08-2010,Colorado Rockies,New York Mets,87,7,out to Centerfield.,Wind7mphouttoCenterfield
+28-07-2010,St. Louis Cardinals,New York Mets,85,19,out to Leftfield.,
+29-07-2010,St. Louis Cardinals,New York Mets,83,6,out to Leftfield.,
+30-07-2010,Arizona Diamondbacks,New York Mets,76,7,out to Leftfield.,
+31-07-2010,Arizona Diamondbacks,New York Mets,77,4,out to Leftfield.,
+01-08-2010,Arizona Diamondbacks,New York Mets,77,8,in from Rightfield.,
+10-08-2010,Colorado Rockies,New York Mets,87,7,out to Centerfield.,
 11-08-2010,Colorado Rockies,New York Mets,82,12,from Right to Left,Cloudy
-12-08-2010,Colorado Rockies,New York Mets,74,13,in from Centerfield.,Wind13mphinfromCenterfield
-13-08-2010,Philadelphia Phillies,New York Mets,75,8,from Right to Left.,Wind8mphfromRighttoLeft
+12-08-2010,Colorado Rockies,New York Mets,74,13,in from Centerfield.,
+13-08-2010,Philadelphia Phillies,New York Mets,75,8,from Right to Left.,
 14-08-2010,Philadelphia Phillies,New York Mets,74,15,out to Leftfield,Cloudy
 15-08-2010,Philadelphia Phillies,New York Mets,76,12,out to Leftfield,Drizzle
-24-08-2010,Florida Marlins,New York Mets,70,17,in from Centerfield.,Wind17mphinfromCenterfield
-25-08-2010,Florida Marlins,New York Mets,70,6,in from Leftfield.,Wind6mphinfromLeftfield
+24-08-2010,Florida Marlins,New York Mets,70,17,in from Centerfield.,
+25-08-2010,Florida Marlins,New York Mets,70,6,in from Leftfield.,
 26-08-2010,Florida Marlins,New York Mets,79,16,in from Centerfield,Cloudy
 27-08-2010,Houston Astros,New York Mets,76,8,from Left to Right,Sunny
 28-08-2010,Houston Astros,New York Mets,79,6,in from Centerfield,Cloudy
 29-08-2010,Houston Astros,New York Mets,87,9,from Left to Right,Sunny
-10-09-2010,Philadelphia Phillies,New York Mets,67,15,in from Leftfield.,Wind15mphinfromLeftfield
+10-09-2010,Philadelphia Phillies,New York Mets,67,15,in from Leftfield.,
 11-09-2010,Philadelphia Phillies,New York Mets,78,6,in from Leftfield,Cloudy
-12-09-2010,Philadelphia Phillies,New York Mets,66,13,in from Rightfield.,Wind13mphinfromRightfield
+12-09-2010,Philadelphia Phillies,New York Mets,66,13,in from Rightfield.,
 13-09-2010,Pittsburgh Pirates,New York Mets,67,5,out to Leftfield,Overcast
 14-09-2010,Pittsburgh Pirates,New York Mets,70,21,from Left to Right,Sunny
 15-09-2010,Pittsburgh Pirates,New York Mets,67,13,in from Leftfield,Sunny
 16-09-2010,Pittsburgh Pirates,New York Mets,70,9,out to Leftfield,Overcast
 17-09-2010,Atlanta Braves,New York Mets,67,12,in from Leftfield,Cloudy
-18-09-2010,Atlanta Braves,New York Mets,70,4,out to Leftfield.,Wind4mphouttoLeftfield
+18-09-2010,Atlanta Braves,New York Mets,70,4,out to Leftfield.,
 19-09-2010,Atlanta Braves,New York Mets,76,2,out to Leftfield,Sunny
 28-09-2010,Milwaukee Brewers,New York Mets,73,14,out to Leftfield,Overcast
-30-09-2010,Milwaukee Brewers,New York Mets,76,23,out to Leftfield.,Wind23mphouttoLeftfield
-01-10-2010,Washington Nationals,New York Mets,64,7,out to Leftfield.,Wind7mphouttoLeftfield
+30-09-2010,Milwaukee Brewers,New York Mets,76,23,out to Leftfield.,
+01-10-2010,Washington Nationals,New York Mets,64,7,out to Leftfield.,
 02-10-2010,Washington Nationals,New York Mets,64,5,in from Leftfield,Sunny
 03-10-2010,Washington Nationals,New York Mets,61,18,in from Centerfield,Cloudy
 05-04-2010,Seattle Mariners,Oakland Athletics,52,12,out to Rightfield,Cloudy
 06-04-2010,Seattle Mariners,Oakland Athletics,59,13,out to Rightfield,Cloudy
 07-04-2010,Seattle Mariners,Oakland Athletics,62,10,out to Leftfield,Sunny
 08-04-2010,Seattle Mariners,Oakland Athletics,58,11,out to Rightfield,Sunny
-15-04-2010,Baltimore Orioles,Oakland Athletics,56,11,out to Rightfield.,Wind11mphouttoRightfield
+15-04-2010,Baltimore Orioles,Oakland Athletics,56,11,out to Rightfield.,
 16-04-2010,Baltimore Orioles,Oakland Athletics,61,11,from Left to Right,Cloudy
 17-04-2010,Baltimore Orioles,Oakland Athletics,63,10,out to Rightfield,Cloudy
 18-04-2010,Baltimore Orioles,Oakland Athletics,64,8,out to Rightfield,Sunny
-20-04-2010,New York Yankees,Oakland Athletics,50,21,out to Rightfield.,Wind21mphouttoRightfield
-21-04-2010,New York Yankees,Oakland Athletics,54,19,from Left to Right.,Wind19mphfromLefttoRight
+20-04-2010,New York Yankees,Oakland Athletics,50,21,out to Rightfield.,
+21-04-2010,New York Yankees,Oakland Athletics,54,19,from Left to Right.,
 22-04-2010,New York Yankees,Oakland Athletics,59,5,in from Leftfield,Cloudy
 23-04-2010,Cleveland Indians,Oakland Athletics,58,15,from Left to Right,Sunny
 24-04-2010,Cleveland Indians,Oakland Athletics,62,14,from Left to Right,Sunny
@@ -1443,13 +1443,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-05-2010,Texas Rangers,Oakland Athletics,63,12,out to Rightfield,Cloudy
 05-05-2010,Texas Rangers,Oakland Athletics,59,18,out to Rightfield,Sunny
 07-05-2010,Tampa Bay Rays,Oakland Athletics,60,12,out to Rightfield,Cloudy
-08-05-2010,Tampa Bay Rays,Oakland Athletics,61,19,out to Rightfield.,Wind19mphouttoRightfield
-09-05-2010,Tampa Bay Rays,Oakland Athletics,59,20,in from Rightfield.,Wind20mphinfromRightfield
+08-05-2010,Tampa Bay Rays,Oakland Athletics,61,19,out to Rightfield.,
+09-05-2010,Tampa Bay Rays,Oakland Athletics,59,20,in from Rightfield.,
 17-05-2010,Seattle Mariners,Oakland Athletics,56,9,out to Leftfield,Rain
-18-05-2010,Seattle Mariners,Oakland Athletics,57,9,out to Rightfield.,Wind9mphouttoRightfield
-19-05-2010,Detroit Tigers,Oakland Athletics,57,12,out to Rightfield.,Wind12mphouttoRightfield
+18-05-2010,Seattle Mariners,Oakland Athletics,57,9,out to Rightfield.,
+19-05-2010,Detroit Tigers,Oakland Athletics,57,12,out to Rightfield.,
 20-05-2010,Detroit Tigers,Oakland Athletics,61,9,out to Rightfield,Sunny
-21-05-2010,San Francisco Giants,Oakland Athletics,52,23,out to Rightfield.,Wind23mphouttoRightfield
+21-05-2010,San Francisco Giants,Oakland Athletics,52,23,out to Rightfield.,
 22-05-2010,San Francisco Giants,Oakland Athletics,53,15,out to Rightfield,Cloudy
 23-05-2010,San Francisco Giants,Oakland Athletics,59,17,out to Rightfield,Sunny
 04-06-2010,Minnesota Twins,Oakland Athletics,66,15,from Left to Right,Cloudy
@@ -1473,7 +1473,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-07-2010,Los Angeles Angels of Anaheim,Oakland Athletics,64,11,from Left to Right,Sunny
 19-07-2010,Boston Red Sox,Oakland Athletics,55,14,out to Rightfield,Cloudy
 20-07-2010,Boston Red Sox,Oakland Athletics,63,16,out to Rightfield,Cloudy
-21-07-2010,Boston Red Sox,Oakland Athletics,56,16,out to Rightfield.,Wind16mphouttoRightfield
+21-07-2010,Boston Red Sox,Oakland Athletics,56,16,out to Rightfield.,
 23-07-2010,Chicago White Sox,Oakland Athletics,63,12,from Left to Right,Cloudy
 24-07-2010,Chicago White Sox,Oakland Athletics,61,12,from Left to Right,Sunny
 25-07-2010,Chicago White Sox,Oakland Athletics,63,12,from Left to Right,Sunny
@@ -1487,7 +1487,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-08-2010,Toronto Blue Jays,Oakland Athletics,65,12,from Right to Left,Sunny
 18-08-2010,Toronto Blue Jays,Oakland Athletics,68,7,out to Rightfield,Sunny
 19-08-2010,Tampa Bay Rays,Oakland Athletics,60,12,out to Rightfield,Sunny
-20-08-2010,Tampa Bay Rays,Oakland Athletics,60,14,out to Rightfield.,Wind14mphouttoRightfield
+20-08-2010,Tampa Bay Rays,Oakland Athletics,60,14,out to Rightfield.,
 21-08-2010,Tampa Bay Rays,Oakland Athletics,62,16,out to Rightfield,Sunny
 22-08-2010,Tampa Bay Rays,Oakland Athletics,70,7,out to Leftfield,Sunny
 03-09-2010,Los Angeles Angels of Anaheim,Oakland Athletics,67,12,out to Rightfield,Sunny
@@ -1495,12 +1495,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-09-2010,Los Angeles Angels of Anaheim,Oakland Athletics,69,12,out to Leftfield,Sunny
 06-09-2010,Seattle Mariners,Oakland Athletics,77,8,in from Leftfield,Sunny
 07-09-2010,Seattle Mariners,Oakland Athletics,64,12,out to Rightfield,Overcast
-08-09-2010,Seattle Mariners,Oakland Athletics,62,15,out to Leftfield.,Wind15mphouttoLeftfield
+08-09-2010,Seattle Mariners,Oakland Athletics,62,15,out to Leftfield.,
 10-09-2010,Boston Red Sox,Oakland Athletics,69,10,out to Rightfield,Sunny
 11-09-2010,Boston Red Sox,Oakland Athletics,69,13,out to Rightfield,Sunny
 12-09-2010,Boston Red Sox,Oakland Athletics,67,8,from Left to Right,Sunny
 20-09-2010,Chicago White Sox,Oakland Athletics,67,11,out to Rightfield,Sunny
-21-09-2010,Chicago White Sox,Oakland Athletics,64,15,out to Centerfield.,Wind15mphouttoCenterfield
+21-09-2010,Chicago White Sox,Oakland Athletics,64,15,out to Centerfield.,
 22-09-2010,Chicago White Sox,Oakland Athletics,70,10,out to Rightfield,Cloudy
 23-09-2010,Texas Rangers,Oakland Athletics,68,13,from Left to Right,Sunny
 24-09-2010,Texas Rangers,Oakland Athletics,61,8,in from Leftfield,Cloudy
@@ -1510,28 +1510,28 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-04-2010,Washington Nationals,Philadelphia Phillies,61,12,from Left to Right,Sunny
 15-04-2010,Washington Nationals,Philadelphia Phillies,71,1,from Left to Right,Sunny
 16-04-2010,Florida Marlins,Philadelphia Phillies,63,9,from Right to Left,Overcast
-17-04-2010,Florida Marlins,Philadelphia Phillies,51,15,from Left to Right.,Wind15mphfromLefttoRight
+17-04-2010,Florida Marlins,Philadelphia Phillies,51,15,from Left to Right.,
 18-04-2010,Florida Marlins,Philadelphia Phillies,55,17,from Left to Right,Cloudy
 30-04-2010,New York Mets,Philadelphia Phillies,76,9,out to Centerfield,Sunny
 01-05-2010,New York Mets,Philadelphia Phillies,88,7,out to Centerfield,Cloudy
 02-05-2010,New York Mets,Philadelphia Phillies,82,0,NoWind,Overcast
-03-05-2010,St. Louis Cardinals,Philadelphia Phillies,78,14,from Left to Right.,Wind14mphfromLefttoRight
+03-05-2010,St. Louis Cardinals,Philadelphia Phillies,78,14,from Left to Right.,
 04-05-2010,St. Louis Cardinals,Philadelphia Phillies,71,11,in from Leftfield,Sunny
 05-05-2010,St. Louis Cardinals,Philadelphia Phillies,75,12,from Left to Right,Sunny
 06-05-2010,St. Louis Cardinals,Philadelphia Phillies,79,15,from Left to Right,Cloudy
-07-05-2010,Atlanta Braves,Philadelphia Phillies,70,11,out to Centerfield.,Wind11mphouttoCenterfield
+07-05-2010,Atlanta Braves,Philadelphia Phillies,70,11,out to Centerfield.,
 08-05-2010,Atlanta Braves,Philadelphia Phillies,77,27,from Left to Right,Cloudy
 09-05-2010,Atlanta Braves,Philadelphia Phillies,56,19,from Left to Right,Cloudy
 17-05-2010,Pittsburgh Pirates,Philadelphia Phillies,64,6,out to Centerfield,Drizzle
 18-05-2010,Pittsburgh Pirates,Philadelphia Phillies,52,14,in from Rightfield,Drizzle
-19-05-2010,Chicago Cubs,Philadelphia Phillies,64,10,from Left to Right.,Wind10mphfromLefttoRight
+19-05-2010,Chicago Cubs,Philadelphia Phillies,64,10,from Left to Right.,
 20-05-2010,Chicago Cubs,Philadelphia Phillies,76,6,from Right to Left,Sunny
 21-05-2010,Boston Red Sox,Philadelphia Phillies,81,11,in unknown direction,Overcast
-22-05-2010,Boston Red Sox,Philadelphia Phillies,70,11,from Right to Left.,Wind11mphfromRighttoLeft
+22-05-2010,Boston Red Sox,Philadelphia Phillies,70,11,from Right to Left.,
 23-05-2010,Boston Red Sox,Philadelphia Phillies,68,12,from Right to Left,Drizzle
 04-06-2010,San Diego Padres,Philadelphia Phillies,85,11,out to Centerfield,Overcast
 05-06-2010,San Diego Padres,Philadelphia Phillies,84,15,out to Rightfield,Cloudy
-06-06-2010,San Diego Padres,Philadelphia Phillies,89,21,in unknown direction.,Wind21mphinunknowndirection
+06-06-2010,San Diego Padres,Philadelphia Phillies,89,21,in unknown direction.,
 07-06-2010,San Diego Padres,Philadelphia Phillies,74,10,from Left to Right,Cloudy
 08-06-2010,Florida Marlins,Philadelphia Phillies,72,13,in from Leftfield,Cloudy
 10-06-2010,Florida Marlins,Philadelphia Phillies,84,11,from Left to Right,Cloudy
@@ -1539,17 +1539,17 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-06-2010,Minnesota Twins,Philadelphia Phillies,88,11,from Right to Left,Cloudy
 20-06-2010,Minnesota Twins,Philadelphia Phillies,91,12,from Left to Right,Cloudy
 22-06-2010,Cleveland Indians,Philadelphia Phillies,84,9,in from Centerfield,Overcast
-23-06-2010,Cleveland Indians,Philadelphia Phillies,92,10,from Left to Right.,Wind10mphfromLefttoRight
+23-06-2010,Cleveland Indians,Philadelphia Phillies,92,10,from Left to Right.,
 24-06-2010,Cleveland Indians,Philadelphia Phillies,96,18,from Left to Right,Sunny
 25-06-2010,Toronto Blue Jays,Philadelphia Phillies,85,7,from Left to Right,Cloudy
 26-06-2010,Toronto Blue Jays,Philadelphia Phillies,92,15,out to Rightfield,Cloudy
-27-06-2010,Toronto Blue Jays,Philadelphia Phillies,91,13,from Left to Right.,Wind13mphfromLefttoRight
+27-06-2010,Toronto Blue Jays,Philadelphia Phillies,91,13,from Left to Right.,
 05-07-2010,Atlanta Braves,Philadelphia Phillies,97,7,from Left to Right,Sunny
-06-07-2010,Atlanta Braves,Philadelphia Phillies,99,10,from Left to Right.,Wind10mphfromLefttoRight
+06-07-2010,Atlanta Braves,Philadelphia Phillies,99,10,from Left to Right.,
 07-07-2010,Atlanta Braves,Philadelphia Phillies,96,7,out to Leftfield,Sunny
-08-07-2010,Cincinnati Reds,Philadelphia Phillies,86,7,out to Centerfield.,Wind7mphouttoCenterfield
+08-07-2010,Cincinnati Reds,Philadelphia Phillies,86,7,out to Centerfield.,
 09-07-2010,Cincinnati Reds,Philadelphia Phillies,85,8,from Left to Right,Cloudy
-10-07-2010,Cincinnati Reds,Philadelphia Phillies,79,8,in from Centerfield.,Wind8mphinfromCenterfield
+10-07-2010,Cincinnati Reds,Philadelphia Phillies,79,8,in from Centerfield.,
 11-07-2010,Cincinnati Reds,Philadelphia Phillies,86,4,in from Centerfield,Sunny
 23-07-2010,Colorado Rockies,Philadelphia Phillies,92,14,out to Centerfield,Sunny
 24-07-2010,Colorado Rockies,Philadelphia Phillies,96,15,from Left to Right,Cloudy
@@ -1563,7 +1563,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-08-2010,New York Mets,Philadelphia Phillies,88,8,from Right to Left,Cloudy
 10-08-2010,Los Angeles Dodgers,Philadelphia Phillies,93,8,from Left to Right,Cloudy
 11-08-2010,Los Angeles Dodgers,Philadelphia Phillies,93,8,from Left to Right,Cloudy
-12-08-2010,Los Angeles Dodgers,Philadelphia Phillies,76,17,from Right to Left.,Wind17mphfromRighttoLeft
+12-08-2010,Los Angeles Dodgers,Philadelphia Phillies,76,17,from Right to Left.,
 17-08-2010,San Francisco Giants,Philadelphia Phillies,87,8,from Left to Right,Cloudy
 18-08-2010,San Francisco Giants,Philadelphia Phillies,74,3,out to Leftfield,Overcast
 19-08-2010,San Francisco Giants,Philadelphia Phillies,88,7,out to Rightfield,Cloudy
@@ -1571,8 +1571,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-08-2010,Washington Nationals,Philadelphia Phillies,87,8,from Right to Left,Overcast
 22-08-2010,Washington Nationals,Philadelphia Phillies,77,10,out to Centerfield,Drizzle
 23-08-2010,Houston Astros,Philadelphia Phillies,70,14,out to Leftfield,Drizzle
-24-08-2010,Houston Astros,Philadelphia Phillies,69,9,in from Centerfield.,Wind9mphinfromCenterfield
-25-08-2010,Houston Astros,Philadelphia Phillies,75,7,from Left to Right.,Wind7mphfromLefttoRight
+24-08-2010,Houston Astros,Philadelphia Phillies,69,9,in from Centerfield.,
+25-08-2010,Houston Astros,Philadelphia Phillies,75,7,from Left to Right.,
 26-08-2010,Houston Astros,Philadelphia Phillies,81,12,from Left to Right,Cloudy
 03-09-2010,Milwaukee Brewers,Philadelphia Phillies,85,11,in unknown direction,Cloudy
 04-09-2010,Milwaukee Brewers,Philadelphia Phillies,75,14,from Left to Right,Cloudy
@@ -1587,13 +1587,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-09-2010,Atlanta Braves,Philadelphia Phillies,86,10,out to Centerfield,Drizzle
 24-09-2010,New York Mets,Philadelphia Phillies,87,10,out to Centerfield,Sunny
 25-09-2010,New York Mets,Philadelphia Phillies,84,12,from Left to Right,Cloudy
-26-09-2010,New York Mets,Philadelphia Phillies,68,7,in from Centerfield.,Wind7mphinfromCenterfield
+26-09-2010,New York Mets,Philadelphia Phillies,68,7,in from Centerfield.,
 05-04-2010,Los Angeles Dodgers,Pittsburgh Pirates,76,19,from Right to Left,Cloudy
 07-04-2010,Los Angeles Dodgers,Pittsburgh Pirates,80,10,out to Centerfield,Cloudy
-08-04-2010,Los Angeles Dodgers,Pittsburgh Pirates,73,20,in from Rightfield.,Wind20mphinfromRightfield
-16-04-2010,Cincinnati Reds,Pittsburgh Pirates,60,12,in from Centerfield.,Wind12mphinfromCenterfield
-17-04-2010,Cincinnati Reds,Pittsburgh Pirates,43,18,out to Centerfield.,Wind18mphouttoCenterfield
-18-04-2010,Cincinnati Reds,Pittsburgh Pirates,44,9,out to Leftfield.,Wind9mphouttoLeftfield
+08-04-2010,Los Angeles Dodgers,Pittsburgh Pirates,73,20,in from Rightfield.,
+16-04-2010,Cincinnati Reds,Pittsburgh Pirates,60,12,in from Centerfield.,
+17-04-2010,Cincinnati Reds,Pittsburgh Pirates,43,18,out to Centerfield.,
+18-04-2010,Cincinnati Reds,Pittsburgh Pirates,44,9,out to Leftfield.,
 20-04-2010,Milwaukee Brewers,Pittsburgh Pirates,63,1,from Left to Right,Cloudy
 21-04-2010,Milwaukee Brewers,Pittsburgh Pirates,66,10,out to Centerfield,Cloudy
 22-04-2010,Milwaukee Brewers,Pittsburgh Pirates,62,8,out to Centerfield,Sunny
@@ -1605,21 +1605,21 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-05-2010,St. Louis Cardinals,Pittsburgh Pirates,47,18,out to Centerfield,Cloudy
 10-05-2010,Cincinnati Reds,Pittsburgh Pirates,56,7,from Left to Right,Sunny
 11-05-2010,Cincinnati Reds,Pittsburgh Pirates,49,9,in from Centerfield,Overcast
-12-05-2010,Cincinnati Reds,Pittsburgh Pirates,56,6,out to Centerfield.,Wind6mphouttoCenterfield
+12-05-2010,Cincinnati Reds,Pittsburgh Pirates,56,6,out to Centerfield.,
 19-05-2010,Milwaukee Brewers,Pittsburgh Pirates,67,5,out to Leftfield,Cloudy
 20-05-2010,Milwaukee Brewers,Pittsburgh Pirates,78,5,out to Leftfield,Cloudy
 21-05-2010,Atlanta Braves,Pittsburgh Pirates,74,4,in from Rightfield,Cloudy
-22-05-2010,Atlanta Braves,Pittsburgh Pirates,64,7,in from Rightfield.,Wind7mphinfromRightfield
-23-05-2010,Atlanta Braves,Pittsburgh Pirates,70,1,out to Rightfield.,Wind1mphouttoRightfield
-31-05-2010,Chicago Cubs,Pittsburgh Pirates,82,9,from Right to Left.,Wind9mphfromRighttoLeft
+22-05-2010,Atlanta Braves,Pittsburgh Pirates,64,7,in from Rightfield.,
+23-05-2010,Atlanta Braves,Pittsburgh Pirates,70,1,out to Rightfield.,
+31-05-2010,Chicago Cubs,Pittsburgh Pirates,82,9,from Right to Left.,
 01-06-2010,Chicago Cubs,Pittsburgh Pirates,78,10,out to Leftfield,Cloudy
 04-06-2010,San Francisco Giants,Pittsburgh Pirates,70,5,from Right to Left,Overcast
-05-06-2010,San Francisco Giants,Pittsburgh Pirates,70,5,from Right to Left.,Wind5mphfromRighttoLeft
+05-06-2010,San Francisco Giants,Pittsburgh Pirates,70,5,from Right to Left.,
 06-06-2010,San Francisco Giants,Pittsburgh Pirates,72,17,out to Centerfield,Cloudy
-07-06-2010,Chicago Cubs,Pittsburgh Pirates,65,11,out to Rightfield.,Wind11mphouttoRightfield
-15-06-2010,Chicago White Sox,Pittsburgh Pirates,76,9,in from Leftfield.,Wind9mphinfromLeftfield
+07-06-2010,Chicago Cubs,Pittsburgh Pirates,65,11,out to Rightfield.,
+15-06-2010,Chicago White Sox,Pittsburgh Pirates,76,9,in from Leftfield.,
 16-06-2010,Chicago White Sox,Pittsburgh Pirates,78,17,from Right to Left,Cloudy
-17-06-2010,Chicago White Sox,Pittsburgh Pirates,72,7,out to Centerfield.,Wind7mphouttoCenterfield
+17-06-2010,Chicago White Sox,Pittsburgh Pirates,72,7,out to Centerfield.,
 18-06-2010,Cleveland Indians,Pittsburgh Pirates,83,7,from Right to Left,Sunny
 19-06-2010,Cleveland Indians,Pittsburgh Pirates,74,6,from Right to Left,Overcast
 20-06-2010,Cleveland Indians,Pittsburgh Pirates,81,12,from Left to Right,Cloudy
@@ -1627,18 +1627,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-07-2010,Philadelphia Phillies,Pittsburgh Pirates,77,5,in unknown direction,Sunny
 03-07-2010,Philadelphia Phillies,Pittsburgh Pirates,85,7,from Right to Left,Sunny
 04-07-2010,Philadelphia Phillies,Pittsburgh Pirates,86,8,from Right to Left,Sunny
-16-07-2010,Houston Astros,Pittsburgh Pirates,87,10,from Right to Left.,Wind10mphfromRighttoLeft
-17-07-2010,Houston Astros,Pittsburgh Pirates,85,16,from Right to Left.,Wind16mphfromRighttoLeft
+16-07-2010,Houston Astros,Pittsburgh Pirates,87,10,from Right to Left.,
+17-07-2010,Houston Astros,Pittsburgh Pirates,85,16,from Right to Left.,
 18-07-2010,Houston Astros,Pittsburgh Pirates,86,6,from Right to Left,Sunny
-19-07-2010,Milwaukee Brewers,Pittsburgh Pirates,83,11,out to Leftfield.,Wind11mphouttoLeftfield
-20-07-2010,Milwaukee Brewers,Pittsburgh Pirates,82,10,from Right to Left.,Wind10mphfromRighttoLeft
+19-07-2010,Milwaukee Brewers,Pittsburgh Pirates,83,11,out to Leftfield.,
+20-07-2010,Milwaukee Brewers,Pittsburgh Pirates,82,10,from Right to Left.,
 21-07-2010,Milwaukee Brewers,Pittsburgh Pirates,86,13,from Right to Left,Cloudy
 22-07-2010,Milwaukee Brewers,Pittsburgh Pirates,87,6,out to Leftfield,Cloudy
-23-07-2010,San Diego Padres,Pittsburgh Pirates,91,17,from Right to Left.,Wind17mphfromRighttoLeft
+23-07-2010,San Diego Padres,Pittsburgh Pirates,91,17,from Right to Left.,
 24-07-2010,San Diego Padres,Pittsburgh Pirates,91,21,from Right to Left,Cloudy
 25-07-2010,San Diego Padres,Pittsburgh Pirates,77,12,out to Centerfield,Overcast
-02-08-2010,Cincinnati Reds,Pittsburgh Pirates,82,8,in from Centerfield.,Wind8mphinfromCenterfield
-03-08-2010,Cincinnati Reds,Pittsburgh Pirates,75,5,in from Rightfield.,Wind5mphinfromRightfield
+02-08-2010,Cincinnati Reds,Pittsburgh Pirates,82,8,in from Centerfield.,
+03-08-2010,Cincinnati Reds,Pittsburgh Pirates,75,5,in from Rightfield.,
 04-08-2010,Cincinnati Reds,Pittsburgh Pirates,84,7,from Right to Left,Cloudy
 05-08-2010,Colorado Rockies,Pittsburgh Pirates,86,9,out to Leftfield,Cloudy
 06-08-2010,Colorado Rockies,Pittsburgh Pirates,76,10,out to Rightfield,Cloudy
@@ -1649,35 +1649,35 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-08-2010,Florida Marlins,Pittsburgh Pirates,84,1,out to Centerfield,Cloudy
 19-08-2010,Florida Marlins,Pittsburgh Pirates,85,9,out to Centerfield,Cloudy
 20-08-2010,New York Mets,Pittsburgh Pirates,86,9,out to Rightfield,Cloudy
-21-08-2010,New York Mets,Pittsburgh Pirates,78,6,in from Rightfield.,Wind6mphinfromRightfield
-22-08-2010,New York Mets,Pittsburgh Pirates,76,10,out to Centerfield.,Wind10mphouttoCenterfield
-23-08-2010,St. Louis Cardinals,Pittsburgh Pirates,69,12,out to Centerfield.,Wind12mphouttoCenterfield
+21-08-2010,New York Mets,Pittsburgh Pirates,78,6,in from Rightfield.,
+22-08-2010,New York Mets,Pittsburgh Pirates,76,10,out to Centerfield.,
+23-08-2010,St. Louis Cardinals,Pittsburgh Pirates,69,12,out to Centerfield.,
 24-08-2010,St. Louis Cardinals,Pittsburgh Pirates,71,7,from Left to Right,Cloudy
-25-08-2010,St. Louis Cardinals,Pittsburgh Pirates,78,6,out to Centerfield.,Wind6mphouttoCenterfield
-03-09-2010,Washington Nationals,Pittsburgh Pirates,76,9,out to Leftfield.,Wind9mphouttoLeftfield
-04-09-2010,Washington Nationals,Pittsburgh Pirates,68,15,out to Leftfield.,Wind15mphouttoLeftfield
+25-08-2010,St. Louis Cardinals,Pittsburgh Pirates,78,6,out to Centerfield.,
+03-09-2010,Washington Nationals,Pittsburgh Pirates,76,9,out to Leftfield.,
+04-09-2010,Washington Nationals,Pittsburgh Pirates,68,15,out to Leftfield.,
 05-09-2010,Washington Nationals,Pittsburgh Pirates,66,7,out to Leftfield,Cloudy
 06-09-2010,Atlanta Braves,Pittsburgh Pirates,77,10,in from Centerfield,Cloudy
 07-09-2010,Atlanta Braves,Pittsburgh Pirates,86,16,from Right to Left,Cloudy
 08-09-2010,Atlanta Braves,Pittsburgh Pirates,68,17,out to Centerfield,Cloudy
-17-09-2010,Arizona Diamondbacks,Pittsburgh Pirates,66,5,out to Centerfield.,Wind5mphouttoCenterfield
+17-09-2010,Arizona Diamondbacks,Pittsburgh Pirates,66,5,out to Centerfield.,
 18-09-2010,Arizona Diamondbacks,Pittsburgh Pirates,75,3,from Right to Left,Cloudy
 19-09-2010,Arizona Diamondbacks,Pittsburgh Pirates,81,9,from Right to Left,Cloudy
 21-09-2010,St. Louis Cardinals,Pittsburgh Pirates,83,10,in from Rightfield,Sunny
-22-09-2010,St. Louis Cardinals,Pittsburgh Pirates,73,9,from Right to Left.,Wind9mphfromRighttoLeft
+22-09-2010,St. Louis Cardinals,Pittsburgh Pirates,73,9,from Right to Left.,
 23-09-2010,St. Louis Cardinals,Pittsburgh Pirates,81,8,from Right to Left,Cloudy
 24-09-2010,Houston Astros,Pittsburgh Pirates,83,18,from Right to Left,Sunny
 25-09-2010,Houston Astros,Pittsburgh Pirates,70,13,out to Leftfield,Sunny
-26-09-2010,Houston Astros,Pittsburgh Pirates,64,6,from Left to Right.,Wind6mphfromLefttoRight
+26-09-2010,Houston Astros,Pittsburgh Pirates,64,6,from Left to Right.,
 12-04-2010,Atlanta Braves,San Diego Padres,69,14,from Left to Right,Cloudy
 14-04-2010,Atlanta Braves,San Diego Padres,65,9,from Right to Left,Cloudy
-15-04-2010,Atlanta Braves,San Diego Padres,71,5,from Left to Right.,Wind5mphfromLefttoRight
+15-04-2010,Atlanta Braves,San Diego Padres,71,5,from Left to Right.,
 16-04-2010,Arizona Diamondbacks,San Diego Padres,65,12,from Left to Right,Sunny
-17-04-2010,Arizona Diamondbacks,San Diego Padres,64,7,from Left to Right.,Wind7mphfromLefttoRight
+17-04-2010,Arizona Diamondbacks,San Diego Padres,64,7,from Left to Right.,
 18-04-2010,Arizona Diamondbacks,San Diego Padres,72,13,from Left to Right,Sunny
 19-04-2010,San Francisco Giants,San Diego Padres,66,10,from Left to Right,Sunny
 20-04-2010,San Francisco Giants,San Diego Padres,60,13,from Left to Right,Drizzle
-21-04-2010,San Francisco Giants,San Diego Padres,62,17,from Left to Right.,Wind17mphfromLefttoRight
+21-04-2010,San Francisco Giants,San Diego Padres,62,17,from Left to Right.,
 29-04-2010,Milwaukee Brewers,San Diego Padres,62,17,from Left to Right,Sunny
 30-04-2010,Milwaukee Brewers,San Diego Padres,63,11,from Left to Right,Sunny
 01-05-2010,Milwaukee Brewers,San Diego Padres,69,12,from Left to Right,Cloudy
@@ -1685,7 +1685,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-05-2010,Colorado Rockies,San Diego Padres,70,10,from Left to Right,Sunny
 04-05-2010,Colorado Rockies,San Diego Padres,64,8,from Left to Right,Sunny
 05-05-2010,Colorado Rockies,San Diego Padres,67,7,from Left to Right,Cloudy
-14-05-2010,Los Angeles Dodgers,San Diego Padres,66,6,from Left to Right.,Wind6mphfromLefttoRight
+14-05-2010,Los Angeles Dodgers,San Diego Padres,66,6,from Left to Right.,
 15-05-2010,Los Angeles Dodgers,San Diego Padres,69,9,from Left to Right,Overcast
 16-05-2010,Los Angeles Dodgers,San Diego Padres,67,9,from Left to Right,Overcast
 17-05-2010,San Francisco Giants,San Diego Padres,66,8,from Left to Right,Cloudy
@@ -1699,7 +1699,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 31-05-2010,New York Mets,San Diego Padres,69,9,from Left to Right,Cloudy
 01-06-2010,New York Mets,San Diego Padres,68,8,from Left to Right,Cloudy
 02-06-2010,New York Mets,San Diego Padres,74,10,from Left to Right,Cloudy
-11-06-2010,Seattle Mariners,San Diego Padres,67,10,from Left to Right.,Wind10mphfromLefttoRight
+11-06-2010,Seattle Mariners,San Diego Padres,67,10,from Left to Right.,
 12-06-2010,Seattle Mariners,San Diego Padres,70,11,from Left to Right,Cloudy
 13-06-2010,Seattle Mariners,San Diego Padres,72,11,from Left to Right,Sunny
 14-06-2010,Toronto Blue Jays,San Diego Padres,69,10,from Left to Right,Sunny
@@ -1717,11 +1717,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-07-2010,Houston Astros,San Diego Padres,74,9,from Left to Right,Overcast
 16-07-2010,Arizona Diamondbacks,San Diego Padres,74,9,from Left to Right,Sunny
 17-07-2010,Arizona Diamondbacks,San Diego Padres,76,8,from Left to Right,Sunny
-18-07-2010,Arizona Diamondbacks,San Diego Padres,76,7,from Left to Right.,Wind7mphfromLefttoRight
+18-07-2010,Arizona Diamondbacks,San Diego Padres,76,7,from Left to Right.,
 27-07-2010,Los Angeles Dodgers,San Diego Padres,67,10,from Left to Right,Cloudy
 28-07-2010,Los Angeles Dodgers,San Diego Padres,68,14,from Left to Right,Cloudy
 29-07-2010,Los Angeles Dodgers,San Diego Padres,71,10,from Left to Right,Sunny
-30-07-2010,Florida Marlins,San Diego Padres,69,7,from Left to Right.,Wind7mphfromLefttoRight
+30-07-2010,Florida Marlins,San Diego Padres,69,7,from Left to Right.,
 31-07-2010,Florida Marlins,San Diego Padres,72,8,from Left to Right,Cloudy
 01-08-2010,Florida Marlins,San Diego Padres,75,5,from Left to Right,Sunny
 10-08-2010,Pittsburgh Pirates,San Diego Padres,69,9,from Left to Right,Sunny
@@ -1750,7 +1750,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-09-2010,Chicago Cubs,San Diego Padres,73,6,out to Rightfield,Cloudy
 29-09-2010,Chicago Cubs,San Diego Padres,72,5,from Left to Right,Sunny
 30-09-2010,Chicago Cubs,San Diego Padres,69,10,from Left to Right,Overcast
-12-04-2010,Oakland Athletics,Seattle Mariners,57,2,out to Centerfield.,Wind2mphouttoCenterfield
+12-04-2010,Oakland Athletics,Seattle Mariners,57,2,out to Centerfield.,
 13-04-2010,Oakland Athletics,Seattle Mariners,54,3,out to Leftfield,Cloudy
 14-04-2010,Oakland Athletics,Seattle Mariners,56,5,from Left to Right,Sunny
 16-04-2010,Detroit Tigers,Seattle Mariners,62,0,NoWind,InDome
@@ -1758,32 +1758,32 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-04-2010,Detroit Tigers,Seattle Mariners,58,4,out to Centerfield,Cloudy
 19-04-2010,Baltimore Orioles,Seattle Mariners,67,3,out to Rightfield,Cloudy
 20-04-2010,Baltimore Orioles,Seattle Mariners,53,2,in from Centerfield,InDome
-21-04-2010,Baltimore Orioles,Seattle Mariners,54,0,NoWind,Wind0mph
-30-04-2010,Texas Rangers,Seattle Mariners,53,4,from Right to Left.,Wind4mphfromRighttoLeft
-01-05-2010,Texas Rangers,Seattle Mariners,50,5,from Left to Right.,Wind5mphfromLefttoRight
-02-05-2010,Texas Rangers,Seattle Mariners,53,0,NoWind,Wind0mph
+21-04-2010,Baltimore Orioles,Seattle Mariners,54,0,NoWind,
+30-04-2010,Texas Rangers,Seattle Mariners,53,4,from Right to Left.,
+01-05-2010,Texas Rangers,Seattle Mariners,50,5,from Left to Right.,
+02-05-2010,Texas Rangers,Seattle Mariners,53,0,NoWind,
 04-05-2010,Tampa Bay Rays,Seattle Mariners,48,4,out to Centerfield,InDome
 05-05-2010,Tampa Bay Rays,Seattle Mariners,51,1,in from Leftfield,Cloudy
 06-05-2010,Tampa Bay Rays,Seattle Mariners,56,3,from Left to Right,Cloudy
 07-05-2010,Los Angeles Angels of Anaheim,Seattle Mariners,60,3,from Left to Right,Sunny
 08-05-2010,Los Angeles Angels of Anaheim,Seattle Mariners,63,4,out to Centerfield,Sunny
 09-05-2010,Los Angeles Angels of Anaheim,Seattle Mariners,58,5,from Left to Right,Sunny
-19-05-2010,Toronto Blue Jays,Seattle Mariners,57,2,out to Leftfield.,Wind2mphouttoLeftfield
-20-05-2010,Toronto Blue Jays,Seattle Mariners,52,4,from Right to Left.,Wind4mphfromRighttoLeft
+19-05-2010,Toronto Blue Jays,Seattle Mariners,57,2,out to Leftfield.,
+20-05-2010,Toronto Blue Jays,Seattle Mariners,52,4,from Right to Left.,
 21-05-2010,San Diego Padres,Seattle Mariners,51,0,NoWind,InDome
 22-05-2010,San Diego Padres,Seattle Mariners,56,0,NoWind,InDome
 23-05-2010,San Diego Padres,Seattle Mariners,54,4,out to Centerfield,Cloudy
-25-05-2010,Detroit Tigers,Seattle Mariners,59,3,in from Leftfield.,Wind3mphinfromLeftfield
+25-05-2010,Detroit Tigers,Seattle Mariners,59,3,in from Leftfield.,
 26-05-2010,Detroit Tigers,Seattle Mariners,54,0,NoWind,InDome
 31-05-2010,Minnesota Twins,Seattle Mariners,62,4,out to Centerfield,Cloudy
 01-06-2010,Minnesota Twins,Seattle Mariners,61,0,NoWind,InDome
-02-06-2010,Minnesota Twins,Seattle Mariners,58,6,from Right to Left.,Wind6mphfromRighttoLeft
+02-06-2010,Minnesota Twins,Seattle Mariners,58,6,from Right to Left.,
 03-06-2010,Minnesota Twins,Seattle Mariners,62,2,from Left to Right,Cloudy
 04-06-2010,Los Angeles Angels of Anaheim,Seattle Mariners,56,1,out to Rightfield,InDome
 05-06-2010,Los Angeles Angels of Anaheim,Seattle Mariners,59,5,out to Rightfield,Sunny
-06-06-2010,Los Angeles Angels of Anaheim,Seattle Mariners,58,1,out to Rightfield.,Wind1mphouttoRightfield
+06-06-2010,Los Angeles Angels of Anaheim,Seattle Mariners,58,1,out to Rightfield.,
 18-06-2010,Cincinnati Reds,Seattle Mariners,65,3,out to Rightfield,Cloudy
-19-06-2010,Cincinnati Reds,Seattle Mariners,59,3,out to Leftfield.,Wind3mphouttoLeftfield
+19-06-2010,Cincinnati Reds,Seattle Mariners,59,3,out to Leftfield.,
 20-06-2010,Cincinnati Reds,Seattle Mariners,58,0,NoWind,InDome
 22-06-2010,Chicago Cubs,Seattle Mariners,70,4,from Left to Right,Sunny
 23-06-2010,Chicago Cubs,Seattle Mariners,73,2,from Right to Left,Sunny
@@ -1807,20 +1807,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-08-2010,Texas Rangers,Seattle Mariners,74,6,from Left to Right,Sunny
 06-08-2010,Kansas City Royals,Seattle Mariners,67,4,out to Centerfield,Sunny
 07-08-2010,Kansas City Royals,Seattle Mariners,66,0,NoWind,InDome
-08-08-2010,Kansas City Royals,Seattle Mariners,65,2,out to Rightfield.,Wind2mphouttoRightfield
+08-08-2010,Kansas City Royals,Seattle Mariners,65,2,out to Rightfield.,
 09-08-2010,Oakland Athletics,Seattle Mariners,64,1,out to Leftfield,InDome
 10-08-2010,Oakland Athletics,Seattle Mariners,67,3,out to Rightfield,Sunny
 11-08-2010,Oakland Athletics,Seattle Mariners,67,2,from Left to Right,Sunny
 27-08-2010,Minnesota Twins,Seattle Mariners,64,3,in from Leftfield,Cloudy
-28-08-2010,Minnesota Twins,Seattle Mariners,63,5,from Left to Right.,Wind5mphfromLefttoRight
-29-08-2010,Minnesota Twins,Seattle Mariners,63,1,out to Centerfield.,Wind1mphouttoCenterfield
+28-08-2010,Minnesota Twins,Seattle Mariners,63,5,from Left to Right.,
+29-08-2010,Minnesota Twins,Seattle Mariners,63,1,out to Centerfield.,
 30-08-2010,Los Angeles Angels of Anaheim,Seattle Mariners,65,2,from Left to Right,Sunny
 31-08-2010,Los Angeles Angels of Anaheim,Seattle Mariners,61,0,NoWind,InDome
 01-09-2010,Los Angeles Angels of Anaheim,Seattle Mariners,67,2,out to Rightfield,Cloudy
 02-09-2010,Cleveland Indians,Seattle Mariners,69,2,from Left to Right,Sunny
 03-09-2010,Cleveland Indians,Seattle Mariners,77,0,NoWind,Sunny
-04-09-2010,Cleveland Indians,Seattle Mariners,63,0,NoWind,Wind0mph
-05-09-2010,Cleveland Indians,Seattle Mariners,60,4,out to Leftfield.,Wind4mphouttoLeftfield
+04-09-2010,Cleveland Indians,Seattle Mariners,63,0,NoWind,
+05-09-2010,Cleveland Indians,Seattle Mariners,60,4,out to Leftfield.,
 13-09-2010,Boston Red Sox,Seattle Mariners,64,3,in from Centerfield,Sunny
 14-09-2010,Boston Red Sox,Seattle Mariners,65,1,out to Rightfield,Sunny
 15-09-2010,Boston Red Sox,Seattle Mariners,67,0,NoWind,InDome
@@ -1828,19 +1828,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-09-2010,Texas Rangers,Seattle Mariners,68,0,NoWind,InDome
 19-09-2010,Texas Rangers,Seattle Mariners,66,2,in from Centerfield,InDome
 30-09-2010,Oakland Athletics,Seattle Mariners,65,2,from Left to Right,Sunny
-01-10-2010,Oakland Athletics,Seattle Mariners,64,3,out to Centerfield.,Wind3mphouttoCenterfield
+01-10-2010,Oakland Athletics,Seattle Mariners,64,3,out to Centerfield.,
 02-10-2010,Oakland Athletics,Seattle Mariners,62,2,from Right to Left,Cloudy
-03-10-2010,Oakland Athletics,Seattle Mariners,62,0,NoWind,Wind0mph
+03-10-2010,Oakland Athletics,Seattle Mariners,62,0,NoWind,
 09-04-2010,Atlanta Braves,San Francisco Giants,65,9,in from Centerfield,Sunny
 10-04-2010,Atlanta Braves,San Francisco Giants,57,15,out to Leftfield,Overcast
 11-04-2010,Atlanta Braves,San Francisco Giants,50,15,in from Rightfield,Cloudy
 12-04-2010,Pittsburgh Pirates,San Francisco Giants,54,12,out to Centerfield,Cloudy
 13-04-2010,Pittsburgh Pirates,San Francisco Giants,57,12,out to Centerfield,Cloudy
-14-04-2010,Pittsburgh Pirates,San Francisco Giants,59,11,out to Rightfield.,Wind11mphouttoRightfield
+14-04-2010,Pittsburgh Pirates,San Francisco Giants,59,11,out to Rightfield.,
 23-04-2010,St. Louis Cardinals,San Francisco Giants,60,13,out to Rightfield,Sunny
 24-04-2010,St. Louis Cardinals,San Francisco Giants,62,12,out to Centerfield,Sunny
 25-04-2010,St. Louis Cardinals,San Francisco Giants,69,8,out to Rightfield,Sunny
-26-04-2010,Philadelphia Phillies,San Francisco Giants,53,8,out to Centerfield.,Wind8mphouttoCenterfield
+26-04-2010,Philadelphia Phillies,San Francisco Giants,53,8,out to Centerfield.,
 27-04-2010,Philadelphia Phillies,San Francisco Giants,54,19,in from Rightfield,Cloudy
 28-04-2010,Philadelphia Phillies,San Francisco Giants,58,18,out to Leftfield,Overcast
 30-04-2010,Colorado Rockies,San Francisco Giants,60,16,out to Centerfield,Sunny
@@ -1850,24 +1850,24 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-05-2010,San Diego Padres,San Francisco Giants,61,12,out to Centerfield,Cloudy
 13-05-2010,San Diego Padres,San Francisco Giants,65,12,out to Leftfield,Cloudy
 14-05-2010,Houston Astros,San Francisco Giants,57,10,out to Centerfield,Sunny
-15-05-2010,Houston Astros,San Francisco Giants,60,12,out to Centerfield.,Wind12mphouttoCenterfield
-16-05-2010,Houston Astros,San Francisco Giants,57,13,out to Leftfield.,Wind13mphouttoLeftfield
-25-05-2010,Washington Nationals,San Francisco Giants,57,14,out to Leftfield.,Wind14mphouttoLeftfield
+15-05-2010,Houston Astros,San Francisco Giants,60,12,out to Centerfield.,
+16-05-2010,Houston Astros,San Francisco Giants,57,13,out to Leftfield.,
+25-05-2010,Washington Nationals,San Francisco Giants,57,14,out to Leftfield.,
 26-05-2010,Washington Nationals,San Francisco Giants,60,13,out to Centerfield,Cloudy
 27-05-2010,Washington Nationals,San Francisco Giants,60,19,from Right to Left,Rain
 28-05-2010,Arizona Diamondbacks,San Francisco Giants,62,11,out to Centerfield,Sunny
 29-05-2010,Arizona Diamondbacks,San Francisco Giants,66,12,out to Centerfield,Sunny
 30-05-2010,Arizona Diamondbacks,San Francisco Giants,70,11,from Left to Right,Sunny
-31-05-2010,Colorado Rockies,San Francisco Giants,66,14,out to Centerfield.,Wind14mphouttoCenterfield
+31-05-2010,Colorado Rockies,San Francisco Giants,66,14,out to Centerfield.,
 01-06-2010,Colorado Rockies,San Francisco Giants,61,14,out to Centerfield,Cloudy
-02-06-2010,Colorado Rockies,San Francisco Giants,65,18,out to Centerfield.,Wind18mphouttoCenterfield
+02-06-2010,Colorado Rockies,San Francisco Giants,65,18,out to Centerfield.,
 11-06-2010,Oakland Athletics,San Francisco Giants,70,14,out to Centerfield,Sunny
 12-06-2010,Oakland Athletics,San Francisco Giants,73,10,out to Leftfield,Sunny
 13-06-2010,Oakland Athletics,San Francisco Giants,80,11,out to Leftfield,Sunny
 14-06-2010,Baltimore Orioles,San Francisco Giants,61,13,out to Centerfield,Sunny
 15-06-2010,Baltimore Orioles,San Francisco Giants,60,17,out to Rightfield,Sunny
 16-06-2010,Baltimore Orioles,San Francisco Giants,68,13,in from Leftfield,Sunny
-25-06-2010,Boston Red Sox,San Francisco Giants,64,13,out to Centerfield.,Wind13mphouttoCenterfield
+25-06-2010,Boston Red Sox,San Francisco Giants,64,13,out to Centerfield.,
 26-06-2010,Boston Red Sox,San Francisco Giants,69,14,out to Centerfield,Sunny
 27-06-2010,Boston Red Sox,San Francisco Giants,76,9,from Left to Right,Sunny
 28-06-2010,Los Angeles Dodgers,San Francisco Giants,67,13,out to Rightfield,Sunny
@@ -1877,19 +1877,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-07-2010,New York Mets,San Francisco Giants,63,13,out to Centerfield,Overcast
 17-07-2010,New York Mets,San Francisco Giants,67,13,out to Centerfield,Sunny
 18-07-2010,New York Mets,San Francisco Giants,71,10,out to Rightfield,Cloudy
-26-07-2010,Florida Marlins,San Francisco Giants,59,12,out to Leftfield.,Wind12mphouttoLeftfield
+26-07-2010,Florida Marlins,San Francisco Giants,59,12,out to Leftfield.,
 27-07-2010,Florida Marlins,San Francisco Giants,61,13,out to Rightfield,Cloudy
 28-07-2010,Florida Marlins,San Francisco Giants,64,12,out to Centerfield,Sunny
 29-07-2010,Florida Marlins,San Francisco Giants,62,11,out to Centerfield,Cloudy
-30-07-2010,Los Angeles Dodgers,San Francisco Giants,58,13,out to Rightfield.,Wind13mphouttoRightfield
+30-07-2010,Los Angeles Dodgers,San Francisco Giants,58,13,out to Rightfield.,
 31-07-2010,Los Angeles Dodgers,San Francisco Giants,62,10,out to Leftfield,Sunny
 01-08-2010,Los Angeles Dodgers,San Francisco Giants,64,13,out to Rightfield,Sunny
 09-08-2010,Chicago Cubs,San Francisco Giants,60,13,out to Rightfield,Cloudy
 10-08-2010,Chicago Cubs,San Francisco Giants,58,13,from Right to Left,Cloudy
 11-08-2010,Chicago Cubs,San Francisco Giants,59,12,in from Leftfield,Overcast
 12-08-2010,Chicago Cubs,San Francisco Giants,64,7,out to Centerfield,Sunny
-13-08-2010,San Diego Padres,San Francisco Giants,58,14,out to Rightfield.,Wind14mphouttoRightfield
-14-08-2010,San Diego Padres,San Francisco Giants,61,10,out to Centerfield.,Wind10mphouttoCenterfield
+13-08-2010,San Diego Padres,San Francisco Giants,58,14,out to Rightfield.,
+14-08-2010,San Diego Padres,San Francisco Giants,61,10,out to Centerfield.,
 15-08-2010,San Diego Padres,San Francisco Giants,61,10,out to Centerfield,Cloudy
 23-08-2010,Cincinnati Reds,San Francisco Giants,75,9,out to Rightfield,Sunny
 24-08-2010,Cincinnati Reds,San Francisco Giants,83,8,out to Rightfield,Sunny
@@ -1904,7 +1904,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-09-2010,Los Angeles Dodgers,San Francisco Giants,62,13,out to Rightfield,Cloudy
 16-09-2010,Los Angeles Dodgers,San Francisco Giants,63,14,out to Centerfield,Overcast
 17-09-2010,Milwaukee Brewers,San Francisco Giants,65,15,out to Rightfield,Cloudy
-18-09-2010,Milwaukee Brewers,San Francisco Giants,66,16,out to Centerfield.,Wind16mphouttoCenterfield
+18-09-2010,Milwaukee Brewers,San Francisco Giants,66,16,out to Centerfield.,
 19-09-2010,Milwaukee Brewers,San Francisco Giants,67,9,in unknown direction,Overcast
 28-09-2010,Arizona Diamondbacks,San Francisco Giants,73,9,out to Rightfield,Cloudy
 29-09-2010,Arizona Diamondbacks,San Francisco Giants,68,10,out to Rightfield,Sunny
@@ -1915,29 +1915,29 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-04-2010,Houston Astros,St. Louis Cardinals,79,11,from Right to Left,Sunny
 14-04-2010,Houston Astros,St. Louis Cardinals,79,7,from Right to Left,Sunny
 15-04-2010,Houston Astros,St. Louis Cardinals,82,11,out to Centerfield,Cloudy
-16-04-2010,New York Mets,St. Louis Cardinals,60,7,from Left to Right.,Wind7mphfromLefttoRight
+16-04-2010,New York Mets,St. Louis Cardinals,60,7,from Left to Right.,
 17-04-2010,New York Mets,St. Louis Cardinals,63,12,in from Centerfield,Cloudy
 18-04-2010,New York Mets,St. Louis Cardinals,61,6,out to Rightfield,Cloudy
-26-04-2010,Atlanta Braves,St. Louis Cardinals,54,12,from Left to Right.,Wind12mphfromLefttoRight
+26-04-2010,Atlanta Braves,St. Louis Cardinals,54,12,from Left to Right.,
 27-04-2010,Atlanta Braves,St. Louis Cardinals,60,9,in from Leftfield,Sunny
 28-04-2010,Atlanta Braves,St. Louis Cardinals,66,7,from Right to Left,Cloudy
 29-04-2010,Atlanta Braves,St. Louis Cardinals,75,14,out to Leftfield,Cloudy
-30-04-2010,Cincinnati Reds,St. Louis Cardinals,72,11,out to Leftfield.,Wind11mphouttoLeftfield
-01-05-2010,Cincinnati Reds,St. Louis Cardinals,72,2,in from Leftfield.,Wind2mphinfromLeftfield
+30-04-2010,Cincinnati Reds,St. Louis Cardinals,72,11,out to Leftfield.,
+01-05-2010,Cincinnati Reds,St. Louis Cardinals,72,2,in from Leftfield.,
 02-05-2010,Cincinnati Reds,St. Louis Cardinals,67,3,from Left to Right,Cloudy
 11-05-2010,Houston Astros,St. Louis Cardinals,72,9,from Left to Right,Sunny
 12-05-2010,Houston Astros,St. Louis Cardinals,72,7,in from Rightfield,Cloudy
-13-05-2010,Houston Astros,St. Louis Cardinals,74,4,in from Rightfield.,Wind4mphinfromRightfield
-17-05-2010,Washington Nationals,St. Louis Cardinals,56,9,out to Rightfield.,Wind9mphouttoRightfield
+13-05-2010,Houston Astros,St. Louis Cardinals,74,4,in from Rightfield.,
+17-05-2010,Washington Nationals,St. Louis Cardinals,56,9,out to Rightfield.,
 18-05-2010,Washington Nationals,St. Louis Cardinals,68,8,from Left to Right,Cloudy
-19-05-2010,Florida Marlins,St. Louis Cardinals,67,2,in from Rightfield.,Wind2mphinfromRightfield
-20-05-2010,Florida Marlins,St. Louis Cardinals,61,12,in from Rightfield.,Wind12mphinfromRightfield
-21-05-2010,Los Angeles Angels of Anaheim,St. Louis Cardinals,69,7,out to Rightfield.,Wind7mphouttoRightfield
+19-05-2010,Florida Marlins,St. Louis Cardinals,67,2,in from Rightfield.,
+20-05-2010,Florida Marlins,St. Louis Cardinals,61,12,in from Rightfield.,
+21-05-2010,Los Angeles Angels of Anaheim,St. Louis Cardinals,69,7,out to Rightfield.,
 22-05-2010,Los Angeles Angels of Anaheim,St. Louis Cardinals,79,7,out to Leftfield,Sunny
 23-05-2010,Los Angeles Angels of Anaheim,St. Louis Cardinals,87,11,out to Leftfield,Cloudy
 31-05-2010,Cincinnati Reds,St. Louis Cardinals,86,3,out to Rightfield,Cloudy
 01-06-2010,Cincinnati Reds,St. Louis Cardinals,85,9,from Right to Left,Sunny
-02-06-2010,Cincinnati Reds,St. Louis Cardinals,79,7,in from Centerfield.,Wind7mphinfromCenterfield
+02-06-2010,Cincinnati Reds,St. Louis Cardinals,79,7,in from Centerfield.,
 04-06-2010,Milwaukee Brewers,St. Louis Cardinals,87,7,out to Centerfield,Cloudy
 05-06-2010,Milwaukee Brewers,St. Louis Cardinals,86,6,out to Leftfield,Cloudy
 06-06-2010,Milwaukee Brewers,St. Louis Cardinals,80,11,from Left to Right,Cloudy
@@ -1957,12 +1957,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-07-2010,Los Angeles Dodgers,St. Louis Cardinals,90,11,from Left to Right,Sunny
 16-07-2010,Los Angeles Dodgers,St. Louis Cardinals,86,5,from Right to Left,Cloudy
 17-07-2010,Los Angeles Dodgers,St. Louis Cardinals,91,8,out to Centerfield,Sunny
-18-07-2010,Los Angeles Dodgers,St. Louis Cardinals,78,6,out to Centerfield.,Wind6mphouttoCenterfield
+18-07-2010,Los Angeles Dodgers,St. Louis Cardinals,78,6,out to Centerfield.,
 19-07-2010,Philadelphia Phillies,St. Louis Cardinals,83,16,out to Leftfield,Cloudy
-20-07-2010,Philadelphia Phillies,St. Louis Cardinals,87,4,out to Rightfield.,Wind4mphouttoRightfield
-21-07-2010,Philadelphia Phillies,St. Louis Cardinals,76,7,out to Leftfield.,Wind7mphouttoLeftfield
+20-07-2010,Philadelphia Phillies,St. Louis Cardinals,87,4,out to Rightfield.,
+21-07-2010,Philadelphia Phillies,St. Louis Cardinals,76,7,out to Leftfield.,
 22-07-2010,Philadelphia Phillies,St. Louis Cardinals,92,10,out to Centerfield,Cloudy
-30-07-2010,Pittsburgh Pirates,St. Louis Cardinals,76,0,NoWind,Wind0mph
+30-07-2010,Pittsburgh Pirates,St. Louis Cardinals,76,0,NoWind,
 31-07-2010,Pittsburgh Pirates,St. Louis Cardinals,85,11,out to Rightfield,Sunny
 01-08-2010,Pittsburgh Pirates,St. Louis Cardinals,85,2,in from Centerfield,Sunny
 02-08-2010,Houston Astros,St. Louis Cardinals,87,8,from Right to Left,Sunny
@@ -1971,9 +1971,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-08-2010,Chicago Cubs,St. Louis Cardinals,92,8,in from Rightfield,Cloudy
 14-08-2010,Chicago Cubs,St. Louis Cardinals,94,3,in from Rightfield,Sunny
 15-08-2010,Chicago Cubs,St. Louis Cardinals,88,8,from Left to Right,Cloudy
-17-08-2010,Milwaukee Brewers,St. Louis Cardinals,78,11,in from Centerfield.,Wind11mphinfromCenterfield
+17-08-2010,Milwaukee Brewers,St. Louis Cardinals,78,11,in from Centerfield.,
 18-08-2010,Milwaukee Brewers,St. Louis Cardinals,84,5,in from Rightfield,Sunny
-20-08-2010,San Francisco Giants,St. Louis Cardinals,81,6,in from Rightfield.,Wind6mphinfromRightfield
+20-08-2010,San Francisco Giants,St. Louis Cardinals,81,6,in from Rightfield.,
 21-08-2010,San Francisco Giants,St. Louis Cardinals,83,10,from Left to Right,Sunny
 22-08-2010,San Francisco Giants,St. Louis Cardinals,88,6,in from Centerfield,Cloudy
 03-09-2010,Cincinnati Reds,St. Louis Cardinals,71,9,out to Leftfield,Sunny
@@ -1981,17 +1981,17 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-09-2010,Cincinnati Reds,St. Louis Cardinals,74,8,out to Leftfield,Sunny
 13-09-2010,Chicago Cubs,St. Louis Cardinals,79,5,out to Leftfield,Sunny
 14-09-2010,Chicago Cubs,St. Louis Cardinals,78,3,out to Centerfield,Sunny
-15-09-2010,Chicago Cubs,St. Louis Cardinals,78,5,out to Leftfield.,Wind5mphouttoLeftfield
+15-09-2010,Chicago Cubs,St. Louis Cardinals,78,5,out to Leftfield.,
 16-09-2010,San Diego Padres,St. Louis Cardinals,69,9,in from Leftfield,Cloudy
 17-09-2010,San Diego Padres,St. Louis Cardinals,75,4,out to Leftfield,Sunny
 18-09-2010,San Diego Padres,St. Louis Cardinals,86,0,NoWind,Cloudy
-19-09-2010,San Diego Padres,St. Louis Cardinals,72,9,out to Centerfield.,Wind9mphouttoCenterfield
+19-09-2010,San Diego Padres,St. Louis Cardinals,72,9,out to Centerfield.,
 27-09-2010,Pittsburgh Pirates,St. Louis Cardinals,60,5,from Left to Right,Cloudy
 28-09-2010,Pittsburgh Pirates,St. Louis Cardinals,66,3,out to Centerfield,Sunny
 29-09-2010,Pittsburgh Pirates,St. Louis Cardinals,74,2,out to Leftfield,Sunny
 30-09-2010,Colorado Rockies,St. Louis Cardinals,69,9,from Left to Right,Sunny
 01-10-2010,Colorado Rockies,St. Louis Cardinals,68,2,out to Rightfield,Sunny
-02-10-2010,Colorado Rockies,St. Louis Cardinals,59,13,from Left to Right.,Wind13mphfromLefttoRight
+02-10-2010,Colorado Rockies,St. Louis Cardinals,59,13,from Left to Right.,
 03-10-2010,Colorado Rockies,St. Louis Cardinals,59,11,in from Centerfield,Cloudy
 06-04-2010,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
 07-04-2010,Baltimore Orioles,Tampa Bay Rays,72,0,NoWind,InDome
@@ -2079,18 +2079,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-04-2010,Toronto Blue Jays,Texas Rangers,62,10,out to Rightfield,Sunny
 09-04-2010,Seattle Mariners,Texas Rangers,73,12,from Right to Left,Sunny
 10-04-2010,Seattle Mariners,Texas Rangers,73,12,from Right to Left,Cloudy
-11-04-2010,Seattle Mariners,Texas Rangers,68,12,from Right to Left.,Wind12mphfromRighttoLeft
+11-04-2010,Seattle Mariners,Texas Rangers,68,12,from Right to Left.,
 23-04-2010,Detroit Tigers,Texas Rangers,81,5,from Right to Left,Cloudy
 24-04-2010,Detroit Tigers,Texas Rangers,76,15,out to Leftfield,Sunny
 25-04-2010,Detroit Tigers,Texas Rangers,74,15,in unknown direction,Sunny
-26-04-2010,Detroit Tigers,Texas Rangers,66,12,out to Rightfield.,Wind12mphouttoRightfield
+26-04-2010,Detroit Tigers,Texas Rangers,66,12,out to Rightfield.,
 27-04-2010,Chicago White Sox,Texas Rangers,70,10,out to Leftfield,Sunny
 28-04-2010,Chicago White Sox,Texas Rangers,78,30,in from Rightfield,Sunny
 29-04-2010,Chicago White Sox,Texas Rangers,81,27,in from Rightfield,Cloudy
 06-05-2010,Kansas City Royals,Texas Rangers,87,18,in from Rightfield,Cloudy
 07-05-2010,Kansas City Royals,Texas Rangers,77,12,out to Rightfield,Sunny
 08-05-2010,Kansas City Royals,Texas Rangers,73,9,from Left to Right,Sunny
-09-05-2010,Kansas City Royals,Texas Rangers,66,7,out to Rightfield.,Wind7mphouttoRightfield
+09-05-2010,Kansas City Royals,Texas Rangers,66,7,out to Rightfield.,
 11-05-2010,Oakland Athletics,Texas Rangers,88,20,in from Rightfield,Sunny
 12-05-2010,Oakland Athletics,Texas Rangers,83,30,in from Rightfield,Cloudy
 13-05-2010,Oakland Athletics,Texas Rangers,83,10,in from Centerfield,Overcast
@@ -2099,33 +2099,33 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-05-2010,Baltimore Orioles,Texas Rangers,85,12,in from Rightfield,Cloudy
 20-05-2010,Baltimore Orioles,Texas Rangers,80,8,out to Rightfield,Cloudy
 21-05-2010,Chicago Cubs,Texas Rangers,85,12,in from Centerfield,Cloudy
-22-05-2010,Chicago Cubs,Texas Rangers,87,13,from Right to Left.,Wind13mphfromRighttoLeft
+22-05-2010,Chicago Cubs,Texas Rangers,87,13,from Right to Left.,
 23-05-2010,Chicago Cubs,Texas Rangers,88,17,in from Rightfield,Cloudy
 04-06-2010,Tampa Bay Rays,Texas Rangers,92,3,from Left to Right,Sunny
 05-06-2010,Tampa Bay Rays,Texas Rangers,98,12,in from Rightfield,Sunny
 06-06-2010,Tampa Bay Rays,Texas Rangers,93,0,NoWind,Sunny
 07-06-2010,Seattle Mariners,Texas Rangers,93,4,in from Rightfield,Cloudy
 08-06-2010,Seattle Mariners,Texas Rangers,87,25,in from Rightfield,Cloudy
-09-06-2010,Seattle Mariners,Texas Rangers,77,14,from Right to Left.,Wind14mphfromRighttoLeft
-10-06-2010,Seattle Mariners,Texas Rangers,91,15,from Right to Left.,Wind15mphfromRighttoLeft
+09-06-2010,Seattle Mariners,Texas Rangers,77,14,from Right to Left.,
+10-06-2010,Seattle Mariners,Texas Rangers,91,15,from Right to Left.,
 22-06-2010,Pittsburgh Pirates,Texas Rangers,97,10,in from Rightfield,Sunny
 23-06-2010,Pittsburgh Pirates,Texas Rangers,97,9,from Right to Left,Sunny
 24-06-2010,Pittsburgh Pirates,Texas Rangers,90,5,in from Rightfield,Cloudy
-25-06-2010,Houston Astros,Texas Rangers,80,13,in from Centerfield.,Wind13mphinfromCenterfield
+25-06-2010,Houston Astros,Texas Rangers,80,13,in from Centerfield.,
 26-06-2010,Houston Astros,Texas Rangers,95,11,in from Rightfield,Sunny
 27-06-2010,Houston Astros,Texas Rangers,96,14,in from Rightfield,Sunny
-02-07-2010,Chicago White Sox,Texas Rangers,75,7,in from Centerfield.,Wind7mphinfromCenterfield
+02-07-2010,Chicago White Sox,Texas Rangers,75,7,in from Centerfield.,
 03-07-2010,Chicago White Sox,Texas Rangers,75,12,in from Rightfield,Overcast
 04-07-2010,Chicago White Sox,Texas Rangers,89,10,in from Rightfield,Sunny
 05-07-2010,Cleveland Indians,Texas Rangers,92,9,in from Rightfield,Sunny
 06-07-2010,Cleveland Indians,Texas Rangers,84,3,out to Rightfield,Cloudy
 07-07-2010,Cleveland Indians,Texas Rangers,90,4,out to Rightfield,Cloudy
-08-07-2010,Baltimore Orioles,Texas Rangers,78,2,out to Rightfield.,Wind2mphouttoRightfield
+08-07-2010,Baltimore Orioles,Texas Rangers,78,2,out to Rightfield.,
 09-07-2010,Baltimore Orioles,Texas Rangers,73,5,in from Rightfield,Overcast
 10-07-2010,Baltimore Orioles,Texas Rangers,85,8,out to Rightfield,Sunny
 11-07-2010,Baltimore Orioles,Texas Rangers,95,14,from Right to Left,Cloudy
 22-07-2010,Los Angeles Angels of Anaheim,Texas Rangers,95,7,in from Rightfield,Cloudy
-23-07-2010,Los Angeles Angels of Anaheim,Texas Rangers,78,2,in from Rightfield.,Wind2mphinfromRightfield
+23-07-2010,Los Angeles Angels of Anaheim,Texas Rangers,78,2,in from Rightfield.,
 24-07-2010,Los Angeles Angels of Anaheim,Texas Rangers,93,6,in from Rightfield,Cloudy
 25-07-2010,Los Angeles Angels of Anaheim,Texas Rangers,96,0,NoWind,Cloudy
 27-07-2010,Oakland Athletics,Texas Rangers,91,5,in from Rightfield,Cloudy
@@ -2136,16 +2136,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-08-2010,Boston Red Sox,Texas Rangers,99,12,in from Rightfield,Sunny
 14-08-2010,Boston Red Sox,Texas Rangers,102,8,in from Rightfield,Sunny
 15-08-2010,Boston Red Sox,Texas Rangers,99,3,out to Centerfield,Sunny
-23-08-2010,Minnesota Twins,Texas Rangers,100,5,in from Leftfield.,Wind5mphinfromLeftfield
-24-08-2010,Minnesota Twins,Texas Rangers,85,6,out to Rightfield.,Wind6mphouttoRightfield
-25-08-2010,Minnesota Twins,Texas Rangers,79,2,out to Rightfield.,Wind2mphouttoRightfield
+23-08-2010,Minnesota Twins,Texas Rangers,100,5,in from Leftfield.,
+24-08-2010,Minnesota Twins,Texas Rangers,85,6,out to Rightfield.,
+25-08-2010,Minnesota Twins,Texas Rangers,79,2,out to Rightfield.,
 26-08-2010,Minnesota Twins,Texas Rangers,91,4,out to Rightfield,Sunny
 27-08-2010,Oakland Athletics,Texas Rangers,91,7,out to Rightfield,Sunny
 28-08-2010,Oakland Athletics,Texas Rangers,93,9,in from Rightfield,Sunny
 29-08-2010,Oakland Athletics,Texas Rangers,92,7,in from Leftfield,Sunny
 10-09-2010,New York Yankees,Texas Rangers,89,10,in from Rightfield,Sunny
 11-09-2010,New York Yankees,Texas Rangers,92,4,from Left to Right,Cloudy
-12-09-2010,New York Yankees,Texas Rangers,91,3,in unknown direction.,Wind3mphinunknowndirection
+12-09-2010,New York Yankees,Texas Rangers,91,3,in unknown direction.,
 14-09-2010,Detroit Tigers,Texas Rangers,90,6,in from Rightfield,Sunny
 15-09-2010,Detroit Tigers,Texas Rangers,90,13,in from Rightfield,Sunny
 27-09-2010,Seattle Mariners,Texas Rangers,73,7,out to Rightfield,Sunny
@@ -2168,15 +2168,15 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-04-2010,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
 27-04-2010,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
 28-04-2010,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
-29-04-2010,Oakland Athletics,Toronto Blue Jays,55,14,out to Centerfield.,Wind14mphouttoCenterfield
+29-04-2010,Oakland Athletics,Toronto Blue Jays,55,14,out to Centerfield.,
 30-04-2010,Oakland Athletics,Toronto Blue Jays,66,12,from Right to Left,Cloudy
 01-05-2010,Oakland Athletics,Toronto Blue Jays,68,0,NoWind,InDome
 02-05-2010,Oakland Athletics,Toronto Blue Jays,59,8,from Right to Left,Cloudy
 14-05-2010,Texas Rangers,Toronto Blue Jays,70,15,from Left to Right,Sunny
 15-05-2010,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
 16-05-2010,Texas Rangers,Toronto Blue Jays,57,4,out to Rightfield,Cloudy
-17-05-2010,Minnesota Twins,Toronto Blue Jays,61,12,from Right to Left.,Wind12mphfromRighttoLeft
-18-05-2010,Minnesota Twins,Toronto Blue Jays,57,2,in unknown direction.,Wind2mphinunknowndirection
+17-05-2010,Minnesota Twins,Toronto Blue Jays,61,12,from Right to Left.,
+18-05-2010,Minnesota Twins,Toronto Blue Jays,57,2,in unknown direction.,
 28-05-2010,Baltimore Orioles,Toronto Blue Jays,68,6,from Right to Left,Cloudy
 29-05-2010,Baltimore Orioles,Toronto Blue Jays,77,12,in from Centerfield,Sunny
 30-05-2010,Baltimore Orioles,Toronto Blue Jays,72,6,out to Centerfield,Sunny
@@ -2186,48 +2186,48 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-06-2010,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
 05-06-2010,New York Yankees,Toronto Blue Jays,79,21,from Left to Right,Cloudy
 06-06-2010,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
-18-06-2010,San Francisco Giants,Toronto Blue Jays,77,7,out to Centerfield.,Wind7mphouttoCenterfield
-19-06-2010,San Francisco Giants,Toronto Blue Jays,70,8,out to Rightfield.,Wind8mphouttoRightfield
+18-06-2010,San Francisco Giants,Toronto Blue Jays,77,7,out to Centerfield.,
+19-06-2010,San Francisco Giants,Toronto Blue Jays,70,8,out to Rightfield.,
 20-06-2010,San Francisco Giants,Toronto Blue Jays,81,12,in from Leftfield,Sunny
 22-06-2010,St. Louis Cardinals,Toronto Blue Jays,73,7,from Left to Right,Cloudy
 23-06-2010,St. Louis Cardinals,Toronto Blue Jays,73,11,out to Centerfield,Cloudy
-24-06-2010,St. Louis Cardinals,Toronto Blue Jays,77,12,in from Leftfield.,Wind12mphinfromLeftfield
+24-06-2010,St. Louis Cardinals,Toronto Blue Jays,77,12,in from Leftfield.,
 06-07-2010,Minnesota Twins,Toronto Blue Jays,84,12,out to Centerfield,Cloudy
 07-07-2010,Minnesota Twins,Toronto Blue Jays,68,0,NoWind,InDome
 08-07-2010,Minnesota Twins,Toronto Blue Jays,88,9,out to Centerfield,Sunny
-09-07-2010,Boston Red Sox,Toronto Blue Jays,70,4,out to Rightfield.,Wind4mphouttoRightfield
+09-07-2010,Boston Red Sox,Toronto Blue Jays,70,4,out to Rightfield.,
 10-07-2010,Boston Red Sox,Toronto Blue Jays,79,4,in from Leftfield,Sunny
 11-07-2010,Boston Red Sox,Toronto Blue Jays,77,4,in unknown direction,Cloudy
-26-07-2010,Baltimore Orioles,Toronto Blue Jays,77,9,out to Centerfield.,Wind9mphouttoCenterfield
+26-07-2010,Baltimore Orioles,Toronto Blue Jays,77,9,out to Centerfield.,
 27-07-2010,Baltimore Orioles,Toronto Blue Jays,81,9,out to Centerfield,Sunny
 28-07-2010,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
 30-07-2010,Cleveland Indians,Toronto Blue Jays,72,5,out to Centerfield,Cloudy
 31-07-2010,Cleveland Indians,Toronto Blue Jays,73,6,from Right to Left,Sunny
 01-08-2010,Cleveland Indians,Toronto Blue Jays,75,9,out to Leftfield,Sunny
-06-08-2010,Tampa Bay Rays,Toronto Blue Jays,75,8,in from Leftfield.,Wind8mphinfromLeftfield
+06-08-2010,Tampa Bay Rays,Toronto Blue Jays,75,8,in from Leftfield.,
 07-08-2010,Tampa Bay Rays,Toronto Blue Jays,70,9,out to Centerfield,Cloudy
 08-08-2010,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
 10-08-2010,Boston Red Sox,Toronto Blue Jays,81,2,in unknown direction,Sunny
-11-08-2010,Boston Red Sox,Toronto Blue Jays,78,12,from Right to Left.,Wind12mphfromRighttoLeft
-12-08-2010,Boston Red Sox,Toronto Blue Jays,75,15,from Right to Left.,Wind15mphfromRighttoLeft
+11-08-2010,Boston Red Sox,Toronto Blue Jays,78,12,from Right to Left.,
+12-08-2010,Boston Red Sox,Toronto Blue Jays,75,15,from Right to Left.,
 23-08-2010,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
 24-08-2010,New York Yankees,Toronto Blue Jays,72,12,from Right to Left,Sunny
 25-08-2010,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
 26-08-2010,Detroit Tigers,Toronto Blue Jays,70,12,in from Centerfield,Cloudy
-27-08-2010,Detroit Tigers,Toronto Blue Jays,73,12,out to Centerfield.,Wind12mphouttoCenterfield
+27-08-2010,Detroit Tigers,Toronto Blue Jays,73,12,out to Centerfield.,
 28-08-2010,Detroit Tigers,Toronto Blue Jays,75,14,out to Centerfield,Sunny
 29-08-2010,Detroit Tigers,Toronto Blue Jays,75,4,out to Centerfield,Sunny
 06-09-2010,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
-07-09-2010,Texas Rangers,Toronto Blue Jays,63,6,out to Rightfield.,Wind6mphouttoRightfield
+07-09-2010,Texas Rangers,Toronto Blue Jays,63,6,out to Rightfield.,
 08-09-2010,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
 09-09-2010,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
 10-09-2010,Tampa Bay Rays,Toronto Blue Jays,57,4,out to Rightfield,Cloudy
-11-09-2010,Tampa Bay Rays,Toronto Blue Jays,61,9,from Right to Left.,Wind9mphfromRighttoLeft
-12-09-2010,Tampa Bay Rays,Toronto Blue Jays,66,16,out to Rightfield.,Wind16mphouttoRightfield
+11-09-2010,Tampa Bay Rays,Toronto Blue Jays,61,9,from Right to Left.,
+12-09-2010,Tampa Bay Rays,Toronto Blue Jays,66,16,out to Rightfield.,
 21-09-2010,Seattle Mariners,Toronto Blue Jays,72,16,out to Rightfield,Cloudy
 22-09-2010,Seattle Mariners,Toronto Blue Jays,68,6,out to Centerfield,Sunny
-23-09-2010,Seattle Mariners,Toronto Blue Jays,64,19,from Right to Left.,Wind19mphfromRighttoLeft
-24-09-2010,Baltimore Orioles,Toronto Blue Jays,73,19,out to Rightfield.,Wind19mphouttoRightfield
+23-09-2010,Seattle Mariners,Toronto Blue Jays,64,19,from Right to Left.,
+24-09-2010,Baltimore Orioles,Toronto Blue Jays,73,19,out to Rightfield.,
 25-09-2010,Baltimore Orioles,Toronto Blue Jays,61,19,from Left to Right,Cloudy
 26-09-2010,Baltimore Orioles,Toronto Blue Jays,57,7,from Right to Left,Cloudy
 27-09-2010,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
@@ -2236,32 +2236,32 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-04-2010,Philadelphia Phillies,Washington Nationals,78,5,out to Rightfield,Sunny
 07-04-2010,Philadelphia Phillies,Washington Nationals,86,5,from Left to Right,Cloudy
 08-04-2010,Philadelphia Phillies,Washington Nationals,81,22,out to Leftfield,Cloudy
-16-04-2010,Milwaukee Brewers,Washington Nationals,79,7,in from Leftfield.,Wind7mphinfromLeftfield
+16-04-2010,Milwaukee Brewers,Washington Nationals,79,7,in from Leftfield.,
 17-04-2010,Milwaukee Brewers,Washington Nationals,61,10,from Left to Right,Sunny
-18-04-2010,Milwaukee Brewers,Washington Nationals,50,10,from Left to Right.,Wind10mphfromLefttoRight
+18-04-2010,Milwaukee Brewers,Washington Nationals,50,10,from Left to Right.,
 19-04-2010,Colorado Rockies,Washington Nationals,65,5,out to Rightfield,Sunny
 20-04-2010,Colorado Rockies,Washington Nationals,67,5,out to Centerfield,Cloudy
 21-04-2010,Colorado Rockies,Washington Nationals,56,5,in from Rightfield,Overcast
 22-04-2010,Colorado Rockies,Washington Nationals,69,10,out to Centerfield,Sunny
 23-04-2010,Los Angeles Dodgers,Washington Nationals,72,3,from Left to Right,Cloudy
 24-04-2010,Los Angeles Dodgers,Washington Nationals,59,2,in from Rightfield,Overcast
-25-04-2010,Los Angeles Dodgers,Washington Nationals,70,3,out to Centerfield.,Wind3mphouttoCenterfield
+25-04-2010,Los Angeles Dodgers,Washington Nationals,70,3,out to Centerfield.,
 04-05-2010,Atlanta Braves,Washington Nationals,81,3,out to Rightfield,Sunny
 05-05-2010,Atlanta Braves,Washington Nationals,81,2,out to Leftfield,Sunny
 06-05-2010,Atlanta Braves,Washington Nationals,79,15,from Left to Right,Sunny
 07-05-2010,Florida Marlins,Washington Nationals,72,5,from Right to Left,Cloudy
 08-05-2010,Florida Marlins,Washington Nationals,72,17,from Left to Right,Cloudy
 09-05-2010,Florida Marlins,Washington Nationals,56,22,from Left to Right,Cloudy
-19-05-2010,New York Mets,Washington Nationals,67,10,out to Rightfield.,Wind10mphouttoRightfield
+19-05-2010,New York Mets,Washington Nationals,67,10,out to Rightfield.,
 20-05-2010,New York Mets,Washington Nationals,81,2,from Right to Left,Sunny
 21-05-2010,Baltimore Orioles,Washington Nationals,81,2,in unknown direction,Cloudy
-22-05-2010,Baltimore Orioles,Washington Nationals,76,7,from Right to Left.,Wind7mphfromRighttoLeft
+22-05-2010,Baltimore Orioles,Washington Nationals,76,7,from Right to Left.,
 23-05-2010,Baltimore Orioles,Washington Nationals,68,7,in from Centerfield,Overcast
-04-06-2010,Cincinnati Reds,Washington Nationals,85,4,from Right to Left.,Wind4mphfromRighttoLeft
+04-06-2010,Cincinnati Reds,Washington Nationals,85,4,from Right to Left.,
 05-06-2010,Cincinnati Reds,Washington Nationals,86,6,from Left to Right,Cloudy
-06-06-2010,Cincinnati Reds,Washington Nationals,87,14,out to Leftfield.,Wind14mphouttoLeftfield
+06-06-2010,Cincinnati Reds,Washington Nationals,87,14,out to Leftfield.,
 08-06-2010,Pittsburgh Pirates,Washington Nationals,75,4,from Left to Right,Cloudy
-09-06-2010,Pittsburgh Pirates,Washington Nationals,74,1,out to Leftfield.,Wind1mphouttoLeftfield
+09-06-2010,Pittsburgh Pirates,Washington Nationals,74,1,out to Leftfield.,
 10-06-2010,Pittsburgh Pirates,Washington Nationals,84,11,from Left to Right,Cloudy
 18-06-2010,Chicago White Sox,Washington Nationals,81,4,in from Rightfield,Sunny
 19-06-2010,Chicago White Sox,Washington Nationals,90,3,in unknown direction,Cloudy
@@ -2277,22 +2277,22 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-07-2010,San Diego Padres,Washington Nationals,98,5,in from Leftfield,Sunny
 08-07-2010,San Diego Padres,Washington Nationals,86,5,in from Rightfield,Sunny
 09-07-2010,San Francisco Giants,Washington Nationals,87,4,from Right to Left,Cloudy
-10-07-2010,San Francisco Giants,Washington Nationals,78,13,in unknown direction.,Wind13mphinunknowndirection
+10-07-2010,San Francisco Giants,Washington Nationals,78,13,in unknown direction.,
 11-07-2010,San Francisco Giants,Washington Nationals,87,6,from Left to Right,Sunny
 27-07-2010,Atlanta Braves,Washington Nationals,84,13,from Left to Right,Cloudy
 28-07-2010,Atlanta Braves,Washington Nationals,90,10,out to Leftfield,Sunny
 29-07-2010,Atlanta Braves,Washington Nationals,92,7,out to Rightfield,Cloudy
 30-07-2010,Philadelphia Phillies,Washington Nationals,82,2,out to Rightfield,Sunny
 31-07-2010,Philadelphia Phillies,Washington Nationals,84,5,in from Rightfield,Cloudy
-01-08-2010,Philadelphia Phillies,Washington Nationals,82,2,from Right to Left.,Wind2mphfromRighttoLeft
-10-08-2010,Florida Marlins,Washington Nationals,95,3,out to Leftfield.,Wind3mphouttoLeftfield
+01-08-2010,Philadelphia Phillies,Washington Nationals,82,2,from Right to Left.,
+10-08-2010,Florida Marlins,Washington Nationals,95,3,out to Leftfield.,
 11-08-2010,Florida Marlins,Washington Nationals,94,4,in from Centerfield,Cloudy
-12-08-2010,Florida Marlins,Washington Nationals,75,6,out to Centerfield.,Wind6mphouttoCenterfield
+12-08-2010,Florida Marlins,Washington Nationals,75,6,out to Centerfield.,
 13-08-2010,Arizona Diamondbacks,Washington Nationals,74,11,from Right to Left,Overcast
 14-08-2010,Arizona Diamondbacks,Washington Nationals,80,5,from Right to Left,Overcast
 15-08-2010,Arizona Diamondbacks,Washington Nationals,75,2,from Right to Left,Overcast
 23-08-2010,Chicago Cubs,Washington Nationals,81,8,from Left to Right,Cloudy
-24-08-2010,Chicago Cubs,Washington Nationals,72,11,in from Leftfield.,Wind11mphinfromLeftfield
+24-08-2010,Chicago Cubs,Washington Nationals,72,11,in from Leftfield.,
 25-08-2010,Chicago Cubs,Washington Nationals,81,5,from Left to Right,Cloudy
 26-08-2010,St. Louis Cardinals,Washington Nationals,85,6,in from Leftfield,Sunny
 27-08-2010,St. Louis Cardinals,Washington Nationals,83,2,in from Rightfield,Cloudy
@@ -2306,11 +2306,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-09-2010,Florida Marlins,Washington Nationals,67,0,NoWind,Overcast
 20-09-2010,Houston Astros,Washington Nationals,75,13,from Left to Right,Sunny
 21-09-2010,Houston Astros,Washington Nationals,76,12,out to Centerfield,Sunny
-22-09-2010,Houston Astros,Washington Nationals,90,1,out to Leftfield.,Wind1mphouttoLeftfield
+22-09-2010,Houston Astros,Washington Nationals,90,1,out to Leftfield.,
 23-09-2010,Houston Astros,Washington Nationals,91,8,out to Leftfield,Cloudy
 24-09-2010,Atlanta Braves,Washington Nationals,91,12,out to Leftfield,Sunny
 25-09-2010,Atlanta Braves,Washington Nationals,88,5,in unknown direction,Cloudy
-26-09-2010,Atlanta Braves,Washington Nationals,65,9,in from Centerfield.,Wind9mphinfromCenterfield
-27-09-2010,Philadelphia Phillies,Washington Nationals,74,5,out to Leftfield.,Wind5mphouttoLeftfield
+26-09-2010,Atlanta Braves,Washington Nationals,65,9,in from Centerfield.,
+27-09-2010,Philadelphia Phillies,Washington Nationals,74,5,out to Leftfield.,
 28-09-2010,Philadelphia Phillies,Washington Nationals,79,9,from Left to Right,Cloudy
-29-09-2010,Philadelphia Phillies,Washington Nationals,65,6,in from Rightfield.,Wind6mphinfromRightfield
+29-09-2010,Philadelphia Phillies,Washington Nationals,65,6,in from Rightfield.,

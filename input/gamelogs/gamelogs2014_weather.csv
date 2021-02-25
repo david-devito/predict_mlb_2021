@@ -106,7 +106,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-05-2014,Los Angeles Dodgers,Arizona Diamondbacks,74,0,NoWind,InDome
 26-05-2014,San Diego Padres,Arizona Diamondbacks,85,8,in unknown direction,Cloudy
 27-05-2014,San Diego Padres,Arizona Diamondbacks,103,10,from Left to Right,Sunny
-28-05-2014,San Diego Padres,Arizona Diamondbacks,100,8,in unknown direction.,Wind8mphinunknowndirection
+28-05-2014,San Diego Padres,Arizona Diamondbacks,100,8,in unknown direction.,
 29-05-2014,Cincinnati Reds,Arizona Diamondbacks,97,10,from Right to Left,Sunny
 30-05-2014,Cincinnati Reds,Arizona Diamondbacks,102,8,from Left to Right,Sunny
 31-05-2014,Cincinnati Reds,Arizona Diamondbacks,105,12,from Left to Right,Sunny
@@ -161,18 +161,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-09-2014,St. Louis Cardinals,Arizona Diamondbacks,78,0,NoWind,InDome
 27-09-2014,St. Louis Cardinals,Arizona Diamondbacks,76,0,NoWind,InDome
 28-09-2014,St. Louis Cardinals,Arizona Diamondbacks,74,0,NoWind,InDome
-08-04-2014,New York Mets,Atlanta Braves,61,8,from Left to Right.,Wind8mphfromLefttoRight
+08-04-2014,New York Mets,Atlanta Braves,61,8,from Left to Right.,
 09-04-2014,New York Mets,Atlanta Braves,65,12,from Left to Right,Sunny
 10-04-2014,New York Mets,Atlanta Braves,73,12,from Right to Left,Sunny
 11-04-2014,Washington Nationals,Atlanta Braves,71,5,out to Rightfield,Cloudy
 12-04-2014,Washington Nationals,Atlanta Braves,78,11,out to Centerfield,Cloudy
 13-04-2014,Washington Nationals,Atlanta Braves,77,12,out to Centerfield,Cloudy
 21-04-2014,Miami Marlins,Atlanta Braves,78,8,from Left to Right,Cloudy
-22-04-2014,Miami Marlins,Atlanta Braves,67,10,from Left to Right.,Wind10mphfromLefttoRight
+22-04-2014,Miami Marlins,Atlanta Braves,67,10,from Left to Right.,
 23-04-2014,Miami Marlins,Atlanta Braves,68,12,from Left to Right,Sunny
 25-04-2014,Cincinnati Reds,Atlanta Braves,75,13,from Left to Right,Sunny
 26-04-2014,Cincinnati Reds,Atlanta Braves,79,6,from Right to Left,Sunny
-27-04-2014,Cincinnati Reds,Atlanta Braves,81,8,from Left to Right.,Wind8mphfromLefttoRight
+27-04-2014,Cincinnati Reds,Atlanta Braves,81,8,from Left to Right.,
 02-05-2014,San Francisco Giants,Atlanta Braves,69,9,from Left to Right,Cloudy
 03-05-2014,San Francisco Giants,Atlanta Braves,75,9,from Left to Right,Sunny
 04-05-2014,San Francisco Giants,Atlanta Braves,82,10,from Left to Right,Sunny
@@ -180,22 +180,22 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-05-2014,St. Louis Cardinals,Atlanta Braves,85,11,out to Centerfield,Sunny
 07-05-2014,St. Louis Cardinals,Atlanta Braves,84,10,out to Centerfield,Sunny
 09-05-2014,Chicago Cubs,Atlanta Braves,65,2,from Left to Right,Overcast
-10-05-2014,Chicago Cubs,Atlanta Braves,76,5,out to Centerfield.,Wind5mphouttoCenterfield
+10-05-2014,Chicago Cubs,Atlanta Braves,76,5,out to Centerfield.,
 11-05-2014,Chicago Cubs,Atlanta Braves,74,4,from Left to Right,Cloudy
 19-05-2014,Milwaukee Brewers,Atlanta Braves,69,2,from Right to Left,Sunny
 20-05-2014,Milwaukee Brewers,Atlanta Braves,79,9,out to Centerfield,Cloudy
 21-05-2014,Milwaukee Brewers,Atlanta Braves,82,13,from Left to Right,Sunny
 22-05-2014,Milwaukee Brewers,Atlanta Braves,85,14,from Left to Right,Sunny
 23-05-2014,Colorado Rockies,Atlanta Braves,85,11,from Left to Right,Cloudy
-24-05-2014,Colorado Rockies,Atlanta Braves,89,10,from Left to Right.,Wind10mphfromLefttoRight
-25-05-2014,Colorado Rockies,Atlanta Braves,88,7,from Left to Right.,Wind7mphfromLefttoRight
+24-05-2014,Colorado Rockies,Atlanta Braves,89,10,from Left to Right.,
+25-05-2014,Colorado Rockies,Atlanta Braves,88,7,from Left to Right.,
 26-05-2014,Boston Red Sox,Atlanta Braves,84,7,out to Leftfield,Cloudy
 27-05-2014,Boston Red Sox,Atlanta Braves,83,8,out to Rightfield,Cloudy
 03-06-2014,Seattle Mariners,Atlanta Braves,85,3,from Left to Right,Cloudy
-04-06-2014,Seattle Mariners,Atlanta Braves,84,9,from Left to Right.,Wind9mphfromLefttoRight
-13-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,75,3,from Left to Right.,Wind3mphfromLefttoRight
+04-06-2014,Seattle Mariners,Atlanta Braves,84,9,from Left to Right.,
+13-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,75,3,from Left to Right.,
 14-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,87,3,from Left to Right,Cloudy
-15-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,81,8,from Left to Right.,Wind8mphfromLefttoRight
+15-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,81,8,from Left to Right.,
 16-06-2014,Philadelphia Phillies,Atlanta Braves,89,4,from Left to Right,Cloudy
 17-06-2014,Philadelphia Phillies,Atlanta Braves,88,6,from Right to Left,Cloudy
 18-06-2014,Philadelphia Phillies,Atlanta Braves,90,5,from Right to Left,Sunny
@@ -204,11 +204,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-07-2014,New York Mets,Atlanta Braves,91,9,from Left to Right,Cloudy
 04-07-2014,Arizona Diamondbacks,Atlanta Braves,82,9,from Left to Right,Cloudy
 05-07-2014,Arizona Diamondbacks,Atlanta Braves,86,8,from Right to Left,Cloudy
-06-07-2014,Arizona Diamondbacks,Atlanta Braves,81,6,from Right to Left.,Wind6mphfromRighttoLeft
-18-07-2014,Philadelphia Phillies,Atlanta Braves,76,7,from Right to Left.,Wind7mphfromRighttoLeft
-19-07-2014,Philadelphia Phillies,Atlanta Braves,78,10,in from Centerfield.,Wind10mphinfromCenterfield
+06-07-2014,Arizona Diamondbacks,Atlanta Braves,81,6,from Right to Left.,
+18-07-2014,Philadelphia Phillies,Atlanta Braves,76,7,from Right to Left.,
+19-07-2014,Philadelphia Phillies,Atlanta Braves,78,10,in from Centerfield.,
 20-07-2014,Philadelphia Phillies,Atlanta Braves,72,6,from Right to Left,Overcast
-21-07-2014,Miami Marlins,Atlanta Braves,81,1,out to Leftfield.,Wind1mphouttoLeftfield
+21-07-2014,Miami Marlins,Atlanta Braves,81,1,out to Leftfield.,
 22-07-2014,Miami Marlins,Atlanta Braves,82,5,from Right to Left,Cloudy
 23-07-2014,Miami Marlins,Atlanta Braves,88,7,from Right to Left,Cloudy
 24-07-2014,Miami Marlins,Atlanta Braves,74,5,in unknown direction,Cloudy
@@ -217,8 +217,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-07-2014,San Diego Padres,Atlanta Braves,94,13,from Left to Right,Cloudy
 28-07-2014,San Diego Padres,Atlanta Braves,86,11,from Left to Right,Cloudy
 08-08-2014,Washington Nationals,Atlanta Braves,72,6,from Right to Left,Cloudy
-09-08-2014,Washington Nationals,Atlanta Braves,73,5,from Right to Left.,Wind5mphfromRighttoLeft
-10-08-2014,Washington Nationals,Atlanta Braves,81,4,from Right to Left.,Wind4mphfromRighttoLeft
+09-08-2014,Washington Nationals,Atlanta Braves,73,5,from Right to Left.,
+10-08-2014,Washington Nationals,Atlanta Braves,81,4,from Right to Left.,
 11-08-2014,Los Angeles Dodgers,Atlanta Braves,82,4,from Left to Right,Overcast
 12-08-2014,Los Angeles Dodgers,Atlanta Braves,86,9,from Left to Right,Cloudy
 13-08-2014,Los Angeles Dodgers,Atlanta Braves,82,10,from Left to Right,Sunny
@@ -227,12 +227,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-08-2014,Oakland Athletics,Atlanta Braves,86,6,from Left to Right,Cloudy
 17-08-2014,Oakland Athletics,Atlanta Braves,79,2,out to Centerfield,Cloudy
 29-08-2014,Miami Marlins,Atlanta Braves,90,6,from Right to Left,Cloudy
-30-08-2014,Miami Marlins,Atlanta Braves,80,1,in unknown direction.,Wind1mphinunknowndirection
+30-08-2014,Miami Marlins,Atlanta Braves,80,1,in unknown direction.,
 31-08-2014,Miami Marlins,Atlanta Braves,88,10,from Left to Right,Cloudy
-01-09-2014,Philadelphia Phillies,Atlanta Braves,88,4,from Left to Right.,Wind4mphfromLefttoRight
+01-09-2014,Philadelphia Phillies,Atlanta Braves,88,4,from Left to Right.,
 02-09-2014,Philadelphia Phillies,Atlanta Braves,84,0,NoWind,Cloudy
 03-09-2014,Philadelphia Phillies,Atlanta Braves,85,4,from Right to Left,Cloudy
-15-09-2014,Washington Nationals,Atlanta Braves,77,3,in from Centerfield.,Wind3mphinfromCenterfield
+15-09-2014,Washington Nationals,Atlanta Braves,77,3,in from Centerfield.,
 16-09-2014,Washington Nationals,Atlanta Braves,83,9,from Left to Right,Cloudy
 17-09-2014,Washington Nationals,Atlanta Braves,80,14,from Left to Right,Cloudy
 19-09-2014,New York Mets,Atlanta Braves,77,8,from Right to Left,Cloudy
@@ -240,37 +240,37 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-09-2014,New York Mets,Atlanta Braves,81,9,from Left to Right,Sunny
 22-09-2014,Pittsburgh Pirates,Atlanta Braves,75,14,from Left to Right,Cloudy
 23-09-2014,Pittsburgh Pirates,Atlanta Braves,72,13,from Right to Left,Cloudy
-24-09-2014,Pittsburgh Pirates,Atlanta Braves,74,10,from Right to Left.,Wind10mphfromRighttoLeft
-25-09-2014,Pittsburgh Pirates,Atlanta Braves,71,9,from Right to Left.,Wind9mphfromRighttoLeft
+24-09-2014,Pittsburgh Pirates,Atlanta Braves,74,10,from Right to Left.,
+25-09-2014,Pittsburgh Pirates,Atlanta Braves,71,9,from Right to Left.,
 31-03-2014,Boston Red Sox,Baltimore Orioles,60,19,from Right to Left,Sunny
 02-04-2014,Boston Red Sox,Baltimore Orioles,61,3,out to Leftfield,Sunny
-03-04-2014,Boston Red Sox,Baltimore Orioles,58,1,out to Rightfield.,Wind1mphouttoRightfield
+03-04-2014,Boston Red Sox,Baltimore Orioles,58,1,out to Rightfield.,
 11-04-2014,Toronto Blue Jays,Baltimore Orioles,69,6,from Left to Right,Overcast
 12-04-2014,Toronto Blue Jays,Baltimore Orioles,72,3,out to Rightfield,Sunny
 13-04-2014,Toronto Blue Jays,Baltimore Orioles,78,1,out to Leftfield,Cloudy
 14-04-2014,Tampa Bay Rays,Baltimore Orioles,75,3,out to Centerfield,Sunny
 16-04-2014,Tampa Bay Rays,Baltimore Orioles,39,4,in from Leftfield,Sunny
 25-04-2014,Kansas City Royals,Baltimore Orioles,52,8,in from Rightfield,Rain
-26-04-2014,Kansas City Royals,Baltimore Orioles,74,3,from Left to Right.,Wind3mphfromLefttoRight
+26-04-2014,Kansas City Royals,Baltimore Orioles,74,3,from Left to Right.,
 27-04-2014,Kansas City Royals,Baltimore Orioles,59,7,from Left to Right,Sunny
 09-05-2014,Houston Astros,Baltimore Orioles,70,3,from Left to Right,Overcast
 10-05-2014,Houston Astros,Baltimore Orioles,74,2,out to Rightfield,Overcast
-11-05-2014,Houston Astros,Baltimore Orioles,73,1,from Left to Right.,Wind1mphfromLefttoRight
+11-05-2014,Houston Astros,Baltimore Orioles,73,1,from Left to Right.,
 12-05-2014,Detroit Tigers,Baltimore Orioles,74,4,out to Centerfield,Cloudy
 13-05-2014,Detroit Tigers,Baltimore Orioles,79,3,out to Centerfield,Sunny
 14-05-2014,Detroit Tigers,Baltimore Orioles,60,2,in from Centerfield,Drizzle
-22-05-2014,Cleveland Indians,Baltimore Orioles,81,9,out to Rightfield.,Wind9mphouttoRightfield
+22-05-2014,Cleveland Indians,Baltimore Orioles,81,9,out to Rightfield.,
 23-05-2014,Cleveland Indians,Baltimore Orioles,73,10,from Left to Right,Cloudy
-24-05-2014,Cleveland Indians,Baltimore Orioles,67,7,out to Rightfield.,Wind7mphouttoRightfield
+24-05-2014,Cleveland Indians,Baltimore Orioles,67,7,out to Rightfield.,
 25-05-2014,Cleveland Indians,Baltimore Orioles,77,3,out to Rightfield,Cloudy
 06-06-2014,Oakland Athletics,Baltimore Orioles,77,6,in from Leftfield,Sunny
 07-06-2014,Oakland Athletics,Baltimore Orioles,79,7,from Right to Left,Sunny
 08-06-2014,Oakland Athletics,Baltimore Orioles,82,8,from Right to Left,Cloudy
-09-06-2014,Boston Red Sox,Baltimore Orioles,80,5,in from Leftfield.,Wind5mphinfromLeftfield
-10-06-2014,Boston Red Sox,Baltimore Orioles,82,1,out to Leftfield.,Wind1mphouttoLeftfield
-11-06-2014,Boston Red Sox,Baltimore Orioles,73,4,out to Rightfield.,Wind4mphouttoRightfield
+09-06-2014,Boston Red Sox,Baltimore Orioles,80,5,in from Leftfield.,
+10-06-2014,Boston Red Sox,Baltimore Orioles,82,1,out to Leftfield.,
+11-06-2014,Boston Red Sox,Baltimore Orioles,73,4,out to Rightfield.,
 12-06-2014,Toronto Blue Jays,Baltimore Orioles,73,8,from Right to Left,Overcast
-13-06-2014,Toronto Blue Jays,Baltimore Orioles,78,2,in from Rightfield.,Wind2mphinfromRightfield
+13-06-2014,Toronto Blue Jays,Baltimore Orioles,78,2,in from Rightfield.,
 14-06-2014,Toronto Blue Jays,Baltimore Orioles,71,16,from Left to Right,Cloudy
 15-06-2014,Toronto Blue Jays,Baltimore Orioles,74,6,from Left to Right,Cloudy
 23-06-2014,Chicago White Sox,Baltimore Orioles,80,9,out to Leftfield,Sunny
@@ -286,24 +286,24 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-07-2014,Washington Nationals,Baltimore Orioles,81,6,from Right to Left,Cloudy
 11-07-2014,New York Yankees,Baltimore Orioles,83,4,from Left to Right,Cloudy
 12-07-2014,New York Yankees,Baltimore Orioles,84,7,out to Centerfield,Cloudy
-13-07-2014,New York Yankees,Baltimore Orioles,89,5,out to Leftfield.,Wind5mphouttoLeftfield
-29-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,72,7,from Left to Right.,Wind7mphfromLefttoRight
+13-07-2014,New York Yankees,Baltimore Orioles,89,5,out to Leftfield.,
+29-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,72,7,from Left to Right.,
 30-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,81,9,out to Centerfield,Cloudy
-31-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,83,5,from Right to Left.,Wind5mphfromRighttoLeft
-01-08-2014,Seattle Mariners,Baltimore Orioles,78,3,from Left to Right.,Wind3mphfromLefttoRight
+31-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,83,5,from Right to Left.,
+01-08-2014,Seattle Mariners,Baltimore Orioles,78,3,from Left to Right.,
 02-08-2014,Seattle Mariners,Baltimore Orioles,78,4,from Right to Left,Overcast
 03-08-2014,Seattle Mariners,Baltimore Orioles,72,1,from Left to Right,Overcast
-08-08-2014,St. Louis Cardinals,Baltimore Orioles,78,4,in from Leftfield.,Wind4mphinfromLeftfield
+08-08-2014,St. Louis Cardinals,Baltimore Orioles,78,4,in from Leftfield.,
 09-08-2014,St. Louis Cardinals,Baltimore Orioles,82,5,from Right to Left,Cloudy
 10-08-2014,St. Louis Cardinals,Baltimore Orioles,84,6,from Left to Right,Cloudy
-11-08-2014,New York Yankees,Baltimore Orioles,79,6,from Left to Right.,Wind6mphfromLefttoRight
+11-08-2014,New York Yankees,Baltimore Orioles,79,6,from Left to Right.,
 13-08-2014,New York Yankees,Baltimore Orioles,77,14,from Right to Left,Sunny
 25-08-2014,Tampa Bay Rays,Baltimore Orioles,81,1,from Left to Right,Cloudy
 26-08-2014,Tampa Bay Rays,Baltimore Orioles,84,5,in from Rightfield,Sunny
 27-08-2014,Tampa Bay Rays,Baltimore Orioles,87,1,in from Rightfield,Sunny
 28-08-2014,Tampa Bay Rays,Baltimore Orioles,80,11,in from Leftfield,Sunny
 29-08-2014,Minnesota Twins,Baltimore Orioles,76,6,out to Leftfield,Sunny
-30-08-2014,Minnesota Twins,Baltimore Orioles,79,10,out to Leftfield.,Wind10mphouttoLeftfield
+30-08-2014,Minnesota Twins,Baltimore Orioles,79,10,out to Leftfield.,
 31-08-2014,Minnesota Twins,Baltimore Orioles,87,7,out to Centerfield,Cloudy
 01-09-2014,Minnesota Twins,Baltimore Orioles,87,3,out to Centerfield,Cloudy
 02-09-2014,Cincinnati Reds,Baltimore Orioles,78,3,out to Rightfield,Overcast
@@ -312,105 +312,105 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-09-2014,New York Yankees,Baltimore Orioles,68,0,NoWind,Rain
 14-09-2014,New York Yankees,Baltimore Orioles,66,2,from Left to Right,Cloudy
 15-09-2014,Toronto Blue Jays,Baltimore Orioles,69,7,out to Leftfield,Cloudy
-16-09-2014,Toronto Blue Jays,Baltimore Orioles,71,2,from Left to Right.,Wind2mphfromLefttoRight
+16-09-2014,Toronto Blue Jays,Baltimore Orioles,71,2,from Left to Right.,
 17-09-2014,Toronto Blue Jays,Baltimore Orioles,71,4,out to Centerfield,Cloudy
 19-09-2014,Boston Red Sox,Baltimore Orioles,70,7,from Right to Left,Overcast
 20-09-2014,Boston Red Sox,Baltimore Orioles,76,4,from Right to Left,Sunny
 21-09-2014,Boston Red Sox,Baltimore Orioles,80,2,from Left to Right,Sunny
 04-04-2014,Milwaukee Brewers,Boston Red Sox,43,13,in from Rightfield,Cloudy
-05-04-2014,Milwaukee Brewers,Boston Red Sox,48,13,from Left to Right.,Wind13mphfromLefttoRight
+05-04-2014,Milwaukee Brewers,Boston Red Sox,48,13,from Left to Right.,
 06-04-2014,Milwaukee Brewers,Boston Red Sox,48,10,from Left to Right,Sunny
-07-04-2014,Texas Rangers,Boston Red Sox,53,5,from Right to Left.,Wind5mphfromRighttoLeft
-08-04-2014,Texas Rangers,Boston Red Sox,64,18,out to Centerfield.,Wind18mphouttoCenterfield
-09-04-2014,Texas Rangers,Boston Red Sox,58,12,in from Leftfield.,Wind12mphinfromLeftfield
-18-04-2014,Baltimore Orioles,Boston Red Sox,42,9,in from Rightfield.,Wind9mphinfromRightfield
+07-04-2014,Texas Rangers,Boston Red Sox,53,5,from Right to Left.,
+08-04-2014,Texas Rangers,Boston Red Sox,64,18,out to Centerfield.,
+09-04-2014,Texas Rangers,Boston Red Sox,58,12,in from Leftfield.,
+18-04-2014,Baltimore Orioles,Boston Red Sox,42,9,in from Rightfield.,
 19-04-2014,Baltimore Orioles,Boston Red Sox,62,13,in from Leftfield,Sunny
 20-04-2014,Baltimore Orioles,Boston Red Sox,50,10,in from Rightfield,Cloudy
 21-04-2014,Baltimore Orioles,Boston Red Sox,56,7,out to Centerfield,Cloudy
-22-04-2014,New York Yankees,Boston Red Sox,71,18,out to Leftfield.,Wind18mphouttoLeftfield
-23-04-2014,New York Yankees,Boston Red Sox,53,24,from Left to Right.,Wind24mphfromLefttoRight
+22-04-2014,New York Yankees,Boston Red Sox,71,18,out to Leftfield.,
+23-04-2014,New York Yankees,Boston Red Sox,53,24,from Left to Right.,
 24-04-2014,New York Yankees,Boston Red Sox,59,22,in from Leftfield,Sunny
-29-04-2014,Tampa Bay Rays,Boston Red Sox,43,15,from Left to Right.,Wind15mphfromLefttoRight
+29-04-2014,Tampa Bay Rays,Boston Red Sox,43,15,from Left to Right.,
 02-05-2014,Oakland Athletics,Boston Red Sox,67,15,out to Rightfield,Cloudy
-03-05-2014,Oakland Athletics,Boston Red Sox,66,9,out to Centerfield.,Wind9mphouttoCenterfield
-04-05-2014,Oakland Athletics,Boston Red Sox,59,15,out to Rightfield.,Wind15mphouttoRightfield
+03-05-2014,Oakland Athletics,Boston Red Sox,66,9,out to Centerfield.,
+04-05-2014,Oakland Athletics,Boston Red Sox,59,15,out to Rightfield.,
 06-05-2014,Cincinnati Reds,Boston Red Sox,61,15,in from Centerfield,Cloudy
 07-05-2014,Cincinnati Reds,Boston Red Sox,66,8,in from Rightfield,Cloudy
-16-05-2014,Detroit Tigers,Boston Red Sox,68,9,out to Leftfield.,Wind9mphouttoLeftfield
+16-05-2014,Detroit Tigers,Boston Red Sox,68,9,out to Leftfield.,
 17-05-2014,Detroit Tigers,Boston Red Sox,73,9,out to Rightfield,Sunny
-18-05-2014,Detroit Tigers,Boston Red Sox,61,2,in from Rightfield.,Wind2mphinfromRightfield
+18-05-2014,Detroit Tigers,Boston Red Sox,61,2,in from Rightfield.,
 20-05-2014,Toronto Blue Jays,Boston Red Sox,67,7,in from Rightfield,Cloudy
 21-05-2014,Toronto Blue Jays,Boston Red Sox,64,12,in from Rightfield,Cloudy
 22-05-2014,Toronto Blue Jays,Boston Red Sox,56,11,in from Rightfield,Rain
-28-05-2014,Atlanta Braves,Boston Red Sox,49,15,in from Centerfield.,Wind15mphinfromCenterfield
-29-05-2014,Atlanta Braves,Boston Red Sox,59,9,from Right to Left.,Wind9mphfromRighttoLeft
-30-05-2014,Tampa Bay Rays,Boston Red Sox,69,11,in from Leftfield.,Wind11mphinfromLeftfield
+28-05-2014,Atlanta Braves,Boston Red Sox,49,15,in from Centerfield.,
+29-05-2014,Atlanta Braves,Boston Red Sox,59,9,from Right to Left.,
+30-05-2014,Tampa Bay Rays,Boston Red Sox,69,11,in from Leftfield.,
 31-05-2014,Tampa Bay Rays,Boston Red Sox,57,6,in from Rightfield,Sunny
 01-06-2014,Tampa Bay Rays,Boston Red Sox,73,6,in from Rightfield,Cloudy
-12-06-2014,Cleveland Indians,Boston Red Sox,66,13,from Right to Left.,Wind13mphfromRighttoLeft
-13-06-2014,Cleveland Indians,Boston Red Sox,63,7,out to Rightfield.,Wind7mphouttoRightfield
-14-06-2014,Cleveland Indians,Boston Red Sox,75,10,from Left to Right.,Wind10mphfromLefttoRight
+12-06-2014,Cleveland Indians,Boston Red Sox,66,13,from Right to Left.,
+13-06-2014,Cleveland Indians,Boston Red Sox,63,7,out to Rightfield.,
+14-06-2014,Cleveland Indians,Boston Red Sox,75,10,from Left to Right.,
 15-06-2014,Cleveland Indians,Boston Red Sox,75,10,from Left to Right,Sunny
 16-06-2014,Minnesota Twins,Boston Red Sox,77,12,from Right to Left,Sunny
-17-06-2014,Minnesota Twins,Boston Red Sox,82,15,out to Leftfield.,Wind15mphouttoLeftfield
+17-06-2014,Minnesota Twins,Boston Red Sox,82,15,out to Leftfield.,
 18-06-2014,Minnesota Twins,Boston Red Sox,86,16,from Left to Right,Cloudy
 30-06-2014,Chicago Cubs,Boston Red Sox,86,13,out to Centerfield,Cloudy
 01-07-2014,Chicago Cubs,Boston Red Sox,88,18,out to Rightfield,Cloudy
 02-07-2014,Chicago Cubs,Boston Red Sox,85,11,out to Centerfield,Cloudy
 06-07-2014,Baltimore Orioles,Boston Red Sox,84,16,out to Centerfield,Sunny
-07-07-2014,Chicago White Sox,Boston Red Sox,77,16,out to Centerfield.,Wind16mphouttoCenterfield
+07-07-2014,Chicago White Sox,Boston Red Sox,77,16,out to Centerfield.,
 08-07-2014,Chicago White Sox,Boston Red Sox,88,15,out to Leftfield,Cloudy
 09-07-2014,Chicago White Sox,Boston Red Sox,86,15,out to Centerfield,Cloudy
-10-07-2014,Chicago White Sox,Boston Red Sox,81,7,from Left to Right.,Wind7mphfromLefttoRight
+10-07-2014,Chicago White Sox,Boston Red Sox,81,7,from Left to Right.,
 18-07-2014,Kansas City Royals,Boston Red Sox,74,7,in from Rightfield,Cloudy
-19-07-2014,Kansas City Royals,Boston Red Sox,68,7,in from Rightfield.,Wind7mphinfromRightfield
-20-07-2014,Kansas City Royals,Boston Red Sox,72,9,in from Centerfield.,Wind9mphinfromCenterfield
+19-07-2014,Kansas City Royals,Boston Red Sox,68,7,in from Rightfield.,
+20-07-2014,Kansas City Royals,Boston Red Sox,72,9,in from Centerfield.,
 28-07-2014,Toronto Blue Jays,Boston Red Sox,79,12,out to Centerfield,Cloudy
-29-07-2014,Toronto Blue Jays,Boston Red Sox,73,8,out to Rightfield.,Wind8mphouttoRightfield
+29-07-2014,Toronto Blue Jays,Boston Red Sox,73,8,out to Rightfield.,
 30-07-2014,Toronto Blue Jays,Boston Red Sox,72,10,from Right to Left,Cloudy
-01-08-2014,New York Yankees,Boston Red Sox,74,12,out to Leftfield.,Wind12mphouttoLeftfield
-02-08-2014,New York Yankees,Boston Red Sox,68,12,from Right to Left.,Wind12mphfromRighttoLeft
-03-08-2014,New York Yankees,Boston Red Sox,67,7,in from Centerfield.,Wind7mphinfromCenterfield
+01-08-2014,New York Yankees,Boston Red Sox,74,12,out to Leftfield.,
+02-08-2014,New York Yankees,Boston Red Sox,68,12,from Right to Left.,
+03-08-2014,New York Yankees,Boston Red Sox,67,7,in from Centerfield.,
 14-08-2014,Houston Astros,Boston Red Sox,73,10,from Left to Right,Cloudy
-15-08-2014,Houston Astros,Boston Red Sox,67,12,out to Rightfield.,Wind12mphouttoRightfield
-16-08-2014,Houston Astros,Boston Red Sox,76,11,out to Centerfield.,Wind11mphouttoCenterfield
-17-08-2014,Houston Astros,Boston Red Sox,78,10,out to Rightfield.,Wind10mphouttoRightfield
-18-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,76,7,in from Leftfield.,Wind7mphinfromLeftfield
+15-08-2014,Houston Astros,Boston Red Sox,67,12,out to Rightfield.,
+16-08-2014,Houston Astros,Boston Red Sox,76,11,out to Centerfield.,
+17-08-2014,Houston Astros,Boston Red Sox,78,10,out to Rightfield.,
+18-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,76,7,in from Leftfield.,
 19-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,72,9,in from Rightfield,Sunny
 20-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,70,8,in from Rightfield,Cloudy
-21-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,70,7,in from Rightfield.,Wind7mphinfromRightfield
-22-08-2014,Seattle Mariners,Boston Red Sox,70,11,in from Rightfield.,Wind11mphinfromRightfield
-23-08-2014,Seattle Mariners,Boston Red Sox,72,11,in from Rightfield.,Wind11mphinfromRightfield
+21-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,70,7,in from Rightfield.,
+22-08-2014,Seattle Mariners,Boston Red Sox,70,11,in from Rightfield.,
+23-08-2014,Seattle Mariners,Boston Red Sox,72,11,in from Rightfield.,
 24-08-2014,Seattle Mariners,Boston Red Sox,80,10,from Right to Left,Sunny
 05-09-2014,Toronto Blue Jays,Boston Red Sox,86,15,out to Leftfield,Sunny
-06-09-2014,Toronto Blue Jays,Boston Red Sox,73,7,out to Rightfield.,Wind7mphouttoRightfield
+06-09-2014,Toronto Blue Jays,Boston Red Sox,73,7,out to Rightfield.,
 07-09-2014,Toronto Blue Jays,Boston Red Sox,75,9,from Left to Right,Cloudy
-08-09-2014,Baltimore Orioles,Boston Red Sox,67,8,in from Centerfield.,Wind8mphinfromCenterfield
-09-09-2014,Baltimore Orioles,Boston Red Sox,67,10,in from Rightfield.,Wind10mphinfromRightfield
+08-09-2014,Baltimore Orioles,Boston Red Sox,67,8,in from Centerfield.,
+09-09-2014,Baltimore Orioles,Boston Red Sox,67,10,in from Rightfield.,
 10-09-2014,Baltimore Orioles,Boston Red Sox,71,9,in from Centerfield,Cloudy
 23-09-2014,Tampa Bay Rays,Boston Red Sox,70,14,in from Leftfield,Cloudy
 24-09-2014,Tampa Bay Rays,Boston Red Sox,61,10,in from Rightfield,Cloudy
-25-09-2014,Tampa Bay Rays,Boston Red Sox,63,7,in from Rightfield.,Wind7mphinfromRightfield
-26-09-2014,New York Yankees,Boston Red Sox,69,8,in from Rightfield.,Wind8mphinfromRightfield
+25-09-2014,Tampa Bay Rays,Boston Red Sox,63,7,in from Rightfield.,
+26-09-2014,New York Yankees,Boston Red Sox,69,8,in from Rightfield.,
 27-09-2014,New York Yankees,Boston Red Sox,81,4,out to Rightfield,Sunny
 28-09-2014,New York Yankees,Boston Red Sox,84,6,from Right to Left,Sunny
 31-03-2014,Minnesota Twins,Chicago White Sox,65,22,from Right to Left,Cloudy
-02-04-2014,Minnesota Twins,Chicago White Sox,38,12,from Left to Right.,Wind12mphfromLefttoRight
+02-04-2014,Minnesota Twins,Chicago White Sox,38,12,from Left to Right.,
 03-04-2014,Minnesota Twins,Chicago White Sox,37,24,from Left to Right,Drizzle
-10-04-2014,Cleveland Indians,Chicago White Sox,54,9,out to Leftfield.,Wind9mphouttoLeftfield
+10-04-2014,Cleveland Indians,Chicago White Sox,54,9,out to Leftfield.,
 11-04-2014,Cleveland Indians,Chicago White Sox,66,9,from Right to Left,Cloudy
-12-04-2014,Cleveland Indians,Chicago White Sox,70,17,in from Rightfield.,Wind17mphinfromRightfield
+12-04-2014,Cleveland Indians,Chicago White Sox,70,17,in from Rightfield.,
 13-04-2014,Cleveland Indians,Chicago White Sox,48,10,from Left to Right,Overcast
 15-04-2014,Boston Red Sox,Chicago White Sox,40,9,in from Leftfield,Overcast
 16-04-2014,Boston Red Sox,Chicago White Sox,46,18,in from Rightfield,Cloudy
 17-04-2014,Boston Red Sox,Chicago White Sox,61,11,out to Leftfield,Overcast
 25-04-2014,Tampa Bay Rays,Chicago White Sox,66,14,in unknown direction,Cloudy
-26-04-2014,Tampa Bay Rays,Chicago White Sox,39,20,from Left to Right.,Wind20mphfromLefttoRight
+26-04-2014,Tampa Bay Rays,Chicago White Sox,39,20,from Left to Right.,
 27-04-2014,Tampa Bay Rays,Chicago White Sox,50,24,from Left to Right,Cloudy
 28-04-2014,Tampa Bay Rays,Chicago White Sox,50,14,in from Centerfield,Overcast
 29-04-2014,Detroit Tigers,Chicago White Sox,61,9,from Right to Left,Overcast
-30-04-2014,Detroit Tigers,Chicago White Sox,53,9,from Right to Left.,Wind9mphfromRighttoLeft
-07-05-2014,Chicago Cubs,Chicago White Sox,62,11,out to Rightfield.,Wind11mphouttoRightfield
+30-04-2014,Detroit Tigers,Chicago White Sox,53,9,from Right to Left.,
+07-05-2014,Chicago Cubs,Chicago White Sox,62,11,out to Rightfield.,
 08-05-2014,Chicago Cubs,Chicago White Sox,83,20,in from Rightfield,Overcast
 09-05-2014,Arizona Diamondbacks,Chicago White Sox,67,18,from Right to Left,Cloudy
 10-05-2014,Arizona Diamondbacks,Chicago White Sox,70,8,from Left to Right,Cloudy
@@ -424,24 +424,24 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-05-2014,Cleveland Indians,Chicago White Sox,59,8,from Left to Right,Overcast
 30-05-2014,San Diego Padres,Chicago White Sox,68,9,out to Rightfield,Sunny
 31-05-2014,San Diego Padres,Chicago White Sox,81,10,in from Leftfield,Sunny
-01-06-2014,San Diego Padres,Chicago White Sox,87,14,from Right to Left.,Wind14mphfromRighttoLeft
-09-06-2014,Detroit Tigers,Chicago White Sox,62,8,out to Rightfield.,Wind8mphouttoRightfield
+01-06-2014,San Diego Padres,Chicago White Sox,87,14,from Right to Left.,
+09-06-2014,Detroit Tigers,Chicago White Sox,62,8,out to Rightfield.,
 11-06-2014,Detroit Tigers,Chicago White Sox,62,9,from Left to Right,Overcast
-12-06-2014,Detroit Tigers,Chicago White Sox,74,16,out to Leftfield.,Wind16mphouttoLeftfield
+12-06-2014,Detroit Tigers,Chicago White Sox,74,16,out to Leftfield.,
 13-06-2014,Kansas City Royals,Chicago White Sox,65,9,out to Leftfield,Sunny
 14-06-2014,Kansas City Royals,Chicago White Sox,76,9,in from Centerfield,Sunny
-15-06-2014,Kansas City Royals,Chicago White Sox,79,18,in from Rightfield.,Wind18mphinfromRightfield
+15-06-2014,Kansas City Royals,Chicago White Sox,79,18,in from Rightfield.,
 17-06-2014,San Francisco Giants,Chicago White Sox,78,14,in from Rightfield,Cloudy
 18-06-2014,San Francisco Giants,Chicago White Sox,68,15,from Left to Right,Overcast
 02-07-2014,Los Angeles Angels of Anaheim,Chicago White Sox,57,13,from Left to Right,Drizzle
 04-07-2014,Seattle Mariners,Chicago White Sox,69,9,from Left to Right,Sunny
-05-07-2014,Seattle Mariners,Chicago White Sox,75,14,in from Rightfield.,Wind14mphinfromRightfield
+05-07-2014,Seattle Mariners,Chicago White Sox,75,14,in from Rightfield.,
 06-07-2014,Seattle Mariners,Chicago White Sox,83,12,from Right to Left,Overcast
 18-07-2014,Houston Astros,Chicago White Sox,74,14,in from Centerfield,Cloudy
 19-07-2014,Houston Astros,Chicago White Sox,75,5,from Left to Right,Sunny
 20-07-2014,Houston Astros,Chicago White Sox,82,8,in from Centerfield,Cloudy
 21-07-2014,Kansas City Royals,Chicago White Sox,80,11,in from Rightfield,Sunny
-22-07-2014,Kansas City Royals,Chicago White Sox,86,12,from Right to Left.,Wind12mphfromRighttoLeft
+22-07-2014,Kansas City Royals,Chicago White Sox,86,12,from Right to Left.,
 23-07-2014,Kansas City Royals,Chicago White Sox,68,18,from Left to Right,Sunny
 01-08-2014,Minnesota Twins,Chicago White Sox,74,7,in from Rightfield,Cloudy
 02-08-2014,Minnesota Twins,Chicago White Sox,75,7,in from Leftfield,Sunny
@@ -451,7 +451,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-08-2014,Texas Rangers,Chicago White Sox,72,7,from Left to Right,Cloudy
 15-08-2014,Toronto Blue Jays,Chicago White Sox,75,8,from Right to Left,Cloudy
 16-08-2014,Toronto Blue Jays,Chicago White Sox,78,9,from Right to Left,Cloudy
-17-08-2014,Toronto Blue Jays,Chicago White Sox,66,13,out to Rightfield.,Wind13mphouttoRightfield
+17-08-2014,Toronto Blue Jays,Chicago White Sox,66,13,out to Rightfield.,
 18-08-2014,Baltimore Orioles,Chicago White Sox,79,7,in from Rightfield,Cloudy
 19-08-2014,Baltimore Orioles,Chicago White Sox,81,9,from Right to Left,Cloudy
 20-08-2014,Baltimore Orioles,Chicago White Sox,83,10,from Right to Left,Cloudy
@@ -461,8 +461,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-08-2014,Detroit Tigers,Chicago White Sox,78,12,in from Rightfield,Cloudy
 31-08-2014,Detroit Tigers,Chicago White Sox,86,5,in from Rightfield,Cloudy
 08-09-2014,Oakland Athletics,Chicago White Sox,75,9,from Right to Left,Cloudy
-09-09-2014,Oakland Athletics,Chicago White Sox,79,10,from Right to Left.,Wind10mphfromRighttoLeft
-10-09-2014,Oakland Athletics,Chicago White Sox,72,17,out to Leftfield.,Wind17mphouttoLeftfield
+09-09-2014,Oakland Athletics,Chicago White Sox,79,10,from Right to Left.,
+10-09-2014,Oakland Athletics,Chicago White Sox,72,17,out to Leftfield.,
 11-09-2014,Oakland Athletics,Chicago White Sox,50,12,out to Centerfield,Overcast
 14-09-2014,Minnesota Twins,Chicago White Sox,72,8,from Right to Left,Cloudy
 25-09-2014,Kansas City Royals,Chicago White Sox,72,5,from Left to Right,Cloudy
@@ -474,14 +474,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-04-2014,Philadelphia Phillies,Chicago Cubs,47,9,from Right to Left,Overcast
 08-04-2014,Pittsburgh Pirates,Chicago Cubs,48,3,in from Rightfield,Cloudy
 09-04-2014,Pittsburgh Pirates,Chicago Cubs,59,8,out to Centerfield,Sunny
-10-04-2014,Pittsburgh Pirates,Chicago Cubs,61,6,out to Rightfield.,Wind6mphouttoRightfield
+10-04-2014,Pittsburgh Pirates,Chicago Cubs,61,6,out to Rightfield.,
 18-04-2014,Cincinnati Reds,Chicago Cubs,38,12,in from Rightfield,Sunny
 19-04-2014,Cincinnati Reds,Chicago Cubs,46,5,in from Rightfield,Cloudy
 20-04-2014,Cincinnati Reds,Chicago Cubs,63,7,out to Rightfield,Sunny
-21-04-2014,Arizona Diamondbacks,Chicago Cubs,59,2,in from Rightfield.,Wind2mphinfromRightfield
+21-04-2014,Arizona Diamondbacks,Chicago Cubs,59,2,in from Rightfield.,
 22-04-2014,Arizona Diamondbacks,Chicago Cubs,41,10,in from Rightfield,Sunny
 23-04-2014,Arizona Diamondbacks,Chicago Cubs,40,10,in from Centerfield,Cloudy
-24-04-2014,Arizona Diamondbacks,Chicago Cubs,55,15,from Right to Left.,Wind15mphfromRighttoLeft
+24-04-2014,Arizona Diamondbacks,Chicago Cubs,55,15,from Right to Left.,
 02-05-2014,St. Louis Cardinals,Chicago Cubs,48,6,out to Centerfield,Overcast
 03-05-2014,St. Louis Cardinals,Chicago Cubs,61,14,in from Leftfield,Cloudy
 04-05-2014,St. Louis Cardinals,Chicago Cubs,44,4,in from Rightfield,Cloudy
@@ -498,21 +498,21 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-06-2014,Miami Marlins,Chicago Cubs,74,8,in from Rightfield,Sunny
 07-06-2014,Miami Marlins,Chicago Cubs,80,10,from Right to Left,Overcast
 08-06-2014,Miami Marlins,Chicago Cubs,58,22,in from Centerfield,Cloudy
-20-06-2014,Pittsburgh Pirates,Chicago Cubs,81,8,in from Centerfield.,Wind8mphinfromCenterfield
+20-06-2014,Pittsburgh Pirates,Chicago Cubs,81,8,in from Centerfield.,
 21-06-2014,Pittsburgh Pirates,Chicago Cubs,70,1,out to Rightfield,Overcast
 22-06-2014,Pittsburgh Pirates,Chicago Cubs,65,9,in from Leftfield,Cloudy
 23-06-2014,Cincinnati Reds,Chicago Cubs,75,4,in from Rightfield,Cloudy
-24-06-2014,Cincinnati Reds,Chicago Cubs,75,3,in from Rightfield.,Wind3mphinfromRightfield
+24-06-2014,Cincinnati Reds,Chicago Cubs,75,3,in from Rightfield.,
 25-06-2014,Cincinnati Reds,Chicago Cubs,59,11,in from Leftfield,Overcast
 26-06-2014,Washington Nationals,Chicago Cubs,59,6,in from Rightfield,Overcast
 27-06-2014,Washington Nationals,Chicago Cubs,83,8,in from Rightfield,Sunny
 11-07-2014,Atlanta Braves,Chicago Cubs,76,10,from Right to Left,Cloudy
-12-07-2014,Atlanta Braves,Chicago Cubs,78,14,out to Centerfield.,Wind14mphouttoCenterfield
+12-07-2014,Atlanta Braves,Chicago Cubs,78,14,out to Centerfield.,
 13-07-2014,Atlanta Braves,Chicago Cubs,81,5,from Left to Right,Sunny
 22-07-2014,San Diego Padres,Chicago Cubs,88,8,in unknown direction,Cloudy
 23-07-2014,San Diego Padres,Chicago Cubs,62,16,in from Leftfield,Cloudy
 24-07-2014,San Diego Padres,Chicago Cubs,69,3,in from Rightfield,Cloudy
-25-07-2014,St. Louis Cardinals,Chicago Cubs,75,12,out to Centerfield.,Wind12mphouttoCenterfield
+25-07-2014,St. Louis Cardinals,Chicago Cubs,75,12,out to Centerfield.,
 26-07-2014,St. Louis Cardinals,Chicago Cubs,78,8,from Right to Left,Cloudy
 27-07-2014,St. Louis Cardinals,Chicago Cubs,84,17,from Left to Right,Cloudy
 28-07-2014,Colorado Rockies,Chicago Cubs,63,6,in unknown direction,Sunny
@@ -522,7 +522,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-08-2014,Tampa Bay Rays,Chicago Cubs,77,11,in from Centerfield,Sunny
 09-08-2014,Tampa Bay Rays,Chicago Cubs,74,12,in from Centerfield,Sunny
 10-08-2014,Tampa Bay Rays,Chicago Cubs,74,15,in from Rightfield,Cloudy
-11-08-2014,Milwaukee Brewers,Chicago Cubs,73,5,from Right to Left.,Wind5mphfromRighttoLeft
+11-08-2014,Milwaukee Brewers,Chicago Cubs,73,5,from Right to Left.,
 12-08-2014,Milwaukee Brewers,Chicago Cubs,64,5,from Left to Right,Overcast
 13-08-2014,Milwaukee Brewers,Chicago Cubs,70,7,in from Rightfield,Sunny
 14-08-2014,Milwaukee Brewers,Chicago Cubs,67,5,in from Centerfield,Sunny
@@ -543,18 +543,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-09-2014,Cincinnati Reds,Chicago Cubs,62,6,in from Rightfield,Sunny
 18-09-2014,Los Angeles Dodgers,Chicago Cubs,59,12,in from Centerfield,Sunny
 19-09-2014,Los Angeles Dodgers,Chicago Cubs,72,11,out to Leftfield,Sunny
-20-09-2014,Los Angeles Dodgers,Chicago Cubs,75,14,out to Centerfield.,Wind14mphouttoCenterfield
-21-09-2014,Los Angeles Dodgers,Chicago Cubs,61,14,in from Leftfield.,Wind14mphinfromLeftfield
+20-09-2014,Los Angeles Dodgers,Chicago Cubs,75,14,out to Centerfield.,
+21-09-2014,Los Angeles Dodgers,Chicago Cubs,61,14,in from Leftfield.,
 22-09-2014,St. Louis Cardinals,Chicago Cubs,59,3,in from Rightfield,Sunny
 23-09-2014,St. Louis Cardinals,Chicago Cubs,65,2,from Right to Left,Sunny
 24-09-2014,St. Louis Cardinals,Chicago Cubs,67,6,in from Rightfield,Cloudy
 31-03-2014,St. Louis Cardinals,Cincinnati Reds,64,9,in from Centerfield,Cloudy
 02-04-2014,St. Louis Cardinals,Cincinnati Reds,55,8,from Right to Left,Rain
 03-04-2014,St. Louis Cardinals,Cincinnati Reds,60,4,in from Centerfield,Overcast
-11-04-2014,Tampa Bay Rays,Cincinnati Reds,71,6,in unknown direction.,Wind6mphinunknowndirection
+11-04-2014,Tampa Bay Rays,Cincinnati Reds,71,6,in unknown direction.,
 12-04-2014,Tampa Bay Rays,Cincinnati Reds,72,12,in from Rightfield,Cloudy
 13-04-2014,Tampa Bay Rays,Cincinnati Reds,75,23,from Right to Left,Cloudy
-14-04-2014,Pittsburgh Pirates,Cincinnati Reds,66,11,from Right to Left.,Wind11mphfromRighttoLeft
+14-04-2014,Pittsburgh Pirates,Cincinnati Reds,66,11,from Right to Left.,
 15-04-2014,Pittsburgh Pirates,Cincinnati Reds,39,13,from Right to Left,Cloudy
 16-04-2014,Pittsburgh Pirates,Cincinnati Reds,44,12,in from Leftfield,Cloudy
 29-04-2014,Chicago Cubs,Cincinnati Reds,63,14,in unknown direction,Overcast
@@ -562,36 +562,36 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-05-2014,Milwaukee Brewers,Cincinnati Reds,59,22,in unknown direction,Cloudy
 02-05-2014,Milwaukee Brewers,Cincinnati Reds,59,9,in unknown direction,Cloudy
 03-05-2014,Milwaukee Brewers,Cincinnati Reds,70,14,out to Leftfield,Cloudy
-04-05-2014,Milwaukee Brewers,Cincinnati Reds,74,13,in unknown direction.,Wind13mphinunknowndirection
-09-05-2014,Colorado Rockies,Cincinnati Reds,76,10,from Right to Left.,Wind10mphfromRighttoLeft
+04-05-2014,Milwaukee Brewers,Cincinnati Reds,74,13,in unknown direction.,
+09-05-2014,Colorado Rockies,Cincinnati Reds,76,10,from Right to Left.,
 10-05-2014,Colorado Rockies,Cincinnati Reds,68,5,from Right to Left,Cloudy
 11-05-2014,Colorado Rockies,Cincinnati Reds,75,8,from Left to Right,Sunny
 13-05-2014,San Diego Padres,Cincinnati Reds,86,12,in from Rightfield,Cloudy
 23-05-2014,St. Louis Cardinals,Cincinnati Reds,76,8,out to Rightfield,Sunny
 24-05-2014,St. Louis Cardinals,Cincinnati Reds,78,7,in unknown direction,Cloudy
 25-05-2014,St. Louis Cardinals,Cincinnati Reds,81,6,in from Centerfield,Sunny
-03-06-2014,San Francisco Giants,Cincinnati Reds,79,10,in unknown direction.,Wind10mphinunknowndirection
-04-06-2014,San Francisco Giants,Cincinnati Reds,81,9,from Right to Left.,Wind9mphfromRighttoLeft
+03-06-2014,San Francisco Giants,Cincinnati Reds,79,10,in unknown direction.,
+04-06-2014,San Francisco Giants,Cincinnati Reds,81,9,from Right to Left.,
 05-06-2014,San Francisco Giants,Cincinnati Reds,72,6,in from Centerfield,Cloudy
 06-06-2014,Philadelphia Phillies,Cincinnati Reds,83,8,in unknown direction,Sunny
 07-06-2014,Philadelphia Phillies,Cincinnati Reds,84,7,in from Leftfield,Cloudy
 08-06-2014,Philadelphia Phillies,Cincinnati Reds,72,16,from Right to Left,Overcast
 09-06-2014,Los Angeles Dodgers,Cincinnati Reds,76,6,from Left to Right,Overcast
 10-06-2014,Los Angeles Dodgers,Cincinnati Reds,69,6,in from Centerfield,Overcast
-11-06-2014,Los Angeles Dodgers,Cincinnati Reds,72,8,from Right to Left.,Wind8mphfromRighttoLeft
+11-06-2014,Los Angeles Dodgers,Cincinnati Reds,72,8,from Right to Left.,
 12-06-2014,Los Angeles Dodgers,Cincinnati Reds,73,12,out to Centerfield,Overcast
 20-06-2014,Toronto Blue Jays,Cincinnati Reds,77,8,from Right to Left,Overcast
 21-06-2014,Toronto Blue Jays,Cincinnati Reds,80,7,in unknown direction,Cloudy
 22-06-2014,Toronto Blue Jays,Cincinnati Reds,86,3,from Right to Left,Cloudy
 04-07-2014,Milwaukee Brewers,Cincinnati Reds,75,8,out to Rightfield,Sunny
 05-07-2014,Milwaukee Brewers,Cincinnati Reds,82,3,from Right to Left,Sunny
-06-07-2014,Milwaukee Brewers,Cincinnati Reds,80,6,in from Leftfield.,Wind6mphinfromLeftfield
+06-07-2014,Milwaukee Brewers,Cincinnati Reds,80,6,in from Leftfield.,
 07-07-2014,Chicago Cubs,Cincinnati Reds,86,13,from Left to Right,Overcast
 09-07-2014,Chicago Cubs,Cincinnati Reds,81,9,in unknown direction,Cloudy
 10-07-2014,Chicago Cubs,Cincinnati Reds,78,3,in from Centerfield,Cloudy
 11-07-2014,Pittsburgh Pirates,Cincinnati Reds,85,4,from Left to Right,Sunny
 12-07-2014,Pittsburgh Pirates,Cincinnati Reds,85,10,from Right to Left,Overcast
-13-07-2014,Pittsburgh Pirates,Cincinnati Reds,87,10,from Right to Left.,Wind10mphfromRighttoLeft
+13-07-2014,Pittsburgh Pirates,Cincinnati Reds,87,10,from Right to Left.,
 25-07-2014,Washington Nationals,Cincinnati Reds,76,4,in from Rightfield,Cloudy
 26-07-2014,Washington Nationals,Cincinnati Reds,85,11,in from Rightfield,Cloudy
 27-07-2014,Washington Nationals,Cincinnati Reds,74,10,in unknown direction,Cloudy
@@ -602,13 +602,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-08-2014,Cleveland Indians,Cincinnati Reds,75,9,in unknown direction,Overcast
 08-08-2014,Miami Marlins,Cincinnati Reds,74,6,in from Centerfield,Overcast
 09-08-2014,Miami Marlins,Cincinnati Reds,78,5,in unknown direction,Overcast
-10-08-2014,Miami Marlins,Cincinnati Reds,79,3,in unknown direction.,Wind3mphinunknowndirection
+10-08-2014,Miami Marlins,Cincinnati Reds,79,3,in unknown direction.,
 12-08-2014,Boston Red Sox,Cincinnati Reds,70,12,out to Centerfield,Cloudy
 13-08-2014,Boston Red Sox,Cincinnati Reds,71,9,in unknown direction,Cloudy
 21-08-2014,Atlanta Braves,Cincinnati Reds,83,7,from Right to Left,Cloudy
-22-08-2014,Atlanta Braves,Cincinnati Reds,83,6,in unknown direction.,Wind6mphinunknowndirection
-23-08-2014,Atlanta Braves,Cincinnati Reds,77,1,in unknown direction.,Wind1mphinunknowndirection
-24-08-2014,Atlanta Braves,Cincinnati Reds,85,5,in from Leftfield.,Wind5mphinfromLeftfield
+22-08-2014,Atlanta Braves,Cincinnati Reds,83,6,in unknown direction.,
+23-08-2014,Atlanta Braves,Cincinnati Reds,77,1,in unknown direction.,
+24-08-2014,Atlanta Braves,Cincinnati Reds,85,5,in from Leftfield.,
 26-08-2014,Chicago Cubs,Cincinnati Reds,86,3,from Right to Left,Cloudy
 27-08-2014,Chicago Cubs,Cincinnati Reds,86,6,out to Centerfield,Cloudy
 28-08-2014,Chicago Cubs,Cincinnati Reds,77,7,out to Rightfield,Sunny
@@ -632,16 +632,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-04-2014,Toronto Blue Jays,Cleveland Indians,54,8,in from Rightfield,Cloudy
 19-04-2014,Toronto Blue Jays,Cleveland Indians,44,12,in from Rightfield,Sunny
 20-04-2014,Toronto Blue Jays,Cleveland Indians,67,10,out to Centerfield,Cloudy
-21-04-2014,Kansas City Royals,Cleveland Indians,69,7,out to Rightfield.,Wind7mphouttoRightfield
-22-04-2014,Kansas City Royals,Cleveland Indians,50,9,from Left to Right.,Wind9mphfromLefttoRight
+21-04-2014,Kansas City Royals,Cleveland Indians,69,7,out to Rightfield.,
+22-04-2014,Kansas City Royals,Cleveland Indians,50,9,from Left to Right.,
 23-04-2014,Kansas City Royals,Cleveland Indians,44,12,from Left to Right,Cloudy
 24-04-2014,Kansas City Royals,Cleveland Indians,49,4,from Right to Left,Overcast
-02-05-2014,Chicago White Sox,Cleveland Indians,54,12,out to Rightfield.,Wind12mphouttoRightfield
+02-05-2014,Chicago White Sox,Cleveland Indians,54,12,out to Rightfield.,
 03-05-2014,Chicago White Sox,Cleveland Indians,54,17,from Left to Right,Sunny
 04-05-2014,Chicago White Sox,Cleveland Indians,56,6,from Left to Right,Cloudy
-05-05-2014,Minnesota Twins,Cleveland Indians,47,9,in from Centerfield.,Wind9mphinfromCenterfield
+05-05-2014,Minnesota Twins,Cleveland Indians,47,9,in from Centerfield.,
 06-05-2014,Minnesota Twins,Cleveland Indians,51,9,in from Centerfield,Overcast
-07-05-2014,Minnesota Twins,Cleveland Indians,65,12,from Right to Left.,Wind12mphfromRighttoLeft
+07-05-2014,Minnesota Twins,Cleveland Indians,65,12,from Right to Left.,
 08-05-2014,Minnesota Twins,Cleveland Indians,67,10,from Left to Right,Cloudy
 16-05-2014,Oakland Athletics,Cleveland Indians,49,8,from Left to Right,Overcast
 17-05-2014,Oakland Athletics,Cleveland Indians,49,4,in from Leftfield,Sunny
@@ -662,23 +662,23 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-06-2014,Detroit Tigers,Cleveland Indians,69,2,in from Centerfield,Sunny
 22-06-2014,Detroit Tigers,Cleveland Indians,72,9,in from Centerfield,Sunny
 04-07-2014,Kansas City Royals,Cleveland Indians,70,6,from Left to Right,Sunny
-05-07-2014,Kansas City Royals,Cleveland Indians,73,5,in from Rightfield.,Wind5mphinfromRightfield
-06-07-2014,Kansas City Royals,Cleveland Indians,75,14,out to Rightfield.,Wind14mphouttoRightfield
-07-07-2014,New York Yankees,Cleveland Indians,82,14,from Left to Right.,Wind14mphfromLefttoRight
+05-07-2014,Kansas City Royals,Cleveland Indians,73,5,in from Rightfield.,
+06-07-2014,Kansas City Royals,Cleveland Indians,75,14,out to Rightfield.,
+07-07-2014,New York Yankees,Cleveland Indians,82,14,from Left to Right.,
 08-07-2014,New York Yankees,Cleveland Indians,78,16,from Left to Right,Sunny
-09-07-2014,New York Yankees,Cleveland Indians,70,1,out to Rightfield.,Wind1mphouttoRightfield
+09-07-2014,New York Yankees,Cleveland Indians,70,1,out to Rightfield.,
 10-07-2014,New York Yankees,Cleveland Indians,72,13,in from Rightfield,Sunny
 11-07-2014,Chicago White Sox,Cleveland Indians,75,10,from Left to Right,Cloudy
 12-07-2014,Chicago White Sox,Cleveland Indians,81,5,in from Centerfield,Cloudy
 13-07-2014,Chicago White Sox,Cleveland Indians,78,18,from Left to Right,Cloudy
-29-07-2014,Seattle Mariners,Cleveland Indians,68,8,from Left to Right.,Wind8mphfromLefttoRight
+29-07-2014,Seattle Mariners,Cleveland Indians,68,8,from Left to Right.,
 30-07-2014,Seattle Mariners,Cleveland Indians,72,2,from Left to Right,Sunny
 31-07-2014,Seattle Mariners,Cleveland Indians,76,2,from Left to Right,Cloudy
 01-08-2014,Texas Rangers,Cleveland Indians,76,7,in from Centerfield,Sunny
-02-08-2014,Texas Rangers,Cleveland Indians,70,9,in from Centerfield.,Wind9mphinfromCenterfield
+02-08-2014,Texas Rangers,Cleveland Indians,70,9,in from Centerfield.,
 03-08-2014,Texas Rangers,Cleveland Indians,73,6,in from Leftfield,Cloudy
 04-08-2014,Cincinnati Reds,Cleveland Indians,79,5,from Left to Right,Cloudy
-05-08-2014,Cincinnati Reds,Cleveland Indians,75,7,out to Leftfield.,Wind7mphouttoLeftfield
+05-08-2014,Cincinnati Reds,Cleveland Indians,75,7,out to Leftfield.,
 15-08-2014,Baltimore Orioles,Cleveland Indians,68,10,from Left to Right,Sunny
 16-08-2014,Baltimore Orioles,Cleveland Indians,79,13,out to Rightfield,Cloudy
 17-08-2014,Baltimore Orioles,Cleveland Indians,70,6,in from Rightfield,Cloudy
@@ -686,28 +686,28 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-08-2014,Houston Astros,Cleveland Indians,73,15,in from Rightfield,Sunny
 24-08-2014,Houston Astros,Cleveland Indians,76,8,from Left to Right,Cloudy
 01-09-2014,Detroit Tigers,Cleveland Indians,86,16,out to Centerfield,Cloudy
-02-09-2014,Detroit Tigers,Cleveland Indians,73,10,from Left to Right.,Wind10mphfromLefttoRight
+02-09-2014,Detroit Tigers,Cleveland Indians,73,10,from Left to Right.,
 03-09-2014,Detroit Tigers,Cleveland Indians,78,8,in from Rightfield,Sunny
 04-09-2014,Detroit Tigers,Cleveland Indians,85,11,out to Centerfield,Sunny
 05-09-2014,Chicago White Sox,Cleveland Indians,87,14,out to Centerfield,Cloudy
 06-09-2014,Chicago White Sox,Cleveland Indians,69,11,in from Centerfield,Overcast
 07-09-2014,Chicago White Sox,Cleveland Indians,71,6,in from Centerfield,Sunny
 08-09-2014,Los Angeles Angels of Anaheim,Cleveland Indians,74,10,from Right to Left,Sunny
-09-09-2014,Minnesota Twins,Cleveland Indians,75,10,out to Centerfield.,Wind10mphouttoCenterfield
+09-09-2014,Minnesota Twins,Cleveland Indians,75,10,out to Centerfield.,
 22-09-2014,Kansas City Royals,Cleveland Indians,54,7,from Left to Right,Cloudy
 23-09-2014,Kansas City Royals,Cleveland Indians,65,9,from Right to Left,Sunny
 24-09-2014,Kansas City Royals,Cleveland Indians,74,1,in unknown direction,Sunny
 26-09-2014,Tampa Bay Rays,Cleveland Indians,67,11,in from Rightfield,Sunny
 27-09-2014,Tampa Bay Rays,Cleveland Indians,68,13,in from Rightfield,Cloudy
-28-09-2014,Tampa Bay Rays,Cleveland Indians,68,7,from Left to Right.,Wind7mphfromLefttoRight
+28-09-2014,Tampa Bay Rays,Cleveland Indians,68,7,from Left to Right.,
 04-04-2014,Arizona Diamondbacks,Colorado Rockies,48,3,out to Rightfield,Cloudy
-05-04-2014,Arizona Diamondbacks,Colorado Rockies,53,3,out to Rightfield.,Wind3mphouttoRightfield
+05-04-2014,Arizona Diamondbacks,Colorado Rockies,53,3,out to Rightfield.,
 06-04-2014,Arizona Diamondbacks,Colorado Rockies,45,10,out to Leftfield,Cloudy
 07-04-2014,Chicago White Sox,Colorado Rockies,48,12,in from Leftfield,Cloudy
 08-04-2014,Chicago White Sox,Colorado Rockies,68,8,from Left to Right,Sunny
 09-04-2014,Chicago White Sox,Colorado Rockies,70,2,from Left to Right,Cloudy
-18-04-2014,Philadelphia Phillies,Colorado Rockies,72,14,in from Rightfield.,Wind14mphinfromRightfield
-19-04-2014,Philadelphia Phillies,Colorado Rockies,57,7,in from Rightfield.,Wind7mphinfromRightfield
+18-04-2014,Philadelphia Phillies,Colorado Rockies,72,14,in from Rightfield.,
+19-04-2014,Philadelphia Phillies,Colorado Rockies,57,7,in from Rightfield.,
 20-04-2014,Philadelphia Phillies,Colorado Rockies,70,2,in from Leftfield,Cloudy
 21-04-2014,San Francisco Giants,Colorado Rockies,64,4,in from Rightfield,Cloudy
 22-04-2014,San Francisco Giants,Colorado Rockies,72,2,out to Rightfield,Cloudy
@@ -717,59 +717,59 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-05-2014,New York Mets,Colorado Rockies,75,3,from Left to Right,Sunny
 04-05-2014,New York Mets,Colorado Rockies,81,6,in from Rightfield,Cloudy
 05-05-2014,Texas Rangers,Colorado Rockies,79,9,from Left to Right,Cloudy
-06-05-2014,Texas Rangers,Colorado Rockies,72,7,from Left to Right.,Wind7mphfromLefttoRight
-16-05-2014,San Diego Padres,Colorado Rockies,55,10,from Right to Left.,Wind10mphfromRighttoLeft
+06-05-2014,Texas Rangers,Colorado Rockies,72,7,from Left to Right.,
+16-05-2014,San Diego Padres,Colorado Rockies,55,10,from Right to Left.,
 17-05-2014,San Diego Padres,Colorado Rockies,68,6,in from Rightfield,Cloudy
 18-05-2014,San Diego Padres,Colorado Rockies,79,10,out to Rightfield,Cloudy
 20-05-2014,San Francisco Giants,Colorado Rockies,58,5,from Right to Left,Cloudy
-21-05-2014,San Francisco Giants,Colorado Rockies,56,4,from Right to Left.,Wind4mphfromRighttoLeft
-22-05-2014,San Francisco Giants,Colorado Rockies,70,6,out to Leftfield.,Wind6mphouttoLeftfield
+21-05-2014,San Francisco Giants,Colorado Rockies,56,4,from Right to Left.,
+22-05-2014,San Francisco Giants,Colorado Rockies,70,6,out to Leftfield.,
 03-06-2014,Arizona Diamondbacks,Colorado Rockies,87,10,from Left to Right,Sunny
 04-06-2014,Arizona Diamondbacks,Colorado Rockies,73,13,out to Leftfield,Cloudy
 05-06-2014,Arizona Diamondbacks,Colorado Rockies,65,6,out to Rightfield,Cloudy
 06-06-2014,Los Angeles Dodgers,Colorado Rockies,77,11,in from Centerfield,Cloudy
-07-06-2014,Los Angeles Dodgers,Colorado Rockies,69,10,in from Rightfield.,Wind10mphinfromRightfield
-08-06-2014,Los Angeles Dodgers,Colorado Rockies,56,11,in from Rightfield.,Wind11mphinfromRightfield
+07-06-2014,Los Angeles Dodgers,Colorado Rockies,69,10,in from Rightfield.,
+08-06-2014,Los Angeles Dodgers,Colorado Rockies,56,11,in from Rightfield.,
 09-06-2014,Atlanta Braves,Colorado Rockies,66,4,from Right to Left,Sunny
-10-06-2014,Atlanta Braves,Colorado Rockies,73,4,out to Rightfield.,Wind4mphouttoRightfield
+10-06-2014,Atlanta Braves,Colorado Rockies,73,4,out to Rightfield.,
 11-06-2014,Atlanta Braves,Colorado Rockies,63,4,from Right to Left,Overcast
 12-06-2014,Atlanta Braves,Colorado Rockies,71,5,from Right to Left,Cloudy
 20-06-2014,Milwaukee Brewers,Colorado Rockies,83,6,out to Leftfield,Cloudy
 21-06-2014,Milwaukee Brewers,Colorado Rockies,85,9,in from Leftfield,Cloudy
-22-06-2014,Milwaukee Brewers,Colorado Rockies,72,7,from Right to Left.,Wind7mphfromRighttoLeft
+22-06-2014,Milwaukee Brewers,Colorado Rockies,72,7,from Right to Left.,
 23-06-2014,St. Louis Cardinals,Colorado Rockies,67,11,from Right to Left,Cloudy
-24-06-2014,St. Louis Cardinals,Colorado Rockies,78,4,from Right to Left.,Wind4mphfromRighttoLeft
-25-06-2014,St. Louis Cardinals,Colorado Rockies,81,8,in from Leftfield.,Wind8mphinfromLeftfield
-03-07-2014,Los Angeles Dodgers,Colorado Rockies,83,6,out to Centerfield.,Wind6mphouttoCenterfield
-04-07-2014,Los Angeles Dodgers,Colorado Rockies,69,7,in from Leftfield.,Wind7mphinfromLeftfield
+24-06-2014,St. Louis Cardinals,Colorado Rockies,78,4,from Right to Left.,
+25-06-2014,St. Louis Cardinals,Colorado Rockies,81,8,in from Leftfield.,
+03-07-2014,Los Angeles Dodgers,Colorado Rockies,83,6,out to Centerfield.,
+04-07-2014,Los Angeles Dodgers,Colorado Rockies,69,7,in from Leftfield.,
 05-07-2014,Los Angeles Dodgers,Colorado Rockies,88,2,in from Centerfield,Cloudy
 06-07-2014,Los Angeles Dodgers,Colorado Rockies,94,7,in from Leftfield,Cloudy
-07-07-2014,San Diego Padres,Colorado Rockies,88,7,from Right to Left.,Wind7mphfromRighttoLeft
+07-07-2014,San Diego Padres,Colorado Rockies,88,7,from Right to Left.,
 08-07-2014,San Diego Padres,Colorado Rockies,74,5,out to Rightfield,Cloudy
 09-07-2014,San Diego Padres,Colorado Rockies,90,8,from Right to Left,Cloudy
-11-07-2014,Minnesota Twins,Colorado Rockies,65,2,in from Leftfield.,Wind2mphinfromLeftfield
+11-07-2014,Minnesota Twins,Colorado Rockies,65,2,in from Leftfield.,
 12-07-2014,Minnesota Twins,Colorado Rockies,77,5,in from Rightfield,Cloudy
 13-07-2014,Minnesota Twins,Colorado Rockies,79,4,out to Leftfield,Cloudy
 21-07-2014,Washington Nationals,Colorado Rockies,91,2,in from Leftfield,Cloudy
 22-07-2014,Washington Nationals,Colorado Rockies,87,3,out to Leftfield,Sunny
 23-07-2014,Washington Nationals,Colorado Rockies,81,5,in from Rightfield,Cloudy
-25-07-2014,Pittsburgh Pirates,Colorado Rockies,79,6,out to Rightfield.,Wind6mphouttoRightfield
-26-07-2014,Pittsburgh Pirates,Colorado Rockies,74,9,from Left to Right.,Wind9mphfromLefttoRight
+25-07-2014,Pittsburgh Pirates,Colorado Rockies,79,6,out to Rightfield.,
+26-07-2014,Pittsburgh Pirates,Colorado Rockies,74,9,from Left to Right.,
 27-07-2014,Pittsburgh Pirates,Colorado Rockies,76,5,from Right to Left,Cloudy
 05-08-2014,Chicago Cubs,Colorado Rockies,74,5,in from Leftfield,Cloudy
 06-08-2014,Chicago Cubs,Colorado Rockies,73,10,from Right to Left,Cloudy
 07-08-2014,Chicago Cubs,Colorado Rockies,68,5,out to Leftfield,Cloudy
 14-08-2014,Cincinnati Reds,Colorado Rockies,71,5,in from Leftfield,Cloudy
-15-08-2014,Cincinnati Reds,Colorado Rockies,64,6,from Left to Right.,Wind6mphfromLefttoRight
+15-08-2014,Cincinnati Reds,Colorado Rockies,64,6,from Left to Right.,
 19-08-2014,Kansas City Royals,Colorado Rockies,77,4,out to Rightfield,Cloudy
-20-08-2014,Kansas City Royals,Colorado Rockies,78,8,in from Leftfield.,Wind8mphinfromLeftfield
+20-08-2014,Kansas City Royals,Colorado Rockies,78,8,in from Leftfield.,
 22-08-2014,Miami Marlins,Colorado Rockies,63,6,out to Leftfield,Overcast
 23-08-2014,Miami Marlins,Colorado Rockies,70,7,in from Leftfield,Cloudy
 24-08-2014,Miami Marlins,Colorado Rockies,77,4,in from Rightfield,Sunny
 01-09-2014,San Francisco Giants,Colorado Rockies,77,4,in from Leftfield,Cloudy
 02-09-2014,San Francisco Giants,Colorado Rockies,83,5,out to Rightfield,Sunny
 03-09-2014,San Francisco Giants,Colorado Rockies,89,5,from Left to Right,Sunny
-05-09-2014,San Diego Padres,Colorado Rockies,59,8,from Right to Left.,Wind8mphfromRighttoLeft
+05-09-2014,San Diego Padres,Colorado Rockies,59,8,from Right to Left.,
 06-09-2014,San Diego Padres,Colorado Rockies,71,6,out to Leftfield,Sunny
 07-09-2014,San Diego Padres,Colorado Rockies,78,8,from Right to Left,Cloudy
 15-09-2014,Los Angeles Dodgers,Colorado Rockies,72,6,in from Rightfield,Cloudy
@@ -778,7 +778,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-09-2014,Arizona Diamondbacks,Colorado Rockies,84,5,from Left to Right,Sunny
 19-09-2014,Arizona Diamondbacks,Colorado Rockies,80,3,out to Leftfield,Cloudy
 20-09-2014,Arizona Diamondbacks,Colorado Rockies,74,7,from Right to Left,Sunny
-21-09-2014,Arizona Diamondbacks,Colorado Rockies,73,3,in from Leftfield.,Wind3mphinfromLeftfield
+21-09-2014,Arizona Diamondbacks,Colorado Rockies,73,3,in from Leftfield.,
 31-03-2014,Kansas City Royals,Detroit Tigers,52,4,in from Centerfield,Sunny
 02-04-2014,Kansas City Royals,Detroit Tigers,47,6,out to Leftfield,Cloudy
 04-04-2014,Baltimore Orioles,Detroit Tigers,42,1,out to Leftfield,Overcast
@@ -790,13 +790,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-04-2014,Los Angeles Angels of Anaheim,Detroit Tigers,50,9,from Left to Right,Sunny
 20-04-2014,Los Angeles Angels of Anaheim,Detroit Tigers,65,6,in from Centerfield,Sunny
 21-04-2014,Chicago White Sox,Detroit Tigers,77,13,from Right to Left,Cloudy
-22-04-2014,Chicago White Sox,Detroit Tigers,49,16,out to Centerfield.,Wind16mphouttoCenterfield
+22-04-2014,Chicago White Sox,Detroit Tigers,49,16,out to Centerfield.,
 23-04-2014,Chicago White Sox,Detroit Tigers,54,4,from Left to Right,Sunny
 24-04-2014,Chicago White Sox,Detroit Tigers,54,9,in from Leftfield,Cloudy
 05-05-2014,Houston Astros,Detroit Tigers,53,0,NoWind,Overcast
 06-05-2014,Houston Astros,Detroit Tigers,60,11,in from Leftfield,Cloudy
 07-05-2014,Houston Astros,Detroit Tigers,57,6,from Left to Right,Overcast
-08-05-2014,Houston Astros,Detroit Tigers,77,6,in from Leftfield.,Wind6mphinfromLeftfield
+08-05-2014,Houston Astros,Detroit Tigers,77,6,in from Leftfield.,
 09-05-2014,Minnesota Twins,Detroit Tigers,74,3,from Right to Left,Overcast
 10-05-2014,Minnesota Twins,Detroit Tigers,67,10,out to Leftfield,Sunny
 11-05-2014,Minnesota Twins,Detroit Tigers,74,2,out to Leftfield,Sunny
@@ -810,13 +810,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-06-2014,Boston Red Sox,Detroit Tigers,77,12,in from Centerfield,Sunny
 07-06-2014,Boston Red Sox,Detroit Tigers,80,8,in from Centerfield,Cloudy
 08-06-2014,Boston Red Sox,Detroit Tigers,73,10,from Left to Right,Cloudy
-13-06-2014,Minnesota Twins,Detroit Tigers,63,15,out to Centerfield.,Wind15mphouttoCenterfield
+13-06-2014,Minnesota Twins,Detroit Tigers,63,15,out to Centerfield.,
 14-06-2014,Minnesota Twins,Detroit Tigers,70,8,out to Centerfield,Sunny
 15-06-2014,Minnesota Twins,Detroit Tigers,74,12,from Right to Left,Sunny
 16-06-2014,Kansas City Royals,Detroit Tigers,89,3,from Right to Left,Cloudy
-17-06-2014,Kansas City Royals,Detroit Tigers,90,13,out to Leftfield.,Wind13mphouttoLeftfield
-18-06-2014,Kansas City Royals,Detroit Tigers,80,3,in from Centerfield.,Wind3mphinfromCenterfield
-19-06-2014,Kansas City Royals,Detroit Tigers,73,9,from Left to Right.,Wind9mphfromLefttoRight
+17-06-2014,Kansas City Royals,Detroit Tigers,90,13,out to Leftfield.,
+18-06-2014,Kansas City Royals,Detroit Tigers,80,3,in from Centerfield.,
+19-06-2014,Kansas City Royals,Detroit Tigers,73,9,from Left to Right.,
 30-06-2014,Oakland Athletics,Detroit Tigers,86,4,in from Centerfield,Cloudy
 01-07-2014,Oakland Athletics,Detroit Tigers,85,13,from Right to Left,Cloudy
 02-07-2014,Oakland Athletics,Detroit Tigers,79,4,from Right to Left,Cloudy
@@ -826,29 +826,29 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-07-2014,Tampa Bay Rays,Detroit Tigers,82,14,from Right to Left,Cloudy
 08-07-2014,Los Angeles Dodgers,Detroit Tigers,79,18,out to Leftfield,Cloudy
 09-07-2014,Los Angeles Dodgers,Detroit Tigers,73,3,from Right to Left,Cloudy
-18-07-2014,Cleveland Indians,Detroit Tigers,76,9,in from Centerfield.,Wind9mphinfromCenterfield
+18-07-2014,Cleveland Indians,Detroit Tigers,76,9,in from Centerfield.,
 20-07-2014,Cleveland Indians,Detroit Tigers,80,5,out to Centerfield,Cloudy
-29-07-2014,Chicago White Sox,Detroit Tigers,65,12,out to Leftfield.,Wind12mphouttoLeftfield
-30-07-2014,Chicago White Sox,Detroit Tigers,73,1,in unknown direction.,Wind1mphinunknowndirection
-31-07-2014,Chicago White Sox,Detroit Tigers,77,6,from Right to Left.,Wind6mphfromRighttoLeft
+29-07-2014,Chicago White Sox,Detroit Tigers,65,12,out to Leftfield.,
+30-07-2014,Chicago White Sox,Detroit Tigers,73,1,in unknown direction.,
+31-07-2014,Chicago White Sox,Detroit Tigers,77,6,from Right to Left.,
 01-08-2014,Colorado Rockies,Detroit Tigers,81,8,in from Centerfield,Sunny
 02-08-2014,Colorado Rockies,Detroit Tigers,80,7,out to Centerfield,Sunny
 03-08-2014,Colorado Rockies,Detroit Tigers,81,5,from Right to Left,Sunny
 13-08-2014,Pittsburgh Pirates,Detroit Tigers,76,1,from Left to Right,Cloudy
 14-08-2014,Pittsburgh Pirates,Detroit Tigers,67,16,out to Leftfield,Cloudy
 15-08-2014,Seattle Mariners,Detroit Tigers,76,13,out to Centerfield,Sunny
-16-08-2014,Seattle Mariners,Detroit Tigers,82,12,from Right to Left.,Wind12mphfromRighttoLeft
+16-08-2014,Seattle Mariners,Detroit Tigers,82,12,from Right to Left.,
 17-08-2014,Seattle Mariners,Detroit Tigers,75,6,from Left to Right,Sunny
 26-08-2014,New York Yankees,Detroit Tigers,73,17,out to Centerfield,Cloudy
 27-08-2014,New York Yankees,Detroit Tigers,76,0,NoWind,Cloudy
 28-08-2014,New York Yankees,Detroit Tigers,70,6,out to Centerfield,Sunny
 05-09-2014,San Francisco Giants,Detroit Tigers,93,3,from Right to Left,Cloudy
-06-09-2014,San Francisco Giants,Detroit Tigers,73,2,from Left to Right.,Wind2mphfromLefttoRight
+06-09-2014,San Francisco Giants,Detroit Tigers,73,2,from Left to Right.,
 07-09-2014,San Francisco Giants,Detroit Tigers,73,0,NoWind,Sunny
 08-09-2014,Kansas City Royals,Detroit Tigers,76,3,in from Leftfield,Cloudy
-09-09-2014,Kansas City Royals,Detroit Tigers,75,11,from Right to Left.,Wind11mphfromRighttoLeft
+09-09-2014,Kansas City Royals,Detroit Tigers,75,11,from Right to Left.,
 10-09-2014,Kansas City Royals,Detroit Tigers,73,4,from Right to Left,Drizzle
-12-09-2014,Cleveland Indians,Detroit Tigers,60,6,in from Rightfield.,Wind6mphinfromRightfield
+12-09-2014,Cleveland Indians,Detroit Tigers,60,6,in from Rightfield.,
 13-09-2014,Cleveland Indians,Detroit Tigers,57,6,from Left to Right,Cloudy
 14-09-2014,Cleveland Indians,Detroit Tigers,61,5,from Right to Left,Cloudy
 22-09-2014,Chicago White Sox,Detroit Tigers,60,1,from Left to Right,Sunny
@@ -858,7 +858,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-09-2014,Minnesota Twins,Detroit Tigers,72,6,in from Leftfield,Sunny
 27-09-2014,Minnesota Twins,Detroit Tigers,75,10,from Left to Right,Sunny
 28-09-2014,Minnesota Twins,Detroit Tigers,72,5,in from Centerfield,Sunny
-01-04-2014,New York Yankees,Houston Astros,78,15,out to Leftfield.,Wind15mphouttoLeftfield
+01-04-2014,New York Yankees,Houston Astros,78,15,out to Leftfield.,
 02-04-2014,New York Yankees,Houston Astros,73,0,NoWind,InDome
 03-04-2014,New York Yankees,Houston Astros,73,0,NoWind,InDome
 04-04-2014,Los Angeles Angels of Anaheim,Houston Astros,73,14,in from Centerfield,Cloudy
@@ -868,7 +868,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-04-2014,Kansas City Royals,Houston Astros,62,8,in from Centerfield,Sunny
 16-04-2014,Kansas City Royals,Houston Astros,63,9,out to Leftfield,Cloudy
 17-04-2014,Kansas City Royals,Houston Astros,66,13,out to Leftfield,Overcast
-24-04-2014,Oakland Athletics,Houston Astros,80,4,out to Centerfield.,Wind4mphouttoCenterfield
+24-04-2014,Oakland Athletics,Houston Astros,80,4,out to Centerfield.,
 25-04-2014,Oakland Athletics,Houston Astros,83,7,out to Leftfield,Cloudy
 26-04-2014,Oakland Athletics,Houston Astros,83,15,out to Leftfield,Cloudy
 27-04-2014,Oakland Athletics,Houston Astros,73,0,NoWind,InDome
@@ -878,7 +878,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-05-2014,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
 04-05-2014,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
 12-05-2014,Texas Rangers,Houston Astros,73,0,NoWind,InDome
-13-05-2014,Texas Rangers,Houston Astros,66,14,in from Centerfield.,Wind14mphinfromCenterfield
+13-05-2014,Texas Rangers,Houston Astros,66,14,in from Centerfield.,
 14-05-2014,Texas Rangers,Houston Astros,71,21,in from Centerfield,Cloudy
 16-05-2014,Chicago White Sox,Houston Astros,82,15,out to Leftfield,Sunny
 17-05-2014,Chicago White Sox,Houston Astros,86,16,out to Leftfield,Sunny
@@ -915,7 +915,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-07-2014,Oakland Athletics,Houston Astros,73,0,NoWind,InDome
 31-07-2014,Toronto Blue Jays,Houston Astros,73,0,NoWind,InDome
 01-08-2014,Toronto Blue Jays,Houston Astros,73,0,NoWind,InDome
-02-08-2014,Toronto Blue Jays,Houston Astros,80,8,in from Centerfield.,Wind8mphinfromCenterfield
+02-08-2014,Toronto Blue Jays,Houston Astros,80,8,in from Centerfield.,
 03-08-2014,Toronto Blue Jays,Houston Astros,73,0,NoWind,InDome
 08-08-2014,Texas Rangers,Houston Astros,73,0,NoWind,InDome
 09-08-2014,Texas Rangers,Houston Astros,73,0,NoWind,InDome
@@ -949,8 +949,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-04-2014,Minnesota Twins,Kansas City Royals,75,15,from Right to Left,Cloudy
 20-04-2014,Minnesota Twins,Kansas City Royals,79,15,from Right to Left,Cloudy
 29-04-2014,Toronto Blue Jays,Kansas City Royals,47,11,from Left to Right,Overcast
-30-04-2014,Toronto Blue Jays,Kansas City Royals,53,12,from Left to Right.,Wind12mphfromLefttoRight
-01-05-2014,Toronto Blue Jays,Kansas City Royals,53,8,from Left to Right.,Wind8mphfromLefttoRight
+30-04-2014,Toronto Blue Jays,Kansas City Royals,53,12,from Left to Right.,
+01-05-2014,Toronto Blue Jays,Kansas City Royals,53,8,from Left to Right.,
 02-05-2014,Detroit Tigers,Kansas City Royals,68,10,from Left to Right,Cloudy
 03-05-2014,Detroit Tigers,Kansas City Royals,80,5,from Right to Left,Sunny
 04-05-2014,Detroit Tigers,Kansas City Royals,83,8,from Right to Left,Sunny
@@ -966,18 +966,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-05-2014,Houston Astros,Kansas City Royals,77,13,from Right to Left,Overcast
 27-05-2014,Houston Astros,Kansas City Royals,83,7,from Right to Left,Cloudy
 28-05-2014,Houston Astros,Kansas City Royals,88,6,in from Leftfield,Cloudy
-04-06-2014,St. Louis Cardinals,Kansas City Royals,80,8,from Left to Right.,Wind8mphfromLefttoRight
+04-06-2014,St. Louis Cardinals,Kansas City Royals,80,8,from Left to Right.,
 05-06-2014,St. Louis Cardinals,Kansas City Royals,76,13,in from Rightfield,Cloudy
-06-06-2014,New York Yankees,Kansas City Royals,77,9,from Right to Left.,Wind9mphfromRighttoLeft
+06-06-2014,New York Yankees,Kansas City Royals,77,9,from Right to Left.,
 07-06-2014,New York Yankees,Kansas City Royals,76,17,from Left to Right,Cloudy
-08-06-2014,New York Yankees,Kansas City Royals,75,9,from Right to Left.,Wind9mphfromRighttoLeft
-10-06-2014,Cleveland Indians,Kansas City Royals,67,10,from Left to Right.,Wind10mphfromLefttoRight
+08-06-2014,New York Yankees,Kansas City Royals,75,9,from Right to Left.,
+10-06-2014,Cleveland Indians,Kansas City Royals,67,10,from Left to Right.,
 11-06-2014,Cleveland Indians,Kansas City Royals,73,3,in from Centerfield,Cloudy
 20-06-2014,Seattle Mariners,Kansas City Royals,89,11,from Right to Left,Sunny
-21-06-2014,Seattle Mariners,Kansas City Royals,91,8,from Right to Left.,Wind8mphfromRighttoLeft
+21-06-2014,Seattle Mariners,Kansas City Royals,91,8,from Right to Left.,
 22-06-2014,Seattle Mariners,Kansas City Royals,90,9,in from Rightfield,Cloudy
-23-06-2014,Los Angeles Dodgers,Kansas City Royals,79,9,from Left to Right.,Wind9mphfromLefttoRight
-24-06-2014,Los Angeles Dodgers,Kansas City Royals,82,7,from Left to Right.,Wind7mphfromLefttoRight
+23-06-2014,Los Angeles Dodgers,Kansas City Royals,79,9,from Left to Right.,
+24-06-2014,Los Angeles Dodgers,Kansas City Royals,82,7,from Left to Right.,
 25-06-2014,Los Angeles Dodgers,Kansas City Royals,87,9,from Right to Left,Sunny
 27-06-2014,Los Angeles Angels of Anaheim,Kansas City Royals,82,14,from Right to Left,Cloudy
 28-06-2014,Los Angeles Angels of Anaheim,Kansas City Royals,83,19,from Right to Left,Cloudy
@@ -995,7 +995,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 31-07-2014,Minnesota Twins,Kansas City Royals,82,5,in from Rightfield,Sunny
 08-08-2014,San Francisco Giants,Kansas City Royals,75,7,from Left to Right,Overcast
 09-08-2014,San Francisco Giants,Kansas City Royals,80,3,from Right to Left,Cloudy
-10-08-2014,San Francisco Giants,Kansas City Royals,75,7,from Left to Right.,Wind7mphfromLefttoRight
+10-08-2014,San Francisco Giants,Kansas City Royals,75,7,from Left to Right.,
 11-08-2014,Oakland Athletics,Kansas City Royals,76,16,from Left to Right,Sunny
 12-08-2014,Oakland Athletics,Kansas City Royals,76,11,from Left to Right,Sunny
 13-08-2014,Oakland Athletics,Kansas City Royals,80,4,in from Rightfield,Sunny
@@ -1014,11 +1014,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-09-2014,Boston Red Sox,Kansas City Royals,52,12,from Left to Right,Overcast
 13-09-2014,Boston Red Sox,Kansas City Royals,62,9,from Right to Left,Sunny
 14-09-2014,Boston Red Sox,Kansas City Royals,70,6,from Right to Left,Cloudy
-15-09-2014,Chicago White Sox,Kansas City Royals,65,18,from Left to Right.,Wind18mphfromLefttoRight
+15-09-2014,Chicago White Sox,Kansas City Royals,65,18,from Left to Right.,
 16-09-2014,Chicago White Sox,Kansas City Royals,69,5,from Right to Left,Sunny
 17-09-2014,Chicago White Sox,Kansas City Royals,72,6,from Left to Right,Cloudy
 19-09-2014,Detroit Tigers,Kansas City Royals,77,8,from Right to Left,Sunny
-20-09-2014,Detroit Tigers,Kansas City Royals,79,15,from Right to Left.,Wind15mphfromRighttoLeft
+20-09-2014,Detroit Tigers,Kansas City Royals,79,15,from Right to Left.,
 21-09-2014,Detroit Tigers,Kansas City Royals,77,12,from Left to Right,Sunny
 04-04-2014,San Francisco Giants,Los Angeles Dodgers,64,6,from Left to Right,Cloudy
 05-04-2014,San Francisco Giants,Los Angeles Dodgers,65,7,from Left to Right,Cloudy
@@ -1032,7 +1032,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-04-2014,Philadelphia Phillies,Los Angeles Dodgers,63,7,out to Centerfield,Sunny
 23-04-2014,Philadelphia Phillies,Los Angeles Dodgers,67,6,from Left to Right,Sunny
 24-04-2014,Philadelphia Phillies,Los Angeles Dodgers,68,7,out to Rightfield,Sunny
-25-04-2014,Colorado Rockies,Los Angeles Dodgers,63,11,out to Rightfield.,Wind11mphouttoRightfield
+25-04-2014,Colorado Rockies,Los Angeles Dodgers,63,11,out to Rightfield.,
 26-04-2014,Colorado Rockies,Los Angeles Dodgers,67,8,out to Rightfield,Cloudy
 27-04-2014,Colorado Rockies,Los Angeles Dodgers,69,9,from Left to Right,Cloudy
 08-05-2014,San Francisco Giants,Los Angeles Dodgers,63,8,out to Centerfield,Cloudy
@@ -1073,7 +1073,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-07-2014,Atlanta Braves,Los Angeles Dodgers,76,9,out to Centerfield,Cloudy
 31-07-2014,Atlanta Braves,Los Angeles Dodgers,77,7,out to Centerfield,Sunny
 01-08-2014,Chicago Cubs,Los Angeles Dodgers,79,7,out to Rightfield,Sunny
-02-08-2014,Chicago Cubs,Los Angeles Dodgers,81,7,out to Centerfield.,Wind7mphouttoCenterfield
+02-08-2014,Chicago Cubs,Los Angeles Dodgers,81,7,out to Centerfield.,
 03-08-2014,Chicago Cubs,Los Angeles Dodgers,82,6,from Left to Right,Cloudy
 04-08-2014,Los Angeles Angels of Anaheim,Los Angeles Dodgers,76,8,out to Rightfield,Sunny
 05-08-2014,Los Angeles Angels of Anaheim,Los Angeles Dodgers,75,8,out to Rightfield,Sunny
@@ -1113,7 +1113,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-04-2014,Washington Nationals,Miami Marlins,78,0,NoWind,InDome
 18-04-2014,Seattle Mariners,Miami Marlins,78,0,NoWind,InDome
 19-04-2014,Seattle Mariners,Miami Marlins,77,0,NoWind,InDome
-20-04-2014,Seattle Mariners,Miami Marlins,78,10,out to Leftfield.,Wind10mphouttoLeftfield
+20-04-2014,Seattle Mariners,Miami Marlins,78,10,out to Leftfield.,
 29-04-2014,Atlanta Braves,Miami Marlins,77,0,NoWind,InDome
 30-04-2014,Atlanta Braves,Miami Marlins,77,0,NoWind,InDome
 01-05-2014,Atlanta Braves,Miami Marlins,77,0,NoWind,InDome
@@ -1202,41 +1202,41 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-05-2014,Arizona Diamondbacks,Milwaukee Brewers,70,0,NoWind,InDome
 09-05-2014,New York Yankees,Milwaukee Brewers,64,19,out to Leftfield,Sunny
 10-05-2014,New York Yankees,Milwaukee Brewers,72,0,NoWind,InDome
-11-05-2014,New York Yankees,Milwaukee Brewers,76,9,out to Rightfield.,Wind9mphouttoRightfield
+11-05-2014,New York Yankees,Milwaukee Brewers,76,9,out to Rightfield.,
 13-05-2014,Pittsburgh Pirates,Milwaukee Brewers,68,0,NoWind,InDome
 14-05-2014,Pittsburgh Pirates,Milwaukee Brewers,67,0,NoWind,InDome
 15-05-2014,Pittsburgh Pirates,Milwaukee Brewers,66,0,NoWind,InDome
-26-05-2014,Baltimore Orioles,Milwaukee Brewers,82,10,out to Rightfield.,Wind10mphouttoRightfield
+26-05-2014,Baltimore Orioles,Milwaukee Brewers,82,10,out to Rightfield.,
 27-05-2014,Baltimore Orioles,Milwaukee Brewers,72,0,NoWind,InDome
 28-05-2014,Baltimore Orioles,Milwaukee Brewers,70,0,NoWind,InDome
 30-05-2014,Chicago Cubs,Milwaukee Brewers,73,4,out to Leftfield,Sunny
 31-05-2014,Chicago Cubs,Milwaukee Brewers,71,13,in from Centerfield,Cloudy
-01-06-2014,Chicago Cubs,Milwaukee Brewers,84,16,out to Rightfield.,Wind16mphouttoRightfield
+01-06-2014,Chicago Cubs,Milwaukee Brewers,84,16,out to Rightfield.,
 02-06-2014,Minnesota Twins,Milwaukee Brewers,81,18,out to Leftfield,Cloudy
 03-06-2014,Minnesota Twins,Milwaukee Brewers,79,12,out to Centerfield,Sunny
 13-06-2014,Cincinnati Reds,Milwaukee Brewers,75,0,NoWind,InDome
 14-06-2014,Cincinnati Reds,Milwaukee Brewers,70,0,NoWind,InDome
-15-06-2014,Cincinnati Reds,Milwaukee Brewers,77,16,out to Centerfield.,Wind16mphouttoCenterfield
+15-06-2014,Cincinnati Reds,Milwaukee Brewers,77,16,out to Centerfield.,
 23-06-2014,Washington Nationals,Milwaukee Brewers,70,0,NoWind,InDome
-24-06-2014,Washington Nationals,Milwaukee Brewers,72,8,in from Leftfield.,Wind8mphinfromLeftfield
-25-06-2014,Washington Nationals,Milwaukee Brewers,64,6,in from Rightfield.,Wind6mphinfromRightfield
+24-06-2014,Washington Nationals,Milwaukee Brewers,72,8,in from Leftfield.,
+25-06-2014,Washington Nationals,Milwaukee Brewers,64,6,in from Rightfield.,
 26-06-2014,Colorado Rockies,Milwaukee Brewers,72,0,NoWind,InDome
 27-06-2014,Colorado Rockies,Milwaukee Brewers,75,12,in from Centerfield,Cloudy
-28-06-2014,Colorado Rockies,Milwaukee Brewers,74,11,out to Leftfield.,Wind11mphouttoLeftfield
-29-06-2014,Colorado Rockies,Milwaukee Brewers,79,18,from Left to Right.,Wind18mphfromLefttoRight
+28-06-2014,Colorado Rockies,Milwaukee Brewers,74,11,out to Leftfield.,
+29-06-2014,Colorado Rockies,Milwaukee Brewers,79,18,from Left to Right.,
 07-07-2014,Philadelphia Phillies,Milwaukee Brewers,84,12,out to Leftfield,Cloudy
 08-07-2014,Philadelphia Phillies,Milwaukee Brewers,78,19,out to Centerfield,Cloudy
 09-07-2014,Philadelphia Phillies,Milwaukee Brewers,70,9,in from Centerfield,Sunny
 10-07-2014,Philadelphia Phillies,Milwaukee Brewers,70,10,out to Leftfield,Cloudy
-11-07-2014,St. Louis Cardinals,Milwaukee Brewers,75,8,in from Centerfield.,Wind8mphinfromCenterfield
-12-07-2014,St. Louis Cardinals,Milwaukee Brewers,75,10,in from Leftfield.,Wind10mphinfromLeftfield
+11-07-2014,St. Louis Cardinals,Milwaukee Brewers,75,8,in from Centerfield.,
+12-07-2014,St. Louis Cardinals,Milwaukee Brewers,75,10,in from Leftfield.,
 13-07-2014,St. Louis Cardinals,Milwaukee Brewers,79,13,in from Leftfield,Sunny
 21-07-2014,Cincinnati Reds,Milwaukee Brewers,83,12,in from Rightfield,Cloudy
-22-07-2014,Cincinnati Reds,Milwaukee Brewers,87,10,from Right to Left.,Wind10mphfromRighttoLeft
+22-07-2014,Cincinnati Reds,Milwaukee Brewers,87,10,from Right to Left.,
 23-07-2014,Cincinnati Reds,Milwaukee Brewers,75,13,from Right to Left,Sunny
 24-07-2014,New York Mets,Milwaukee Brewers,73,9,in from Centerfield,Sunny
 25-07-2014,New York Mets,Milwaukee Brewers,74,10,from Right to Left,Cloudy
-26-07-2014,New York Mets,Milwaukee Brewers,80,3,out to Centerfield.,Wind3mphouttoCenterfield
+26-07-2014,New York Mets,Milwaukee Brewers,80,3,out to Centerfield.,
 27-07-2014,New York Mets,Milwaukee Brewers,85,14,in from Leftfield,Cloudy
 05-08-2014,San Francisco Giants,Milwaukee Brewers,70,10,from Left to Right,Sunny
 06-08-2014,San Francisco Giants,Milwaukee Brewers,74,6,in from Centerfield,Sunny
@@ -1244,11 +1244,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-08-2014,Los Angeles Dodgers,Milwaukee Brewers,75,8,in from Leftfield,Sunny
 09-08-2014,Los Angeles Dodgers,Milwaukee Brewers,74,4,in from Leftfield,Cloudy
 10-08-2014,Los Angeles Dodgers,Milwaukee Brewers,76,6,out to Rightfield,Sunny
-19-08-2014,Toronto Blue Jays,Milwaukee Brewers,75,10,from Left to Right.,Wind10mphfromLefttoRight
+19-08-2014,Toronto Blue Jays,Milwaukee Brewers,75,10,from Left to Right.,
 20-08-2014,Toronto Blue Jays,Milwaukee Brewers,76,8,in from Centerfield,Cloudy
-22-08-2014,Pittsburgh Pirates,Milwaukee Brewers,73,8,in from Leftfield.,Wind8mphinfromLeftfield
+22-08-2014,Pittsburgh Pirates,Milwaukee Brewers,73,8,in from Leftfield.,
 23-08-2014,Pittsburgh Pirates,Milwaukee Brewers,72,7,in from Leftfield,Cloudy
-24-08-2014,Pittsburgh Pirates,Milwaukee Brewers,73,9,out to Leftfield.,Wind9mphouttoLeftfield
+24-08-2014,Pittsburgh Pirates,Milwaukee Brewers,73,9,out to Leftfield.,
 04-09-2014,St. Louis Cardinals,Milwaukee Brewers,76,12,in from Centerfield,Cloudy
 05-09-2014,St. Louis Cardinals,Milwaukee Brewers,79,0,NoWind,InDome
 06-09-2014,St. Louis Cardinals,Milwaukee Brewers,73,11,in from Centerfield,Cloudy
@@ -1266,28 +1266,28 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-04-2014,Oakland Athletics,Minnesota Twins,58,16,from Left to Right,Cloudy
 09-04-2014,Oakland Athletics,Minnesota Twins,59,21,from Right to Left,Cloudy
 10-04-2014,Oakland Athletics,Minnesota Twins,59,24,out to Rightfield,Cloudy
-11-04-2014,Kansas City Royals,Minnesota Twins,61,9,out to Rightfield.,Wind9mphouttoRightfield
+11-04-2014,Kansas City Royals,Minnesota Twins,61,9,out to Rightfield.,
 12-04-2014,Kansas City Royals,Minnesota Twins,50,15,in from Centerfield,Overcast
 13-04-2014,Kansas City Royals,Minnesota Twins,42,9,from Left to Right,Overcast
 15-04-2014,Toronto Blue Jays,Minnesota Twins,35,1,in from Centerfield,Cloudy
 25-04-2014,Detroit Tigers,Minnesota Twins,59,13,out to Rightfield,Cloudy
 26-04-2014,Detroit Tigers,Minnesota Twins,50,17,in from Centerfield,Cloudy
 30-04-2014,Los Angeles Dodgers,Minnesota Twins,44,12,out to Rightfield,Overcast
-02-05-2014,Baltimore Orioles,Minnesota Twins,56,17,out to Rightfield.,Wind17mphouttoRightfield
+02-05-2014,Baltimore Orioles,Minnesota Twins,56,17,out to Rightfield.,
 03-05-2014,Baltimore Orioles,Minnesota Twins,54,15,out to Rightfield,Cloudy
 04-05-2014,Baltimore Orioles,Minnesota Twins,51,8,in from Leftfield,Cloudy
-13-05-2014,Boston Red Sox,Minnesota Twins,51,15,out to Rightfield.,Wind15mphouttoRightfield
+13-05-2014,Boston Red Sox,Minnesota Twins,51,15,out to Rightfield.,
 14-05-2014,Boston Red Sox,Minnesota Twins,54,16,out to Rightfield,Cloudy
-15-05-2014,Boston Red Sox,Minnesota Twins,46,16,from Left to Right.,Wind16mphfromLefttoRight
-16-05-2014,Seattle Mariners,Minnesota Twins,51,5,out to Rightfield.,Wind5mphouttoRightfield
+15-05-2014,Boston Red Sox,Minnesota Twins,46,16,from Left to Right.,
+16-05-2014,Seattle Mariners,Minnesota Twins,51,5,out to Rightfield.,
 17-05-2014,Seattle Mariners,Minnesota Twins,65,10,from Left to Right,Cloudy
 18-05-2014,Seattle Mariners,Minnesota Twins,69,13,out to Leftfield,Cloudy
-26-05-2014,Texas Rangers,Minnesota Twins,82,6,from Right to Left.,Wind6mphfromRighttoLeft
-27-05-2014,Texas Rangers,Minnesota Twins,69,13,in from Leftfield.,Wind13mphinfromLeftfield
+26-05-2014,Texas Rangers,Minnesota Twins,82,6,from Right to Left.,
+27-05-2014,Texas Rangers,Minnesota Twins,69,13,in from Leftfield.,
 28-05-2014,Texas Rangers,Minnesota Twins,79,7,in from Centerfield,Sunny
 29-05-2014,Texas Rangers,Minnesota Twins,76,8,in from Rightfield,Cloudy
 04-06-2014,Milwaukee Brewers,Minnesota Twins,78,5,in from Leftfield,Cloudy
-05-06-2014,Milwaukee Brewers,Minnesota Twins,69,7,from Right to Left.,Wind7mphfromRighttoLeft
+05-06-2014,Milwaukee Brewers,Minnesota Twins,69,7,from Right to Left.,
 06-06-2014,Houston Astros,Minnesota Twins,73,16,from Left to Right,Overcast
 07-06-2014,Houston Astros,Minnesota Twins,56,11,in from Leftfield,Overcast
 08-06-2014,Houston Astros,Minnesota Twins,69,12,in from Leftfield,Cloudy
@@ -1296,7 +1296,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-06-2014,Chicago White Sox,Minnesota Twins,81,10,out to Rightfield,Cloudy
 22-06-2014,Chicago White Sox,Minnesota Twins,73,6,from Right to Left,Overcast
 30-06-2014,Kansas City Royals,Minnesota Twins,74,10,out to Leftfield,Cloudy
-01-07-2014,Kansas City Royals,Minnesota Twins,62,14,out to Rightfield.,Wind14mphouttoRightfield
+01-07-2014,Kansas City Royals,Minnesota Twins,62,14,out to Rightfield.,
 02-07-2014,Kansas City Royals,Minnesota Twins,65,10,from Left to Right,Cloudy
 03-07-2014,New York Yankees,Minnesota Twins,75,8,from Left to Right,Cloudy
 04-07-2014,New York Yankees,Minnesota Twins,76,13,from Right to Left,Overcast
@@ -1305,26 +1305,26 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-07-2014,Tampa Bay Rays,Minnesota Twins,78,16,from Right to Left,Cloudy
 19-07-2014,Tampa Bay Rays,Minnesota Twins,79,13,out to Leftfield,Overcast
 20-07-2014,Tampa Bay Rays,Minnesota Twins,84,13,from Right to Left,Cloudy
-21-07-2014,Cleveland Indians,Minnesota Twins,89,13,from Right to Left.,Wind13mphfromRighttoLeft
+21-07-2014,Cleveland Indians,Minnesota Twins,89,13,from Right to Left.,
 22-07-2014,Cleveland Indians,Minnesota Twins,86,13,from Left to Right,Sunny
 23-07-2014,Cleveland Indians,Minnesota Twins,78,5,in from Leftfield,Cloudy
 24-07-2014,Chicago White Sox,Minnesota Twins,79,15,from Right to Left,Cloudy
-25-07-2014,Chicago White Sox,Minnesota Twins,77,3,from Right to Left.,Wind3mphfromRighttoLeft
+25-07-2014,Chicago White Sox,Minnesota Twins,77,3,from Right to Left.,
 26-07-2014,Chicago White Sox,Minnesota Twins,86,19,out to Rightfield,Sunny
-27-07-2014,Chicago White Sox,Minnesota Twins,72,19,from Left to Right.,Wind19mphfromLefttoRight
+27-07-2014,Chicago White Sox,Minnesota Twins,72,19,from Left to Right.,
 05-08-2014,San Diego Padres,Minnesota Twins,78,6,in from Centerfield,Cloudy
 06-08-2014,San Diego Padres,Minnesota Twins,76,8,in from Centerfield,Cloudy
 15-08-2014,Kansas City Royals,Minnesota Twins,83,10,out to Leftfield,Cloudy
 16-08-2014,Kansas City Royals,Minnesota Twins,86,6,out to Centerfield,Sunny
-17-08-2014,Kansas City Royals,Minnesota Twins,78,7,in from Centerfield.,Wind7mphinfromCenterfield
+17-08-2014,Kansas City Royals,Minnesota Twins,78,7,in from Centerfield.,
 18-08-2014,Kansas City Royals,Minnesota Twins,71,4,out to Centerfield,Cloudy
 19-08-2014,Cleveland Indians,Minnesota Twins,78,7,out to Rightfield,Overcast
 20-08-2014,Cleveland Indians,Minnesota Twins,82,7,in from Centerfield,Cloudy
 21-08-2014,Cleveland Indians,Minnesota Twins,77,9,from Right to Left,Overcast
-22-08-2014,Detroit Tigers,Minnesota Twins,76,10,from Left to Right.,Wind10mphfromLefttoRight
+22-08-2014,Detroit Tigers,Minnesota Twins,76,10,from Left to Right.,
 24-08-2014,Detroit Tigers,Minnesota Twins,81,13,from Right to Left,Cloudy
 02-09-2014,Chicago White Sox,Minnesota Twins,77,13,out to Leftfield,Cloudy
-03-09-2014,Chicago White Sox,Minnesota Twins,77,12,in from Rightfield.,Wind12mphinfromRightfield
+03-09-2014,Chicago White Sox,Minnesota Twins,77,12,in from Rightfield.,
 04-09-2014,Los Angeles Angels of Anaheim,Minnesota Twins,80,13,out to Rightfield,Cloudy
 05-09-2014,Los Angeles Angels of Anaheim,Minnesota Twins,66,10,out to Rightfield,Cloudy
 06-09-2014,Los Angeles Angels of Anaheim,Minnesota Twins,77,14,out to Centerfield,Sunny
@@ -1338,21 +1338,21 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-09-2014,Arizona Diamondbacks,Minnesota Twins,69,8,out to Leftfield,Sunny
 23-09-2014,Arizona Diamondbacks,Minnesota Twins,71,12,out to Leftfield,Cloudy
 24-09-2014,Arizona Diamondbacks,Minnesota Twins,64,11,from Right to Left,Overcast
-07-04-2014,Baltimore Orioles,New York Yankees,52,11,from Right to Left.,Wind11mphfromRighttoLeft
-08-04-2014,Baltimore Orioles,New York Yankees,64,10,out to Leftfield.,Wind10mphouttoLeftfield
+07-04-2014,Baltimore Orioles,New York Yankees,52,11,from Right to Left.,
+08-04-2014,Baltimore Orioles,New York Yankees,64,10,out to Leftfield.,
 09-04-2014,Baltimore Orioles,New York Yankees,54,27,from Left to Right,Sunny
 10-04-2014,Boston Red Sox,New York Yankees,54,16,from Right to Left,Sunny
-11-04-2014,Boston Red Sox,New York Yankees,64,7,out to Rightfield.,Wind7mphouttoRightfield
+11-04-2014,Boston Red Sox,New York Yankees,64,7,out to Rightfield.,
 12-04-2014,Boston Red Sox,New York Yankees,63,5,out to Rightfield,Sunny
-13-04-2014,Boston Red Sox,New York Yankees,66,12,from Right to Left.,Wind12mphfromRighttoLeft
+13-04-2014,Boston Red Sox,New York Yankees,66,12,from Right to Left.,
 25-04-2014,Los Angeles Angels of Anaheim,New York Yankees,53,16,from Right to Left,Cloudy
 26-04-2014,Los Angeles Angels of Anaheim,New York Yankees,61,15,from Left to Right,Cloudy
-27-04-2014,Los Angeles Angels of Anaheim,New York Yankees,54,11,from Left to Right.,Wind11mphfromLefttoRight
+27-04-2014,Los Angeles Angels of Anaheim,New York Yankees,54,11,from Left to Right.,
 29-04-2014,Seattle Mariners,New York Yankees,46,18,in from Rightfield,Rain
 01-05-2014,Seattle Mariners,New York Yankees,75,15,out to Leftfield,Cloudy
 02-05-2014,Tampa Bay Rays,New York Yankees,65,11,out to Centerfield,Cloudy
 03-05-2014,Tampa Bay Rays,New York Yankees,67,12,from Right to Left,Cloudy
-04-05-2014,Tampa Bay Rays,New York Yankees,64,20,from Right to Left.,Wind20mphfromRighttoLeft
+04-05-2014,Tampa Bay Rays,New York Yankees,64,20,from Right to Left.,
 12-05-2014,New York Mets,New York Yankees,74,7,from Right to Left,Overcast
 13-05-2014,New York Mets,New York Yankees,65,10,in from Rightfield,Cloudy
 17-05-2014,Pittsburgh Pirates,New York Yankees,68,13,out to Centerfield,Cloudy
@@ -1361,8 +1361,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-06-2014,Minnesota Twins,New York Yankees,71,5,from Right to Left,Sunny
 02-06-2014,Seattle Mariners,New York Yankees,77,12,from Right to Left,Sunny
 03-06-2014,Oakland Athletics,New York Yankees,71,7,from Left to Right,Overcast
-04-06-2014,Oakland Athletics,New York Yankees,73,3,in from Rightfield.,Wind3mphinfromRightfield
-05-06-2014,Oakland Athletics,New York Yankees,70,9,from Left to Right.,Wind9mphfromLefttoRight
+04-06-2014,Oakland Athletics,New York Yankees,73,3,in from Rightfield.,
+05-06-2014,Oakland Athletics,New York Yankees,70,9,from Left to Right.,
 17-06-2014,Toronto Blue Jays,New York Yankees,85,11,from Right to Left,Sunny
 18-06-2014,Toronto Blue Jays,New York Yankees,87,9,from Left to Right,Sunny
 19-06-2014,Toronto Blue Jays,New York Yankees,80,7,from Right to Left,Sunny
@@ -1376,14 +1376,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-07-2014,Tampa Bay Rays,New York Yankees,85,16,from Right to Left,Cloudy
 02-07-2014,Tampa Bay Rays,New York Yankees,89,10,from Left to Right,Sunny
 18-07-2014,Cincinnati Reds,New York Yankees,80,7,out to Rightfield,Cloudy
-19-07-2014,Cincinnati Reds,New York Yankees,77,8,in from Rightfield.,Wind8mphinfromRightfield
+19-07-2014,Cincinnati Reds,New York Yankees,77,8,in from Rightfield.,
 20-07-2014,Cincinnati Reds,New York Yankees,77,11,in from Leftfield,Cloudy
 21-07-2014,Texas Rangers,New York Yankees,79,16,from Right to Left,Cloudy
 22-07-2014,Texas Rangers,New York Yankees,83,15,from Right to Left,Cloudy
 23-07-2014,Texas Rangers,New York Yankees,82,10,from Right to Left,Overcast
-24-07-2014,Texas Rangers,New York Yankees,78,13,from Left to Right.,Wind13mphfromLefttoRight
+24-07-2014,Texas Rangers,New York Yankees,78,13,from Left to Right.,
 25-07-2014,Toronto Blue Jays,New York Yankees,80,7,in from Rightfield,Sunny
-26-07-2014,Toronto Blue Jays,New York Yankees,78,5,out to Centerfield.,Wind5mphouttoCenterfield
+26-07-2014,Toronto Blue Jays,New York Yankees,78,5,out to Centerfield.,
 27-07-2014,Toronto Blue Jays,New York Yankees,84,9,from Right to Left,Cloudy
 04-08-2014,Detroit Tigers,New York Yankees,80,14,from Right to Left,Cloudy
 05-08-2014,Detroit Tigers,New York Yankees,80,11,from Right to Left,Sunny
@@ -1394,26 +1394,26 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-08-2014,Cleveland Indians,New York Yankees,83,5,out to Rightfield,Cloudy
 19-08-2014,Houston Astros,New York Yankees,75,12,in from Rightfield,Sunny
 20-08-2014,Houston Astros,New York Yankees,77,12,from Right to Left,Sunny
-21-08-2014,Houston Astros,New York Yankees,83,9,from Right to Left.,Wind9mphfromRighttoLeft
+21-08-2014,Houston Astros,New York Yankees,83,9,from Right to Left.,
 22-08-2014,Chicago White Sox,New York Yankees,69,6,in from Rightfield,Overcast
-23-08-2014,Chicago White Sox,New York Yankees,72,9,from Left to Right.,Wind9mphfromLefttoRight
+23-08-2014,Chicago White Sox,New York Yankees,72,9,from Left to Right.,
 24-08-2014,Chicago White Sox,New York Yankees,78,10,in from Rightfield,Sunny
 02-09-2014,Boston Red Sox,New York Yankees,89,7,out to Leftfield,Cloudy
 03-09-2014,Boston Red Sox,New York Yankees,82,4,from Left to Right,Cloudy
 04-09-2014,Boston Red Sox,New York Yankees,80,13,from Right to Left,Cloudy
 05-09-2014,Kansas City Royals,New York Yankees,82,8,from Right to Left,Cloudy
-06-09-2014,Kansas City Royals,New York Yankees,89,9,out to Leftfield.,Wind9mphouttoLeftfield
+06-09-2014,Kansas City Royals,New York Yankees,89,9,out to Leftfield.,
 07-09-2014,Kansas City Royals,New York Yankees,77,7,from Left to Right,Cloudy
-09-09-2014,Tampa Bay Rays,New York Yankees,70,12,from Left to Right.,Wind12mphfromLefttoRight
+09-09-2014,Tampa Bay Rays,New York Yankees,70,12,from Left to Right.,
 10-09-2014,Tampa Bay Rays,New York Yankees,72,9,from Right to Left,Cloudy
-11-09-2014,Tampa Bay Rays,New York Yankees,82,9,out to Rightfield.,Wind9mphouttoRightfield
+11-09-2014,Tampa Bay Rays,New York Yankees,82,9,out to Rightfield.,
 18-09-2014,Toronto Blue Jays,New York Yankees,73,6,from Left to Right,Cloudy
-19-09-2014,Toronto Blue Jays,New York Yankees,63,9,from Right to Left.,Wind9mphfromRighttoLeft
+19-09-2014,Toronto Blue Jays,New York Yankees,63,9,from Right to Left.,
 20-09-2014,Toronto Blue Jays,New York Yankees,70,6,from Right to Left,Cloudy
-21-09-2014,Toronto Blue Jays,New York Yankees,72,5,in from Leftfield.,Wind5mphinfromLeftfield
+21-09-2014,Toronto Blue Jays,New York Yankees,72,5,in from Leftfield.,
 22-09-2014,Baltimore Orioles,New York Yankees,62,14,from Left to Right,Cloudy
 23-09-2014,Baltimore Orioles,New York Yankees,68,3,in from Rightfield,Cloudy
-24-09-2014,Baltimore Orioles,New York Yankees,69,15,from Left to Right.,Wind15mphfromLefttoRight
+24-09-2014,Baltimore Orioles,New York Yankees,69,15,from Left to Right.,
 25-09-2014,Baltimore Orioles,New York Yankees,61,10,from Left to Right,Overcast
 31-03-2014,Washington Nationals,New York Mets,44,16,in from Leftfield,Cloudy
 02-04-2014,Washington Nationals,New York Mets,51,4,out to Leftfield,Cloudy
@@ -1421,32 +1421,32 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-04-2014,Cincinnati Reds,New York Mets,41,12,in from Rightfield,Rain
 05-04-2014,Cincinnati Reds,New York Mets,53,27,from Left to Right,Cloudy
 06-04-2014,Cincinnati Reds,New York Mets,50,1,out to Centerfield,Sunny
-18-04-2014,Atlanta Braves,New York Mets,45,10,out to Leftfield.,Wind10mphouttoLeftfield
+18-04-2014,Atlanta Braves,New York Mets,45,10,out to Leftfield.,
 19-04-2014,Atlanta Braves,New York Mets,64,9,in from Rightfield,Sunny
 20-04-2014,Atlanta Braves,New York Mets,54,14,in from Rightfield,Sunny
 21-04-2014,St. Louis Cardinals,New York Mets,54,10,out to Leftfield,Sunny
-22-04-2014,St. Louis Cardinals,New York Mets,62,5,out to Centerfield.,Wind5mphouttoCenterfield
+22-04-2014,St. Louis Cardinals,New York Mets,62,5,out to Centerfield.,
 23-04-2014,St. Louis Cardinals,New York Mets,51,31,in from Leftfield,Cloudy
 24-04-2014,St. Louis Cardinals,New York Mets,56,19,from Left to Right,Sunny
 25-04-2014,Miami Marlins,New York Mets,52,15,out to Leftfield,Cloudy
-26-04-2014,Miami Marlins,New York Mets,53,10,out to Leftfield.,Wind10mphouttoLeftfield
+26-04-2014,Miami Marlins,New York Mets,53,10,out to Leftfield.,
 27-04-2014,Miami Marlins,New York Mets,56,15,from Left to Right,Cloudy
-09-05-2014,Philadelphia Phillies,New York Mets,59,4,from Right to Left.,Wind4mphfromRighttoLeft
-10-05-2014,Philadelphia Phillies,New York Mets,72,15,out to Rightfield.,Wind15mphouttoRightfield
+09-05-2014,Philadelphia Phillies,New York Mets,59,4,from Right to Left.,
+10-05-2014,Philadelphia Phillies,New York Mets,72,15,out to Rightfield.,
 11-05-2014,Philadelphia Phillies,New York Mets,74,15,out to Rightfield,Sunny
-14-05-2014,New York Yankees,New York Mets,58,8,in from Rightfield.,Wind8mphinfromRightfield
-15-05-2014,New York Yankees,New York Mets,68,10,out to Leftfield.,Wind10mphouttoLeftfield
+14-05-2014,New York Yankees,New York Mets,58,8,in from Rightfield.,
+15-05-2014,New York Yankees,New York Mets,68,10,out to Leftfield.,
 20-05-2014,Los Angeles Dodgers,New York Mets,74,11,out to Rightfield,Sunny
-21-05-2014,Los Angeles Dodgers,New York Mets,70,13,out to Leftfield.,Wind13mphouttoLeftfield
-22-05-2014,Los Angeles Dodgers,New York Mets,61,10,in from Rightfield.,Wind10mphinfromRightfield
-24-05-2014,Arizona Diamondbacks,New York Mets,66,7,in from Rightfield.,Wind7mphinfromRightfield
+21-05-2014,Los Angeles Dodgers,New York Mets,70,13,out to Leftfield.,
+22-05-2014,Los Angeles Dodgers,New York Mets,61,10,in from Rightfield.,
+24-05-2014,Arizona Diamondbacks,New York Mets,66,7,in from Rightfield.,
 26-05-2014,Pittsburgh Pirates,New York Mets,85,14,out to Rightfield,Cloudy
-27-05-2014,Pittsburgh Pirates,New York Mets,84,11,out to Rightfield.,Wind11mphouttoRightfield
-28-05-2014,Pittsburgh Pirates,New York Mets,56,13,in from Centerfield.,Wind13mphinfromCenterfield
-10-06-2014,Milwaukee Brewers,New York Mets,73,9,in from Rightfield.,Wind9mphinfromRightfield
+27-05-2014,Pittsburgh Pirates,New York Mets,84,11,out to Rightfield.,
+28-05-2014,Pittsburgh Pirates,New York Mets,56,13,in from Centerfield.,
+10-06-2014,Milwaukee Brewers,New York Mets,73,9,in from Rightfield.,
 11-06-2014,Milwaukee Brewers,New York Mets,66,13,in from Rightfield,Cloudy
-12-06-2014,Milwaukee Brewers,New York Mets,76,11,in from Rightfield.,Wind11mphinfromRightfield
-13-06-2014,San Diego Padres,New York Mets,69,7,from Right to Left.,Wind7mphfromRighttoLeft
+12-06-2014,Milwaukee Brewers,New York Mets,76,11,in from Rightfield.,
+13-06-2014,San Diego Padres,New York Mets,69,7,from Right to Left.,
 14-06-2014,San Diego Padres,New York Mets,74,19,from Left to Right,Cloudy
 15-06-2014,San Diego Padres,New York Mets,75,11,in from Leftfield,Sunny
 24-06-2014,Oakland Athletics,New York Mets,74,20,out to Leftfield,Cloudy
@@ -1456,22 +1456,22 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-07-2014,Texas Rangers,New York Mets,85,15,out to Centerfield,Sunny
 07-07-2014,Atlanta Braves,New York Mets,91,16,out to Rightfield,Cloudy
 08-07-2014,Atlanta Braves,New York Mets,85,15,out to Leftfield,Cloudy
-09-07-2014,Atlanta Braves,New York Mets,79,11,out to Leftfield.,Wind11mphouttoLeftfield
+09-07-2014,Atlanta Braves,New York Mets,79,11,out to Leftfield.,
 10-07-2014,Atlanta Braves,New York Mets,79,9,in from Rightfield,Cloudy
 11-07-2014,Miami Marlins,New York Mets,78,12,out to Leftfield,Cloudy
 12-07-2014,Miami Marlins,New York Mets,82,16,out to Leftfield,Sunny
 13-07-2014,Miami Marlins,New York Mets,81,14,out to Leftfield,Cloudy
 28-07-2014,Philadelphia Phillies,New York Mets,82,16,from Left to Right,Cloudy
-29-07-2014,Philadelphia Phillies,New York Mets,75,8,from Left to Right.,Wind8mphfromLefttoRight
+29-07-2014,Philadelphia Phillies,New York Mets,75,8,from Left to Right.,
 30-07-2014,Philadelphia Phillies,New York Mets,76,5,out to Rightfield,Sunny
-01-08-2014,San Francisco Giants,New York Mets,77,10,out to Leftfield.,Wind10mphouttoLeftfield
+01-08-2014,San Francisco Giants,New York Mets,77,10,out to Leftfield.,
 02-08-2014,San Francisco Giants,New York Mets,70,11,in from Rightfield,Cloudy
-03-08-2014,San Francisco Giants,New York Mets,72,6,in from Centerfield.,Wind6mphinfromCenterfield
-04-08-2014,San Francisco Giants,New York Mets,78,3,out to Centerfield.,Wind3mphouttoCenterfield
-12-08-2014,Washington Nationals,New York Mets,75,16,out to Leftfield.,Wind16mphouttoLeftfield
+03-08-2014,San Francisco Giants,New York Mets,72,6,in from Centerfield.,
+04-08-2014,San Francisco Giants,New York Mets,78,3,out to Centerfield.,
+12-08-2014,Washington Nationals,New York Mets,75,16,out to Leftfield.,
 13-08-2014,Washington Nationals,New York Mets,77,14,out to Rightfield,Overcast
 14-08-2014,Washington Nationals,New York Mets,77,14,out to Rightfield,Cloudy
-15-08-2014,Chicago Cubs,New York Mets,71,8,out to Rightfield.,Wind8mphouttoRightfield
+15-08-2014,Chicago Cubs,New York Mets,71,8,out to Rightfield.,
 16-08-2014,Chicago Cubs,New York Mets,77,10,out to Leftfield,Cloudy
 17-08-2014,Chicago Cubs,New York Mets,77,12,out to Rightfield,Cloudy
 18-08-2014,Chicago Cubs,New York Mets,76,9,from Left to Right,Sunny
@@ -1479,29 +1479,29 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-08-2014,Atlanta Braves,New York Mets,83,10,out to Leftfield,Sunny
 28-08-2014,Atlanta Braves,New York Mets,78,11,in from Leftfield,Cloudy
 29-08-2014,Philadelphia Phillies,New York Mets,71,12,out to Leftfield,Cloudy
-30-08-2014,Philadelphia Phillies,New York Mets,74,14,out to Leftfield.,Wind14mphouttoLeftfield
+30-08-2014,Philadelphia Phillies,New York Mets,74,14,out to Leftfield.,
 31-08-2014,Philadelphia Phillies,New York Mets,87,12,out to Rightfield,Cloudy
-08-09-2014,Colorado Rockies,New York Mets,71,14,in from Rightfield.,Wind14mphinfromRightfield
-09-09-2014,Colorado Rockies,New York Mets,72,12,in from Rightfield.,Wind12mphinfromRightfield
-10-09-2014,Colorado Rockies,New York Mets,71,8,out to Leftfield.,Wind8mphouttoLeftfield
-11-09-2014,Washington Nationals,New York Mets,82,10,out to Rightfield.,Wind10mphouttoRightfield
+08-09-2014,Colorado Rockies,New York Mets,71,14,in from Rightfield.,
+09-09-2014,Colorado Rockies,New York Mets,72,12,in from Rightfield.,
+10-09-2014,Colorado Rockies,New York Mets,71,8,out to Leftfield.,
+11-09-2014,Washington Nationals,New York Mets,82,10,out to Rightfield.,
 12-09-2014,Washington Nationals,New York Mets,73,12,in from Rightfield,Cloudy
 13-09-2014,Washington Nationals,New York Mets,63,7,in from Rightfield,Drizzle
 14-09-2014,Washington Nationals,New York Mets,67,11,in from Leftfield,Cloudy
-15-09-2014,Miami Marlins,New York Mets,68,8,out to Centerfield.,Wind8mphouttoCenterfield
-16-09-2014,Miami Marlins,New York Mets,63,2,in from Leftfield.,Wind2mphinfromLeftfield
+15-09-2014,Miami Marlins,New York Mets,68,8,out to Centerfield.,
+16-09-2014,Miami Marlins,New York Mets,63,2,in from Leftfield.,
 17-09-2014,Miami Marlins,New York Mets,70,8,from Left to Right,Sunny
 26-09-2014,Houston Astros,New York Mets,74,3,in from Rightfield,Sunny
 27-09-2014,Houston Astros,New York Mets,78,2,out to Leftfield,Sunny
 28-09-2014,Houston Astros,New York Mets,81,5,in from Rightfield,Cloudy
-31-03-2014,Cleveland Indians,Oakland Athletics,49,12,out to Rightfield.,Wind12mphouttoRightfield
+31-03-2014,Cleveland Indians,Oakland Athletics,49,12,out to Rightfield.,
 03-04-2014,Seattle Mariners,Oakland Athletics,55,7,out to Rightfield,Cloudy
 05-04-2014,Seattle Mariners,Oakland Athletics,66,4,out to Leftfield,Cloudy
 06-04-2014,Seattle Mariners,Oakland Athletics,68,4,out to Rightfield,Cloudy
 18-04-2014,Houston Astros,Oakland Athletics,54,12,out to Rightfield,Cloudy
 19-04-2014,Houston Astros,Oakland Athletics,58,11,out to Rightfield,Sunny
 20-04-2014,Houston Astros,Oakland Athletics,70,8,out to Rightfield,Sunny
-21-04-2014,Texas Rangers,Oakland Athletics,55,11,out to Rightfield.,Wind11mphouttoRightfield
+21-04-2014,Texas Rangers,Oakland Athletics,55,11,out to Rightfield.,
 22-04-2014,Texas Rangers,Oakland Athletics,53,14,out to Rightfield,Cloudy
 23-04-2014,Texas Rangers,Oakland Athletics,59,5,out to Rightfield,Cloudy
 05-05-2014,Seattle Mariners,Oakland Athletics,59,24,out to Rightfield,Sunny
@@ -1522,7 +1522,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-06-2014,New York Yankees,Oakland Athletics,67,9,out to Rightfield,Sunny
 14-06-2014,New York Yankees,Oakland Athletics,72,8,out to Centerfield,Cloudy
 15-06-2014,New York Yankees,Oakland Athletics,62,13,out to Rightfield,Cloudy
-16-06-2014,Texas Rangers,Oakland Athletics,57,19,out to Rightfield.,Wind19mphouttoRightfield
+16-06-2014,Texas Rangers,Oakland Athletics,57,19,out to Rightfield.,
 17-06-2014,Texas Rangers,Oakland Athletics,67,6,out to Rightfield,Sunny
 18-06-2014,Texas Rangers,Oakland Athletics,77,7,out to Rightfield,Sunny
 19-06-2014,Boston Red Sox,Oakland Athletics,59,13,out to Rightfield,Cloudy
@@ -1537,7 +1537,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-07-2014,San Francisco Giants,Oakland Athletics,60,7,out to Rightfield,Sunny
 18-07-2014,Baltimore Orioles,Oakland Athletics,63,7,out to Rightfield,Cloudy
 19-07-2014,Baltimore Orioles,Oakland Athletics,64,16,out to Rightfield,Cloudy
-20-07-2014,Baltimore Orioles,Oakland Athletics,65,9,in from Leftfield.,Wind9mphinfromLeftfield
+20-07-2014,Baltimore Orioles,Oakland Athletics,65,9,in from Leftfield.,
 22-07-2014,Houston Astros,Oakland Athletics,65,7,out to Rightfield,Overcast
 23-07-2014,Houston Astros,Oakland Athletics,66,7,out to Rightfield,Sunny
 24-07-2014,Houston Astros,Oakland Athletics,72,8,out to Rightfield,Sunny
@@ -1546,25 +1546,25 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-08-2014,Kansas City Royals,Oakland Athletics,61,7,out to Rightfield,Overcast
 04-08-2014,Tampa Bay Rays,Oakland Athletics,66,5,out to Rightfield,Cloudy
 05-08-2014,Tampa Bay Rays,Oakland Athletics,65,11,from Left to Right,Overcast
-06-08-2014,Tampa Bay Rays,Oakland Athletics,75,8,out to Rightfield.,Wind8mphouttoRightfield
+06-08-2014,Tampa Bay Rays,Oakland Athletics,75,8,out to Rightfield.,
 07-08-2014,Minnesota Twins,Oakland Athletics,59,5,out to Rightfield,Sunny
 08-08-2014,Minnesota Twins,Oakland Athletics,69,9,out to Rightfield,Cloudy
 09-08-2014,Minnesota Twins,Oakland Athletics,57,15,out to Rightfield,Overcast
 10-08-2014,Minnesota Twins,Oakland Athletics,65,8,out to Rightfield,Cloudy
 19-08-2014,New York Mets,Oakland Athletics,65,12,out to Rightfield,Cloudy
-20-08-2014,New York Mets,Oakland Athletics,66,11,out to Rightfield.,Wind11mphouttoRightfield
+20-08-2014,New York Mets,Oakland Athletics,66,11,out to Rightfield.,
 22-08-2014,Los Angeles Angels of Anaheim,Oakland Athletics,61,14,out to Rightfield,Overcast
 23-08-2014,Los Angeles Angels of Anaheim,Oakland Athletics,66,12,out to Rightfield,Sunny
 24-08-2014,Los Angeles Angels of Anaheim,Oakland Athletics,69,14,out to Rightfield,Sunny
 01-09-2014,Seattle Mariners,Oakland Athletics,81,3,out to Rightfield,Sunny
-02-09-2014,Seattle Mariners,Oakland Athletics,60,14,out to Rightfield.,Wind14mphouttoRightfield
+02-09-2014,Seattle Mariners,Oakland Athletics,60,14,out to Rightfield.,
 03-09-2014,Seattle Mariners,Oakland Athletics,67,6,out to Rightfield,Sunny
 05-09-2014,Houston Astros,Oakland Athletics,63,7,out to Rightfield,Sunny
 06-09-2014,Houston Astros,Oakland Athletics,68,7,out to Rightfield,Sunny
 07-09-2014,Houston Astros,Oakland Athletics,68,8,out to Rightfield,Sunny
 16-09-2014,Texas Rangers,Oakland Athletics,75,8,from Left to Right,Cloudy
-17-09-2014,Texas Rangers,Oakland Athletics,76,6,out to Rightfield.,Wind6mphouttoRightfield
-18-09-2014,Texas Rangers,Oakland Athletics,70,10,out to Rightfield.,Wind10mphouttoRightfield
+17-09-2014,Texas Rangers,Oakland Athletics,76,6,out to Rightfield.,
+18-09-2014,Texas Rangers,Oakland Athletics,70,10,out to Rightfield.,
 19-09-2014,Philadelphia Phillies,Oakland Athletics,69,8,out to Rightfield,Sunny
 20-09-2014,Philadelphia Phillies,Oakland Athletics,70,6,out to Rightfield,Sunny
 21-09-2014,Philadelphia Phillies,Oakland Athletics,65,8,out to Rightfield,Overcast
@@ -1572,147 +1572,147 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-09-2014,Los Angeles Angels of Anaheim,Oakland Athletics,65,7,out to Rightfield,Overcast
 24-09-2014,Los Angeles Angels of Anaheim,Oakland Athletics,77,6,out to Rightfield,Cloudy
 08-04-2014,Milwaukee Brewers,Philadelphia Phillies,62,22,from Left to Right,Cloudy
-09-04-2014,Milwaukee Brewers,Philadelphia Phillies,64,17,from Left to Right.,Wind17mphfromLefttoRight
-10-04-2014,Milwaukee Brewers,Philadelphia Phillies,64,14,out to Centerfield.,Wind14mphouttoCenterfield
-11-04-2014,Miami Marlins,Philadelphia Phillies,65,20,from Left to Right.,Wind20mphfromLefttoRight
+09-04-2014,Milwaukee Brewers,Philadelphia Phillies,64,17,from Left to Right.,
+10-04-2014,Milwaukee Brewers,Philadelphia Phillies,64,14,out to Centerfield.,
+11-04-2014,Miami Marlins,Philadelphia Phillies,65,20,from Left to Right.,
 12-04-2014,Miami Marlins,Philadelphia Phillies,72,7,out to Centerfield,Sunny
-13-04-2014,Miami Marlins,Philadelphia Phillies,75,14,out to Rightfield.,Wind14mphouttoRightfield
-14-04-2014,Atlanta Braves,Philadelphia Phillies,74,18,out to Centerfield.,Wind18mphouttoCenterfield
+13-04-2014,Miami Marlins,Philadelphia Phillies,75,14,out to Rightfield.,
+14-04-2014,Atlanta Braves,Philadelphia Phillies,74,18,out to Centerfield.,
 16-04-2014,Atlanta Braves,Philadelphia Phillies,48,16,in from Centerfield,Sunny
 17-04-2014,Atlanta Braves,Philadelphia Phillies,50,8,out to Leftfield,Cloudy
 29-04-2014,New York Mets,Philadelphia Phillies,46,19,from Right to Left,Rain
 02-05-2014,Washington Nationals,Philadelphia Phillies,68,11,out to Rightfield,Cloudy
 03-05-2014,Washington Nationals,Philadelphia Phillies,70,9,out to Centerfield,Cloudy
-04-05-2014,Washington Nationals,Philadelphia Phillies,58,10,from Left to Right.,Wind10mphfromLefttoRight
-05-05-2014,Toronto Blue Jays,Philadelphia Phillies,68,12,from Left to Right.,Wind12mphfromLefttoRight
+04-05-2014,Washington Nationals,Philadelphia Phillies,58,10,from Left to Right.,
+05-05-2014,Toronto Blue Jays,Philadelphia Phillies,68,12,from Left to Right.,
 06-05-2014,Toronto Blue Jays,Philadelphia Phillies,72,9,from Left to Right,Cloudy
 13-05-2014,Los Angeles Angels of Anaheim,Philadelphia Phillies,70,15,from Right to Left,Cloudy
-14-05-2014,Los Angeles Angels of Anaheim,Philadelphia Phillies,67,8,from Right to Left.,Wind8mphfromRighttoLeft
-16-05-2014,Cincinnati Reds,Philadelphia Phillies,64,7,in from Leftfield.,Wind7mphinfromLeftfield
+14-05-2014,Los Angeles Angels of Anaheim,Philadelphia Phillies,67,8,from Right to Left.,
+16-05-2014,Cincinnati Reds,Philadelphia Phillies,64,7,in from Leftfield.,
 17-05-2014,Cincinnati Reds,Philadelphia Phillies,71,11,from Left to Right,Cloudy
 18-05-2014,Cincinnati Reds,Philadelphia Phillies,65,8,from Left to Right,Cloudy
-23-05-2014,Los Angeles Dodgers,Philadelphia Phillies,77,11,from Left to Right.,Wind11mphfromLefttoRight
-24-05-2014,Los Angeles Dodgers,Philadelphia Phillies,70,4,in from Leftfield.,Wind4mphinfromLeftfield
+23-05-2014,Los Angeles Dodgers,Philadelphia Phillies,77,11,from Left to Right.,
+24-05-2014,Los Angeles Dodgers,Philadelphia Phillies,70,4,in from Leftfield.,
 25-05-2014,Los Angeles Dodgers,Philadelphia Phillies,83,4,from Left to Right,Cloudy
 26-05-2014,Colorado Rockies,Philadelphia Phillies,88,11,from Left to Right,Cloudy
-27-05-2014,Colorado Rockies,Philadelphia Phillies,70,3,out to Centerfield.,Wind3mphouttoCenterfield
-28-05-2014,Colorado Rockies,Philadelphia Phillies,60,10,from Right to Left.,Wind10mphfromRighttoLeft
-29-05-2014,New York Mets,Philadelphia Phillies,59,6,out to Centerfield.,Wind6mphouttoCenterfield
+27-05-2014,Colorado Rockies,Philadelphia Phillies,70,3,out to Centerfield.,
+28-05-2014,Colorado Rockies,Philadelphia Phillies,60,10,from Right to Left.,
+29-05-2014,New York Mets,Philadelphia Phillies,59,6,out to Centerfield.,
 30-05-2014,New York Mets,Philadelphia Phillies,76,10,out to Rightfield,Cloudy
 31-05-2014,New York Mets,Philadelphia Phillies,77,18,in from Centerfield,Cloudy
 01-06-2014,New York Mets,Philadelphia Phillies,77,1,in from Rightfield,Cloudy
 02-06-2014,New York Mets,Philadelphia Phillies,81,16,out to Rightfield,Sunny
-10-06-2014,San Diego Padres,Philadelphia Phillies,72,6,in from Rightfield.,Wind6mphinfromRightfield
-11-06-2014,San Diego Padres,Philadelphia Phillies,68,11,in from Rightfield.,Wind11mphinfromRightfield
+10-06-2014,San Diego Padres,Philadelphia Phillies,72,6,in from Rightfield.,
+11-06-2014,San Diego Padres,Philadelphia Phillies,68,11,in from Rightfield.,
 12-06-2014,San Diego Padres,Philadelphia Phillies,70,6,in from Rightfield,Drizzle
-13-06-2014,Chicago Cubs,Philadelphia Phillies,72,6,from Left to Right.,Wind6mphfromLefttoRight
+13-06-2014,Chicago Cubs,Philadelphia Phillies,72,6,from Left to Right.,
 14-06-2014,Chicago Cubs,Philadelphia Phillies,78,12,from Left to Right,Cloudy
 15-06-2014,Chicago Cubs,Philadelphia Phillies,80,11,from Left to Right,Sunny
 23-06-2014,Miami Marlins,Philadelphia Phillies,81,10,out to Rightfield,Cloudy
 24-06-2014,Miami Marlins,Philadelphia Phillies,85,9,out to Centerfield,Sunny
-25-06-2014,Miami Marlins,Philadelphia Phillies,87,11,out to Leftfield.,Wind11mphouttoLeftfield
-26-06-2014,Miami Marlins,Philadelphia Phillies,88,9,in from Leftfield.,Wind9mphinfromLeftfield
+25-06-2014,Miami Marlins,Philadelphia Phillies,87,11,out to Leftfield.,
+26-06-2014,Miami Marlins,Philadelphia Phillies,88,9,in from Leftfield.,
 27-06-2014,Atlanta Braves,Philadelphia Phillies,86,3,out to Centerfield,Cloudy
 29-06-2014,Atlanta Braves,Philadelphia Phillies,87,7,out to Centerfield,Cloudy
-11-07-2014,Washington Nationals,Philadelphia Phillies,88,7,out to Centerfield.,Wind7mphouttoCenterfield
+11-07-2014,Washington Nationals,Philadelphia Phillies,88,7,out to Centerfield.,
 12-07-2014,Washington Nationals,Philadelphia Phillies,86,11,out to Centerfield,Cloudy
-13-07-2014,Washington Nationals,Philadelphia Phillies,87,16,out to Centerfield.,Wind16mphouttoCenterfield
-21-07-2014,San Francisco Giants,Philadelphia Phillies,85,4,out to Centerfield.,Wind4mphouttoCenterfield
+13-07-2014,Washington Nationals,Philadelphia Phillies,87,16,out to Centerfield.,
+21-07-2014,San Francisco Giants,Philadelphia Phillies,85,4,out to Centerfield.,
 22-07-2014,San Francisco Giants,Philadelphia Phillies,88,13,out to Centerfield,Cloudy
-23-07-2014,San Francisco Giants,Philadelphia Phillies,91,12,out to Rightfield.,Wind12mphouttoRightfield
-24-07-2014,San Francisco Giants,Philadelphia Phillies,77,11,in from Centerfield.,Wind11mphinfromCenterfield
+23-07-2014,San Francisco Giants,Philadelphia Phillies,91,12,out to Rightfield.,
+24-07-2014,San Francisco Giants,Philadelphia Phillies,77,11,in from Centerfield.,
 25-07-2014,Arizona Diamondbacks,Philadelphia Phillies,83,9,out to Rightfield,Cloudy
 26-07-2014,Arizona Diamondbacks,Philadelphia Phillies,83,5,out to Leftfield,Cloudy
 27-07-2014,Arizona Diamondbacks,Philadelphia Phillies,90,10,out to Rightfield,Cloudy
 05-08-2014,Houston Astros,Philadelphia Phillies,87,5,out to Centerfield,Cloudy
 06-08-2014,Houston Astros,Philadelphia Phillies,80,6,from Left to Right,Cloudy
-07-08-2014,Houston Astros,Philadelphia Phillies,81,10,in from Leftfield.,Wind10mphinfromLeftfield
+07-08-2014,Houston Astros,Philadelphia Phillies,81,10,in from Leftfield.,
 08-08-2014,New York Mets,Philadelphia Phillies,81,8,from Left to Right,Cloudy
 09-08-2014,New York Mets,Philadelphia Phillies,82,7,in from Leftfield,Cloudy
 10-08-2014,New York Mets,Philadelphia Phillies,85,2,out to Centerfield,Cloudy
 11-08-2014,New York Mets,Philadelphia Phillies,83,8,in from Rightfield,Cloudy
 18-08-2014,Seattle Mariners,Philadelphia Phillies,83,5,from Left to Right,Cloudy
-19-08-2014,Seattle Mariners,Philadelphia Phillies,82,6,out to Leftfield.,Wind6mphouttoLeftfield
-20-08-2014,Seattle Mariners,Philadelphia Phillies,81,3,out to Centerfield.,Wind3mphouttoCenterfield
-22-08-2014,St. Louis Cardinals,Philadelphia Phillies,75,9,from Right to Left.,Wind9mphfromRighttoLeft
+19-08-2014,Seattle Mariners,Philadelphia Phillies,82,6,out to Leftfield.,
+20-08-2014,Seattle Mariners,Philadelphia Phillies,81,3,out to Centerfield.,
+22-08-2014,St. Louis Cardinals,Philadelphia Phillies,75,9,from Right to Left.,
 23-08-2014,St. Louis Cardinals,Philadelphia Phillies,70,5,in from Rightfield,Drizzle
 24-08-2014,St. Louis Cardinals,Philadelphia Phillies,78,19,in from Rightfield,Cloudy
 25-08-2014,Washington Nationals,Philadelphia Phillies,84,1,out to Centerfield,Cloudy
 26-08-2014,Washington Nationals,Philadelphia Phillies,84,9,out to Centerfield,Cloudy
 27-08-2014,Washington Nationals,Philadelphia Phillies,89,7,out to Centerfield,Sunny
-08-09-2014,Pittsburgh Pirates,Philadelphia Phillies,71,16,in from Rightfield.,Wind16mphinfromRightfield
-09-09-2014,Pittsburgh Pirates,Philadelphia Phillies,70,11,in from Rightfield.,Wind11mphinfromRightfield
-10-09-2014,Pittsburgh Pirates,Philadelphia Phillies,79,9,out to Centerfield.,Wind9mphouttoCenterfield
+08-09-2014,Pittsburgh Pirates,Philadelphia Phillies,71,16,in from Rightfield.,
+09-09-2014,Pittsburgh Pirates,Philadelphia Phillies,70,11,in from Rightfield.,
+10-09-2014,Pittsburgh Pirates,Philadelphia Phillies,79,9,out to Centerfield.,
 11-09-2014,Pittsburgh Pirates,Philadelphia Phillies,81,6,out to Rightfield,Cloudy
 12-09-2014,Miami Marlins,Philadelphia Phillies,75,8,in from Centerfield,Cloudy
-13-09-2014,Miami Marlins,Philadelphia Phillies,67,9,in from Leftfield.,Wind9mphinfromLeftfield
+13-09-2014,Miami Marlins,Philadelphia Phillies,67,9,in from Leftfield.,
 14-09-2014,Miami Marlins,Philadelphia Phillies,64,7,out to Centerfield,Cloudy
 26-09-2014,Atlanta Braves,Philadelphia Phillies,74,3,in from Centerfield,Sunny
 27-09-2014,Atlanta Braves,Philadelphia Phillies,78,3,out to Leftfield,Sunny
 28-09-2014,Atlanta Braves,Philadelphia Phillies,82,8,out to Centerfield,Cloudy
 31-03-2014,Chicago Cubs,Pittsburgh Pirates,54,2,out to Centerfield,Sunny
 02-04-2014,Chicago Cubs,Pittsburgh Pirates,60,3,from Right to Left,Cloudy
-03-04-2014,Chicago Cubs,Pittsburgh Pirates,57,7,out to Centerfield.,Wind7mphouttoCenterfield
-04-04-2014,St. Louis Cardinals,Pittsburgh Pirates,61,12,from Right to Left.,Wind12mphfromRighttoLeft
+03-04-2014,Chicago Cubs,Pittsburgh Pirates,57,7,out to Centerfield.,
+04-04-2014,St. Louis Cardinals,Pittsburgh Pirates,61,12,from Right to Left.,
 05-04-2014,St. Louis Cardinals,Pittsburgh Pirates,45,8,out to Centerfield,Cloudy
 06-04-2014,St. Louis Cardinals,Pittsburgh Pirates,51,6,from Left to Right,Cloudy
 17-04-2014,Milwaukee Brewers,Pittsburgh Pirates,62,8,from Left to Right,Sunny
 18-04-2014,Milwaukee Brewers,Pittsburgh Pirates,67,5,out to Centerfield,Cloudy
 19-04-2014,Milwaukee Brewers,Pittsburgh Pirates,63,7,out to Leftfield,Cloudy
 20-04-2014,Milwaukee Brewers,Pittsburgh Pirates,67,7,in from Centerfield,Cloudy
-21-04-2014,Cincinnati Reds,Pittsburgh Pirates,76,8,out to Leftfield.,Wind8mphouttoLeftfield
-22-04-2014,Cincinnati Reds,Pittsburgh Pirates,53,10,out to Centerfield.,Wind10mphouttoCenterfield
+21-04-2014,Cincinnati Reds,Pittsburgh Pirates,76,8,out to Leftfield.,
+22-04-2014,Cincinnati Reds,Pittsburgh Pirates,53,10,out to Centerfield.,
 23-04-2014,Cincinnati Reds,Pittsburgh Pirates,50,12,out to Centerfield,Cloudy
 24-04-2014,Cincinnati Reds,Pittsburgh Pirates,51,2,from Left to Right,Cloudy
 02-05-2014,Toronto Blue Jays,Pittsburgh Pirates,54,1,in unknown direction,Sunny
-03-05-2014,Toronto Blue Jays,Pittsburgh Pirates,61,8,from Right to Left.,Wind8mphfromRighttoLeft
-04-05-2014,Toronto Blue Jays,Pittsburgh Pirates,61,12,out to Leftfield.,Wind12mphouttoLeftfield
-05-05-2014,San Francisco Giants,Pittsburgh Pirates,58,1,in from Rightfield.,Wind1mphinfromRightfield
+03-05-2014,Toronto Blue Jays,Pittsburgh Pirates,61,8,from Right to Left.,
+04-05-2014,Toronto Blue Jays,Pittsburgh Pirates,61,12,out to Leftfield.,
+05-05-2014,San Francisco Giants,Pittsburgh Pirates,58,1,in from Rightfield.,
 06-05-2014,San Francisco Giants,Pittsburgh Pirates,68,6,out to Rightfield,Cloudy
-07-05-2014,San Francisco Giants,Pittsburgh Pirates,58,7,in from Centerfield.,Wind7mphinfromCenterfield
-09-05-2014,St. Louis Cardinals,Pittsburgh Pirates,81,14,from Right to Left.,Wind14mphfromRighttoLeft
-10-05-2014,St. Louis Cardinals,Pittsburgh Pirates,62,4,from Right to Left.,Wind4mphfromRighttoLeft
+07-05-2014,San Francisco Giants,Pittsburgh Pirates,58,7,in from Centerfield.,
+09-05-2014,St. Louis Cardinals,Pittsburgh Pirates,81,14,from Right to Left.,
+10-05-2014,St. Louis Cardinals,Pittsburgh Pirates,62,4,from Right to Left.,
 11-05-2014,St. Louis Cardinals,Pittsburgh Pirates,73,5,from Right to Left,Cloudy
-20-05-2014,Baltimore Orioles,Pittsburgh Pirates,74,8,out to Centerfield.,Wind8mphouttoCenterfield
-21-05-2014,Baltimore Orioles,Pittsburgh Pirates,74,10,from Right to Left.,Wind10mphfromRighttoLeft
+20-05-2014,Baltimore Orioles,Pittsburgh Pirates,74,8,out to Centerfield.,
+21-05-2014,Baltimore Orioles,Pittsburgh Pirates,74,10,from Right to Left.,
 22-05-2014,Washington Nationals,Pittsburgh Pirates,71,13,out to Centerfield,Cloudy
 23-05-2014,Washington Nationals,Pittsburgh Pirates,62,13,out to Centerfield,Cloudy
 24-05-2014,Washington Nationals,Pittsburgh Pirates,75,9,out to Centerfield,Cloudy
 25-05-2014,Washington Nationals,Pittsburgh Pirates,75,3,from Right to Left,Cloudy
 06-06-2014,Milwaukee Brewers,Pittsburgh Pirates,75,5,in from Centerfield,Cloudy
 07-06-2014,Milwaukee Brewers,Pittsburgh Pirates,82,5,from Right to Left,Sunny
-08-06-2014,Milwaukee Brewers,Pittsburgh Pirates,74,10,in from Rightfield.,Wind10mphinfromRightfield
-09-06-2014,Chicago Cubs,Pittsburgh Pirates,69,5,in from Centerfield.,Wind5mphinfromCenterfield
+08-06-2014,Milwaukee Brewers,Pittsburgh Pirates,74,10,in from Rightfield.,
+09-06-2014,Chicago Cubs,Pittsburgh Pirates,69,5,in from Centerfield.,
 10-06-2014,Chicago Cubs,Pittsburgh Pirates,75,3,out to Rightfield,Cloudy
-11-06-2014,Chicago Cubs,Pittsburgh Pirates,67,7,from Right to Left.,Wind7mphfromRighttoLeft
+11-06-2014,Chicago Cubs,Pittsburgh Pirates,67,7,from Right to Left.,
 12-06-2014,Chicago Cubs,Pittsburgh Pirates,73,6,from Right to Left,Cloudy
 17-06-2014,Cincinnati Reds,Pittsburgh Pirates,86,17,from Right to Left,Cloudy
 18-06-2014,Cincinnati Reds,Pittsburgh Pirates,86,8,from Right to Left,Cloudy
-19-06-2014,Cincinnati Reds,Pittsburgh Pirates,73,10,from Right to Left.,Wind10mphfromRighttoLeft
+19-06-2014,Cincinnati Reds,Pittsburgh Pirates,73,10,from Right to Left.,
 26-06-2014,New York Mets,Pittsburgh Pirates,81,6,out to Leftfield,Cloudy
 27-06-2014,New York Mets,Pittsburgh Pirates,82,4,out to Centerfield,Cloudy
 28-06-2014,New York Mets,Pittsburgh Pirates,88,8,from Right to Left,Cloudy
-29-06-2014,New York Mets,Pittsburgh Pirates,81,8,in from Rightfield.,Wind8mphinfromRightfield
+29-06-2014,New York Mets,Pittsburgh Pirates,81,8,in from Rightfield.,
 01-07-2014,Arizona Diamondbacks,Pittsburgh Pirates,88,9,from Right to Left,Cloudy
 02-07-2014,Arizona Diamondbacks,Pittsburgh Pirates,84,8,from Right to Left,Cloudy
 03-07-2014,Arizona Diamondbacks,Pittsburgh Pirates,77,10,out to Leftfield,Cloudy
 04-07-2014,Philadelphia Phillies,Pittsburgh Pirates,74,14,out to Centerfield,Cloudy
 05-07-2014,Philadelphia Phillies,Pittsburgh Pirates,79,4,out to Leftfield,Sunny
 06-07-2014,Philadelphia Phillies,Pittsburgh Pirates,78,9,from Right to Left,Cloudy
-18-07-2014,Colorado Rockies,Pittsburgh Pirates,75,4,in from Leftfield.,Wind4mphinfromLeftfield
-19-07-2014,Colorado Rockies,Pittsburgh Pirates,67,6,in from Centerfield.,Wind6mphinfromCenterfield
+18-07-2014,Colorado Rockies,Pittsburgh Pirates,75,4,in from Leftfield.,
+19-07-2014,Colorado Rockies,Pittsburgh Pirates,67,6,in from Centerfield.,
 20-07-2014,Colorado Rockies,Pittsburgh Pirates,77,3,in from Leftfield,Cloudy
 21-07-2014,Los Angeles Dodgers,Pittsburgh Pirates,85,2,in from Centerfield,Cloudy
 22-07-2014,Los Angeles Dodgers,Pittsburgh Pirates,87,8,from Right to Left,Cloudy
-23-07-2014,Los Angeles Dodgers,Pittsburgh Pirates,77,12,out to Centerfield.,Wind12mphouttoCenterfield
+23-07-2014,Los Angeles Dodgers,Pittsburgh Pirates,77,12,out to Centerfield.,
 05-08-2014,Miami Marlins,Pittsburgh Pirates,73,12,out to Centerfield,Overcast
 06-08-2014,Miami Marlins,Pittsburgh Pirates,77,6,out to Centerfield,Cloudy
 07-08-2014,Miami Marlins,Pittsburgh Pirates,78,4,out to Rightfield,Cloudy
 08-08-2014,San Diego Padres,Pittsburgh Pirates,76,5,in from Centerfield,Cloudy
 09-08-2014,San Diego Padres,Pittsburgh Pirates,80,7,in from Leftfield,Cloudy
 10-08-2014,San Diego Padres,Pittsburgh Pirates,75,8,in from Leftfield,Cloudy
-11-08-2014,Detroit Tigers,Pittsburgh Pirates,72,13,in from Centerfield.,Wind13mphinfromCenterfield
-12-08-2014,Detroit Tigers,Pittsburgh Pirates,73,7,in from Leftfield.,Wind7mphinfromLeftfield
+11-08-2014,Detroit Tigers,Pittsburgh Pirates,72,13,in from Centerfield.,
+12-08-2014,Detroit Tigers,Pittsburgh Pirates,73,7,in from Leftfield.,
 18-08-2014,Atlanta Braves,Pittsburgh Pirates,81,6,from Left to Right,Cloudy
 19-08-2014,Atlanta Braves,Pittsburgh Pirates,84,5,from Right to Left,Cloudy
 20-08-2014,Atlanta Braves,Pittsburgh Pirates,80,5,from Right to Left,Cloudy
@@ -1722,13 +1722,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-08-2014,Cincinnati Reds,Pittsburgh Pirates,80,2,in from Centerfield,Cloudy
 30-08-2014,Cincinnati Reds,Pittsburgh Pirates,88,10,from Right to Left,Cloudy
 31-08-2014,Cincinnati Reds,Pittsburgh Pirates,72,8,from Right to Left,Overcast
-12-09-2014,Chicago Cubs,Pittsburgh Pirates,62,6,in unknown direction.,Wind6mphinunknowndirection
+12-09-2014,Chicago Cubs,Pittsburgh Pirates,62,6,in unknown direction.,
 13-09-2014,Chicago Cubs,Pittsburgh Pirates,61,14,out to Centerfield,Cloudy
 14-09-2014,Chicago Cubs,Pittsburgh Pirates,64,2,out to Centerfield,Cloudy
 16-09-2014,Boston Red Sox,Pittsburgh Pirates,66,6,out to Centerfield,Cloudy
 17-09-2014,Boston Red Sox,Pittsburgh Pirates,67,4,from Right to Left,Cloudy
 18-09-2014,Boston Red Sox,Pittsburgh Pirates,67,6,out to Rightfield,Cloudy
-19-09-2014,Milwaukee Brewers,Pittsburgh Pirates,70,8,in from Rightfield.,Wind8mphinfromRightfield
+19-09-2014,Milwaukee Brewers,Pittsburgh Pirates,70,8,in from Rightfield.,
 20-09-2014,Milwaukee Brewers,Pittsburgh Pirates,77,10,from Right to Left,Cloudy
 21-09-2014,Milwaukee Brewers,Pittsburgh Pirates,76,10,from Right to Left,Cloudy
 30-03-2014,Los Angeles Dodgers,San Diego Padres,67,11,from Left to Right,Sunny
@@ -1736,18 +1736,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-04-2014,Los Angeles Dodgers,San Diego Padres,60,12,from Left to Right,Cloudy
 11-04-2014,Detroit Tigers,San Diego Padres,66,8,out to Rightfield,Cloudy
 12-04-2014,Detroit Tigers,San Diego Padres,64,10,from Left to Right,Cloudy
-13-04-2014,Detroit Tigers,San Diego Padres,63,6,from Left to Right.,Wind6mphfromLefttoRight
+13-04-2014,Detroit Tigers,San Diego Padres,63,6,from Left to Right.,
 14-04-2014,Colorado Rockies,San Diego Padres,68,11,from Left to Right,Sunny
 15-04-2014,Colorado Rockies,San Diego Padres,61,9,from Left to Right,Cloudy
 16-04-2014,Colorado Rockies,San Diego Padres,61,8,from Left to Right,Cloudy
 17-04-2014,Colorado Rockies,San Diego Padres,65,5,in unknown direction,Cloudy
-18-04-2014,San Francisco Giants,San Diego Padres,66,10,from Left to Right.,Wind10mphfromLefttoRight
+18-04-2014,San Francisco Giants,San Diego Padres,66,10,from Left to Right.,
 19-04-2014,San Francisco Giants,San Diego Padres,68,11,from Left to Right,Cloudy
 20-04-2014,San Francisco Giants,San Diego Padres,68,7,from Left to Right,Sunny
 02-05-2014,Arizona Diamondbacks,San Diego Padres,82,7,from Left to Right,Sunny
 03-05-2014,Arizona Diamondbacks,San Diego Padres,81,7,from Left to Right,Sunny
 04-05-2014,Arizona Diamondbacks,San Diego Padres,70,15,from Left to Right,Sunny
-05-05-2014,Kansas City Royals,San Diego Padres,62,10,from Left to Right.,Wind10mphfromLefttoRight
+05-05-2014,Kansas City Royals,San Diego Padres,62,10,from Left to Right.,
 06-05-2014,Kansas City Royals,San Diego Padres,62,15,from Left to Right,Cloudy
 07-05-2014,Kansas City Royals,San Diego Padres,64,12,from Left to Right,Cloudy
 08-05-2014,Miami Marlins,San Diego Padres,64,6,in unknown direction,Sunny
@@ -1758,7 +1758,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-05-2014,Minnesota Twins,San Diego Padres,65,6,out to Rightfield,Cloudy
 22-05-2014,Chicago Cubs,San Diego Padres,64,6,from Left to Right,Overcast
 23-05-2014,Chicago Cubs,San Diego Padres,66,11,from Left to Right,Cloudy
-24-05-2014,Chicago Cubs,San Diego Padres,66,8,from Left to Right.,Wind8mphfromLefttoRight
+24-05-2014,Chicago Cubs,San Diego Padres,66,8,from Left to Right.,
 25-05-2014,Chicago Cubs,San Diego Padres,70,11,from Left to Right,Sunny
 02-06-2014,Pittsburgh Pirates,San Diego Padres,69,12,from Left to Right,Cloudy
 03-06-2014,Pittsburgh Pirates,San Diego Padres,70,10,from Left to Right,Sunny
@@ -1772,8 +1772,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-06-2014,Los Angeles Dodgers,San Diego Padres,68,6,from Left to Right,Cloudy
 22-06-2014,Los Angeles Dodgers,San Diego Padres,69,9,from Left to Right,Sunny
 27-06-2014,Arizona Diamondbacks,San Diego Padres,68,6,from Left to Right,Cloudy
-28-06-2014,Arizona Diamondbacks,San Diego Padres,68,5,in unknown direction.,Wind5mphinunknowndirection
-29-06-2014,Arizona Diamondbacks,San Diego Padres,71,9,from Left to Right.,Wind9mphfromLefttoRight
+28-06-2014,Arizona Diamondbacks,San Diego Padres,68,5,in unknown direction.,
+29-06-2014,Arizona Diamondbacks,San Diego Padres,71,9,from Left to Right.,
 30-06-2014,Cincinnati Reds,San Diego Padres,70,6,from Left to Right,Sunny
 01-07-2014,Cincinnati Reds,San Diego Padres,71,8,from Left to Right,Cloudy
 02-07-2014,Cincinnati Reds,San Diego Padres,73,11,from Left to Right,Sunny
@@ -1781,14 +1781,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-07-2014,San Francisco Giants,San Diego Padres,80,5,from Left to Right,Sunny
 06-07-2014,San Francisco Giants,San Diego Padres,81,9,from Left to Right,Cloudy
 18-07-2014,New York Mets,San Diego Padres,73,12,from Left to Right,Cloudy
-19-07-2014,New York Mets,San Diego Padres,73,9,from Left to Right.,Wind9mphfromLefttoRight
+19-07-2014,New York Mets,San Diego Padres,73,9,from Left to Right.,
 20-07-2014,New York Mets,San Diego Padres,75,5,from Left to Right,Cloudy
 29-07-2014,St. Louis Cardinals,San Diego Padres,77,7,from Left to Right,Sunny
 30-07-2014,St. Louis Cardinals,San Diego Padres,76,8,out to Rightfield,Sunny
 31-07-2014,St. Louis Cardinals,San Diego Padres,78,9,from Left to Right,Cloudy
 01-08-2014,Atlanta Braves,San Diego Padres,75,8,from Left to Right,Sunny
 02-08-2014,Atlanta Braves,San Diego Padres,76,7,out to Rightfield,Drizzle
-03-08-2014,Atlanta Braves,San Diego Padres,74,8,from Left to Right.,Wind8mphfromLefttoRight
+03-08-2014,Atlanta Braves,San Diego Padres,74,8,from Left to Right.,
 11-08-2014,Colorado Rockies,San Diego Padres,75,9,out to Rightfield,Cloudy
 12-08-2014,Colorado Rockies,San Diego Padres,73,8,from Left to Right,Cloudy
 13-08-2014,Colorado Rockies,San Diego Padres,76,14,from Left to Right,Sunny
@@ -1817,20 +1817,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-04-2014,Oakland Athletics,Seattle Mariners,60,2,from Left to Right,Cloudy
 12-04-2014,Oakland Athletics,Seattle Mariners,59,3,from Left to Right,Sunny
 13-04-2014,Oakland Athletics,Seattle Mariners,62,6,out to Centerfield,Sunny
-21-04-2014,Houston Astros,Seattle Mariners,54,6,from Left to Right.,Wind6mphfromLefttoRight
-22-04-2014,Houston Astros,Seattle Mariners,51,4,out to Rightfield.,Wind4mphouttoRightfield
-23-04-2014,Houston Astros,Seattle Mariners,53,2,in from Leftfield.,Wind2mphinfromLeftfield
+21-04-2014,Houston Astros,Seattle Mariners,54,6,from Left to Right.,
+22-04-2014,Houston Astros,Seattle Mariners,51,4,out to Rightfield.,
+23-04-2014,Houston Astros,Seattle Mariners,53,2,in from Leftfield.,
 25-04-2014,Texas Rangers,Seattle Mariners,55,6,in from Leftfield,Cloudy
-26-04-2014,Texas Rangers,Seattle Mariners,56,3,out to Leftfield.,Wind3mphouttoLeftfield
-27-04-2014,Texas Rangers,Seattle Mariners,52,6,in from Rightfield.,Wind6mphinfromRightfield
+26-04-2014,Texas Rangers,Seattle Mariners,56,3,out to Leftfield.,
+27-04-2014,Texas Rangers,Seattle Mariners,52,6,in from Rightfield.,
 08-05-2014,Kansas City Royals,Seattle Mariners,57,0,NoWind,InDome
 09-05-2014,Kansas City Royals,Seattle Mariners,54,0,NoWind,Cloudy
-10-05-2014,Kansas City Royals,Seattle Mariners,58,1,from Left to Right.,Wind1mphfromLefttoRight
+10-05-2014,Kansas City Royals,Seattle Mariners,58,1,from Left to Right.,
 11-05-2014,Kansas City Royals,Seattle Mariners,60,6,out to Rightfield,Cloudy
 12-05-2014,Tampa Bay Rays,Seattle Mariners,76,2,out to Rightfield,Sunny
 13-05-2014,Tampa Bay Rays,Seattle Mariners,75,5,in from Centerfield,Sunny
 14-05-2014,Tampa Bay Rays,Seattle Mariners,74,3,from Left to Right,Sunny
-22-05-2014,Houston Astros,Seattle Mariners,71,1,in unknown direction.,Wind1mphinunknowndirection
+22-05-2014,Houston Astros,Seattle Mariners,71,1,in unknown direction.,
 23-05-2014,Houston Astros,Seattle Mariners,69,2,in from Rightfield,Cloudy
 24-05-2014,Houston Astros,Seattle Mariners,65,2,out to Rightfield,Cloudy
 25-05-2014,Houston Astros,Seattle Mariners,61,1,in unknown direction,InDome
@@ -1841,11 +1841,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-05-2014,Detroit Tigers,Seattle Mariners,67,2,in from Rightfield,Sunny
 31-05-2014,Detroit Tigers,Seattle Mariners,71,3,out to Rightfield,Sunny
 01-06-2014,Detroit Tigers,Seattle Mariners,63,3,in from Centerfield,Cloudy
-10-06-2014,New York Yankees,Seattle Mariners,66,2,in unknown direction.,Wind2mphinunknowndirection
+10-06-2014,New York Yankees,Seattle Mariners,66,2,in unknown direction.,
 11-06-2014,New York Yankees,Seattle Mariners,71,2,in from Leftfield,Cloudy
 12-06-2014,New York Yankees,Seattle Mariners,63,5,out to Centerfield,Cloudy
 13-06-2014,Texas Rangers,Seattle Mariners,60,3,from Left to Right,Overcast
-14-06-2014,Texas Rangers,Seattle Mariners,61,1,in unknown direction.,Wind1mphinunknowndirection
+14-06-2014,Texas Rangers,Seattle Mariners,61,1,in unknown direction.,
 15-06-2014,Texas Rangers,Seattle Mariners,60,3,out to Rightfield,InDome
 16-06-2014,San Diego Padres,Seattle Mariners,64,3,in from Leftfield,Cloudy
 17-06-2014,San Diego Padres,Seattle Mariners,60,1,from Left to Right,Cloudy
@@ -1854,7 +1854,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-06-2014,Boston Red Sox,Seattle Mariners,75,1,in unknown direction,Cloudy
 27-06-2014,Cleveland Indians,Seattle Mariners,66,1,in unknown direction,Cloudy
 28-06-2014,Cleveland Indians,Seattle Mariners,67,5,out to Centerfield,Cloudy
-29-06-2014,Cleveland Indians,Seattle Mariners,65,4,from Left to Right.,Wind4mphfromLefttoRight
+29-06-2014,Cleveland Indians,Seattle Mariners,65,4,from Left to Right.,
 07-07-2014,Minnesota Twins,Seattle Mariners,80,3,from Left to Right,Sunny
 08-07-2014,Minnesota Twins,Seattle Mariners,83,1,in from Centerfield,Sunny
 09-07-2014,Minnesota Twins,Seattle Mariners,75,1,in from Leftfield,Sunny
@@ -1863,9 +1863,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-07-2014,Oakland Athletics,Seattle Mariners,86,2,out to Rightfield,Sunny
 13-07-2014,Oakland Athletics,Seattle Mariners,74,3,out to Rightfield,Sunny
 21-07-2014,New York Mets,Seattle Mariners,73,4,in from Rightfield,Sunny
-22-07-2014,New York Mets,Seattle Mariners,65,4,out to Rightfield.,Wind4mphouttoRightfield
+22-07-2014,New York Mets,Seattle Mariners,65,4,out to Rightfield.,
 23-07-2014,New York Mets,Seattle Mariners,62,0,NoWind,InDome
-24-07-2014,Baltimore Orioles,Seattle Mariners,62,4,in unknown direction.,Wind4mphinunknowndirection
+24-07-2014,Baltimore Orioles,Seattle Mariners,62,4,in unknown direction.,
 25-07-2014,Baltimore Orioles,Seattle Mariners,71,2,in from Leftfield,Sunny
 26-07-2014,Baltimore Orioles,Seattle Mariners,67,3,in from Rightfield,Sunny
 27-07-2014,Baltimore Orioles,Seattle Mariners,72,3,from Left to Right,Sunny
@@ -1882,9 +1882,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-08-2014,Texas Rangers,Seattle Mariners,79,3,in from Rightfield,Sunny
 27-08-2014,Texas Rangers,Seattle Mariners,70,4,out to Rightfield,Sunny
 29-08-2014,Washington Nationals,Seattle Mariners,73,2,from Left to Right,Cloudy
-30-08-2014,Washington Nationals,Seattle Mariners,63,3,out to Rightfield.,Wind3mphouttoRightfield
+30-08-2014,Washington Nationals,Seattle Mariners,63,3,out to Rightfield.,
 31-08-2014,Washington Nationals,Seattle Mariners,67,1,out to Leftfield,Cloudy
-08-09-2014,Houston Astros,Seattle Mariners,64,2,in from Rightfield.,Wind2mphinfromRightfield
+08-09-2014,Houston Astros,Seattle Mariners,64,2,in from Rightfield.,
 09-09-2014,Houston Astros,Seattle Mariners,68,1,in unknown direction,Sunny
 10-09-2014,Houston Astros,Seattle Mariners,66,4,in from Leftfield,Sunny
 12-09-2014,Oakland Athletics,Seattle Mariners,70,2,from Right to Left,Sunny
@@ -1892,19 +1892,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-09-2014,Oakland Athletics,Seattle Mariners,71,4,out to Rightfield,Sunny
 26-09-2014,Los Angeles Angels of Anaheim,Seattle Mariners,64,3,out to Rightfield,InDome
 27-09-2014,Los Angeles Angels of Anaheim,Seattle Mariners,65,3,from Left to Right,Sunny
-28-09-2014,Los Angeles Angels of Anaheim,Seattle Mariners,59,5,out to Rightfield.,Wind5mphouttoRightfield
+28-09-2014,Los Angeles Angels of Anaheim,Seattle Mariners,59,5,out to Rightfield.,
 08-04-2014,Arizona Diamondbacks,San Francisco Giants,73,5,out to Centerfield,Cloudy
 09-04-2014,Arizona Diamondbacks,San Francisco Giants,59,6,out to Centerfield,Cloudy
 10-04-2014,Arizona Diamondbacks,San Francisco Giants,59,10,out to Rightfield,Cloudy
-11-04-2014,Colorado Rockies,San Francisco Giants,58,11,out to Centerfield.,Wind11mphouttoCenterfield
+11-04-2014,Colorado Rockies,San Francisco Giants,58,11,out to Centerfield.,
 12-04-2014,Colorado Rockies,San Francisco Giants,61,11,out to Centerfield,Cloudy
 13-04-2014,Colorado Rockies,San Francisco Giants,63,6,out to Rightfield,Sunny
 15-04-2014,Los Angeles Dodgers,San Francisco Giants,60,13,out to Centerfield,Cloudy
-16-04-2014,Los Angeles Dodgers,San Francisco Giants,64,12,out to Centerfield.,Wind12mphouttoCenterfield
+16-04-2014,Los Angeles Dodgers,San Francisco Giants,64,12,out to Centerfield.,
 17-04-2014,Los Angeles Dodgers,San Francisco Giants,63,11,out to Leftfield,Cloudy
-25-04-2014,Cleveland Indians,San Francisco Giants,52,17,out to Centerfield.,Wind17mphouttoCenterfield
-26-04-2014,Cleveland Indians,San Francisco Giants,57,17,out to Centerfield.,Wind17mphouttoCenterfield
-27-04-2014,Cleveland Indians,San Francisco Giants,57,10,out to Centerfield.,Wind10mphouttoCenterfield
+25-04-2014,Cleveland Indians,San Francisco Giants,52,17,out to Centerfield.,
+26-04-2014,Cleveland Indians,San Francisco Giants,57,17,out to Centerfield.,
+27-04-2014,Cleveland Indians,San Francisco Giants,57,10,out to Centerfield.,
 28-04-2014,San Diego Padres,San Francisco Giants,64,10,out to Rightfield,Sunny
 29-04-2014,San Diego Padres,San Francisco Giants,76,7,out to Centerfield,Cloudy
 30-04-2014,San Diego Padres,San Francisco Giants,80,8,out to Centerfield,Cloudy
@@ -1915,7 +1915,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-05-2014,Miami Marlins,San Francisco Giants,67,17,out to Rightfield,Cloudy
 17-05-2014,Miami Marlins,San Francisco Giants,62,15,out to Leftfield,Cloudy
 18-05-2014,Miami Marlins,San Francisco Giants,70,18,out to Centerfield,Cloudy
-23-05-2014,Minnesota Twins,San Francisco Giants,64,15,out to Centerfield.,Wind15mphouttoCenterfield
+23-05-2014,Minnesota Twins,San Francisco Giants,64,15,out to Centerfield.,
 24-05-2014,Minnesota Twins,San Francisco Giants,62,16,out to Centerfield,Sunny
 25-05-2014,Minnesota Twins,San Francisco Giants,67,10,out to Centerfield,Cloudy
 26-05-2014,Chicago Cubs,San Francisco Giants,66,16,out to Centerfield,Sunny
@@ -1925,7 +1925,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-06-2014,New York Mets,San Francisco Giants,62,8,out to Centerfield,Sunny
 08-06-2014,New York Mets,San Francisco Giants,74,8,out to Centerfield,Sunny
 09-06-2014,Washington Nationals,San Francisco Giants,64,12,out to Centerfield,Cloudy
-10-06-2014,Washington Nationals,San Francisco Giants,59,16,out to Centerfield.,Wind16mphouttoCenterfield
+10-06-2014,Washington Nationals,San Francisco Giants,59,16,out to Centerfield.,
 11-06-2014,Washington Nationals,San Francisco Giants,60,15,out to Centerfield,Cloudy
 12-06-2014,Washington Nationals,San Francisco Giants,64,17,out to Centerfield,Cloudy
 13-06-2014,Colorado Rockies,San Francisco Giants,64,15,out to Centerfield,Sunny
@@ -1939,7 +1939,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-06-2014,Cincinnati Reds,San Francisco Giants,65,13,out to Centerfield,Sunny
 29-06-2014,Cincinnati Reds,San Francisco Giants,73,8,out to Centerfield,Sunny
 01-07-2014,St. Louis Cardinals,San Francisco Giants,60,10,out to Centerfield,Cloudy
-02-07-2014,St. Louis Cardinals,San Francisco Giants,59,22,out to Centerfield.,Wind22mphouttoCenterfield
+02-07-2014,St. Louis Cardinals,San Francisco Giants,59,22,out to Centerfield.,
 03-07-2014,St. Louis Cardinals,San Francisco Giants,65,12,from Right to Left,Sunny
 09-07-2014,Oakland Athletics,San Francisco Giants,64,17,out to Centerfield,Cloudy
 10-07-2014,Oakland Athletics,San Francisco Giants,67,3,out to Centerfield,Cloudy
@@ -1949,10 +1949,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-07-2014,Los Angeles Dodgers,San Francisco Giants,76,18,out to Centerfield,Sunny
 26-07-2014,Los Angeles Dodgers,San Francisco Giants,73,13,out to Centerfield,Cloudy
 27-07-2014,Los Angeles Dodgers,San Francisco Giants,69,14,out to Centerfield,Cloudy
-28-07-2014,Pittsburgh Pirates,San Francisco Giants,68,18,out to Leftfield.,Wind18mphouttoLeftfield
+28-07-2014,Pittsburgh Pirates,San Francisco Giants,68,18,out to Leftfield.,
 29-07-2014,Pittsburgh Pirates,San Francisco Giants,62,12,out to Centerfield,Cloudy
 30-07-2014,Pittsburgh Pirates,San Francisco Giants,68,9,out to Centerfield,Cloudy
-12-08-2014,Chicago White Sox,San Francisco Giants,63,12,out to Centerfield.,Wind12mphouttoCenterfield
+12-08-2014,Chicago White Sox,San Francisco Giants,63,12,out to Centerfield.,
 13-08-2014,Chicago White Sox,San Francisco Giants,67,10,out to Centerfield,Cloudy
 15-08-2014,Philadelphia Phillies,San Francisco Giants,60,12,out to Centerfield,Sunny
 16-08-2014,Philadelphia Phillies,San Francisco Giants,68,7,out to Centerfield,Cloudy
@@ -1961,7 +1961,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-08-2014,Colorado Rockies,San Francisco Giants,65,9,out to Rightfield,Sunny
 27-08-2014,Colorado Rockies,San Francisco Giants,64,10,out to Centerfield,Sunny
 28-08-2014,Colorado Rockies,San Francisco Giants,68,8,out to Centerfield,Sunny
-29-08-2014,Milwaukee Brewers,San Francisco Giants,65,12,out to Centerfield.,Wind12mphouttoCenterfield
+29-08-2014,Milwaukee Brewers,San Francisco Giants,65,12,out to Centerfield.,
 30-08-2014,Milwaukee Brewers,San Francisco Giants,69,16,out to Centerfield,Cloudy
 31-08-2014,Milwaukee Brewers,San Francisco Giants,70,11,out to Centerfield,Sunny
 09-09-2014,Arizona Diamondbacks,San Francisco Giants,63,8,out to Centerfield,Sunny
@@ -1971,19 +1971,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-09-2014,Los Angeles Dodgers,San Francisco Giants,65,14,out to Centerfield,Cloudy
 14-09-2014,Los Angeles Dodgers,San Francisco Giants,71,13,out to Rightfield,Cloudy
 25-09-2014,San Diego Padres,San Francisco Giants,68,12,out to Centerfield,Cloudy
-26-09-2014,San Diego Padres,San Francisco Giants,67,15,out to Centerfield.,Wind15mphouttoCenterfield
+26-09-2014,San Diego Padres,San Francisco Giants,67,15,out to Centerfield.,
 27-09-2014,San Diego Padres,San Francisco Giants,69,9,out to Centerfield,Cloudy
-28-09-2014,San Diego Padres,San Francisco Giants,68,4,out to Centerfield.,Wind4mphouttoCenterfield
+28-09-2014,San Diego Padres,San Francisco Giants,68,4,out to Centerfield.,
 07-04-2014,Cincinnati Reds,St. Louis Cardinals,47,18,from Left to Right,Rain
 08-04-2014,Cincinnati Reds,St. Louis Cardinals,60,12,from Left to Right,Sunny
 09-04-2014,Cincinnati Reds,St. Louis Cardinals,60,9,out to Rightfield,Sunny
 11-04-2014,Chicago Cubs,St. Louis Cardinals,72,7,from Right to Left,Sunny
 12-04-2014,Chicago Cubs,St. Louis Cardinals,76,13,out to Leftfield,Cloudy
-13-04-2014,Chicago Cubs,St. Louis Cardinals,72,14,out to Leftfield.,Wind14mphouttoLeftfield
+13-04-2014,Chicago Cubs,St. Louis Cardinals,72,14,out to Leftfield.,
 25-04-2014,Pittsburgh Pirates,St. Louis Cardinals,75,7,from Left to Right,Sunny
-26-04-2014,Pittsburgh Pirates,St. Louis Cardinals,76,10,from Right to Left.,Wind10mphfromRighttoLeft
+26-04-2014,Pittsburgh Pirates,St. Louis Cardinals,76,10,from Right to Left.,
 27-04-2014,Pittsburgh Pirates,St. Louis Cardinals,76,20,from Right to Left,Overcast
-28-04-2014,Milwaukee Brewers,St. Louis Cardinals,74,21,in unknown direction.,Wind21mphinunknowndirection
+28-04-2014,Milwaukee Brewers,St. Louis Cardinals,74,21,in unknown direction.,
 29-04-2014,Milwaukee Brewers,St. Louis Cardinals,59,14,from Left to Right,Overcast
 30-04-2014,Milwaukee Brewers,St. Louis Cardinals,48,13,out to Rightfield,Overcast
 12-05-2014,Chicago Cubs,St. Louis Cardinals,81,14,out to Leftfield,Cloudy
@@ -1999,19 +1999,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-05-2014,New York Yankees,St. Louis Cardinals,82,7,from Right to Left,Cloudy
 28-05-2014,New York Yankees,St. Louis Cardinals,86,6,out to Leftfield,Cloudy
 29-05-2014,San Francisco Giants,St. Louis Cardinals,86,8,from Right to Left,Cloudy
-30-05-2014,San Francisco Giants,St. Louis Cardinals,73,3,in unknown direction.,Wind3mphinunknowndirection
+30-05-2014,San Francisco Giants,St. Louis Cardinals,73,3,in unknown direction.,
 31-05-2014,San Francisco Giants,St. Louis Cardinals,86,7,from Right to Left,Cloudy
 01-06-2014,San Francisco Giants,St. Louis Cardinals,85,8,out to Leftfield,Cloudy
 02-06-2014,Kansas City Royals,St. Louis Cardinals,85,10,out to Centerfield,Cloudy
 03-06-2014,Kansas City Royals,St. Louis Cardinals,90,4,out to Leftfield,Cloudy
 13-06-2014,Washington Nationals,St. Louis Cardinals,76,4,from Right to Left,Sunny
 14-06-2014,Washington Nationals,St. Louis Cardinals,83,13,from Right to Left,Sunny
-15-06-2014,Washington Nationals,St. Louis Cardinals,80,11,from Right to Left.,Wind11mphfromRighttoLeft
+15-06-2014,Washington Nationals,St. Louis Cardinals,80,11,from Right to Left.,
 16-06-2014,New York Mets,St. Louis Cardinals,91,10,out to Leftfield,Sunny
 17-06-2014,New York Mets,St. Louis Cardinals,88,14,from Right to Left,Sunny
 18-06-2014,New York Mets,St. Louis Cardinals,90,9,out to Centerfield,Cloudy
 19-06-2014,Philadelphia Phillies,St. Louis Cardinals,91,11,out to Leftfield,Cloudy
-20-06-2014,Philadelphia Phillies,St. Louis Cardinals,83,4,out to Leftfield.,Wind4mphouttoLeftfield
+20-06-2014,Philadelphia Phillies,St. Louis Cardinals,83,4,out to Leftfield.,
 21-06-2014,Philadelphia Phillies,St. Louis Cardinals,92,5,from Right to Left,Cloudy
 22-06-2014,Philadelphia Phillies,St. Louis Cardinals,84,4,from Right to Left,Cloudy
 04-07-2014,Miami Marlins,St. Louis Cardinals,81,3,in from Centerfield,Cloudy
@@ -2031,10 +2031,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-08-2014,Milwaukee Brewers,St. Louis Cardinals,87,6,from Right to Left,Sunny
 05-08-2014,Boston Red Sox,St. Louis Cardinals,87,12,from Left to Right,Sunny
 06-08-2014,Boston Red Sox,St. Louis Cardinals,73,7,from Right to Left,Drizzle
-07-08-2014,Boston Red Sox,St. Louis Cardinals,73,8,from Right to Left.,Wind8mphfromRighttoLeft
+07-08-2014,Boston Red Sox,St. Louis Cardinals,73,8,from Right to Left.,
 14-08-2014,San Diego Padres,St. Louis Cardinals,83,3,from Right to Left,Cloudy
 15-08-2014,San Diego Padres,St. Louis Cardinals,84,7,from Right to Left,Overcast
-16-08-2014,San Diego Padres,St. Louis Cardinals,80,4,out to Leftfield.,Wind4mphouttoLeftfield
+16-08-2014,San Diego Padres,St. Louis Cardinals,80,4,out to Leftfield.,
 17-08-2014,San Diego Padres,St. Louis Cardinals,75,11,from Left to Right,Overcast
 18-08-2014,Cincinnati Reds,St. Louis Cardinals,86,5,in unknown direction,Cloudy
 19-08-2014,Cincinnati Reds,St. Louis Cardinals,93,7,out to Rightfield,Sunny
@@ -2135,8 +2135,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-09-2014,Chicago White Sox,Tampa Bay Rays,72,0,NoWind,InDome
 21-09-2014,Chicago White Sox,Tampa Bay Rays,72,0,NoWind,InDome
 31-03-2014,Philadelphia Phillies,Texas Rangers,74,18,from Right to Left,Cloudy
-01-04-2014,Philadelphia Phillies,Texas Rangers,79,14,from Right to Left.,Wind14mphfromRighttoLeft
-02-04-2014,Philadelphia Phillies,Texas Rangers,78,17,out to Leftfield.,Wind17mphouttoLeftfield
+01-04-2014,Philadelphia Phillies,Texas Rangers,79,14,from Right to Left.,
+02-04-2014,Philadelphia Phillies,Texas Rangers,78,17,out to Leftfield.,
 11-04-2014,Houston Astros,Texas Rangers,80,15,from Right to Left,Sunny
 12-04-2014,Houston Astros,Texas Rangers,83,20,in from Rightfield,Cloudy
 13-04-2014,Houston Astros,Texas Rangers,69,9,out to Leftfield,Drizzle
@@ -2151,7 +2151,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-04-2014,Oakland Athletics,Texas Rangers,70,17,out to Centerfield,Cloudy
 30-04-2014,Oakland Athletics,Texas Rangers,66,10,out to Rightfield,Sunny
 07-05-2014,Colorado Rockies,Texas Rangers,83,14,out to Leftfield,Cloudy
-08-05-2014,Colorado Rockies,Texas Rangers,66,8,from Right to Left.,Wind8mphfromRighttoLeft
+08-05-2014,Colorado Rockies,Texas Rangers,66,8,from Right to Left.,
 09-05-2014,Boston Red Sox,Texas Rangers,85,7,from Right to Left,Cloudy
 10-05-2014,Boston Red Sox,Texas Rangers,85,18,in from Centerfield,Cloudy
 11-05-2014,Boston Red Sox,Texas Rangers,82,18,from Right to Left,Cloudy
@@ -2166,11 +2166,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-06-2014,Cleveland Indians,Texas Rangers,90,7,out to Leftfield,Sunny
 07-06-2014,Cleveland Indians,Texas Rangers,91,5,from Right to Left,Cloudy
 08-06-2014,Cleveland Indians,Texas Rangers,81,9,out to Centerfield,Cloudy
-09-06-2014,Cleveland Indians,Texas Rangers,80,3,out to Leftfield.,Wind3mphouttoLeftfield
+09-06-2014,Cleveland Indians,Texas Rangers,80,3,out to Leftfield.,
 10-06-2014,Miami Marlins,Texas Rangers,83,9,from Right to Left,Cloudy
 11-06-2014,Miami Marlins,Texas Rangers,91,13,in from Centerfield,Sunny
-24-06-2014,Detroit Tigers,Texas Rangers,74,10,from Left to Right.,Wind10mphfromLefttoRight
-25-06-2014,Detroit Tigers,Texas Rangers,79,8,from Right to Left.,Wind8mphfromRighttoLeft
+24-06-2014,Detroit Tigers,Texas Rangers,74,10,from Left to Right.,
+25-06-2014,Detroit Tigers,Texas Rangers,79,8,from Right to Left.,
 26-06-2014,Detroit Tigers,Texas Rangers,88,11,in from Centerfield,Cloudy
 27-06-2014,Minnesota Twins,Texas Rangers,89,7,out to Leftfield,Cloudy
 28-06-2014,Minnesota Twins,Texas Rangers,90,18,from Right to Left,Cloudy
@@ -2185,7 +2185,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-07-2014,Oakland Athletics,Texas Rangers,98,9,from Right to Left,Sunny
 26-07-2014,Oakland Athletics,Texas Rangers,98,4,from Right to Left,Sunny
 27-07-2014,Oakland Athletics,Texas Rangers,100,3,in from Centerfield,Sunny
-28-07-2014,New York Yankees,Texas Rangers,91,12,from Left to Right.,Wind12mphfromLefttoRight
+28-07-2014,New York Yankees,Texas Rangers,91,12,from Left to Right.,
 29-07-2014,New York Yankees,Texas Rangers,81,3,in from Centerfield,Cloudy
 30-07-2014,New York Yankees,Texas Rangers,90,12,in from Leftfield,Cloudy
 11-08-2014,Tampa Bay Rays,Texas Rangers,92,11,from Left to Right,Sunny
@@ -2193,19 +2193,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-08-2014,Tampa Bay Rays,Texas Rangers,91,2,out to Leftfield,Sunny
 14-08-2014,Tampa Bay Rays,Texas Rangers,92,12,from Left to Right,Sunny
 15-08-2014,Los Angeles Angels of Anaheim,Texas Rangers,98,4,from Right to Left,Sunny
-16-08-2014,Los Angeles Angels of Anaheim,Texas Rangers,81,7,in from Leftfield.,Wind7mphinfromLeftfield
+16-08-2014,Los Angeles Angels of Anaheim,Texas Rangers,81,7,in from Leftfield.,
 17-08-2014,Los Angeles Angels of Anaheim,Texas Rangers,71,6,from Right to Left,Overcast
 22-08-2014,Kansas City Royals,Texas Rangers,98,4,from Right to Left,Sunny
 23-08-2014,Kansas City Royals,Texas Rangers,96,12,from Right to Left,Sunny
 24-08-2014,Kansas City Royals,Texas Rangers,95,6,from Right to Left,Sunny
 04-09-2014,Seattle Mariners,Texas Rangers,96,16,from Right to Left,Sunny
 05-09-2014,Seattle Mariners,Texas Rangers,95,9,from Right to Left,Cloudy
-06-09-2014,Seattle Mariners,Texas Rangers,75,8,from Left to Right.,Wind8mphfromLefttoRight
-07-09-2014,Seattle Mariners,Texas Rangers,84,1,from Right to Left.,Wind1mphfromRighttoLeft
+06-09-2014,Seattle Mariners,Texas Rangers,75,8,from Left to Right.,
+07-09-2014,Seattle Mariners,Texas Rangers,84,1,from Right to Left.,
 09-09-2014,Los Angeles Angels of Anaheim,Texas Rangers,96,10,from Left to Right,Sunny
 10-09-2014,Los Angeles Angels of Anaheim,Texas Rangers,98,10,from Right to Left,Sunny
 11-09-2014,Los Angeles Angels of Anaheim,Texas Rangers,79,4,from Left to Right,Sunny
-12-09-2014,Atlanta Braves,Texas Rangers,65,19,from Left to Right.,Wind19mphfromLefttoRight
+12-09-2014,Atlanta Braves,Texas Rangers,65,19,from Left to Right.,
 13-09-2014,Atlanta Braves,Texas Rangers,59,2,from Left to Right,Overcast
 14-09-2014,Atlanta Braves,Texas Rangers,76,1,from Left to Right,Overcast
 22-09-2014,Houston Astros,Texas Rangers,84,9,from Left to Right,Sunny
@@ -2239,17 +2239,17 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-05-2014,Oakland Athletics,Toronto Blue Jays,68,0,NoWind,InDome
 24-05-2014,Oakland Athletics,Toronto Blue Jays,61,5,from Left to Right,Sunny
 25-05-2014,Oakland Athletics,Toronto Blue Jays,68,9,from Right to Left,Sunny
-26-05-2014,Tampa Bay Rays,Toronto Blue Jays,81,19,from Left to Right.,Wind19mphfromLefttoRight
+26-05-2014,Tampa Bay Rays,Toronto Blue Jays,81,19,from Left to Right.,
 27-05-2014,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
 28-05-2014,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
 29-05-2014,Kansas City Royals,Toronto Blue Jays,68,0,NoWind,InDome
-30-05-2014,Kansas City Royals,Toronto Blue Jays,66,5,out to Rightfield.,Wind5mphouttoRightfield
+30-05-2014,Kansas City Royals,Toronto Blue Jays,66,5,out to Rightfield.,
 31-05-2014,Kansas City Royals,Toronto Blue Jays,67,6,from Right to Left,Sunny
 01-06-2014,Kansas City Royals,Toronto Blue Jays,60,11,from Right to Left,Cloudy
-06-06-2014,St. Louis Cardinals,Toronto Blue Jays,67,2,out to Rightfield.,Wind2mphouttoRightfield
+06-06-2014,St. Louis Cardinals,Toronto Blue Jays,67,2,out to Rightfield.,
 07-06-2014,St. Louis Cardinals,Toronto Blue Jays,68,9,out to Centerfield,Sunny
 08-06-2014,St. Louis Cardinals,Toronto Blue Jays,60,15,in from Rightfield,Overcast
-09-06-2014,Minnesota Twins,Toronto Blue Jays,68,5,out to Rightfield.,Wind5mphouttoRightfield
+09-06-2014,Minnesota Twins,Toronto Blue Jays,68,5,out to Rightfield.,
 10-06-2014,Minnesota Twins,Toronto Blue Jays,68,7,from Right to Left,Cloudy
 11-06-2014,Minnesota Twins,Toronto Blue Jays,68,0,NoWind,InDome
 23-06-2014,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
@@ -2259,18 +2259,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-06-2014,Chicago White Sox,Toronto Blue Jays,74,10,in from Rightfield,Sunny
 28-06-2014,Chicago White Sox,Toronto Blue Jays,71,11,from Right to Left,Sunny
 29-06-2014,Chicago White Sox,Toronto Blue Jays,81,9,out to Leftfield,Sunny
-01-07-2014,Milwaukee Brewers,Toronto Blue Jays,81,15,from Left to Right.,Wind15mphfromLefttoRight
-02-07-2014,Milwaukee Brewers,Toronto Blue Jays,77,11,out to Centerfield.,Wind11mphouttoCenterfield
+01-07-2014,Milwaukee Brewers,Toronto Blue Jays,81,15,from Left to Right.,
+02-07-2014,Milwaukee Brewers,Toronto Blue Jays,77,11,out to Centerfield.,
 18-07-2014,Texas Rangers,Toronto Blue Jays,71,5,in from Rightfield,Sunny
 19-07-2014,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
-20-07-2014,Texas Rangers,Toronto Blue Jays,73,6,out to Centerfield.,Wind6mphouttoCenterfield
+20-07-2014,Texas Rangers,Toronto Blue Jays,73,6,out to Centerfield.,
 21-07-2014,Boston Red Sox,Toronto Blue Jays,72,5,in from Rightfield,Sunny
 22-07-2014,Boston Red Sox,Toronto Blue Jays,79,10,out to Leftfield,Sunny
 23-07-2014,Boston Red Sox,Toronto Blue Jays,70,5,in from Centerfield,Overcast
-24-07-2014,Boston Red Sox,Toronto Blue Jays,68,8,out to Centerfield.,Wind8mphouttoCenterfield
+24-07-2014,Boston Red Sox,Toronto Blue Jays,68,8,out to Centerfield.,
 05-08-2014,Baltimore Orioles,Toronto Blue Jays,69,5,out to Centerfield,Cloudy
 06-08-2014,Baltimore Orioles,Toronto Blue Jays,69,5,from Left to Right,Cloudy
-07-08-2014,Baltimore Orioles,Toronto Blue Jays,75,7,in from Leftfield.,Wind7mphinfromLeftfield
+07-08-2014,Baltimore Orioles,Toronto Blue Jays,75,7,in from Leftfield.,
 08-08-2014,Detroit Tigers,Toronto Blue Jays,70,3,from Left to Right,Sunny
 09-08-2014,Detroit Tigers,Toronto Blue Jays,74,7,out to Leftfield,Sunny
 10-08-2014,Detroit Tigers,Toronto Blue Jays,74,9,from Right to Left,Sunny
@@ -2280,9 +2280,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-08-2014,Boston Red Sox,Toronto Blue Jays,72,9,from Right to Left,Sunny
 26-08-2014,Boston Red Sox,Toronto Blue Jays,77,15,out to Centerfield,Cloudy
 27-08-2014,Boston Red Sox,Toronto Blue Jays,75,9,from Left to Right,Cloudy
-29-08-2014,New York Yankees,Toronto Blue Jays,66,10,from Right to Left.,Wind10mphfromRighttoLeft
+29-08-2014,New York Yankees,Toronto Blue Jays,66,10,from Right to Left.,
 30-08-2014,New York Yankees,Toronto Blue Jays,73,10,from Right to Left,Cloudy
-31-08-2014,New York Yankees,Toronto Blue Jays,77,9,out to Rightfield.,Wind9mphouttoRightfield
+31-08-2014,New York Yankees,Toronto Blue Jays,77,9,out to Rightfield.,
 08-09-2014,Chicago Cubs,Toronto Blue Jays,69,17,in from Rightfield,Sunny
 09-09-2014,Chicago Cubs,Toronto Blue Jays,70,17,from Right to Left,Overcast
 10-09-2014,Chicago Cubs,Toronto Blue Jays,68,0,NoWind,InDome
@@ -2297,27 +2297,27 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-09-2014,Baltimore Orioles,Toronto Blue Jays,67,5,out to Rightfield,Sunny
 28-09-2014,Baltimore Orioles,Toronto Blue Jays,70,6,out to Rightfield,Sunny
 04-04-2014,Atlanta Braves,Washington Nationals,55,5,from Right to Left,Overcast
-05-04-2014,Atlanta Braves,Washington Nationals,51,11,in from Leftfield.,Wind11mphinfromLeftfield
+05-04-2014,Atlanta Braves,Washington Nationals,51,11,in from Leftfield.,
 06-04-2014,Atlanta Braves,Washington Nationals,50,7,out to Leftfield,Sunny
 08-04-2014,Miami Marlins,Washington Nationals,58,6,from Left to Right,Cloudy
 09-04-2014,Miami Marlins,Washington Nationals,61,4,out to Leftfield,Cloudy
 10-04-2014,Miami Marlins,Washington Nationals,67,6,out to Leftfield,Sunny
 17-04-2014,St. Louis Cardinals,Washington Nationals,49,12,from Right to Left,Sunny
-18-04-2014,St. Louis Cardinals,Washington Nationals,50,2,from Right to Left.,Wind2mphfromRighttoLeft
+18-04-2014,St. Louis Cardinals,Washington Nationals,50,2,from Right to Left.,
 19-04-2014,St. Louis Cardinals,Washington Nationals,64,6,in from Leftfield,Cloudy
 20-04-2014,St. Louis Cardinals,Washington Nationals,58,11,in from Rightfield,Cloudy
 21-04-2014,Los Angeles Angels of Anaheim,Washington Nationals,67,3,out to Centerfield,Sunny
-22-04-2014,Los Angeles Angels of Anaheim,Washington Nationals,68,4,out to Centerfield.,Wind4mphouttoCenterfield
+22-04-2014,Los Angeles Angels of Anaheim,Washington Nationals,68,4,out to Centerfield.,
 23-04-2014,Los Angeles Angels of Anaheim,Washington Nationals,54,12,in from Leftfield,Sunny
 24-04-2014,San Diego Padres,Washington Nationals,62,8,in from Leftfield,Cloudy
 25-04-2014,San Diego Padres,Washington Nationals,53,6,from Right to Left,Rain
 26-04-2014,San Diego Padres,Washington Nationals,66,12,in from Leftfield,Sunny
 27-04-2014,San Diego Padres,Washington Nationals,60,7,in from Leftfield,Sunny
-05-05-2014,Los Angeles Dodgers,Washington Nationals,63,5,in from Centerfield.,Wind5mphinfromCenterfield
+05-05-2014,Los Angeles Dodgers,Washington Nationals,63,5,in from Centerfield.,
 06-05-2014,Los Angeles Dodgers,Washington Nationals,73,7,in from Leftfield,Sunny
 07-05-2014,Los Angeles Dodgers,Washington Nationals,57,5,in from Leftfield,Overcast
 16-05-2014,New York Mets,Washington Nationals,67,6,in from Leftfield,Cloudy
-17-05-2014,New York Mets,Washington Nationals,64,6,out to Rightfield.,Wind6mphouttoRightfield
+17-05-2014,New York Mets,Washington Nationals,64,6,out to Rightfield.,
 18-05-2014,New York Mets,Washington Nationals,64,5,in from Leftfield,Sunny
 19-05-2014,Cincinnati Reds,Washington Nationals,73,9,out to Leftfield,Cloudy
 20-05-2014,Cincinnati Reds,Washington Nationals,73,13,in from Centerfield,Cloudy
@@ -2328,14 +2328,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 31-05-2014,Texas Rangers,Washington Nationals,73,6,out to Centerfield,Sunny
 01-06-2014,Texas Rangers,Washington Nationals,75,1,in from Rightfield,Sunny
 03-06-2014,Philadelphia Phillies,Washington Nationals,86,11,in from Centerfield,Sunny
-04-06-2014,Philadelphia Phillies,Washington Nationals,85,5,out to Centerfield.,Wind5mphouttoCenterfield
+04-06-2014,Philadelphia Phillies,Washington Nationals,85,5,out to Centerfield.,
 05-06-2014,Philadelphia Phillies,Washington Nationals,81,15,from Left to Right,Cloudy
 17-06-2014,Houston Astros,Washington Nationals,92,5,out to Centerfield,Sunny
 18-06-2014,Houston Astros,Washington Nationals,94,5,in from Rightfield,Cloudy
-19-06-2014,Atlanta Braves,Washington Nationals,73,11,in from Rightfield.,Wind11mphinfromRightfield
+19-06-2014,Atlanta Braves,Washington Nationals,73,11,in from Rightfield.,
 20-06-2014,Atlanta Braves,Washington Nationals,82,0,NoWind,Sunny
 21-06-2014,Atlanta Braves,Washington Nationals,71,5,in from Rightfield,Overcast
-22-06-2014,Atlanta Braves,Washington Nationals,78,0,NoWind,Wind0mph
+22-06-2014,Atlanta Braves,Washington Nationals,78,0,NoWind,
 30-06-2014,Colorado Rockies,Washington Nationals,86,8,in from Centerfield,Cloudy
 01-07-2014,Colorado Rockies,Washington Nationals,91,1,out to Rightfield,Cloudy
 02-07-2014,Colorado Rockies,Washington Nationals,88,6,out to Leftfield,Overcast
@@ -2344,11 +2344,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-07-2014,Chicago Cubs,Washington Nationals,85,13,from Right to Left,Cloudy
 07-07-2014,Baltimore Orioles,Washington Nationals,92,14,from Left to Right,Sunny
 18-07-2014,Milwaukee Brewers,Washington Nationals,80,4,out to Rightfield,Cloudy
-19-07-2014,Milwaukee Brewers,Washington Nationals,77,2,in from Rightfield.,Wind2mphinfromRightfield
+19-07-2014,Milwaukee Brewers,Washington Nationals,77,2,in from Rightfield.,
 20-07-2014,Milwaukee Brewers,Washington Nationals,80,0,NoWind,Overcast
 31-07-2014,Philadelphia Phillies,Washington Nationals,86,9,out to Centerfield,Cloudy
-01-08-2014,Philadelphia Phillies,Washington Nationals,79,15,from Left to Right.,Wind15mphfromLefttoRight
-02-08-2014,Philadelphia Phillies,Washington Nationals,80,7,out to Leftfield.,Wind7mphouttoLeftfield
+01-08-2014,Philadelphia Phillies,Washington Nationals,79,15,from Left to Right.,
+02-08-2014,Philadelphia Phillies,Washington Nationals,80,7,out to Leftfield.,
 03-08-2014,Philadelphia Phillies,Washington Nationals,82,7,in from Centerfield,Cloudy
 04-08-2014,Baltimore Orioles,Washington Nationals,87,5,in from Rightfield,Cloudy
 05-08-2014,New York Mets,Washington Nationals,85,2,from Left to Right,Cloudy
@@ -2359,15 +2359,15 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-08-2014,Pittsburgh Pirates,Washington Nationals,87,3,out to Rightfield,Cloudy
 18-08-2014,Arizona Diamondbacks,Washington Nationals,81,4,from Right to Left,Cloudy
 19-08-2014,Arizona Diamondbacks,Washington Nationals,80,4,from Right to Left,Cloudy
-20-08-2014,Arizona Diamondbacks,Washington Nationals,74,4,out to Rightfield.,Wind4mphouttoRightfield
+20-08-2014,Arizona Diamondbacks,Washington Nationals,74,4,out to Rightfield.,
 21-08-2014,Arizona Diamondbacks,Washington Nationals,87,3,out to Rightfield,Overcast
-22-08-2014,San Francisco Giants,Washington Nationals,82,7,in from Leftfield.,Wind7mphinfromLeftfield
+22-08-2014,San Francisco Giants,Washington Nationals,82,7,in from Leftfield.,
 23-08-2014,San Francisco Giants,Washington Nationals,73,5,from Left to Right,Rain
-24-08-2014,San Francisco Giants,Washington Nationals,77,4,in from Rightfield.,Wind4mphinfromRightfield
+24-08-2014,San Francisco Giants,Washington Nationals,77,4,in from Rightfield.,
 05-09-2014,Philadelphia Phillies,Washington Nationals,89,3,out to Leftfield,Cloudy
 06-09-2014,Philadelphia Phillies,Washington Nationals,93,1,out to Centerfield,Cloudy
 07-09-2014,Philadelphia Phillies,Washington Nationals,75,4,out to Centerfield,Sunny
-08-09-2014,Atlanta Braves,Washington Nationals,70,15,in from Rightfield.,Wind15mphinfromRightfield
+08-09-2014,Atlanta Braves,Washington Nationals,70,15,in from Rightfield.,
 09-09-2014,Atlanta Braves,Washington Nationals,74,9,in from Rightfield,Overcast
 10-09-2014,Atlanta Braves,Washington Nationals,78,5,out to Rightfield,Overcast
 23-09-2014,New York Mets,Washington Nationals,72,8,in from Rightfield,Cloudy

@@ -9,9 +9,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-04-2012,Baltimore Orioles,Los Angeles Angels of Anaheim,63,6,out to Centerfield,Sunny
 21-04-2012,Baltimore Orioles,Los Angeles Angels of Anaheim,64,13,out to Centerfield,Sunny
 22-04-2012,Baltimore Orioles,Los Angeles Angels of Anaheim,65,7,out to Centerfield,Overcast
-30-04-2012,Minnesota Twins,Los Angeles Angels of Anaheim,64,8,out to Centerfield.,Wind8mphouttoCenterfield
+30-04-2012,Minnesota Twins,Los Angeles Angels of Anaheim,64,8,out to Centerfield.,
 01-05-2012,Minnesota Twins,Los Angeles Angels of Anaheim,60,5,out to Centerfield,Overcast
-02-05-2012,Minnesota Twins,Los Angeles Angels of Anaheim,63,6,out to Centerfield.,Wind6mphouttoCenterfield
+02-05-2012,Minnesota Twins,Los Angeles Angels of Anaheim,63,6,out to Centerfield.,
 03-05-2012,Toronto Blue Jays,Los Angeles Angels of Anaheim,66,4,out to Centerfield,Cloudy
 04-05-2012,Toronto Blue Jays,Los Angeles Angels of Anaheim,67,5,out to Rightfield,Cloudy
 05-05-2012,Toronto Blue Jays,Los Angeles Angels of Anaheim,68,11,out to Rightfield,Sunny
@@ -29,7 +29,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-06-2012,Seattle Mariners,Los Angeles Angels of Anaheim,65,8,out to Centerfield,Overcast
 05-06-2012,Seattle Mariners,Los Angeles Angels of Anaheim,71,8,out to Leftfield,Sunny
 06-06-2012,Seattle Mariners,Los Angeles Angels of Anaheim,74,6,out to Rightfield,Sunny
-15-06-2012,Arizona Diamondbacks,Los Angeles Angels of Anaheim,65,8,out to Centerfield.,Wind8mphouttoCenterfield
+15-06-2012,Arizona Diamondbacks,Los Angeles Angels of Anaheim,65,8,out to Centerfield.,
 16-06-2012,Arizona Diamondbacks,Los Angeles Angels of Anaheim,69,9,out to Centerfield,Sunny
 17-06-2012,Arizona Diamondbacks,Los Angeles Angels of Anaheim,76,5,out to Centerfield,Sunny
 18-06-2012,San Francisco Giants,Los Angeles Angels of Anaheim,71,7,out to Rightfield,Sunny
@@ -52,7 +52,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-07-2012,Tampa Bay Rays,Los Angeles Angels of Anaheim,80,11,out to Centerfield,Sunny
 29-07-2012,Tampa Bay Rays,Los Angeles Angels of Anaheim,78,11,out to Centerfield,Sunny
 10-08-2012,Seattle Mariners,Los Angeles Angels of Anaheim,85,9,out to Rightfield,Cloudy
-11-08-2012,Seattle Mariners,Los Angeles Angels of Anaheim,84,11,out to Centerfield.,Wind11mphouttoCenterfield
+11-08-2012,Seattle Mariners,Los Angeles Angels of Anaheim,84,11,out to Centerfield.,
 12-08-2012,Seattle Mariners,Los Angeles Angels of Anaheim,91,10,out to Centerfield,Sunny
 13-08-2012,Cleveland Indians,Los Angeles Angels of Anaheim,82,6,out to Centerfield,Cloudy
 14-08-2012,Cleveland Indians,Los Angeles Angels of Anaheim,86,4,out to Rightfield,Sunny
@@ -75,7 +75,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-09-2012,Texas Rangers,Los Angeles Angels of Anaheim,78,6,out to Centerfield,Sunny
 20-09-2012,Texas Rangers,Los Angeles Angels of Anaheim,81,5,out to Rightfield,Sunny
 21-09-2012,Chicago White Sox,Los Angeles Angels of Anaheim,82,6,out to Centerfield,Cloudy
-22-09-2012,Chicago White Sox,Los Angeles Angels of Anaheim,86,4,out to Centerfield.,Wind4mphouttoCenterfield
+22-09-2012,Chicago White Sox,Los Angeles Angels of Anaheim,86,4,out to Centerfield.,
 23-09-2012,Chicago White Sox,Los Angeles Angels of Anaheim,94,6,out to Centerfield,Sunny
 25-09-2012,Seattle Mariners,Los Angeles Angels of Anaheim,69,4,from Right to Left,Sunny
 26-09-2012,Seattle Mariners,Los Angeles Angels of Anaheim,71,3,out to Rightfield,Sunny
@@ -161,31 +161,31 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-10-2012,Colorado Rockies,Arizona Diamondbacks,74,0,NoWind,InDome
 13-04-2012,Milwaukee Brewers,Atlanta Braves,69,2,from Right to Left,Cloudy
 14-04-2012,Milwaukee Brewers,Atlanta Braves,75,7,from Right to Left,Sunny
-15-04-2012,Milwaukee Brewers,Atlanta Braves,75,12,out to Centerfield.,Wind12mphouttoCenterfield
-16-04-2012,New York Mets,Atlanta Braves,71,7,in from Rightfield.,Wind7mphinfromRightfield
-17-04-2012,New York Mets,Atlanta Braves,68,12,from Left to Right.,Wind12mphfromLefttoRight
+15-04-2012,Milwaukee Brewers,Atlanta Braves,75,12,out to Centerfield.,
+16-04-2012,New York Mets,Atlanta Braves,71,7,in from Rightfield.,
+17-04-2012,New York Mets,Atlanta Braves,68,12,from Left to Right.,
 18-04-2012,New York Mets,Atlanta Braves,62,5,out to Rightfield,Rain
 27-04-2012,Pittsburgh Pirates,Atlanta Braves,75,11,out to Rightfield,Cloudy
 28-04-2012,Pittsburgh Pirates,Atlanta Braves,81,6,out to Centerfield,Sunny
 29-04-2012,Pittsburgh Pirates,Atlanta Braves,81,5,from Right to Left,Sunny
-30-04-2012,Pittsburgh Pirates,Atlanta Braves,84,5,from Left to Right.,Wind5mphfromLefttoRight
+30-04-2012,Pittsburgh Pirates,Atlanta Braves,84,5,from Left to Right.,
 01-05-2012,Philadelphia Phillies,Atlanta Braves,84,6,from Right to Left,Cloudy
 02-05-2012,Philadelphia Phillies,Atlanta Braves,87,7,from Right to Left,Cloudy
 03-05-2012,Philadelphia Phillies,Atlanta Braves,81,4,in from Centerfield,Cloudy
 14-05-2012,Cincinnati Reds,Atlanta Braves,79,11,out to Rightfield,Cloudy
-15-05-2012,Cincinnati Reds,Atlanta Braves,76,7,from Left to Right.,Wind7mphfromLefttoRight
+15-05-2012,Cincinnati Reds,Atlanta Braves,76,7,from Left to Right.,
 16-05-2012,Miami Marlins,Atlanta Braves,79,10,from Left to Right,Cloudy
 17-05-2012,Miami Marlins,Atlanta Braves,81,5,out to Centerfield,Cloudy
 25-05-2012,Washington Nationals,Atlanta Braves,88,5,from Left to Right,Cloudy
 26-05-2012,Washington Nationals,Atlanta Braves,90,3,from Right to Left,Cloudy
 27-05-2012,Washington Nationals,Atlanta Braves,85,14,out to Leftfield,Sunny
-28-05-2012,St. Louis Cardinals,Atlanta Braves,82,9,in from Centerfield.,Wind9mphinfromCenterfield
+28-05-2012,St. Louis Cardinals,Atlanta Braves,82,9,in from Centerfield.,
 29-05-2012,St. Louis Cardinals,Atlanta Braves,82,6,in from Rightfield,Cloudy
 30-05-2012,St. Louis Cardinals,Atlanta Braves,89,5,from Left to Right,Cloudy
 08-06-2012,Toronto Blue Jays,Atlanta Braves,84,8,from Right to Left,Cloudy
 09-06-2012,Toronto Blue Jays,Atlanta Braves,86,9,from Right to Left,Cloudy
-10-06-2012,Toronto Blue Jays,Atlanta Braves,71,5,from Right to Left.,Wind5mphfromRighttoLeft
-11-06-2012,New York Yankees,Atlanta Braves,79,8,from Left to Right.,Wind8mphfromLefttoRight
+10-06-2012,Toronto Blue Jays,Atlanta Braves,71,5,from Right to Left.,
+11-06-2012,New York Yankees,Atlanta Braves,79,8,from Left to Right.,
 12-06-2012,New York Yankees,Atlanta Braves,84,11,from Left to Right,Cloudy
 13-06-2012,New York Yankees,Atlanta Braves,83,4,from Right to Left,Cloudy
 15-06-2012,Baltimore Orioles,Atlanta Braves,82,9,from Right to Left,Cloudy
@@ -198,12 +198,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-06-2012,Washington Nationals,Atlanta Braves,104,5,from Left to Right,Sunny
 01-07-2012,Washington Nationals,Atlanta Braves,101,4,from Left to Right,Cloudy
 02-07-2012,Chicago Cubs,Atlanta Braves,91,6,from Left to Right,Cloudy
-03-07-2012,Chicago Cubs,Atlanta Braves,72,4,in from Leftfield.,Wind4mphinfromLeftfield
+03-07-2012,Chicago Cubs,Atlanta Braves,72,4,in from Leftfield.,
 04-07-2012,Chicago Cubs,Atlanta Braves,82,7,from Left to Right,Cloudy
 05-07-2012,Chicago Cubs,Atlanta Braves,96,10,in from Leftfield,Cloudy
-13-07-2012,New York Mets,Atlanta Braves,73,6,from Left to Right.,Wind6mphfromLefttoRight
+13-07-2012,New York Mets,Atlanta Braves,73,6,from Left to Right.,
 14-07-2012,New York Mets,Atlanta Braves,89,9,from Right to Left,Cloudy
-15-07-2012,New York Mets,Atlanta Braves,87,5,from Right to Left.,Wind5mphfromRighttoLeft
+15-07-2012,New York Mets,Atlanta Braves,87,5,from Right to Left.,
 17-07-2012,San Francisco Giants,Atlanta Braves,77,5,out to Centerfield,Cloudy
 18-07-2012,San Francisco Giants,Atlanta Braves,76,4,from Left to Right,Overcast
 19-07-2012,San Francisco Giants,Atlanta Braves,84,2,from Left to Right,Cloudy
@@ -211,67 +211,67 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-07-2012,Philadelphia Phillies,Atlanta Braves,94,8,in from Leftfield,Sunny
 29-07-2012,Philadelphia Phillies,Atlanta Braves,90,10,from Left to Right,Sunny
 30-07-2012,Miami Marlins,Atlanta Braves,94,8,from Left to Right,Sunny
-31-07-2012,Miami Marlins,Atlanta Braves,86,7,from Left to Right.,Wind7mphfromLefttoRight
-01-08-2012,Miami Marlins,Atlanta Braves,89,8,from Left to Right.,Wind8mphfromLefttoRight
-02-08-2012,Miami Marlins,Atlanta Braves,87,11,in from Centerfield.,Wind11mphinfromCenterfield
+31-07-2012,Miami Marlins,Atlanta Braves,86,7,from Left to Right.,
+01-08-2012,Miami Marlins,Atlanta Braves,89,8,from Left to Right.,
+02-08-2012,Miami Marlins,Atlanta Braves,87,11,in from Centerfield.,
 03-08-2012,Houston Astros,Atlanta Braves,87,12,from Right to Left,Overcast
-04-08-2012,Houston Astros,Atlanta Braves,84,7,from Right to Left.,Wind7mphfromRighttoLeft
+04-08-2012,Houston Astros,Atlanta Braves,84,7,from Right to Left.,
 05-08-2012,Houston Astros,Atlanta Braves,89,7,out to Centerfield,Cloudy
-13-08-2012,San Diego Padres,Atlanta Braves,71,6,in from Centerfield.,Wind6mphinfromCenterfield
+13-08-2012,San Diego Padres,Atlanta Braves,71,6,in from Centerfield.,
 14-08-2012,San Diego Padres,Atlanta Braves,84,8,from Left to Right,Cloudy
-15-08-2012,San Diego Padres,Atlanta Braves,84,7,from Left to Right.,Wind7mphfromLefttoRight
+15-08-2012,San Diego Padres,Atlanta Braves,84,7,from Left to Right.,
 16-08-2012,San Diego Padres,Atlanta Braves,87,5,from Left to Right,Sunny
 17-08-2012,Los Angeles Dodgers,Atlanta Braves,82,7,from Left to Right,Cloudy
-18-08-2012,Los Angeles Dodgers,Atlanta Braves,79,6,from Left to Right.,Wind6mphfromLefttoRight
+18-08-2012,Los Angeles Dodgers,Atlanta Braves,79,6,from Left to Right.,
 19-08-2012,Los Angeles Dodgers,Atlanta Braves,77,8,from Left to Right,Cloudy
 31-08-2012,Philadelphia Phillies,Atlanta Braves,83,6,out to Centerfield,Cloudy
-01-09-2012,Philadelphia Phillies,Atlanta Braves,90,6,from Left to Right.,Wind6mphfromLefttoRight
-02-09-2012,Philadelphia Phillies,Atlanta Braves,83,8,from Left to Right.,Wind8mphfromLefttoRight
-03-09-2012,Colorado Rockies,Atlanta Braves,83,9,from Left to Right.,Wind9mphfromLefttoRight
-04-09-2012,Colorado Rockies,Atlanta Braves,74,5,out to Centerfield.,Wind5mphouttoCenterfield
+01-09-2012,Philadelphia Phillies,Atlanta Braves,90,6,from Left to Right.,
+02-09-2012,Philadelphia Phillies,Atlanta Braves,83,8,from Left to Right.,
+03-09-2012,Colorado Rockies,Atlanta Braves,83,9,from Left to Right.,
+04-09-2012,Colorado Rockies,Atlanta Braves,74,5,out to Centerfield.,
 05-09-2012,Colorado Rockies,Atlanta Braves,81,6,in from Leftfield,Cloudy
-06-09-2012,Colorado Rockies,Atlanta Braves,77,5,from Left to Right.,Wind5mphfromLefttoRight
+06-09-2012,Colorado Rockies,Atlanta Braves,77,5,from Left to Right.,
 14-09-2012,Washington Nationals,Atlanta Braves,79,7,from Left to Right,Cloudy
-15-09-2012,Washington Nationals,Atlanta Braves,84,5,from Left to Right.,Wind5mphfromLefttoRight
-16-09-2012,Washington Nationals,Atlanta Braves,79,3,from Right to Left.,Wind3mphfromRighttoLeft
+15-09-2012,Washington Nationals,Atlanta Braves,84,5,from Left to Right.,
+16-09-2012,Washington Nationals,Atlanta Braves,79,3,from Right to Left.,
 25-09-2012,Miami Marlins,Atlanta Braves,79,6,out to Leftfield,Cloudy
 26-09-2012,Miami Marlins,Atlanta Braves,82,5,from Left to Right,Cloudy
 27-09-2012,Miami Marlins,Atlanta Braves,84,4,from Left to Right,Cloudy
 28-09-2012,New York Mets,Atlanta Braves,78,1,in from Rightfield,Cloudy
-29-09-2012,New York Mets,Atlanta Braves,75,5,from Left to Right.,Wind5mphfromLefttoRight
-30-09-2012,New York Mets,Atlanta Braves,73,5,in from Centerfield.,Wind5mphinfromCenterfield
+29-09-2012,New York Mets,Atlanta Braves,75,5,from Left to Right.,
+30-09-2012,New York Mets,Atlanta Braves,73,5,in from Centerfield.,
 06-04-2012,Minnesota Twins,Baltimore Orioles,59,5,from Right to Left,Sunny
 07-04-2012,Minnesota Twins,Baltimore Orioles,63,8,from Left to Right,Sunny
 08-04-2012,Minnesota Twins,Baltimore Orioles,68,7,from Left to Right,Sunny
-09-04-2012,New York Yankees,Baltimore Orioles,65,9,from Left to Right.,Wind9mphfromLefttoRight
+09-04-2012,New York Yankees,Baltimore Orioles,65,9,from Left to Right.,
 10-04-2012,New York Yankees,Baltimore Orioles,62,8,from Left to Right,Sunny
 11-04-2012,New York Yankees,Baltimore Orioles,53,9,in from Leftfield,Cloudy
 24-04-2012,Toronto Blue Jays,Baltimore Orioles,60,6,out to Rightfield,Cloudy
 25-04-2012,Toronto Blue Jays,Baltimore Orioles,70,6,out to Rightfield,Sunny
-26-04-2012,Toronto Blue Jays,Baltimore Orioles,64,2,in from Centerfield.,Wind2mphinfromCenterfield
+26-04-2012,Toronto Blue Jays,Baltimore Orioles,64,2,in from Centerfield.,
 27-04-2012,Oakland Athletics,Baltimore Orioles,60,8,from Left to Right,Sunny
 28-04-2012,Oakland Athletics,Baltimore Orioles,56,1,from Left to Right,Drizzle
 29-04-2012,Oakland Athletics,Baltimore Orioles,64,5,in from Leftfield,Sunny
-07-05-2012,Texas Rangers,Baltimore Orioles,67,3,from Right to Left.,Wind3mphfromRighttoLeft
+07-05-2012,Texas Rangers,Baltimore Orioles,67,3,from Right to Left.,
 08-05-2012,Texas Rangers,Baltimore Orioles,68,6,out to Centerfield,Overcast
 11-05-2012,Tampa Bay Rays,Baltimore Orioles,71,5,from Right to Left,Sunny
 12-05-2012,Tampa Bay Rays,Baltimore Orioles,77,4,out to Centerfield,Cloudy
 13-05-2012,Tampa Bay Rays,Baltimore Orioles,79,3,out to Centerfield,Cloudy
 14-05-2012,New York Yankees,Baltimore Orioles,66,2,out to Rightfield,Drizzle
 15-05-2012,New York Yankees,Baltimore Orioles,78,6,out to Centerfield,Cloudy
-21-05-2012,Boston Red Sox,Baltimore Orioles,72,8,from Left to Right.,Wind8mphfromLefttoRight
+21-05-2012,Boston Red Sox,Baltimore Orioles,72,8,from Left to Right.,
 22-05-2012,Boston Red Sox,Baltimore Orioles,76,2,in from Rightfield,Cloudy
-23-05-2012,Boston Red Sox,Baltimore Orioles,75,4,from Left to Right.,Wind4mphfromLefttoRight
+23-05-2012,Boston Red Sox,Baltimore Orioles,75,4,from Left to Right.,
 25-05-2012,Kansas City Royals,Baltimore Orioles,82,5,from Right to Left,Sunny
-26-05-2012,Kansas City Royals,Baltimore Orioles,87,12,out to Leftfield.,Wind12mphouttoLeftfield
-27-05-2012,Kansas City Royals,Baltimore Orioles,86,2,in from Rightfield.,Wind2mphinfromRightfield
+26-05-2012,Kansas City Royals,Baltimore Orioles,87,12,out to Leftfield.,
+27-05-2012,Kansas City Royals,Baltimore Orioles,86,2,in from Rightfield.,
 08-06-2012,Philadelphia Phillies,Baltimore Orioles,81,4,from Left to Right,Sunny
 09-06-2012,Philadelphia Phillies,Baltimore Orioles,86,8,from Left to Right,Cloudy
 10-06-2012,Philadelphia Phillies,Baltimore Orioles,90,1,out to Leftfield,Sunny
 12-06-2012,Pittsburgh Pirates,Baltimore Orioles,72,3,from Right to Left,Overcast
 13-06-2012,Pittsburgh Pirates,Baltimore Orioles,76,3,from Right to Left,Sunny
 14-06-2012,Pittsburgh Pirates,Baltimore Orioles,79,7,in from Centerfield,Cloudy
-22-06-2012,Washington Nationals,Baltimore Orioles,76,5,from Left to Right.,Wind5mphfromLefttoRight
+22-06-2012,Washington Nationals,Baltimore Orioles,76,5,from Left to Right.,
 23-06-2012,Washington Nationals,Baltimore Orioles,87,7,in from Leftfield,Sunny
 24-06-2012,Washington Nationals,Baltimore Orioles,88,4,out to Centerfield,Cloudy
 26-06-2012,Los Angeles Angels of Anaheim,Baltimore Orioles,78,3,out to Centerfield,Sunny
@@ -280,20 +280,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-06-2012,Cleveland Indians,Baltimore Orioles,100,3,from Left to Right,Sunny
 30-06-2012,Cleveland Indians,Baltimore Orioles,91,5,out to Rightfield,Overcast
 01-07-2012,Cleveland Indians,Baltimore Orioles,95,9,from Left to Right,Cloudy
-13-07-2012,Detroit Tigers,Baltimore Orioles,85,3,out to Leftfield.,Wind3mphouttoLeftfield
+13-07-2012,Detroit Tigers,Baltimore Orioles,85,3,out to Leftfield.,
 14-07-2012,Detroit Tigers,Baltimore Orioles,86,5,from Left to Right,Overcast
-15-07-2012,Detroit Tigers,Baltimore Orioles,87,4,from Left to Right.,Wind4mphfromLefttoRight
+15-07-2012,Detroit Tigers,Baltimore Orioles,87,4,from Left to Right.,
 24-07-2012,Tampa Bay Rays,Baltimore Orioles,86,8,from Right to Left,Cloudy
 25-07-2012,Tampa Bay Rays,Baltimore Orioles,85,4,out to Leftfield,Sunny
-26-07-2012,Tampa Bay Rays,Baltimore Orioles,84,3,out to Rightfield.,Wind3mphouttoRightfield
+26-07-2012,Tampa Bay Rays,Baltimore Orioles,84,3,out to Rightfield.,
 27-07-2012,Oakland Athletics,Baltimore Orioles,88,4,from Right to Left,Cloudy
 28-07-2012,Oakland Athletics,Baltimore Orioles,88,2,from Left to Right,Cloudy
-29-07-2012,Oakland Athletics,Baltimore Orioles,81,7,in from Centerfield.,Wind7mphinfromCenterfield
+29-07-2012,Oakland Athletics,Baltimore Orioles,81,7,in from Centerfield.,
 06-08-2012,Seattle Mariners,Baltimore Orioles,88,4,from Left to Right,Cloudy
 07-08-2012,Seattle Mariners,Baltimore Orioles,85,5,in from Rightfield,Cloudy
 08-08-2012,Seattle Mariners,Baltimore Orioles,85,4,from Left to Right,Cloudy
 09-08-2012,Kansas City Royals,Baltimore Orioles,84,3,out to Leftfield,Overcast
-10-08-2012,Kansas City Royals,Baltimore Orioles,86,4,out to Centerfield.,Wind4mphouttoCenterfield
+10-08-2012,Kansas City Royals,Baltimore Orioles,86,4,out to Centerfield.,
 11-08-2012,Kansas City Royals,Baltimore Orioles,73,2,out to Centerfield,Overcast
 12-08-2012,Kansas City Royals,Baltimore Orioles,81,1,out to Rightfield,Sunny
 14-08-2012,Boston Red Sox,Baltimore Orioles,84,6,in from Rightfield,Cloudy
@@ -308,69 +308,69 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-09-2012,New York Yankees,Baltimore Orioles,80,3,out to Centerfield,Cloudy
 07-09-2012,New York Yankees,Baltimore Orioles,83,8,in from Rightfield,Sunny
 08-09-2012,New York Yankees,Baltimore Orioles,67,5,out to Centerfield,Rain
-09-09-2012,New York Yankees,Baltimore Orioles,74,3,out to Centerfield.,Wind3mphouttoCenterfield
+09-09-2012,New York Yankees,Baltimore Orioles,74,3,out to Centerfield.,
 11-09-2012,Tampa Bay Rays,Baltimore Orioles,75,3,in from Rightfield,Cloudy
 12-09-2012,Tampa Bay Rays,Baltimore Orioles,77,5,from Right to Left,Sunny
 13-09-2012,Tampa Bay Rays,Baltimore Orioles,76,2,in from Rightfield,Sunny
 25-09-2012,Toronto Blue Jays,Baltimore Orioles,72,5,out to Centerfield,Sunny
 26-09-2012,Toronto Blue Jays,Baltimore Orioles,81,2,from Left to Right,Cloudy
-28-09-2012,Boston Red Sox,Baltimore Orioles,72,3,from Right to Left.,Wind3mphfromRighttoLeft
-29-09-2012,Boston Red Sox,Baltimore Orioles,65,4,from Left to Right.,Wind4mphfromLefttoRight
+28-09-2012,Boston Red Sox,Baltimore Orioles,72,3,from Right to Left.,
+29-09-2012,Boston Red Sox,Baltimore Orioles,65,4,from Left to Right.,
 30-09-2012,Boston Red Sox,Baltimore Orioles,66,10,out to Rightfield,Cloudy
 13-04-2012,Tampa Bay Rays,Boston Red Sox,58,7,out to Leftfield,Cloudy
 14-04-2012,Tampa Bay Rays,Boston Red Sox,72,11,out to Centerfield,Cloudy
 15-04-2012,Tampa Bay Rays,Boston Red Sox,72,6,out to Centerfield,Cloudy
 16-04-2012,Tampa Bay Rays,Boston Red Sox,79,6,out to Leftfield,Cloudy
 17-04-2012,Texas Rangers,Boston Red Sox,78,13,in from Leftfield,Cloudy
-18-04-2012,Texas Rangers,Boston Red Sox,51,12,from Right to Left.,Wind12mphfromRighttoLeft
+18-04-2012,Texas Rangers,Boston Red Sox,51,12,from Right to Left.,
 20-04-2012,New York Yankees,Boston Red Sox,79,19,out to Centerfield,Cloudy
 21-04-2012,New York Yankees,Boston Red Sox,78,20,out to Leftfield,Cloudy
 30-04-2012,Oakland Athletics,Boston Red Sox,52,12,from Right to Left,Cloudy
 01-05-2012,Oakland Athletics,Boston Red Sox,46,15,in from Centerfield,Drizzle
-02-05-2012,Oakland Athletics,Boston Red Sox,47,8,in from Rightfield.,Wind8mphinfromRightfield
+02-05-2012,Oakland Athletics,Boston Red Sox,47,8,in from Rightfield.,
 04-05-2012,Baltimore Orioles,Boston Red Sox,53,7,in from Rightfield,Drizzle
-05-05-2012,Baltimore Orioles,Boston Red Sox,56,7,in from Leftfield.,Wind7mphinfromLeftfield
-06-05-2012,Baltimore Orioles,Boston Red Sox,54,10,in from Rightfield.,Wind10mphinfromRightfield
+05-05-2012,Baltimore Orioles,Boston Red Sox,56,7,in from Leftfield.,
+06-05-2012,Baltimore Orioles,Boston Red Sox,54,10,in from Rightfield.,
 10-05-2012,Cleveland Indians,Boston Red Sox,60,15,out to Rightfield,Cloudy
 11-05-2012,Cleveland Indians,Boston Red Sox,64,7,in from Leftfield,Cloudy
 12-05-2012,Cleveland Indians,Boston Red Sox,77,13,from Left to Right,Sunny
 13-05-2012,Cleveland Indians,Boston Red Sox,74,7,out to Leftfield,Cloudy
-14-05-2012,Seattle Mariners,Boston Red Sox,57,8,in from Rightfield.,Wind8mphinfromRightfield
+14-05-2012,Seattle Mariners,Boston Red Sox,57,8,in from Rightfield.,
 15-05-2012,Seattle Mariners,Boston Red Sox,70,15,out to Leftfield,Overcast
-25-05-2012,Tampa Bay Rays,Boston Red Sox,73,12,out to Leftfield.,Wind12mphouttoLeftfield
+25-05-2012,Tampa Bay Rays,Boston Red Sox,73,12,out to Leftfield.,
 26-05-2012,Tampa Bay Rays,Boston Red Sox,83,8,out to Rightfield,Cloudy
 27-05-2012,Tampa Bay Rays,Boston Red Sox,70,9,in from Rightfield,Cloudy
 28-05-2012,Detroit Tigers,Boston Red Sox,69,12,in from Rightfield,Sunny
 29-05-2012,Detroit Tigers,Boston Red Sox,68,12,in from Rightfield,Cloudy
 30-05-2012,Detroit Tigers,Boston Red Sox,75,5,out to Centerfield,Cloudy
 31-05-2012,Detroit Tigers,Boston Red Sox,76,7,in from Rightfield,Cloudy
-05-06-2012,Baltimore Orioles,Boston Red Sox,55,5,in from Rightfield.,Wind5mphinfromRightfield
+05-06-2012,Baltimore Orioles,Boston Red Sox,55,5,in from Rightfield.,
 06-06-2012,Baltimore Orioles,Boston Red Sox,58,11,from Right to Left,Cloudy
-07-06-2012,Baltimore Orioles,Boston Red Sox,59,14,in from Rightfield.,Wind14mphinfromRightfield
-08-06-2012,Washington Nationals,Boston Red Sox,67,11,out to Leftfield.,Wind11mphouttoLeftfield
+07-06-2012,Baltimore Orioles,Boston Red Sox,59,14,in from Rightfield.,
+08-06-2012,Washington Nationals,Boston Red Sox,67,11,out to Leftfield.,
 09-06-2012,Washington Nationals,Boston Red Sox,78,8,from Left to Right,Cloudy
 10-06-2012,Washington Nationals,Boston Red Sox,76,7,from Right to Left,Sunny
 19-06-2012,Miami Marlins,Boston Red Sox,74,14,out to Rightfield,Cloudy
 20-06-2012,Miami Marlins,Boston Red Sox,96,11,out to Rightfield,Cloudy
 21-06-2012,Miami Marlins,Boston Red Sox,92,4,out to Rightfield,Sunny
-22-06-2012,Atlanta Braves,Boston Red Sox,74,11,out to Centerfield.,Wind11mphouttoCenterfield
-23-06-2012,Atlanta Braves,Boston Red Sox,65,14,in from Leftfield.,Wind14mphinfromLeftfield
+22-06-2012,Atlanta Braves,Boston Red Sox,74,11,out to Centerfield.,
+23-06-2012,Atlanta Braves,Boston Red Sox,65,14,in from Leftfield.,
 24-06-2012,Atlanta Braves,Boston Red Sox,82,13,in from Leftfield,Sunny
-25-06-2012,Toronto Blue Jays,Boston Red Sox,72,10,out to Centerfield.,Wind10mphouttoCenterfield
-26-06-2012,Toronto Blue Jays,Boston Red Sox,69,16,in from Leftfield.,Wind16mphinfromLeftfield
+25-06-2012,Toronto Blue Jays,Boston Red Sox,72,10,out to Centerfield.,
+26-06-2012,Toronto Blue Jays,Boston Red Sox,69,16,in from Leftfield.,
 27-06-2012,Toronto Blue Jays,Boston Red Sox,75,16,out to Rightfield,Cloudy
 06-07-2012,New York Yankees,Boston Red Sox,81,7,in from Leftfield,Cloudy
 08-07-2012,New York Yankees,Boston Red Sox,87,10,from Left to Right,Cloudy
 16-07-2012,Chicago White Sox,Boston Red Sox,79,7,out to Rightfield,Cloudy
 17-07-2012,Chicago White Sox,Boston Red Sox,89,21,out to Centerfield,Sunny
-18-07-2012,Chicago White Sox,Boston Red Sox,73,3,from Right to Left.,Wind3mphfromRighttoLeft
+18-07-2012,Chicago White Sox,Boston Red Sox,73,3,from Right to Left.,
 19-07-2012,Chicago White Sox,Boston Red Sox,75,11,out to Leftfield,Cloudy
-20-07-2012,Toronto Blue Jays,Boston Red Sox,69,8,in from Rightfield.,Wind8mphinfromRightfield
+20-07-2012,Toronto Blue Jays,Boston Red Sox,69,8,in from Rightfield.,
 21-07-2012,Toronto Blue Jays,Boston Red Sox,72,10,from Right to Left,Cloudy
 22-07-2012,Toronto Blue Jays,Boston Red Sox,84,10,out to Centerfield,Cloudy
 30-07-2012,Detroit Tigers,Boston Red Sox,79,12,out to Leftfield,Sunny
 31-07-2012,Detroit Tigers,Boston Red Sox,68,13,in from Rightfield,Drizzle
-01-08-2012,Detroit Tigers,Boston Red Sox,75,8,out to Rightfield.,Wind8mphouttoRightfield
+01-08-2012,Detroit Tigers,Boston Red Sox,75,8,out to Rightfield.,
 02-08-2012,Minnesota Twins,Boston Red Sox,84,10,out to Centerfield,Cloudy
 03-08-2012,Minnesota Twins,Boston Red Sox,88,13,out to Centerfield,Cloudy
 04-08-2012,Minnesota Twins,Boston Red Sox,79,9,in from Centerfield,Cloudy
@@ -378,38 +378,38 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-08-2012,Texas Rangers,Boston Red Sox,79,9,from Left to Right,Cloudy
 07-08-2012,Texas Rangers,Boston Red Sox,75,8,out to Centerfield,Cloudy
 08-08-2012,Texas Rangers,Boston Red Sox,85,7,from Right to Left,Cloudy
-21-08-2012,Los Angeles Angels of Anaheim,Boston Red Sox,79,7,out to Rightfield.,Wind7mphouttoRightfield
+21-08-2012,Los Angeles Angels of Anaheim,Boston Red Sox,79,7,out to Rightfield.,
 22-08-2012,Los Angeles Angels of Anaheim,Boston Red Sox,74,10,from Right to Left,Cloudy
 23-08-2012,Los Angeles Angels of Anaheim,Boston Red Sox,84,12,out to Rightfield,Cloudy
-24-08-2012,Kansas City Royals,Boston Red Sox,74,9,out to Leftfield.,Wind9mphouttoLeftfield
-25-08-2012,Kansas City Royals,Boston Red Sox,73,12,out to Leftfield.,Wind12mphouttoLeftfield
+24-08-2012,Kansas City Royals,Boston Red Sox,74,9,out to Leftfield.,
+25-08-2012,Kansas City Royals,Boston Red Sox,73,12,out to Leftfield.,
 26-08-2012,Kansas City Royals,Boston Red Sox,76,9,in from Rightfield,Sunny
 27-08-2012,Kansas City Royals,Boston Red Sox,84,9,out to Leftfield,Sunny
-07-09-2012,Toronto Blue Jays,Boston Red Sox,77,11,in from Centerfield.,Wind11mphinfromCenterfield
-08-09-2012,Toronto Blue Jays,Boston Red Sox,77,19,out to Leftfield.,Wind19mphouttoLeftfield
-09-09-2012,Toronto Blue Jays,Boston Red Sox,67,10,out to Rightfield.,Wind10mphouttoRightfield
+07-09-2012,Toronto Blue Jays,Boston Red Sox,77,11,in from Centerfield.,
+08-09-2012,Toronto Blue Jays,Boston Red Sox,77,19,out to Leftfield.,
+09-09-2012,Toronto Blue Jays,Boston Red Sox,67,10,out to Rightfield.,
 11-09-2012,New York Yankees,Boston Red Sox,73,7,out to Rightfield,Cloudy
 12-09-2012,New York Yankees,Boston Red Sox,68,11,from Right to Left,Sunny
 13-09-2012,New York Yankees,Boston Red Sox,79,10,out to Centerfield,Cloudy
 21-09-2012,Baltimore Orioles,Boston Red Sox,60,10,in from Rightfield,Cloudy
-22-09-2012,Baltimore Orioles,Boston Red Sox,63,7,out to Centerfield.,Wind7mphouttoCenterfield
+22-09-2012,Baltimore Orioles,Boston Red Sox,63,7,out to Centerfield.,
 23-09-2012,Baltimore Orioles,Boston Red Sox,70,14,from Left to Right,Cloudy
 25-09-2012,Tampa Bay Rays,Boston Red Sox,66,12,out to Rightfield,Cloudy
-26-09-2012,Tampa Bay Rays,Boston Red Sox,71,13,out to Rightfield.,Wind13mphouttoRightfield
+26-09-2012,Tampa Bay Rays,Boston Red Sox,71,13,out to Rightfield.,
 13-04-2012,Detroit Tigers,Chicago White Sox,64,15,in from Rightfield,Cloudy
-14-04-2012,Detroit Tigers,Chicago White Sox,63,8,from Left to Right.,Wind8mphfromLefttoRight
-15-04-2012,Detroit Tigers,Chicago White Sox,73,10,from Right to Left.,Wind10mphfromRighttoLeft
+14-04-2012,Detroit Tigers,Chicago White Sox,63,8,from Left to Right.,
+15-04-2012,Detroit Tigers,Chicago White Sox,73,10,from Right to Left.,
 16-04-2012,Baltimore Orioles,Chicago White Sox,53,26,out to Leftfield,Cloudy
 17-04-2012,Baltimore Orioles,Chicago White Sox,51,7,from Left to Right,Sunny
-18-04-2012,Baltimore Orioles,Chicago White Sox,68,9,from Left to Right.,Wind9mphfromLefttoRight
+18-04-2012,Baltimore Orioles,Chicago White Sox,68,9,from Left to Right.,
 19-04-2012,Baltimore Orioles,Chicago White Sox,50,13,from Left to Right,Cloudy
 26-04-2012,Boston Red Sox,Chicago White Sox,39,11,from Left to Right,Sunny
-27-04-2012,Boston Red Sox,Chicago White Sox,39,12,from Left to Right.,Wind12mphfromLefttoRight
-28-04-2012,Boston Red Sox,Chicago White Sox,46,14,from Left to Right.,Wind14mphfromLefttoRight
-29-04-2012,Boston Red Sox,Chicago White Sox,47,15,in from Leftfield.,Wind15mphinfromLeftfield
+27-04-2012,Boston Red Sox,Chicago White Sox,39,12,from Left to Right.,
+28-04-2012,Boston Red Sox,Chicago White Sox,46,14,from Left to Right.,
+29-04-2012,Boston Red Sox,Chicago White Sox,47,15,in from Leftfield.,
 01-05-2012,Cleveland Indians,Chicago White Sox,56,6,in from Leftfield,Overcast
 02-05-2012,Cleveland Indians,Chicago White Sox,76,13,from Right to Left,Cloudy
-03-05-2012,Cleveland Indians,Chicago White Sox,82,13,from Right to Left.,Wind13mphfromRighttoLeft
+03-05-2012,Cleveland Indians,Chicago White Sox,82,13,from Right to Left.,
 11-05-2012,Kansas City Royals,Chicago White Sox,74,11,from Right to Left,Sunny
 12-05-2012,Kansas City Royals,Chicago White Sox,54,7,from Left to Right,Overcast
 13-05-2012,Kansas City Royals,Chicago White Sox,58,10,from Left to Right,Cloudy
@@ -419,7 +419,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-05-2012,Minnesota Twins,Chicago White Sox,72,10,in from Centerfield,Cloudy
 24-05-2012,Minnesota Twins,Chicago White Sox,82,17,from Right to Left,Sunny
 25-05-2012,Cleveland Indians,Chicago White Sox,66,10,in from Leftfield,Sunny
-26-05-2012,Cleveland Indians,Chicago White Sox,73,8,from Left to Right.,Wind8mphfromLefttoRight
+26-05-2012,Cleveland Indians,Chicago White Sox,73,8,from Left to Right.,
 27-05-2012,Cleveland Indians,Chicago White Sox,93,16,from Right to Left,Cloudy
 01-06-2012,Seattle Mariners,Chicago White Sox,57,8,in from Leftfield,Sunny
 02-06-2012,Seattle Mariners,Chicago White Sox,73,20,in unknown direction,Cloudy
@@ -434,7 +434,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-06-2012,Chicago Cubs,Chicago White Sox,88,15,from Right to Left,Cloudy
 20-06-2012,Chicago Cubs,Chicago White Sox,86,20,from Right to Left,Sunny
 22-06-2012,Milwaukee Brewers,Chicago White Sox,75,7,out to Rightfield,Cloudy
-23-06-2012,Milwaukee Brewers,Chicago White Sox,75,8,in from Leftfield.,Wind8mphinfromLeftfield
+23-06-2012,Milwaukee Brewers,Chicago White Sox,75,8,in from Leftfield.,
 24-06-2012,Milwaukee Brewers,Chicago White Sox,89,5,from Right to Left,Cloudy
 03-07-2012,Texas Rangers,Chicago White Sox,93,16,from Right to Left,Cloudy
 04-07-2012,Texas Rangers,Chicago White Sox,97,15,out to Leftfield,Cloudy
@@ -453,7 +453,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-08-2012,Kansas City Royals,Chicago White Sox,73,7,from Left to Right,Overcast
 10-08-2012,Oakland Athletics,Chicago White Sox,68,14,from Left to Right,Cloudy
 11-08-2012,Oakland Athletics,Chicago White Sox,70,7,from Left to Right,Sunny
-12-08-2012,Oakland Athletics,Chicago White Sox,75,7,in from Rightfield.,Wind7mphinfromRightfield
+12-08-2012,Oakland Athletics,Chicago White Sox,75,7,in from Rightfield.,
 20-08-2012,New York Yankees,Chicago White Sox,71,4,from Left to Right,Cloudy
 21-08-2012,New York Yankees,Chicago White Sox,73,5,in from Leftfield,Sunny
 22-08-2012,New York Yankees,Chicago White Sox,76,6,in from Rightfield,Sunny
@@ -463,7 +463,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-09-2012,Minnesota Twins,Chicago White Sox,79,8,in from Leftfield,Sunny
 04-09-2012,Minnesota Twins,Chicago White Sox,76,7,in from Leftfield,Cloudy
 05-09-2012,Minnesota Twins,Chicago White Sox,85,7,from Right to Left,Cloudy
-07-09-2012,Kansas City Royals,Chicago White Sox,63,12,out to Centerfield.,Wind12mphouttoCenterfield
+07-09-2012,Kansas City Royals,Chicago White Sox,63,12,out to Centerfield.,
 08-09-2012,Kansas City Royals,Chicago White Sox,70,15,out to Centerfield,Cloudy
 09-09-2012,Kansas City Royals,Chicago White Sox,65,18,from Left to Right,Cloudy
 10-09-2012,Detroit Tigers,Chicago White Sox,72,9,in from Rightfield,Sunny
@@ -484,15 +484,15 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-04-2012,Milwaukee Brewers,Chicago Cubs,40,9,in from Centerfield,Cloudy
 11-04-2012,Milwaukee Brewers,Chicago Cubs,44,6,in from Centerfield,Sunny
 12-04-2012,Milwaukee Brewers,Chicago Cubs,57,7,from Right to Left,Sunny
-20-04-2012,Cincinnati Reds,Chicago Cubs,42,17,in from Leftfield.,Wind17mphinfromLeftfield
+20-04-2012,Cincinnati Reds,Chicago Cubs,42,17,in from Leftfield.,
 21-04-2012,Cincinnati Reds,Chicago Cubs,43,12,in from Centerfield,Cloudy
-22-04-2012,Cincinnati Reds,Chicago Cubs,45,14,in from Leftfield.,Wind14mphinfromLeftfield
+22-04-2012,Cincinnati Reds,Chicago Cubs,45,14,in from Leftfield.,
 23-04-2012,St. Louis Cardinals,Chicago Cubs,44,3,in from Centerfield,Sunny
 24-04-2012,St. Louis Cardinals,Chicago Cubs,57,5,from Right to Left,Cloudy
 25-04-2012,St. Louis Cardinals,Chicago Cubs,53,5,out to Leftfield,Overcast
-04-05-2012,Los Angeles Dodgers,Chicago Cubs,52,9,in from Leftfield.,Wind9mphinfromLeftfield
-05-05-2012,Los Angeles Dodgers,Chicago Cubs,49,5,in from Centerfield.,Wind5mphinfromCenterfield
-06-05-2012,Los Angeles Dodgers,Chicago Cubs,57,10,in from Rightfield.,Wind10mphinfromRightfield
+04-05-2012,Los Angeles Dodgers,Chicago Cubs,52,9,in from Leftfield.,
+05-05-2012,Los Angeles Dodgers,Chicago Cubs,49,5,in from Centerfield.,
+06-05-2012,Los Angeles Dodgers,Chicago Cubs,57,10,in from Rightfield.,
 07-05-2012,Atlanta Braves,Chicago Cubs,56,1,in from Rightfield,Overcast
 08-05-2012,Atlanta Braves,Chicago Cubs,66,7,from Left to Right,Cloudy
 09-05-2012,Atlanta Braves,Chicago Cubs,52,4,from Right to Left,Cloudy
@@ -505,7 +505,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-05-2012,San Diego Padres,Chicago Cubs,80,18,out to Centerfield,Cloudy
 30-05-2012,San Diego Padres,Chicago Cubs,59,12,in from Centerfield,Cloudy
 12-06-2012,Detroit Tigers,Chicago Cubs,65,6,in from Centerfield,Sunny
-13-06-2012,Detroit Tigers,Chicago Cubs,64,12,in from Rightfield.,Wind12mphinfromRightfield
+13-06-2012,Detroit Tigers,Chicago Cubs,64,12,in from Rightfield.,
 14-06-2012,Detroit Tigers,Chicago Cubs,79,11,from Right to Left,Cloudy
 15-06-2012,Boston Red Sox,Chicago Cubs,87,8,in from Rightfield,Cloudy
 16-06-2012,Boston Red Sox,Chicago Cubs,90,14,from Left to Right,Cloudy
@@ -513,15 +513,15 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-06-2012,New York Mets,Chicago Cubs,66,15,in from Centerfield,Sunny
 26-06-2012,New York Mets,Chicago Cubs,74,11,in from Rightfield,Sunny
 27-06-2012,New York Mets,Chicago Cubs,87,7,out to Centerfield,Sunny
-29-06-2012,Houston Astros,Chicago Cubs,75,8,from Right to Left.,Wind8mphfromRighttoLeft
+29-06-2012,Houston Astros,Chicago Cubs,75,8,from Right to Left.,
 30-06-2012,Houston Astros,Chicago Cubs,93,4,from Right to Left,Cloudy
 01-07-2012,Houston Astros,Chicago Cubs,79,4,out to Rightfield,Cloudy
-13-07-2012,Arizona Diamondbacks,Chicago Cubs,81,7,in from Centerfield.,Wind7mphinfromCenterfield
+13-07-2012,Arizona Diamondbacks,Chicago Cubs,81,7,in from Centerfield.,
 14-07-2012,Arizona Diamondbacks,Chicago Cubs,83,7,in from Rightfield,Sunny
 15-07-2012,Arizona Diamondbacks,Chicago Cubs,84,9,from Right to Left,Cloudy
 17-07-2012,Miami Marlins,Chicago Cubs,94,7,from Left to Right,Cloudy
 18-07-2012,Miami Marlins,Chicago Cubs,78,10,in from Centerfield,Cloudy
-19-07-2012,Miami Marlins,Chicago Cubs,79,6,in from Rightfield.,Wind6mphinfromRightfield
+19-07-2012,Miami Marlins,Chicago Cubs,79,6,in from Rightfield.,
 27-07-2012,St. Louis Cardinals,Chicago Cubs,77,10,out to Rightfield,Cloudy
 28-07-2012,St. Louis Cardinals,Chicago Cubs,76,11,in from Centerfield,Cloudy
 29-07-2012,St. Louis Cardinals,Chicago Cubs,80,11,from Right to Left,Cloudy
@@ -531,7 +531,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-08-2012,Cincinnati Reds,Chicago Cubs,66,5,in from Centerfield,Drizzle
 10-08-2012,Cincinnati Reds,Chicago Cubs,70,24,in from Rightfield,Cloudy
 11-08-2012,Cincinnati Reds,Chicago Cubs,72,15,in from Leftfield,Sunny
-12-08-2012,Cincinnati Reds,Chicago Cubs,75,2,out to Centerfield.,Wind2mphouttoCenterfield
+12-08-2012,Cincinnati Reds,Chicago Cubs,75,2,out to Centerfield.,
 13-08-2012,Houston Astros,Chicago Cubs,65,1,in from Centerfield,Overcast
 14-08-2012,Houston Astros,Chicago Cubs,75,5,in from Rightfield,Cloudy
 15-08-2012,Houston Astros,Chicago Cubs,84,2,out to Rightfield,Cloudy
@@ -543,8 +543,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-08-2012,Milwaukee Brewers,Chicago Cubs,78,4,in from Rightfield,Sunny
 30-08-2012,Milwaukee Brewers,Chicago Cubs,87,10,out to Rightfield,Sunny
 31-08-2012,San Francisco Giants,Chicago Cubs,91,10,out to Rightfield,Sunny
-01-09-2012,San Francisco Giants,Chicago Cubs,73,10,in from Rightfield.,Wind10mphinfromRightfield
-02-09-2012,San Francisco Giants,Chicago Cubs,75,7,in from Rightfield.,Wind7mphinfromRightfield
+01-09-2012,San Francisco Giants,Chicago Cubs,73,10,in from Rightfield.,
+02-09-2012,San Francisco Giants,Chicago Cubs,75,7,in from Rightfield.,
 14-09-2012,Pittsburgh Pirates,Chicago Cubs,72,6,in from Rightfield,Sunny
 15-09-2012,Pittsburgh Pirates,Chicago Cubs,71,10,from Right to Left,Cloudy
 16-09-2012,Pittsburgh Pirates,Chicago Cubs,79,3,out to Centerfield,Cloudy
@@ -557,7 +557,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-09-2012,St. Louis Cardinals,Chicago Cubs,57,8,from Left to Right,Cloudy
 01-10-2012,Houston Astros,Chicago Cubs,61,3,in from Centerfield,Cloudy
 02-10-2012,Houston Astros,Chicago Cubs,61,10,in from Centerfield,Sunny
-03-10-2012,Houston Astros,Chicago Cubs,67,3,out to Centerfield.,Wind3mphouttoCenterfield
+03-10-2012,Houston Astros,Chicago Cubs,67,3,out to Centerfield.,
 05-04-2012,Miami Marlins,Cincinnati Reds,60,15,from Left to Right,Cloudy
 07-04-2012,Miami Marlins,Cincinnati Reds,67,5,from Left to Right,Sunny
 08-04-2012,Miami Marlins,Cincinnati Reds,61,11,out to Centerfield,Sunny
@@ -573,10 +573,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-05-2012,Chicago Cubs,Cincinnati Reds,87,8,from Left to Right,Sunny
 03-05-2012,Chicago Cubs,Cincinnati Reds,83,6,out to Centerfield,Cloudy
 11-05-2012,Washington Nationals,Cincinnati Reds,72,0,NoWind,Sunny
-12-05-2012,Washington Nationals,Cincinnati Reds,72,6,from Right to Left.,Wind6mphfromRighttoLeft
+12-05-2012,Washington Nationals,Cincinnati Reds,72,6,from Right to Left.,
 13-05-2012,Washington Nationals,Cincinnati Reds,62,9,in unknown direction,Overcast
 21-05-2012,Atlanta Braves,Cincinnati Reds,74,11,out to Rightfield,Cloudy
-22-05-2012,Atlanta Braves,Cincinnati Reds,75,10,in unknown direction.,Wind10mphinunknowndirection
+22-05-2012,Atlanta Braves,Cincinnati Reds,75,10,in unknown direction.,
 23-05-2012,Atlanta Braves,Cincinnati Reds,78,6,in from Centerfield,Sunny
 24-05-2012,Atlanta Braves,Cincinnati Reds,82,15,in unknown direction,Cloudy
 25-05-2012,Colorado Rockies,Cincinnati Reds,89,7,from Right to Left,Cloudy
@@ -587,7 +587,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-06-2012,Pittsburgh Pirates,Cincinnati Reds,83,7,from Right to Left,Cloudy
 08-06-2012,Detroit Tigers,Cincinnati Reds,84,3,out to Leftfield,Sunny
 09-06-2012,Detroit Tigers,Cincinnati Reds,85,6,in unknown direction,Cloudy
-10-06-2012,Detroit Tigers,Cincinnati Reds,84,9,in from Centerfield.,Wind9mphinfromCenterfield
+10-06-2012,Detroit Tigers,Cincinnati Reds,84,9,in from Centerfield.,
 12-06-2012,Cleveland Indians,Cincinnati Reds,86,12,out to Leftfield,Sunny
 13-06-2012,Cleveland Indians,Cincinnati Reds,81,9,from Left to Right,Cloudy
 14-06-2012,Cleveland Indians,Cincinnati Reds,77,8,from Left to Right,Cloudy
@@ -597,8 +597,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-06-2012,Milwaukee Brewers,Cincinnati Reds,84,14,out to Rightfield,Sunny
 26-06-2012,Milwaukee Brewers,Cincinnati Reds,82,11,from Left to Right,Cloudy
 27-06-2012,Milwaukee Brewers,Cincinnati Reds,81,6,from Right to Left,Sunny
-13-07-2012,St. Louis Cardinals,Cincinnati Reds,81,8,in from Centerfield.,Wind8mphinfromCenterfield
-14-07-2012,St. Louis Cardinals,Cincinnati Reds,86,10,in unknown direction.,Wind10mphinunknowndirection
+13-07-2012,St. Louis Cardinals,Cincinnati Reds,81,8,in from Centerfield.,
+14-07-2012,St. Louis Cardinals,Cincinnati Reds,86,10,in unknown direction.,
 15-07-2012,St. Louis Cardinals,Cincinnati Reds,88,9,from Right to Left,Cloudy
 16-07-2012,Arizona Diamondbacks,Cincinnati Reds,91,6,in unknown direction,Cloudy
 17-07-2012,Arizona Diamondbacks,Cincinnati Reds,96,9,in unknown direction,Cloudy
@@ -612,7 +612,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-08-2012,San Diego Padres,Cincinnati Reds,91,6,from Left to Right,Cloudy
 02-08-2012,San Diego Padres,Cincinnati Reds,86,5,in from Centerfield,Sunny
 03-08-2012,Pittsburgh Pirates,Cincinnati Reds,82,8,in from Rightfield,Cloudy
-04-08-2012,Pittsburgh Pirates,Cincinnati Reds,88,17,from Right to Left.,Wind17mphfromRighttoLeft
+04-08-2012,Pittsburgh Pirates,Cincinnati Reds,88,17,from Right to Left.,
 05-08-2012,Pittsburgh Pirates,Cincinnati Reds,86,13,from Right to Left,Overcast
 14-08-2012,New York Mets,Cincinnati Reds,78,5,out to Centerfield,Cloudy
 15-08-2012,New York Mets,Cincinnati Reds,83,5,in unknown direction,Cloudy
@@ -632,26 +632,26 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-09-2012,Pittsburgh Pirates,Cincinnati Reds,77,4,in unknown direction,Sunny
 12-09-2012,Pittsburgh Pirates,Cincinnati Reds,83,5,in from Rightfield,Sunny
 21-09-2012,Los Angeles Dodgers,Cincinnati Reds,72,2,in unknown direction,Cloudy
-22-09-2012,Los Angeles Dodgers,Cincinnati Reds,72,15,out to Leftfield.,Wind15mphouttoLeftfield
+22-09-2012,Los Angeles Dodgers,Cincinnati Reds,72,15,out to Leftfield.,
 23-09-2012,Los Angeles Dodgers,Cincinnati Reds,61,7,out to Centerfield,Cloudy
 25-09-2012,Milwaukee Brewers,Cincinnati Reds,67,8,in from Rightfield,Overcast
 26-09-2012,Milwaukee Brewers,Cincinnati Reds,74,5,in unknown direction,Cloudy
-27-09-2012,Milwaukee Brewers,Cincinnati Reds,69,8,out to Leftfield.,Wind8mphouttoLeftfield
+27-09-2012,Milwaukee Brewers,Cincinnati Reds,69,8,out to Leftfield.,
 05-04-2012,Toronto Blue Jays,Cleveland Indians,44,16,in from Rightfield,Sunny
 07-04-2012,Toronto Blue Jays,Cleveland Indians,48,5,from Left to Right,Sunny
 08-04-2012,Toronto Blue Jays,Cleveland Indians,51,17,from Left to Right,Overcast
 09-04-2012,Chicago White Sox,Cleveland Indians,56,15,from Left to Right,Sunny
 11-04-2012,Chicago White Sox,Cleveland Indians,45,14,in from Leftfield,Overcast
 24-04-2012,Kansas City Royals,Cleveland Indians,56,12,from Left to Right,Sunny
-25-04-2012,Kansas City Royals,Cleveland Indians,55,10,in from Rightfield.,Wind10mphinfromRightfield
+25-04-2012,Kansas City Royals,Cleveland Indians,55,10,in from Rightfield.,
 26-04-2012,Kansas City Royals,Cleveland Indians,58,10,out to Centerfield,Overcast
 27-04-2012,Los Angeles Angels of Anaheim,Cleveland Indians,48,4,in from Rightfield,Sunny
-28-04-2012,Los Angeles Angels of Anaheim,Cleveland Indians,43,8,in from Rightfield.,Wind8mphinfromRightfield
+28-04-2012,Los Angeles Angels of Anaheim,Cleveland Indians,43,8,in from Rightfield.,
 29-04-2012,Los Angeles Angels of Anaheim,Cleveland Indians,52,11,in from Rightfield,Cloudy
-04-05-2012,Texas Rangers,Cleveland Indians,66,7,in from Rightfield.,Wind7mphinfromRightfield
+04-05-2012,Texas Rangers,Cleveland Indians,66,7,in from Rightfield.,
 05-05-2012,Texas Rangers,Cleveland Indians,58,16,in from Rightfield,Sunny
 06-05-2012,Texas Rangers,Cleveland Indians,59,10,in from Centerfield,Sunny
-08-05-2012,Chicago White Sox,Cleveland Indians,63,10,from Left to Right.,Wind10mphfromLefttoRight
+08-05-2012,Chicago White Sox,Cleveland Indians,63,10,from Left to Right.,
 09-05-2012,Chicago White Sox,Cleveland Indians,56,10,in from Centerfield,Cloudy
 16-05-2012,Seattle Mariners,Cleveland Indians,59,14,in from Rightfield,Sunny
 17-05-2012,Seattle Mariners,Cleveland Indians,60,10,in from Rightfield,Sunny
@@ -665,18 +665,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-05-2012,Kansas City Royals,Cleveland Indians,76,8,from Left to Right,Cloudy
 30-05-2012,Kansas City Royals,Cleveland Indians,70,5,in from Centerfield,Sunny
 01-06-2012,Minnesota Twins,Cleveland Indians,60,21,out to Rightfield,Overcast
-02-06-2012,Minnesota Twins,Cleveland Indians,71,15,out to Rightfield.,Wind15mphouttoRightfield
+02-06-2012,Minnesota Twins,Cleveland Indians,71,15,out to Rightfield.,
 03-06-2012,Minnesota Twins,Cleveland Indians,73,15,from Left to Right,Cloudy
 15-06-2012,Pittsburgh Pirates,Cleveland Indians,72,13,in from Centerfield,Cloudy
-16-06-2012,Pittsburgh Pirates,Cleveland Indians,78,6,in from Centerfield.,Wind6mphinfromCenterfield
-17-06-2012,Pittsburgh Pirates,Cleveland Indians,78,14,out to Centerfield.,Wind14mphouttoCenterfield
+16-06-2012,Pittsburgh Pirates,Cleveland Indians,78,6,in from Centerfield.,
+17-06-2012,Pittsburgh Pirates,Cleveland Indians,78,14,out to Centerfield.,
 18-06-2012,Cincinnati Reds,Cleveland Indians,74,15,out to Centerfield,Overcast
 19-06-2012,Cincinnati Reds,Cleveland Indians,84,11,from Left to Right,Sunny
 20-06-2012,Cincinnati Reds,Cleveland Indians,88,10,out to Rightfield,Cloudy
 02-07-2012,Los Angeles Angels of Anaheim,Cleveland Indians,83,3,in from Centerfield,Sunny
 03-07-2012,Los Angeles Angels of Anaheim,Cleveland Indians,85,12,out to Centerfield,Overcast
 04-07-2012,Los Angeles Angels of Anaheim,Cleveland Indians,92,9,from Left to Right,Cloudy
-05-07-2012,Tampa Bay Rays,Cleveland Indians,83,5,in from Centerfield.,Wind5mphinfromCenterfield
+05-07-2012,Tampa Bay Rays,Cleveland Indians,83,5,in from Centerfield.,
 06-07-2012,Tampa Bay Rays,Cleveland Indians,88,4,in from Centerfield,Cloudy
 07-07-2012,Tampa Bay Rays,Cleveland Indians,90,4,in from Centerfield,Sunny
 08-07-2012,Tampa Bay Rays,Cleveland Indians,79,9,in from Centerfield,Cloudy
@@ -686,14 +686,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-07-2012,Baltimore Orioles,Cleveland Indians,91,16,out to Rightfield,Sunny
 24-07-2012,Detroit Tigers,Cleveland Indians,78,16,in from Centerfield,Sunny
 25-07-2012,Detroit Tigers,Cleveland Indians,82,7,in from Rightfield,Cloudy
-26-07-2012,Detroit Tigers,Cleveland Indians,73,10,from Left to Right.,Wind10mphfromLefttoRight
+26-07-2012,Detroit Tigers,Cleveland Indians,73,10,from Left to Right.,
 06-08-2012,Minnesota Twins,Cleveland Indians,77,11,in from Rightfield,Sunny
 07-08-2012,Minnesota Twins,Cleveland Indians,81,7,from Left to Right,Sunny
 08-08-2012,Minnesota Twins,Cleveland Indians,83,6,from Left to Right,Cloudy
 09-08-2012,Boston Red Sox,Cleveland Indians,73,12,in from Rightfield,Overcast
 10-08-2012,Boston Red Sox,Cleveland Indians,73,13,from Left to Right,Cloudy
-11-08-2012,Boston Red Sox,Cleveland Indians,68,15,from Left to Right.,Wind15mphfromLefttoRight
-12-08-2012,Boston Red Sox,Cleveland Indians,72,8,from Left to Right.,Wind8mphfromLefttoRight
+11-08-2012,Boston Red Sox,Cleveland Indians,68,15,from Left to Right.,
+12-08-2012,Boston Red Sox,Cleveland Indians,72,8,from Left to Right.,
 24-08-2012,New York Yankees,Cleveland Indians,79,9,in from Rightfield,Sunny
 25-08-2012,New York Yankees,Cleveland Indians,82,11,out to Centerfield,Cloudy
 26-08-2012,New York Yankees,Cleveland Indians,83,8,out to Centerfield,Sunny
@@ -707,23 +707,23 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-09-2012,Detroit Tigers,Cleveland Indians,63,6,in from Centerfield,Sunny
 15-09-2012,Detroit Tigers,Cleveland Indians,68,6,from Left to Right,Sunny
 16-09-2012,Detroit Tigers,Cleveland Indians,72,6,from Left to Right,Sunny
-18-09-2012,Minnesota Twins,Cleveland Indians,59,15,from Left to Right.,Wind15mphfromLefttoRight
+18-09-2012,Minnesota Twins,Cleveland Indians,59,15,from Left to Right.,
 19-09-2012,Minnesota Twins,Cleveland Indians,62,10,out to Centerfield,Sunny
-20-09-2012,Minnesota Twins,Cleveland Indians,64,15,out to Centerfield.,Wind15mphouttoCenterfield
+20-09-2012,Minnesota Twins,Cleveland Indians,64,15,out to Centerfield.,
 28-09-2012,Kansas City Royals,Cleveland Indians,62,5,in from Centerfield,Sunny
 29-09-2012,Kansas City Royals,Cleveland Indians,63,3,from Left to Right,Cloudy
 30-09-2012,Kansas City Royals,Cleveland Indians,56,10,in from Centerfield,Cloudy
-01-10-2012,Chicago White Sox,Cleveland Indians,61,8,in from Rightfield.,Wind8mphinfromRightfield
+01-10-2012,Chicago White Sox,Cleveland Indians,61,8,in from Rightfield.,
 02-10-2012,Chicago White Sox,Cleveland Indians,64,5,in from Centerfield,Cloudy
-03-10-2012,Chicago White Sox,Cleveland Indians,64,10,out to Rightfield.,Wind10mphouttoRightfield
+03-10-2012,Chicago White Sox,Cleveland Indians,64,10,out to Rightfield.,
 09-04-2012,San Francisco Giants,Colorado Rockies,66,12,in from Centerfield,Sunny
-11-04-2012,San Francisco Giants,Colorado Rockies,63,2,out to Centerfield.,Wind2mphouttoCenterfield
+11-04-2012,San Francisco Giants,Colorado Rockies,63,2,out to Centerfield.,
 12-04-2012,San Francisco Giants,Colorado Rockies,62,8,out to Rightfield,Cloudy
 13-04-2012,Arizona Diamondbacks,Colorado Rockies,58,8,from Right to Left,Overcast
 14-04-2012,Arizona Diamondbacks,Colorado Rockies,46,12,in from Centerfield,Overcast
 15-04-2012,Arizona Diamondbacks,Colorado Rockies,48,19,in from Centerfield,Cloudy
 16-04-2012,San Diego Padres,Colorado Rockies,56,11,in from Leftfield,Sunny
-17-04-2012,San Diego Padres,Colorado Rockies,66,5,out to Leftfield.,Wind5mphouttoLeftfield
+17-04-2012,San Diego Padres,Colorado Rockies,66,5,out to Leftfield.,
 18-04-2012,San Diego Padres,Colorado Rockies,68,10,in from Rightfield,Cloudy
 27-04-2012,New York Mets,Colorado Rockies,61,20,in from Leftfield,Sunny
 28-04-2012,New York Mets,Colorado Rockies,59,5,from Left to Right,Overcast
@@ -732,70 +732,70 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-05-2012,Los Angeles Dodgers,Colorado Rockies,75,4,out to Leftfield,Cloudy
 02-05-2012,Los Angeles Dodgers,Colorado Rockies,76,3,out to Leftfield,Cloudy
 04-05-2012,Atlanta Braves,Colorado Rockies,86,7,in from Leftfield,Sunny
-05-05-2012,Atlanta Braves,Colorado Rockies,77,11,from Right to Left.,Wind11mphfromRighttoLeft
+05-05-2012,Atlanta Braves,Colorado Rockies,77,11,from Right to Left.,
 06-05-2012,Atlanta Braves,Colorado Rockies,55,3,in from Centerfield,Cloudy
-16-05-2012,Arizona Diamondbacks,Colorado Rockies,70,10,out to Centerfield.,Wind10mphouttoCenterfield
-17-05-2012,Arizona Diamondbacks,Colorado Rockies,75,7,out to Centerfield.,Wind7mphouttoCenterfield
-18-05-2012,Seattle Mariners,Colorado Rockies,78,7,out to Centerfield.,Wind7mphouttoCenterfield
-19-05-2012,Seattle Mariners,Colorado Rockies,48,6,in from Centerfield.,Wind6mphinfromCenterfield
+16-05-2012,Arizona Diamondbacks,Colorado Rockies,70,10,out to Centerfield.,
+17-05-2012,Arizona Diamondbacks,Colorado Rockies,75,7,out to Centerfield.,
+18-05-2012,Seattle Mariners,Colorado Rockies,78,7,out to Centerfield.,
+19-05-2012,Seattle Mariners,Colorado Rockies,48,6,in from Centerfield.,
 20-05-2012,Seattle Mariners,Colorado Rockies,72,4,out to Leftfield,Cloudy
 30-05-2012,Houston Astros,Colorado Rockies,73,10,from Right to Left,Cloudy
-31-05-2012,Houston Astros,Colorado Rockies,72,12,out to Leftfield.,Wind12mphouttoLeftfield
+31-05-2012,Houston Astros,Colorado Rockies,72,12,out to Leftfield.,
 01-06-2012,Los Angeles Dodgers,Colorado Rockies,77,12,in from Centerfield,Cloudy
-02-06-2012,Los Angeles Dodgers,Colorado Rockies,84,9,in from Leftfield.,Wind9mphinfromLeftfield
+02-06-2012,Los Angeles Dodgers,Colorado Rockies,84,9,in from Leftfield.,
 03-06-2012,Los Angeles Dodgers,Colorado Rockies,84,10,out to Leftfield,Cloudy
 08-06-2012,Los Angeles Angels of Anaheim,Colorado Rockies,88,10,in from Rightfield,Cloudy
 09-06-2012,Los Angeles Angels of Anaheim,Colorado Rockies,88,9,out to Leftfield,Sunny
 10-06-2012,Los Angeles Angels of Anaheim,Colorado Rockies,66,5,from Right to Left,Sunny
-12-06-2012,Oakland Athletics,Colorado Rockies,81,13,in from Leftfield.,Wind13mphinfromLeftfield
+12-06-2012,Oakland Athletics,Colorado Rockies,81,13,in from Leftfield.,
 13-06-2012,Oakland Athletics,Colorado Rockies,91,3,out to Centerfield,Cloudy
 14-06-2012,Oakland Athletics,Colorado Rockies,79,9,out to Leftfield,Sunny
 25-06-2012,Washington Nationals,Colorado Rockies,100,10,out to Leftfield,Cloudy
-26-06-2012,Washington Nationals,Colorado Rockies,93,19,out to Rightfield.,Wind19mphouttoRightfield
-27-06-2012,Washington Nationals,Colorado Rockies,75,7,out to Rightfield.,Wind7mphouttoRightfield
-28-06-2012,Washington Nationals,Colorado Rockies,93,4,in from Leftfield.,Wind4mphinfromLeftfield
-29-06-2012,San Diego Padres,Colorado Rockies,88,3,out to Centerfield.,Wind3mphouttoCenterfield
+26-06-2012,Washington Nationals,Colorado Rockies,93,19,out to Rightfield.,
+27-06-2012,Washington Nationals,Colorado Rockies,75,7,out to Rightfield.,
+28-06-2012,Washington Nationals,Colorado Rockies,93,4,in from Leftfield.,
+29-06-2012,San Diego Padres,Colorado Rockies,88,3,out to Centerfield.,
 30-06-2012,San Diego Padres,Colorado Rockies,93,10,out to Rightfield,Cloudy
 01-07-2012,San Diego Padres,Colorado Rockies,91,7,out to Centerfield,Cloudy
 13-07-2012,Philadelphia Phillies,Colorado Rockies,93,1,from Right to Left,Cloudy
-14-07-2012,Philadelphia Phillies,Colorado Rockies,91,4,in from Leftfield.,Wind4mphinfromLeftfield
+14-07-2012,Philadelphia Phillies,Colorado Rockies,91,4,in from Leftfield.,
 15-07-2012,Philadelphia Phillies,Colorado Rockies,90,7,from Right to Left,Cloudy
-16-07-2012,Pittsburgh Pirates,Colorado Rockies,68,4,in from Centerfield.,Wind4mphinfromCenterfield
-17-07-2012,Pittsburgh Pirates,Colorado Rockies,88,4,in from Centerfield.,Wind4mphinfromCenterfield
+16-07-2012,Pittsburgh Pirates,Colorado Rockies,68,4,in from Centerfield.,
+17-07-2012,Pittsburgh Pirates,Colorado Rockies,88,4,in from Centerfield.,
 18-07-2012,Pittsburgh Pirates,Colorado Rockies,88,3,out to Leftfield,Cloudy
-27-07-2012,Cincinnati Reds,Colorado Rockies,70,12,from Left to Right.,Wind12mphfromLefttoRight
-28-07-2012,Cincinnati Reds,Colorado Rockies,86,6,from Left to Right.,Wind6mphfromLefttoRight
+27-07-2012,Cincinnati Reds,Colorado Rockies,70,12,from Left to Right.,
+28-07-2012,Cincinnati Reds,Colorado Rockies,86,6,from Left to Right.,
 29-07-2012,Cincinnati Reds,Colorado Rockies,90,10,in from Centerfield,Cloudy
 31-07-2012,St. Louis Cardinals,Colorado Rockies,86,9,out to Centerfield,Cloudy
-01-08-2012,St. Louis Cardinals,Colorado Rockies,68,11,in from Centerfield.,Wind11mphinfromCenterfield
-02-08-2012,St. Louis Cardinals,Colorado Rockies,86,7,out to Leftfield.,Wind7mphouttoLeftfield
-03-08-2012,San Francisco Giants,Colorado Rockies,90,10,in from Leftfield.,Wind10mphinfromLeftfield
+01-08-2012,St. Louis Cardinals,Colorado Rockies,68,11,in from Centerfield.,
+02-08-2012,St. Louis Cardinals,Colorado Rockies,86,7,out to Leftfield.,
+03-08-2012,San Francisco Giants,Colorado Rockies,90,10,in from Leftfield.,
 04-08-2012,San Francisco Giants,Colorado Rockies,81,5,in from Rightfield,Sunny
 05-08-2012,San Francisco Giants,Colorado Rockies,82,4,out to Centerfield,Sunny
-13-08-2012,Milwaukee Brewers,Colorado Rockies,73,6,from Left to Right.,Wind6mphfromLefttoRight
+13-08-2012,Milwaukee Brewers,Colorado Rockies,73,6,from Left to Right.,
 14-08-2012,Milwaukee Brewers,Colorado Rockies,91,7,in from Rightfield,Cloudy
 15-08-2012,Milwaukee Brewers,Colorado Rockies,90,5,out to Centerfield,Cloudy
 16-08-2012,Miami Marlins,Colorado Rockies,73,12,in from Leftfield,Cloudy
 17-08-2012,Miami Marlins,Colorado Rockies,84,8,out to Leftfield,Cloudy
 18-08-2012,Miami Marlins,Colorado Rockies,79,7,in from Centerfield,Sunny
 19-08-2012,Miami Marlins,Colorado Rockies,75,7,in from Rightfield,Sunny
-27-08-2012,Los Angeles Dodgers,Colorado Rockies,84,6,out to Centerfield.,Wind6mphouttoCenterfield
+27-08-2012,Los Angeles Dodgers,Colorado Rockies,84,6,out to Centerfield.,
 28-08-2012,Los Angeles Dodgers,Colorado Rockies,88,3,out to Rightfield,Cloudy
 29-08-2012,Los Angeles Dodgers,Colorado Rockies,90,5,in from Centerfield,Cloudy
-31-08-2012,San Diego Padres,Colorado Rockies,84,5,out to Leftfield.,Wind5mphouttoLeftfield
+31-08-2012,San Diego Padres,Colorado Rockies,84,5,out to Leftfield.,
 01-09-2012,San Diego Padres,Colorado Rockies,81,9,out to Leftfield,Cloudy
 02-09-2012,San Diego Padres,Colorado Rockies,84,4,from Right to Left,Cloudy
 10-09-2012,San Francisco Giants,Colorado Rockies,88,3,out to Centerfield,Cloudy
-11-09-2012,San Francisco Giants,Colorado Rockies,81,12,in from Centerfield.,Wind12mphinfromCenterfield
+11-09-2012,San Francisco Giants,Colorado Rockies,81,12,in from Centerfield.,
 12-09-2012,San Francisco Giants,Colorado Rockies,54,4,from Right to Left,Cloudy
 21-09-2012,Arizona Diamondbacks,Colorado Rockies,75,4,from Right to Left,Sunny
 22-09-2012,Arizona Diamondbacks,Colorado Rockies,75,14,in from Leftfield,Cloudy
 23-09-2012,Arizona Diamondbacks,Colorado Rockies,82,9,out to Leftfield,Cloudy
-24-09-2012,Arizona Diamondbacks,Colorado Rockies,72,4,out to Centerfield.,Wind4mphouttoCenterfield
+24-09-2012,Arizona Diamondbacks,Colorado Rockies,72,4,out to Centerfield.,
 25-09-2012,Chicago Cubs,Colorado Rockies,54,8,out to Leftfield,Drizzle
-26-09-2012,Chicago Cubs,Colorado Rockies,59,9,in from Leftfield.,Wind9mphinfromLeftfield
-27-09-2012,Chicago Cubs,Colorado Rockies,59,4,in from Leftfield.,Wind4mphinfromLeftfield
-05-04-2012,Boston Red Sox,Detroit Tigers,43,15,from Left to Right.,Wind15mphfromLefttoRight
+26-09-2012,Chicago Cubs,Colorado Rockies,59,9,in from Leftfield.,
+27-09-2012,Chicago Cubs,Colorado Rockies,59,4,in from Leftfield.,
+05-04-2012,Boston Red Sox,Detroit Tigers,43,15,from Left to Right.,
 07-04-2012,Boston Red Sox,Detroit Tigers,62,6,from Right to Left,Sunny
 08-04-2012,Boston Red Sox,Detroit Tigers,58,15,out to Leftfield,Sunny
 10-04-2012,Tampa Bay Rays,Detroit Tigers,42,16,out to Leftfield,Cloudy
@@ -804,9 +804,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-04-2012,Texas Rangers,Detroit Tigers,62,11,from Left to Right,Cloudy
 22-04-2012,Texas Rangers,Detroit Tigers,48,15,from Left to Right,Cloudy
 24-04-2012,Seattle Mariners,Detroit Tigers,60,16,in from Leftfield,Cloudy
-25-04-2012,Seattle Mariners,Detroit Tigers,61,9,in from Rightfield.,Wind9mphinfromRightfield
-26-04-2012,Seattle Mariners,Detroit Tigers,58,58,from Right to Left.,Wind58mphfromRighttoLeft
-01-05-2012,Kansas City Royals,Detroit Tigers,55,8,in from Centerfield.,Wind8mphinfromCenterfield
+25-04-2012,Seattle Mariners,Detroit Tigers,61,9,in from Rightfield.,
+26-04-2012,Seattle Mariners,Detroit Tigers,58,58,from Right to Left.,
+01-05-2012,Kansas City Royals,Detroit Tigers,55,8,in from Centerfield.,
 02-05-2012,Kansas City Royals,Detroit Tigers,71,4,in from Rightfield,Cloudy
 04-05-2012,Chicago White Sox,Detroit Tigers,64,16,from Left to Right,Cloudy
 05-05-2012,Chicago White Sox,Detroit Tigers,66,7,in from Leftfield,Sunny
@@ -816,21 +816,21 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-05-2012,Pittsburgh Pirates,Detroit Tigers,73,8,in from Leftfield,Sunny
 19-05-2012,Pittsburgh Pirates,Detroit Tigers,83,8,from Right to Left,Sunny
 20-05-2012,Pittsburgh Pirates,Detroit Tigers,82,5,from Right to Left,Sunny
-01-06-2012,New York Yankees,Detroit Tigers,56,14,out to Leftfield.,Wind14mphouttoLeftfield
-02-06-2012,New York Yankees,Detroit Tigers,71,21,from Right to Left.,Wind21mphfromRighttoLeft
+01-06-2012,New York Yankees,Detroit Tigers,56,14,out to Leftfield.,
+02-06-2012,New York Yankees,Detroit Tigers,71,21,from Right to Left.,
 03-06-2012,New York Yankees,Detroit Tigers,77,12,from Right to Left,Sunny
 05-06-2012,Cleveland Indians,Detroit Tigers,66,10,from Left to Right,Cloudy
 06-06-2012,Cleveland Indians,Detroit Tigers,77,6,out to Leftfield,Cloudy
 07-06-2012,Cleveland Indians,Detroit Tigers,79,11,out to Rightfield,Cloudy
 15-06-2012,Colorado Rockies,Detroit Tigers,83,10,in from Leftfield,Sunny
-16-06-2012,Colorado Rockies,Detroit Tigers,86,15,in from Leftfield.,Wind15mphinfromLeftfield
+16-06-2012,Colorado Rockies,Detroit Tigers,86,15,in from Leftfield.,
 17-06-2012,Colorado Rockies,Detroit Tigers,79,7,from Right to Left,Overcast
 19-06-2012,St. Louis Cardinals,Detroit Tigers,92,14,in from Centerfield,Sunny
 20-06-2012,St. Louis Cardinals,Detroit Tigers,92,17,from Right to Left,Sunny
 21-06-2012,St. Louis Cardinals,Detroit Tigers,92,16,from Right to Left,Cloudy
 02-07-2012,Minnesota Twins,Detroit Tigers,88,12,from Right to Left,Cloudy
-03-07-2012,Minnesota Twins,Detroit Tigers,79,8,from Left to Right.,Wind8mphfromLefttoRight
-04-07-2012,Minnesota Twins,Detroit Tigers,78,12,from Right to Left.,Wind12mphfromRighttoLeft
+03-07-2012,Minnesota Twins,Detroit Tigers,79,8,from Left to Right.,
+04-07-2012,Minnesota Twins,Detroit Tigers,78,12,from Right to Left.,
 05-07-2012,Minnesota Twins,Detroit Tigers,79,8,in from Leftfield,Overcast
 06-07-2012,Kansas City Royals,Detroit Tigers,94,8,from Right to Left,Sunny
 07-07-2012,Kansas City Royals,Detroit Tigers,91,8,in from Leftfield,Sunny
@@ -838,13 +838,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-07-2012,Los Angeles Angels of Anaheim,Detroit Tigers,93,10,in from Centerfield,Cloudy
 17-07-2012,Los Angeles Angels of Anaheim,Detroit Tigers,100,12,out to Leftfield,Cloudy
 18-07-2012,Los Angeles Angels of Anaheim,Detroit Tigers,83,10,out to Rightfield,Cloudy
-19-07-2012,Los Angeles Angels of Anaheim,Detroit Tigers,69,10,from Left to Right.,Wind10mphfromLefttoRight
+19-07-2012,Los Angeles Angels of Anaheim,Detroit Tigers,69,10,from Left to Right.,
 20-07-2012,Chicago White Sox,Detroit Tigers,80,14,from Left to Right,Sunny
 21-07-2012,Chicago White Sox,Detroit Tigers,84,0,NoWind,Sunny
 22-07-2012,Chicago White Sox,Detroit Tigers,84,12,out to Leftfield,Cloudy
 03-08-2012,Cleveland Indians,Detroit Tigers,91,10,from Left to Right,Sunny
 04-08-2012,Cleveland Indians,Detroit Tigers,89,0,NoWind,Cloudy
-05-08-2012,Cleveland Indians,Detroit Tigers,82,8,out to Leftfield.,Wind8mphouttoLeftfield
+05-08-2012,Cleveland Indians,Detroit Tigers,82,8,out to Leftfield.,
 06-08-2012,New York Yankees,Detroit Tigers,80,8,in from Rightfield,Sunny
 07-08-2012,New York Yankees,Detroit Tigers,87,13,in from Rightfield,Sunny
 08-08-2012,New York Yankees,Detroit Tigers,87,9,in from Leftfield,Cloudy
@@ -852,40 +852,40 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-08-2012,Baltimore Orioles,Detroit Tigers,76,9,out to Leftfield,Cloudy
 18-08-2012,Baltimore Orioles,Detroit Tigers,72,6,from Left to Right,Sunny
 19-08-2012,Baltimore Orioles,Detroit Tigers,73,4,from Left to Right,Cloudy
-21-08-2012,Toronto Blue Jays,Detroit Tigers,68,8,in from Rightfield.,Wind8mphinfromRightfield
+21-08-2012,Toronto Blue Jays,Detroit Tigers,68,8,in from Rightfield.,
 22-08-2012,Toronto Blue Jays,Detroit Tigers,78,8,from Right to Left,Sunny
 23-08-2012,Toronto Blue Jays,Detroit Tigers,81,6,from Right to Left,Sunny
 24-08-2012,Los Angeles Angels of Anaheim,Detroit Tigers,85,8,in from Rightfield,Sunny
 25-08-2012,Los Angeles Angels of Anaheim,Detroit Tigers,88,13,out to Centerfield,Sunny
 26-08-2012,Los Angeles Angels of Anaheim,Detroit Tigers,81,9,in from Rightfield,Sunny
 31-08-2012,Chicago White Sox,Detroit Tigers,94,10,out to Leftfield,Cloudy
-01-09-2012,Chicago White Sox,Detroit Tigers,80,7,in from Leftfield.,Wind7mphinfromLeftfield
+01-09-2012,Chicago White Sox,Detroit Tigers,80,7,in from Leftfield.,
 02-09-2012,Chicago White Sox,Detroit Tigers,78,10,in from Leftfield,Cloudy
 03-09-2012,Cleveland Indians,Detroit Tigers,81,6,in from Rightfield,Sunny
 04-09-2012,Cleveland Indians,Detroit Tigers,79,7,in from Centerfield,Cloudy
 05-09-2012,Cleveland Indians,Detroit Tigers,78,5,from Right to Left,Cloudy
-18-09-2012,Oakland Athletics,Detroit Tigers,56,11,out to Leftfield.,Wind11mphouttoLeftfield
+18-09-2012,Oakland Athletics,Detroit Tigers,56,11,out to Leftfield.,
 19-09-2012,Oakland Athletics,Detroit Tigers,64,13,in from Rightfield,Cloudy
-20-09-2012,Oakland Athletics,Detroit Tigers,54,12,from Right to Left.,Wind12mphfromRighttoLeft
+20-09-2012,Oakland Athletics,Detroit Tigers,54,12,from Right to Left.,
 22-09-2012,Minnesota Twins,Detroit Tigers,58,9,out to Leftfield,Overcast
 24-09-2012,Kansas City Royals,Detroit Tigers,63,17,from Right to Left,Sunny
-25-09-2012,Kansas City Royals,Detroit Tigers,68,13,in from Rightfield.,Wind13mphinfromRightfield
+25-09-2012,Kansas City Royals,Detroit Tigers,68,13,in from Rightfield.,
 26-09-2012,Kansas City Royals,Detroit Tigers,63,6,from Left to Right,Cloudy
 27-09-2012,Kansas City Royals,Detroit Tigers,59,13,from Left to Right,Cloudy
 06-04-2012,Colorado Rockies,Houston Astros,79,9,out to Leftfield,Cloudy
 07-04-2012,Colorado Rockies,Houston Astros,80,8,from Right to Left,Sunny
 08-04-2012,Colorado Rockies,Houston Astros,72,0,NoWind,InDome
 09-04-2012,Atlanta Braves,Houston Astros,79,4,out to Centerfield,Cloudy
-10-04-2012,Atlanta Braves,Houston Astros,78,9,out to Leftfield.,Wind9mphouttoLeftfield
+10-04-2012,Atlanta Braves,Houston Astros,78,9,out to Leftfield.,
 11-04-2012,Atlanta Braves,Houston Astros,81,13,out to Leftfield,Cloudy
 20-04-2012,Los Angeles Dodgers,Houston Astros,73,0,NoWind,InDome
 21-04-2012,Los Angeles Dodgers,Houston Astros,73,18,in from Centerfield,Sunny
 22-04-2012,Los Angeles Dodgers,Houston Astros,75,8,in from Centerfield,Sunny
 30-04-2012,New York Mets,Houston Astros,80,14,out to Leftfield,Overcast
-01-05-2012,New York Mets,Houston Astros,80,13,out to Centerfield.,Wind13mphouttoCenterfield
+01-05-2012,New York Mets,Houston Astros,80,13,out to Centerfield.,
 02-05-2012,New York Mets,Houston Astros,72,0,NoWind,InDome
 04-05-2012,St. Louis Cardinals,Houston Astros,84,13,out to Leftfield,Cloudy
-05-05-2012,St. Louis Cardinals,Houston Astros,87,14,out to Centerfield.,Wind14mphouttoCenterfield
+05-05-2012,St. Louis Cardinals,Houston Astros,87,14,out to Centerfield.,
 06-05-2012,St. Louis Cardinals,Houston Astros,72,0,NoWind,InDome
 07-05-2012,Miami Marlins,Houston Astros,72,0,NoWind,InDome
 08-05-2012,Miami Marlins,Houston Astros,72,0,NoWind,InDome
@@ -955,7 +955,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-09-2012,St. Louis Cardinals,Houston Astros,73,0,NoWind,InDome
 13-04-2012,Cleveland Indians,Kansas City Royals,66,12,from Right to Left,Overcast
 14-04-2012,Cleveland Indians,Kansas City Royals,72,13,from Right to Left,Drizzle
-15-04-2012,Cleveland Indians,Kansas City Royals,72,17,from Right to Left.,Wind17mphfromRighttoLeft
+15-04-2012,Cleveland Indians,Kansas City Royals,72,17,from Right to Left.,
 16-04-2012,Detroit Tigers,Kansas City Royals,64,6,out to Rightfield,Cloudy
 17-04-2012,Detroit Tigers,Kansas City Royals,69,13,from Right to Left,Cloudy
 18-04-2012,Detroit Tigers,Kansas City Royals,76,16,from Right to Left,Cloudy
@@ -963,7 +963,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-04-2012,Toronto Blue Jays,Kansas City Royals,68,4,from Left to Right,Sunny
 22-04-2012,Toronto Blue Jays,Kansas City Royals,58,14,from Left to Right,Cloudy
 23-04-2012,Toronto Blue Jays,Kansas City Royals,65,0,NoWind,Sunny
-03-05-2012,New York Yankees,Kansas City Royals,83,15,from Right to Left.,Wind15mphfromRighttoLeft
+03-05-2012,New York Yankees,Kansas City Royals,83,15,from Right to Left.,
 04-05-2012,New York Yankees,Kansas City Royals,85,13,from Right to Left,Cloudy
 05-05-2012,New York Yankees,Kansas City Royals,87,17,from Right to Left,Sunny
 06-05-2012,New York Yankees,Kansas City Royals,72,7,from Right to Left,Rain
@@ -985,7 +985,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-06-2012,Milwaukee Brewers,Kansas City Royals,86,13,from Right to Left,Sunny
 14-06-2012,Milwaukee Brewers,Kansas City Royals,87,15,from Right to Left,Sunny
 22-06-2012,St. Louis Cardinals,Kansas City Royals,85,11,in from Rightfield,Sunny
-23-06-2012,St. Louis Cardinals,Kansas City Royals,77,9,in from Rightfield.,Wind9mphinfromRightfield
+23-06-2012,St. Louis Cardinals,Kansas City Royals,77,9,in from Rightfield.,
 24-06-2012,St. Louis Cardinals,Kansas City Royals,96,12,from Right to Left,Sunny
 25-06-2012,Tampa Bay Rays,Kansas City Royals,89,17,in from Rightfield,Sunny
 26-06-2012,Tampa Bay Rays,Kansas City Royals,93,14,from Right to Left,Sunny
@@ -1004,13 +1004,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-08-2012,Cleveland Indians,Kansas City Royals,99,13,in from Rightfield,Sunny
 02-08-2012,Cleveland Indians,Kansas City Royals,94,4,from Left to Right,Sunny
 03-08-2012,Texas Rangers,Kansas City Royals,93,10,in from Rightfield,Cloudy
-04-08-2012,Texas Rangers,Kansas City Royals,91,12,from Left to Right.,Wind12mphfromLefttoRight
+04-08-2012,Texas Rangers,Kansas City Royals,91,12,from Left to Right.,
 05-08-2012,Texas Rangers,Kansas City Royals,87,9,from Left to Right,Sunny
 14-08-2012,Oakland Athletics,Kansas City Royals,72,10,from Right to Left,Sunny
 15-08-2012,Oakland Athletics,Kansas City Royals,93,12,from Right to Left,Sunny
-16-08-2012,Oakland Athletics,Kansas City Royals,73,10,from Left to Right.,Wind10mphfromLefttoRight
+16-08-2012,Oakland Athletics,Kansas City Royals,73,10,from Left to Right.,
 17-08-2012,Chicago White Sox,Kansas City Royals,82,4,in from Rightfield,Sunny
-18-08-2012,Chicago White Sox,Kansas City Royals,81,4,from Left to Right.,Wind4mphfromLefttoRight
+18-08-2012,Chicago White Sox,Kansas City Royals,81,4,from Left to Right.,
 19-08-2012,Chicago White Sox,Kansas City Royals,80,10,from Left to Right,Sunny
 28-08-2012,Detroit Tigers,Kansas City Royals,94,2,in from Rightfield,Sunny
 29-08-2012,Detroit Tigers,Kansas City Royals,96,5,from Right to Left,Sunny
@@ -1022,7 +1022,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-09-2012,Texas Rangers,Kansas City Royals,90,5,from Right to Left,Sunny
 14-09-2012,Los Angeles Angels of Anaheim,Kansas City Royals,68,10,in from Rightfield,Cloudy
 15-09-2012,Los Angeles Angels of Anaheim,Kansas City Royals,70,8,from Right to Left,Cloudy
-16-09-2012,Los Angeles Angels of Anaheim,Kansas City Royals,70,7,from Right to Left.,Wind7mphfromRighttoLeft
+16-09-2012,Los Angeles Angels of Anaheim,Kansas City Royals,70,7,from Right to Left.,
 18-09-2012,Chicago White Sox,Kansas City Royals,68,5,from Left to Right,Sunny
 19-09-2012,Chicago White Sox,Kansas City Royals,79,14,from Right to Left,Cloudy
 20-09-2012,Chicago White Sox,Kansas City Royals,73,1,in unknown direction,Sunny
@@ -1035,11 +1035,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-04-2012,Pittsburgh Pirates,Los Angeles Dodgers,67,5,out to Centerfield,Sunny
 11-04-2012,Pittsburgh Pirates,Los Angeles Dodgers,58,8,out to Rightfield,Cloudy
 12-04-2012,Pittsburgh Pirates,Los Angeles Dodgers,57,9,from Left to Right,Overcast
-13-04-2012,San Diego Padres,Los Angeles Dodgers,54,14,out to Rightfield.,Wind14mphouttoRightfield
+13-04-2012,San Diego Padres,Los Angeles Dodgers,54,14,out to Rightfield.,
 14-04-2012,San Diego Padres,Los Angeles Dodgers,57,10,out to Leftfield,Cloudy
 15-04-2012,San Diego Padres,Los Angeles Dodgers,65,7,out to Centerfield,Sunny
 23-04-2012,Atlanta Braves,Los Angeles Dodgers,60,7,out to Centerfield,Overcast
-24-04-2012,Atlanta Braves,Los Angeles Dodgers,63,4,out to Rightfield.,Wind4mphouttoRightfield
+24-04-2012,Atlanta Braves,Los Angeles Dodgers,63,4,out to Rightfield.,
 25-04-2012,Atlanta Braves,Los Angeles Dodgers,64,3,in unknown direction,Cloudy
 27-04-2012,Washington Nationals,Los Angeles Dodgers,66,6,out to Leftfield,Sunny
 28-04-2012,Washington Nationals,Los Angeles Dodgers,71,4,in unknown direction,Sunny
@@ -1080,7 +1080,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-07-2012,San Diego Padres,Los Angeles Dodgers,77,8,out to Rightfield,Sunny
 16-07-2012,Philadelphia Phillies,Los Angeles Dodgers,67,7,in unknown direction,Sunny
 17-07-2012,Philadelphia Phillies,Los Angeles Dodgers,70,6,out to Centerfield,Sunny
-18-07-2012,Philadelphia Phillies,Los Angeles Dodgers,80,7,out to Centerfield.,Wind7mphouttoCenterfield
+18-07-2012,Philadelphia Phillies,Los Angeles Dodgers,80,7,out to Centerfield.,
 30-07-2012,Arizona Diamondbacks,Los Angeles Dodgers,73,6,out to Rightfield,Sunny
 31-07-2012,Arizona Diamondbacks,Los Angeles Dodgers,75,4,out to Centerfield,Cloudy
 01-08-2012,Arizona Diamondbacks,Los Angeles Dodgers,79,7,from Left to Right,Sunny
@@ -1102,7 +1102,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-09-2012,Arizona Diamondbacks,Los Angeles Dodgers,89,7,out to Centerfield,Sunny
 03-09-2012,San Diego Padres,Los Angeles Dodgers,84,4,out to Rightfield,Cloudy
 04-09-2012,San Diego Padres,Los Angeles Dodgers,78,6,out to Centerfield,Sunny
-05-09-2012,San Diego Padres,Los Angeles Dodgers,77,7,out to Centerfield.,Wind7mphouttoCenterfield
+05-09-2012,San Diego Padres,Los Angeles Dodgers,77,7,out to Centerfield.,
 13-09-2012,St. Louis Cardinals,Los Angeles Dodgers,80,7,out to Rightfield,Sunny
 14-09-2012,St. Louis Cardinals,Los Angeles Dodgers,85,5,out to Rightfield,Sunny
 15-09-2012,St. Louis Cardinals,Los Angeles Dodgers,95,8,out to Centerfield,Sunny
@@ -1207,10 +1207,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 24-04-2012,Houston Astros,Milwaukee Brewers,67,0,NoWind,InDome
 25-04-2012,Houston Astros,Milwaukee Brewers,70,0,NoWind,InDome
 07-05-2012,Cincinnati Reds,Milwaukee Brewers,67,0,NoWind,InDome
-08-05-2012,Cincinnati Reds,Milwaukee Brewers,67,13,out to Centerfield.,Wind13mphouttoCenterfield
+08-05-2012,Cincinnati Reds,Milwaukee Brewers,67,13,out to Centerfield.,
 09-05-2012,Cincinnati Reds,Milwaukee Brewers,67,0,NoWind,InDome
 11-05-2012,Chicago Cubs,Milwaukee Brewers,75,17,from Right to Left,Sunny
-12-05-2012,Chicago Cubs,Milwaukee Brewers,59,10,from Left to Right.,Wind10mphfromLefttoRight
+12-05-2012,Chicago Cubs,Milwaukee Brewers,59,10,from Left to Right.,
 13-05-2012,Chicago Cubs,Milwaukee Brewers,64,8,in from Leftfield,Sunny
 18-05-2012,Minnesota Twins,Milwaukee Brewers,77,12,in from Centerfield,Sunny
 19-05-2012,Minnesota Twins,Milwaukee Brewers,84,12,in from Centerfield,Cloudy
@@ -1227,12 +1227,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-06-2012,San Diego Padres,Milwaukee Brewers,86,10,out to Leftfield,Sunny
 09-06-2012,San Diego Padres,Milwaukee Brewers,87,12,from Right to Left,Sunny
 10-06-2012,San Diego Padres,Milwaukee Brewers,87,15,from Right to Left,Sunny
-18-06-2012,Toronto Blue Jays,Milwaukee Brewers,90,25,from Right to Left.,Wind25mphfromRighttoLeft
+18-06-2012,Toronto Blue Jays,Milwaukee Brewers,90,25,from Right to Left.,
 19-06-2012,Toronto Blue Jays,Milwaukee Brewers,94,18,from Right to Left,Sunny
 20-06-2012,Toronto Blue Jays,Milwaukee Brewers,89,18,from Right to Left,Sunny
 29-06-2012,Arizona Diamondbacks,Milwaukee Brewers,86,11,in from Centerfield,Cloudy
 30-06-2012,Arizona Diamondbacks,Milwaukee Brewers,87,10,in from Leftfield,Cloudy
-01-07-2012,Arizona Diamondbacks,Milwaukee Brewers,82,5,in from Leftfield.,Wind5mphinfromLeftfield
+01-07-2012,Arizona Diamondbacks,Milwaukee Brewers,82,5,in from Leftfield.,
 02-07-2012,Miami Marlins,Milwaukee Brewers,89,13,in from Centerfield,Sunny
 03-07-2012,Miami Marlins,Milwaukee Brewers,94,12,from Right to Left,Cloudy
 04-07-2012,Miami Marlins,Milwaukee Brewers,100,12,out to Leftfield,Sunny
@@ -1241,34 +1241,34 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-07-2012,Pittsburgh Pirates,Milwaukee Brewers,87,12,in from Rightfield,Cloudy
 15-07-2012,Pittsburgh Pirates,Milwaukee Brewers,85,8,from Left to Right,Cloudy
 16-07-2012,St. Louis Cardinals,Milwaukee Brewers,95,18,from Right to Left,Sunny
-17-07-2012,St. Louis Cardinals,Milwaukee Brewers,85,26,from Left to Right.,Wind26mphfromLefttoRight
-18-07-2012,St. Louis Cardinals,Milwaukee Brewers,81,7,in from Leftfield.,Wind7mphinfromLeftfield
+17-07-2012,St. Louis Cardinals,Milwaukee Brewers,85,26,from Left to Right.,
+18-07-2012,St. Louis Cardinals,Milwaukee Brewers,81,7,in from Leftfield.,
 26-07-2012,Washington Nationals,Milwaukee Brewers,77,5,out to Leftfield,Sunny
-27-07-2012,Washington Nationals,Milwaukee Brewers,74,15,from Left to Right.,Wind15mphfromLefttoRight
+27-07-2012,Washington Nationals,Milwaukee Brewers,74,15,from Left to Right.,
 28-07-2012,Washington Nationals,Milwaukee Brewers,76,8,in from Leftfield,Cloudy
-29-07-2012,Washington Nationals,Milwaukee Brewers,81,9,from Right to Left.,Wind9mphfromRighttoLeft
+29-07-2012,Washington Nationals,Milwaukee Brewers,81,9,from Right to Left.,
 30-07-2012,Houston Astros,Milwaukee Brewers,90,13,from Right to Left,Sunny
 31-07-2012,Houston Astros,Milwaukee Brewers,79,7,in from Leftfield,Sunny
 01-08-2012,Houston Astros,Milwaukee Brewers,85,4,from Right to Left,Cloudy
 06-08-2012,Cincinnati Reds,Milwaukee Brewers,85,10,out to Leftfield,Sunny
 07-08-2012,Cincinnati Reds,Milwaukee Brewers,84,7,from Left to Right,Cloudy
-08-08-2012,Cincinnati Reds,Milwaukee Brewers,79,10,in from Leftfield.,Wind10mphinfromLeftfield
+08-08-2012,Cincinnati Reds,Milwaukee Brewers,79,10,in from Leftfield.,
 16-08-2012,Philadelphia Phillies,Milwaukee Brewers,75,13,out to Leftfield,Cloudy
 17-08-2012,Philadelphia Phillies,Milwaukee Brewers,72,8,from Left to Right,Sunny
-18-08-2012,Philadelphia Phillies,Milwaukee Brewers,73,5,out to Centerfield.,Wind5mphouttoCenterfield
+18-08-2012,Philadelphia Phillies,Milwaukee Brewers,73,5,out to Centerfield.,
 19-08-2012,Philadelphia Phillies,Milwaukee Brewers,73,5,out to Centerfield,Cloudy
 20-08-2012,Chicago Cubs,Milwaukee Brewers,75,0,NoWind,InDome
 21-08-2012,Chicago Cubs,Milwaukee Brewers,76,9,in from Centerfield,Sunny
 22-08-2012,Chicago Cubs,Milwaukee Brewers,78,11,in from Rightfield,Sunny
 31-08-2012,Pittsburgh Pirates,Milwaukee Brewers,77,10,from Left to Right,Overcast
-01-09-2012,Pittsburgh Pirates,Milwaukee Brewers,71,13,out to Rightfield.,Wind13mphouttoRightfield
+01-09-2012,Pittsburgh Pirates,Milwaukee Brewers,71,13,out to Rightfield.,
 02-09-2012,Pittsburgh Pirates,Milwaukee Brewers,76,13,in from Leftfield,Cloudy
 10-09-2012,Atlanta Braves,Milwaukee Brewers,71,14,from Right to Left,Sunny
 11-09-2012,Atlanta Braves,Milwaukee Brewers,79,12,from Right to Left,Sunny
 12-09-2012,Atlanta Braves,Milwaukee Brewers,80,9,from Right to Left,Cloudy
 14-09-2012,New York Mets,Milwaukee Brewers,70,8,out to Rightfield,Cloudy
 15-09-2012,New York Mets,Milwaukee Brewers,74,9,in from Leftfield,Cloudy
-16-09-2012,New York Mets,Milwaukee Brewers,73,14,from Right to Left.,Wind14mphfromRighttoLeft
+16-09-2012,New York Mets,Milwaukee Brewers,73,14,from Right to Left.,
 28-09-2012,Houston Astros,Milwaukee Brewers,67,0,NoWind,InDome
 29-09-2012,Houston Astros,Milwaukee Brewers,70,0,NoWind,InDome
 30-09-2012,Houston Astros,Milwaukee Brewers,70,0,NoWind,InDome
@@ -1284,8 +1284,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-04-2012,Boston Red Sox,Minnesota Twins,62,5,out to Rightfield,Cloudy
 24-04-2012,Boston Red Sox,Minnesota Twins,71,0,NoWind,Sunny
 25-04-2012,Boston Red Sox,Minnesota Twins,71,6,from Left to Right,Sunny
-27-04-2012,Kansas City Royals,Minnesota Twins,53,21,from Right to Left.,Wind21mphfromRighttoLeft
-29-04-2012,Kansas City Royals,Minnesota Twins,55,17,in from Leftfield.,Wind17mphinfromLeftfield
+27-04-2012,Kansas City Royals,Minnesota Twins,53,21,from Right to Left.,
+29-04-2012,Kansas City Royals,Minnesota Twins,55,17,in from Leftfield.,
 07-05-2012,Los Angeles Angels of Anaheim,Minnesota Twins,65,17,out to Rightfield,Cloudy
 08-05-2012,Los Angeles Angels of Anaheim,Minnesota Twins,52,7,out to Leftfield,Cloudy
 09-05-2012,Los Angeles Angels of Anaheim,Minnesota Twins,65,1,from Right to Left,Cloudy
@@ -1309,7 +1309,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-06-2012,Philadelphia Phillies,Minnesota Twins,67,19,in from Rightfield,Overcast
 15-06-2012,Milwaukee Brewers,Minnesota Twins,78,9,in from Centerfield,Overcast
 16-06-2012,Milwaukee Brewers,Minnesota Twins,74,5,from Right to Left,Cloudy
-17-06-2012,Milwaukee Brewers,Minnesota Twins,79,12,from Right to Left.,Wind12mphfromRighttoLeft
+17-06-2012,Milwaukee Brewers,Minnesota Twins,79,12,from Right to Left.,
 25-06-2012,Chicago White Sox,Minnesota Twins,76,11,from Right to Left,Sunny
 26-06-2012,Chicago White Sox,Minnesota Twins,81,17,in from Leftfield,Sunny
 27-06-2012,Chicago White Sox,Minnesota Twins,83,13,from Right to Left,Sunny
@@ -1327,13 +1327,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-07-2012,Cleveland Indians,Minnesota Twins,72,7,in from Rightfield,Cloudy
 30-07-2012,Chicago White Sox,Minnesota Twins,85,13,out to Rightfield,Cloudy
 31-07-2012,Chicago White Sox,Minnesota Twins,77,7,in from Leftfield,Cloudy
-01-08-2012,Chicago White Sox,Minnesota Twins,81,11,from Right to Left.,Wind11mphfromRighttoLeft
+01-08-2012,Chicago White Sox,Minnesota Twins,81,11,from Right to Left.,
 10-08-2012,Tampa Bay Rays,Minnesota Twins,76,13,in from Leftfield,Cloudy
-11-08-2012,Tampa Bay Rays,Minnesota Twins,77,6,from Right to Left.,Wind6mphfromRighttoLeft
+11-08-2012,Tampa Bay Rays,Minnesota Twins,77,6,from Right to Left.,
 12-08-2012,Tampa Bay Rays,Minnesota Twins,68,6,out to Rightfield,Overcast
 13-08-2012,Detroit Tigers,Minnesota Twins,80,10,from Left to Right,Cloudy
 14-08-2012,Detroit Tigers,Minnesota Twins,75,4,from Left to Right,Overcast
-15-08-2012,Detroit Tigers,Minnesota Twins,72,11,from Right to Left.,Wind11mphfromRighttoLeft
+15-08-2012,Detroit Tigers,Minnesota Twins,72,11,from Right to Left.,
 27-08-2012,Seattle Mariners,Minnesota Twins,84,6,out to Rightfield,Sunny
 28-08-2012,Seattle Mariners,Minnesota Twins,83,10,in from Rightfield,Overcast
 29-08-2012,Seattle Mariners,Minnesota Twins,91,9,out to Leftfield,Sunny
@@ -1356,19 +1356,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-09-2012,Detroit Tigers,Minnesota Twins,70,4,out to Leftfield,Cloudy
 13-04-2012,Los Angeles Angels of Anaheim,New York Yankees,59,3,from Left to Right,Sunny
 14-04-2012,Los Angeles Angels of Anaheim,New York Yankees,68,4,from Right to Left,Cloudy
-15-04-2012,Los Angeles Angels of Anaheim,New York Yankees,74,13,out to Centerfield.,Wind13mphouttoCenterfield
+15-04-2012,Los Angeles Angels of Anaheim,New York Yankees,74,13,out to Centerfield.,
 16-04-2012,Minnesota Twins,New York Yankees,77,13,in from Leftfield,Cloudy
 17-04-2012,Minnesota Twins,New York Yankees,73,13,out to Rightfield,Cloudy
-18-04-2012,Minnesota Twins,New York Yankees,58,6,from Right to Left.,Wind6mphfromRighttoLeft
+18-04-2012,Minnesota Twins,New York Yankees,58,6,from Right to Left.,
 19-04-2012,Minnesota Twins,New York Yankees,60,10,from Right to Left,Cloudy
 27-04-2012,Detroit Tigers,New York Yankees,47,21,in from Leftfield,Cloudy
 28-04-2012,Detroit Tigers,New York Yankees,58,9,out to Rightfield,Cloudy
 29-04-2012,Detroit Tigers,New York Yankees,57,14,out to Rightfield,Sunny
 30-04-2012,Baltimore Orioles,New York Yankees,52,8,from Right to Left,Cloudy
 01-05-2012,Baltimore Orioles,New York Yankees,66,7,from Left to Right,Cloudy
-02-05-2012,Baltimore Orioles,New York Yankees,53,7,in from Centerfield.,Wind7mphinfromCenterfield
-08-05-2012,Tampa Bay Rays,New York Yankees,61,16,from Right to Left.,Wind16mphfromRighttoLeft
-09-05-2012,Tampa Bay Rays,New York Yankees,66,5,from Right to Left.,Wind5mphfromRighttoLeft
+02-05-2012,Baltimore Orioles,New York Yankees,53,7,in from Centerfield.,
+08-05-2012,Tampa Bay Rays,New York Yankees,61,16,from Right to Left.,
+09-05-2012,Tampa Bay Rays,New York Yankees,66,5,from Right to Left.,
 10-05-2012,Tampa Bay Rays,New York Yankees,61,19,out to Rightfield,Cloudy
 11-05-2012,Seattle Mariners,New York Yankees,68,17,out to Rightfield,Sunny
 12-05-2012,Seattle Mariners,New York Yankees,77,9,out to Leftfield,Cloudy
@@ -1377,165 +1377,165 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-05-2012,Cincinnati Reds,New York Yankees,74,8,in from Centerfield,Sunny
 20-05-2012,Cincinnati Reds,New York Yankees,72,12,from Left to Right,Sunny
 21-05-2012,Kansas City Royals,New York Yankees,61,9,from Left to Right,Overcast
-22-05-2012,Kansas City Royals,New York Yankees,67,7,out to Rightfield.,Wind7mphouttoRightfield
-23-05-2012,Kansas City Royals,New York Yankees,71,9,from Right to Left.,Wind9mphfromRighttoLeft
-05-06-2012,Tampa Bay Rays,New York Yankees,62,11,from Right to Left.,Wind11mphfromRighttoLeft
-06-06-2012,Tampa Bay Rays,New York Yankees,68,10,in from Rightfield.,Wind10mphinfromRightfield
+22-05-2012,Kansas City Royals,New York Yankees,67,7,out to Rightfield.,
+23-05-2012,Kansas City Royals,New York Yankees,71,9,from Right to Left.,
+05-06-2012,Tampa Bay Rays,New York Yankees,62,11,from Right to Left.,
+06-06-2012,Tampa Bay Rays,New York Yankees,68,10,in from Rightfield.,
 07-06-2012,Tampa Bay Rays,New York Yankees,70,4,out to Rightfield,Overcast
-08-06-2012,New York Mets,New York Yankees,77,11,from Right to Left.,Wind11mphfromRighttoLeft
-09-06-2012,New York Mets,New York Yankees,75,6,from Right to Left.,Wind6mphfromRighttoLeft
+08-06-2012,New York Mets,New York Yankees,77,11,from Right to Left.,
+09-06-2012,New York Mets,New York Yankees,75,6,from Right to Left.,
 10-06-2012,New York Mets,New York Yankees,81,5,in from Leftfield,Cloudy
 18-06-2012,Atlanta Braves,New York Yankees,67,12,out to Leftfield,Cloudy
-19-06-2012,Atlanta Braves,New York Yankees,72,13,from Right to Left.,Wind13mphfromRighttoLeft
+19-06-2012,Atlanta Braves,New York Yankees,72,13,from Right to Left.,
 20-06-2012,Atlanta Braves,New York Yankees,94,5,out to Centerfield,Sunny
-25-06-2012,Cleveland Indians,New York Yankees,64,9,in from Leftfield.,Wind9mphinfromLeftfield
-26-06-2012,Cleveland Indians,New York Yankees,72,15,out to Rightfield.,Wind15mphouttoRightfield
+25-06-2012,Cleveland Indians,New York Yankees,64,9,in from Leftfield.,
+26-06-2012,Cleveland Indians,New York Yankees,72,15,out to Rightfield.,
 27-06-2012,Cleveland Indians,New York Yankees,78,16,out to Rightfield,Cloudy
 28-06-2012,Chicago White Sox,New York Yankees,88,8,out to Centerfield,Cloudy
 29-06-2012,Chicago White Sox,New York Yankees,95,12,out to Rightfield,Sunny
 30-06-2012,Chicago White Sox,New York Yankees,93,8,out to Leftfield,Cloudy
 01-07-2012,Chicago White Sox,New York Yankees,95,15,from Right to Left,Sunny
-13-07-2012,Los Angeles Angels of Anaheim,New York Yankees,81,14,from Right to Left.,Wind14mphfromRighttoLeft
-14-07-2012,Los Angeles Angels of Anaheim,New York Yankees,85,6,from Right to Left.,Wind6mphfromRighttoLeft
-15-07-2012,Los Angeles Angels of Anaheim,New York Yankees,87,9,out to Leftfield.,Wind9mphouttoLeftfield
+13-07-2012,Los Angeles Angels of Anaheim,New York Yankees,81,14,from Right to Left.,
+14-07-2012,Los Angeles Angels of Anaheim,New York Yankees,85,6,from Right to Left.,
+15-07-2012,Los Angeles Angels of Anaheim,New York Yankees,87,9,out to Leftfield.,
 16-07-2012,Toronto Blue Jays,New York Yankees,89,9,out to Rightfield,Cloudy
 17-07-2012,Toronto Blue Jays,New York Yankees,95,14,out to Centerfield,Cloudy
 18-07-2012,Toronto Blue Jays,New York Yankees,94,13,out to Leftfield,Cloudy
-27-07-2012,Boston Red Sox,New York Yankees,86,5,from Left to Right.,Wind5mphfromLefttoRight
-28-07-2012,Boston Red Sox,New York Yankees,69,10,in from Centerfield.,Wind10mphinfromCenterfield
+27-07-2012,Boston Red Sox,New York Yankees,86,5,from Left to Right.,
+28-07-2012,Boston Red Sox,New York Yankees,69,10,in from Centerfield.,
 29-07-2012,Boston Red Sox,New York Yankees,76,4,from Left to Right,Cloudy
 30-07-2012,Baltimore Orioles,New York Yankees,77,14,from Right to Left,Cloudy
-31-07-2012,Baltimore Orioles,New York Yankees,76,10,from Left to Right.,Wind10mphfromLefttoRight
+31-07-2012,Baltimore Orioles,New York Yankees,76,10,from Left to Right.,
 01-08-2012,Baltimore Orioles,New York Yankees,80,8,from Right to Left,Overcast
-03-08-2012,Seattle Mariners,New York Yankees,84,9,from Right to Left.,Wind9mphfromRighttoLeft
+03-08-2012,Seattle Mariners,New York Yankees,84,9,from Right to Left.,
 04-08-2012,Seattle Mariners,New York Yankees,91,11,from Right to Left,Cloudy
-05-08-2012,Seattle Mariners,New York Yankees,89,13,from Right to Left.,Wind13mphfromRighttoLeft
+05-08-2012,Seattle Mariners,New York Yankees,89,13,from Right to Left.,
 13-08-2012,Texas Rangers,New York Yankees,84,11,out to Rightfield,Cloudy
-14-08-2012,Texas Rangers,New York Yankees,78,10,from Right to Left.,Wind10mphfromRighttoLeft
+14-08-2012,Texas Rangers,New York Yankees,78,10,from Right to Left.,
 15-08-2012,Texas Rangers,New York Yankees,71,3,out to Rightfield,Overcast
 16-08-2012,Texas Rangers,New York Yankees,82,8,out to Rightfield,Cloudy
 17-08-2012,Boston Red Sox,New York Yankees,78,10,out to Leftfield,Cloudy
 18-08-2012,Boston Red Sox,New York Yankees,78,5,from Left to Right,Sunny
-19-08-2012,Boston Red Sox,New York Yankees,72,3,out to Centerfield.,Wind3mphouttoCenterfield
-27-08-2012,Toronto Blue Jays,New York Yankees,78,10,from Right to Left.,Wind10mphfromRighttoLeft
+19-08-2012,Boston Red Sox,New York Yankees,72,3,out to Centerfield.,
+27-08-2012,Toronto Blue Jays,New York Yankees,78,10,from Right to Left.,
 28-08-2012,Toronto Blue Jays,New York Yankees,83,14,out to Rightfield,Sunny
 29-08-2012,Toronto Blue Jays,New York Yankees,76,13,out to Rightfield,Sunny
 31-08-2012,Baltimore Orioles,New York Yankees,87,13,out to Centerfield,Sunny
 01-09-2012,Baltimore Orioles,New York Yankees,88,7,from Left to Right,Cloudy
-02-09-2012,Baltimore Orioles,New York Yankees,80,10,from Right to Left.,Wind10mphfromRighttoLeft
+02-09-2012,Baltimore Orioles,New York Yankees,80,10,from Right to Left.,
 14-09-2012,Tampa Bay Rays,New York Yankees,71,15,out to Leftfield,Cloudy
 15-09-2012,Tampa Bay Rays,New York Yankees,72,14,out to Rightfield,Cloudy
 16-09-2012,Tampa Bay Rays,New York Yankees,72,7,from Left to Right,Cloudy
-20-09-2012,Toronto Blue Jays,New York Yankees,65,12,in from Rightfield.,Wind12mphinfromRightfield
+20-09-2012,Toronto Blue Jays,New York Yankees,65,12,in from Rightfield.,
 21-09-2012,Oakland Athletics,New York Yankees,68,8,out to Leftfield,Sunny
-22-09-2012,Oakland Athletics,New York Yankees,75,17,from Right to Left.,Wind17mphfromRighttoLeft
+22-09-2012,Oakland Athletics,New York Yankees,75,17,from Right to Left.,
 23-09-2012,Oakland Athletics,New York Yankees,67,11,from Left to Right,Sunny
 01-10-2012,Boston Red Sox,New York Yankees,71,12,from Right to Left,Cloudy
 02-10-2012,Boston Red Sox,New York Yankees,62,10,in from Leftfield,Rain
-03-10-2012,Boston Red Sox,New York Yankees,69,5,in from Leftfield.,Wind5mphinfromLeftfield
+03-10-2012,Boston Red Sox,New York Yankees,69,5,in from Leftfield.,
 05-04-2012,Atlanta Braves,New York Mets,53,10,in from Leftfield,Sunny
 07-04-2012,Atlanta Braves,New York Mets,55,16,from Left to Right,Sunny
 08-04-2012,Atlanta Braves,New York Mets,59,19,from Left to Right,Cloudy
-09-04-2012,Washington Nationals,New York Mets,61,19,out to Rightfield.,Wind19mphouttoRightfield
-10-04-2012,Washington Nationals,New York Mets,56,17,out to Rightfield.,Wind17mphouttoRightfield
-11-04-2012,Washington Nationals,New York Mets,53,8,in from Leftfield.,Wind8mphinfromLeftfield
-20-04-2012,San Francisco Giants,New York Mets,64,11,from Right to Left.,Wind11mphfromRighttoLeft
+09-04-2012,Washington Nationals,New York Mets,61,19,out to Rightfield.,
+10-04-2012,Washington Nationals,New York Mets,56,17,out to Rightfield.,
+11-04-2012,Washington Nationals,New York Mets,53,8,in from Leftfield.,
+20-04-2012,San Francisco Giants,New York Mets,64,11,from Right to Left.,
 21-04-2012,San Francisco Giants,New York Mets,67,6,out to Leftfield,Sunny
-24-04-2012,Miami Marlins,New York Mets,55,18,out to Leftfield.,Wind18mphouttoLeftfield
-25-04-2012,Miami Marlins,New York Mets,57,8,from Left to Right.,Wind8mphfromLefttoRight
-26-04-2012,Miami Marlins,New York Mets,57,12,in from Rightfield.,Wind12mphinfromRightfield
+24-04-2012,Miami Marlins,New York Mets,55,18,out to Leftfield.,
+25-04-2012,Miami Marlins,New York Mets,57,8,from Left to Right.,
+26-04-2012,Miami Marlins,New York Mets,57,12,in from Rightfield.,
 04-05-2012,Arizona Diamondbacks,New York Mets,71,6,out to Leftfield,Cloudy
-05-05-2012,Arizona Diamondbacks,New York Mets,61,9,in from Rightfield.,Wind9mphinfromRightfield
-06-05-2012,Arizona Diamondbacks,New York Mets,62,9,in from Rightfield.,Wind9mphinfromRightfield
+05-05-2012,Arizona Diamondbacks,New York Mets,61,9,in from Rightfield.,
+06-05-2012,Arizona Diamondbacks,New York Mets,62,9,in from Rightfield.,
 14-05-2012,Milwaukee Brewers,New York Mets,66,10,out to Leftfield,Overcast
-15-05-2012,Milwaukee Brewers,New York Mets,64,9,from Right to Left.,Wind9mphfromRighttoLeft
+15-05-2012,Milwaukee Brewers,New York Mets,64,9,from Right to Left.,
 16-05-2012,Cincinnati Reds,New York Mets,71,13,out to Leftfield,Cloudy
 17-05-2012,Cincinnati Reds,New York Mets,67,11,in from Leftfield,Sunny
-24-05-2012,San Diego Padres,New York Mets,66,11,in from Rightfield.,Wind11mphinfromRightfield
-25-05-2012,San Diego Padres,New York Mets,71,8,in from Rightfield.,Wind8mphinfromRightfield
+24-05-2012,San Diego Padres,New York Mets,66,11,in from Rightfield.,
+25-05-2012,San Diego Padres,New York Mets,71,8,in from Rightfield.,
 26-05-2012,San Diego Padres,New York Mets,85,7,out to Centerfield,Cloudy
 27-05-2012,San Diego Padres,New York Mets,76,7,from Right to Left,Cloudy
 28-05-2012,Philadelphia Phillies,New York Mets,85,4,in from Rightfield,Cloudy
 29-05-2012,Philadelphia Phillies,New York Mets,83,12,out to Centerfield,Cloudy
-30-05-2012,Philadelphia Phillies,New York Mets,76,8,out to Leftfield.,Wind8mphouttoLeftfield
-01-06-2012,St. Louis Cardinals,New York Mets,66,18,in from Rightfield.,Wind18mphinfromRightfield
+30-05-2012,Philadelphia Phillies,New York Mets,76,8,out to Leftfield.,
+01-06-2012,St. Louis Cardinals,New York Mets,66,18,in from Rightfield.,
 02-06-2012,St. Louis Cardinals,New York Mets,76,17,out to Centerfield,Cloudy
-03-06-2012,St. Louis Cardinals,New York Mets,69,9,out to Rightfield.,Wind9mphouttoRightfield
+03-06-2012,St. Louis Cardinals,New York Mets,69,9,out to Rightfield.,
 04-06-2012,St. Louis Cardinals,New York Mets,59,8,in from Centerfield,Overcast
 15-06-2012,Cincinnati Reds,New York Mets,74,14,out to Leftfield,Cloudy
 16-06-2012,Cincinnati Reds,New York Mets,69,12,from Right to Left,Cloudy
-17-06-2012,Cincinnati Reds,New York Mets,70,8,in from Rightfield.,Wind8mphinfromRightfield
-18-06-2012,Baltimore Orioles,New York Mets,66,10,out to Leftfield.,Wind10mphouttoLeftfield
-19-06-2012,Baltimore Orioles,New York Mets,71,13,out to Leftfield.,Wind13mphouttoLeftfield
+17-06-2012,Cincinnati Reds,New York Mets,70,8,in from Rightfield.,
+18-06-2012,Baltimore Orioles,New York Mets,66,10,out to Leftfield.,
+19-06-2012,Baltimore Orioles,New York Mets,71,13,out to Leftfield.,
 20-06-2012,Baltimore Orioles,New York Mets,94,8,out to Rightfield,Cloudy
-22-06-2012,New York Yankees,New York Mets,71,4,in from Leftfield.,Wind4mphinfromLeftfield
+22-06-2012,New York Yankees,New York Mets,71,4,in from Leftfield.,
 23-06-2012,New York Yankees,New York Mets,82,12,in from Leftfield,Cloudy
-24-06-2012,New York Yankees,New York Mets,77,8,out to Leftfield.,Wind8mphouttoLeftfield
-03-07-2012,Philadelphia Phillies,New York Mets,84,17,out to Centerfield.,Wind17mphouttoCenterfield
+24-06-2012,New York Yankees,New York Mets,77,8,out to Leftfield.,
+03-07-2012,Philadelphia Phillies,New York Mets,84,17,out to Centerfield.,
 04-07-2012,Philadelphia Phillies,New York Mets,86,10,from Left to Right,Cloudy
-05-07-2012,Philadelphia Phillies,New York Mets,91,11,in from Centerfield.,Wind11mphinfromCenterfield
+05-07-2012,Philadelphia Phillies,New York Mets,91,11,in from Centerfield.,
 06-07-2012,Chicago Cubs,New York Mets,82,13,out to Centerfield,Sunny
-07-07-2012,Chicago Cubs,New York Mets,94,12,from Left to Right.,Wind12mphfromLefttoRight
+07-07-2012,Chicago Cubs,New York Mets,94,12,from Left to Right.,
 08-07-2012,Chicago Cubs,New York Mets,89,5,from Left to Right,Cloudy
-20-07-2012,Los Angeles Dodgers,New York Mets,64,8,in from Rightfield.,Wind8mphinfromRightfield
+20-07-2012,Los Angeles Dodgers,New York Mets,64,8,in from Rightfield.,
 21-07-2012,Los Angeles Dodgers,New York Mets,76,9,in from Rightfield,Sunny
 22-07-2012,Los Angeles Dodgers,New York Mets,81,9,out to Leftfield,Cloudy
-23-07-2012,Washington Nationals,New York Mets,80,7,out to Leftfield.,Wind7mphouttoLeftfield
+23-07-2012,Washington Nationals,New York Mets,80,7,out to Leftfield.,
 24-07-2012,Washington Nationals,New York Mets,90,15,from Left to Right,Cloudy
 25-07-2012,Washington Nationals,New York Mets,80,9,in from Leftfield,Sunny
-07-08-2012,Miami Marlins,New York Mets,78,11,out to Leftfield.,Wind11mphouttoLeftfield
+07-08-2012,Miami Marlins,New York Mets,78,11,out to Leftfield.,
 08-08-2012,Miami Marlins,New York Mets,79,11,out to Leftfield,Cloudy
 09-08-2012,Miami Marlins,New York Mets,89,8,out to Leftfield,Sunny
-10-08-2012,Atlanta Braves,New York Mets,80,9,out to Leftfield.,Wind9mphouttoLeftfield
-11-08-2012,Atlanta Braves,New York Mets,84,15,out to Leftfield.,Wind15mphouttoLeftfield
+10-08-2012,Atlanta Braves,New York Mets,80,9,out to Leftfield.,
+11-08-2012,Atlanta Braves,New York Mets,84,15,out to Leftfield.,
 12-08-2012,Atlanta Braves,New York Mets,83,15,out to Rightfield,Cloudy
-20-08-2012,Colorado Rockies,New York Mets,75,7,out to Leftfield.,Wind7mphouttoLeftfield
-21-08-2012,Colorado Rockies,New York Mets,77,6,out to Leftfield.,Wind6mphouttoLeftfield
+20-08-2012,Colorado Rockies,New York Mets,75,7,out to Leftfield.,
+21-08-2012,Colorado Rockies,New York Mets,77,6,out to Leftfield.,
 22-08-2012,Colorado Rockies,New York Mets,78,9,out to Leftfield,Cloudy
 23-08-2012,Colorado Rockies,New York Mets,84,6,out to Leftfield,Cloudy
 24-08-2012,Houston Astros,New York Mets,83,8,out to Leftfield,Cloudy
 25-08-2012,Houston Astros,New York Mets,82,13,in from Rightfield,Cloudy
 26-08-2012,Houston Astros,New York Mets,79,12,in from Rightfield,Sunny
-07-09-2012,Atlanta Braves,New York Mets,81,10,out to Leftfield.,Wind10mphouttoLeftfield
+07-09-2012,Atlanta Braves,New York Mets,81,10,out to Leftfield.,
 08-09-2012,Atlanta Braves,New York Mets,83,26,out to Leftfield,Cloudy
 09-09-2012,Atlanta Braves,New York Mets,75,3,in from Centerfield,Sunny
 10-09-2012,Washington Nationals,New York Mets,69,14,in from Leftfield,Cloudy
 11-09-2012,Washington Nationals,New York Mets,72,6,in from Centerfield,Cloudy
 12-09-2012,Washington Nationals,New York Mets,71,12,out to Leftfield,Sunny
-17-09-2012,Philadelphia Phillies,New York Mets,71,11,out to Leftfield.,Wind11mphouttoLeftfield
-19-09-2012,Philadelphia Phillies,New York Mets,68,8,in from Leftfield.,Wind8mphinfromLeftfield
-20-09-2012,Philadelphia Phillies,New York Mets,66,13,from Right to Left.,Wind13mphfromRighttoLeft
+17-09-2012,Philadelphia Phillies,New York Mets,71,11,out to Leftfield.,
+19-09-2012,Philadelphia Phillies,New York Mets,68,8,in from Leftfield.,
+20-09-2012,Philadelphia Phillies,New York Mets,66,13,from Right to Left.,
 21-09-2012,Miami Marlins,New York Mets,68,8,out to Leftfield,Cloudy
-22-09-2012,Miami Marlins,New York Mets,74,16,out to Leftfield.,Wind16mphouttoLeftfield
+22-09-2012,Miami Marlins,New York Mets,74,16,out to Leftfield.,
 23-09-2012,Miami Marlins,New York Mets,68,11,in from Leftfield,Cloudy
 24-09-2012,Pittsburgh Pirates,New York Mets,64,10,out to Rightfield,Cloudy
-25-09-2012,Pittsburgh Pirates,New York Mets,69,12,out to Leftfield.,Wind12mphouttoLeftfield
-26-09-2012,Pittsburgh Pirates,New York Mets,72,9,out to Rightfield.,Wind9mphouttoRightfield
+25-09-2012,Pittsburgh Pirates,New York Mets,69,12,out to Leftfield.,
+26-09-2012,Pittsburgh Pirates,New York Mets,72,9,out to Rightfield.,
 27-09-2012,Pittsburgh Pirates,New York Mets,76,7,in from Leftfield,Cloudy
-28-03-2012,Seattle Mariners,Oakland Athletics,72,0,NoWind,Wind0mph
-29-03-2012,Seattle Mariners,Oakland Athletics,72,0,NoWind,Wind0mph
+28-03-2012,Seattle Mariners,Oakland Athletics,72,0,NoWind,
+29-03-2012,Seattle Mariners,Oakland Athletics,72,0,NoWind,
 06-04-2012,Seattle Mariners,Oakland Athletics,55,9,from Right to Left,Sunny
 07-04-2012,Seattle Mariners,Oakland Athletics,59,9,out to Rightfield,Cloudy
-09-04-2012,Kansas City Royals,Oakland Athletics,55,5,from Right to Left.,Wind5mphfromRighttoLeft
+09-04-2012,Kansas City Royals,Oakland Athletics,55,5,from Right to Left.,
 10-04-2012,Kansas City Royals,Oakland Athletics,55,5,out to Rightfield,Rain
-11-04-2012,Kansas City Royals,Oakland Athletics,59,12,in from Centerfield.,Wind12mphinfromCenterfield
+11-04-2012,Kansas City Royals,Oakland Athletics,59,12,in from Centerfield.,
 20-04-2012,Cleveland Indians,Oakland Athletics,67,5,out to Rightfield,Sunny
 21-04-2012,Cleveland Indians,Oakland Athletics,75,6,out to Rightfield,Sunny
 22-04-2012,Cleveland Indians,Oakland Athletics,64,10,out to Rightfield,Sunny
 23-04-2012,Chicago White Sox,Oakland Athletics,60,18,out to Rightfield,Cloudy
-24-04-2012,Chicago White Sox,Oakland Athletics,62,6,from Right to Left.,Wind6mphfromRighttoLeft
+24-04-2012,Chicago White Sox,Oakland Athletics,62,6,from Right to Left.,
 25-04-2012,Chicago White Sox,Oakland Athletics,63,7,out to Leftfield,Overcast
 08-05-2012,Toronto Blue Jays,Oakland Athletics,65,5,out to Rightfield,Sunny
 09-05-2012,Toronto Blue Jays,Oakland Athletics,63,9,out to Rightfield,Sunny
 10-05-2012,Detroit Tigers,Oakland Athletics,70,5,out to Rightfield,Sunny
 11-05-2012,Detroit Tigers,Oakland Athletics,65,4,from Left to Right,Sunny
 12-05-2012,Detroit Tigers,Oakland Athletics,66,7,from Right to Left,Sunny
-13-05-2012,Detroit Tigers,Oakland Athletics,64,9,out to Rightfield.,Wind9mphouttoRightfield
+13-05-2012,Detroit Tigers,Oakland Athletics,64,9,out to Rightfield.,
 21-05-2012,Los Angeles Angels of Anaheim,Oakland Athletics,59,11,out to Rightfield,Cloudy
 22-05-2012,Los Angeles Angels of Anaheim,Oakland Athletics,63,14,out to Rightfield,Sunny
 23-05-2012,Los Angeles Angels of Anaheim,Oakland Athletics,65,15,out to Rightfield,Sunny
 25-05-2012,New York Yankees,Oakland Athletics,59,7,from Left to Right,Cloudy
-26-05-2012,New York Yankees,Oakland Athletics,59,13,out to Rightfield.,Wind13mphouttoRightfield
+26-05-2012,New York Yankees,Oakland Athletics,59,13,out to Rightfield.,
 27-05-2012,New York Yankees,Oakland Athletics,56,10,out to Rightfield,Overcast
 04-06-2012,Texas Rangers,Oakland Athletics,58,17,out to Rightfield,Cloudy
 05-06-2012,Texas Rangers,Oakland Athletics,62,21,out to Rightfield,Cloudy
@@ -1547,7 +1547,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-06-2012,Los Angeles Dodgers,Oakland Athletics,67,10,out to Rightfield,Sunny
 20-06-2012,Los Angeles Dodgers,Oakland Athletics,65,7,out to Rightfield,Sunny
 21-06-2012,Los Angeles Dodgers,Oakland Athletics,55,14,out to Rightfield,Overcast
-22-06-2012,San Francisco Giants,Oakland Athletics,61,10,out to Rightfield.,Wind10mphouttoRightfield
+22-06-2012,San Francisco Giants,Oakland Athletics,61,10,out to Rightfield.,
 23-06-2012,San Francisco Giants,Oakland Athletics,63,15,out to Rightfield,Sunny
 24-06-2012,San Francisco Giants,Oakland Athletics,65,11,out to Leftfield,Cloudy
 02-07-2012,Boston Red Sox,Oakland Athletics,63,13,out to Rightfield,Sunny
@@ -1567,7 +1567,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-08-2012,Tampa Bay Rays,Oakland Athletics,65,8,out to Rightfield,Sunny
 02-08-2012,Toronto Blue Jays,Oakland Athletics,63,13,from Left to Right,Cloudy
 03-08-2012,Toronto Blue Jays,Oakland Athletics,61,13,out to Rightfield,Cloudy
-04-08-2012,Toronto Blue Jays,Oakland Athletics,62,9,out to Rightfield.,Wind9mphouttoRightfield
+04-08-2012,Toronto Blue Jays,Oakland Athletics,62,9,out to Rightfield.,
 05-08-2012,Toronto Blue Jays,Oakland Athletics,63,9,out to Rightfield,Overcast
 06-08-2012,Los Angeles Angels of Anaheim,Oakland Athletics,67,10,out to Rightfield,Sunny
 07-08-2012,Los Angeles Angels of Anaheim,Oakland Athletics,67,9,out to Leftfield,Sunny
@@ -1597,65 +1597,65 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-04-2012,Miami Marlins,Philadelphia Phillies,49,10,in from Leftfield,Overcast
 12-04-2012,Miami Marlins,Philadelphia Phillies,56,8,in from Leftfield,Cloudy
 13-04-2012,New York Mets,Philadelphia Phillies,61,9,from Left to Right,Sunny
-14-04-2012,New York Mets,Philadelphia Phillies,71,10,out to Rightfield.,Wind10mphouttoRightfield
+14-04-2012,New York Mets,Philadelphia Phillies,71,10,out to Rightfield.,
 15-04-2012,New York Mets,Philadelphia Phillies,75,11,from Left to Right,Cloudy
 27-04-2012,Chicago Cubs,Philadelphia Phillies,53,16,in from Leftfield,Cloudy
 28-04-2012,Chicago Cubs,Philadelphia Phillies,53,0,NoWind,Overcast
 29-04-2012,Chicago Cubs,Philadelphia Phillies,62,8,from Left to Right,Sunny
 30-04-2012,Chicago Cubs,Philadelphia Phillies,57,7,out to Centerfield,Overcast
-07-05-2012,New York Mets,Philadelphia Phillies,61,5,from Right to Left.,Wind5mphfromRighttoLeft
+07-05-2012,New York Mets,Philadelphia Phillies,61,5,from Right to Left.,
 08-05-2012,New York Mets,Philadelphia Phillies,66,9,out to Centerfield,Overcast
-09-05-2012,New York Mets,Philadelphia Phillies,72,1,out to Centerfield.,Wind1mphouttoCenterfield
+09-05-2012,New York Mets,Philadelphia Phillies,72,1,out to Centerfield.,
 11-05-2012,San Diego Padres,Philadelphia Phillies,71,13,from Left to Right,Cloudy
 12-05-2012,San Diego Padres,Philadelphia Phillies,76,12,out to Rightfield,Cloudy
 13-05-2012,San Diego Padres,Philadelphia Phillies,79,9,out to Centerfield,Cloudy
-14-05-2012,Houston Astros,Philadelphia Phillies,68,10,from Right to Left.,Wind10mphfromRighttoLeft
-15-05-2012,Houston Astros,Philadelphia Phillies,68,2,from Right to Left.,Wind2mphfromRighttoLeft
+14-05-2012,Houston Astros,Philadelphia Phillies,68,10,from Right to Left.,
+15-05-2012,Houston Astros,Philadelphia Phillies,68,2,from Right to Left.,
 18-05-2012,Boston Red Sox,Philadelphia Phillies,70,13,from Right to Left,Cloudy
 19-05-2012,Boston Red Sox,Philadelphia Phillies,78,5,from Right to Left,Sunny
 20-05-2012,Boston Red Sox,Philadelphia Phillies,79,13,from Right to Left,Sunny
 21-05-2012,Washington Nationals,Philadelphia Phillies,63,8,in from Rightfield,Drizzle
-22-05-2012,Washington Nationals,Philadelphia Phillies,73,5,from Left to Right.,Wind5mphfromLefttoRight
-23-05-2012,Washington Nationals,Philadelphia Phillies,74,8,out to Centerfield.,Wind8mphouttoCenterfield
-01-06-2012,Miami Marlins,Philadelphia Phillies,71,15,from Right to Left.,Wind15mphfromRighttoLeft
-02-06-2012,Miami Marlins,Philadelphia Phillies,72,16,from Left to Right.,Wind16mphfromLefttoRight
+22-05-2012,Washington Nationals,Philadelphia Phillies,73,5,from Left to Right.,
+23-05-2012,Washington Nationals,Philadelphia Phillies,74,8,out to Centerfield.,
+01-06-2012,Miami Marlins,Philadelphia Phillies,71,15,from Right to Left.,
+02-06-2012,Miami Marlins,Philadelphia Phillies,72,16,from Left to Right.,
 03-06-2012,Miami Marlins,Philadelphia Phillies,76,10,from Left to Right,Cloudy
 04-06-2012,Los Angeles Dodgers,Philadelphia Phillies,62,11,from Right to Left,Drizzle
-05-06-2012,Los Angeles Dodgers,Philadelphia Phillies,66,4,in from Centerfield.,Wind4mphinfromCenterfield
+05-06-2012,Los Angeles Dodgers,Philadelphia Phillies,66,4,in from Centerfield.,
 06-06-2012,Los Angeles Dodgers,Philadelphia Phillies,72,6,from Left to Right,Cloudy
 07-06-2012,Los Angeles Dodgers,Philadelphia Phillies,77,9,from Left to Right,Cloudy
-19-06-2012,Colorado Rockies,Philadelphia Phillies,81,9,out to Rightfield.,Wind9mphouttoRightfield
+19-06-2012,Colorado Rockies,Philadelphia Phillies,81,9,out to Rightfield.,
 20-06-2012,Colorado Rockies,Philadelphia Phillies,95,3,from Left to Right,Sunny
 21-06-2012,Colorado Rockies,Philadelphia Phillies,95,12,from Left to Right,Sunny
 23-06-2012,Tampa Bay Rays,Philadelphia Phillies,86,12,from Left to Right,Cloudy
-25-06-2012,Pittsburgh Pirates,Philadelphia Phillies,79,19,from Left to Right.,Wind19mphfromLefttoRight
+25-06-2012,Pittsburgh Pirates,Philadelphia Phillies,79,19,from Left to Right.,
 26-06-2012,Pittsburgh Pirates,Philadelphia Phillies,77,14,in from Leftfield,Cloudy
 27-06-2012,Pittsburgh Pirates,Philadelphia Phillies,83,9,in from Leftfield,Sunny
 28-06-2012,Pittsburgh Pirates,Philadelphia Phillies,90,12,from Left to Right,Sunny
 06-07-2012,Atlanta Braves,Philadelphia Phillies,94,11,in from Centerfield,Sunny
-07-07-2012,Atlanta Braves,Philadelphia Phillies,91,15,from Left to Right.,Wind15mphfromLefttoRight
-08-07-2012,Atlanta Braves,Philadelphia Phillies,87,4,in from Leftfield.,Wind4mphinfromLeftfield
-20-07-2012,San Francisco Giants,Philadelphia Phillies,66,12,from Right to Left.,Wind12mphfromRighttoLeft
+07-07-2012,Atlanta Braves,Philadelphia Phillies,91,15,from Left to Right.,
+08-07-2012,Atlanta Braves,Philadelphia Phillies,87,4,in from Leftfield.,
+20-07-2012,San Francisco Giants,Philadelphia Phillies,66,12,from Right to Left.,
 21-07-2012,San Francisco Giants,Philadelphia Phillies,79,2,out to Centerfield,Cloudy
 22-07-2012,San Francisco Giants,Philadelphia Phillies,80,4,out to Centerfield,Cloudy
 23-07-2012,Milwaukee Brewers,Philadelphia Phillies,77,4,out to Centerfield,Overcast
 24-07-2012,Milwaukee Brewers,Philadelphia Phillies,93,11,from Left to Right,Sunny
 25-07-2012,Milwaukee Brewers,Philadelphia Phillies,80,3,in from Centerfield,Sunny
-03-08-2012,Arizona Diamondbacks,Philadelphia Phillies,79,2,out to Centerfield.,Wind2mphouttoCenterfield
-04-08-2012,Arizona Diamondbacks,Philadelphia Phillies,85,8,out to Centerfield.,Wind8mphouttoCenterfield
-05-08-2012,Arizona Diamondbacks,Philadelphia Phillies,94,18,out to Centerfield.,Wind18mphouttoCenterfield
+03-08-2012,Arizona Diamondbacks,Philadelphia Phillies,79,2,out to Centerfield.,
+04-08-2012,Arizona Diamondbacks,Philadelphia Phillies,85,8,out to Centerfield.,
+05-08-2012,Arizona Diamondbacks,Philadelphia Phillies,94,18,out to Centerfield.,
 06-08-2012,Atlanta Braves,Philadelphia Phillies,86,7,from Left to Right,Cloudy
-07-08-2012,Atlanta Braves,Philadelphia Phillies,84,5,out to Centerfield.,Wind5mphouttoCenterfield
+07-08-2012,Atlanta Braves,Philadelphia Phillies,84,5,out to Centerfield.,
 08-08-2012,Atlanta Braves,Philadelphia Phillies,85,5,from Right to Left,Cloudy
-10-08-2012,St. Louis Cardinals,Philadelphia Phillies,82,6,out to Centerfield.,Wind6mphouttoCenterfield
-11-08-2012,St. Louis Cardinals,Philadelphia Phillies,79,7,out to Centerfield.,Wind7mphouttoCenterfield
+10-08-2012,St. Louis Cardinals,Philadelphia Phillies,82,6,out to Centerfield.,
+11-08-2012,St. Louis Cardinals,Philadelphia Phillies,79,7,out to Centerfield.,
 12-08-2012,St. Louis Cardinals,Philadelphia Phillies,83,6,out to Centerfield,Cloudy
 20-08-2012,Cincinnati Reds,Philadelphia Phillies,77,2,out to Centerfield,Cloudy
 21-08-2012,Cincinnati Reds,Philadelphia Phillies,79,1,out to Centerfield,Cloudy
-22-08-2012,Cincinnati Reds,Philadelphia Phillies,83,4,out to Centerfield.,Wind4mphouttoCenterfield
+22-08-2012,Cincinnati Reds,Philadelphia Phillies,83,4,out to Centerfield.,
 23-08-2012,Cincinnati Reds,Philadelphia Phillies,80,4,from Right to Left,Sunny
 24-08-2012,Washington Nationals,Philadelphia Phillies,84,6,out to Centerfield,Cloudy
-25-08-2012,Washington Nationals,Philadelphia Phillies,78,10,from Right to Left.,Wind10mphfromRighttoLeft
+25-08-2012,Washington Nationals,Philadelphia Phillies,78,10,from Right to Left.,
 26-08-2012,Washington Nationals,Philadelphia Phillies,81,8,out to Leftfield,Cloudy
 28-08-2012,New York Mets,Philadelphia Phillies,83,11,in from Leftfield,Sunny
 29-08-2012,New York Mets,Philadelphia Phillies,81,6,in from Centerfield,Cloudy
@@ -1668,23 +1668,23 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-09-2012,Atlanta Braves,Philadelphia Phillies,83,12,out to Rightfield,Cloudy
 23-09-2012,Atlanta Braves,Philadelphia Phillies,67,7,in from Centerfield,Sunny
 25-09-2012,Washington Nationals,Philadelphia Phillies,71,10,out to Centerfield,Cloudy
-26-09-2012,Washington Nationals,Philadelphia Phillies,75,3,from Left to Right.,Wind3mphfromLefttoRight
-27-09-2012,Washington Nationals,Philadelphia Phillies,75,5,from Right to Left.,Wind5mphfromRighttoLeft
+26-09-2012,Washington Nationals,Philadelphia Phillies,75,3,from Left to Right.,
+27-09-2012,Washington Nationals,Philadelphia Phillies,75,5,from Right to Left.,
 05-04-2012,Philadelphia Phillies,Pittsburgh Pirates,52,4,from Left to Right,Cloudy
 07-04-2012,Philadelphia Phillies,Pittsburgh Pirates,58,13,out to Centerfield,Sunny
-08-04-2012,Philadelphia Phillies,Pittsburgh Pirates,58,16,out to Leftfield.,Wind16mphouttoLeftfield
+08-04-2012,Philadelphia Phillies,Pittsburgh Pirates,58,16,out to Leftfield.,
 20-04-2012,St. Louis Cardinals,Pittsburgh Pirates,78,11,from Right to Left,Cloudy
 21-04-2012,St. Louis Cardinals,Pittsburgh Pirates,45,10,out to Centerfield,Drizzle
-22-04-2012,St. Louis Cardinals,Pittsburgh Pirates,44,9,out to Rightfield.,Wind9mphouttoRightfield
+22-04-2012,St. Louis Cardinals,Pittsburgh Pirates,44,9,out to Rightfield.,
 24-04-2012,Colorado Rockies,Pittsburgh Pirates,55,13,out to Centerfield,Cloudy
 04-05-2012,Cincinnati Reds,Pittsburgh Pirates,79,11,from Right to Left,Cloudy
 05-05-2012,Cincinnati Reds,Pittsburgh Pirates,77,5,in from Leftfield,Cloudy
 06-05-2012,Cincinnati Reds,Pittsburgh Pirates,77,5,out to Rightfield,Cloudy
-08-05-2012,Washington Nationals,Pittsburgh Pirates,70,7,from Left to Right.,Wind7mphfromLefttoRight
-09-05-2012,Washington Nationals,Pittsburgh Pirates,63,8,out to Leftfield.,Wind8mphouttoLeftfield
-10-05-2012,Washington Nationals,Pittsburgh Pirates,60,16,out to Centerfield.,Wind16mphouttoCenterfield
+08-05-2012,Washington Nationals,Pittsburgh Pirates,70,7,from Left to Right.,
+09-05-2012,Washington Nationals,Pittsburgh Pirates,63,8,out to Leftfield.,
+10-05-2012,Washington Nationals,Pittsburgh Pirates,60,16,out to Centerfield.,
 11-05-2012,Houston Astros,Pittsburgh Pirates,70,10,out to Leftfield,Sunny
-12-05-2012,Houston Astros,Pittsburgh Pirates,72,5,out to Leftfield.,Wind5mphouttoLeftfield
+12-05-2012,Houston Astros,Pittsburgh Pirates,72,5,out to Leftfield.,
 13-05-2012,Houston Astros,Pittsburgh Pirates,62,3,in from Rightfield,Drizzle
 21-05-2012,New York Mets,Pittsburgh Pirates,76,6,from Left to Right,Cloudy
 22-05-2012,New York Mets,Pittsburgh Pirates,75,8,out to Centerfield,Overcast
@@ -1703,16 +1703,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-06-2012,Minnesota Twins,Pittsburgh Pirates,90,9,from Right to Left,Cloudy
 22-06-2012,Detroit Tigers,Pittsburgh Pirates,81,11,out to Rightfield,Cloudy
 23-06-2012,Detroit Tigers,Pittsburgh Pirates,82,6,out to Centerfield,Cloudy
-24-06-2012,Detroit Tigers,Pittsburgh Pirates,80,2,from Right to Left.,Wind2mphfromRighttoLeft
+24-06-2012,Detroit Tigers,Pittsburgh Pirates,80,2,from Right to Left.,
 02-07-2012,Houston Astros,Pittsburgh Pirates,90,8,out to Rightfield,Cloudy
-03-07-2012,Houston Astros,Pittsburgh Pirates,82,5,from Right to Left.,Wind5mphfromRighttoLeft
+03-07-2012,Houston Astros,Pittsburgh Pirates,82,5,from Right to Left.,
 04-07-2012,Houston Astros,Pittsburgh Pirates,89,5,out to Centerfield,Cloudy
 05-07-2012,Houston Astros,Pittsburgh Pirates,87,8,out to Rightfield,Cloudy
 06-07-2012,San Francisco Giants,Pittsburgh Pirates,94,8,out to Centerfield,Cloudy
 07-07-2012,San Francisco Giants,Pittsburgh Pirates,97,10,out to Leftfield,Cloudy
-08-07-2012,San Francisco Giants,Pittsburgh Pirates,82,4,from Left to Right.,Wind4mphfromLefttoRight
-20-07-2012,Miami Marlins,Pittsburgh Pirates,71,7,out to Centerfield.,Wind7mphouttoCenterfield
-21-07-2012,Miami Marlins,Pittsburgh Pirates,73,0,NoWind,Wind0mph
+08-07-2012,San Francisco Giants,Pittsburgh Pirates,82,4,from Left to Right.,
+20-07-2012,Miami Marlins,Pittsburgh Pirates,71,7,out to Centerfield.,
+21-07-2012,Miami Marlins,Pittsburgh Pirates,73,0,NoWind,
 22-07-2012,Miami Marlins,Pittsburgh Pirates,81,6,from Right to Left,Cloudy
 23-07-2012,Chicago Cubs,Pittsburgh Pirates,84,13,out to Centerfield,Cloudy
 24-07-2012,Chicago Cubs,Pittsburgh Pirates,83,8,out to Rightfield,Cloudy
@@ -1721,50 +1721,50 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-08-2012,Arizona Diamondbacks,Pittsburgh Pirates,84,4,from Right to Left,Cloudy
 08-08-2012,Arizona Diamondbacks,Pittsburgh Pirates,86,6,from Right to Left,Cloudy
 09-08-2012,Arizona Diamondbacks,Pittsburgh Pirates,81,7,from Right to Left,Cloudy
-10-08-2012,San Diego Padres,Pittsburgh Pirates,75,10,from Right to Left.,Wind10mphfromRighttoLeft
-11-08-2012,San Diego Padres,Pittsburgh Pirates,67,7,out to Centerfield.,Wind7mphouttoCenterfield
-12-08-2012,San Diego Padres,Pittsburgh Pirates,75,6,out to Leftfield.,Wind6mphouttoLeftfield
+10-08-2012,San Diego Padres,Pittsburgh Pirates,75,10,from Right to Left.,
+11-08-2012,San Diego Padres,Pittsburgh Pirates,67,7,out to Centerfield.,
+12-08-2012,San Diego Padres,Pittsburgh Pirates,75,6,out to Leftfield.,
 13-08-2012,Los Angeles Dodgers,Pittsburgh Pirates,80,3,out to Centerfield,Cloudy
-14-08-2012,Los Angeles Dodgers,Pittsburgh Pirates,71,3,out to Leftfield.,Wind3mphouttoLeftfield
+14-08-2012,Los Angeles Dodgers,Pittsburgh Pirates,71,3,out to Leftfield.,
 15-08-2012,Los Angeles Dodgers,Pittsburgh Pirates,80,6,out to Centerfield,Cloudy
 16-08-2012,Los Angeles Dodgers,Pittsburgh Pirates,84,8,from Right to Left,Cloudy
 24-08-2012,Milwaukee Brewers,Pittsburgh Pirates,85,4,in from Leftfield,Cloudy
 25-08-2012,Milwaukee Brewers,Pittsburgh Pirates,83,8,in from Leftfield,Cloudy
-26-08-2012,Milwaukee Brewers,Pittsburgh Pirates,81,7,in from Leftfield.,Wind7mphinfromLeftfield
-27-08-2012,St. Louis Cardinals,Pittsburgh Pirates,75,10,out to Centerfield.,Wind10mphouttoCenterfield
+26-08-2012,Milwaukee Brewers,Pittsburgh Pirates,81,7,in from Leftfield.,
+27-08-2012,St. Louis Cardinals,Pittsburgh Pirates,75,10,out to Centerfield.,
 28-08-2012,St. Louis Cardinals,Pittsburgh Pirates,79,9,out to Rightfield,Cloudy
 29-08-2012,St. Louis Cardinals,Pittsburgh Pirates,76,10,out to Rightfield,Cloudy
-03-09-2012,Houston Astros,Pittsburgh Pirates,84,9,in from Centerfield.,Wind9mphinfromCenterfield
+03-09-2012,Houston Astros,Pittsburgh Pirates,84,9,in from Centerfield.,
 04-09-2012,Houston Astros,Pittsburgh Pirates,74,4,out to Leftfield,Rain
 05-09-2012,Houston Astros,Pittsburgh Pirates,83,3,out to Leftfield,Cloudy
-07-09-2012,Chicago Cubs,Pittsburgh Pirates,83,6,from Right to Left.,Wind6mphfromRighttoLeft
+07-09-2012,Chicago Cubs,Pittsburgh Pirates,83,6,from Right to Left.,
 08-09-2012,Chicago Cubs,Pittsburgh Pirates,66,11,out to Leftfield,Cloudy
-09-09-2012,Chicago Cubs,Pittsburgh Pirates,67,4,out to Leftfield.,Wind4mphouttoLeftfield
-18-09-2012,Milwaukee Brewers,Pittsburgh Pirates,61,8,from Left to Right.,Wind8mphfromLefttoRight
+09-09-2012,Chicago Cubs,Pittsburgh Pirates,67,4,out to Leftfield.,
+18-09-2012,Milwaukee Brewers,Pittsburgh Pirates,61,8,from Left to Right.,
 19-09-2012,Milwaukee Brewers,Pittsburgh Pirates,62,5,from Right to Left,Cloudy
 20-09-2012,Milwaukee Brewers,Pittsburgh Pirates,75,9,from Right to Left,Sunny
-28-09-2012,Cincinnati Reds,Pittsburgh Pirates,62,4,from Left to Right.,Wind4mphfromLefttoRight
+28-09-2012,Cincinnati Reds,Pittsburgh Pirates,62,4,from Left to Right.,
 29-09-2012,Cincinnati Reds,Pittsburgh Pirates,63,5,out to Centerfield,Cloudy
-30-09-2012,Cincinnati Reds,Pittsburgh Pirates,55,6,in from Leftfield.,Wind6mphinfromLeftfield
-01-10-2012,Atlanta Braves,Pittsburgh Pirates,62,1,out to Rightfield.,Wind1mphouttoRightfield
-02-10-2012,Atlanta Braves,Pittsburgh Pirates,73,4,in from Leftfield.,Wind4mphinfromLeftfield
-03-10-2012,Atlanta Braves,Pittsburgh Pirates,69,9,out to Leftfield.,Wind9mphouttoLeftfield
+30-09-2012,Cincinnati Reds,Pittsburgh Pirates,55,6,in from Leftfield.,
+01-10-2012,Atlanta Braves,Pittsburgh Pirates,62,1,out to Rightfield.,
+02-10-2012,Atlanta Braves,Pittsburgh Pirates,73,4,in from Leftfield.,
+03-10-2012,Atlanta Braves,Pittsburgh Pirates,69,9,out to Leftfield.,
 05-04-2012,Los Angeles Dodgers,San Diego Padres,69,6,from Left to Right,Sunny
-06-04-2012,Los Angeles Dodgers,San Diego Padres,61,10,from Left to Right.,Wind10mphfromLefttoRight
+06-04-2012,Los Angeles Dodgers,San Diego Padres,61,10,from Left to Right.,
 07-04-2012,Los Angeles Dodgers,San Diego Padres,71,9,from Left to Right,Sunny
 08-04-2012,Los Angeles Dodgers,San Diego Padres,72,10,from Left to Right,Cloudy
 10-04-2012,Arizona Diamondbacks,San Diego Padres,63,9,from Left to Right,Cloudy
 11-04-2012,Arizona Diamondbacks,San Diego Padres,66,7,from Left to Right,Cloudy
 12-04-2012,Arizona Diamondbacks,San Diego Padres,62,12,from Left to Right,Cloudy
-19-04-2012,Philadelphia Phillies,San Diego Padres,64,7,from Left to Right.,Wind7mphfromLefttoRight
-20-04-2012,Philadelphia Phillies,San Diego Padres,66,4,from Left to Right.,Wind4mphfromLefttoRight
+19-04-2012,Philadelphia Phillies,San Diego Padres,64,7,from Left to Right.,
+20-04-2012,Philadelphia Phillies,San Diego Padres,66,4,from Left to Right.,
 21-04-2012,Philadelphia Phillies,San Diego Padres,67,6,from Left to Right,Overcast
 22-04-2012,Philadelphia Phillies,San Diego Padres,69,3,from Left to Right,Overcast
-24-04-2012,Washington Nationals,San Diego Padres,65,9,from Left to Right.,Wind9mphfromLefttoRight
+24-04-2012,Washington Nationals,San Diego Padres,65,9,from Left to Right.,
 25-04-2012,Washington Nationals,San Diego Padres,72,7,from Left to Right,Cloudy
 26-04-2012,Washington Nationals,San Diego Padres,65,7,in unknown direction,Cloudy
 30-04-2012,Milwaukee Brewers,San Diego Padres,64,6,from Left to Right,Overcast
-01-05-2012,Milwaukee Brewers,San Diego Padres,65,10,from Left to Right.,Wind10mphfromLefttoRight
+01-05-2012,Milwaukee Brewers,San Diego Padres,65,10,from Left to Right.,
 02-05-2012,Milwaukee Brewers,San Diego Padres,70,7,out to Rightfield,Cloudy
 04-05-2012,Miami Marlins,San Diego Padres,64,12,from Left to Right,Cloudy
 05-05-2012,Miami Marlins,San Diego Padres,67,5,from Left to Right,Sunny
@@ -1779,7 +1779,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-05-2012,Los Angeles Angels of Anaheim,San Diego Padres,71,10,from Left to Right,Sunny
 01-06-2012,Arizona Diamondbacks,San Diego Padres,66,8,from Left to Right,Cloudy
 02-06-2012,Arizona Diamondbacks,San Diego Padres,66,9,in unknown direction,Overcast
-03-06-2012,Arizona Diamondbacks,San Diego Padres,69,7,from Left to Right.,Wind7mphfromLefttoRight
+03-06-2012,Arizona Diamondbacks,San Diego Padres,69,7,from Left to Right.,
 05-06-2012,San Francisco Giants,San Diego Padres,66,10,from Left to Right,Sunny
 06-06-2012,San Francisco Giants,San Diego Padres,70,7,from Left to Right,Sunny
 07-06-2012,San Francisco Giants,San Diego Padres,71,9,from Left to Right,Sunny
@@ -1819,7 +1819,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-09-2012,Arizona Diamondbacks,San Diego Padres,71,9,from Left to Right,Cloudy
 09-09-2012,Arizona Diamondbacks,San Diego Padres,75,8,from Left to Right,Cloudy
 10-09-2012,St. Louis Cardinals,San Diego Padres,72,4,in unknown direction,Cloudy
-11-09-2012,St. Louis Cardinals,San Diego Padres,69,4,from Left to Right.,Wind4mphfromLefttoRight
+11-09-2012,St. Louis Cardinals,San Diego Padres,69,4,from Left to Right.,
 12-09-2012,St. Louis Cardinals,San Diego Padres,73,12,from Left to Right,Cloudy
 14-09-2012,Colorado Rockies,San Diego Padres,81,4,from Left to Right,Sunny
 15-09-2012,Colorado Rockies,San Diego Padres,83,4,in unknown direction,Sunny
@@ -1836,60 +1836,60 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-04-2012,Cleveland Indians,Seattle Mariners,50,0,NoWind,InDome
 18-04-2012,Cleveland Indians,Seattle Mariners,55,3,from Right to Left,Sunny
 19-04-2012,Cleveland Indians,Seattle Mariners,55,0,NoWind,InDome
-20-04-2012,Chicago White Sox,Seattle Mariners,54,1,out to Rightfield.,Wind1mphouttoRightfield
+20-04-2012,Chicago White Sox,Seattle Mariners,54,1,out to Rightfield.,
 21-04-2012,Chicago White Sox,Seattle Mariners,64,4,from Left to Right,Sunny
 22-04-2012,Chicago White Sox,Seattle Mariners,61,2,from Left to Right,Sunny
 04-05-2012,Minnesota Twins,Seattle Mariners,50,0,NoWind,InDome
 05-05-2012,Minnesota Twins,Seattle Mariners,56,2,in from Leftfield,Cloudy
 06-05-2012,Minnesota Twins,Seattle Mariners,56,5,from Left to Right,Sunny
 07-05-2012,Detroit Tigers,Seattle Mariners,67,2,from Left to Right,Cloudy
-08-05-2012,Detroit Tigers,Seattle Mariners,57,2,from Right to Left.,Wind2mphfromRighttoLeft
-09-05-2012,Detroit Tigers,Seattle Mariners,49,6,from Left to Right.,Wind6mphfromLefttoRight
+08-05-2012,Detroit Tigers,Seattle Mariners,57,2,from Right to Left.,
+09-05-2012,Detroit Tigers,Seattle Mariners,49,6,from Left to Right.,
 21-05-2012,Texas Rangers,Seattle Mariners,60,3,from Left to Right,Overcast
-22-05-2012,Texas Rangers,Seattle Mariners,56,0,NoWind,Wind0mph
-23-05-2012,Texas Rangers,Seattle Mariners,55,8,out to Leftfield.,Wind8mphouttoLeftfield
+22-05-2012,Texas Rangers,Seattle Mariners,56,0,NoWind,
+23-05-2012,Texas Rangers,Seattle Mariners,55,8,out to Leftfield.,
 24-05-2012,Los Angeles Angels of Anaheim,Seattle Mariners,59,6,from Left to Right,Overcast
 25-05-2012,Los Angeles Angels of Anaheim,Seattle Mariners,69,2,from Left to Right,Cloudy
 26-05-2012,Los Angeles Angels of Anaheim,Seattle Mariners,73,2,out to Rightfield,Overcast
-27-05-2012,Los Angeles Angels of Anaheim,Seattle Mariners,60,2,out to Centerfield.,Wind2mphouttoCenterfield
+27-05-2012,Los Angeles Angels of Anaheim,Seattle Mariners,60,2,out to Centerfield.,
 08-06-2012,Los Angeles Dodgers,Seattle Mariners,57,0,NoWind,InDome
 09-06-2012,Los Angeles Dodgers,Seattle Mariners,61,0,NoWind,InDome
-10-06-2012,Los Angeles Dodgers,Seattle Mariners,59,3,from Left to Right.,Wind3mphfromLefttoRight
-12-06-2012,San Diego Padres,Seattle Mariners,66,2,from Left to Right.,Wind2mphfromLefttoRight
-13-06-2012,San Diego Padres,Seattle Mariners,57,4,from Left to Right.,Wind4mphfromLefttoRight
-14-06-2012,San Diego Padres,Seattle Mariners,57,4,in from Centerfield.,Wind4mphinfromCenterfield
-15-06-2012,San Francisco Giants,Seattle Mariners,66,4,from Right to Left.,Wind4mphfromRighttoLeft
-16-06-2012,San Francisco Giants,Seattle Mariners,67,6,from Left to Right.,Wind6mphfromLefttoRight
-17-06-2012,San Francisco Giants,Seattle Mariners,64,6,out to Centerfield.,Wind6mphouttoCenterfield
-25-06-2012,Oakland Athletics,Seattle Mariners,62,4,out to Leftfield.,Wind4mphouttoLeftfield
-26-06-2012,Oakland Athletics,Seattle Mariners,60,2,from Left to Right.,Wind2mphfromLefttoRight
+10-06-2012,Los Angeles Dodgers,Seattle Mariners,59,3,from Left to Right.,
+12-06-2012,San Diego Padres,Seattle Mariners,66,2,from Left to Right.,
+13-06-2012,San Diego Padres,Seattle Mariners,57,4,from Left to Right.,
+14-06-2012,San Diego Padres,Seattle Mariners,57,4,in from Centerfield.,
+15-06-2012,San Francisco Giants,Seattle Mariners,66,4,from Right to Left.,
+16-06-2012,San Francisco Giants,Seattle Mariners,67,6,from Left to Right.,
+17-06-2012,San Francisco Giants,Seattle Mariners,64,6,out to Centerfield.,
+25-06-2012,Oakland Athletics,Seattle Mariners,62,4,out to Leftfield.,
+26-06-2012,Oakland Athletics,Seattle Mariners,60,2,from Left to Right.,
 27-06-2012,Oakland Athletics,Seattle Mariners,61,4,from Left to Right,Sunny
 28-06-2012,Boston Red Sox,Seattle Mariners,69,0,NoWind,InDome
 29-06-2012,Boston Red Sox,Seattle Mariners,71,1,from Right to Left,Cloudy
-30-06-2012,Boston Red Sox,Seattle Mariners,64,0,NoWind,Wind0mph
-01-07-2012,Boston Red Sox,Seattle Mariners,62,6,in from Centerfield.,Wind6mphinfromCenterfield
+30-06-2012,Boston Red Sox,Seattle Mariners,64,0,NoWind,
+01-07-2012,Boston Red Sox,Seattle Mariners,62,6,in from Centerfield.,
 02-07-2012,Baltimore Orioles,Seattle Mariners,61,0,NoWind,InDome
-03-07-2012,Baltimore Orioles,Seattle Mariners,59,0,NoWind,Wind0mph
+03-07-2012,Baltimore Orioles,Seattle Mariners,59,0,NoWind,
 04-07-2012,Baltimore Orioles,Seattle Mariners,61,6,from Left to Right,Cloudy
 13-07-2012,Texas Rangers,Seattle Mariners,67,4,from Left to Right,Cloudy
 14-07-2012,Texas Rangers,Seattle Mariners,82,2,out to Centerfield,Overcast
-15-07-2012,Texas Rangers,Seattle Mariners,65,3,in from Centerfield.,Wind3mphinfromCenterfield
-23-07-2012,New York Yankees,Seattle Mariners,65,2,from Right to Left.,Wind2mphfromRighttoLeft
+15-07-2012,Texas Rangers,Seattle Mariners,65,3,in from Centerfield.,
+23-07-2012,New York Yankees,Seattle Mariners,65,2,from Right to Left.,
 24-07-2012,New York Yankees,Seattle Mariners,68,10,out to Leftfield,Sunny
 25-07-2012,New York Yankees,Seattle Mariners,67,9,out to Centerfield,Sunny
 26-07-2012,Kansas City Royals,Seattle Mariners,74,3,out to Centerfield,Sunny
-27-07-2012,Kansas City Royals,Seattle Mariners,66,2,out to Leftfield.,Wind2mphouttoLeftfield
-28-07-2012,Kansas City Royals,Seattle Mariners,64,5,out to Centerfield.,Wind5mphouttoCenterfield
+27-07-2012,Kansas City Royals,Seattle Mariners,66,2,out to Leftfield.,
+28-07-2012,Kansas City Royals,Seattle Mariners,64,5,out to Centerfield.,
 29-07-2012,Kansas City Royals,Seattle Mariners,65,4,from Left to Right,Sunny
-30-07-2012,Toronto Blue Jays,Seattle Mariners,67,0,NoWind,Wind0mph
+30-07-2012,Toronto Blue Jays,Seattle Mariners,67,0,NoWind,
 31-07-2012,Toronto Blue Jays,Seattle Mariners,70,2,from Left to Right,Cloudy
 01-08-2012,Toronto Blue Jays,Seattle Mariners,70,3,out to Leftfield,Sunny
 13-08-2012,Tampa Bay Rays,Seattle Mariners,75,2,from Left to Right,Sunny
 14-08-2012,Tampa Bay Rays,Seattle Mariners,75,3,from Right to Left,Sunny
 15-08-2012,Tampa Bay Rays,Seattle Mariners,79,4,in from Centerfield,Sunny
 17-08-2012,Minnesota Twins,Seattle Mariners,79,3,from Left to Right,Sunny
-18-08-2012,Minnesota Twins,Seattle Mariners,67,4,out to Leftfield.,Wind4mphouttoLeftfield
-19-08-2012,Minnesota Twins,Seattle Mariners,68,4,from Left to Right.,Wind4mphfromLefttoRight
+18-08-2012,Minnesota Twins,Seattle Mariners,67,4,out to Leftfield.,
+19-08-2012,Minnesota Twins,Seattle Mariners,68,4,from Left to Right.,
 20-08-2012,Cleveland Indians,Seattle Mariners,73,2,out to Rightfield,Sunny
 21-08-2012,Cleveland Indians,Seattle Mariners,67,2,from Left to Right,Cloudy
 22-08-2012,Cleveland Indians,Seattle Mariners,62,5,from Left to Right,Cloudy
@@ -1901,7 +1901,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-09-2012,Boston Red Sox,Seattle Mariners,69,3,from Left to Right,Sunny
 07-09-2012,Oakland Athletics,Seattle Mariners,75,3,from Right to Left,Sunny
 08-09-2012,Oakland Athletics,Seattle Mariners,75,0,NoWind,Cloudy
-09-09-2012,Oakland Athletics,Seattle Mariners,64,1,in from Rightfield.,Wind1mphinfromRightfield
+09-09-2012,Oakland Athletics,Seattle Mariners,64,1,in from Rightfield.,
 17-09-2012,Baltimore Orioles,Seattle Mariners,69,2,out to Rightfield,Cloudy
 18-09-2012,Baltimore Orioles,Seattle Mariners,70,2,from Left to Right,Sunny
 19-09-2012,Baltimore Orioles,Seattle Mariners,67,4,from Right to Left,Sunny
@@ -1911,10 +1911,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-10-2012,Los Angeles Angels of Anaheim,Seattle Mariners,67,4,from Right to Left,Cloudy
 02-10-2012,Los Angeles Angels of Anaheim,Seattle Mariners,57,3,in from Leftfield,Sunny
 03-10-2012,Los Angeles Angels of Anaheim,Seattle Mariners,64,9,in from Leftfield,Sunny
-13-04-2012,Pittsburgh Pirates,San Francisco Giants,53,12,out to Rightfield.,Wind12mphouttoRightfield
+13-04-2012,Pittsburgh Pirates,San Francisco Giants,53,12,out to Rightfield.,
 14-04-2012,Pittsburgh Pirates,San Francisco Giants,54,11,out to Rightfield,Cloudy
 15-04-2012,Pittsburgh Pirates,San Francisco Giants,60,9,from Right to Left,Cloudy
-16-04-2012,Philadelphia Phillies,San Francisco Giants,55,8,out to Centerfield.,Wind8mphouttoCenterfield
+16-04-2012,Philadelphia Phillies,San Francisco Giants,55,8,out to Centerfield.,
 17-04-2012,Philadelphia Phillies,San Francisco Giants,53,10,from Right to Left,Cloudy
 18-04-2012,Philadelphia Phillies,San Francisco Giants,56,10,out to Rightfield,Cloudy
 27-04-2012,San Diego Padres,San Francisco Giants,56,12,out to Centerfield,Sunny
@@ -1952,14 +1952,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-06-2012,Cincinnati Reds,San Francisco Giants,61,18,out to Leftfield,Sunny
 29-06-2012,Cincinnati Reds,San Francisco Giants,59,12,out to Centerfield,Cloudy
 30-06-2012,Cincinnati Reds,San Francisco Giants,65,12,out to Centerfield,Cloudy
-01-07-2012,Cincinnati Reds,San Francisco Giants,64,11,out to Centerfield.,Wind11mphouttoCenterfield
+01-07-2012,Cincinnati Reds,San Francisco Giants,64,11,out to Centerfield.,
 13-07-2012,Houston Astros,San Francisco Giants,56,20,out to Centerfield,Overcast
 14-07-2012,Houston Astros,San Francisco Giants,57,10,out to Centerfield,Sunny
 15-07-2012,Houston Astros,San Francisco Giants,66,9,from Left to Right,Sunny
 23-07-2012,San Diego Padres,San Francisco Giants,60,9,out to Rightfield,Sunny
 24-07-2012,San Diego Padres,San Francisco Giants,61,8,out to Centerfield,Sunny
-25-07-2012,San Diego Padres,San Francisco Giants,61,7,out to Centerfield.,Wind7mphouttoCenterfield
-27-07-2012,Los Angeles Dodgers,San Francisco Giants,58,10,out to Rightfield.,Wind10mphouttoRightfield
+25-07-2012,San Diego Padres,San Francisco Giants,61,7,out to Centerfield.,
+27-07-2012,Los Angeles Dodgers,San Francisco Giants,58,10,out to Rightfield.,
 28-07-2012,Los Angeles Dodgers,San Francisco Giants,64,10,out to Rightfield,Cloudy
 29-07-2012,Los Angeles Dodgers,San Francisco Giants,64,10,out to Centerfield,Sunny
 30-07-2012,New York Mets,San Francisco Giants,62,10,out to Centerfield,Sunny
@@ -1988,11 +1988,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-09-2012,Colorado Rockies,San Francisco Giants,62,5,out to Centerfield,Cloudy
 21-09-2012,San Diego Padres,San Francisco Giants,56,9,out to Rightfield,Cloudy
 22-09-2012,San Diego Padres,San Francisco Giants,63,8,out to Rightfield,Cloudy
-23-09-2012,San Diego Padres,San Francisco Giants,66,6,out to Centerfield.,Wind6mphouttoCenterfield
-25-09-2012,Arizona Diamondbacks,San Francisco Giants,54,2,out to Centerfield.,Wind2mphouttoCenterfield
+23-09-2012,San Diego Padres,San Francisco Giants,66,6,out to Centerfield.,
+25-09-2012,Arizona Diamondbacks,San Francisco Giants,54,2,out to Centerfield.,
 26-09-2012,Arizona Diamondbacks,San Francisco Giants,59,13,out to Leftfield,Sunny
 27-09-2012,Arizona Diamondbacks,San Francisco Giants,66,9,out to Centerfield,Cloudy
-13-04-2012,Chicago Cubs,St. Louis Cardinals,49,15,from Right to Left.,Wind15mphfromRighttoLeft
+13-04-2012,Chicago Cubs,St. Louis Cardinals,49,15,from Right to Left.,
 14-04-2012,Chicago Cubs,St. Louis Cardinals,64,3,from Right to Left,Cloudy
 15-04-2012,Chicago Cubs,St. Louis Cardinals,77,21,from Right to Left,Cloudy
 17-04-2012,Cincinnati Reds,St. Louis Cardinals,69,7,from Right to Left,Cloudy
@@ -2000,11 +2000,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-04-2012,Cincinnati Reds,St. Louis Cardinals,72,11,from Right to Left,Sunny
 27-04-2012,Milwaukee Brewers,St. Louis Cardinals,58,18,from Right to Left,Cloudy
 28-04-2012,Milwaukee Brewers,St. Louis Cardinals,76,6,from Right to Left,Sunny
-29-04-2012,Milwaukee Brewers,St. Louis Cardinals,57,5,from Left to Right.,Wind5mphfromLefttoRight
+29-04-2012,Milwaukee Brewers,St. Louis Cardinals,57,5,from Left to Right.,
 01-05-2012,Pittsburgh Pirates,St. Louis Cardinals,83,6,from Right to Left,Cloudy
 02-05-2012,Pittsburgh Pirates,St. Louis Cardinals,85,12,out to Leftfield,Sunny
 03-05-2012,Pittsburgh Pirates,St. Louis Cardinals,83,8,out to Centerfield,Cloudy
-11-05-2012,Atlanta Braves,St. Louis Cardinals,76,4,from Right to Left.,Wind4mphfromRighttoLeft
+11-05-2012,Atlanta Braves,St. Louis Cardinals,76,4,from Right to Left.,
 12-05-2012,Atlanta Braves,St. Louis Cardinals,78,4,out to Rightfield,Cloudy
 13-05-2012,Atlanta Braves,St. Louis Cardinals,74,9,in from Centerfield,Sunny
 14-05-2012,Chicago Cubs,St. Louis Cardinals,79,5,from Left to Right,Cloudy
@@ -2028,14 +2028,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-06-2012,Pittsburgh Pirates,St. Louis Cardinals,101,11,from Right to Left,Sunny
 30-06-2012,Pittsburgh Pirates,St. Louis Cardinals,99,6,from Left to Right,Sunny
 01-07-2012,Pittsburgh Pirates,St. Louis Cardinals,98,11,in from Leftfield,Sunny
-02-07-2012,Colorado Rockies,St. Louis Cardinals,84,7,in from Leftfield.,Wind7mphinfromLeftfield
+02-07-2012,Colorado Rockies,St. Louis Cardinals,84,7,in from Leftfield.,
 03-07-2012,Colorado Rockies,St. Louis Cardinals,97,14,out to Leftfield,Cloudy
 04-07-2012,Colorado Rockies,St. Louis Cardinals,103,9,out to Rightfield,Sunny
 05-07-2012,Colorado Rockies,St. Louis Cardinals,102,8,from Left to Right,Sunny
 06-07-2012,Miami Marlins,St. Louis Cardinals,103,10,in from Rightfield,Sunny
 07-07-2012,Miami Marlins,St. Louis Cardinals,106,4,in from Rightfield,Cloudy
 08-07-2012,Miami Marlins,St. Louis Cardinals,94,5,in from Centerfield,Cloudy
-20-07-2012,Chicago Cubs,St. Louis Cardinals,87,8,from Left to Right.,Wind8mphfromLefttoRight
+20-07-2012,Chicago Cubs,St. Louis Cardinals,87,8,from Left to Right.,
 21-07-2012,Chicago Cubs,St. Louis Cardinals,93,5,in from Centerfield,Cloudy
 22-07-2012,Chicago Cubs,St. Louis Cardinals,94,5,in unknown direction,Sunny
 23-07-2012,Los Angeles Dodgers,St. Louis Cardinals,103,8,from Right to Left,Sunny
@@ -2053,14 +2053,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-08-2012,Arizona Diamondbacks,St. Louis Cardinals,91,10,from Right to Left,Sunny
 16-08-2012,Arizona Diamondbacks,St. Louis Cardinals,74,2,in from Centerfield,Overcast
 17-08-2012,Pittsburgh Pirates,St. Louis Cardinals,80,11,in from Leftfield,Sunny
-18-08-2012,Pittsburgh Pirates,St. Louis Cardinals,81,2,from Right to Left.,Wind2mphfromRighttoLeft
+18-08-2012,Pittsburgh Pirates,St. Louis Cardinals,81,2,from Right to Left.,
 19-08-2012,Pittsburgh Pirates,St. Louis Cardinals,82,6,from Left to Right,Cloudy
 21-08-2012,Houston Astros,St. Louis Cardinals,88,9,from Left to Right,Cloudy
 22-08-2012,Houston Astros,St. Louis Cardinals,88,1,in from Rightfield,Sunny
 23-08-2012,Houston Astros,St. Louis Cardinals,90,2,from Right to Left,Sunny
-03-09-2012,New York Mets,St. Louis Cardinals,79,9,in from Centerfield.,Wind9mphinfromCenterfield
+03-09-2012,New York Mets,St. Louis Cardinals,79,9,in from Centerfield.,
 04-09-2012,New York Mets,St. Louis Cardinals,86,5,out to Centerfield,Cloudy
-05-09-2012,New York Mets,St. Louis Cardinals,75,11,in unknown direction.,Wind11mphinunknowndirection
+05-09-2012,New York Mets,St. Louis Cardinals,75,11,in unknown direction.,
 07-09-2012,Milwaukee Brewers,St. Louis Cardinals,70,8,out to Rightfield,Overcast
 08-09-2012,Milwaukee Brewers,St. Louis Cardinals,73,10,out to Rightfield,Sunny
 09-09-2012,Milwaukee Brewers,St. Louis Cardinals,72,14,from Left to Right,Sunny
@@ -2069,9 +2069,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-09-2012,Houston Astros,St. Louis Cardinals,76,5,from Left to Right,Cloudy
 28-09-2012,Washington Nationals,St. Louis Cardinals,66,6,in from Leftfield,Cloudy
 29-09-2012,Washington Nationals,St. Louis Cardinals,75,4,in unknown direction,Sunny
-30-09-2012,Washington Nationals,St. Louis Cardinals,70,1,in unknown direction.,Wind1mphinunknowndirection
+30-09-2012,Washington Nationals,St. Louis Cardinals,70,1,in unknown direction.,
 01-10-2012,Cincinnati Reds,St. Louis Cardinals,65,10,from Left to Right,Overcast
-02-10-2012,Cincinnati Reds,St. Louis Cardinals,64,3,from Right to Left.,Wind3mphfromRighttoLeft
+02-10-2012,Cincinnati Reds,St. Louis Cardinals,64,3,from Right to Left.,
 03-10-2012,Cincinnati Reds,St. Louis Cardinals,68,3,out to Leftfield,Cloudy
 06-04-2012,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
 07-04-2012,New York Yankees,Tampa Bay Rays,72,0,NoWind,InDome
@@ -2157,7 +2157,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-04-2012,Chicago White Sox,Texas Rangers,75,3,from Left to Right,Sunny
 07-04-2012,Chicago White Sox,Texas Rangers,82,5,in from Rightfield,Sunny
 08-04-2012,Chicago White Sox,Texas Rangers,65,5,in from Leftfield,Overcast
-09-04-2012,Seattle Mariners,Texas Rangers,75,2,in from Rightfield.,Wind2mphinfromRightfield
+09-04-2012,Seattle Mariners,Texas Rangers,75,2,in from Rightfield.,
 10-04-2012,Seattle Mariners,Texas Rangers,82,6,in from Rightfield,Cloudy
 11-04-2012,Seattle Mariners,Texas Rangers,81,20,in from Rightfield,Cloudy
 12-04-2012,Seattle Mariners,Texas Rangers,77,26,in from Centerfield,Cloudy
@@ -2167,8 +2167,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-04-2012,Tampa Bay Rays,Texas Rangers,88,16,from Right to Left,Sunny
 28-04-2012,Tampa Bay Rays,Texas Rangers,87,7,from Right to Left,Cloudy
 29-04-2012,Tampa Bay Rays,Texas Rangers,85,10,in from Rightfield,Sunny
-11-05-2012,Los Angeles Angels of Anaheim,Texas Rangers,73,11,from Left to Right.,Wind11mphfromLefttoRight
-12-05-2012,Los Angeles Angels of Anaheim,Texas Rangers,69,8,from Left to Right.,Wind8mphfromLefttoRight
+11-05-2012,Los Angeles Angels of Anaheim,Texas Rangers,73,11,from Left to Right.,
+12-05-2012,Los Angeles Angels of Anaheim,Texas Rangers,69,8,from Left to Right.,
 13-05-2012,Los Angeles Angels of Anaheim,Texas Rangers,80,2,out to Centerfield,Cloudy
 14-05-2012,Kansas City Royals,Texas Rangers,80,7,from Left to Right,Cloudy
 15-05-2012,Kansas City Royals,Texas Rangers,83,1,in from Rightfield,Cloudy
@@ -2195,7 +2195,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-06-2012,Oakland Athletics,Texas Rangers,97,12,in from Rightfield,Sunny
 29-06-2012,Oakland Athletics,Texas Rangers,96,10,from Right to Left,Cloudy
 30-06-2012,Oakland Athletics,Texas Rangers,96,9,in from Leftfield,Sunny
-01-07-2012,Oakland Athletics,Texas Rangers,83,9,out to Rightfield.,Wind9mphouttoRightfield
+01-07-2012,Oakland Athletics,Texas Rangers,83,9,out to Rightfield.,
 06-07-2012,Minnesota Twins,Texas Rangers,98,5,in from Rightfield,Cloudy
 07-07-2012,Minnesota Twins,Texas Rangers,83,5,in from Leftfield,Cloudy
 08-07-2012,Minnesota Twins,Texas Rangers,96,1,in from Leftfield,Cloudy
@@ -2218,21 +2218,21 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-08-2012,Minnesota Twins,Texas Rangers,92,6,in from Leftfield,Sunny
 24-08-2012,Minnesota Twins,Texas Rangers,92,11,in from Centerfield,Sunny
 25-08-2012,Minnesota Twins,Texas Rangers,91,12,in from Rightfield,Cloudy
-26-08-2012,Minnesota Twins,Texas Rangers,87,2,in from Rightfield.,Wind2mphinfromRightfield
+26-08-2012,Minnesota Twins,Texas Rangers,87,2,in from Rightfield.,
 27-08-2012,Tampa Bay Rays,Texas Rangers,91,7,from Left to Right,Cloudy
 28-08-2012,Tampa Bay Rays,Texas Rangers,89,4,out to Rightfield,Cloudy
 29-08-2012,Tampa Bay Rays,Texas Rangers,95,12,from Left to Right,Sunny
 11-09-2012,Cleveland Indians,Texas Rangers,88,13,in from Leftfield,Sunny
 12-09-2012,Cleveland Indians,Texas Rangers,92,10,from Right to Left,Sunny
-13-09-2012,Cleveland Indians,Texas Rangers,83,7,out to Rightfield.,Wind7mphouttoRightfield
+13-09-2012,Cleveland Indians,Texas Rangers,83,7,out to Rightfield.,
 14-09-2012,Seattle Mariners,Texas Rangers,66,5,out to Rightfield,Overcast
 15-09-2012,Seattle Mariners,Texas Rangers,72,3,from Left to Right,Overcast
 16-09-2012,Seattle Mariners,Texas Rangers,68,0,NoWind,Drizzle
 24-09-2012,Oakland Athletics,Texas Rangers,91,15,in from Rightfield,Cloudy
 25-09-2012,Oakland Athletics,Texas Rangers,90,12,in from Rightfield,Sunny
 26-09-2012,Oakland Athletics,Texas Rangers,89,10,in from Rightfield,Sunny
-27-09-2012,Oakland Athletics,Texas Rangers,86,10,from Right to Left.,Wind10mphfromRighttoLeft
-28-09-2012,Los Angeles Angels of Anaheim,Texas Rangers,77,17,from Left to Right.,Wind17mphfromLefttoRight
+27-09-2012,Oakland Athletics,Texas Rangers,86,10,from Right to Left.,
+28-09-2012,Los Angeles Angels of Anaheim,Texas Rangers,77,17,from Left to Right.,
 09-04-2012,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
 10-04-2012,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
 11-04-2012,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
@@ -2247,7 +2247,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-04-2012,Seattle Mariners,Toronto Blue Jays,68,0,NoWind,InDome
 30-04-2012,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
 01-05-2012,Texas Rangers,Toronto Blue Jays,68,0,NoWind,InDome
-02-05-2012,Texas Rangers,Toronto Blue Jays,53,19,out to Leftfield.,Wind19mphouttoLeftfield
+02-05-2012,Texas Rangers,Toronto Blue Jays,53,19,out to Leftfield.,
 14-05-2012,Tampa Bay Rays,Toronto Blue Jays,64,9,from Right to Left,Cloudy
 15-05-2012,Tampa Bay Rays,Toronto Blue Jays,73,12,out to Centerfield,Sunny
 16-05-2012,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
@@ -2257,7 +2257,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-05-2012,New York Mets,Toronto Blue Jays,79,9,out to Leftfield,Sunny
 28-05-2012,Baltimore Orioles,Toronto Blue Jays,73,6,out to Rightfield,Cloudy
 29-05-2012,Baltimore Orioles,Toronto Blue Jays,80,18,out to Rightfield,Cloudy
-30-05-2012,Baltimore Orioles,Toronto Blue Jays,68,3,out to Centerfield.,Wind3mphouttoCenterfield
+30-05-2012,Baltimore Orioles,Toronto Blue Jays,68,3,out to Centerfield.,
 01-06-2012,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
 02-06-2012,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
 03-06-2012,Boston Red Sox,Toronto Blue Jays,68,0,NoWind,InDome
@@ -2281,13 +2281,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 24-07-2012,Oakland Athletics,Toronto Blue Jays,79,17,in from Centerfield,Sunny
 25-07-2012,Oakland Athletics,Toronto Blue Jays,68,0,NoWind,InDome
 26-07-2012,Oakland Athletics,Toronto Blue Jays,68,0,NoWind,InDome
-27-07-2012,Detroit Tigers,Toronto Blue Jays,75,6,from Right to Left.,Wind6mphfromRighttoLeft
+27-07-2012,Detroit Tigers,Toronto Blue Jays,75,6,from Right to Left.,
 28-07-2012,Detroit Tigers,Toronto Blue Jays,77,9,from Right to Left,Cloudy
 29-07-2012,Detroit Tigers,Toronto Blue Jays,75,7,out to Centerfield,Sunny
 10-08-2012,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
 11-08-2012,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
 12-08-2012,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
-13-08-2012,Chicago White Sox,Toronto Blue Jays,73,8,out to Centerfield.,Wind8mphouttoCenterfield
+13-08-2012,Chicago White Sox,Toronto Blue Jays,73,8,out to Centerfield.,
 14-08-2012,Chicago White Sox,Toronto Blue Jays,70,6,out to Centerfield,Cloudy
 15-08-2012,Chicago White Sox,Toronto Blue Jays,73,2,in unknown direction,Cloudy
 16-08-2012,Chicago White Sox,Toronto Blue Jays,77,12,out to Centerfield,Cloudy
@@ -2300,7 +2300,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-09-2012,Tampa Bay Rays,Toronto Blue Jays,72,11,in from Rightfield,Sunny
 03-09-2012,Baltimore Orioles,Toronto Blue Jays,73,11,from Right to Left,Sunny
 04-09-2012,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
-05-09-2012,Baltimore Orioles,Toronto Blue Jays,75,7,from Right to Left.,Wind7mphfromRighttoLeft
+05-09-2012,Baltimore Orioles,Toronto Blue Jays,75,7,from Right to Left.,
 11-09-2012,Seattle Mariners,Toronto Blue Jays,72,14,out to Centerfield,Sunny
 12-09-2012,Seattle Mariners,Toronto Blue Jays,73,17,out to Centerfield,Sunny
 13-09-2012,Seattle Mariners,Toronto Blue Jays,73,11,out to Centerfield,Cloudy
@@ -2316,7 +2316,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-10-2012,Minnesota Twins,Toronto Blue Jays,68,0,NoWind,InDome
 12-04-2012,Cincinnati Reds,Washington Nationals,56,8,from Left to Right,Cloudy
 13-04-2012,Cincinnati Reds,Washington Nationals,64,4,out to Rightfield,Sunny
-14-04-2012,Cincinnati Reds,Washington Nationals,74,8,out to Leftfield.,Wind8mphouttoLeftfield
+14-04-2012,Cincinnati Reds,Washington Nationals,74,8,out to Leftfield.,
 15-04-2012,Cincinnati Reds,Washington Nationals,77,3,out to Leftfield,Cloudy
 16-04-2012,Houston Astros,Washington Nationals,84,16,out to Centerfield,Sunny
 17-04-2012,Houston Astros,Washington Nationals,70,11,in from Leftfield,Cloudy
@@ -2324,14 +2324,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-04-2012,Houston Astros,Washington Nationals,68,6,out to Leftfield,Cloudy
 20-04-2012,Miami Marlins,Washington Nationals,70,5,out to Centerfield,Cloudy
 21-04-2012,Miami Marlins,Washington Nationals,77,3,out to Leftfield,Cloudy
-01-05-2012,Arizona Diamondbacks,Washington Nationals,83,2,out to Rightfield.,Wind2mphouttoRightfield
-02-05-2012,Arizona Diamondbacks,Washington Nationals,64,7,from Right to Left.,Wind7mphfromRighttoLeft
+01-05-2012,Arizona Diamondbacks,Washington Nationals,83,2,out to Rightfield.,
+02-05-2012,Arizona Diamondbacks,Washington Nationals,64,7,from Right to Left.,
 03-05-2012,Arizona Diamondbacks,Washington Nationals,80,4,in from Rightfield,Sunny
 04-05-2012,Philadelphia Phillies,Washington Nationals,80,2,from Left to Right,Cloudy
-05-05-2012,Philadelphia Phillies,Washington Nationals,81,5,in from Rightfield.,Wind5mphinfromRightfield
+05-05-2012,Philadelphia Phillies,Washington Nationals,81,5,in from Rightfield.,
 06-05-2012,Philadelphia Phillies,Washington Nationals,69,4,from Right to Left,Overcast
 14-05-2012,San Diego Padres,Washington Nationals,67,2,out to Rightfield,Rain
-15-05-2012,San Diego Padres,Washington Nationals,76,3,out to Rightfield.,Wind3mphouttoRightfield
+15-05-2012,San Diego Padres,Washington Nationals,76,3,out to Rightfield.,
 16-05-2012,Pittsburgh Pirates,Washington Nationals,82,3,out to Rightfield,Sunny
 17-05-2012,Pittsburgh Pirates,Washington Nationals,74,6,in from Rightfield,Sunny
 18-05-2012,Baltimore Orioles,Washington Nationals,72,8,in from Rightfield,Cloudy
@@ -2339,9 +2339,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-05-2012,Baltimore Orioles,Washington Nationals,77,12,in from Rightfield,Cloudy
 02-06-2012,Atlanta Braves,Washington Nationals,71,5,out to Rightfield,Cloudy
 03-06-2012,Atlanta Braves,Washington Nationals,74,10,out to Rightfield,Cloudy
-05-06-2012,New York Mets,Washington Nationals,69,8,in from Rightfield.,Wind8mphinfromRightfield
-06-06-2012,New York Mets,Washington Nationals,70,8,out to Rightfield.,Wind8mphouttoRightfield
-07-06-2012,New York Mets,Washington Nationals,78,5,in from Leftfield.,Wind5mphinfromLeftfield
+05-06-2012,New York Mets,Washington Nationals,69,8,in from Rightfield.,
+06-06-2012,New York Mets,Washington Nationals,70,8,out to Rightfield.,
+07-06-2012,New York Mets,Washington Nationals,78,5,in from Leftfield.,
 15-06-2012,New York Yankees,Washington Nationals,80,9,from Right to Left,Sunny
 16-06-2012,New York Yankees,Washington Nationals,77,5,out to Leftfield,Sunny
 17-06-2012,New York Yankees,Washington Nationals,72,5,from Right to Left,Cloudy
@@ -2355,16 +2355,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-07-2012,Colorado Rockies,Washington Nationals,101,2,from Left to Right,Cloudy
 08-07-2012,Colorado Rockies,Washington Nationals,95,9,from Left to Right,Cloudy
 17-07-2012,New York Mets,Washington Nationals,99,6,out to Rightfield,Sunny
-18-07-2012,New York Mets,Washington Nationals,82,2,from Left to Right.,Wind2mphfromLefttoRight
-19-07-2012,New York Mets,Washington Nationals,88,4,out to Rightfield.,Wind4mphouttoRightfield
-20-07-2012,Atlanta Braves,Washington Nationals,76,17,in from Rightfield.,Wind17mphinfromRightfield
+18-07-2012,New York Mets,Washington Nationals,82,2,from Left to Right.,
+19-07-2012,New York Mets,Washington Nationals,88,4,out to Rightfield.,
+20-07-2012,Atlanta Braves,Washington Nationals,76,17,in from Rightfield.,
 22-07-2012,Atlanta Braves,Washington Nationals,79,0,NoWind,Overcast
-31-07-2012,Philadelphia Phillies,Washington Nationals,82,6,out to Leftfield.,Wind6mphouttoLeftfield
+31-07-2012,Philadelphia Phillies,Washington Nationals,82,6,out to Leftfield.,
 01-08-2012,Philadelphia Phillies,Washington Nationals,82,3,in from Rightfield,Cloudy
 02-08-2012,Philadelphia Phillies,Washington Nationals,86,3,from Right to Left,Cloudy
 04-08-2012,Miami Marlins,Washington Nationals,90,5,out to Rightfield,Sunny
 05-08-2012,Miami Marlins,Washington Nationals,90,5,from Right to Left,Cloudy
-17-08-2012,New York Mets,Washington Nationals,89,8,out to Rightfield.,Wind8mphouttoRightfield
+17-08-2012,New York Mets,Washington Nationals,89,8,out to Rightfield.,
 18-08-2012,New York Mets,Washington Nationals,81,5,in from Leftfield,Sunny
 19-08-2012,New York Mets,Washington Nationals,74,0,NoWind,Overcast
 20-08-2012,Atlanta Braves,Washington Nationals,72,10,out to Rightfield,Cloudy
@@ -2373,9 +2373,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-08-2012,St. Louis Cardinals,Washington Nationals,88,9,out to Rightfield,Sunny
 31-08-2012,St. Louis Cardinals,Washington Nationals,94,9,in from Leftfield,Sunny
 01-09-2012,St. Louis Cardinals,Washington Nationals,91,5,out to Rightfield,Cloudy
-02-09-2012,St. Louis Cardinals,Washington Nationals,83,5,in from Leftfield.,Wind5mphinfromLeftfield
+02-09-2012,St. Louis Cardinals,Washington Nationals,83,5,in from Leftfield.,
 03-09-2012,Chicago Cubs,Washington Nationals,82,2,out to Centerfield,Cloudy
-04-09-2012,Chicago Cubs,Washington Nationals,82,4,out to Leftfield.,Wind4mphouttoLeftfield
+04-09-2012,Chicago Cubs,Washington Nationals,82,4,out to Leftfield.,
 05-09-2012,Chicago Cubs,Washington Nationals,83,3,from Right to Left,Cloudy
 06-09-2012,Chicago Cubs,Washington Nationals,79,3,out to Leftfield,Sunny
 07-09-2012,Miami Marlins,Washington Nationals,83,0,NoWind,Sunny
@@ -2386,6 +2386,6 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-09-2012,Milwaukee Brewers,Washington Nationals,78,1,from Right to Left,Sunny
 23-09-2012,Milwaukee Brewers,Washington Nationals,67,10,from Left to Right,Cloudy
 24-09-2012,Milwaukee Brewers,Washington Nationals,66,8,out to Rightfield,Cloudy
-01-10-2012,Philadelphia Phillies,Washington Nationals,64,5,out to Rightfield.,Wind5mphouttoRightfield
-02-10-2012,Philadelphia Phillies,Washington Nationals,70,5,from Left to Right.,Wind5mphfromLefttoRight
-03-10-2012,Philadelphia Phillies,Washington Nationals,76,5,out to Centerfield.,Wind5mphouttoCenterfield
+01-10-2012,Philadelphia Phillies,Washington Nationals,64,5,out to Rightfield.,
+02-10-2012,Philadelphia Phillies,Washington Nationals,70,5,from Left to Right.,
+03-10-2012,Philadelphia Phillies,Washington Nationals,76,5,out to Centerfield.,

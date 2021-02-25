@@ -1,19 +1,19 @@
 Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-04-2016,Chicago Cubs,Los Angeles Angels,75,6,out to Rightfield,Sunny
-05-04-2016,Chicago Cubs,Los Angeles Angels,76,8,from Right to Left.,Wind8mphfromRighttoLeft
-07-04-2016,Texas Rangers,Los Angeles Angels,64,4,out to Centerfield.,Wind4mphouttoCenterfield
-08-04-2016,Texas Rangers,Los Angeles Angels,61,3,out to Centerfield.,Wind3mphouttoCenterfield
-09-04-2016,Texas Rangers,Los Angeles Angels,64,3,out to Leftfield.,Wind3mphouttoLeftfield
-10-04-2016,Texas Rangers,Los Angeles Angels,67,10,from Right to Left.,Wind10mphfromRighttoLeft
+05-04-2016,Chicago Cubs,Los Angeles Angels,76,8,from Right to Left.,
+07-04-2016,Texas Rangers,Los Angeles Angels,64,4,out to Centerfield.,
+08-04-2016,Texas Rangers,Los Angeles Angels,61,3,out to Centerfield.,
+09-04-2016,Texas Rangers,Los Angeles Angels,64,3,out to Leftfield.,
+10-04-2016,Texas Rangers,Los Angeles Angels,67,10,from Right to Left.,
 22-04-2016,Seattle Mariners,Los Angeles Angels,67,11,out to Rightfield,Cloudy
 23-04-2016,Seattle Mariners,Los Angeles Angels,73,5,out to Rightfield,Sunny
 24-04-2016,Seattle Mariners,Los Angeles Angels,74,11,out to Centerfield,Cloudy
-25-04-2016,Kansas City Royals,Los Angeles Angels,60,6,out to Centerfield.,Wind6mphouttoCenterfield
+25-04-2016,Kansas City Royals,Los Angeles Angels,60,6,out to Centerfield.,
 26-04-2016,Kansas City Royals,Los Angeles Angels,66,7,out to Centerfield,Cloudy
 27-04-2016,Kansas City Royals,Los Angeles Angels,63,9,from Right to Left,Sunny
-06-05-2016,Tampa Bay Rays,Los Angeles Angels,62,4,out to Rightfield.,Wind4mphouttoRightfield
-07-05-2016,Tampa Bay Rays,Los Angeles Angels,68,10,out to Leftfield.,Wind10mphouttoLeftfield
-08-05-2016,Tampa Bay Rays,Los Angeles Angels,68,7,from Right to Left.,Wind7mphfromRighttoLeft
+06-05-2016,Tampa Bay Rays,Los Angeles Angels,62,4,out to Rightfield.,
+07-05-2016,Tampa Bay Rays,Los Angeles Angels,68,10,out to Leftfield.,
+08-05-2016,Tampa Bay Rays,Los Angeles Angels,68,7,from Right to Left.,
 10-05-2016,St. Louis Cardinals,Los Angeles Angels,67,9,from Right to Left,Sunny
 11-05-2016,St. Louis Cardinals,Los Angeles Angels,69,8,out to Centerfield,Sunny
 12-05-2016,St. Louis Cardinals,Los Angeles Angels,68,7,out to Centerfield,Sunny
@@ -24,13 +24,13 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-05-2016,Baltimore Orioles,Los Angeles Angels,71,7,out to Centerfield,Cloudy
 27-05-2016,Houston Astros,Los Angeles Angels,67,10,from Right to Left,Sunny
 28-05-2016,Houston Astros,Los Angeles Angels,68,10,out to Rightfield,Cloudy
-29-05-2016,Houston Astros,Los Angeles Angels,69,5,out to Centerfield.,Wind5mphouttoCenterfield
+29-05-2016,Houston Astros,Los Angeles Angels,69,5,out to Centerfield.,
 30-05-2016,Detroit Tigers,Los Angeles Angels,71,8,out to Centerfield,Sunny
 31-05-2016,Detroit Tigers,Los Angeles Angels,69,8,out to Rightfield,Sunny
 01-06-2016,Detroit Tigers,Los Angeles Angels,74,9,out to Centerfield,Sunny
 10-06-2016,Cleveland Indians,Los Angeles Angels,70,10,out to Rightfield,Cloudy
-11-06-2016,Cleveland Indians,Los Angeles Angels,65,8,out to Centerfield.,Wind8mphouttoCenterfield
-12-06-2016,Cleveland Indians,Los Angeles Angels,69,8,out to Centerfield.,Wind8mphouttoCenterfield
+11-06-2016,Cleveland Indians,Los Angeles Angels,65,8,out to Centerfield.,
+12-06-2016,Cleveland Indians,Los Angeles Angels,69,8,out to Centerfield.,
 13-06-2016,Minnesota Twins,Los Angeles Angels,67,6,from Right to Left,Sunny
 14-06-2016,Minnesota Twins,Los Angeles Angels,67,8,out to Centerfield,Sunny
 15-06-2016,Minnesota Twins,Los Angeles Angels,69,5,from Right to Left,Sunny
@@ -38,7 +38,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 24-06-2016,Oakland Athletics,Los Angeles Angels,71,10,out to Centerfield,Sunny
 25-06-2016,Oakland Athletics,Los Angeles Angels,74,10,out to Rightfield,Sunny
 26-06-2016,Oakland Athletics,Los Angeles Angels,85,9,out to Centerfield,Sunny
-27-06-2016,Houston Astros,Los Angeles Angels,78,5,from Right to Left.,Wind5mphfromRighttoLeft
+27-06-2016,Houston Astros,Los Angeles Angels,78,5,from Right to Left.,
 28-06-2016,Houston Astros,Los Angeles Angels,83,10,out to Rightfield,Sunny
 29-06-2016,Houston Astros,Los Angeles Angels,86,8,out to Centerfield,Sunny
 15-07-2016,Chicago White Sox,Los Angeles Angels,77,9,out to Rightfield,Sunny
@@ -67,7 +67,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-09-2016,Texas Rangers,Los Angeles Angels,75,5,out to Centerfield,Sunny
 10-09-2016,Texas Rangers,Los Angeles Angels,81,7,from Right to Left,Sunny
 11-09-2016,Texas Rangers,Los Angeles Angels,81,7,out to Centerfield,Sunny
-12-09-2016,Seattle Mariners,Los Angeles Angels,66,9,out to Centerfield.,Wind9mphouttoCenterfield
+12-09-2016,Seattle Mariners,Los Angeles Angels,66,9,out to Centerfield.,
 13-09-2016,Seattle Mariners,Los Angeles Angels,67,5,out to Leftfield,Sunny
 14-09-2016,Seattle Mariners,Los Angeles Angels,73,7,from Right to Left,Sunny
 15-09-2016,Toronto Blue Jays,Los Angeles Angels,74,4,out to Rightfield,Sunny
@@ -76,7 +76,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-09-2016,Toronto Blue Jays,Los Angeles Angels,84,6,from Right to Left,Sunny
 26-09-2016,Oakland Athletics,Los Angeles Angels,90,3,out to Centerfield,Sunny
 27-09-2016,Oakland Athletics,Los Angeles Angels,85,5,out to Centerfield,Sunny
-28-09-2016,Oakland Athletics,Los Angeles Angels,84,6,out to Leftfield.,Wind6mphouttoLeftfield
+28-09-2016,Oakland Athletics,Los Angeles Angels,84,6,out to Leftfield.,
 30-09-2016,Houston Astros,Los Angeles Angels,80,6,out to Centerfield,Sunny
 01-10-2016,Houston Astros,Los Angeles Angels,80,8,out to Rightfield,Sunny
 02-10-2016,Houston Astros,Los Angeles Angels,75,5,out to Centerfield,Cloudy
@@ -85,7 +85,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-04-2016,Colorado Rockies,Arizona Diamondbacks,77,0,NoWind,InDome
 07-04-2016,Chicago Cubs,Arizona Diamondbacks,79,0,NoWind,InDome
 08-04-2016,Chicago Cubs,Arizona Diamondbacks,74,0,NoWind,InDome
-09-04-2016,Chicago Cubs,Arizona Diamondbacks,82,6,out to Leftfield.,Wind6mphouttoLeftfield
+09-04-2016,Chicago Cubs,Arizona Diamondbacks,82,6,out to Leftfield.,
 10-04-2016,Chicago Cubs,Arizona Diamondbacks,73,0,NoWind,InDome
 22-04-2016,Pittsburgh Pirates,Arizona Diamondbacks,95,10,in unknown direction,Sunny
 23-04-2016,Pittsburgh Pirates,Arizona Diamondbacks,74,0,NoWind,InDome
@@ -166,7 +166,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-04-2016,St. Louis Cardinals,Atlanta Braves,59,20,from Left to Right,Cloudy
 09-04-2016,St. Louis Cardinals,Atlanta Braves,60,15,from Left to Right,Sunny
 10-04-2016,St. Louis Cardinals,Atlanta Braves,55,10,from Right to Left,Overcast
-19-04-2016,Los Angeles Dodgers,Atlanta Braves,80,2,out to Centerfield.,Wind2mphouttoCenterfield
+19-04-2016,Los Angeles Dodgers,Atlanta Braves,80,2,out to Centerfield.,
 20-04-2016,Los Angeles Dodgers,Atlanta Braves,76,2,from Right to Left,Cloudy
 21-04-2016,Los Angeles Dodgers,Atlanta Braves,72,9,from Right to Left,Sunny
 22-04-2016,New York Mets,Atlanta Braves,70,9,out to Rightfield,Cloudy
@@ -179,7 +179,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-05-2016,Arizona Diamondbacks,Atlanta Braves,83,12,out to Rightfield,Sunny
 10-05-2016,Philadelphia Phillies,Atlanta Braves,78,12,out to Leftfield,Cloudy
 11-05-2016,Philadelphia Phillies,Atlanta Braves,85,7,from Left to Right,Cloudy
-12-05-2016,Philadelphia Phillies,Atlanta Braves,75,9,from Left to Right.,Wind9mphfromLefttoRight
+12-05-2016,Philadelphia Phillies,Atlanta Braves,75,9,from Left to Right.,
 24-05-2016,Milwaukee Brewers,Atlanta Braves,83,3,out to Rightfield,Cloudy
 25-05-2016,Milwaukee Brewers,Atlanta Braves,84,9,out to Centerfield,Cloudy
 26-05-2016,Milwaukee Brewers,Atlanta Braves,85,6,out to Leftfield,Cloudy
@@ -188,7 +188,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-05-2016,Miami Marlins,Atlanta Braves,87,11,from Left to Right,Cloudy
 30-05-2016,San Francisco Giants,Atlanta Braves,88,5,from Left to Right,Cloudy
 31-05-2016,San Francisco Giants,Atlanta Braves,89,3,out to Centerfield,Cloudy
-01-06-2016,San Francisco Giants,Atlanta Braves,80,8,out to Centerfield.,Wind8mphouttoCenterfield
+01-06-2016,San Francisco Giants,Atlanta Braves,80,8,out to Centerfield.,
 02-06-2016,San Francisco Giants,Atlanta Braves,81,3,out to Leftfield,Cloudy
 10-06-2016,Chicago Cubs,Atlanta Braves,91,4,from Right to Left,Sunny
 11-06-2016,Chicago Cubs,Atlanta Braves,94,7,out to Centerfield,Cloudy
@@ -200,9 +200,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-06-2016,New York Mets,Atlanta Braves,90,13,from Left to Right,Cloudy
 24-06-2016,New York Mets,Atlanta Braves,91,14,in from Leftfield,Cloudy
 25-06-2016,New York Mets,Atlanta Braves,96,5,in from Centerfield,Cloudy
-26-06-2016,New York Mets,Atlanta Braves,88,8,in from Rightfield.,Wind8mphinfromRightfield
+26-06-2016,New York Mets,Atlanta Braves,88,8,in from Rightfield.,
 27-06-2016,Cleveland Indians,Atlanta Braves,89,14,out to Centerfield,Cloudy
-28-06-2016,Cleveland Indians,Atlanta Braves,75,2,out to Leftfield.,Wind2mphouttoLeftfield
+28-06-2016,Cleveland Indians,Atlanta Braves,75,2,out to Leftfield.,
 29-06-2016,Cleveland Indians,Atlanta Braves,88,9,from Left to Right,Cloudy
 30-06-2016,Miami Marlins,Atlanta Braves,86,8,from Right to Left,Cloudy
 01-07-2016,Miami Marlins,Atlanta Braves,91,9,from Left to Right,Sunny
@@ -211,9 +211,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-07-2016,Colorado Rockies,Atlanta Braves,86,10,out to Rightfield,Cloudy
 16-07-2016,Colorado Rockies,Atlanta Braves,84,6,in from Centerfield,Overcast
 17-07-2016,Colorado Rockies,Atlanta Braves,87,7,from Left to Right,Cloudy
-28-07-2016,Philadelphia Phillies,Atlanta Braves,85,15,from Right to Left.,Wind15mphfromRighttoLeft
+28-07-2016,Philadelphia Phillies,Atlanta Braves,85,15,from Right to Left.,
 29-07-2016,Philadelphia Phillies,Atlanta Braves,84,11,out to Rightfield,Cloudy
-30-07-2016,Philadelphia Phillies,Atlanta Braves,81,9,out to Rightfield.,Wind9mphouttoRightfield
+30-07-2016,Philadelphia Phillies,Atlanta Braves,81,9,out to Rightfield.,
 31-07-2016,Philadelphia Phillies,Atlanta Braves,88,2,from Left to Right,Cloudy
 02-08-2016,Pittsburgh Pirates,Atlanta Braves,79,6,out to Centerfield,Cloudy
 03-08-2016,Pittsburgh Pirates,Atlanta Braves,87,12,from Left to Right,Cloudy
@@ -221,7 +221,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-08-2016,Minnesota Twins,Atlanta Braves,83,5,from Right to Left,Overcast
 17-08-2016,Minnesota Twins,Atlanta Braves,89,7,from Left to Right,Cloudy
 18-08-2016,Washington Nationals,Atlanta Braves,74,4,in from Centerfield,Drizzle
-19-08-2016,Washington Nationals,Atlanta Braves,75,11,out to Rightfield.,Wind11mphouttoRightfield
+19-08-2016,Washington Nationals,Atlanta Braves,75,11,out to Rightfield.,
 20-08-2016,Washington Nationals,Atlanta Braves,79,5,out to Centerfield,Cloudy
 21-08-2016,Washington Nationals,Atlanta Braves,87,9,out to Centerfield,Cloudy
 30-08-2016,San Diego Padres,Atlanta Braves,86,12,in from Rightfield,Cloudy
@@ -230,7 +230,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-09-2016,New York Mets,Atlanta Braves,87,6,out to Rightfield,Sunny
 10-09-2016,New York Mets,Atlanta Braves,87,8,out to Centerfield,Cloudy
 11-09-2016,New York Mets,Atlanta Braves,87,7,from Left to Right,Cloudy
-12-09-2016,Miami Marlins,Atlanta Braves,79,13,from Right to Left.,Wind13mphfromRighttoLeft
+12-09-2016,Miami Marlins,Atlanta Braves,79,13,from Right to Left.,
 13-09-2016,Miami Marlins,Atlanta Braves,84,8,from Right to Left,Cloudy
 14-09-2016,Miami Marlins,Atlanta Braves,88,8,from Right to Left,Sunny
 16-09-2016,Washington Nationals,Atlanta Braves,84,10,from Right to Left,Cloudy
@@ -243,35 +243,35 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-10-2016,Detroit Tigers,Atlanta Braves,73,5,out to Rightfield,Cloudy
 02-10-2016,Detroit Tigers,Atlanta Braves,80,8,from Left to Right,Cloudy
 04-04-2016,Minnesota Twins,Baltimore Orioles,58,6,from Right to Left,Overcast
-06-04-2016,Minnesota Twins,Baltimore Orioles,48,7,out to Leftfield.,Wind7mphouttoLeftfield
+06-04-2016,Minnesota Twins,Baltimore Orioles,48,7,out to Leftfield.,
 07-04-2016,Minnesota Twins,Baltimore Orioles,51,5,out to Centerfield,Cloudy
 08-04-2016,Tampa Bay Rays,Baltimore Orioles,50,6,out to Rightfield,Cloudy
 10-04-2016,Tampa Bay Rays,Baltimore Orioles,44,5,in from Leftfield,Sunny
 19-04-2016,Toronto Blue Jays,Baltimore Orioles,69,11,in from Centerfield,Sunny
 20-04-2016,Toronto Blue Jays,Baltimore Orioles,65,5,out to Centerfield,Sunny
-21-04-2016,Toronto Blue Jays,Baltimore Orioles,68,6,in from Centerfield.,Wind6mphinfromCenterfield
+21-04-2016,Toronto Blue Jays,Baltimore Orioles,68,6,in from Centerfield.,
 28-04-2016,Chicago White Sox,Baltimore Orioles,48,5,in from Rightfield,Overcast
 29-04-2016,Chicago White Sox,Baltimore Orioles,52,6,from Right to Left,Overcast
-30-04-2016,Chicago White Sox,Baltimore Orioles,57,7,out to Centerfield.,Wind7mphouttoCenterfield
+30-04-2016,Chicago White Sox,Baltimore Orioles,57,7,out to Centerfield.,
 01-05-2016,Chicago White Sox,Baltimore Orioles,52,1,from Right to Left,Rain
-03-05-2016,New York Yankees,Baltimore Orioles,60,8,in from Rightfield.,Wind8mphinfromRightfield
+03-05-2016,New York Yankees,Baltimore Orioles,60,8,in from Rightfield.,
 04-05-2016,New York Yankees,Baltimore Orioles,52,9,in from Rightfield,Overcast
-05-05-2016,New York Yankees,Baltimore Orioles,54,2,in from Centerfield.,Wind2mphinfromCenterfield
+05-05-2016,New York Yankees,Baltimore Orioles,54,2,in from Centerfield.,
 08-05-2016,Oakland Athletics,Baltimore Orioles,68,13,from Left to Right,Sunny
-12-05-2016,Detroit Tigers,Baltimore Orioles,65,4,out to Leftfield.,Wind4mphouttoLeftfield
+12-05-2016,Detroit Tigers,Baltimore Orioles,65,4,out to Leftfield.,
 13-05-2016,Detroit Tigers,Baltimore Orioles,75,4,out to Rightfield,Sunny
 14-05-2016,Detroit Tigers,Baltimore Orioles,62,6,out to Rightfield,Cloudy
 15-05-2016,Detroit Tigers,Baltimore Orioles,54,7,out to Rightfield,Cloudy
 17-05-2016,Seattle Mariners,Baltimore Orioles,54,3,out to Leftfield,Rain
-18-05-2016,Seattle Mariners,Baltimore Orioles,63,7,in from Centerfield.,Wind7mphinfromCenterfield
-19-05-2016,Seattle Mariners,Baltimore Orioles,68,2,from Right to Left.,Wind2mphfromRighttoLeft
+18-05-2016,Seattle Mariners,Baltimore Orioles,63,7,in from Centerfield.,
+19-05-2016,Seattle Mariners,Baltimore Orioles,68,2,from Right to Left.,
 30-05-2016,Boston Red Sox,Baltimore Orioles,81,2,from Right to Left,Cloudy
 31-05-2016,Boston Red Sox,Baltimore Orioles,83,2,out to Leftfield,Cloudy
 01-06-2016,Boston Red Sox,Baltimore Orioles,82,8,from Right to Left,Sunny
 02-06-2016,Boston Red Sox,Baltimore Orioles,75,3,from Left to Right,Cloudy
 03-06-2016,New York Yankees,Baltimore Orioles,74,3,out to Leftfield,Overcast
 04-06-2016,New York Yankees,Baltimore Orioles,79,5,from Right to Left,Cloudy
-05-06-2016,New York Yankees,Baltimore Orioles,80,11,out to Centerfield.,Wind11mphouttoCenterfield
+05-06-2016,New York Yankees,Baltimore Orioles,80,11,out to Centerfield.,
 06-06-2016,Kansas City Royals,Baltimore Orioles,83,4,out to Centerfield,Cloudy
 07-06-2016,Kansas City Royals,Baltimore Orioles,80,5,from Left to Right,Cloudy
 08-06-2016,Kansas City Royals,Baltimore Orioles,67,6,out to Centerfield,Cloudy
@@ -280,22 +280,22 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-06-2016,Toronto Blue Jays,Baltimore Orioles,87,3,out to Rightfield,Sunny
 21-06-2016,San Diego Padres,Baltimore Orioles,71,3,out to Centerfield,Cloudy
 22-06-2016,San Diego Padres,Baltimore Orioles,83,9,out to Centerfield,Cloudy
-24-06-2016,Tampa Bay Rays,Baltimore Orioles,72,6,out to Centerfield.,Wind6mphouttoCenterfield
+24-06-2016,Tampa Bay Rays,Baltimore Orioles,72,6,out to Centerfield.,
 26-06-2016,Tampa Bay Rays,Baltimore Orioles,83,5,from Right to Left,Sunny
 08-07-2016,Los Angeles Angels,Baltimore Orioles,81,4,in from Centerfield,Cloudy
-09-07-2016,Los Angeles Angels,Baltimore Orioles,91,7,from Left to Right.,Wind7mphfromLefttoRight
-10-07-2016,Los Angeles Angels,Baltimore Orioles,81,4,from Left to Right.,Wind4mphfromLefttoRight
+09-07-2016,Los Angeles Angels,Baltimore Orioles,91,7,from Left to Right.,
+10-07-2016,Los Angeles Angels,Baltimore Orioles,81,4,from Left to Right.,
 22-07-2016,Cleveland Indians,Baltimore Orioles,91,5,out to Rightfield,Cloudy
 23-07-2016,Cleveland Indians,Baltimore Orioles,94,6,out to Rightfield,Cloudy
 24-07-2016,Cleveland Indians,Baltimore Orioles,90,3,out to Leftfield,Cloudy
-25-07-2016,Colorado Rockies,Baltimore Orioles,95,6,out to Centerfield.,Wind6mphouttoCenterfield
+25-07-2016,Colorado Rockies,Baltimore Orioles,95,6,out to Centerfield.,
 26-07-2016,Colorado Rockies,Baltimore Orioles,90,4,in from Leftfield,Cloudy
 27-07-2016,Colorado Rockies,Baltimore Orioles,90,3,out to Leftfield,Cloudy
 02-08-2016,Texas Rangers,Baltimore Orioles,81,5,in from Rightfield,Cloudy
 03-08-2016,Texas Rangers,Baltimore Orioles,78,4,from Right to Left,Sunny
 04-08-2016,Texas Rangers,Baltimore Orioles,80,3,from Left to Right,Cloudy
 16-08-2016,Boston Red Sox,Baltimore Orioles,90,11,out to Centerfield,Cloudy
-17-08-2016,Boston Red Sox,Baltimore Orioles,89,3,out to Rightfield.,Wind3mphouttoRightfield
+17-08-2016,Boston Red Sox,Baltimore Orioles,89,3,out to Rightfield.,
 18-08-2016,Houston Astros,Baltimore Orioles,87,7,from Left to Right,Cloudy
 19-08-2016,Houston Astros,Baltimore Orioles,86,4,in from Centerfield,Sunny
 20-08-2016,Houston Astros,Baltimore Orioles,86,3,out to Centerfield,Cloudy
@@ -305,21 +305,21 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-08-2016,Toronto Blue Jays,Baltimore Orioles,89,4,in from Leftfield,Sunny
 30-08-2016,Toronto Blue Jays,Baltimore Orioles,84,4,out to Leftfield,Sunny
 31-08-2016,Toronto Blue Jays,Baltimore Orioles,85,6,out to Leftfield,Cloudy
-02-09-2016,New York Yankees,Baltimore Orioles,76,5,in from Centerfield.,Wind5mphinfromCenterfield
+02-09-2016,New York Yankees,Baltimore Orioles,76,5,in from Centerfield.,
 03-09-2016,New York Yankees,Baltimore Orioles,76,9,in from Centerfield,Cloudy
 04-09-2016,New York Yankees,Baltimore Orioles,73,7,in from Centerfield,Cloudy
 15-09-2016,Tampa Bay Rays,Baltimore Orioles,72,3,from Right to Left,Cloudy
 16-09-2016,Tampa Bay Rays,Baltimore Orioles,73,5,from Right to Left,Cloudy
 17-09-2016,Tampa Bay Rays,Baltimore Orioles,78,4,from Right to Left,Cloudy
-18-09-2016,Tampa Bay Rays,Baltimore Orioles,83,7,out to Centerfield.,Wind7mphouttoCenterfield
+18-09-2016,Tampa Bay Rays,Baltimore Orioles,83,7,out to Centerfield.,
 19-09-2016,Boston Red Sox,Baltimore Orioles,72,2,out to Leftfield,Cloudy
-20-09-2016,Boston Red Sox,Baltimore Orioles,77,6,in from Centerfield.,Wind6mphinfromCenterfield
-21-09-2016,Boston Red Sox,Baltimore Orioles,79,4,in from Rightfield.,Wind4mphinfromRightfield
+20-09-2016,Boston Red Sox,Baltimore Orioles,77,6,in from Centerfield.,
+21-09-2016,Boston Red Sox,Baltimore Orioles,79,4,in from Rightfield.,
 22-09-2016,Boston Red Sox,Baltimore Orioles,81,3,in from Rightfield,Sunny
 23-09-2016,Arizona Diamondbacks,Baltimore Orioles,81,3,from Right to Left,Sunny
 24-09-2016,Arizona Diamondbacks,Baltimore Orioles,70,4,in from Centerfield,Sunny
 25-09-2016,Arizona Diamondbacks,Baltimore Orioles,67,3,from Left to Right,Sunny
-11-04-2016,Baltimore Orioles,Boston Red Sox,57,22,out to Centerfield.,Wind22mphouttoCenterfield
+11-04-2016,Baltimore Orioles,Boston Red Sox,57,22,out to Centerfield.,
 12-04-2016,Baltimore Orioles,Boston Red Sox,53,12,from Left to Right,Cloudy
 13-04-2016,Baltimore Orioles,Boston Red Sox,44,13,from Right to Left,Sunny
 15-04-2016,Toronto Blue Jays,Boston Red Sox,50,12,from Right to Left,Sunny
@@ -330,7 +330,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-04-2016,Tampa Bay Rays,Boston Red Sox,48,12,in from Rightfield,Cloudy
 21-04-2016,Tampa Bay Rays,Boston Red Sox,61,13,in from Leftfield,Cloudy
 27-04-2016,Atlanta Braves,Boston Red Sox,62,9,in from Rightfield,Cloudy
-28-04-2016,Atlanta Braves,Boston Red Sox,50,13,out to Leftfield.,Wind13mphouttoLeftfield
+28-04-2016,Atlanta Braves,Boston Red Sox,50,13,out to Leftfield.,
 29-04-2016,New York Yankees,Boston Red Sox,47,17,from Right to Left,Cloudy
 30-04-2016,New York Yankees,Boston Red Sox,52,15,in from Rightfield,Cloudy
 01-05-2016,New York Yankees,Boston Red Sox,49,9,from Right to Left,Drizzle
@@ -338,18 +338,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 10-05-2016,Oakland Athletics,Boston Red Sox,70,10,from Left to Right,Cloudy
 11-05-2016,Oakland Athletics,Boston Red Sox,63,7,out to Leftfield,Sunny
 12-05-2016,Houston Astros,Boston Red Sox,62,7,in from Rightfield,Cloudy
-13-05-2016,Houston Astros,Boston Red Sox,65,12,out to Centerfield.,Wind12mphouttoCenterfield
+13-05-2016,Houston Astros,Boston Red Sox,65,12,out to Centerfield.,
 14-05-2016,Houston Astros,Boston Red Sox,73,12,out to Rightfield,Sunny
 15-05-2016,Houston Astros,Boston Red Sox,58,25,out to Rightfield,Cloudy
 20-05-2016,Cleveland Indians,Boston Red Sox,66,10,out to Leftfield,Cloudy
-21-05-2016,Cleveland Indians,Boston Red Sox,70,15,out to Leftfield.,Wind15mphouttoLeftfield
-22-05-2016,Cleveland Indians,Boston Red Sox,60,13,in from Rightfield.,Wind13mphinfromRightfield
-24-05-2016,Colorado Rockies,Boston Red Sox,53,8,in from Leftfield.,Wind8mphinfromLeftfield
+21-05-2016,Cleveland Indians,Boston Red Sox,70,15,out to Leftfield.,
+22-05-2016,Cleveland Indians,Boston Red Sox,60,13,in from Rightfield.,
+24-05-2016,Colorado Rockies,Boston Red Sox,53,8,in from Leftfield.,
 25-05-2016,Colorado Rockies,Boston Red Sox,86,9,out to Rightfield,Cloudy
-26-05-2016,Colorado Rockies,Boston Red Sox,63,12,from Right to Left.,Wind12mphfromRighttoLeft
+26-05-2016,Colorado Rockies,Boston Red Sox,63,12,from Right to Left.,
 03-06-2016,Toronto Blue Jays,Boston Red Sox,67,6,from Right to Left,Cloudy
-04-06-2016,Toronto Blue Jays,Boston Red Sox,64,10,in from Rightfield.,Wind10mphinfromRightfield
-05-06-2016,Toronto Blue Jays,Boston Red Sox,62,13,in from Rightfield.,Wind13mphinfromRightfield
+04-06-2016,Toronto Blue Jays,Boston Red Sox,64,10,in from Rightfield.,
+05-06-2016,Toronto Blue Jays,Boston Red Sox,62,13,in from Rightfield.,
 14-06-2016,Baltimore Orioles,Boston Red Sox,76,6,from Right to Left,Cloudy
 15-06-2016,Baltimore Orioles,Boston Red Sox,82,14,from Left to Right,Cloudy
 16-06-2016,Baltimore Orioles,Boston Red Sox,71,9,out to Leftfield,Sunny
@@ -360,57 +360,57 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 21-06-2016,Chicago White Sox,Boston Red Sox,81,15,out to Rightfield,Cloudy
 22-06-2016,Chicago White Sox,Boston Red Sox,75,10,from Left to Right,Cloudy
 23-06-2016,Chicago White Sox,Boston Red Sox,75,14,in from Rightfield,Cloudy
-01-07-2016,Los Angeles Angels,Boston Red Sox,75,12,out to Leftfield.,Wind12mphouttoLeftfield
+01-07-2016,Los Angeles Angels,Boston Red Sox,75,12,out to Leftfield.,
 02-07-2016,Los Angeles Angels,Boston Red Sox,80,12,out to Rightfield,Cloudy
 03-07-2016,Los Angeles Angels,Boston Red Sox,81,11,out to Rightfield,Sunny
 04-07-2016,Texas Rangers,Boston Red Sox,84,11,out to Centerfield,Cloudy
 05-07-2016,Texas Rangers,Boston Red Sox,74,8,out to Leftfield,Cloudy
 06-07-2016,Texas Rangers,Boston Red Sox,82,7,out to Centerfield,Cloudy
-08-07-2016,Tampa Bay Rays,Boston Red Sox,62,9,in from Rightfield.,Wind9mphinfromRightfield
-09-07-2016,Tampa Bay Rays,Boston Red Sox,63,13,in from Rightfield.,Wind13mphinfromRightfield
-10-07-2016,Tampa Bay Rays,Boston Red Sox,64,8,in from Rightfield.,Wind8mphinfromRightfield
+08-07-2016,Tampa Bay Rays,Boston Red Sox,62,9,in from Rightfield.,
+09-07-2016,Tampa Bay Rays,Boston Red Sox,63,13,in from Rightfield.,
+10-07-2016,Tampa Bay Rays,Boston Red Sox,64,8,in from Rightfield.,
 19-07-2016,San Francisco Giants,Boston Red Sox,78,15,from Left to Right,Cloudy
 20-07-2016,San Francisco Giants,Boston Red Sox,81,13,from Left to Right,Cloudy
 21-07-2016,Minnesota Twins,Boston Red Sox,88,14,out to Centerfield,Cloudy
 22-07-2016,Minnesota Twins,Boston Red Sox,92,18,out to Centerfield,Cloudy
 23-07-2016,Minnesota Twins,Boston Red Sox,79,7,out to Centerfield,Cloudy
 24-07-2016,Minnesota Twins,Boston Red Sox,88,9,out to Rightfield,Cloudy
-25-07-2016,Detroit Tigers,Boston Red Sox,85,18,out to Leftfield.,Wind18mphouttoLeftfield
+25-07-2016,Detroit Tigers,Boston Red Sox,85,18,out to Leftfield.,
 26-07-2016,Detroit Tigers,Boston Red Sox,92,12,in from Leftfield,Cloudy
 27-07-2016,Detroit Tigers,Boston Red Sox,86,15,from Right to Left,Sunny
 09-08-2016,New York Yankees,Boston Red Sox,75,17,from Right to Left,Cloudy
-10-08-2016,New York Yankees,Boston Red Sox,79,12,out to Leftfield.,Wind12mphouttoLeftfield
+10-08-2016,New York Yankees,Boston Red Sox,79,12,out to Leftfield.,
 11-08-2016,New York Yankees,Boston Red Sox,94,14,out to Centerfield,Cloudy
-12-08-2016,Arizona Diamondbacks,Boston Red Sox,85,17,out to Rightfield.,Wind17mphouttoRightfield
-13-08-2016,Arizona Diamondbacks,Boston Red Sox,68,12,in from Rightfield.,Wind12mphinfromRightfield
+12-08-2016,Arizona Diamondbacks,Boston Red Sox,85,17,out to Rightfield.,
+13-08-2016,Arizona Diamondbacks,Boston Red Sox,68,12,in from Rightfield.,
 14-08-2016,Arizona Diamondbacks,Boston Red Sox,92,15,out to Centerfield,Cloudy
 26-08-2016,Kansas City Royals,Boston Red Sox,87,7,from Left to Right,Cloudy
 27-08-2016,Kansas City Royals,Boston Red Sox,75,14,in from Rightfield,Cloudy
 28-08-2016,Kansas City Royals,Boston Red Sox,73,10,out to Leftfield,Sunny
 29-08-2016,Tampa Bay Rays,Boston Red Sox,82,11,from Left to Right,Sunny
 30-08-2016,Tampa Bay Rays,Boston Red Sox,72,7,out to Centerfield,Cloudy
-31-08-2016,Tampa Bay Rays,Boston Red Sox,81,7,out to Centerfield.,Wind7mphouttoCenterfield
+31-08-2016,Tampa Bay Rays,Boston Red Sox,81,7,out to Centerfield.,
 12-09-2016,Baltimore Orioles,Boston Red Sox,68,15,from Right to Left,Sunny
 13-09-2016,Baltimore Orioles,Boston Red Sox,80,16,out to Rightfield,Sunny
-14-09-2016,Baltimore Orioles,Boston Red Sox,82,14,out to Rightfield.,Wind14mphouttoRightfield
+14-09-2016,Baltimore Orioles,Boston Red Sox,82,14,out to Rightfield.,
 15-09-2016,New York Yankees,Boston Red Sox,63,12,from Right to Left,Sunny
 16-09-2016,New York Yankees,Boston Red Sox,66,17,out to Centerfield,Sunny
 17-09-2016,New York Yankees,Boston Red Sox,74,17,out to Leftfield,Cloudy
-18-09-2016,New York Yankees,Boston Red Sox,78,8,out to Centerfield.,Wind8mphouttoCenterfield
+18-09-2016,New York Yankees,Boston Red Sox,78,8,out to Centerfield.,
 30-09-2016,Toronto Blue Jays,Boston Red Sox,56,15,in from Centerfield,Rain
 01-10-2016,Toronto Blue Jays,Boston Red Sox,56,15,in from Centerfield,Drizzle
-02-10-2016,Toronto Blue Jays,Boston Red Sox,56,6,out to Leftfield.,Wind6mphouttoLeftfield
-08-04-2016,Cleveland Indians,Chicago White Sox,39,18,out to Rightfield.,Wind18mphouttoRightfield
+02-10-2016,Toronto Blue Jays,Boston Red Sox,56,6,out to Leftfield.,
+08-04-2016,Cleveland Indians,Chicago White Sox,39,18,out to Rightfield.,
 09-04-2016,Cleveland Indians,Chicago White Sox,32,13,in from Rightfield,Sunny
-18-04-2016,Los Angeles Angels,Chicago White Sox,75,12,in from Leftfield.,Wind12mphinfromLeftfield
-19-04-2016,Los Angeles Angels,Chicago White Sox,50,14,in from Rightfield.,Wind14mphinfromRightfield
-20-04-2016,Los Angeles Angels,Chicago White Sox,66,11,out to Rightfield.,Wind11mphouttoRightfield
+18-04-2016,Los Angeles Angels,Chicago White Sox,75,12,in from Leftfield.,
+19-04-2016,Los Angeles Angels,Chicago White Sox,50,14,in from Rightfield.,
+20-04-2016,Los Angeles Angels,Chicago White Sox,66,11,out to Rightfield.,
 21-04-2016,Los Angeles Angels,Chicago White Sox,70,8,out to Rightfield,Cloudy
 22-04-2016,Texas Rangers,Chicago White Sox,45,17,out to Rightfield,Cloudy
 23-04-2016,Texas Rangers,Chicago White Sox,55,10,from Left to Right,Sunny
 24-04-2016,Texas Rangers,Chicago White Sox,70,9,from Right to Left,Cloudy
-03-05-2016,Boston Red Sox,Chicago White Sox,65,15,from Right to Left.,Wind15mphfromRighttoLeft
-04-05-2016,Boston Red Sox,Chicago White Sox,45,9,in from Leftfield.,Wind9mphinfromLeftfield
+03-05-2016,Boston Red Sox,Chicago White Sox,65,15,from Right to Left.,
+04-05-2016,Boston Red Sox,Chicago White Sox,45,9,in from Leftfield.,
 05-05-2016,Boston Red Sox,Chicago White Sox,58,6,out to Rightfield,Sunny
 06-05-2016,Minnesota Twins,Chicago White Sox,83,9,out to Leftfield,Cloudy
 07-05-2016,Minnesota Twins,Chicago White Sox,60,16,from Left to Right,Sunny
@@ -418,7 +418,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-05-2016,Houston Astros,Chicago White Sox,52,16,out to Rightfield,Cloudy
 18-05-2016,Houston Astros,Chicago White Sox,57,11,in unknown direction,Sunny
 19-05-2016,Houston Astros,Chicago White Sox,66,8,from Left to Right,Sunny
-20-05-2016,Kansas City Royals,Chicago White Sox,64,13,from Left to Right.,Wind13mphfromLefttoRight
+20-05-2016,Kansas City Royals,Chicago White Sox,64,13,from Left to Right.,
 21-05-2016,Kansas City Royals,Chicago White Sox,71,12,out to Rightfield,Cloudy
 22-05-2016,Kansas City Royals,Chicago White Sox,72,9,out to Centerfield,Sunny
 24-05-2016,Cleveland Indians,Chicago White Sox,72,17,from Right to Left,Sunny
@@ -428,66 +428,66 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-06-2016,Washington Nationals,Chicago White Sox,71,6,from Left to Right,Cloudy
 10-06-2016,Kansas City Royals,Chicago White Sox,92,13,out to Leftfield,Sunny
 11-06-2016,Kansas City Royals,Chicago White Sox,91,7,from Left to Right,Sunny
-12-06-2016,Kansas City Royals,Chicago White Sox,67,18,in from Leftfield.,Wind18mphinfromLeftfield
+12-06-2016,Kansas City Royals,Chicago White Sox,67,18,in from Leftfield.,
 13-06-2016,Detroit Tigers,Chicago White Sox,80,9,in from Leftfield,Cloudy
 14-06-2016,Detroit Tigers,Chicago White Sox,84,11,from Right to Left,Rain
 15-06-2016,Detroit Tigers,Chicago White Sox,91,6,in from Centerfield,Cloudy
 24-06-2016,Toronto Blue Jays,Chicago White Sox,80,8,from Left to Right,Sunny
 25-06-2016,Toronto Blue Jays,Chicago White Sox,86,10,out to Leftfield,Cloudy
-26-06-2016,Toronto Blue Jays,Chicago White Sox,85,7,out to Rightfield.,Wind7mphouttoRightfield
+26-06-2016,Toronto Blue Jays,Chicago White Sox,85,7,out to Rightfield.,
 28-06-2016,Minnesota Twins,Chicago White Sox,70,12,from Left to Right,Sunny
 29-06-2016,Minnesota Twins,Chicago White Sox,76,7,from Left to Right,Cloudy
-30-06-2016,Minnesota Twins,Chicago White Sox,77,8,out to Rightfield.,Wind8mphouttoRightfield
-04-07-2016,New York Yankees,Chicago White Sox,75,3,from Right to Left.,Wind3mphfromRighttoLeft
+30-06-2016,Minnesota Twins,Chicago White Sox,77,8,out to Rightfield.,
+04-07-2016,New York Yankees,Chicago White Sox,75,3,from Right to Left.,
 05-07-2016,New York Yankees,Chicago White Sox,86,8,out to Rightfield,Cloudy
-06-07-2016,New York Yankees,Chicago White Sox,88,10,from Left to Right.,Wind10mphfromLefttoRight
+06-07-2016,New York Yankees,Chicago White Sox,88,10,from Left to Right.,
 08-07-2016,Atlanta Braves,Chicago White Sox,84,16,from Left to Right,Cloudy
 09-07-2016,Atlanta Braves,Chicago White Sox,77,8,out to Rightfield,Cloudy
 10-07-2016,Atlanta Braves,Chicago White Sox,80,8,from Left to Right,Cloudy
 21-07-2016,Detroit Tigers,Chicago White Sox,89,13,from Right to Left,Sunny
 22-07-2016,Detroit Tigers,Chicago White Sox,89,7,in from Leftfield,Sunny
-23-07-2016,Detroit Tigers,Chicago White Sox,91,7,in from Centerfield.,Wind7mphinfromCenterfield
+23-07-2016,Detroit Tigers,Chicago White Sox,91,7,in from Centerfield.,
 24-07-2016,Detroit Tigers,Chicago White Sox,91,16,from Right to Left,Sunny
 25-07-2016,Chicago Cubs,Chicago White Sox,84,7,in from Rightfield,Cloudy
 26-07-2016,Chicago Cubs,Chicago White Sox,86,6,from Left to Right,Sunny
 05-08-2016,Baltimore Orioles,Chicago White Sox,87,8,from Left to Right,Cloudy
 06-08-2016,Baltimore Orioles,Chicago White Sox,82,9,out to Rightfield,Sunny
-07-08-2016,Baltimore Orioles,Chicago White Sox,79,3,in from Rightfield.,Wind3mphinfromRightfield
+07-08-2016,Baltimore Orioles,Chicago White Sox,79,3,in from Rightfield.,
 19-08-2016,Oakland Athletics,Chicago White Sox,84,10,out to Leftfield,Sunny
 20-08-2016,Oakland Athletics,Chicago White Sox,78,17,out to Leftfield,Overcast
 21-08-2016,Oakland Athletics,Chicago White Sox,71,12,out to Centerfield,Cloudy
 23-08-2016,Philadelphia Phillies,Chicago White Sox,80,4,from Right to Left,Cloudy
 24-08-2016,Philadelphia Phillies,Chicago White Sox,85,8,from Right to Left,Cloudy
-25-08-2016,Seattle Mariners,Chicago White Sox,81,11,in from Leftfield.,Wind11mphinfromLeftfield
+25-08-2016,Seattle Mariners,Chicago White Sox,81,11,in from Leftfield.,
 26-08-2016,Seattle Mariners,Chicago White Sox,76,7,out to Rightfield,Cloudy
-27-08-2016,Seattle Mariners,Chicago White Sox,84,13,in from Rightfield.,Wind13mphinfromRightfield
+27-08-2016,Seattle Mariners,Chicago White Sox,84,13,in from Rightfield.,
 28-08-2016,Seattle Mariners,Chicago White Sox,82,8,from Left to Right,Sunny
-05-09-2016,Detroit Tigers,Chicago White Sox,87,13,from Right to Left.,Wind13mphfromRighttoLeft
+05-09-2016,Detroit Tigers,Chicago White Sox,87,13,from Right to Left.,
 06-09-2016,Detroit Tigers,Chicago White Sox,91,13,out to Centerfield,Cloudy
-07-09-2016,Detroit Tigers,Chicago White Sox,90,6,from Right to Left.,Wind6mphfromRighttoLeft
+07-09-2016,Detroit Tigers,Chicago White Sox,90,6,from Right to Left.,
 09-09-2016,Kansas City Royals,Chicago White Sox,75,6,in from Rightfield,Overcast
 10-09-2016,Kansas City Royals,Chicago White Sox,72,14,out to Centerfield,Cloudy
 11-09-2016,Kansas City Royals,Chicago White Sox,73,5,out to Rightfield,Cloudy
 12-09-2016,Cleveland Indians,Chicago White Sox,79,13,in from Rightfield,Sunny
-13-09-2016,Cleveland Indians,Chicago White Sox,83,8,out to Centerfield.,Wind8mphouttoCenterfield
-14-09-2016,Cleveland Indians,Chicago White Sox,72,10,in from Leftfield.,Wind10mphinfromLeftfield
+13-09-2016,Cleveland Indians,Chicago White Sox,83,8,out to Centerfield.,
+14-09-2016,Cleveland Indians,Chicago White Sox,72,10,in from Leftfield.,
 15-09-2016,Cleveland Indians,Chicago White Sox,76,9,from Left to Right,Cloudy
 26-09-2016,Tampa Bay Rays,Chicago White Sox,65,13,out to Leftfield,Sunny
-27-09-2016,Tampa Bay Rays,Chicago White Sox,68,14,out to Rightfield.,Wind14mphouttoRightfield
+27-09-2016,Tampa Bay Rays,Chicago White Sox,68,14,out to Rightfield.,
 28-09-2016,Tampa Bay Rays,Chicago White Sox,57,13,from Left to Right,Overcast
-29-09-2016,Tampa Bay Rays,Chicago White Sox,65,16,from Left to Right.,Wind16mphfromLefttoRight
+29-09-2016,Tampa Bay Rays,Chicago White Sox,65,16,from Left to Right.,
 30-09-2016,Minnesota Twins,Chicago White Sox,63,16,out to Rightfield,Overcast
 01-10-2016,Minnesota Twins,Chicago White Sox,61,5,out to Centerfield,Cloudy
-02-10-2016,Minnesota Twins,Chicago White Sox,65,6,out to Leftfield.,Wind6mphouttoLeftfield
+02-10-2016,Minnesota Twins,Chicago White Sox,65,6,out to Leftfield.,
 11-04-2016,Cincinnati Reds,Chicago Cubs,48,12,from Left to Right,Cloudy
-13-04-2016,Cincinnati Reds,Chicago Cubs,43,8,in from Rightfield.,Wind8mphinfromRightfield
+13-04-2016,Cincinnati Reds,Chicago Cubs,43,8,in from Rightfield.,
 14-04-2016,Cincinnati Reds,Chicago Cubs,45,8,out to Centerfield,Sunny
 15-04-2016,Colorado Rockies,Chicago Cubs,52,8,from Right to Left,Sunny
 16-04-2016,Colorado Rockies,Chicago Cubs,54,5,from Right to Left,Sunny
 17-04-2016,Colorado Rockies,Chicago Cubs,58,7,in from Rightfield,Sunny
-26-04-2016,Milwaukee Brewers,Chicago Cubs,40,16,in from Rightfield.,Wind16mphinfromRightfield
+26-04-2016,Milwaukee Brewers,Chicago Cubs,40,16,in from Rightfield.,
 28-04-2016,Milwaukee Brewers,Chicago Cubs,45,12,in from Centerfield,Overcast
-29-04-2016,Atlanta Braves,Chicago Cubs,44,10,in from Centerfield.,Wind10mphinfromCenterfield
+29-04-2016,Atlanta Braves,Chicago Cubs,44,10,in from Centerfield.,
 01-05-2016,Atlanta Braves,Chicago Cubs,44,14,in from Centerfield,Overcast
 05-05-2016,Washington Nationals,Chicago Cubs,47,5,from Right to Left,Sunny
 06-05-2016,Washington Nationals,Chicago Cubs,73,9,out to Centerfield,Cloudy
@@ -497,7 +497,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-05-2016,Pittsburgh Pirates,Chicago Cubs,65,11,out to Rightfield,Cloudy
 14-05-2016,Pittsburgh Pirates,Chicago Cubs,44,17,from Left to Right,Overcast
 15-05-2016,Pittsburgh Pirates,Chicago Cubs,45,11,in from Rightfield,Sunny
-27-05-2016,Philadelphia Phillies,Chicago Cubs,76,8,out to Leftfield.,Wind8mphouttoLeftfield
+27-05-2016,Philadelphia Phillies,Chicago Cubs,76,8,out to Leftfield.,
 28-05-2016,Philadelphia Phillies,Chicago Cubs,75,18,out to Centerfield,Cloudy
 29-05-2016,Philadelphia Phillies,Chicago Cubs,76,20,out to Rightfield,Cloudy
 30-05-2016,Los Angeles Dodgers,Chicago Cubs,70,12,out to Leftfield,Sunny
@@ -513,35 +513,35 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 20-06-2016,St. Louis Cardinals,Chicago Cubs,90,11,in from Centerfield,Cloudy
 21-06-2016,St. Louis Cardinals,Chicago Cubs,70,4,from Right to Left,Sunny
 22-06-2016,St. Louis Cardinals,Chicago Cubs,73,7,out to Rightfield,Cloudy
-04-07-2016,Cincinnati Reds,Chicago Cubs,73,8,in from Rightfield.,Wind8mphinfromRightfield
+04-07-2016,Cincinnati Reds,Chicago Cubs,73,8,in from Rightfield.,
 05-07-2016,Cincinnati Reds,Chicago Cubs,84,8,out to Centerfield,Cloudy
 06-07-2016,Cincinnati Reds,Chicago Cubs,85,7,out to Rightfield,Sunny
-07-07-2016,Atlanta Braves,Chicago Cubs,72,3,out to Centerfield.,Wind3mphouttoCenterfield
+07-07-2016,Atlanta Braves,Chicago Cubs,72,3,out to Centerfield.,
 15-07-2016,Texas Rangers,Chicago Cubs,71,10,in from Leftfield,Overcast
 16-07-2016,Texas Rangers,Chicago Cubs,70,10,in from Centerfield,Sunny
-17-07-2016,Texas Rangers,Chicago Cubs,79,18,out to Centerfield.,Wind18mphouttoCenterfield
+17-07-2016,Texas Rangers,Chicago Cubs,79,18,out to Centerfield.,
 18-07-2016,New York Mets,Chicago Cubs,75,11,in from Leftfield,Sunny
 19-07-2016,New York Mets,Chicago Cubs,76,11,in from Centerfield,Sunny
 20-07-2016,New York Mets,Chicago Cubs,85,5,from Right to Left,Cloudy
 27-07-2016,Chicago White Sox,Chicago Cubs,78,12,in from Rightfield,Cloudy
-28-07-2016,Chicago White Sox,Chicago Cubs,73,8,in from Leftfield.,Wind8mphinfromLeftfield
+28-07-2016,Chicago White Sox,Chicago Cubs,73,8,in from Leftfield.,
 29-07-2016,Seattle Mariners,Chicago Cubs,76,10,in unknown direction,Cloudy
-30-07-2016,Seattle Mariners,Chicago Cubs,75,12,in from Rightfield.,Wind12mphinfromRightfield
+30-07-2016,Seattle Mariners,Chicago Cubs,75,12,in from Rightfield.,
 31-07-2016,Seattle Mariners,Chicago Cubs,75,9,in from Rightfield,Cloudy
 01-08-2016,Miami Marlins,Chicago Cubs,77,5,from Right to Left,Cloudy
 02-08-2016,Miami Marlins,Chicago Cubs,81,1,in unknown direction,Sunny
 03-08-2016,Miami Marlins,Chicago Cubs,88,15,in from Rightfield,Sunny
-09-08-2016,Los Angeles Angels,Chicago Cubs,82,3,from Right to Left.,Wind3mphfromRighttoLeft
+09-08-2016,Los Angeles Angels,Chicago Cubs,82,3,from Right to Left.,
 10-08-2016,Los Angeles Angels,Chicago Cubs,84,5,in from Rightfield,Sunny
 11-08-2016,St. Louis Cardinals,Chicago Cubs,87,9,out to Centerfield,Cloudy
 12-08-2016,St. Louis Cardinals,Chicago Cubs,76,5,out to Centerfield,Overcast
-13-08-2016,St. Louis Cardinals,Chicago Cubs,83,11,from Left to Right.,Wind11mphfromLefttoRight
-14-08-2016,St. Louis Cardinals,Chicago Cubs,78,6,in from Rightfield.,Wind6mphinfromRightfield
+13-08-2016,St. Louis Cardinals,Chicago Cubs,83,11,from Left to Right.,
+14-08-2016,St. Louis Cardinals,Chicago Cubs,78,6,in from Rightfield.,
 17-08-2016,Milwaukee Brewers,Chicago Cubs,81,3,out to Rightfield,Cloudy
 18-08-2016,Milwaukee Brewers,Chicago Cubs,84,9,in unknown direction,Sunny
 29-08-2016,Pittsburgh Pirates,Chicago Cubs,75,3,in from Leftfield,Overcast
-30-08-2016,Pittsburgh Pirates,Chicago Cubs,75,1,in from Leftfield.,Wind1mphinfromLeftfield
-31-08-2016,Pittsburgh Pirates,Chicago Cubs,70,17,in from Leftfield.,Wind17mphinfromLeftfield
+30-08-2016,Pittsburgh Pirates,Chicago Cubs,75,1,in from Leftfield.,
+31-08-2016,Pittsburgh Pirates,Chicago Cubs,70,17,in from Leftfield.,
 01-09-2016,San Francisco Giants,Chicago Cubs,68,15,in from Leftfield,Cloudy
 02-09-2016,San Francisco Giants,Chicago Cubs,73,11,in from Centerfield,Sunny
 03-09-2016,San Francisco Giants,Chicago Cubs,71,9,from Right to Left,Sunny
@@ -552,36 +552,36 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-09-2016,Milwaukee Brewers,Chicago Cubs,69,11,out to Leftfield,Cloudy
 19-09-2016,Cincinnati Reds,Chicago Cubs,84,7,out to Centerfield,Overcast
 20-09-2016,Cincinnati Reds,Chicago Cubs,73,5,in from Centerfield,Sunny
-21-09-2016,Cincinnati Reds,Chicago Cubs,69,3,in from Leftfield.,Wind3mphinfromLeftfield
+21-09-2016,Cincinnati Reds,Chicago Cubs,69,3,in from Leftfield.,
 23-09-2016,St. Louis Cardinals,Chicago Cubs,71,9,in from Leftfield,Overcast
 24-09-2016,St. Louis Cardinals,Chicago Cubs,67,7,in from Rightfield,Overcast
-25-09-2016,St. Louis Cardinals,Chicago Cubs,81,3,out to Leftfield.,Wind3mphouttoLeftfield
+25-09-2016,St. Louis Cardinals,Chicago Cubs,81,3,out to Leftfield.,
 04-04-2016,Philadelphia Phillies,Cincinnati Reds,50,16,from Left to Right,Cloudy
 06-04-2016,Philadelphia Phillies,Cincinnati Reds,55,24,from Right to Left,Overcast
 07-04-2016,Philadelphia Phillies,Cincinnati Reds,43,17,out to Leftfield,Overcast
-08-04-2016,Pittsburgh Pirates,Cincinnati Reds,41,19,out to Leftfield.,Wind19mphouttoLeftfield
+08-04-2016,Pittsburgh Pirates,Cincinnati Reds,41,19,out to Leftfield.,
 09-04-2016,Pittsburgh Pirates,Cincinnati Reds,38,19,from Left to Right,Cloudy
 10-04-2016,Pittsburgh Pirates,Cincinnati Reds,53,9,from Right to Left,Sunny
 18-04-2016,Colorado Rockies,Cincinnati Reds,80,10,out to Centerfield,Sunny
 19-04-2016,Colorado Rockies,Cincinnati Reds,78,8,from Left to Right,Cloudy
 20-04-2016,Colorado Rockies,Cincinnati Reds,72,7,in from Leftfield,Cloudy
 21-04-2016,Chicago Cubs,Cincinnati Reds,58,13,in unknown direction,Overcast
-22-04-2016,Chicago Cubs,Cincinnati Reds,61,8,out to Leftfield.,Wind8mphouttoLeftfield
+22-04-2016,Chicago Cubs,Cincinnati Reds,61,8,out to Leftfield.,
 23-04-2016,Chicago Cubs,Cincinnati Reds,64,9,from Left to Right,Sunny
 24-04-2016,Chicago Cubs,Cincinnati Reds,69,7,in from Rightfield,Sunny
 02-05-2016,San Francisco Giants,Cincinnati Reds,63,7,in unknown direction,Overcast
 03-05-2016,San Francisco Giants,Cincinnati Reds,58,5,out to Centerfield,Overcast
 04-05-2016,San Francisco Giants,Cincinnati Reds,52,11,from Right to Left,Overcast
-05-05-2016,Milwaukee Brewers,Cincinnati Reds,57,8,out to Leftfield.,Wind8mphouttoLeftfield
+05-05-2016,Milwaukee Brewers,Cincinnati Reds,57,8,out to Leftfield.,
 06-05-2016,Milwaukee Brewers,Cincinnati Reds,69,14,in unknown direction,Cloudy
 07-05-2016,Milwaukee Brewers,Cincinnati Reds,73,11,out to Leftfield,Overcast
 08-05-2016,Milwaukee Brewers,Cincinnati Reds,52,5,from Right to Left,Overcast
 09-05-2016,Pittsburgh Pirates,Cincinnati Reds,61,6,in unknown direction,Drizzle
-11-05-2016,Pittsburgh Pirates,Cincinnati Reds,79,3,from Right to Left.,Wind3mphfromRighttoLeft
+11-05-2016,Pittsburgh Pirates,Cincinnati Reds,79,3,from Right to Left.,
 18-05-2016,Cleveland Indians,Cincinnati Reds,66,6,out to Rightfield,Cloudy
 19-05-2016,Cleveland Indians,Cincinnati Reds,70,5,in from Centerfield,Sunny
 20-05-2016,Seattle Mariners,Cincinnati Reds,59,7,from Right to Left,Rain
-21-05-2016,Seattle Mariners,Cincinnati Reds,63,14,out to Rightfield.,Wind14mphouttoRightfield
+21-05-2016,Seattle Mariners,Cincinnati Reds,63,14,out to Rightfield.,
 22-05-2016,Seattle Mariners,Cincinnati Reds,74,9,out to Centerfield,Sunny
 03-06-2016,Washington Nationals,Cincinnati Reds,81,6,out to Centerfield,Cloudy
 04-06-2016,Washington Nationals,Cincinnati Reds,77,4,in unknown direction,Overcast
@@ -598,7 +598,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-06-2016,San Diego Padres,Cincinnati Reds,89,8,from Right to Left,Cloudy
 27-06-2016,Chicago Cubs,Cincinnati Reds,87,10,in unknown direction,Overcast
 28-06-2016,Chicago Cubs,Cincinnati Reds,80,9,out to Centerfield,Cloudy
-29-06-2016,Chicago Cubs,Cincinnati Reds,71,3,in from Leftfield.,Wind3mphinfromLeftfield
+29-06-2016,Chicago Cubs,Cincinnati Reds,71,3,in from Leftfield.,
 15-07-2016,Milwaukee Brewers,Cincinnati Reds,80,10,from Left to Right,Overcast
 16-07-2016,Milwaukee Brewers,Cincinnati Reds,81,8,in unknown direction,Sunny
 17-07-2016,Milwaukee Brewers,Cincinnati Reds,85,6,in from Rightfield,Cloudy
@@ -609,7 +609,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-07-2016,Arizona Diamondbacks,Cincinnati Reds,92,4,from Right to Left,Cloudy
 24-07-2016,Arizona Diamondbacks,Cincinnati Reds,91,6,out to Centerfield,Cloudy
 02-08-2016,St. Louis Cardinals,Cincinnati Reds,87,6,from Left to Right,Overcast
-03-08-2016,St. Louis Cardinals,Cincinnati Reds,85,3,from Left to Right.,Wind3mphfromLefttoRight
+03-08-2016,St. Louis Cardinals,Cincinnati Reds,85,3,from Left to Right.,
 04-08-2016,St. Louis Cardinals,Cincinnati Reds,87,1,in unknown direction,Cloudy
 15-08-2016,Miami Marlins,Cincinnati Reds,74,6,in from Centerfield,Overcast
 16-08-2016,Miami Marlins,Cincinnati Reds,76,6,in from Rightfield,Overcast
@@ -629,14 +629,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-09-2016,New York Mets,Cincinnati Reds,87,8,in from Rightfield,Cloudy
 12-09-2016,Milwaukee Brewers,Cincinnati Reds,78,0,NoWind,Sunny
 13-09-2016,Milwaukee Brewers,Cincinnati Reds,78,10,out to Leftfield,Sunny
-14-09-2016,Milwaukee Brewers,Cincinnati Reds,76,4,out to Rightfield.,Wind4mphouttoRightfield
+14-09-2016,Milwaukee Brewers,Cincinnati Reds,76,4,out to Rightfield.,
 16-09-2016,Pittsburgh Pirates,Cincinnati Reds,71,4,in unknown direction,Rain
 18-09-2016,Pittsburgh Pirates,Cincinnati Reds,79,5,in unknown direction,Cloudy
 30-09-2016,Chicago Cubs,Cincinnati Reds,63,6,in unknown direction,Cloudy
 01-10-2016,Chicago Cubs,Cincinnati Reds,65,8,from Right to Left,Overcast
-02-10-2016,Chicago Cubs,Cincinnati Reds,71,7,out to Leftfield.,Wind7mphouttoLeftfield
+02-10-2016,Chicago Cubs,Cincinnati Reds,71,7,out to Leftfield.,
 05-04-2016,Boston Red Sox,Cleveland Indians,34,8,from Left to Right,Sunny
-06-04-2016,Boston Red Sox,Cleveland Indians,60,7,out to Leftfield.,Wind7mphouttoLeftfield
+06-04-2016,Boston Red Sox,Cleveland Indians,60,7,out to Leftfield.,
 15-04-2016,New York Mets,Cleveland Indians,51,12,in from Rightfield,Sunny
 16-04-2016,New York Mets,Cleveland Indians,54,12,in from Rightfield,Sunny
 17-04-2016,New York Mets,Cleveland Indians,53,5,from Right to Left,Sunny
@@ -651,12 +651,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-05-2016,Kansas City Royals,Cleveland Indians,57,9,from Left to Right,Sunny
 13-05-2016,Minnesota Twins,Cleveland Indians,62,11,from Left to Right,Sunny
 14-05-2016,Minnesota Twins,Cleveland Indians,50,17,in from Leftfield,Overcast
-15-05-2016,Minnesota Twins,Cleveland Indians,45,20,from Left to Right.,Wind20mphfromLefttoRight
+15-05-2016,Minnesota Twins,Cleveland Indians,45,20,from Left to Right.,
 16-05-2016,Cincinnati Reds,Cleveland Indians,64,16,out to Rightfield,Cloudy
 17-05-2016,Cincinnati Reds,Cleveland Indians,57,6,in from Centerfield,Cloudy
 27-05-2016,Baltimore Orioles,Cleveland Indians,72,10,in from Rightfield,Cloudy
 28-05-2016,Baltimore Orioles,Cleveland Indians,86,8,out to Rightfield,Cloudy
-29-05-2016,Baltimore Orioles,Cleveland Indians,83,11,out to Rightfield.,Wind11mphouttoRightfield
+29-05-2016,Baltimore Orioles,Cleveland Indians,83,11,out to Rightfield.,
 30-05-2016,Texas Rangers,Cleveland Indians,79,3,from Left to Right,Sunny
 31-05-2016,Texas Rangers,Cleveland Indians,73,11,in from Rightfield,Cloudy
 01-06-2016,Texas Rangers,Cleveland Indians,72,13,in from Rightfield,Cloudy
@@ -672,25 +672,25 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-06-2016,Tampa Bay Rays,Cleveland Indians,75,10,in from Leftfield,Sunny
 04-07-2016,Detroit Tigers,Cleveland Indians,70,3,in from Rightfield,Overcast
 05-07-2016,Detroit Tigers,Cleveland Indians,82,4,from Left to Right,Sunny
-06-07-2016,Detroit Tigers,Cleveland Indians,84,14,out to Rightfield.,Wind14mphouttoRightfield
+06-07-2016,Detroit Tigers,Cleveland Indians,84,14,out to Rightfield.,
 07-07-2016,New York Yankees,Cleveland Indians,83,3,from Left to Right,Sunny
 08-07-2016,New York Yankees,Cleveland Indians,83,3,in from Centerfield,Sunny
 09-07-2016,New York Yankees,Cleveland Indians,77,16,in from Leftfield,Sunny
 10-07-2016,New York Yankees,Cleveland Indians,75,7,in from Centerfield,Cloudy
 26-07-2016,Washington Nationals,Cleveland Indians,79,7,in from Centerfield,Sunny
 27-07-2016,Washington Nationals,Cleveland Indians,83,10,from Left to Right,Sunny
-29-07-2016,Oakland Athletics,Cleveland Indians,80,16,in from Rightfield.,Wind16mphinfromRightfield
+29-07-2016,Oakland Athletics,Cleveland Indians,80,16,in from Rightfield.,
 30-07-2016,Oakland Athletics,Cleveland Indians,76,1,from Right to Left,Cloudy
 31-07-2016,Oakland Athletics,Cleveland Indians,81,6,out to Leftfield,Cloudy
 01-08-2016,Minnesota Twins,Cleveland Indians,79,6,in from Centerfield,Sunny
 02-08-2016,Minnesota Twins,Cleveland Indians,82,14,in from Rightfield,Sunny
 03-08-2016,Minnesota Twins,Cleveland Indians,82,17,in from Rightfield,Sunny
 04-08-2016,Minnesota Twins,Cleveland Indians,85,7,out to Leftfield,Cloudy
-11-08-2016,Los Angeles Angels,Cleveland Indians,83,5,out to Centerfield.,Wind5mphouttoCenterfield
-12-08-2016,Los Angeles Angels,Cleveland Indians,90,15,out to Rightfield.,Wind15mphouttoRightfield
-13-08-2016,Los Angeles Angels,Cleveland Indians,75,14,out to Rightfield.,Wind14mphouttoRightfield
+11-08-2016,Los Angeles Angels,Cleveland Indians,83,5,out to Centerfield.,
+12-08-2016,Los Angeles Angels,Cleveland Indians,90,15,out to Rightfield.,
+13-08-2016,Los Angeles Angels,Cleveland Indians,75,14,out to Rightfield.,
 14-08-2016,Los Angeles Angels,Cleveland Indians,75,10,out to Rightfield,Overcast
-15-08-2016,Boston Red Sox,Cleveland Indians,79,5,out to Leftfield.,Wind5mphouttoLeftfield
+15-08-2016,Boston Red Sox,Cleveland Indians,79,5,out to Leftfield.,
 16-08-2016,Chicago White Sox,Cleveland Indians,77,14,out to Rightfield,Overcast
 17-08-2016,Chicago White Sox,Cleveland Indians,81,6,in from Leftfield,Cloudy
 18-08-2016,Chicago White Sox,Cleveland Indians,79,7,in from Centerfield,Cloudy
@@ -705,40 +705,40 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-09-2016,Miami Marlins,Cleveland Indians,78,13,in from Centerfield,Sunny
 05-09-2016,Houston Astros,Cleveland Indians,80,7,in from Rightfield,Sunny
 06-09-2016,Houston Astros,Cleveland Indians,84,4,from Left to Right,Sunny
-07-09-2016,Houston Astros,Cleveland Indians,87,1,out to Rightfield.,Wind1mphouttoRightfield
+07-09-2016,Houston Astros,Cleveland Indians,87,1,out to Rightfield.,
 08-09-2016,Houston Astros,Cleveland Indians,87,15,out to Rightfield,Sunny
 16-09-2016,Detroit Tigers,Cleveland Indians,75,8,in from Rightfield,Cloudy
 17-09-2016,Detroit Tigers,Cleveland Indians,79,15,out to Rightfield,Overcast
 18-09-2016,Detroit Tigers,Cleveland Indians,75,4,in from Leftfield,Cloudy
 20-09-2016,Kansas City Royals,Cleveland Indians,75,4,in from Rightfield,Sunny
 21-09-2016,Kansas City Royals,Cleveland Indians,75,12,in from Rightfield,Sunny
-22-09-2016,Kansas City Royals,Cleveland Indians,78,5,from Right to Left.,Wind5mphfromRighttoLeft
+22-09-2016,Kansas City Royals,Cleveland Indians,78,5,from Right to Left.,
 23-09-2016,Chicago White Sox,Cleveland Indians,75,16,in from Rightfield,Cloudy
 24-09-2016,Chicago White Sox,Cleveland Indians,66,18,in from Leftfield,Sunny
 25-09-2016,Chicago White Sox,Cleveland Indians,70,4,out to Rightfield,Sunny
 08-04-2016,San Diego Padres,Colorado Rockies,62,6,from Right to Left,Cloudy
-09-04-2016,San Diego Padres,Colorado Rockies,62,8,out to Centerfield.,Wind8mphouttoCenterfield
-10-04-2016,San Diego Padres,Colorado Rockies,62,2,out to Rightfield.,Wind2mphouttoRightfield
+09-04-2016,San Diego Padres,Colorado Rockies,62,8,out to Centerfield.,
+10-04-2016,San Diego Padres,Colorado Rockies,62,2,out to Rightfield.,
 12-04-2016,San Francisco Giants,Colorado Rockies,61,6,in from Rightfield,Overcast
 13-04-2016,San Francisco Giants,Colorado Rockies,68,7,out to Centerfield,Cloudy
 14-04-2016,San Francisco Giants,Colorado Rockies,72,12,out to Centerfield,Cloudy
 22-04-2016,Los Angeles Dodgers,Colorado Rockies,73,3,from Left to Right,Cloudy
-23-04-2016,Los Angeles Dodgers,Colorado Rockies,72,12,out to Rightfield.,Wind12mphouttoRightfield
-24-04-2016,Los Angeles Dodgers,Colorado Rockies,63,13,out to Leftfield.,Wind13mphouttoLeftfield
-25-04-2016,Pittsburgh Pirates,Colorado Rockies,64,6,out to Rightfield.,Wind6mphouttoRightfield
+23-04-2016,Los Angeles Dodgers,Colorado Rockies,72,12,out to Rightfield.,
+24-04-2016,Los Angeles Dodgers,Colorado Rockies,63,13,out to Leftfield.,
+25-04-2016,Pittsburgh Pirates,Colorado Rockies,64,6,out to Rightfield.,
 26-04-2016,Pittsburgh Pirates,Colorado Rockies,43,5,out to Rightfield,Cloudy
 27-04-2016,Pittsburgh Pirates,Colorado Rockies,52,9,out to Leftfield,Cloudy
 09-05-2016,Arizona Diamondbacks,Colorado Rockies,64,12,in from Centerfield,Cloudy
 10-05-2016,Arizona Diamondbacks,Colorado Rockies,55,8,from Right to Left,Cloudy
 11-05-2016,Arizona Diamondbacks,Colorado Rockies,56,14,out to Leftfield,Cloudy
-13-05-2016,New York Mets,Colorado Rockies,56,8,from Right to Left.,Wind8mphfromRighttoLeft
+13-05-2016,New York Mets,Colorado Rockies,56,8,from Right to Left.,
 14-05-2016,New York Mets,Colorado Rockies,49,8,in from Rightfield,Overcast
-15-05-2016,New York Mets,Colorado Rockies,53,5,in from Centerfield.,Wind5mphinfromCenterfield
+15-05-2016,New York Mets,Colorado Rockies,53,5,in from Centerfield.,
 27-05-2016,San Francisco Giants,Colorado Rockies,56,9,in from Centerfield,Cloudy
 28-05-2016,San Francisco Giants,Colorado Rockies,73,6,from Right to Left,Cloudy
 29-05-2016,San Francisco Giants,Colorado Rockies,74,5,in from Rightfield,Cloudy
 30-05-2016,Cincinnati Reds,Colorado Rockies,80,4,out to Leftfield,Cloudy
-31-05-2016,Cincinnati Reds,Colorado Rockies,64,7,in from Centerfield.,Wind7mphinfromCenterfield
+31-05-2016,Cincinnati Reds,Colorado Rockies,64,7,in from Centerfield.,
 01-06-2016,Cincinnati Reds,Colorado Rockies,72,5,from Left to Right,Cloudy
 02-06-2016,Cincinnati Reds,Colorado Rockies,81,5,out to Leftfield,Cloudy
 09-06-2016,Pittsburgh Pirates,Colorado Rockies,89,3,out to Rightfield,Sunny
@@ -758,28 +758,28 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 08-07-2016,Philadelphia Phillies,Colorado Rockies,86,7,out to Centerfield,Cloudy
 09-07-2016,Philadelphia Phillies,Colorado Rockies,94,7,out to Rightfield,Sunny
 10-07-2016,Philadelphia Phillies,Colorado Rockies,95,9,from Right to Left,Cloudy
-18-07-2016,Tampa Bay Rays,Colorado Rockies,76,4,in from Leftfield.,Wind4mphinfromLeftfield
-19-07-2016,Tampa Bay Rays,Colorado Rockies,72,7,out to Rightfield.,Wind7mphouttoRightfield
+18-07-2016,Tampa Bay Rays,Colorado Rockies,76,4,in from Leftfield.,
+19-07-2016,Tampa Bay Rays,Colorado Rockies,72,7,out to Rightfield.,
 20-07-2016,Tampa Bay Rays,Colorado Rockies,91,6,out to Centerfield,Sunny
-21-07-2016,Atlanta Braves,Colorado Rockies,83,13,from Left to Right.,Wind13mphfromLefttoRight
+21-07-2016,Atlanta Braves,Colorado Rockies,83,13,from Left to Right.,
 22-07-2016,Atlanta Braves,Colorado Rockies,89,5,out to Rightfield,Cloudy
-23-07-2016,Atlanta Braves,Colorado Rockies,86,18,in from Centerfield.,Wind18mphinfromCenterfield
+23-07-2016,Atlanta Braves,Colorado Rockies,86,18,in from Centerfield.,
 24-07-2016,Atlanta Braves,Colorado Rockies,91,5,out to Leftfield,Cloudy
 02-08-2016,Los Angeles Dodgers,Colorado Rockies,86,7,out to Centerfield,Overcast
-03-08-2016,Los Angeles Dodgers,Colorado Rockies,92,5,from Right to Left.,Wind5mphfromRighttoLeft
+03-08-2016,Los Angeles Dodgers,Colorado Rockies,92,5,from Right to Left.,
 04-08-2016,Los Angeles Dodgers,Colorado Rockies,69,6,from Left to Right,Overcast
-05-08-2016,Miami Marlins,Colorado Rockies,70,9,in from Leftfield.,Wind9mphinfromLeftfield
+05-08-2016,Miami Marlins,Colorado Rockies,70,9,in from Leftfield.,
 06-08-2016,Miami Marlins,Colorado Rockies,80,4,in from Centerfield,Cloudy
 07-08-2016,Miami Marlins,Colorado Rockies,82,5,from Left to Right,Sunny
-08-08-2016,Texas Rangers,Colorado Rockies,88,5,out to Rightfield.,Wind5mphouttoRightfield
+08-08-2016,Texas Rangers,Colorado Rockies,88,5,out to Rightfield.,
 09-08-2016,Texas Rangers,Colorado Rockies,91,5,out to Centerfield,Sunny
-15-08-2016,Washington Nationals,Colorado Rockies,82,7,out to Leftfield.,Wind7mphouttoLeftfield
-16-08-2016,Washington Nationals,Colorado Rockies,84,7,out to Rightfield.,Wind7mphouttoRightfield
+15-08-2016,Washington Nationals,Colorado Rockies,82,7,out to Leftfield.,
+16-08-2016,Washington Nationals,Colorado Rockies,84,7,out to Rightfield.,
 17-08-2016,Washington Nationals,Colorado Rockies,85,4,out to Rightfield,Sunny
-19-08-2016,Chicago Cubs,Colorado Rockies,53,8,in from Leftfield.,Wind8mphinfromLeftfield
+19-08-2016,Chicago Cubs,Colorado Rockies,53,8,in from Leftfield.,
 20-08-2016,Chicago Cubs,Colorado Rockies,76,5,in from Rightfield,Sunny
 21-08-2016,Chicago Cubs,Colorado Rockies,86,5,out to Leftfield,Sunny
-29-08-2016,Los Angeles Dodgers,Colorado Rockies,70,5,out to Centerfield.,Wind5mphouttoCenterfield
+29-08-2016,Los Angeles Dodgers,Colorado Rockies,70,5,out to Centerfield.,
 02-09-2016,Arizona Diamondbacks,Colorado Rockies,82,4,from Right to Left,Sunny
 03-09-2016,Arizona Diamondbacks,Colorado Rockies,82,5,in from Rightfield,Cloudy
 04-09-2016,Arizona Diamondbacks,Colorado Rockies,86,7,from Left to Right,Cloudy
@@ -790,8 +790,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-09-2016,San Diego Padres,Colorado Rockies,77,3,out to Centerfield,Cloudy
 18-09-2016,San Diego Padres,Colorado Rockies,85,4,from Right to Left,Sunny
 19-09-2016,St. Louis Cardinals,Colorado Rockies,88,3,out to Leftfield,Sunny
-20-09-2016,St. Louis Cardinals,Colorado Rockies,82,6,out to Rightfield.,Wind6mphouttoRightfield
-21-09-2016,St. Louis Cardinals,Colorado Rockies,80,5,out to Leftfield.,Wind5mphouttoLeftfield
+20-09-2016,St. Louis Cardinals,Colorado Rockies,82,6,out to Rightfield.,
+21-09-2016,St. Louis Cardinals,Colorado Rockies,80,5,out to Leftfield.,
 30-09-2016,Milwaukee Brewers,Colorado Rockies,72,3,in from Leftfield,Cloudy
 01-10-2016,Milwaukee Brewers,Colorado Rockies,75,2,in from Leftfield,Sunny
 02-10-2016,Milwaukee Brewers,Colorado Rockies,77,3,out to Centerfield,Sunny
@@ -799,43 +799,43 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 09-04-2016,New York Yankees,Detroit Tigers,31,18,from Left to Right,Cloudy
 11-04-2016,Pittsburgh Pirates,Detroit Tigers,56,9,in from Rightfield,Overcast
 12-04-2016,Pittsburgh Pirates,Detroit Tigers,43,13,out to Centerfield,Cloudy
-22-04-2016,Cleveland Indians,Detroit Tigers,55,6,from Left to Right.,Wind6mphfromLefttoRight
+22-04-2016,Cleveland Indians,Detroit Tigers,55,6,from Left to Right.,
 23-04-2016,Cleveland Indians,Detroit Tigers,51,3,out to Centerfield,Sunny
 24-04-2016,Cleveland Indians,Detroit Tigers,57,7,in from Centerfield,Sunny
-25-04-2016,Oakland Athletics,Detroit Tigers,64,12,in from Leftfield.,Wind12mphinfromLeftfield
-26-04-2016,Oakland Athletics,Detroit Tigers,47,10,from Left to Right.,Wind10mphfromLefttoRight
+25-04-2016,Oakland Athletics,Detroit Tigers,64,12,in from Leftfield.,
+26-04-2016,Oakland Athletics,Detroit Tigers,47,10,from Left to Right.,
 27-04-2016,Oakland Athletics,Detroit Tigers,55,12,from Left to Right,Cloudy
 28-04-2016,Oakland Athletics,Detroit Tigers,45,3,in from Centerfield,Overcast
 06-05-2016,Texas Rangers,Detroit Tigers,68,3,from Left to Right,Sunny
 07-05-2016,Texas Rangers,Detroit Tigers,68,8,from Right to Left,Overcast
 08-05-2016,Texas Rangers,Detroit Tigers,65,7,from Right to Left,Sunny
-16-05-2016,Minnesota Twins,Detroit Tigers,60,15,from Right to Left.,Wind15mphfromRighttoLeft
+16-05-2016,Minnesota Twins,Detroit Tigers,60,15,from Right to Left.,
 17-05-2016,Minnesota Twins,Detroit Tigers,57,1,out to Centerfield,Cloudy
 18-05-2016,Minnesota Twins,Detroit Tigers,62,10,from Left to Right,Sunny
-20-05-2016,Tampa Bay Rays,Detroit Tigers,68,9,out to Rightfield.,Wind9mphouttoRightfield
-21-05-2016,Tampa Bay Rays,Detroit Tigers,69,11,from Left to Right.,Wind11mphfromLefttoRight
+20-05-2016,Tampa Bay Rays,Detroit Tigers,68,9,out to Rightfield.,
+21-05-2016,Tampa Bay Rays,Detroit Tigers,69,11,from Left to Right.,
 22-05-2016,Tampa Bay Rays,Detroit Tigers,68,13,out to Rightfield,Sunny
 23-05-2016,Philadelphia Phillies,Detroit Tigers,76,11,in from Rightfield,Sunny
 24-05-2016,Philadelphia Phillies,Detroit Tigers,83,3,in from Centerfield,Cloudy
 25-05-2016,Philadelphia Phillies,Detroit Tigers,82,12,from Right to Left,Sunny
 02-06-2016,New York Yankees,Detroit Tigers,80,3,from Right to Left,Cloudy
 03-06-2016,Chicago White Sox,Detroit Tigers,79,6,from Left to Right,Cloudy
-04-06-2016,Chicago White Sox,Detroit Tigers,77,2,in from Centerfield.,Wind2mphinfromCenterfield
-05-06-2016,Chicago White Sox,Detroit Tigers,70,14,out to Leftfield.,Wind14mphouttoLeftfield
-06-06-2016,Toronto Blue Jays,Detroit Tigers,75,14,out to Leftfield.,Wind14mphouttoLeftfield
+04-06-2016,Chicago White Sox,Detroit Tigers,77,2,in from Centerfield.,
+05-06-2016,Chicago White Sox,Detroit Tigers,70,14,out to Leftfield.,
+06-06-2016,Toronto Blue Jays,Detroit Tigers,75,14,out to Leftfield.,
 07-06-2016,Toronto Blue Jays,Detroit Tigers,64,4,out to Centerfield,Cloudy
 08-06-2016,Toronto Blue Jays,Detroit Tigers,61,16,in from Leftfield,Sunny
 20-06-2016,Seattle Mariners,Detroit Tigers,86,18,out to Leftfield,Cloudy
 21-06-2016,Seattle Mariners,Detroit Tigers,78,5,out to Centerfield,Cloudy
-22-06-2016,Seattle Mariners,Detroit Tigers,81,9,from Left to Right.,Wind9mphfromLefttoRight
-23-06-2016,Seattle Mariners,Detroit Tigers,71,3,out to Centerfield.,Wind3mphouttoCenterfield
+22-06-2016,Seattle Mariners,Detroit Tigers,81,9,from Left to Right.,
+23-06-2016,Seattle Mariners,Detroit Tigers,71,3,out to Centerfield.,
 24-06-2016,Cleveland Indians,Detroit Tigers,82,7,in from Centerfield,Sunny
 25-06-2016,Cleveland Indians,Detroit Tigers,85,3,in from Centerfield,Sunny
-26-06-2016,Cleveland Indians,Detroit Tigers,86,15,from Right to Left.,Wind15mphfromRighttoLeft
+26-06-2016,Cleveland Indians,Detroit Tigers,86,15,from Right to Left.,
 28-06-2016,Miami Marlins,Detroit Tigers,67,11,out to Centerfield,Overcast
 29-06-2016,Miami Marlins,Detroit Tigers,73,9,in from Leftfield,Sunny
 15-07-2016,Kansas City Royals,Detroit Tigers,76,10,out to Centerfield,Cloudy
-16-07-2016,Kansas City Royals,Detroit Tigers,72,6,from Left to Right.,Wind6mphfromLefttoRight
+16-07-2016,Kansas City Royals,Detroit Tigers,72,6,from Left to Right.,
 17-07-2016,Kansas City Royals,Detroit Tigers,77,9,in from Leftfield,Cloudy
 18-07-2016,Minnesota Twins,Detroit Tigers,84,10,out to Leftfield,Cloudy
 19-07-2016,Minnesota Twins,Detroit Tigers,80,2,out to Rightfield,Cloudy
@@ -849,27 +849,27 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-08-2016,New York Mets,Detroit Tigers,84,5,out to Leftfield,Cloudy
 06-08-2016,New York Mets,Detroit Tigers,80,7,from Right to Left,Cloudy
 07-08-2016,New York Mets,Detroit Tigers,80,7,from Right to Left,Sunny
-15-08-2016,Kansas City Royals,Detroit Tigers,76,11,from Right to Left.,Wind11mphfromRighttoLeft
+15-08-2016,Kansas City Royals,Detroit Tigers,76,11,from Right to Left.,
 16-08-2016,Kansas City Royals,Detroit Tigers,77,12,out to Centerfield,Cloudy
 17-08-2016,Kansas City Royals,Detroit Tigers,75,1,in from Centerfield,Overcast
 18-08-2016,Boston Red Sox,Detroit Tigers,80,1,out to Leftfield,Cloudy
-19-08-2016,Boston Red Sox,Detroit Tigers,79,8,from Right to Left.,Wind8mphfromRighttoLeft
+19-08-2016,Boston Red Sox,Detroit Tigers,79,8,from Right to Left.,
 20-08-2016,Boston Red Sox,Detroit Tigers,75,14,in from Centerfield,Overcast
 21-08-2016,Boston Red Sox,Detroit Tigers,74,14,out to Leftfield,Cloudy
 26-08-2016,Los Angeles Angels,Detroit Tigers,82,6,out to Leftfield,Sunny
 27-08-2016,Los Angeles Angels,Detroit Tigers,72,10,out to Rightfield,Overcast
 28-08-2016,Los Angeles Angels,Detroit Tigers,82,4,out to Leftfield,Sunny
 29-08-2016,Chicago White Sox,Detroit Tigers,80,6,from Left to Right,Sunny
-30-08-2016,Chicago White Sox,Detroit Tigers,80,4,in from Centerfield.,Wind4mphinfromCenterfield
-31-08-2016,Chicago White Sox,Detroit Tigers,78,5,from Left to Right.,Wind5mphfromLefttoRight
+30-08-2016,Chicago White Sox,Detroit Tigers,80,4,in from Centerfield.,
+31-08-2016,Chicago White Sox,Detroit Tigers,78,5,from Left to Right.,
 09-09-2016,Baltimore Orioles,Detroit Tigers,80,4,from Right to Left,Cloudy
 10-09-2016,Baltimore Orioles,Detroit Tigers,71,9,from Right to Left,Overcast
 11-09-2016,Baltimore Orioles,Detroit Tigers,67,6,out to Centerfield,Sunny
 12-09-2016,Minnesota Twins,Detroit Tigers,73,7,from Right to Left,Sunny
 13-09-2016,Minnesota Twins,Detroit Tigers,80,14,in from Centerfield,Sunny
-14-09-2016,Minnesota Twins,Detroit Tigers,71,13,from Left to Right.,Wind13mphfromLefttoRight
+14-09-2016,Minnesota Twins,Detroit Tigers,71,13,from Left to Right.,
 15-09-2016,Minnesota Twins,Detroit Tigers,70,5,in from Rightfield,Cloudy
-23-09-2016,Kansas City Royals,Detroit Tigers,71,11,from Left to Right.,Wind11mphfromLefttoRight
+23-09-2016,Kansas City Royals,Detroit Tigers,71,11,from Left to Right.,
 24-09-2016,Kansas City Royals,Detroit Tigers,69,10,from Left to Right,Cloudy
 25-09-2016,Kansas City Royals,Detroit Tigers,71,13,in from Leftfield,Sunny
 26-09-2016,Cleveland Indians,Detroit Tigers,65,16,from Right to Left,Cloudy
@@ -954,14 +954,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 24-09-2016,Los Angeles Angels,Houston Astros,73,0,NoWind,InDome
 25-09-2016,Los Angeles Angels,Houston Astros,73,0,NoWind,InDome
 26-09-2016,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
-27-09-2016,Seattle Mariners,Houston Astros,80,6,in from Centerfield.,Wind6mphinfromCenterfield
+27-09-2016,Seattle Mariners,Houston Astros,80,6,in from Centerfield.,
 28-09-2016,Seattle Mariners,Houston Astros,73,0,NoWind,InDome
 03-04-2016,New York Mets,Kansas City Royals,74,14,from Right to Left,Sunny
 05-04-2016,New York Mets,Kansas City Royals,68,17,from Right to Left,Sunny
 08-04-2016,Minnesota Twins,Kansas City Royals,58,17,from Left to Right,Sunny
 09-04-2016,Minnesota Twins,Kansas City Royals,60,14,from Right to Left,Sunny
 10-04-2016,Minnesota Twins,Kansas City Royals,68,10,from Left to Right,Overcast
-19-04-2016,Detroit Tigers,Kansas City Royals,67,5,in from Rightfield.,Wind5mphinfromRightfield
+19-04-2016,Detroit Tigers,Kansas City Royals,67,5,in from Rightfield.,
 20-04-2016,Detroit Tigers,Kansas City Royals,68,11,from Left to Right,Cloudy
 21-04-2016,Detroit Tigers,Kansas City Royals,66,15,from Left to Right,Cloudy
 22-04-2016,Baltimore Orioles,Kansas City Royals,66,6,from Left to Right,Cloudy
@@ -970,29 +970,29 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-05-2016,Washington Nationals,Kansas City Royals,55,4,from Left to Right,Overcast
 03-05-2016,Washington Nationals,Kansas City Royals,68,10,from Left to Right,Cloudy
 04-05-2016,Washington Nationals,Kansas City Royals,68,16,from Left to Right,Sunny
-13-05-2016,Atlanta Braves,Kansas City Royals,62,21,from Left to Right.,Wind21mphfromLefttoRight
+13-05-2016,Atlanta Braves,Kansas City Royals,62,21,from Left to Right.,
 14-05-2016,Atlanta Braves,Kansas City Royals,60,12,from Left to Right,Sunny
 15-05-2016,Atlanta Braves,Kansas City Royals,66,3,from Left to Right,Cloudy
 17-05-2016,Boston Red Sox,Kansas City Royals,58,10,in from Rightfield,Cloudy
-27-05-2016,Chicago White Sox,Kansas City Royals,73,9,from Right to Left.,Wind9mphfromRighttoLeft
+27-05-2016,Chicago White Sox,Kansas City Royals,73,9,from Right to Left.,
 28-05-2016,Chicago White Sox,Kansas City Royals,74,14,from Left to Right,Cloudy
 29-05-2016,Chicago White Sox,Kansas City Royals,85,4,from Left to Right,Sunny
 30-05-2016,Tampa Bay Rays,Kansas City Royals,75,12,from Right to Left,Cloudy
-31-05-2016,Tampa Bay Rays,Kansas City Royals,76,4,from Left to Right.,Wind4mphfromLefttoRight
+31-05-2016,Tampa Bay Rays,Kansas City Royals,76,4,from Left to Right.,
 01-06-2016,Tampa Bay Rays,Kansas City Royals,81,5,from Left to Right,Cloudy
-13-06-2016,Cleveland Indians,Kansas City Royals,81,6,from Right to Left.,Wind6mphfromRighttoLeft
+13-06-2016,Cleveland Indians,Kansas City Royals,81,6,from Right to Left.,
 14-06-2016,Cleveland Indians,Kansas City Royals,91,13,from Left to Right,Cloudy
 15-06-2016,Cleveland Indians,Kansas City Royals,97,4,from Right to Left,Sunny
 16-06-2016,Detroit Tigers,Kansas City Royals,93,5,from Right to Left,Sunny
 17-06-2016,Detroit Tigers,Kansas City Royals,91,9,from Right to Left,Sunny
 18-06-2016,Detroit Tigers,Kansas City Royals,86,11,from Right to Left,Sunny
 19-06-2016,Detroit Tigers,Kansas City Royals,88,9,from Right to Left,Cloudy
-24-06-2016,Houston Astros,Kansas City Royals,82,13,from Right to Left.,Wind13mphfromRighttoLeft
+24-06-2016,Houston Astros,Kansas City Royals,82,13,from Right to Left.,
 25-06-2016,Houston Astros,Kansas City Royals,93,17,from Right to Left,Sunny
-26-06-2016,Houston Astros,Kansas City Royals,87,6,in from Rightfield.,Wind6mphinfromRightfield
+26-06-2016,Houston Astros,Kansas City Royals,87,6,in from Rightfield.,
 27-06-2016,St. Louis Cardinals,Kansas City Royals,90,8,in from Rightfield,Sunny
 28-06-2016,St. Louis Cardinals,Kansas City Royals,83,8,from Right to Left,Sunny
-07-07-2016,Seattle Mariners,Kansas City Royals,85,9,from Right to Left.,Wind9mphfromRighttoLeft
+07-07-2016,Seattle Mariners,Kansas City Royals,85,9,from Right to Left.,
 08-07-2016,Seattle Mariners,Kansas City Royals,87,7,in from Rightfield,Sunny
 09-07-2016,Seattle Mariners,Kansas City Royals,88,0,NoWind,Cloudy
 10-07-2016,Seattle Mariners,Kansas City Royals,91,13,from Right to Left,Sunny
@@ -1005,7 +1005,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-07-2016,Los Angeles Angels,Kansas City Royals,84,10,in from Rightfield,Cloudy
 26-07-2016,Los Angeles Angels,Kansas City Royals,85,7,in from Rightfield,Sunny
 27-07-2016,Los Angeles Angels,Kansas City Royals,89,6,from Left to Right,Cloudy
-05-08-2016,Toronto Blue Jays,Kansas City Royals,78,6,from Left to Right.,Wind6mphfromLefttoRight
+05-08-2016,Toronto Blue Jays,Kansas City Royals,78,6,from Left to Right.,
 06-08-2016,Toronto Blue Jays,Kansas City Royals,81,9,in from Rightfield,Cloudy
 07-08-2016,Toronto Blue Jays,Kansas City Royals,71,10,in from Rightfield,Overcast
 09-08-2016,Chicago White Sox,Kansas City Royals,88,6,in from Rightfield,Cloudy
@@ -1109,7 +1109,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-09-2016,Arizona Diamondbacks,Los Angeles Dodgers,72,9,out to Leftfield,Sunny
 06-09-2016,Arizona Diamondbacks,Los Angeles Dodgers,71,4,out to Rightfield,Sunny
 07-09-2016,Arizona Diamondbacks,Los Angeles Dodgers,74,6,out to Rightfield,Sunny
-19-09-2016,San Francisco Giants,Los Angeles Dodgers,77,2,out to Leftfield.,Wind2mphouttoLeftfield
+19-09-2016,San Francisco Giants,Los Angeles Dodgers,77,2,out to Leftfield.,
 20-09-2016,San Francisco Giants,Los Angeles Dodgers,77,6,out to Rightfield,Cloudy
 21-09-2016,San Francisco Giants,Los Angeles Dodgers,73,3,out to Rightfield,Sunny
 22-09-2016,Colorado Rockies,Los Angeles Dodgers,70,4,out to Leftfield,Sunny
@@ -1222,10 +1222,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 19-05-2016,Chicago Cubs,Milwaukee Brewers,70,9,out to Centerfield,Sunny
 27-05-2016,Cincinnati Reds,Milwaukee Brewers,74,10,in from Rightfield,Overcast
 28-05-2016,Cincinnati Reds,Milwaukee Brewers,81,17,in from Rightfield,Sunny
-29-05-2016,Cincinnati Reds,Milwaukee Brewers,78,16,out to Rightfield.,Wind16mphouttoRightfield
+29-05-2016,Cincinnati Reds,Milwaukee Brewers,78,16,out to Rightfield.,
 30-05-2016,St. Louis Cardinals,Milwaukee Brewers,81,6,in from Rightfield,Cloudy
 31-05-2016,St. Louis Cardinals,Milwaukee Brewers,75,0,NoWind,InDome
-01-06-2016,St. Louis Cardinals,Milwaukee Brewers,76,8,out to Centerfield.,Wind8mphouttoCenterfield
+01-06-2016,St. Louis Cardinals,Milwaukee Brewers,76,8,out to Centerfield.,
 07-06-2016,Oakland Athletics,Milwaukee Brewers,69,0,NoWind,InDome
 08-06-2016,Oakland Athletics,Milwaukee Brewers,66,0,NoWind,InDome
 09-06-2016,New York Mets,Milwaukee Brewers,72,5,from Right to Left,Cloudy
@@ -1234,20 +1234,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-06-2016,New York Mets,Milwaukee Brewers,66,12,in from Centerfield,Cloudy
 24-06-2016,Washington Nationals,Milwaukee Brewers,79,11,in from Centerfield,Sunny
 25-06-2016,Washington Nationals,Milwaukee Brewers,85,16,out to Rightfield,Sunny
-26-06-2016,Washington Nationals,Milwaukee Brewers,84,8,in from Leftfield.,Wind8mphinfromLeftfield
+26-06-2016,Washington Nationals,Milwaukee Brewers,84,8,in from Leftfield.,
 28-06-2016,Los Angeles Dodgers,Milwaukee Brewers,71,11,from Left to Right,Sunny
 29-06-2016,Los Angeles Dodgers,Milwaukee Brewers,77,12,in from Centerfield,Sunny
-30-06-2016,Los Angeles Dodgers,Milwaukee Brewers,78,11,out to Rightfield.,Wind11mphouttoRightfield
+30-06-2016,Los Angeles Dodgers,Milwaukee Brewers,78,11,out to Rightfield.,
 08-07-2016,St. Louis Cardinals,Milwaukee Brewers,80,22,out to Centerfield,Sunny
 09-07-2016,St. Louis Cardinals,Milwaukee Brewers,75,16,from Left to Right,Sunny
-10-07-2016,St. Louis Cardinals,Milwaukee Brewers,82,12,out to Leftfield.,Wind12mphouttoLeftfield
+10-07-2016,St. Louis Cardinals,Milwaukee Brewers,82,12,out to Leftfield.,
 22-07-2016,Chicago Cubs,Milwaukee Brewers,86,8,in from Centerfield,Sunny
 23-07-2016,Chicago Cubs,Milwaukee Brewers,83,0,NoWind,InDome
-24-07-2016,Chicago Cubs,Milwaukee Brewers,90,10,from Right to Left.,Wind10mphfromRighttoLeft
+24-07-2016,Chicago Cubs,Milwaukee Brewers,90,10,from Right to Left.,
 25-07-2016,Arizona Diamondbacks,Milwaukee Brewers,83,8,in from Centerfield,Sunny
 26-07-2016,Arizona Diamondbacks,Milwaukee Brewers,86,8,in from Centerfield,Sunny
 27-07-2016,Arizona Diamondbacks,Milwaukee Brewers,77,9,in from Leftfield,Cloudy
-28-07-2016,Arizona Diamondbacks,Milwaukee Brewers,79,11,out to Rightfield.,Wind11mphouttoRightfield
+28-07-2016,Arizona Diamondbacks,Milwaukee Brewers,79,11,out to Rightfield.,
 29-07-2016,Pittsburgh Pirates,Milwaukee Brewers,70,12,from Left to Right,Overcast
 30-07-2016,Pittsburgh Pirates,Milwaukee Brewers,73,10,in from Leftfield,Cloudy
 31-07-2016,Pittsburgh Pirates,Milwaukee Brewers,75,9,in from Leftfield,Cloudy
@@ -1260,30 +1260,30 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-08-2016,Cincinnati Reds,Milwaukee Brewers,82,7,out to Centerfield,Cloudy
 22-08-2016,Colorado Rockies,Milwaukee Brewers,77,7,out to Centerfield,Sunny
 23-08-2016,Colorado Rockies,Milwaukee Brewers,80,13,in from Rightfield,Sunny
-24-08-2016,Colorado Rockies,Milwaukee Brewers,80,13,in from Rightfield.,Wind13mphinfromRightfield
-25-08-2016,Pittsburgh Pirates,Milwaukee Brewers,81,7,from Right to Left.,Wind7mphfromRighttoLeft
+24-08-2016,Colorado Rockies,Milwaukee Brewers,80,13,in from Rightfield.,
+25-08-2016,Pittsburgh Pirates,Milwaukee Brewers,81,7,from Right to Left.,
 26-08-2016,Pittsburgh Pirates,Milwaukee Brewers,74,9,in from Leftfield,Cloudy
-27-08-2016,Pittsburgh Pirates,Milwaukee Brewers,76,7,in from Rightfield.,Wind7mphinfromRightfield
+27-08-2016,Pittsburgh Pirates,Milwaukee Brewers,76,7,in from Rightfield.,
 28-08-2016,Pittsburgh Pirates,Milwaukee Brewers,77,5,from Left to Right,Cloudy
-29-08-2016,St. Louis Cardinals,Milwaukee Brewers,80,7,in from Centerfield.,Wind7mphinfromCenterfield
+29-08-2016,St. Louis Cardinals,Milwaukee Brewers,80,7,in from Centerfield.,
 30-08-2016,St. Louis Cardinals,Milwaukee Brewers,80,0,NoWind,InDome
 31-08-2016,St. Louis Cardinals,Milwaukee Brewers,72,10,from Left to Right,Sunny
 05-09-2016,Chicago Cubs,Milwaukee Brewers,81,11,in from Centerfield,Cloudy
-06-09-2016,Chicago Cubs,Milwaukee Brewers,89,10,from Right to Left.,Wind10mphfromRighttoLeft
+06-09-2016,Chicago Cubs,Milwaukee Brewers,89,10,from Right to Left.,
 07-09-2016,Chicago Cubs,Milwaukee Brewers,80,0,NoWind,InDome
 20-09-2016,Pittsburgh Pirates,Milwaukee Brewers,76,10,in from Centerfield,Cloudy
 21-09-2016,Pittsburgh Pirates,Milwaukee Brewers,75,0,NoWind,InDome
 22-09-2016,Pittsburgh Pirates,Milwaukee Brewers,76,0,NoWind,InDome
 23-09-2016,Cincinnati Reds,Milwaukee Brewers,74,0,NoWind,InDome
-24-09-2016,Cincinnati Reds,Milwaukee Brewers,67,10,in from Leftfield.,Wind10mphinfromLeftfield
+24-09-2016,Cincinnati Reds,Milwaukee Brewers,67,10,in from Leftfield.,
 25-09-2016,Cincinnati Reds,Milwaukee Brewers,76,10,in from Leftfield,Cloudy
 11-04-2016,Chicago White Sox,Minnesota Twins,42,21,in from Leftfield,Cloudy
 13-04-2016,Chicago White Sox,Minnesota Twins,68,6,from Right to Left,Sunny
 14-04-2016,Chicago White Sox,Minnesota Twins,68,19,from Right to Left,Cloudy
-15-04-2016,Los Angeles Angels,Minnesota Twins,73,18,from Right to Left.,Wind18mphfromRighttoLeft
+15-04-2016,Los Angeles Angels,Minnesota Twins,73,18,from Right to Left.,
 16-04-2016,Los Angeles Angels,Minnesota Twins,76,17,from Right to Left,Cloudy
 17-04-2016,Los Angeles Angels,Minnesota Twins,77,14,from Right to Left,Cloudy
-18-04-2016,Milwaukee Brewers,Minnesota Twins,67,14,in from Leftfield.,Wind14mphinfromLeftfield
+18-04-2016,Milwaukee Brewers,Minnesota Twins,67,14,in from Leftfield.,
 19-04-2016,Milwaukee Brewers,Minnesota Twins,55,11,in from Centerfield,Overcast
 25-04-2016,Cleveland Indians,Minnesota Twins,50,10,from Left to Right,Overcast
 26-04-2016,Cleveland Indians,Minnesota Twins,49,13,in from Centerfield,Overcast
@@ -1292,14 +1292,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 30-04-2016,Detroit Tigers,Minnesota Twins,57,15,in from Centerfield,Cloudy
 01-05-2016,Detroit Tigers,Minnesota Twins,58,10,in from Leftfield,Cloudy
 10-05-2016,Baltimore Orioles,Minnesota Twins,57,12,from Right to Left,Overcast
-11-05-2016,Baltimore Orioles,Minnesota Twins,56,8,out to Leftfield.,Wind8mphouttoLeftfield
+11-05-2016,Baltimore Orioles,Minnesota Twins,56,8,out to Leftfield.,
 19-05-2016,Toronto Blue Jays,Minnesota Twins,72,11,from Right to Left,Cloudy
 20-05-2016,Toronto Blue Jays,Minnesota Twins,73,6,from Right to Left,Cloudy
 21-05-2016,Toronto Blue Jays,Minnesota Twins,74,4,from Right to Left,Cloudy
 22-05-2016,Toronto Blue Jays,Minnesota Twins,79,18,from Right to Left,Sunny
 23-05-2016,Kansas City Royals,Minnesota Twins,74,14,from Right to Left,Overcast
 24-05-2016,Kansas City Royals,Minnesota Twins,82,5,in from Leftfield,Cloudy
-25-05-2016,Kansas City Royals,Minnesota Twins,69,7,in from Centerfield.,Wind7mphinfromCenterfield
+25-05-2016,Kansas City Royals,Minnesota Twins,69,7,in from Centerfield.,
 02-06-2016,Tampa Bay Rays,Minnesota Twins,72,3,out to Centerfield,Sunny
 03-06-2016,Tampa Bay Rays,Minnesota Twins,67,13,from Right to Left,Overcast
 04-06-2016,Tampa Bay Rays,Minnesota Twins,69,13,from Left to Right,Cloudy
@@ -1334,7 +1334,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 31-07-2016,Chicago White Sox,Minnesota Twins,80,8,in unknown direction,Cloudy
 08-08-2016,Houston Astros,Minnesota Twins,80,11,from Right to Left,Cloudy
 09-08-2016,Houston Astros,Minnesota Twins,85,7,from Right to Left,Cloudy
-12-08-2016,Kansas City Royals,Minnesota Twins,70,6,from Left to Right.,Wind6mphfromLefttoRight
+12-08-2016,Kansas City Royals,Minnesota Twins,70,6,from Left to Right.,
 13-08-2016,Kansas City Royals,Minnesota Twins,79,10,out to Rightfield,Cloudy
 14-08-2016,Kansas City Royals,Minnesota Twins,78,6,from Left to Right,Cloudy
 23-08-2016,Detroit Tigers,Minnesota Twins,79,19,from Right to Left,Overcast
@@ -1343,39 +1343,39 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-09-2016,Chicago White Sox,Minnesota Twins,72,8,in from Centerfield,Cloudy
 02-09-2016,Chicago White Sox,Minnesota Twins,72,13,in from Rightfield,Cloudy
 03-09-2016,Chicago White Sox,Minnesota Twins,74,17,from Right to Left,Cloudy
-04-09-2016,Chicago White Sox,Minnesota Twins,77,17,from Right to Left.,Wind17mphfromRighttoLeft
-05-09-2016,Kansas City Royals,Minnesota Twins,79,10,from Right to Left.,Wind10mphfromRighttoLeft
-06-09-2016,Kansas City Royals,Minnesota Twins,74,2,out to Centerfield.,Wind2mphouttoCenterfield
+04-09-2016,Chicago White Sox,Minnesota Twins,77,17,from Right to Left.,
+05-09-2016,Kansas City Royals,Minnesota Twins,79,10,from Right to Left.,
+06-09-2016,Kansas City Royals,Minnesota Twins,74,2,out to Centerfield.,
 07-09-2016,Kansas City Royals,Minnesota Twins,74,6,in from Rightfield,Cloudy
-09-09-2016,Cleveland Indians,Minnesota Twins,72,6,out to Rightfield.,Wind6mphouttoRightfield
+09-09-2016,Cleveland Indians,Minnesota Twins,72,6,out to Rightfield.,
 10-09-2016,Cleveland Indians,Minnesota Twins,70,12,out to Rightfield,Cloudy
 11-09-2016,Cleveland Indians,Minnesota Twins,75,19,from Right to Left,Sunny
 20-09-2016,Detroit Tigers,Minnesota Twins,73,7,in from Centerfield,Cloudy
-23-09-2016,Seattle Mariners,Minnesota Twins,64,8,in from Centerfield.,Wind8mphinfromCenterfield
+23-09-2016,Seattle Mariners,Minnesota Twins,64,8,in from Centerfield.,
 24-09-2016,Seattle Mariners,Minnesota Twins,70,15,in from Rightfield,Overcast
 25-09-2016,Seattle Mariners,Minnesota Twins,65,15,out to Leftfield,Overcast
 05-04-2016,Houston Astros,New York Yankees,36,18,from Left to Right,Sunny
-06-04-2016,Houston Astros,New York Yankees,43,11,from Right to Left.,Wind11mphfromRighttoLeft
-07-04-2016,Houston Astros,New York Yankees,57,24,from Right to Left.,Wind24mphfromRighttoLeft
+06-04-2016,Houston Astros,New York Yankees,43,11,from Right to Left.,
+07-04-2016,Houston Astros,New York Yankees,57,24,from Right to Left.,
 15-04-2016,Seattle Mariners,New York Yankees,59,7,from Right to Left,Sunny
 16-04-2016,Seattle Mariners,New York Yankees,60,8,from Left to Right,Sunny
 17-04-2016,Seattle Mariners,New York Yankees,64,2,in from Leftfield,Sunny
 19-04-2016,Oakland Athletics,New York Yankees,67,15,from Left to Right,Sunny
 20-04-2016,Oakland Athletics,New York Yankees,61,9,out to Leftfield,Sunny
 21-04-2016,Oakland Athletics,New York Yankees,68,11,from Right to Left,Cloudy
-22-04-2016,Tampa Bay Rays,New York Yankees,74,6,from Right to Left.,Wind6mphfromRighttoLeft
-23-04-2016,Tampa Bay Rays,New York Yankees,62,13,in from Leftfield.,Wind13mphinfromLeftfield
+22-04-2016,Tampa Bay Rays,New York Yankees,74,6,from Right to Left.,
+23-04-2016,Tampa Bay Rays,New York Yankees,62,13,in from Leftfield.,
 24-04-2016,Tampa Bay Rays,New York Yankees,60,13,out to Rightfield,Sunny
 06-05-2016,Boston Red Sox,New York Yankees,50,17,in from Rightfield,Drizzle
-07-05-2016,Boston Red Sox,New York Yankees,53,10,in from Leftfield.,Wind10mphinfromLeftfield
+07-05-2016,Boston Red Sox,New York Yankees,53,10,in from Leftfield.,
 08-05-2016,Boston Red Sox,New York Yankees,60,8,out to Rightfield,Sunny
 09-05-2016,Kansas City Royals,New York Yankees,69,8,from Right to Left,Cloudy
-10-05-2016,Kansas City Royals,New York Yankees,59,9,from Right to Left.,Wind9mphfromRighttoLeft
+10-05-2016,Kansas City Royals,New York Yankees,59,9,from Right to Left.,
 11-05-2016,Kansas City Royals,New York Yankees,70,14,out to Leftfield,Cloudy
 12-05-2016,Kansas City Royals,New York Yankees,73,6,in from Rightfield,Sunny
 13-05-2016,Chicago White Sox,New York Yankees,62,1,in unknown direction,Drizzle
 14-05-2016,Chicago White Sox,New York Yankees,70,11,from Right to Left,Cloudy
-15-05-2016,Chicago White Sox,New York Yankees,55,16,out to Leftfield.,Wind16mphouttoLeftfield
+15-05-2016,Chicago White Sox,New York Yankees,55,16,out to Leftfield.,
 24-05-2016,Toronto Blue Jays,New York Yankees,69,3,from Left to Right,Overcast
 25-05-2016,Toronto Blue Jays,New York Yankees,86,8,out to Leftfield,Sunny
 26-05-2016,Toronto Blue Jays,New York Yankees,85,10,from Right to Left,Sunny
@@ -1391,8 +1391,8 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 24-06-2016,Minnesota Twins,New York Yankees,77,5,from Right to Left,Sunny
 25-06-2016,Minnesota Twins,New York Yankees,81,7,in from Leftfield,Sunny
 26-06-2016,Minnesota Twins,New York Yankees,83,5,out to Centerfield,Sunny
-27-06-2016,Texas Rangers,New York Yankees,76,19,from Right to Left.,Wind19mphfromRighttoLeft
-28-06-2016,Texas Rangers,New York Yankees,72,10,in from Rightfield.,Wind10mphinfromRightfield
+27-06-2016,Texas Rangers,New York Yankees,76,19,from Right to Left.,
+28-06-2016,Texas Rangers,New York Yankees,72,10,in from Rightfield.,
 29-06-2016,Texas Rangers,New York Yankees,81,7,from Left to Right,Cloudy
 30-06-2016,Texas Rangers,New York Yankees,81,2,out to Rightfield,Sunny
 15-07-2016,Boston Red Sox,New York Yankees,87,8,out to Centerfield,Cloudy
@@ -1410,7 +1410,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 05-08-2016,Cleveland Indians,New York Yankees,78,15,from Right to Left,Cloudy
 06-08-2016,Cleveland Indians,New York Yankees,84,10,out to Leftfield,Overcast
 07-08-2016,Cleveland Indians,New York Yankees,85,6,out to Leftfield,Sunny
-12-08-2016,Tampa Bay Rays,New York Yankees,77,6,in unknown direction.,Wind6mphinunknowndirection
+12-08-2016,Tampa Bay Rays,New York Yankees,77,6,in unknown direction.,
 13-08-2016,Tampa Bay Rays,New York Yankees,95,9,from Right to Left,Cloudy
 14-08-2016,Tampa Bay Rays,New York Yankees,95,12,out to Leftfield,Sunny
 15-08-2016,Toronto Blue Jays,New York Yankees,87,5,from Left to Right,Cloudy
@@ -1420,7 +1420,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 27-08-2016,Baltimore Orioles,New York Yankees,84,6,in from Centerfield,Sunny
 28-08-2016,Baltimore Orioles,New York Yankees,85,6,from Right to Left,Sunny
 05-09-2016,Toronto Blue Jays,New York Yankees,74,11,in from Leftfield,Cloudy
-06-09-2016,Toronto Blue Jays,New York Yankees,77,16,from Left to Right.,Wind16mphfromLefttoRight
+06-09-2016,Toronto Blue Jays,New York Yankees,77,16,from Left to Right.,
 07-09-2016,Toronto Blue Jays,New York Yankees,78,10,from Left to Right,Cloudy
 08-09-2016,Tampa Bay Rays,New York Yankees,84,13,out to Leftfield,Cloudy
 09-09-2016,Tampa Bay Rays,New York Yankees,87,4,from Left to Right,Cloudy
@@ -1430,36 +1430,36 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 13-09-2016,Los Angeles Dodgers,New York Yankees,73,7,from Right to Left,Sunny
 14-09-2016,Los Angeles Dodgers,New York Yankees,88,7,out to Leftfield,Cloudy
 27-09-2016,Boston Red Sox,New York Yankees,71,7,out to Leftfield,Cloudy
-28-09-2016,Boston Red Sox,New York Yankees,61,20,in from Leftfield.,Wind20mphinfromLeftfield
-29-09-2016,Boston Red Sox,New York Yankees,62,8,in from Centerfield.,Wind8mphinfromCenterfield
+28-09-2016,Boston Red Sox,New York Yankees,61,20,in from Leftfield.,
+29-09-2016,Boston Red Sox,New York Yankees,62,8,in from Centerfield.,
 30-09-2016,Baltimore Orioles,New York Yankees,56,19,in from Leftfield,Drizzle
-01-10-2016,Baltimore Orioles,New York Yankees,60,10,from Left to Right.,Wind10mphfromLefttoRight
-02-10-2016,Baltimore Orioles,New York Yankees,60,4,from Left to Right.,Wind4mphfromLefttoRight
-08-04-2016,Philadelphia Phillies,New York Mets,47,21,out to Rightfield.,Wind21mphouttoRightfield
-09-04-2016,Philadelphia Phillies,New York Mets,41,8,in from Leftfield.,Wind8mphinfromLeftfield
+01-10-2016,Baltimore Orioles,New York Yankees,60,10,from Left to Right.,
+02-10-2016,Baltimore Orioles,New York Yankees,60,4,from Left to Right.,
+08-04-2016,Philadelphia Phillies,New York Mets,47,21,out to Rightfield.,
+09-04-2016,Philadelphia Phillies,New York Mets,41,8,in from Leftfield.,
 10-04-2016,Philadelphia Phillies,New York Mets,45,7,from Left to Right,Sunny
-11-04-2016,Miami Marlins,New York Mets,57,15,out to Leftfield.,Wind15mphouttoLeftfield
+11-04-2016,Miami Marlins,New York Mets,57,15,out to Leftfield.,
 12-04-2016,Miami Marlins,New York Mets,56,13,in from Leftfield,Cloudy
 13-04-2016,Miami Marlins,New York Mets,52,10,in from Rightfield,Sunny
 25-04-2016,Cincinnati Reds,New York Mets,64,8,from Right to Left,Cloudy
-26-04-2016,Cincinnati Reds,New York Mets,52,12,in from Rightfield.,Wind12mphinfromRightfield
+26-04-2016,Cincinnati Reds,New York Mets,52,12,in from Rightfield.,
 27-04-2016,Cincinnati Reds,New York Mets,56,16,out to Leftfield,Sunny
-29-04-2016,San Francisco Giants,New York Mets,52,11,in from Centerfield.,Wind11mphinfromCenterfield
+29-04-2016,San Francisco Giants,New York Mets,52,11,in from Centerfield.,
 30-04-2016,San Francisco Giants,New York Mets,62,6,out to Leftfield,Sunny
 01-05-2016,San Francisco Giants,New York Mets,50,14,from Right to Left,Drizzle
 02-05-2016,Atlanta Braves,New York Mets,62,7,out to Rightfield,Sunny
 03-05-2016,Atlanta Braves,New York Mets,53,6,in from Centerfield,Drizzle
-04-05-2016,Atlanta Braves,New York Mets,49,16,in from Rightfield.,Wind16mphinfromRightfield
-17-05-2016,Washington Nationals,New York Mets,60,9,out to Centerfield.,Wind9mphouttoCenterfield
-18-05-2016,Washington Nationals,New York Mets,59,10,out to Leftfield.,Wind10mphouttoLeftfield
+04-05-2016,Atlanta Braves,New York Mets,49,16,in from Rightfield.,
+17-05-2016,Washington Nationals,New York Mets,60,9,out to Centerfield.,
+18-05-2016,Washington Nationals,New York Mets,59,10,out to Leftfield.,
 19-05-2016,Washington Nationals,New York Mets,60,14,out to Leftfield,Cloudy
 20-05-2016,Milwaukee Brewers,New York Mets,69,12,out to Leftfield,Sunny
-21-05-2016,Milwaukee Brewers,New York Mets,63,12,in from Rightfield.,Wind12mphinfromRightfield
+21-05-2016,Milwaukee Brewers,New York Mets,63,12,in from Rightfield.,
 22-05-2016,Milwaukee Brewers,New York Mets,66,7,in from Rightfield,Cloudy
 27-05-2016,Los Angeles Dodgers,New York Mets,77,9,out to Leftfield,Cloudy
 28-05-2016,Los Angeles Dodgers,New York Mets,84,10,out to Leftfield,Cloudy
 29-05-2016,Los Angeles Dodgers,New York Mets,74,17,out to Leftfield,Cloudy
-30-05-2016,Chicago White Sox,New York Mets,79,1,in unknown direction.,Wind1mphinunknowndirection
+30-05-2016,Chicago White Sox,New York Mets,79,1,in unknown direction.,
 31-05-2016,Chicago White Sox,New York Mets,79,13,out to Leftfield,Sunny
 01-06-2016,Chicago White Sox,New York Mets,79,13,in from Centerfield,Cloudy
 14-06-2016,Pittsburgh Pirates,New York Mets,80,11,from Left to Right,Sunny
@@ -1477,19 +1477,19 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-07-2016,Miami Marlins,New York Mets,78,14,out to Centerfield,Sunny
 05-07-2016,Miami Marlins,New York Mets,88,8,from Left to Right,Sunny
 06-07-2016,Miami Marlins,New York Mets,92,6,in from Rightfield,Cloudy
-07-07-2016,Washington Nationals,New York Mets,81,10,in from Rightfield.,Wind10mphinfromRightfield
-08-07-2016,Washington Nationals,New York Mets,74,12,from Right to Left.,Wind12mphfromRighttoLeft
-09-07-2016,Washington Nationals,New York Mets,69,8,out to Leftfield.,Wind8mphouttoLeftfield
+07-07-2016,Washington Nationals,New York Mets,81,10,in from Rightfield.,
+08-07-2016,Washington Nationals,New York Mets,74,12,from Right to Left.,
+09-07-2016,Washington Nationals,New York Mets,69,8,out to Leftfield.,
 10-07-2016,Washington Nationals,New York Mets,78,7,out to Rightfield,Cloudy
 27-07-2016,St. Louis Cardinals,New York Mets,88,15,out to Leftfield,Cloudy
 28-07-2016,Colorado Rockies,New York Mets,93,7,in from Leftfield,Cloudy
 29-07-2016,Colorado Rockies,New York Mets,82,8,in from Rightfield,Sunny
-30-07-2016,Colorado Rockies,New York Mets,76,7,out to Leftfield.,Wind7mphouttoLeftfield
-31-07-2016,Colorado Rockies,New York Mets,78,12,from Right to Left.,Wind12mphfromRighttoLeft
-01-08-2016,New York Yankees,New York Mets,76,7,in from Rightfield.,Wind7mphinfromRightfield
+30-07-2016,Colorado Rockies,New York Mets,76,7,out to Leftfield.,
+31-07-2016,Colorado Rockies,New York Mets,78,12,from Right to Left.,
+01-08-2016,New York Yankees,New York Mets,76,7,in from Rightfield.,
 02-08-2016,New York Yankees,New York Mets,75,8,from Right to Left,Cloudy
-09-08-2016,Arizona Diamondbacks,New York Mets,83,11,out to Leftfield.,Wind11mphouttoLeftfield
-10-08-2016,Arizona Diamondbacks,New York Mets,84,5,out to Leftfield.,Wind5mphouttoLeftfield
+09-08-2016,Arizona Diamondbacks,New York Mets,83,11,out to Leftfield.,
+10-08-2016,Arizona Diamondbacks,New York Mets,84,5,out to Leftfield.,
 11-08-2016,Arizona Diamondbacks,New York Mets,93,7,out to Rightfield,Cloudy
 12-08-2016,San Diego Padres,New York Mets,90,10,out to Rightfield,Cloudy
 13-08-2016,San Diego Padres,New York Mets,91,13,out to Leftfield,Sunny
@@ -1499,17 +1499,17 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-08-2016,Philadelphia Phillies,New York Mets,86,6,out to Leftfield,Sunny
 29-08-2016,Miami Marlins,New York Mets,87,7,in from Leftfield,Cloudy
 30-08-2016,Miami Marlins,New York Mets,77,9,out to Leftfield,Cloudy
-31-08-2016,Miami Marlins,New York Mets,81,14,out to Leftfield.,Wind14mphouttoLeftfield
-01-09-2016,Miami Marlins,New York Mets,76,5,in from Centerfield.,Wind5mphinfromCenterfield
+31-08-2016,Miami Marlins,New York Mets,81,14,out to Leftfield.,
+01-09-2016,Miami Marlins,New York Mets,76,5,in from Centerfield.,
 02-09-2016,Washington Nationals,New York Mets,79,8,in from Leftfield,Cloudy
 03-09-2016,Washington Nationals,New York Mets,72,9,in from Rightfield,Cloudy
 04-09-2016,Washington Nationals,New York Mets,76,10,in from Rightfield,Cloudy
 16-09-2016,Minnesota Twins,New York Mets,68,11,out to Leftfield,Cloudy
 17-09-2016,Minnesota Twins,New York Mets,73,13,out to Leftfield,Cloudy
-18-09-2016,Minnesota Twins,New York Mets,82,12,out to Centerfield.,Wind12mphouttoCenterfield
-19-09-2016,Atlanta Braves,New York Mets,73,3,out to Leftfield.,Wind3mphouttoLeftfield
-20-09-2016,Atlanta Braves,New York Mets,77,9,out to Leftfield.,Wind9mphouttoLeftfield
-21-09-2016,Atlanta Braves,New York Mets,80,7,in from Centerfield.,Wind7mphinfromCenterfield
+18-09-2016,Minnesota Twins,New York Mets,82,12,out to Centerfield.,
+19-09-2016,Atlanta Braves,New York Mets,73,3,out to Leftfield.,
+20-09-2016,Atlanta Braves,New York Mets,77,9,out to Leftfield.,
+21-09-2016,Atlanta Braves,New York Mets,80,7,in from Centerfield.,
 22-09-2016,Philadelphia Phillies,New York Mets,79,8,from Right to Left,Sunny
 23-09-2016,Philadelphia Phillies,New York Mets,80,11,out to Centerfield,Sunny
 24-09-2016,Philadelphia Phillies,New York Mets,67,9,in from Leftfield,Sunny
@@ -1529,14 +1529,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 01-05-2016,Houston Astros,Oakland Athletics,71,5,out to Rightfield,Sunny
 02-05-2016,Seattle Mariners,Oakland Athletics,67,17,out to Rightfield,Sunny
 03-05-2016,Seattle Mariners,Oakland Athletics,63,9,out to Rightfield,Overcast
-04-05-2016,Seattle Mariners,Oakland Athletics,62,7,out to Rightfield.,Wind7mphouttoRightfield
+04-05-2016,Seattle Mariners,Oakland Athletics,62,7,out to Rightfield.,
 16-05-2016,Texas Rangers,Oakland Athletics,65,12,out to Rightfield,Sunny
 17-05-2016,Texas Rangers,Oakland Athletics,76,12,from Right to Left,Sunny
 18-05-2016,Texas Rangers,Oakland Athletics,72,10,out to Rightfield,Cloudy
 19-05-2016,New York Yankees,Oakland Athletics,61,13,out to Rightfield,Overcast
-20-05-2016,New York Yankees,Oakland Athletics,59,22,out to Rightfield.,Wind22mphouttoRightfield
-21-05-2016,New York Yankees,Oakland Athletics,65,16,out to Rightfield.,Wind16mphouttoRightfield
-22-05-2016,New York Yankees,Oakland Athletics,63,9,out to Rightfield.,Wind9mphouttoRightfield
+20-05-2016,New York Yankees,Oakland Athletics,59,22,out to Rightfield.,
+21-05-2016,New York Yankees,Oakland Athletics,65,16,out to Rightfield.,
+22-05-2016,New York Yankees,Oakland Athletics,63,9,out to Rightfield.,
 27-05-2016,Detroit Tigers,Oakland Athletics,69,11,out to Rightfield,Cloudy
 28-05-2016,Detroit Tigers,Oakland Athletics,77,13,out to Rightfield,Cloudy
 29-05-2016,Detroit Tigers,Oakland Athletics,70,10,out to Rightfield,Sunny
@@ -1544,7 +1544,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 31-05-2016,Minnesota Twins,Oakland Athletics,72,9,out to Leftfield,Sunny
 01-06-2016,Minnesota Twins,Oakland Athletics,69,10,out to Leftfield,Sunny
 13-06-2016,Texas Rangers,Oakland Athletics,63,17,out to Rightfield,Cloudy
-14-06-2016,Texas Rangers,Oakland Athletics,62,21,out to Rightfield.,Wind21mphouttoRightfield
+14-06-2016,Texas Rangers,Oakland Athletics,62,21,out to Rightfield.,
 15-06-2016,Texas Rangers,Oakland Athletics,63,20,out to Rightfield,Cloudy
 16-06-2016,Texas Rangers,Oakland Athletics,69,8,in from Leftfield,Cloudy
 17-06-2016,Los Angeles Angels,Oakland Athletics,65,13,out to Rightfield,Cloudy
@@ -1568,7 +1568,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-07-2016,Tampa Bay Rays,Oakland Athletics,72,13,out to Rightfield,Sunny
 24-07-2016,Tampa Bay Rays,Oakland Athletics,71,12,out to Rightfield,Sunny
 05-08-2016,Chicago Cubs,Oakland Athletics,59,11,out to Rightfield,Sunny
-06-08-2016,Chicago Cubs,Oakland Athletics,63,6,out to Rightfield.,Wind6mphouttoRightfield
+06-08-2016,Chicago Cubs,Oakland Athletics,63,6,out to Rightfield.,
 07-08-2016,Chicago Cubs,Oakland Athletics,63,4,out to Rightfield,Sunny
 08-08-2016,Baltimore Orioles,Oakland Athletics,61,14,out to Rightfield,Sunny
 09-08-2016,Baltimore Orioles,Oakland Athletics,64,11,out to Rightfield,Sunny
@@ -1577,11 +1577,11 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 12-08-2016,Seattle Mariners,Oakland Athletics,67,10,out to Rightfield,Sunny
 13-08-2016,Seattle Mariners,Oakland Athletics,66,6,out to Rightfield,Sunny
 14-08-2016,Seattle Mariners,Oakland Athletics,65,12,out to Rightfield,Sunny
-22-08-2016,Cleveland Indians,Oakland Athletics,58,15,out to Rightfield.,Wind15mphouttoRightfield
+22-08-2016,Cleveland Indians,Oakland Athletics,58,15,out to Rightfield.,
 23-08-2016,Cleveland Indians,Oakland Athletics,60,13,out to Rightfield,Cloudy
 24-08-2016,Cleveland Indians,Oakland Athletics,62,8,out to Rightfield,Cloudy
 02-09-2016,Boston Red Sox,Oakland Athletics,64,13,out to Rightfield,Cloudy
-03-09-2016,Boston Red Sox,Oakland Athletics,60,15,out to Rightfield.,Wind15mphouttoRightfield
+03-09-2016,Boston Red Sox,Oakland Athletics,60,15,out to Rightfield.,
 04-09-2016,Boston Red Sox,Oakland Athletics,65,7,out to Rightfield,Sunny
 05-09-2016,Los Angeles Angels,Oakland Athletics,67,6,out to Rightfield,Sunny
 06-09-2016,Los Angeles Angels,Oakland Athletics,66,14,out to Rightfield,Sunny
@@ -1595,7 +1595,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-09-2016,Texas Rangers,Oakland Athletics,64,12,out to Rightfield,Sunny
 24-09-2016,Texas Rangers,Oakland Athletics,76,5,out to Rightfield,Sunny
 25-09-2016,Texas Rangers,Oakland Athletics,81,7,out to Rightfield,Sunny
-11-04-2016,San Diego Padres,Philadelphia Phillies,66,17,out to Leftfield.,Wind17mphouttoLeftfield
+11-04-2016,San Diego Padres,Philadelphia Phillies,66,17,out to Leftfield.,
 12-04-2016,San Diego Padres,Philadelphia Phillies,57,17,in from Leftfield,Sunny
 13-04-2016,San Diego Padres,Philadelphia Phillies,55,3,out to Centerfield,Sunny
 14-04-2016,San Diego Padres,Philadelphia Phillies,60,7,in from Centerfield,Sunny
@@ -1605,78 +1605,78 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-04-2016,New York Mets,Philadelphia Phillies,77,4,out to Centerfield,Sunny
 19-04-2016,New York Mets,Philadelphia Phillies,67,15,in from Leftfield,Cloudy
 20-04-2016,New York Mets,Philadelphia Phillies,66,4,from Left to Right,Sunny
-29-04-2016,Cleveland Indians,Philadelphia Phillies,48,8,from Right to Left.,Wind8mphfromRighttoLeft
-30-04-2016,Cleveland Indians,Philadelphia Phillies,58,4,from Right to Left.,Wind4mphfromRighttoLeft
+29-04-2016,Cleveland Indians,Philadelphia Phillies,48,8,from Right to Left.,
+30-04-2016,Cleveland Indians,Philadelphia Phillies,58,4,from Right to Left.,
 01-05-2016,Cleveland Indians,Philadelphia Phillies,51,1,out to Centerfield,Overcast
-13-05-2016,Cincinnati Reds,Philadelphia Phillies,68,6,from Left to Right.,Wind6mphfromLefttoRight
+13-05-2016,Cincinnati Reds,Philadelphia Phillies,68,6,from Left to Right.,
 14-05-2016,Cincinnati Reds,Philadelphia Phillies,64,7,out to Centerfield,Rain
-15-05-2016,Cincinnati Reds,Philadelphia Phillies,54,23,from Left to Right.,Wind23mphfromLefttoRight
+15-05-2016,Cincinnati Reds,Philadelphia Phillies,54,23,from Left to Right.,
 16-05-2016,Miami Marlins,Philadelphia Phillies,64,11,from Left to Right,Cloudy
 17-05-2016,Miami Marlins,Philadelphia Phillies,54,3,from Right to Left,Rain
-18-05-2016,Miami Marlins,Philadelphia Phillies,64,9,from Right to Left.,Wind9mphfromRighttoLeft
-20-05-2016,Atlanta Braves,Philadelphia Phillies,72,4,from Left to Right.,Wind4mphfromLefttoRight
-21-05-2016,Atlanta Braves,Philadelphia Phillies,60,11,from Right to Left.,Wind11mphfromRighttoLeft
-22-05-2016,Atlanta Braves,Philadelphia Phillies,65,7,from Right to Left.,Wind7mphfromRighttoLeft
+18-05-2016,Miami Marlins,Philadelphia Phillies,64,9,from Right to Left.,
+20-05-2016,Atlanta Braves,Philadelphia Phillies,72,4,from Left to Right.,
+21-05-2016,Atlanta Braves,Philadelphia Phillies,60,11,from Right to Left.,
+22-05-2016,Atlanta Braves,Philadelphia Phillies,65,7,from Right to Left.,
 30-05-2016,Washington Nationals,Philadelphia Phillies,73,8,out to Centerfield,Cloudy
 31-05-2016,Washington Nationals,Philadelphia Phillies,84,9,in from Leftfield,Cloudy
-01-06-2016,Washington Nationals,Philadelphia Phillies,78,8,out to Centerfield.,Wind8mphouttoCenterfield
-02-06-2016,Milwaukee Brewers,Philadelphia Phillies,79,9,from Left to Right.,Wind9mphfromLefttoRight
-03-06-2016,Milwaukee Brewers,Philadelphia Phillies,73,5,from Right to Left.,Wind5mphfromRighttoLeft
-04-06-2016,Milwaukee Brewers,Philadelphia Phillies,83,3,out to Rightfield.,Wind3mphouttoRightfield
-05-06-2016,Milwaukee Brewers,Philadelphia Phillies,78,10,out to Centerfield.,Wind10mphouttoCenterfield
+01-06-2016,Washington Nationals,Philadelphia Phillies,78,8,out to Centerfield.,
+02-06-2016,Milwaukee Brewers,Philadelphia Phillies,79,9,from Left to Right.,
+03-06-2016,Milwaukee Brewers,Philadelphia Phillies,73,5,from Right to Left.,
+04-06-2016,Milwaukee Brewers,Philadelphia Phillies,83,3,out to Rightfield.,
+05-06-2016,Milwaukee Brewers,Philadelphia Phillies,78,10,out to Centerfield.,
 06-06-2016,Chicago Cubs,Philadelphia Phillies,82,13,from Left to Right,Cloudy
-07-06-2016,Chicago Cubs,Philadelphia Phillies,72,8,out to Rightfield.,Wind8mphouttoRightfield
+07-06-2016,Chicago Cubs,Philadelphia Phillies,72,8,out to Rightfield.,
 08-06-2016,Chicago Cubs,Philadelphia Phillies,57,21,from Left to Right,Rain
-15-06-2016,Toronto Blue Jays,Philadelphia Phillies,75,7,out to Centerfield.,Wind7mphouttoCenterfield
-16-06-2016,Toronto Blue Jays,Philadelphia Phillies,69,6,from Right to Left.,Wind6mphfromRighttoLeft
+15-06-2016,Toronto Blue Jays,Philadelphia Phillies,75,7,out to Centerfield.,
+16-06-2016,Toronto Blue Jays,Philadelphia Phillies,69,6,from Right to Left.,
 17-06-2016,Arizona Diamondbacks,Philadelphia Phillies,73,11,from Right to Left,Cloudy
 18-06-2016,Arizona Diamondbacks,Philadelphia Phillies,84,5,out to Rightfield,Sunny
 19-06-2016,Arizona Diamondbacks,Philadelphia Phillies,85,7,from Left to Right,Cloudy
 20-06-2016,Arizona Diamondbacks,Philadelphia Phillies,91,5,out to Centerfield,Cloudy
-01-07-2016,Kansas City Royals,Philadelphia Phillies,79,8,out to Centerfield.,Wind8mphouttoCenterfield
+01-07-2016,Kansas City Royals,Philadelphia Phillies,79,8,out to Centerfield.,
 02-07-2016,Kansas City Royals,Philadelphia Phillies,78,11,from Left to Right,Cloudy
 03-07-2016,Kansas City Royals,Philadelphia Phillies,80,5,out to Centerfield,Cloudy
-04-07-2016,Atlanta Braves,Philadelphia Phillies,77,10,out to Centerfield.,Wind10mphouttoCenterfield
+04-07-2016,Atlanta Braves,Philadelphia Phillies,77,10,out to Centerfield.,
 05-07-2016,Atlanta Braves,Philadelphia Phillies,88,7,from Left to Right,Cloudy
 06-07-2016,Atlanta Braves,Philadelphia Phillies,92,6,from Left to Right,Cloudy
-15-07-2016,New York Mets,Philadelphia Phillies,90,10,out to Rightfield.,Wind10mphouttoRightfield
-16-07-2016,New York Mets,Philadelphia Phillies,81,7,from Right to Left.,Wind7mphfromRighttoLeft
+15-07-2016,New York Mets,Philadelphia Phillies,90,10,out to Rightfield.,
+16-07-2016,New York Mets,Philadelphia Phillies,81,7,from Right to Left.,
 17-07-2016,New York Mets,Philadelphia Phillies,90,7,out to Centerfield,Sunny
-18-07-2016,Miami Marlins,Philadelphia Phillies,75,7,from Left to Right.,Wind7mphfromLefttoRight
+18-07-2016,Miami Marlins,Philadelphia Phillies,75,7,from Left to Right.,
 19-07-2016,Miami Marlins,Philadelphia Phillies,84,8,in from Centerfield,Cloudy
 20-07-2016,Miami Marlins,Philadelphia Phillies,82,7,out to Leftfield,Cloudy
 21-07-2016,Miami Marlins,Philadelphia Phillies,85,10,out to Centerfield,Cloudy
-02-08-2016,San Francisco Giants,Philadelphia Phillies,79,10,from Right to Left.,Wind10mphfromRighttoLeft
+02-08-2016,San Francisco Giants,Philadelphia Phillies,79,10,from Right to Left.,
 03-08-2016,San Francisco Giants,Philadelphia Phillies,79,10,from Right to Left,Cloudy
 04-08-2016,San Francisco Giants,Philadelphia Phillies,83,6,out to Rightfield,Cloudy
-12-08-2016,Colorado Rockies,Philadelphia Phillies,88,9,out to Rightfield.,Wind9mphouttoRightfield
+12-08-2016,Colorado Rockies,Philadelphia Phillies,88,9,out to Rightfield.,
 13-08-2016,Colorado Rockies,Philadelphia Phillies,93,11,out to Centerfield,Cloudy
 14-08-2016,Colorado Rockies,Philadelphia Phillies,95,13,out to Rightfield,Cloudy
-16-08-2016,Los Angeles Dodgers,Philadelphia Phillies,89,10,out to Rightfield.,Wind10mphouttoRightfield
+16-08-2016,Los Angeles Dodgers,Philadelphia Phillies,89,10,out to Rightfield.,
 17-08-2016,Los Angeles Dodgers,Philadelphia Phillies,88,7,from Left to Right,Cloudy
 18-08-2016,Los Angeles Dodgers,Philadelphia Phillies,86,6,from Left to Right,Cloudy
-19-08-2016,St. Louis Cardinals,Philadelphia Phillies,87,6,out to Centerfield.,Wind6mphouttoCenterfield
+19-08-2016,St. Louis Cardinals,Philadelphia Phillies,87,6,out to Centerfield.,
 20-08-2016,St. Louis Cardinals,Philadelphia Phillies,85,7,out to Leftfield,Cloudy
 21-08-2016,St. Louis Cardinals,Philadelphia Phillies,89,9,out to Centerfield,Cloudy
 29-08-2016,Washington Nationals,Philadelphia Phillies,89,10,in from Leftfield,Cloudy
 30-08-2016,Washington Nationals,Philadelphia Phillies,82,5,from Right to Left,Cloudy
-31-08-2016,Washington Nationals,Philadelphia Phillies,86,7,out to Centerfield.,Wind7mphouttoCenterfield
-02-09-2016,Atlanta Braves,Philadelphia Phillies,79,7,from Right to Left.,Wind7mphfromRighttoLeft
+31-08-2016,Washington Nationals,Philadelphia Phillies,86,7,out to Centerfield.,
+02-09-2016,Atlanta Braves,Philadelphia Phillies,79,7,from Right to Left.,
 03-09-2016,Atlanta Braves,Philadelphia Phillies,73,10,from Right to Left,Cloudy
 04-09-2016,Atlanta Braves,Philadelphia Phillies,78,10,in from Rightfield,Sunny
 12-09-2016,Pittsburgh Pirates,Philadelphia Phillies,75,6,out to Centerfield,Sunny
 13-09-2016,Pittsburgh Pirates,Philadelphia Phillies,79,7,out to Rightfield,Sunny
-14-09-2016,Pittsburgh Pirates,Philadelphia Phillies,88,8,out to Rightfield.,Wind8mphouttoRightfield
+14-09-2016,Pittsburgh Pirates,Philadelphia Phillies,88,8,out to Rightfield.,
 15-09-2016,Pittsburgh Pirates,Philadelphia Phillies,74,6,in from Rightfield,Cloudy
 16-09-2016,Miami Marlins,Philadelphia Phillies,70,11,from Right to Left,Sunny
-17-09-2016,Miami Marlins,Philadelphia Phillies,79,7,out to Centerfield.,Wind7mphouttoCenterfield
-18-09-2016,Miami Marlins,Philadelphia Phillies,84,8,out to Rightfield.,Wind8mphouttoRightfield
+17-09-2016,Miami Marlins,Philadelphia Phillies,79,7,out to Centerfield.,
+18-09-2016,Miami Marlins,Philadelphia Phillies,84,8,out to Rightfield.,
 20-09-2016,Chicago White Sox,Philadelphia Phillies,78,4,out to Leftfield,Cloudy
-21-09-2016,Chicago White Sox,Philadelphia Phillies,78,6,out to Centerfield.,Wind6mphouttoCenterfield
-30-09-2016,New York Mets,Philadelphia Phillies,61,13,in from Rightfield.,Wind13mphinfromRightfield
-01-10-2016,New York Mets,Philadelphia Phillies,63,10,from Left to Right.,Wind10mphfromLefttoRight
+21-09-2016,Chicago White Sox,Philadelphia Phillies,78,6,out to Centerfield.,
+30-09-2016,New York Mets,Philadelphia Phillies,61,13,in from Rightfield.,
+01-10-2016,New York Mets,Philadelphia Phillies,63,10,from Left to Right.,
 02-10-2016,New York Mets,Philadelphia Phillies,66,2,from Right to Left,Cloudy
-03-04-2016,St. Louis Cardinals,Pittsburgh Pirates,39,14,out to Leftfield.,Wind14mphouttoLeftfield
+03-04-2016,St. Louis Cardinals,Pittsburgh Pirates,39,14,out to Leftfield.,
 05-04-2016,St. Louis Cardinals,Pittsburgh Pirates,40,7,out to Leftfield,Sunny
 06-04-2016,St. Louis Cardinals,Pittsburgh Pirates,63,15,from Right to Left,Cloudy
 13-04-2016,Detroit Tigers,Pittsburgh Pirates,54,1,in from Leftfield,Cloudy
@@ -1684,15 +1684,15 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 15-04-2016,Milwaukee Brewers,Pittsburgh Pirates,67,7,in from Rightfield,Sunny
 16-04-2016,Milwaukee Brewers,Pittsburgh Pirates,71,7,in from Leftfield,Sunny
 17-04-2016,Milwaukee Brewers,Pittsburgh Pirates,77,4,from Right to Left,Sunny
-29-04-2016,Cincinnati Reds,Pittsburgh Pirates,54,7,from Right to Left.,Wind7mphfromRighttoLeft
+29-04-2016,Cincinnati Reds,Pittsburgh Pirates,54,7,from Right to Left.,
 30-04-2016,Cincinnati Reds,Pittsburgh Pirates,62,2,in from Leftfield,Overcast
-01-05-2016,Cincinnati Reds,Pittsburgh Pirates,67,8,out to Rightfield.,Wind8mphouttoRightfield
-02-05-2016,Chicago Cubs,Pittsburgh Pirates,60,11,out to Centerfield.,Wind11mphouttoCenterfield
+01-05-2016,Cincinnati Reds,Pittsburgh Pirates,67,8,out to Rightfield.,
+02-05-2016,Chicago Cubs,Pittsburgh Pirates,60,11,out to Centerfield.,
 03-05-2016,Chicago Cubs,Pittsburgh Pirates,61,8,out to Centerfield,Cloudy
-04-05-2016,Chicago Cubs,Pittsburgh Pirates,62,1,in from Rightfield.,Wind1mphinfromRightfield
+04-05-2016,Chicago Cubs,Pittsburgh Pirates,62,1,in from Rightfield.,
 16-05-2016,Atlanta Braves,Pittsburgh Pirates,62,10,out to Leftfield,Cloudy
-17-05-2016,Atlanta Braves,Pittsburgh Pirates,60,4,in from Leftfield.,Wind4mphinfromLeftfield
-18-05-2016,Atlanta Braves,Pittsburgh Pirates,58,4,out to Centerfield.,Wind4mphouttoCenterfield
+17-05-2016,Atlanta Braves,Pittsburgh Pirates,60,4,in from Leftfield.,
+18-05-2016,Atlanta Braves,Pittsburgh Pirates,58,4,out to Centerfield.,
 19-05-2016,Atlanta Braves,Pittsburgh Pirates,68,5,in from Centerfield,Cloudy
 20-05-2016,Colorado Rockies,Pittsburgh Pirates,71,1,in unknown direction,Sunny
 21-05-2016,Colorado Rockies,Pittsburgh Pirates,55,2,in from Leftfield,Overcast
@@ -1701,20 +1701,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-05-2016,Arizona Diamondbacks,Pittsburgh Pirates,81,4,from Right to Left,Sunny
 26-05-2016,Arizona Diamondbacks,Pittsburgh Pirates,78,10,in from Rightfield,Cloudy
 03-06-2016,Los Angeles Angels,Pittsburgh Pirates,89,4,out to Leftfield,Cloudy
-04-06-2016,Los Angeles Angels,Pittsburgh Pirates,81,4,out to Centerfield.,Wind4mphouttoCenterfield
-05-06-2016,Los Angeles Angels,Pittsburgh Pirates,70,8,in from Centerfield.,Wind8mphinfromCenterfield
+04-06-2016,Los Angeles Angels,Pittsburgh Pirates,81,4,out to Centerfield.,
+05-06-2016,Los Angeles Angels,Pittsburgh Pirates,70,8,in from Centerfield.,
 08-06-2016,New York Mets,Pittsburgh Pirates,64,12,out to Centerfield,Sunny
 10-06-2016,St. Louis Cardinals,Pittsburgh Pirates,80,7,out to Leftfield,Cloudy
 11-06-2016,St. Louis Cardinals,Pittsburgh Pirates,83,13,out to Centerfield,Cloudy
 12-06-2016,St. Louis Cardinals,Pittsburgh Pirates,75,17,out to Centerfield,Sunny
 20-06-2016,San Francisco Giants,Pittsburgh Pirates,84,12,out to Leftfield,Cloudy
 21-06-2016,San Francisco Giants,Pittsburgh Pirates,82,12,out to Centerfield,Cloudy
-22-06-2016,San Francisco Giants,Pittsburgh Pirates,77,8,out to Leftfield.,Wind8mphouttoLeftfield
-23-06-2016,San Francisco Giants,Pittsburgh Pirates,71,8,out to Leftfield.,Wind8mphouttoLeftfield
+22-06-2016,San Francisco Giants,Pittsburgh Pirates,77,8,out to Leftfield.,
+23-06-2016,San Francisco Giants,Pittsburgh Pirates,71,8,out to Leftfield.,
 24-06-2016,Los Angeles Dodgers,Pittsburgh Pirates,80,7,out to Centerfield,Cloudy
 25-06-2016,Los Angeles Dodgers,Pittsburgh Pirates,84,2,in from Centerfield,Sunny
 26-06-2016,Los Angeles Dodgers,Pittsburgh Pirates,85,10,from Right to Left,Cloudy
-27-06-2016,Los Angeles Dodgers,Pittsburgh Pirates,83,9,out to Leftfield.,Wind9mphouttoLeftfield
+27-06-2016,Los Angeles Dodgers,Pittsburgh Pirates,83,9,out to Leftfield.,
 08-07-2016,Chicago Cubs,Pittsburgh Pirates,82,9,out to Leftfield,Cloudy
 09-07-2016,Chicago Cubs,Pittsburgh Pirates,81,13,out to Leftfield,Cloudy
 10-07-2016,Chicago Cubs,Pittsburgh Pirates,77,6,in from Rightfield,Cloudy
@@ -1724,17 +1724,17 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-07-2016,Philadelphia Phillies,Pittsburgh Pirates,87,10,in from Rightfield,Cloudy
 23-07-2016,Philadelphia Phillies,Pittsburgh Pirates,85,7,out to Leftfield,Cloudy
 24-07-2016,Philadelphia Phillies,Pittsburgh Pirates,89,6,in from Rightfield,Cloudy
-26-07-2016,Seattle Mariners,Pittsburgh Pirates,84,6,out to Rightfield.,Wind6mphouttoRightfield
+26-07-2016,Seattle Mariners,Pittsburgh Pirates,84,6,out to Rightfield.,
 27-07-2016,Seattle Mariners,Pittsburgh Pirates,88,4,out to Rightfield,Cloudy
 05-08-2016,Cincinnati Reds,Pittsburgh Pirates,84,6,out to Centerfield,Cloudy
 06-08-2016,Cincinnati Reds,Pittsburgh Pirates,81,10,out to Centerfield,Cloudy
 07-08-2016,Cincinnati Reds,Pittsburgh Pirates,81,4,in from Rightfield,Cloudy
-09-08-2016,San Diego Padres,Pittsburgh Pirates,86,5,in from Centerfield.,Wind5mphinfromCenterfield
-10-08-2016,San Diego Padres,Pittsburgh Pirates,81,3,out to Leftfield.,Wind3mphouttoLeftfield
+09-08-2016,San Diego Padres,Pittsburgh Pirates,86,5,in from Centerfield.,
+10-08-2016,San Diego Padres,Pittsburgh Pirates,81,3,out to Leftfield.,
 11-08-2016,San Diego Padres,Pittsburgh Pirates,86,5,out to Leftfield,Cloudy
 19-08-2016,Miami Marlins,Pittsburgh Pirates,83,8,out to Leftfield,Cloudy
 20-08-2016,Miami Marlins,Pittsburgh Pirates,84,10,in from Rightfield,Cloudy
-21-08-2016,Miami Marlins,Pittsburgh Pirates,74,9,out to Centerfield.,Wind9mphouttoCenterfield
+21-08-2016,Miami Marlins,Pittsburgh Pirates,74,9,out to Centerfield.,
 22-08-2016,Houston Astros,Pittsburgh Pirates,76,5,out to Centerfield,Cloudy
 23-08-2016,Houston Astros,Pittsburgh Pirates,81,5,out to Leftfield,Cloudy
 24-08-2016,Houston Astros,Pittsburgh Pirates,81,6,from Right to Left,Cloudy
@@ -1751,12 +1751,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 23-09-2016,Washington Nationals,Pittsburgh Pirates,83,5,out to Centerfield,Sunny
 24-09-2016,Washington Nationals,Pittsburgh Pirates,70,4,out to Leftfield,Cloudy
 25-09-2016,Washington Nationals,Pittsburgh Pirates,74,2,in unknown direction,Cloudy
-26-09-2016,Chicago Cubs,Pittsburgh Pirates,65,4,out to Leftfield.,Wind4mphouttoLeftfield
+26-09-2016,Chicago Cubs,Pittsburgh Pirates,65,4,out to Leftfield.,
 27-09-2016,Chicago Cubs,Pittsburgh Pirates,70,13,out to Leftfield,Sunny
 28-09-2016,Chicago Cubs,Pittsburgh Pirates,67,12,from Left to Right,Cloudy
 29-09-2016,Chicago Cubs,Pittsburgh Pirates,63,12,in from Leftfield,Overcast
 04-04-2016,Los Angeles Dodgers,San Diego Padres,72,12,from Left to Right,Cloudy
-05-04-2016,Los Angeles Dodgers,San Diego Padres,70,6,from Left to Right.,Wind6mphfromLefttoRight
+05-04-2016,Los Angeles Dodgers,San Diego Padres,70,6,from Left to Right.,
 06-04-2016,Los Angeles Dodgers,San Diego Padres,65,7,in unknown direction,Overcast
 15-04-2016,Arizona Diamondbacks,San Diego Padres,64,12,from Left to Right,Sunny
 16-04-2016,Arizona Diamondbacks,San Diego Padres,76,14,from Left to Right,Sunny
@@ -1771,16 +1771,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 03-05-2016,Colorado Rockies,San Diego Padres,60,8,from Left to Right,Cloudy
 04-05-2016,Colorado Rockies,San Diego Padres,59,12,from Left to Right,Cloudy
 05-05-2016,New York Mets,San Diego Padres,59,9,out to Centerfield,Cloudy
-06-05-2016,New York Mets,San Diego Padres,61,12,from Left to Right.,Wind12mphfromLefttoRight
+06-05-2016,New York Mets,San Diego Padres,61,12,from Left to Right.,
 07-05-2016,New York Mets,San Diego Padres,60,15,from Left to Right,Sunny
 08-05-2016,New York Mets,San Diego Padres,62,7,from Left to Right,Cloudy
-17-05-2016,San Francisco Giants,San Diego Padres,62,5,from Left to Right.,Wind5mphfromLefttoRight
+17-05-2016,San Francisco Giants,San Diego Padres,62,5,from Left to Right.,
 18-05-2016,San Francisco Giants,San Diego Padres,62,12,out to Rightfield,Overcast
 19-05-2016,San Francisco Giants,San Diego Padres,69,9,from Left to Right,Cloudy
 20-05-2016,Los Angeles Dodgers,San Diego Padres,60,11,from Left to Right,Cloudy
 21-05-2016,Los Angeles Dodgers,San Diego Padres,62,8,from Left to Right,Cloudy
 22-05-2016,Los Angeles Dodgers,San Diego Padres,68,10,from Left to Right,Cloudy
-01-06-2016,Seattle Mariners,San Diego Padres,67,7,from Left to Right.,Wind7mphfromLefttoRight
+01-06-2016,Seattle Mariners,San Diego Padres,67,7,from Left to Right.,
 02-06-2016,Seattle Mariners,San Diego Padres,76,10,out to Rightfield,Sunny
 03-06-2016,Colorado Rockies,San Diego Padres,68,9,from Left to Right,Sunny
 04-06-2016,Colorado Rockies,San Diego Padres,70,9,from Left to Right,Sunny
@@ -1828,7 +1828,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 11-09-2016,Colorado Rockies,San Diego Padres,76,12,from Left to Right,Sunny
 19-09-2016,Arizona Diamondbacks,San Diego Padres,73,6,in unknown direction,Cloudy
 20-09-2016,Arizona Diamondbacks,San Diego Padres,64,8,from Left to Right,Drizzle
-21-09-2016,Arizona Diamondbacks,San Diego Padres,67,9,from Left to Right.,Wind9mphfromLefttoRight
+21-09-2016,Arizona Diamondbacks,San Diego Padres,67,9,from Left to Right.,
 22-09-2016,San Francisco Giants,San Diego Padres,62,9,from Left to Right,Cloudy
 23-09-2016,San Francisco Giants,San Diego Padres,62,10,from Left to Right,Sunny
 24-09-2016,San Francisco Giants,San Diego Padres,78,12,from Left to Right,Sunny
@@ -1838,37 +1838,37 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 29-09-2016,Los Angeles Dodgers,San Diego Padres,77,7,out to Rightfield,Sunny
 08-04-2016,Oakland Athletics,Seattle Mariners,67,6,in from Centerfield,Cloudy
 09-04-2016,Oakland Athletics,Seattle Mariners,67,1,in unknown direction,Sunny
-10-04-2016,Oakland Athletics,Seattle Mariners,57,1,in unknown direction.,Wind1mphinunknowndirection
-11-04-2016,Texas Rangers,Seattle Mariners,57,2,in from Leftfield.,Wind2mphinfromLeftfield
+10-04-2016,Oakland Athletics,Seattle Mariners,57,1,in unknown direction.,
+11-04-2016,Texas Rangers,Seattle Mariners,57,2,in from Leftfield.,
 12-04-2016,Texas Rangers,Seattle Mariners,51,0,NoWind,InDome
-13-04-2016,Texas Rangers,Seattle Mariners,55,1,in from Leftfield.,Wind1mphinfromLeftfield
+13-04-2016,Texas Rangers,Seattle Mariners,55,1,in from Leftfield.,
 25-04-2016,Houston Astros,Seattle Mariners,56,3,in from Rightfield,Cloudy
-26-04-2016,Houston Astros,Seattle Mariners,59,0,NoWind,Wind0mph
-27-04-2016,Houston Astros,Seattle Mariners,59,1,in unknown direction.,Wind1mphinunknowndirection
+26-04-2016,Houston Astros,Seattle Mariners,59,0,NoWind,
+27-04-2016,Houston Astros,Seattle Mariners,59,1,in unknown direction.,
 29-04-2016,Kansas City Royals,Seattle Mariners,60,1,in unknown direction,Cloudy
 30-04-2016,Kansas City Royals,Seattle Mariners,65,7,in from Centerfield,Sunny
 01-05-2016,Kansas City Royals,Seattle Mariners,66,8,out to Centerfield,Sunny
 09-05-2016,Tampa Bay Rays,Seattle Mariners,66,3,out to Rightfield,Cloudy
 10-05-2016,Tampa Bay Rays,Seattle Mariners,74,2,out to Rightfield,Sunny
 11-05-2016,Tampa Bay Rays,Seattle Mariners,67,5,out to Centerfield,Sunny
-13-05-2016,Los Angeles Angels,Seattle Mariners,76,2,out to Centerfield.,Wind2mphouttoCenterfield
+13-05-2016,Los Angeles Angels,Seattle Mariners,76,2,out to Centerfield.,
 14-05-2016,Los Angeles Angels,Seattle Mariners,62,0,NoWind,InDome
 15-05-2016,Los Angeles Angels,Seattle Mariners,57,0,NoWind,InDome
-23-05-2016,Oakland Athletics,Seattle Mariners,61,5,in from Centerfield.,Wind5mphinfromCenterfield
-24-05-2016,Oakland Athletics,Seattle Mariners,63,1,in unknown direction.,Wind1mphinunknowndirection
-25-05-2016,Oakland Athletics,Seattle Mariners,62,2,out to Centerfield.,Wind2mphouttoCenterfield
+23-05-2016,Oakland Athletics,Seattle Mariners,61,5,in from Centerfield.,
+24-05-2016,Oakland Athletics,Seattle Mariners,63,1,in unknown direction.,
+25-05-2016,Oakland Athletics,Seattle Mariners,62,2,out to Centerfield.,
 27-05-2016,Minnesota Twins,Seattle Mariners,59,1,in unknown direction,InDome
 28-05-2016,Minnesota Twins,Seattle Mariners,59,1,in unknown direction,InDome
 29-05-2016,Minnesota Twins,Seattle Mariners,56,1,in unknown direction,InDome
 30-05-2016,San Diego Padres,Seattle Mariners,63,6,out to Rightfield,Overcast
 31-05-2016,San Diego Padres,Seattle Mariners,67,4,from Left to Right,Sunny
 06-06-2016,Cleveland Indians,Seattle Mariners,80,4,in from Leftfield,Sunny
-07-06-2016,Cleveland Indians,Seattle Mariners,76,2,in from Rightfield.,Wind2mphinfromRightfield
+07-06-2016,Cleveland Indians,Seattle Mariners,76,2,in from Rightfield.,
 08-06-2016,Cleveland Indians,Seattle Mariners,67,3,in from Centerfield,Cloudy
 09-06-2016,Cleveland Indians,Seattle Mariners,65,0,NoWind,Cloudy
 10-06-2016,Texas Rangers,Seattle Mariners,59,1,in unknown direction,InDome
-11-06-2016,Texas Rangers,Seattle Mariners,66,2,in from Leftfield.,Wind2mphinfromLeftfield
-12-06-2016,Texas Rangers,Seattle Mariners,61,2,from Left to Right.,Wind2mphfromLefttoRight
+11-06-2016,Texas Rangers,Seattle Mariners,66,2,in from Leftfield.,
+12-06-2016,Texas Rangers,Seattle Mariners,61,2,from Left to Right.,
 24-06-2016,St. Louis Cardinals,Seattle Mariners,64,3,in unknown direction,InDome
 25-06-2016,St. Louis Cardinals,Seattle Mariners,70,4,from Left to Right,Sunny
 26-06-2016,St. Louis Cardinals,Seattle Mariners,69,6,out to Centerfield,Sunny
@@ -1879,10 +1879,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-07-2016,Baltimore Orioles,Seattle Mariners,72,5,out to Centerfield,Cloudy
 03-07-2016,Baltimore Orioles,Seattle Mariners,65,1,in from Leftfield,Cloudy
 15-07-2016,Houston Astros,Seattle Mariners,72,1,in unknown direction,Cloudy
-16-07-2016,Houston Astros,Seattle Mariners,68,1,in unknown direction.,Wind1mphinunknowndirection
+16-07-2016,Houston Astros,Seattle Mariners,68,1,in unknown direction.,
 17-07-2016,Houston Astros,Seattle Mariners,72,1,in unknown direction,Cloudy
 18-07-2016,Chicago White Sox,Seattle Mariners,70,4,from Left to Right,Cloudy
-19-07-2016,Chicago White Sox,Seattle Mariners,73,1,in unknown direction.,Wind1mphinunknowndirection
+19-07-2016,Chicago White Sox,Seattle Mariners,73,1,in unknown direction.,
 20-07-2016,Chicago White Sox,Seattle Mariners,73,1,in unknown direction,Cloudy
 01-08-2016,Boston Red Sox,Seattle Mariners,74,3,out to Rightfield,Sunny
 02-08-2016,Boston Red Sox,Seattle Mariners,70,1,in unknown direction,Cloudy
@@ -1890,34 +1890,34 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 04-08-2016,Boston Red Sox,Seattle Mariners,76,2,out to Rightfield,Sunny
 05-08-2016,Los Angeles Angels,Seattle Mariners,74,1,in unknown direction,Sunny
 06-08-2016,Los Angeles Angels,Seattle Mariners,70,2,from Left to Right,Cloudy
-07-08-2016,Los Angeles Angels,Seattle Mariners,65,1,out to Centerfield.,Wind1mphouttoCenterfield
-08-08-2016,Detroit Tigers,Seattle Mariners,70,4,out to Centerfield.,Wind4mphouttoCenterfield
-09-08-2016,Detroit Tigers,Seattle Mariners,70,1,in unknown direction.,Wind1mphinunknowndirection
+07-08-2016,Los Angeles Angels,Seattle Mariners,65,1,out to Centerfield.,
+08-08-2016,Detroit Tigers,Seattle Mariners,70,4,out to Centerfield.,
+09-08-2016,Detroit Tigers,Seattle Mariners,70,1,in unknown direction.,
 10-08-2016,Detroit Tigers,Seattle Mariners,73,6,out to Rightfield,Cloudy
 19-08-2016,Milwaukee Brewers,Seattle Mariners,90,2,out to Rightfield,Sunny
 20-08-2016,Milwaukee Brewers,Seattle Mariners,82,4,out to Centerfield,Sunny
-21-08-2016,Milwaukee Brewers,Seattle Mariners,66,1,in unknown direction.,Wind1mphinunknowndirection
+21-08-2016,Milwaukee Brewers,Seattle Mariners,66,1,in unknown direction.,
 22-08-2016,New York Yankees,Seattle Mariners,69,4,out to Rightfield,Sunny
 23-08-2016,New York Yankees,Seattle Mariners,75,4,out to Centerfield,Sunny
 24-08-2016,New York Yankees,Seattle Mariners,76,3,out to Centerfield,Sunny
 02-09-2016,Los Angeles Angels,Seattle Mariners,67,1,in unknown direction,InDome
 03-09-2016,Los Angeles Angels,Seattle Mariners,66,8,out to Rightfield,Cloudy
 04-09-2016,Los Angeles Angels,Seattle Mariners,61,2,out to Rightfield,Cloudy
-05-09-2016,Texas Rangers,Seattle Mariners,63,3,in from Rightfield.,Wind3mphinfromRightfield
+05-09-2016,Texas Rangers,Seattle Mariners,63,3,in from Rightfield.,
 06-09-2016,Texas Rangers,Seattle Mariners,62,1,in from Leftfield,Cloudy
-07-09-2016,Texas Rangers,Seattle Mariners,65,1,in unknown direction.,Wind1mphinunknowndirection
-08-09-2016,Texas Rangers,Seattle Mariners,65,2,out to Rightfield.,Wind2mphouttoRightfield
-16-09-2016,Houston Astros,Seattle Mariners,67,3,out to Centerfield.,Wind3mphouttoCenterfield
+07-09-2016,Texas Rangers,Seattle Mariners,65,1,in unknown direction.,
+08-09-2016,Texas Rangers,Seattle Mariners,65,2,out to Rightfield.,
+16-09-2016,Houston Astros,Seattle Mariners,67,3,out to Centerfield.,
 17-09-2016,Houston Astros,Seattle Mariners,65,3,out to Centerfield,Overcast
 18-09-2016,Houston Astros,Seattle Mariners,63,1,in unknown direction,Cloudy
-19-09-2016,Toronto Blue Jays,Seattle Mariners,64,1,in unknown direction.,Wind1mphinunknowndirection
+19-09-2016,Toronto Blue Jays,Seattle Mariners,64,1,in unknown direction.,
 20-09-2016,Toronto Blue Jays,Seattle Mariners,61,3,in from Centerfield,Sunny
 21-09-2016,Toronto Blue Jays,Seattle Mariners,61,2,in from Rightfield,Cloudy
-29-09-2016,Oakland Athletics,Seattle Mariners,62,1,in unknown direction.,Wind1mphinunknowndirection
+29-09-2016,Oakland Athletics,Seattle Mariners,62,1,in unknown direction.,
 30-09-2016,Oakland Athletics,Seattle Mariners,64,1,in unknown direction,Sunny
 01-10-2016,Oakland Athletics,Seattle Mariners,60,1,in unknown direction,InDome
-02-10-2016,Oakland Athletics,Seattle Mariners,58,1,out to Centerfield.,Wind1mphouttoCenterfield
-07-04-2016,Los Angeles Dodgers,San Francisco Giants,67,9,from Left to Right.,Wind9mphfromLefttoRight
+02-10-2016,Oakland Athletics,Seattle Mariners,58,1,out to Centerfield.,
+07-04-2016,Los Angeles Dodgers,San Francisco Giants,67,9,from Left to Right.,
 08-04-2016,Los Angeles Dodgers,San Francisco Giants,60,8,from Right to Left,Overcast
 09-04-2016,Los Angeles Dodgers,San Francisco Giants,60,4,out to Centerfield,Overcast
 10-04-2016,Los Angeles Dodgers,San Francisco Giants,58,10,out to Leftfield,Overcast
@@ -1931,27 +1931,27 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 25-04-2016,San Diego Padres,San Francisco Giants,59,22,out to Rightfield,Sunny
 26-04-2016,San Diego Padres,San Francisco Giants,58,20,out to Centerfield,Cloudy
 27-04-2016,San Diego Padres,San Francisco Giants,59,16,from Right to Left,Overcast
-05-05-2016,Colorado Rockies,San Francisco Giants,62,10,out to Centerfield.,Wind10mphouttoCenterfield
-06-05-2016,Colorado Rockies,San Francisco Giants,58,8,out to Centerfield.,Wind8mphouttoCenterfield
+05-05-2016,Colorado Rockies,San Francisco Giants,62,10,out to Centerfield.,
+06-05-2016,Colorado Rockies,San Francisco Giants,58,8,out to Centerfield.,
 07-05-2016,Colorado Rockies,San Francisco Giants,60,6,out to Centerfield,Overcast
 08-05-2016,Colorado Rockies,San Francisco Giants,62,10,out to Leftfield,Overcast
 09-05-2016,Toronto Blue Jays,San Francisco Giants,57,11,out to Centerfield,Cloudy
 10-05-2016,Toronto Blue Jays,San Francisco Giants,59,13,out to Centerfield,Sunny
 11-05-2016,Toronto Blue Jays,San Francisco Giants,62,10,out to Centerfield,Cloudy
-20-05-2016,Chicago Cubs,San Francisco Giants,57,20,out to Centerfield.,Wind20mphouttoCenterfield
-21-05-2016,Chicago Cubs,San Francisco Giants,61,14,out to Centerfield.,Wind14mphouttoCenterfield
-22-05-2016,Chicago Cubs,San Francisco Giants,59,12,out to Centerfield.,Wind12mphouttoCenterfield
-23-05-2016,San Diego Padres,San Francisco Giants,59,13,out to Centerfield.,Wind13mphouttoCenterfield
+20-05-2016,Chicago Cubs,San Francisco Giants,57,20,out to Centerfield.,
+21-05-2016,Chicago Cubs,San Francisco Giants,61,14,out to Centerfield.,
+22-05-2016,Chicago Cubs,San Francisco Giants,59,12,out to Centerfield.,
+23-05-2016,San Diego Padres,San Francisco Giants,59,13,out to Centerfield.,
 24-05-2016,San Diego Padres,San Francisco Giants,59,13,out to Centerfield,Overcast
 25-05-2016,San Diego Padres,San Francisco Giants,60,8,from Right to Left,Overcast
-07-06-2016,Boston Red Sox,San Francisco Giants,61,14,out to Centerfield.,Wind14mphouttoCenterfield
-08-06-2016,Boston Red Sox,San Francisco Giants,60,15,out to Centerfield.,Wind15mphouttoCenterfield
+07-06-2016,Boston Red Sox,San Francisco Giants,61,14,out to Centerfield.,
+08-06-2016,Boston Red Sox,San Francisco Giants,60,15,out to Centerfield.,
 10-06-2016,Los Angeles Dodgers,San Francisco Giants,62,22,out to Centerfield,Cloudy
 11-06-2016,Los Angeles Dodgers,San Francisco Giants,73,13,out to Leftfield,Cloudy
 12-06-2016,Los Angeles Dodgers,San Francisco Giants,64,13,out to Rightfield,Sunny
 13-06-2016,Milwaukee Brewers,San Francisco Giants,58,25,out to Centerfield,Cloudy
 14-06-2016,Milwaukee Brewers,San Francisco Giants,59,20,out to Centerfield,Cloudy
-15-06-2016,Milwaukee Brewers,San Francisco Giants,61,20,from Right to Left.,Wind20mphfromRighttoLeft
+15-06-2016,Milwaukee Brewers,San Francisco Giants,61,20,from Right to Left.,
 24-06-2016,Philadelphia Phillies,San Francisco Giants,66,19,out to Centerfield,Sunny
 25-06-2016,Philadelphia Phillies,San Francisco Giants,63,14,out to Centerfield,Sunny
 26-06-2016,Philadelphia Phillies,San Francisco Giants,75,8,out to Centerfield,Cloudy
@@ -1959,7 +1959,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-06-2016,Oakland Athletics,San Francisco Giants,59,16,out to Centerfield,Sunny
 04-07-2016,Colorado Rockies,San Francisco Giants,64,11,out to Leftfield,Cloudy
 05-07-2016,Colorado Rockies,San Francisco Giants,58,19,out to Centerfield,Overcast
-06-07-2016,Colorado Rockies,San Francisco Giants,59,15,out to Centerfield.,Wind15mphouttoCenterfield
+06-07-2016,Colorado Rockies,San Francisco Giants,59,15,out to Centerfield.,
 08-07-2016,Arizona Diamondbacks,San Francisco Giants,61,13,out to Centerfield,Cloudy
 09-07-2016,Arizona Diamondbacks,San Francisco Giants,65,12,out to Centerfield,Cloudy
 10-07-2016,Arizona Diamondbacks,San Francisco Giants,68,17,out to Centerfield,Sunny
@@ -1979,7 +1979,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 18-08-2016,New York Mets,San Francisco Giants,61,12,out to Centerfield,Cloudy
 19-08-2016,New York Mets,San Francisco Giants,60,13,out to Centerfield,Cloudy
 20-08-2016,New York Mets,San Francisco Giants,63,10,out to Centerfield,Overcast
-21-08-2016,New York Mets,San Francisco Giants,65,14,out to Centerfield.,Wind14mphouttoCenterfield
+21-08-2016,New York Mets,San Francisco Giants,65,14,out to Centerfield.,
 26-08-2016,Atlanta Braves,San Francisco Giants,64,13,out to Centerfield,Cloudy
 27-08-2016,Atlanta Braves,San Francisco Giants,64,13,out to Rightfield,Cloudy
 28-08-2016,Atlanta Braves,San Francisco Giants,68,6,out to Centerfield,Sunny
@@ -1993,21 +1993,21 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-09-2016,St. Louis Cardinals,San Francisco Giants,65,10,out to Rightfield,Sunny
 18-09-2016,St. Louis Cardinals,San Francisco Giants,82,6,out to Centerfield,Sunny
 27-09-2016,Colorado Rockies,San Francisco Giants,65,10,out to Centerfield,Sunny
-28-09-2016,Colorado Rockies,San Francisco Giants,55,12,out to Centerfield.,Wind12mphouttoCenterfield
+28-09-2016,Colorado Rockies,San Francisco Giants,55,12,out to Centerfield.,
 29-09-2016,Colorado Rockies,San Francisco Giants,58,13,out to Centerfield,Cloudy
 30-09-2016,Los Angeles Dodgers,San Francisco Giants,59,18,out to Centerfield,Sunny
 01-10-2016,Los Angeles Dodgers,San Francisco Giants,65,14,out to Centerfield,Sunny
-02-10-2016,Los Angeles Dodgers,San Francisco Giants,62,10,out to Centerfield.,Wind10mphouttoCenterfield
+02-10-2016,Los Angeles Dodgers,San Francisco Giants,62,10,out to Centerfield.,
 11-04-2016,Milwaukee Brewers,St. Louis Cardinals,50,13,out to Rightfield,Cloudy
 13-04-2016,Milwaukee Brewers,St. Louis Cardinals,62,7,from Right to Left,Sunny
 14-04-2016,Milwaukee Brewers,St. Louis Cardinals,67,7,in from Centerfield,Sunny
 15-04-2016,Cincinnati Reds,St. Louis Cardinals,72,8,from Right to Left,Sunny
 16-04-2016,Cincinnati Reds,St. Louis Cardinals,75,13,from Right to Left,Sunny
 17-04-2016,Cincinnati Reds,St. Louis Cardinals,78,11,out to Leftfield,Cloudy
-18-04-2016,Chicago Cubs,St. Louis Cardinals,75,15,from Right to Left.,Wind15mphfromRighttoLeft
+18-04-2016,Chicago Cubs,St. Louis Cardinals,75,15,from Right to Left.,
 19-04-2016,Chicago Cubs,St. Louis Cardinals,70,5,out to Leftfield,Overcast
-20-04-2016,Chicago Cubs,St. Louis Cardinals,69,10,from Right to Left.,Wind10mphfromRighttoLeft
-29-04-2016,Washington Nationals,St. Louis Cardinals,63,12,from Right to Left.,Wind12mphfromRighttoLeft
+20-04-2016,Chicago Cubs,St. Louis Cardinals,69,10,from Right to Left.,
+29-04-2016,Washington Nationals,St. Louis Cardinals,63,12,from Right to Left.,
 30-04-2016,Washington Nationals,St. Louis Cardinals,69,7,from Right to Left,Overcast
 01-05-2016,Washington Nationals,St. Louis Cardinals,68,8,out to Rightfield,Cloudy
 02-05-2016,Philadelphia Phillies,St. Louis Cardinals,56,8,from Left to Right,Cloudy
@@ -2020,7 +2020,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 17-05-2016,Colorado Rockies,St. Louis Cardinals,52,10,from Right to Left,Overcast
 18-05-2016,Colorado Rockies,St. Louis Cardinals,65,7,in from Leftfield,Sunny
 19-05-2016,Colorado Rockies,St. Louis Cardinals,69,6,from Right to Left,Overcast
-20-05-2016,Arizona Diamondbacks,St. Louis Cardinals,69,7,in from Centerfield.,Wind7mphinfromCenterfield
+20-05-2016,Arizona Diamondbacks,St. Louis Cardinals,69,7,in from Centerfield.,
 21-05-2016,Arizona Diamondbacks,St. Louis Cardinals,76,9,out to Rightfield,Cloudy
 22-05-2016,Arizona Diamondbacks,St. Louis Cardinals,80,9,from Left to Right,Sunny
 23-05-2016,Chicago Cubs,St. Louis Cardinals,79,5,from Right to Left,Sunny
@@ -2032,17 +2032,17 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-06-2016,Houston Astros,St. Louis Cardinals,89,7,from Right to Left,Sunny
 15-06-2016,Houston Astros,St. Louis Cardinals,95,10,out to Rightfield,Cloudy
 17-06-2016,Texas Rangers,St. Louis Cardinals,85,11,in from Rightfield,Sunny
-18-06-2016,Texas Rangers,St. Louis Cardinals,90,7,from Right to Left.,Wind7mphfromRighttoLeft
+18-06-2016,Texas Rangers,St. Louis Cardinals,90,7,from Right to Left.,
 19-06-2016,Texas Rangers,St. Louis Cardinals,90,8,out to Leftfield,Cloudy
 29-06-2016,Kansas City Royals,St. Louis Cardinals,78,9,in from Rightfield,Cloudy
 30-06-2016,Kansas City Royals,St. Louis Cardinals,79,8,out to Leftfield,Cloudy
 01-07-2016,Milwaukee Brewers,St. Louis Cardinals,80,7,in from Leftfield,Cloudy
-02-07-2016,Milwaukee Brewers,St. Louis Cardinals,65,3,in from Rightfield.,Wind3mphinfromRightfield
+02-07-2016,Milwaukee Brewers,St. Louis Cardinals,65,3,in from Rightfield.,
 03-07-2016,Milwaukee Brewers,St. Louis Cardinals,69,10,from Right to Left,Overcast
 04-07-2016,Pittsburgh Pirates,St. Louis Cardinals,76,5,from Right to Left,Drizzle
 05-07-2016,Pittsburgh Pirates,St. Louis Cardinals,90,6,from Right to Left,Sunny
 06-07-2016,Pittsburgh Pirates,St. Louis Cardinals,77,5,in from Leftfield,Overcast
-07-07-2016,Pittsburgh Pirates,St. Louis Cardinals,74,8,from Right to Left.,Wind8mphfromRighttoLeft
+07-07-2016,Pittsburgh Pirates,St. Louis Cardinals,74,8,from Right to Left.,
 15-07-2016,Miami Marlins,St. Louis Cardinals,84,11,in from Leftfield,Cloudy
 16-07-2016,Miami Marlins,St. Louis Cardinals,86,8,from Right to Left,Sunny
 17-07-2016,Miami Marlins,St. Louis Cardinals,93,12,out to Leftfield,Cloudy
@@ -2051,20 +2051,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 22-07-2016,Los Angeles Dodgers,St. Louis Cardinals,86,2,from Right to Left,Cloudy
 23-07-2016,Los Angeles Dodgers,St. Louis Cardinals,94,6,from Right to Left,Sunny
 24-07-2016,Los Angeles Dodgers,St. Louis Cardinals,96,9,from Right to Left,Sunny
-05-08-2016,Atlanta Braves,St. Louis Cardinals,83,4,from Left to Right.,Wind4mphfromLefttoRight
+05-08-2016,Atlanta Braves,St. Louis Cardinals,83,4,from Left to Right.,
 06-08-2016,Atlanta Braves,St. Louis Cardinals,84,9,from Left to Right,Cloudy
 07-08-2016,Atlanta Braves,St. Louis Cardinals,84,2,from Right to Left,Cloudy
 08-08-2016,Cincinnati Reds,St. Louis Cardinals,83,7,from Left to Right,Cloudy
 09-08-2016,Cincinnati Reds,St. Louis Cardinals,88,5,in from Rightfield,Sunny
 10-08-2016,Cincinnati Reds,St. Louis Cardinals,92,8,out to Leftfield,Cloudy
-23-08-2016,New York Mets,St. Louis Cardinals,75,9,from Right to Left.,Wind9mphfromRighttoLeft
+23-08-2016,New York Mets,St. Louis Cardinals,75,9,from Right to Left.,
 24-08-2016,New York Mets,St. Louis Cardinals,90,8,out to Centerfield,Cloudy
 25-08-2016,New York Mets,St. Louis Cardinals,91,6,out to Leftfield,Cloudy
-26-08-2016,Oakland Athletics,St. Louis Cardinals,81,3,in from Leftfield.,Wind3mphinfromLeftfield
+26-08-2016,Oakland Athletics,St. Louis Cardinals,81,3,in from Leftfield.,
 27-08-2016,Oakland Athletics,St. Louis Cardinals,87,7,from Right to Left,Cloudy
 28-08-2016,Oakland Athletics,St. Louis Cardinals,92,5,from Right to Left,Cloudy
 08-09-2016,Milwaukee Brewers,St. Louis Cardinals,75,2,out to Rightfield,Overcast
-09-09-2016,Milwaukee Brewers,St. Louis Cardinals,82,4,out to Rightfield.,Wind4mphouttoRightfield
+09-09-2016,Milwaukee Brewers,St. Louis Cardinals,82,4,out to Rightfield.,
 10-09-2016,Milwaukee Brewers,St. Louis Cardinals,75,13,in from Leftfield,Cloudy
 11-09-2016,Milwaukee Brewers,St. Louis Cardinals,77,1,out to Leftfield,Sunny
 12-09-2016,Chicago Cubs,St. Louis Cardinals,75,7,from Right to Left,Cloudy
@@ -2073,10 +2073,10 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-09-2016,Cincinnati Reds,St. Louis Cardinals,67,6,out to Rightfield,Sunny
 27-09-2016,Cincinnati Reds,St. Louis Cardinals,70,7,out to Rightfield,Sunny
 28-09-2016,Cincinnati Reds,St. Louis Cardinals,60,15,from Left to Right,Cloudy
-29-09-2016,Cincinnati Reds,St. Louis Cardinals,66,9,from Left to Right.,Wind9mphfromLefttoRight
-30-09-2016,Pittsburgh Pirates,St. Louis Cardinals,64,5,out to Rightfield.,Wind5mphouttoRightfield
-01-10-2016,Pittsburgh Pirates,St. Louis Cardinals,67,11,from Left to Right.,Wind11mphfromLefttoRight
-02-10-2016,Pittsburgh Pirates,St. Louis Cardinals,71,6,out to Leftfield.,Wind6mphouttoLeftfield
+29-09-2016,Cincinnati Reds,St. Louis Cardinals,66,9,from Left to Right.,
+30-09-2016,Pittsburgh Pirates,St. Louis Cardinals,64,5,out to Rightfield.,
+01-10-2016,Pittsburgh Pirates,St. Louis Cardinals,67,11,from Left to Right.,
+02-10-2016,Pittsburgh Pirates,St. Louis Cardinals,71,6,out to Leftfield.,
 03-04-2016,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
 04-04-2016,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
 05-04-2016,Toronto Blue Jays,Tampa Bay Rays,72,0,NoWind,InDome
@@ -2163,14 +2163,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-04-2016,Seattle Mariners,Texas Rangers,74,11,out to Centerfield,Sunny
 14-04-2016,Baltimore Orioles,Texas Rangers,71,4,in from Leftfield,Cloudy
 15-04-2016,Baltimore Orioles,Texas Rangers,71,10,in from Leftfield,Sunny
-16-04-2016,Baltimore Orioles,Texas Rangers,75,18,in from Centerfield.,Wind18mphinfromCenterfield
+16-04-2016,Baltimore Orioles,Texas Rangers,75,18,in from Centerfield.,
 19-04-2016,Houston Astros,Texas Rangers,75,5,from Right to Left,Overcast
-20-04-2016,Houston Astros,Texas Rangers,71,7,out to Centerfield.,Wind7mphouttoCenterfield
+20-04-2016,Houston Astros,Texas Rangers,71,7,out to Centerfield.,
 21-04-2016,Houston Astros,Texas Rangers,74,9,out to Centerfield,Cloudy
 25-04-2016,New York Yankees,Texas Rangers,82,10,from Right to Left,Cloudy
-26-04-2016,New York Yankees,Texas Rangers,80,15,in from Rightfield.,Wind15mphinfromRightfield
+26-04-2016,New York Yankees,Texas Rangers,80,15,in from Rightfield.,
 27-04-2016,New York Yankees,Texas Rangers,79,6,out to Centerfield,Sunny
-29-04-2016,Los Angeles Angels,Texas Rangers,72,9,in from Rightfield.,Wind9mphinfromRightfield
+29-04-2016,Los Angeles Angels,Texas Rangers,72,9,in from Rightfield.,
 30-04-2016,Los Angeles Angels,Texas Rangers,75,5,out to Centerfield,Sunny
 01-05-2016,Los Angeles Angels,Texas Rangers,71,16,from Left to Right,Sunny
 09-05-2016,Chicago White Sox,Texas Rangers,87,14,from Right to Left,Sunny
@@ -2180,12 +2180,12 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-05-2016,Toronto Blue Jays,Texas Rangers,71,10,from Left to Right,Sunny
 15-05-2016,Toronto Blue Jays,Texas Rangers,72,9,in from Centerfield,Overcast
 23-05-2016,Los Angeles Angels,Texas Rangers,80,11,from Right to Left,Cloudy
-24-05-2016,Los Angeles Angels,Texas Rangers,84,17,from Right to Left.,Wind17mphfromRighttoLeft
-25-05-2016,Los Angeles Angels,Texas Rangers,83,15,from Right to Left.,Wind15mphfromRighttoLeft
+24-05-2016,Los Angeles Angels,Texas Rangers,84,17,from Right to Left.,
+25-05-2016,Los Angeles Angels,Texas Rangers,83,15,from Right to Left.,
 27-05-2016,Pittsburgh Pirates,Texas Rangers,80,12,in from Centerfield,Cloudy
 28-05-2016,Pittsburgh Pirates,Texas Rangers,87,11,in from Centerfield,Cloudy
 29-05-2016,Pittsburgh Pirates,Texas Rangers,85,7,in from Centerfield,Cloudy
-03-06-2016,Seattle Mariners,Texas Rangers,78,11,in from Rightfield.,Wind11mphinfromRightfield
+03-06-2016,Seattle Mariners,Texas Rangers,78,11,in from Rightfield.,
 04-06-2016,Seattle Mariners,Texas Rangers,82,10,from Left to Right,Cloudy
 05-06-2016,Seattle Mariners,Texas Rangers,86,17,from Left to Right,Sunny
 06-06-2016,Houston Astros,Texas Rangers,86,9,from Left to Right,Sunny
@@ -2201,40 +2201,40 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 07-07-2016,Minnesota Twins,Texas Rangers,93,20,in from Rightfield,Sunny
 08-07-2016,Minnesota Twins,Texas Rangers,94,13,in from Rightfield,Sunny
 09-07-2016,Minnesota Twins,Texas Rangers,76,6,out to Centerfield,Rain
-10-07-2016,Minnesota Twins,Texas Rangers,91,11,from Right to Left.,Wind11mphfromRighttoLeft
+10-07-2016,Minnesota Twins,Texas Rangers,91,11,from Right to Left.,
 25-07-2016,Oakland Athletics,Texas Rangers,88,15,from Left to Right,Overcast
-26-07-2016,Oakland Athletics,Texas Rangers,89,10,from Left to Right.,Wind10mphfromLefttoRight
-27-07-2016,Oakland Athletics,Texas Rangers,89,5,from Right to Left.,Wind5mphfromRighttoLeft
-28-07-2016,Kansas City Royals,Texas Rangers,83,8,in from Centerfield.,Wind8mphinfromCenterfield
+26-07-2016,Oakland Athletics,Texas Rangers,89,10,from Left to Right.,
+27-07-2016,Oakland Athletics,Texas Rangers,89,5,from Right to Left.,
+28-07-2016,Kansas City Royals,Texas Rangers,83,8,in from Centerfield.,
 29-07-2016,Kansas City Royals,Texas Rangers,92,8,from Right to Left,Sunny
 30-07-2016,Kansas City Royals,Texas Rangers,95,11,in from Centerfield,Sunny
 31-07-2016,Kansas City Royals,Texas Rangers,96,8,in from Rightfield,Sunny
 10-08-2016,Colorado Rockies,Texas Rangers,99,11,in from Centerfield,Cloudy
 11-08-2016,Colorado Rockies,Texas Rangers,98,6,from Right to Left,Sunny
-12-08-2016,Detroit Tigers,Texas Rangers,80,8,from Right to Left.,Wind8mphfromRighttoLeft
+12-08-2016,Detroit Tigers,Texas Rangers,80,8,from Right to Left.,
 13-08-2016,Detroit Tigers,Texas Rangers,90,15,from Left to Right,Cloudy
-14-08-2016,Detroit Tigers,Texas Rangers,86,13,out to Rightfield.,Wind13mphouttoRightfield
-15-08-2016,Oakland Athletics,Texas Rangers,75,7,from Left to Right.,Wind7mphfromLefttoRight
+14-08-2016,Detroit Tigers,Texas Rangers,86,13,out to Rightfield.,
+15-08-2016,Oakland Athletics,Texas Rangers,75,7,from Left to Right.,
 16-08-2016,Oakland Athletics,Texas Rangers,79,10,from Left to Right,Overcast
 17-08-2016,Oakland Athletics,Texas Rangers,79,10,from Left to Right,Overcast
 25-08-2016,Cleveland Indians,Texas Rangers,92,15,from Right to Left,Sunny
-26-08-2016,Cleveland Indians,Texas Rangers,86,9,from Left to Right.,Wind9mphfromLefttoRight
+26-08-2016,Cleveland Indians,Texas Rangers,86,9,from Left to Right.,
 27-08-2016,Cleveland Indians,Texas Rangers,89,10,from Left to Right,Sunny
-28-08-2016,Cleveland Indians,Texas Rangers,90,6,from Left to Right.,Wind6mphfromLefttoRight
+28-08-2016,Cleveland Indians,Texas Rangers,90,6,from Left to Right.,
 29-08-2016,Seattle Mariners,Texas Rangers,81,3,out to Centerfield,Cloudy
 30-08-2016,Seattle Mariners,Texas Rangers,88,11,from Left to Right,Cloudy
 31-08-2016,Seattle Mariners,Texas Rangers,91,2,out to Rightfield,Cloudy
 02-09-2016,Houston Astros,Texas Rangers,85,8,from Left to Right,Cloudy
 03-09-2016,Houston Astros,Texas Rangers,87,7,from Left to Right,Cloudy
 04-09-2016,Houston Astros,Texas Rangers,90,9,in from Rightfield,Cloudy
-16-09-2016,Oakland Athletics,Texas Rangers,91,2,from Left to Right.,Wind2mphfromLefttoRight
+16-09-2016,Oakland Athletics,Texas Rangers,91,2,from Left to Right.,
 17-09-2016,Oakland Athletics,Texas Rangers,92,6,from Left to Right,Sunny
 18-09-2016,Oakland Athletics,Texas Rangers,93,7,from Left to Right,Cloudy
 19-09-2016,Los Angeles Angels,Texas Rangers,95,6,from Right to Left,Cloudy
 20-09-2016,Los Angeles Angels,Texas Rangers,94,10,in from Centerfield,Cloudy
 21-09-2016,Los Angeles Angels,Texas Rangers,90,4,in from Centerfield,Cloudy
 26-09-2016,Milwaukee Brewers,Texas Rangers,66,8,from Right to Left,Overcast
-27-09-2016,Milwaukee Brewers,Texas Rangers,74,2,out to Rightfield.,Wind2mphouttoRightfield
+27-09-2016,Milwaukee Brewers,Texas Rangers,74,2,out to Rightfield.,
 28-09-2016,Milwaukee Brewers,Texas Rangers,86,1,in unknown direction,Sunny
 30-09-2016,Tampa Bay Rays,Texas Rangers,77,3,in unknown direction,Sunny
 01-10-2016,Tampa Bay Rays,Texas Rangers,79,5,in from Rightfield,Sunny
@@ -2261,18 +2261,18 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 16-05-2016,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
 17-05-2016,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
 18-05-2016,Tampa Bay Rays,Toronto Blue Jays,68,0,NoWind,InDome
-27-05-2016,Boston Red Sox,Toronto Blue Jays,68,5,out to Centerfield.,Wind5mphouttoCenterfield
+27-05-2016,Boston Red Sox,Toronto Blue Jays,68,5,out to Centerfield.,
 28-05-2016,Boston Red Sox,Toronto Blue Jays,71,6,from Right to Left,Sunny
 29-05-2016,Boston Red Sox,Toronto Blue Jays,75,7,out to Centerfield,Sunny
 30-05-2016,New York Yankees,Toronto Blue Jays,78,13,in from Leftfield,Sunny
 31-05-2016,New York Yankees,Toronto Blue Jays,73,17,in from Centerfield,Sunny
 01-06-2016,New York Yankees,Toronto Blue Jays,62,14,from Right to Left,Sunny
-09-06-2016,Baltimore Orioles,Toronto Blue Jays,68,17,in from Centerfield.,Wind17mphinfromCenterfield
+09-06-2016,Baltimore Orioles,Toronto Blue Jays,68,17,in from Centerfield.,
 10-06-2016,Baltimore Orioles,Toronto Blue Jays,72,5,out to Centerfield,Cloudy
-11-06-2016,Baltimore Orioles,Toronto Blue Jays,82,21,in from Leftfield.,Wind21mphinfromLeftfield
+11-06-2016,Baltimore Orioles,Toronto Blue Jays,82,21,in from Leftfield.,
 12-06-2016,Baltimore Orioles,Toronto Blue Jays,67,18,in from Leftfield,Sunny
 13-06-2016,Philadelphia Phillies,Toronto Blue Jays,64,14,in from Leftfield,Cloudy
-14-06-2016,Philadelphia Phillies,Toronto Blue Jays,59,7,out to Centerfield.,Wind7mphouttoCenterfield
+14-06-2016,Philadelphia Phillies,Toronto Blue Jays,59,7,out to Centerfield.,
 21-06-2016,Arizona Diamondbacks,Toronto Blue Jays,77,17,from Left to Right,Sunny
 22-06-2016,Arizona Diamondbacks,Toronto Blue Jays,71,11,out to Centerfield,Cloudy
 30-06-2016,Cleveland Indians,Toronto Blue Jays,77,11,out to Centerfield,Sunny
@@ -2280,25 +2280,25 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 02-07-2016,Cleveland Indians,Toronto Blue Jays,76,11,out to Leftfield,Cloudy
 03-07-2016,Cleveland Indians,Toronto Blue Jays,68,8,out to Rightfield,Sunny
 04-07-2016,Kansas City Royals,Toronto Blue Jays,77,4,out to Leftfield,Sunny
-05-07-2016,Kansas City Royals,Toronto Blue Jays,86,15,from Left to Right.,Wind15mphfromLefttoRight
+05-07-2016,Kansas City Royals,Toronto Blue Jays,86,15,from Left to Right.,
 06-07-2016,Kansas City Royals,Toronto Blue Jays,74,10,out to Centerfield,Overcast
-07-07-2016,Detroit Tigers,Toronto Blue Jays,81,1,in unknown direction.,Wind1mphinunknowndirection
+07-07-2016,Detroit Tigers,Toronto Blue Jays,81,1,in unknown direction.,
 08-07-2016,Detroit Tigers,Toronto Blue Jays,68,0,NoWind,InDome
 09-07-2016,Detroit Tigers,Toronto Blue Jays,76,18,from Left to Right,Cloudy
 10-07-2016,Detroit Tigers,Toronto Blue Jays,79,7,in from Centerfield,Cloudy
 22-07-2016,Seattle Mariners,Toronto Blue Jays,89,18,from Left to Right,Sunny
 23-07-2016,Seattle Mariners,Toronto Blue Jays,89,13,in from Centerfield,Sunny
-24-07-2016,Seattle Mariners,Toronto Blue Jays,73,15,in from Rightfield.,Wind15mphinfromRightfield
+24-07-2016,Seattle Mariners,Toronto Blue Jays,73,15,in from Rightfield.,
 25-07-2016,San Diego Padres,Toronto Blue Jays,88,8,in from Leftfield,Cloudy
 26-07-2016,San Diego Padres,Toronto Blue Jays,76,10,out to Centerfield,Sunny
 27-07-2016,San Diego Padres,Toronto Blue Jays,76,4,out to Rightfield,Sunny
 29-07-2016,Baltimore Orioles,Toronto Blue Jays,76,2,from Right to Left,Sunny
-30-07-2016,Baltimore Orioles,Toronto Blue Jays,73,17,in from Rightfield.,Wind17mphinfromRightfield
+30-07-2016,Baltimore Orioles,Toronto Blue Jays,73,17,in from Rightfield.,
 31-07-2016,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
 08-08-2016,Tampa Bay Rays,Toronto Blue Jays,79,5,out to Rightfield,Sunny
-09-08-2016,Tampa Bay Rays,Toronto Blue Jays,77,6,out to Leftfield.,Wind6mphouttoLeftfield
+09-08-2016,Tampa Bay Rays,Toronto Blue Jays,77,6,out to Leftfield.,
 10-08-2016,Tampa Bay Rays,Toronto Blue Jays,84,10,out to Centerfield,Sunny
-12-08-2016,Houston Astros,Toronto Blue Jays,82,13,out to Rightfield.,Wind13mphouttoRightfield
+12-08-2016,Houston Astros,Toronto Blue Jays,82,13,out to Rightfield.,
 13-08-2016,Houston Astros,Toronto Blue Jays,68,0,NoWind,InDome
 14-08-2016,Houston Astros,Toronto Blue Jays,77,8,from Left to Right,Cloudy
 23-08-2016,Los Angeles Angels,Toronto Blue Jays,74,18,out to Centerfield,Sunny
@@ -2307,20 +2307,20 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-08-2016,Minnesota Twins,Toronto Blue Jays,84,14,in from Leftfield,Cloudy
 27-08-2016,Minnesota Twins,Toronto Blue Jays,74,7,out to Centerfield,Cloudy
 28-08-2016,Minnesota Twins,Toronto Blue Jays,77,5,out to Centerfield,Cloudy
-09-09-2016,Boston Red Sox,Toronto Blue Jays,77,3,out to Centerfield.,Wind3mphouttoCenterfield
+09-09-2016,Boston Red Sox,Toronto Blue Jays,77,3,out to Centerfield.,
 10-09-2016,Boston Red Sox,Toronto Blue Jays,75,2,out to Centerfield,Overcast
 11-09-2016,Boston Red Sox,Toronto Blue Jays,70,11,in from Centerfield,Sunny
 12-09-2016,Tampa Bay Rays,Toronto Blue Jays,71,3,from Right to Left,Sunny
 13-09-2016,Tampa Bay Rays,Toronto Blue Jays,77,11,out to Rightfield,Cloudy
-14-09-2016,Tampa Bay Rays,Toronto Blue Jays,64,10,in from Leftfield.,Wind10mphinfromLeftfield
+14-09-2016,Tampa Bay Rays,Toronto Blue Jays,64,10,in from Leftfield.,
 23-09-2016,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
 24-09-2016,New York Yankees,Toronto Blue Jays,63,8,out to Leftfield,Sunny
 25-09-2016,New York Yankees,Toronto Blue Jays,60,10,from Right to Left,Sunny
 26-09-2016,New York Yankees,Toronto Blue Jays,68,0,NoWind,InDome
 27-09-2016,Baltimore Orioles,Toronto Blue Jays,69,20,out to Rightfield,Sunny
-28-09-2016,Baltimore Orioles,Toronto Blue Jays,67,22,from Right to Left.,Wind22mphfromRighttoLeft
+28-09-2016,Baltimore Orioles,Toronto Blue Jays,67,22,from Right to Left.,
 29-09-2016,Baltimore Orioles,Toronto Blue Jays,68,0,NoWind,InDome
-07-04-2016,Miami Marlins,Washington Nationals,61,11,out to Rightfield.,Wind11mphouttoRightfield
+07-04-2016,Miami Marlins,Washington Nationals,61,11,out to Rightfield.,
 10-04-2016,Miami Marlins,Washington Nationals,43,2,out to Leftfield,Sunny
 11-04-2016,Atlanta Braves,Washington Nationals,72,10,out to Centerfield,Sunny
 12-04-2016,Atlanta Braves,Washington Nationals,61,14,in from Leftfield,Sunny
@@ -2334,16 +2334,16 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-04-2016,Philadelphia Phillies,Washington Nationals,55,12,in from Rightfield,Drizzle
 09-05-2016,Detroit Tigers,Washington Nationals,63,6,out to Rightfield,Overcast
 10-05-2016,Detroit Tigers,Washington Nationals,63,8,in from Rightfield,Cloudy
-11-05-2016,Detroit Tigers,Washington Nationals,61,4,in from Rightfield.,Wind4mphinfromRightfield
+11-05-2016,Detroit Tigers,Washington Nationals,61,4,in from Rightfield.,
 13-05-2016,Miami Marlins,Washington Nationals,74,12,from Left to Right,Sunny
 15-05-2016,Miami Marlins,Washington Nationals,59,21,out to Rightfield,Cloudy
-23-05-2016,New York Mets,Washington Nationals,61,1,out to Centerfield.,Wind1mphouttoCenterfield
+23-05-2016,New York Mets,Washington Nationals,61,1,out to Centerfield.,
 24-05-2016,New York Mets,Washington Nationals,83,8,from Left to Right,Cloudy
-25-05-2016,New York Mets,Washington Nationals,83,7,from Left to Right.,Wind7mphfromLefttoRight
+25-05-2016,New York Mets,Washington Nationals,83,7,from Left to Right.,
 26-05-2016,St. Louis Cardinals,Washington Nationals,83,4,out to Leftfield,Cloudy
 27-05-2016,St. Louis Cardinals,Washington Nationals,86,11,out to Leftfield,Cloudy
 28-05-2016,St. Louis Cardinals,Washington Nationals,87,6,out to Centerfield,Sunny
-29-05-2016,St. Louis Cardinals,Washington Nationals,84,6,out to Leftfield.,Wind6mphouttoLeftfield
+29-05-2016,St. Louis Cardinals,Washington Nationals,84,6,out to Leftfield.,
 10-06-2016,Philadelphia Phillies,Washington Nationals,81,10,from Left to Right,Cloudy
 11-06-2016,Philadelphia Phillies,Washington Nationals,84,5,out to Leftfield,Cloudy
 12-06-2016,Philadelphia Phillies,Washington Nationals,90,20,in from Leftfield,Sunny
@@ -2354,14 +2354,14 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 28-06-2016,New York Mets,Washington Nationals,74,7,in from Rightfield,Cloudy
 29-06-2016,New York Mets,Washington Nationals,80,7,from Left to Right,Sunny
 30-06-2016,Cincinnati Reds,Washington Nationals,81,8,from Right to Left,Cloudy
-01-07-2016,Cincinnati Reds,Washington Nationals,78,8,out to Centerfield.,Wind8mphouttoCenterfield
+01-07-2016,Cincinnati Reds,Washington Nationals,78,8,out to Centerfield.,
 02-07-2016,Cincinnati Reds,Washington Nationals,80,8,in from Leftfield,Cloudy
-03-07-2016,Cincinnati Reds,Washington Nationals,75,1,out to Leftfield.,Wind1mphouttoLeftfield
+03-07-2016,Cincinnati Reds,Washington Nationals,75,1,out to Leftfield.,
 04-07-2016,Milwaukee Brewers,Washington Nationals,72,2,from Right to Left,Overcast
 05-07-2016,Milwaukee Brewers,Washington Nationals,89,7,out to Rightfield,Cloudy
 06-07-2016,Milwaukee Brewers,Washington Nationals,91,4,in from Leftfield,Cloudy
 15-07-2016,Pittsburgh Pirates,Washington Nationals,90,4,out to Rightfield,Cloudy
-16-07-2016,Pittsburgh Pirates,Washington Nationals,76,9,out to Leftfield.,Wind9mphouttoLeftfield
+16-07-2016,Pittsburgh Pirates,Washington Nationals,76,9,out to Leftfield.,
 17-07-2016,Pittsburgh Pirates,Washington Nationals,87,4,from Left to Right,Cloudy
 19-07-2016,Los Angeles Dodgers,Washington Nationals,86,4,out to Leftfield,Cloudy
 20-07-2016,Los Angeles Dodgers,Washington Nationals,84,7,in from Rightfield,Cloudy
@@ -2373,7 +2373,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 06-08-2016,San Francisco Giants,Washington Nationals,84,10,out to Rightfield,Cloudy
 07-08-2016,San Francisco Giants,Washington Nationals,87,5,from Left to Right,Sunny
 09-08-2016,Cleveland Indians,Washington Nationals,79,3,out to Leftfield,Overcast
-10-08-2016,Cleveland Indians,Washington Nationals,91,11,from Right to Left.,Wind11mphfromRighttoLeft
+10-08-2016,Cleveland Indians,Washington Nationals,91,11,from Right to Left.,
 12-08-2016,Atlanta Braves,Washington Nationals,94,4,out to Centerfield,Cloudy
 13-08-2016,Atlanta Braves,Washington Nationals,96,11,out to Rightfield,Sunny
 14-08-2016,Atlanta Braves,Washington Nationals,96,9,out to Rightfield,Cloudy
@@ -2382,9 +2382,9 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 26-08-2016,Colorado Rockies,Washington Nationals,94,3,from Left to Right,Sunny
 27-08-2016,Colorado Rockies,Washington Nationals,88,8,in from Rightfield,Sunny
 28-08-2016,Colorado Rockies,Washington Nationals,86,3,from Right to Left,Sunny
-05-09-2016,Atlanta Braves,Washington Nationals,86,5,from Left to Right.,Wind5mphfromLefttoRight
+05-09-2016,Atlanta Braves,Washington Nationals,86,5,from Left to Right.,
 06-09-2016,Atlanta Braves,Washington Nationals,89,14,in from Leftfield,Sunny
-07-09-2016,Atlanta Braves,Washington Nationals,79,7,out to Centerfield.,Wind7mphouttoCenterfield
+07-09-2016,Atlanta Braves,Washington Nationals,79,7,out to Centerfield.,
 08-09-2016,Philadelphia Phillies,Washington Nationals,93,5,out to Rightfield,Sunny
 09-09-2016,Philadelphia Phillies,Washington Nationals,92,8,out to Leftfield,Sunny
 10-09-2016,Philadelphia Phillies,Washington Nationals,88,4,out to Leftfield,Cloudy
@@ -2394,7 +2394,7 @@ Date,AwayTeam,HomeTeam,temperature,windSpeed,windDirection,precipitation
 14-09-2016,New York Mets,Washington Nationals,93,7,from Left to Right,Sunny
 26-09-2016,Arizona Diamondbacks,Washington Nationals,70,5,from Right to Left,Overcast
 27-09-2016,Arizona Diamondbacks,Washington Nationals,75,6,out to Leftfield,Sunny
-28-09-2016,Arizona Diamondbacks,Washington Nationals,70,9,in from Rightfield.,Wind9mphinfromRightfield
+28-09-2016,Arizona Diamondbacks,Washington Nationals,70,9,in from Rightfield.,
 29-09-2016,Arizona Diamondbacks,Washington Nationals,70,14,in from Rightfield,Overcast
 30-09-2016,Miami Marlins,Washington Nationals,66,13,from Right to Left,Drizzle
 01-10-2016,Miami Marlins,Washington Nationals,66,4,in from Centerfield,Overcast

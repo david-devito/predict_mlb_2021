@@ -21,7 +21,7 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'recFIP' #lineups, recwOBA, winpct, weather, recFIP
+section = 'winpct' #lineups, recwOBA, winpct, weather, recFIP
 
 year = '2015'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
@@ -87,7 +87,8 @@ for hometeami in homeTeams:
                     windspeed = int(''.join(filter(str.isdigit, weather[1])))
                     if windspeed == 0: windDirection = 'NoWind'
                     else: windDirection = ' '.join(weather[1].split(' ')[3:])
-                    precipitation = weather[-1].replace(' ','').replace('.','')
+                    if len(weather) < 3: precipitation = ''
+                    else: precipitation = weather[-1].replace(' ','').replace('.','')
                 
                 ## RUNS SCORED BY EACH TEAM
                 t_runsScored = [int(x.text) for x in soup.find_all("div", {"class": "score"})]

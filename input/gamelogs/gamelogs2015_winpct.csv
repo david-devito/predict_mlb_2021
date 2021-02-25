@@ -1,0 +1,2371 @@
+Date,AwayTeam,HomeTeam,A_SeaWinPct,A_last3WinPct,A_last5WinPct,A_last10WinPct,H_SeaWinPct,H_last3WinPct,H_last5WinPct,H_last10WinPct
+10-04-2015,Kansas City Royals,Los Angeles Angels of Anaheim,100.0,0.33,nan,nan,66.67,0.33,nan,nan
+11-04-2015,Kansas City Royals,Los Angeles Angels of Anaheim,100.0,0.33,0.6,nan,50.0,0.33,0.4,nan
+12-04-2015,Kansas City Royals,Los Angeles Angels of Anaheim,100.0,0.33,0.6,nan,40.0,0.0,0.4,nan
+20-04-2015,Oakland Athletics,Los Angeles Angels of Anaheim,46.15,0.33,0.2,0.4,41.67,0.0,0.4,0.3
+21-04-2015,Oakland Athletics,Los Angeles Angels of Anaheim,50.0,0.0,0.2,0.3,38.46,0.0,0.2,0.3
+22-04-2015,Oakland Athletics,Los Angeles Angels of Anaheim,46.67,0.33,0.4,0.4,42.86,0.0,0.0,0.3
+23-04-2015,Oakland Athletics,Los Angeles Angels of Anaheim,50.0,0.0,0.2,0.4,40.0,0.33,0.2,0.4
+24-04-2015,Texas Rangers,Los Angeles Angels of Anaheim,40.0,0.33,0.2,0.3,43.75,0.0,0.2,0.3
+25-04-2015,Texas Rangers,Los Angeles Angels of Anaheim,37.5,0.0,0.2,0.3,47.06,0.33,0.4,0.4
+26-04-2015,Texas Rangers,Los Angeles Angels of Anaheim,35.29,0.0,0.2,0.3,50.0,0.33,0.4,0.4
+04-05-2015,Seattle Mariners,Los Angeles Angels of Anaheim,40.0,0.0,0.0,0.3,44.0,0.0,0.2,0.4
+05-05-2015,Seattle Mariners,Los Angeles Angels of Anaheim,42.31,0.0,0.0,0.3,42.31,0.0,0.0,0.3
+06-05-2015,Seattle Mariners,Los Angeles Angels of Anaheim,40.74,0.33,0.2,0.4,44.44,0.0,0.0,0.2
+07-05-2015,Houston Astros,Los Angeles Angels of Anaheim,64.29,0.0,0.2,0.6,46.43,0.33,0.2,0.3
+08-05-2015,Houston Astros,Los Angeles Angels of Anaheim,65.52,0.0,0.0,0.5,44.83,0.33,0.4,0.4
+09-05-2015,Houston Astros,Los Angeles Angels of Anaheim,63.33,0.33,0.2,0.5,46.67,0.0,0.4,0.3
+10-05-2015,Houston Astros,Los Angeles Angels of Anaheim,64.52,0.0,0.2,0.4,45.16,0.33,0.4,0.3
+12-05-2015,Colorado Rockies,Los Angeles Angels of Anaheim,39.29,0.0,0.0,0.0,46.88,0.0,0.2,0.3
+13-05-2015,Colorado Rockies,Los Angeles Angels of Anaheim,37.93,0.0,0.0,0.0,48.48,0.33,0.4,0.4
+25-05-2015,San Diego Padres,Los Angeles Angels of Anaheim,46.67,0.0,0.0,0.1,50.0,0.0,0.2,0.4
+26-05-2015,San Diego Padres,Los Angeles Angels of Anaheim,45.65,0.33,0.2,0.2,51.11,0.0,0.2,0.3
+27-05-2015,San Diego Padres,Los Angeles Angels of Anaheim,46.81,0.0,0.2,0.2,50.0,0.33,0.2,0.4
+28-05-2015,Detroit Tigers,Los Angeles Angels of Anaheim,58.33,0.33,0.2,0.4,48.94,0.0,0.2,0.4
+29-05-2015,Detroit Tigers,Los Angeles Angels of Anaheim,57.14,0.33,0.4,0.5,50.0,0.0,0.2,0.3
+30-05-2015,Detroit Tigers,Los Angeles Angels of Anaheim,56.0,0.0,0.4,0.4,51.02,0.33,0.2,0.3
+31-05-2015,Detroit Tigers,Los Angeles Angels of Anaheim,54.9,0.0,0.2,0.3,52.0,0.33,0.4,0.4
+01-06-2015,Tampa Bay Rays,Los Angeles Angels of Anaheim,50.98,0.33,0.2,0.2,52.94,0.33,0.6,0.4
+02-06-2015,Tampa Bay Rays,Los Angeles Angels of Anaheim,50.0,0.33,0.4,0.2,53.85,0.33,0.6,0.5
+03-06-2015,Tampa Bay Rays,Los Angeles Angels of Anaheim,50.94,0.0,0.4,0.2,52.83,0.33,0.6,0.6
+12-06-2015,Oakland Athletics,Los Angeles Angels of Anaheim,40.32,0.33,0.2,0.4,50.0,0.0,0.2,0.2
+13-06-2015,Oakland Athletics,Los Angeles Angels of Anaheim,39.68,0.33,0.4,0.4,50.82,0.33,0.4,0.2
+14-06-2015,Oakland Athletics,Los Angeles Angels of Anaheim,39.06,0.0,0.4,0.3,51.61,0.33,0.4,0.3
+15-06-2015,Arizona Diamondbacks,Los Angeles Angels of Anaheim,48.39,0.33,0.4,0.4,50.79,0.33,0.6,0.4
+16-06-2015,Arizona Diamondbacks,Los Angeles Angels of Anaheim,49.21,0.33,0.6,0.4,50.0,0.0,0.4,0.4
+22-06-2015,Houston Astros,Los Angeles Angels of Anaheim,57.75,0.0,0.2,0.5,50.0,0.0,0.4,0.4
+23-06-2015,Houston Astros,Los Angeles Angels of Anaheim,56.94,0.33,0.2,0.6,50.7,0.0,0.2,0.3
+24-06-2015,Houston Astros,Los Angeles Angels of Anaheim,57.53,0.0,0.2,0.5,50.0,0.33,0.2,0.4
+26-06-2015,Seattle Mariners,Los Angeles Angels of Anaheim,45.21,0.33,0.2,0.4,50.68,0.0,0.2,0.4
+27-06-2015,Seattle Mariners,Los Angeles Angels of Anaheim,45.95,0.0,0.2,0.4,50.0,0.33,0.4,0.4
+28-06-2015,Seattle Mariners,Los Angeles Angels of Anaheim,45.33,0.33,0.4,0.4,50.67,0.0,0.2,0.4
+29-06-2015,New York Yankees,Los Angeles Angels of Anaheim,53.95,0.33,0.4,0.4,51.32,0.33,0.4,0.4
+30-06-2015,New York Yankees,Los Angeles Angels of Anaheim,53.25,0.0,0.4,0.3,51.95,0.33,0.4,0.4
+01-07-2015,New York Yankees,Los Angeles Angels of Anaheim,52.56,0.0,0.2,0.3,52.56,0.33,0.6,0.5
+17-07-2015,Boston Red Sox,Los Angeles Angels of Anaheim,47.19,0.33,0.4,0.6,54.55,0.0,0.2,0.6
+18-07-2015,Boston Red Sox,Los Angeles Angels of Anaheim,46.67,0.0,0.2,0.5,55.06,0.33,0.4,0.6
+21-07-2015,Minnesota Twins,Los Angeles Angels of Anaheim,54.35,0.0,0.4,0.6,56.52,0.33,0.6,0.6
+22-07-2015,Minnesota Twins,Los Angeles Angels of Anaheim,53.76,0.0,0.2,0.5,56.99,0.33,0.6,0.6
+23-07-2015,Minnesota Twins,Los Angeles Angels of Anaheim,53.19,0.0,0.0,0.4,57.45,0.33,0.6,0.7
+24-07-2015,Texas Rangers,Los Angeles Angels of Anaheim,47.87,0.33,0.2,0.3,56.84,0.33,0.6,0.7
+25-07-2015,Texas Rangers,Los Angeles Angels of Anaheim,48.42,0.33,0.4,0.3,56.25,0.0,0.4,0.7
+26-07-2015,Texas Rangers,Los Angeles Angels of Anaheim,48.96,0.33,0.6,0.4,55.67,0.0,0.2,0.6
+03-08-2015,Cleveland Indians,Los Angeles Angels of Anaheim,46.15,0.0,0.4,0.3,52.88,0.0,0.0,0.1
+04-08-2015,Cleveland Indians,Los Angeles Angels of Anaheim,45.71,0.0,0.2,0.3,53.33,0.0,0.0,0.1
+05-08-2015,Cleveland Indians,Los Angeles Angels of Anaheim,46.23,0.0,0.0,0.3,52.83,0.33,0.2,0.2
+07-08-2015,Baltimore Orioles,Los Angeles Angels of Anaheim,51.4,0.0,0.2,0.5,53.27,0.0,0.2,0.1
+08-08-2015,Baltimore Orioles,Los Angeles Angels of Anaheim,50.93,0.33,0.4,0.5,53.7,0.33,0.4,0.2
+09-08-2015,Baltimore Orioles,Los Angeles Angels of Anaheim,51.38,0.0,0.2,0.4,53.21,0.33,0.4,0.3
+17-08-2015,Chicago White Sox,Los Angeles Angels of Anaheim,47.83,0.0,0.2,0.3,51.28,0.0,0.2,0.2
+18-08-2015,Chicago White Sox,Los Angeles Angels of Anaheim,47.41,0.33,0.2,0.4,51.69,0.0,0.0,0.2
+19-08-2015,Chicago White Sox,Los Angeles Angels of Anaheim,47.01,0.0,0.2,0.4,52.1,0.33,0.2,0.2
+20-08-2015,Chicago White Sox,Los Angeles Angels of Anaheim,46.61,0.0,0.2,0.4,52.5,0.33,0.4,0.3
+21-08-2015,Toronto Blue Jays,Los Angeles Angels of Anaheim,54.55,0.33,0.4,0.6,52.07,0.33,0.6,0.4
+22-08-2015,Toronto Blue Jays,Los Angeles Angels of Anaheim,54.92,0.0,0.4,0.5,51.64,0.0,0.4,0.4
+23-08-2015,Toronto Blue Jays,Los Angeles Angels of Anaheim,55.28,0.33,0.4,0.5,51.22,0.0,0.2,0.3
+04-09-2015,Texas Rangers,Los Angeles Angels of Anaheim,53.03,0.33,0.4,0.5,50.38,0.33,0.2,0.3
+05-09-2015,Texas Rangers,Los Angeles Angels of Anaheim,52.63,0.33,0.4,0.6,50.75,0.33,0.4,0.3
+06-09-2015,Texas Rangers,Los Angeles Angels of Anaheim,52.99,0.0,0.4,0.6,50.37,0.33,0.6,0.4
+07-09-2015,Los Angeles Dodgers,Los Angeles Angels of Anaheim,57.35,0.33,0.4,0.6,50.74,0.0,0.4,0.3
+08-09-2015,Los Angeles Dodgers,Los Angeles Angels of Anaheim,57.66,0.33,0.6,0.6,50.36,0.33,0.4,0.4
+09-09-2015,Los Angeles Dodgers,Los Angeles Angels of Anaheim,57.97,0.33,0.6,0.7,50.0,0.0,0.2,0.4
+11-09-2015,Houston Astros,Los Angeles Angels of Anaheim,54.29,0.0,0.2,0.3,50.36,0.0,0.2,0.4
+12-09-2015,Houston Astros,Los Angeles Angels of Anaheim,53.9,0.33,0.2,0.3,50.71,0.33,0.2,0.5
+13-09-2015,Houston Astros,Los Angeles Angels of Anaheim,53.52,0.0,0.2,0.3,51.06,0.33,0.4,0.5
+25-09-2015,Seattle Mariners,Los Angeles Angels of Anaheim,48.37,0.0,0.4,0.5,51.32,0.33,0.2,0.5
+26-09-2015,Seattle Mariners,Los Angeles Angels of Anaheim,48.05,0.0,0.2,0.4,51.63,0.33,0.4,0.5
+27-09-2015,Seattle Mariners,Los Angeles Angels of Anaheim,47.74,0.0,0.0,0.4,51.95,0.33,0.6,0.6
+28-09-2015,Oakland Athletics,Los Angeles Angels of Anaheim,41.67,0.0,0.2,0.2,52.26,0.33,0.6,0.6
+29-09-2015,Oakland Athletics,Los Angeles Angels of Anaheim,41.4,0.0,0.2,0.1,52.56,0.33,0.6,0.6
+30-09-2015,Oakland Athletics,Los Angeles Angels of Anaheim,41.14,0.0,0.0,0.1,52.87,0.33,0.6,0.6
+06-04-2015,San Francisco Giants,Arizona Diamondbacks,0,0.33,0.2,0.5,0,0.0,0.2,0.5
+07-04-2015,San Francisco Giants,Arizona Diamondbacks,100.0,nan,nan,nan,0.0,nan,nan,nan
+08-04-2015,San Francisco Giants,Arizona Diamondbacks,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+10-04-2015,Los Angeles Dodgers,Arizona Diamondbacks,66.67,0.0,nan,nan,33.33,0.33,nan,nan
+11-04-2015,Los Angeles Dodgers,Arizona Diamondbacks,50.0,0.33,0.4,nan,50.0,0.0,0.2,nan
+12-04-2015,Los Angeles Dodgers,Arizona Diamondbacks,40.0,0.0,0.2,nan,60.0,0.33,0.4,nan
+21-04-2015,Texas Rangers,Arizona Diamondbacks,38.46,0.0,0.2,0.3,53.85,0.0,0.4,0.4
+22-04-2015,Texas Rangers,Arizona Diamondbacks,42.86,0.0,0.2,0.3,50.0,0.33,0.4,0.4
+24-04-2015,Pittsburgh Pirates,Arizona Diamondbacks,50.0,0.33,0.2,0.4,53.33,0.0,0.2,0.4
+25-04-2015,Pittsburgh Pirates,Arizona Diamondbacks,52.94,0.33,0.4,0.5,50.0,0.33,0.4,0.4
+26-04-2015,Pittsburgh Pirates,Arizona Diamondbacks,55.56,0.33,0.6,0.6,47.06,0.0,0.2,0.4
+27-04-2015,Colorado Rockies,Arizona Diamondbacks,55.56,0.33,0.6,0.3,44.44,0.0,0.2,0.4
+28-04-2015,Colorado Rockies,Arizona Diamondbacks,57.89,0.0,0.4,0.3,42.11,0.0,0.0,0.3
+29-04-2015,Colorado Rockies,Arizona Diamondbacks,55.0,0.33,0.4,0.4,45.0,0.0,0.0,0.2
+07-05-2015,San Diego Padres,Arizona Diamondbacks,51.72,0.0,0.2,0.3,46.15,0.33,0.2,0.3
+08-05-2015,San Diego Padres,Arizona Diamondbacks,50.0,0.33,0.2,0.4,48.15,0.33,0.4,0.4
+09-05-2015,San Diego Padres,Arizona Diamondbacks,51.61,0.0,0.2,0.4,46.43,0.33,0.6,0.5
+10-05-2015,San Diego Padres,Arizona Diamondbacks,53.12,0.33,0.4,0.5,44.83,0.0,0.4,0.4
+11-05-2015,Washington Nationals,Arizona Diamondbacks,53.12,0.33,0.6,0.6,46.67,0.0,0.2,0.3
+12-05-2015,Washington Nationals,Arizona Diamondbacks,54.55,0.33,0.6,0.7,45.16,0.33,0.2,0.4
+13-05-2015,Washington Nationals,Arizona Diamondbacks,52.94,0.33,0.6,0.7,46.88,0.0,0.2,0.4
+22-05-2015,Chicago Cubs,Arizona Diamondbacks,57.5,0.33,0.2,0.6,47.5,0.33,0.6,0.4
+23-05-2015,Chicago Cubs,Arizona Diamondbacks,56.1,0.33,0.4,0.6,48.78,0.33,0.6,0.4
+24-05-2015,Chicago Cubs,Arizona Diamondbacks,57.14,0.0,0.4,0.5,47.62,0.33,0.6,0.5
+01-06-2015,Atlanta Braves,Arizona Diamondbacks,50.0,0.33,0.2,0.4,46.94,0.33,0.4,0.4
+02-06-2015,Atlanta Braves,Arizona Diamondbacks,50.98,0.33,0.4,0.4,46.0,0.0,0.4,0.3
+03-06-2015,Atlanta Braves,Arizona Diamondbacks,50.0,0.33,0.6,0.4,47.06,0.0,0.2,0.3
+04-06-2015,New York Mets,Arizona Diamondbacks,53.7,0.0,0.4,0.5,48.08,0.33,0.2,0.3
+05-06-2015,New York Mets,Arizona Diamondbacks,54.55,0.0,0.2,0.4,47.17,0.33,0.4,0.4
+06-06-2015,New York Mets,Arizona Diamondbacks,53.57,0.33,0.2,0.4,48.15,0.0,0.4,0.4
+07-06-2015,New York Mets,Arizona Diamondbacks,52.63,0.0,0.2,0.3,49.09,0.33,0.4,0.5
+17-06-2015,Los Angeles Angels of Anaheim,Arizona Diamondbacks,50.77,0.0,0.2,0.4,48.44,0.33,0.6,0.4
+18-06-2015,Los Angeles Angels of Anaheim,Arizona Diamondbacks,50.0,0.33,0.2,0.5,49.23,0.0,0.4,0.4
+19-06-2015,San Diego Padres,Arizona Diamondbacks,47.83,0.0,0.0,0.2,48.48,0.33,0.4,0.5
+20-06-2015,San Diego Padres,Arizona Diamondbacks,47.14,0.33,0.2,0.3,49.25,0.0,0.2,0.5
+21-06-2015,San Diego Padres,Arizona Diamondbacks,47.89,0.0,0.2,0.2,48.53,0.33,0.4,0.6
+29-06-2015,Los Angeles Dodgers,Arizona Diamondbacks,55.84,0.0,0.4,0.4,48.0,0.0,0.0,0.3
+30-06-2015,Los Angeles Dodgers,Arizona Diamondbacks,55.13,0.33,0.4,0.5,48.68,0.33,0.2,0.3
+01-07-2015,Los Angeles Dodgers,Arizona Diamondbacks,55.7,0.0,0.2,0.4,48.05,0.33,0.4,0.4
+02-07-2015,Colorado Rockies,Arizona Diamondbacks,43.59,0.33,0.2,0.4,47.44,0.0,0.4,0.3
+03-07-2015,Colorado Rockies,Arizona Diamondbacks,43.04,0.0,0.2,0.3,48.1,0.0,0.2,0.3
+04-07-2015,Colorado Rockies,Arizona Diamondbacks,42.5,0.0,0.2,0.3,48.75,0.33,0.2,0.3
+05-07-2015,Colorado Rockies,Arizona Diamondbacks,41.98,0.0,0.0,0.2,49.38,0.33,0.4,0.4
+17-07-2015,San Francisco Giants,Arizona Diamondbacks,51.69,0.33,0.4,0.3,48.28,0.0,0.2,0.5
+18-07-2015,San Francisco Giants,Arizona Diamondbacks,52.22,0.33,0.6,0.4,47.73,0.0,0.0,0.4
+19-07-2015,San Francisco Giants,Arizona Diamondbacks,52.75,0.33,0.6,0.5,47.19,0.0,0.0,0.3
+20-07-2015,Miami Marlins,Arizona Diamondbacks,41.3,0.0,0.2,0.3,46.67,0.0,0.0,0.2
+21-07-2015,Miami Marlins,Arizona Diamondbacks,40.86,0.0,0.0,0.3,47.25,0.0,0.0,0.2
+22-07-2015,Miami Marlins,Arizona Diamondbacks,41.49,0.0,0.0,0.3,46.74,0.33,0.2,0.2
+23-07-2015,Milwaukee Brewers,Arizona Diamondbacks,44.21,0.33,0.6,0.6,46.24,0.0,0.2,0.1
+24-07-2015,Milwaukee Brewers,Arizona Diamondbacks,43.75,0.0,0.4,0.5,46.81,0.0,0.2,0.1
+25-07-2015,Milwaukee Brewers,Arizona Diamondbacks,44.33,0.0,0.2,0.5,46.32,0.33,0.2,0.2
+26-07-2015,Milwaukee Brewers,Arizona Diamondbacks,43.88,0.33,0.2,0.5,46.88,0.0,0.2,0.2
+07-08-2015,Cincinnati Reds,Arizona Diamondbacks,45.28,0.0,0.2,0.5,48.6,0.33,0.4,0.5
+08-08-2015,Cincinnati Reds,Arizona Diamondbacks,44.86,0.0,0.2,0.4,49.07,0.0,0.2,0.4
+09-08-2015,Cincinnati Reds,Arizona Diamondbacks,45.37,0.0,0.0,0.3,48.62,0.33,0.4,0.4
+10-08-2015,Philadelphia Phillies,Arizona Diamondbacks,40.18,0.33,0.4,0.5,49.09,0.0,0.2,0.3
+11-08-2015,Philadelphia Phillies,Arizona Diamondbacks,39.82,0.33,0.6,0.5,49.55,0.33,0.4,0.4
+12-08-2015,Philadelphia Phillies,Arizona Diamondbacks,39.47,0.0,0.4,0.4,50.0,0.33,0.4,0.5
+24-08-2015,St. Louis Cardinals,Arizona Diamondbacks,63.41,0.0,0.2,0.4,50.41,0.33,0.6,0.5
+25-08-2015,St. Louis Cardinals,Arizona Diamondbacks,63.71,0.33,0.2,0.4,50.0,0.33,0.6,0.5
+26-08-2015,St. Louis Cardinals,Arizona Diamondbacks,64.0,0.33,0.4,0.4,49.6,0.0,0.4,0.5
+27-08-2015,St. Louis Cardinals,Arizona Diamondbacks,64.29,0.33,0.6,0.5,49.21,0.0,0.2,0.4
+28-08-2015,Oakland Athletics,Arizona Diamondbacks,42.97,0.0,0.4,0.4,48.82,0.0,0.0,0.4
+29-08-2015,Oakland Athletics,Arizona Diamondbacks,42.64,0.0,0.2,0.4,49.22,0.0,0.0,0.4
+30-08-2015,Oakland Athletics,Arizona Diamondbacks,43.08,0.0,0.0,0.3,48.84,0.33,0.2,0.4
+07-09-2015,San Francisco Giants,Arizona Diamondbacks,51.82,0.33,0.2,0.1,47.45,0.0,0.0,0.2
+08-09-2015,San Francisco Giants,Arizona Diamondbacks,51.45,0.33,0.4,0.2,47.83,0.0,0.0,0.2
+09-09-2015,San Francisco Giants,Arizona Diamondbacks,51.8,0.0,0.4,0.2,47.48,0.33,0.2,0.3
+11-09-2015,Los Angeles Dodgers,Arizona Diamondbacks,57.55,0.33,0.6,0.7,47.86,0.0,0.2,0.3
+12-09-2015,Los Angeles Dodgers,Arizona Diamondbacks,57.14,0.0,0.4,0.6,48.23,0.33,0.4,0.3
+13-09-2015,Los Angeles Dodgers,Arizona Diamondbacks,57.45,0.0,0.2,0.5,47.89,0.33,0.4,0.3
+14-09-2015,San Diego Padres,Arizona Diamondbacks,46.53,0.0,0.0,0.2,47.55,0.0,0.4,0.3
+15-09-2015,San Diego Padres,Arizona Diamondbacks,46.9,0.0,0.0,0.2,47.22,0.0,0.2,0.3
+16-09-2015,San Diego Padres,Arizona Diamondbacks,46.58,0.33,0.2,0.3,47.59,0.0,0.0,0.3
+29-09-2015,Colorado Rockies,Arizona Diamondbacks,42.31,0.33,0.4,0.3,48.08,0.0,0.2,0.4
+30-09-2015,Colorado Rockies,Arizona Diamondbacks,42.04,0.33,0.6,0.3,48.41,0.33,0.4,0.4
+01-10-2015,Colorado Rockies,Arizona Diamondbacks,41.77,0.0,0.4,0.3,48.73,0.33,0.4,0.5
+02-10-2015,Houston Astros,Arizona Diamondbacks,52.83,0.0,0.4,0.4,49.06,0.33,0.6,0.5
+03-10-2015,Houston Astros,Arizona Diamondbacks,53.12,0.33,0.4,0.4,48.75,0.33,0.6,0.5
+04-10-2015,Houston Astros,Arizona Diamondbacks,53.42,0.33,0.4,0.5,48.45,0.0,0.4,0.5
+10-04-2015,New York Mets,Atlanta Braves,66.67,0.0,nan,nan,100.0,0.33,nan,nan
+11-04-2015,New York Mets,Atlanta Braves,50.0,0.33,0.4,nan,100.0,0.33,0.6,nan
+12-04-2015,New York Mets,Atlanta Braves,40.0,0.0,0.2,nan,100.0,0.33,0.6,nan
+13-04-2015,Miami Marlins,Atlanta Braves,16.67,0.0,0.2,nan,83.33,0.33,0.6,nan
+14-04-2015,Miami Marlins,Atlanta Braves,14.29,0.0,0.2,nan,85.71,0.0,0.4,nan
+15-04-2015,Miami Marlins,Atlanta Braves,25.0,0.0,0.0,nan,75.0,0.33,0.4,nan
+27-04-2015,Washington Nationals,Atlanta Braves,36.84,0.0,0.0,0.3,50.0,0.33,0.2,0.3
+28-04-2015,Washington Nationals,Atlanta Braves,35.0,0.0,0.0,0.2,52.63,0.0,0.2,0.2
+29-04-2015,Washington Nationals,Atlanta Braves,38.1,0.0,0.0,0.2,50.0,0.33,0.4,0.3
+30-04-2015,Cincinnati Reds,Atlanta Braves,47.62,0.33,0.4,0.5,47.62,0.0,0.2,0.2
+01-05-2015,Cincinnati Reds,Atlanta Braves,50.0,0.0,0.4,0.4,45.45,0.0,0.2,0.2
+02-05-2015,Cincinnati Reds,Atlanta Braves,47.83,0.33,0.4,0.4,47.83,0.0,0.0,0.2
+03-05-2015,Cincinnati Reds,Atlanta Braves,50.0,0.0,0.2,0.3,45.83,0.33,0.2,0.3
+04-05-2015,Philadelphia Phillies,Atlanta Braves,34.62,0.0,0.0,0.2,48.0,0.0,0.2,0.3
+05-05-2015,Philadelphia Phillies,Atlanta Braves,37.04,0.33,0.2,0.3,46.15,0.33,0.4,0.3
+06-05-2015,Philadelphia Phillies,Atlanta Braves,35.71,0.33,0.4,0.3,48.15,0.0,0.2,0.3
+19-05-2015,Tampa Bay Rays,Atlanta Braves,53.85,0.0,0.2,0.4,48.65,0.33,0.4,0.3
+20-05-2015,Tampa Bay Rays,Atlanta Braves,55.0,0.33,0.2,0.4,47.37,0.33,0.6,0.4
+21-05-2015,Milwaukee Brewers,Atlanta Braves,36.59,0.33,0.4,0.4,48.72,0.0,0.4,0.4
+22-05-2015,Milwaukee Brewers,Atlanta Braves,35.71,0.0,0.4,0.3,50.0,0.33,0.4,0.5
+23-05-2015,Milwaukee Brewers,Atlanta Braves,37.21,0.0,0.2,0.3,48.78,0.33,0.4,0.5
+24-05-2015,Milwaukee Brewers,Atlanta Braves,36.36,0.33,0.2,0.4,50.0,0.0,0.4,0.5
+05-06-2015,Pittsburgh Pirates,Atlanta Braves,54.72,0.33,0.4,0.6,49.06,0.0,0.4,0.4
+06-06-2015,Pittsburgh Pirates,Atlanta Braves,55.56,0.33,0.6,0.6,48.15,0.0,0.2,0.4
+07-06-2015,Pittsburgh Pirates,Atlanta Braves,54.55,0.33,0.6,0.6,49.09,0.0,0.0,0.3
+08-06-2015,San Diego Padres,Atlanta Braves,50.0,0.33,0.6,0.6,48.21,0.33,0.2,0.4
+09-06-2015,San Diego Padres,Atlanta Braves,50.85,0.0,0.4,0.5,47.37,0.0,0.2,0.4
+10-06-2015,San Diego Padres,Atlanta Braves,50.0,0.33,0.4,0.6,48.28,0.0,0.2,0.3
+11-06-2015,San Diego Padres,Atlanta Braves,49.18,0.0,0.2,0.5,49.15,0.33,0.2,0.3
+17-06-2015,Boston Red Sox,Atlanta Braves,42.42,0.0,0.0,0.1,47.69,0.33,0.4,0.4
+18-06-2015,Boston Red Sox,Atlanta Braves,41.79,0.33,0.2,0.1,48.48,0.0,0.2,0.4
+19-06-2015,New York Mets,Atlanta Braves,52.94,0.0,0.4,0.5,47.76,0.33,0.4,0.4
+20-06-2015,New York Mets,Atlanta Braves,52.17,0.0,0.2,0.5,48.53,0.0,0.2,0.3
+21-06-2015,New York Mets,Atlanta Braves,51.43,0.0,0.0,0.4,49.28,0.33,0.4,0.4
+30-06-2015,Washington Nationals,Atlanta Braves,55.26,0.33,0.6,0.8,47.37,0.0,0.0,0.3
+01-07-2015,Washington Nationals,Atlanta Braves,55.84,0.0,0.4,0.7,46.75,0.33,0.2,0.3
+02-07-2015,Washington Nationals,Atlanta Braves,55.13,0.33,0.4,0.7,47.44,0.0,0.2,0.2
+03-07-2015,Philadelphia Phillies,Atlanta Braves,33.33,0.0,0.0,0.2,48.1,0.33,0.4,0.2
+04-07-2015,Philadelphia Phillies,Atlanta Braves,32.93,0.0,0.0,0.1,48.75,0.33,0.4,0.3
+05-07-2015,Philadelphia Phillies,Atlanta Braves,32.53,0.0,0.0,0.1,49.38,0.33,0.6,0.4
+17-07-2015,Chicago Cubs,Atlanta Braves,54.02,0.0,0.0,0.4,47.19,0.0,0.0,0.3
+18-07-2015,Chicago Cubs,Atlanta Braves,53.41,0.33,0.2,0.4,47.78,0.0,0.0,0.2
+19-07-2015,Chicago Cubs,Atlanta Braves,53.93,0.0,0.2,0.3,47.25,0.33,0.2,0.3
+20-07-2015,Los Angeles Dodgers,Atlanta Braves,56.99,0.33,0.4,0.5,46.74,0.0,0.2,0.2
+21-07-2015,Los Angeles Dodgers,Atlanta Braves,56.38,0.33,0.4,0.6,47.31,0.0,0.2,0.1
+22-07-2015,Los Angeles Dodgers,Atlanta Braves,55.79,0.0,0.4,0.5,47.87,0.33,0.2,0.2
+03-08-2015,San Francisco Giants,Atlanta Braves,54.81,0.33,0.4,0.6,44.76,0.0,0.0,0.1
+04-08-2015,San Francisco Giants,Atlanta Braves,54.29,0.0,0.2,0.5,45.28,0.33,0.2,0.2
+05-08-2015,San Francisco Giants,Atlanta Braves,54.72,0.0,0.2,0.4,44.86,0.33,0.4,0.2
+06-08-2015,Miami Marlins,Atlanta Braves,39.81,0.0,0.2,0.2,44.44,0.0,0.4,0.2
+07-08-2015,Miami Marlins,Atlanta Braves,39.45,0.0,0.0,0.1,44.95,0.0,0.2,0.2
+08-08-2015,Miami Marlins,Atlanta Braves,39.09,0.0,0.0,0.1,45.45,0.33,0.2,0.3
+09-08-2015,Miami Marlins,Atlanta Braves,38.74,0.0,0.0,0.1,45.95,0.33,0.4,0.4
+14-08-2015,Arizona Diamondbacks,Atlanta Braves,49.56,0.33,0.6,0.5,44.74,0.0,0.2,0.4
+15-08-2015,Arizona Diamondbacks,Atlanta Braves,49.12,0.0,0.4,0.5,45.22,0.0,0.0,0.3
+16-08-2015,Arizona Diamondbacks,Atlanta Braves,49.57,0.0,0.2,0.4,44.83,0.33,0.2,0.4
+24-08-2015,Colorado Rockies,Atlanta Braves,40.16,0.0,0.2,0.2,42.74,0.0,0.0,0.1
+25-08-2015,Colorado Rockies,Atlanta Braves,39.84,0.0,0.0,0.2,43.2,0.0,0.0,0.1
+26-08-2015,Colorado Rockies,Atlanta Braves,40.32,0.0,0.0,0.2,42.86,0.33,0.2,0.1
+28-08-2015,New York Yankees,Atlanta Braves,54.76,0.0,0.2,0.4,42.52,0.0,0.2,0.1
+29-08-2015,New York Yankees,Atlanta Braves,55.12,0.0,0.2,0.3,42.19,0.0,0.2,0.1
+30-08-2015,New York Yankees,Atlanta Braves,55.47,0.33,0.2,0.3,41.86,0.0,0.0,0.1
+31-08-2015,Miami Marlins,Atlanta Braves,39.69,0.0,0.2,0.2,41.54,0.0,0.0,0.1
+01-09-2015,Miami Marlins,Atlanta Braves,40.15,0.0,0.2,0.2,41.22,0.0,0.0,0.1
+02-09-2015,Miami Marlins,Atlanta Braves,40.6,0.33,0.2,0.3,40.91,0.0,0.0,0.1
+10-09-2015,New York Mets,Atlanta Braves,56.12,0.33,0.4,0.5,40.0,0.0,0.2,0.1
+11-09-2015,New York Mets,Atlanta Braves,56.43,0.33,0.6,0.5,39.72,0.33,0.4,0.2
+12-09-2015,New York Mets,Atlanta Braves,56.74,0.33,0.6,0.6,39.44,0.0,0.2,0.2
+13-09-2015,New York Mets,Atlanta Braves,57.04,0.33,0.6,0.6,39.16,0.0,0.2,0.2
+15-09-2015,Toronto Blue Jays,Atlanta Braves,57.34,0.33,0.6,0.6,38.89,0.0,0.0,0.2
+16-09-2015,Toronto Blue Jays,Atlanta Braves,56.94,0.0,0.4,0.5,39.31,0.0,0.0,0.2
+17-09-2015,Toronto Blue Jays,Atlanta Braves,57.24,0.0,0.2,0.4,39.04,0.33,0.2,0.3
+18-09-2015,Philadelphia Phillies,Atlanta Braves,38.1,0.0,0.2,0.3,38.78,0.0,0.2,0.2
+19-09-2015,Philadelphia Phillies,Atlanta Braves,37.84,0.0,0.0,0.2,39.19,0.0,0.2,0.2
+20-09-2015,Philadelphia Phillies,Atlanta Braves,37.58,0.0,0.0,0.2,39.6,0.33,0.2,0.2
+29-09-2015,Washington Nationals,Atlanta Braves,51.28,0.0,0.2,0.3,39.74,0.0,0.2,0.5
+30-09-2015,Washington Nationals,Atlanta Braves,50.96,0.33,0.4,0.3,40.13,0.0,0.0,0.4
+01-10-2015,Washington Nationals,Atlanta Braves,50.63,0.0,0.2,0.2,40.51,0.33,0.2,0.4
+02-10-2015,St. Louis Cardinals,Atlanta Braves,62.89,0.0,0.2,0.5,40.25,0.33,0.4,0.4
+10-04-2015,Toronto Blue Jays,Baltimore Orioles,66.67,0.0,nan,nan,66.67,0.33,nan,nan
+11-04-2015,Toronto Blue Jays,Baltimore Orioles,75.0,0.33,0.4,nan,50.0,0.0,0.4,nan
+12-04-2015,Toronto Blue Jays,Baltimore Orioles,60.0,0.33,0.4,nan,60.0,0.0,0.2,nan
+13-04-2015,New York Yankees,Baltimore Orioles,33.33,0.0,0.0,nan,50.0,0.33,0.2,nan
+14-04-2015,New York Yankees,Baltimore Orioles,42.86,0.33,0.2,nan,42.86,0.0,0.2,nan
+15-04-2015,New York Yankees,Baltimore Orioles,37.5,0.33,0.4,nan,50.0,0.0,0.2,nan
+24-04-2015,Boston Red Sox,Baltimore Orioles,56.25,0.0,0.4,0.4,43.75,0.0,0.0,0.4
+25-04-2015,Boston Red Sox,Baltimore Orioles,58.82,0.0,0.2,0.3,41.18,0.0,0.0,0.3
+26-04-2015,Boston Red Sox,Baltimore Orioles,55.56,0.33,0.2,0.4,44.44,0.0,0.0,0.2
+29-04-2015,Chicago White Sox,Baltimore Orioles,47.06,0.33,0.4,0.4,47.37,0.33,0.2,0.3
+11-05-2015,Toronto Blue Jays,Baltimore Orioles,50.0,0.33,0.6,0.5,44.83,0.33,0.2,0.3
+12-05-2015,Toronto Blue Jays,Baltimore Orioles,48.48,0.0,0.4,0.5,46.67,0.0,0.2,0.3
+13-05-2015,Toronto Blue Jays,Baltimore Orioles,50.0,0.0,0.2,0.4,45.16,0.33,0.4,0.3
+15-05-2015,Los Angeles Angels of Anaheim,Baltimore Orioles,50.0,0.33,0.4,0.5,46.88,0.0,0.2,0.2
+16-05-2015,Los Angeles Angels of Anaheim,Baltimore Orioles,51.43,0.33,0.6,0.6,45.45,0.33,0.4,0.3
+17-05-2015,Los Angeles Angels of Anaheim,Baltimore Orioles,52.78,0.33,0.6,0.6,44.12,0.0,0.2,0.3
+19-05-2015,Seattle Mariners,Baltimore Orioles,45.95,0.0,0.2,0.5,45.71,0.0,0.2,0.3
+20-05-2015,Seattle Mariners,Baltimore Orioles,44.74,0.33,0.4,0.5,47.22,0.33,0.2,0.4
+21-05-2015,Seattle Mariners,Baltimore Orioles,46.15,0.0,0.2,0.4,45.95,0.33,0.4,0.4
+25-05-2015,Houston Astros,Baltimore Orioles,64.44,0.33,0.2,0.5,46.34,0.0,0.4,0.4
+26-05-2015,Houston Astros,Baltimore Orioles,63.04,0.33,0.4,0.5,47.62,0.0,0.2,0.4
+27-05-2015,Houston Astros,Baltimore Orioles,63.83,0.0,0.4,0.4,46.51,0.33,0.2,0.5
+29-05-2015,Tampa Bay Rays,Baltimore Orioles,50.0,0.0,0.0,0.3,47.83,0.0,0.2,0.4
+30-05-2015,Tampa Bay Rays,Baltimore Orioles,48.98,0.0,0.0,0.2,48.94,0.33,0.4,0.4
+31-05-2015,Tampa Bay Rays,Baltimore Orioles,50.0,0.0,0.0,0.2,47.92,0.33,0.4,0.4
+09-06-2015,Boston Red Sox,Baltimore Orioles,46.55,0.33,0.4,0.4,46.43,0.0,0.4,0.2
+10-06-2015,Boston Red Sox,Baltimore Orioles,45.76,0.33,0.6,0.5,47.37,0.33,0.4,0.3
+11-06-2015,Boston Red Sox,Baltimore Orioles,45.0,0.0,0.4,0.5,48.28,0.33,0.4,0.4
+12-06-2015,New York Yankees,Baltimore Orioles,55.93,0.33,0.6,0.7,49.15,0.33,0.6,0.5
+13-06-2015,New York Yankees,Baltimore Orioles,55.0,0.0,0.4,0.7,50.0,0.33,0.6,0.6
+14-06-2015,New York Yankees,Baltimore Orioles,54.1,0.0,0.2,0.6,50.82,0.33,0.6,0.7
+15-06-2015,Philadelphia Phillies,Baltimore Orioles,34.38,0.0,0.0,0.1,50.0,0.33,0.6,0.7
+16-06-2015,Philadelphia Phillies,Baltimore Orioles,33.85,0.0,0.0,0.1,50.79,0.0,0.4,0.6
+26-06-2015,Cleveland Indians,Baltimore Orioles,46.48,0.0,0.2,0.3,52.78,0.0,0.4,0.5
+29-06-2015,Texas Rangers,Baltimore Orioles,50.0,0.33,0.2,0.2,54.67,0.33,0.6,0.6
+30-06-2015,Texas Rangers,Baltimore Orioles,50.65,0.0,0.2,0.1,53.95,0.33,0.6,0.7
+01-07-2015,Texas Rangers,Baltimore Orioles,51.28,0.33,0.4,0.2,53.25,0.0,0.4,0.6
+02-07-2015,Texas Rangers,Baltimore Orioles,50.63,0.33,0.4,0.3,53.85,0.0,0.2,0.5
+10-07-2015,Washington Nationals,Baltimore Orioles,54.76,0.0,0.4,0.4,50.59,0.0,0.2,0.2
+11-07-2015,Washington Nationals,Baltimore Orioles,54.12,0.0,0.2,0.4,51.16,0.0,0.0,0.2
+12-07-2015,Washington Nationals,Baltimore Orioles,54.65,0.0,0.0,0.3,50.57,0.33,0.2,0.2
+27-07-2015,Atlanta Braves,Baltimore Orioles,46.94,0.0,0.0,0.3,49.48,0.33,0.2,0.3
+28-07-2015,Atlanta Braves,Baltimore Orioles,46.46,0.33,0.2,0.3,50.0,0.33,0.4,0.4
+29-07-2015,Atlanta Braves,Baltimore Orioles,46.0,0.0,0.2,0.3,50.51,0.33,0.6,0.4
+30-07-2015,Detroit Tigers,Baltimore Orioles,48.51,0.0,0.0,0.2,51.0,0.33,0.6,0.4
+31-07-2015,Detroit Tigers,Baltimore Orioles,49.02,0.33,0.2,0.3,50.5,0.33,0.6,0.5
+01-08-2015,Detroit Tigers,Baltimore Orioles,48.54,0.33,0.4,0.3,50.98,0.0,0.4,0.5
+02-08-2015,Detroit Tigers,Baltimore Orioles,48.08,0.0,0.4,0.3,51.46,0.33,0.4,0.6
+14-08-2015,Oakland Athletics,Baltimore Orioles,43.97,0.0,0.2,0.4,50.44,0.0,0.2,0.4
+15-08-2015,Oakland Athletics,Baltimore Orioles,43.59,0.0,0.0,0.3,50.88,0.0,0.2,0.3
+16-08-2015,Oakland Athletics,Baltimore Orioles,43.22,0.0,0.0,0.3,51.3,0.33,0.2,0.4
+17-08-2015,Oakland Athletics,Baltimore Orioles,42.86,0.0,0.0,0.3,51.72,0.33,0.4,0.4
+18-08-2015,New York Mets,Baltimore Orioles,53.39,0.0,0.2,0.4,52.14,0.33,0.6,0.5
+19-08-2015,New York Mets,Baltimore Orioles,53.78,0.0,0.0,0.4,51.69,0.33,0.6,0.5
+20-08-2015,Minnesota Twins,Baltimore Orioles,49.17,0.0,0.2,0.4,52.1,0.0,0.4,0.5
+21-08-2015,Minnesota Twins,Baltimore Orioles,49.59,0.0,0.0,0.3,51.67,0.33,0.4,0.5
+22-08-2015,Minnesota Twins,Baltimore Orioles,50.0,0.33,0.2,0.3,51.24,0.0,0.2,0.5
+23-08-2015,Minnesota Twins,Baltimore Orioles,50.41,0.33,0.4,0.4,50.82,0.0,0.2,0.5
+31-08-2015,Tampa Bay Rays,Baltimore Orioles,49.23,0.0,0.2,0.3,48.46,0.0,0.0,0.1
+01-09-2015,Tampa Bay Rays,Baltimore Orioles,49.62,0.33,0.2,0.3,48.09,0.0,0.0,0.1
+02-09-2015,Tampa Bay Rays,Baltimore Orioles,50.0,0.33,0.4,0.3,47.73,0.0,0.0,0.1
+11-09-2015,Kansas City Royals,Baltimore Orioles,59.71,0.33,0.2,0.3,48.2,0.33,0.2,0.3
+12-09-2015,Kansas City Royals,Baltimore Orioles,59.29,0.0,0.2,0.3,48.57,0.33,0.4,0.4
+13-09-2015,Kansas City Royals,Baltimore Orioles,59.57,0.0,0.2,0.2,48.23,0.33,0.6,0.5
+14-09-2015,Boston Red Sox,Baltimore Orioles,47.89,0.33,0.4,0.6,48.59,0.0,0.4,0.4
+15-09-2015,Boston Red Sox,Baltimore Orioles,47.55,0.33,0.4,0.6,48.95,0.33,0.4,0.4
+16-09-2015,Boston Red Sox,Baltimore Orioles,47.22,0.0,0.4,0.5,49.31,0.33,0.4,0.5
+28-09-2015,Toronto Blue Jays,Baltimore Orioles,58.06,0.33,0.6,0.5,49.03,0.0,0.2,0.4
+01-10-2015,Toronto Blue Jays,Baltimore Orioles,58.23,0.33,0.6,0.7,48.73,0.0,0.0,0.3
+04-10-2015,New York Yankees,Baltimore Orioles,54.04,0.0,0.2,0.3,49.69,0.33,0.6,0.3
+13-04-2015,Washington Nationals,Boston Red Sox,33.33,0.0,0.0,nan,66.67,0.33,0.6,nan
+14-04-2015,Washington Nationals,Boston Red Sox,28.57,0.33,0.2,nan,71.43,0.0,0.4,nan
+15-04-2015,Washington Nationals,Boston Red Sox,25.0,0.0,0.2,nan,75.0,0.33,0.4,nan
+17-04-2015,Baltimore Orioles,Boston Red Sox,55.56,0.33,0.2,0.4,66.67,0.33,0.4,0.6
+18-04-2015,Baltimore Orioles,Boston Red Sox,50.0,0.33,0.4,0.4,70.0,0.0,0.4,0.5
+19-04-2015,Baltimore Orioles,Boston Red Sox,54.55,0.0,0.4,0.3,63.64,0.33,0.4,0.6
+20-04-2015,Baltimore Orioles,Boston Red Sox,58.33,0.33,0.4,0.4,58.33,0.0,0.2,0.5
+27-04-2015,Toronto Blue Jays,Boston Red Sox,47.37,0.0,0.2,0.4,52.63,0.0,0.2,0.3
+28-04-2015,Toronto Blue Jays,Boston Red Sox,45.0,0.0,0.0,0.4,55.0,0.0,0.2,0.3
+29-04-2015,Toronto Blue Jays,Boston Red Sox,47.62,0.0,0.0,0.3,52.38,0.33,0.2,0.4
+01-05-2015,New York Yankees,Boston Red Sox,59.09,0.33,0.6,0.7,54.55,0.0,0.2,0.3
+02-05-2015,New York Yankees,Boston Red Sox,60.87,0.0,0.4,0.6,52.17,0.33,0.4,0.3
+03-05-2015,New York Yankees,Boston Red Sox,62.5,0.33,0.4,0.6,50.0,0.0,0.2,0.3
+04-05-2015,Tampa Bay Rays,Boston Red Sox,52.0,0.0,0.4,0.5,48.0,0.0,0.2,0.3
+05-05-2015,Tampa Bay Rays,Boston Red Sox,53.85,0.0,0.2,0.4,46.15,0.0,0.0,0.2
+06-05-2015,Tampa Bay Rays,Boston Red Sox,51.85,0.33,0.2,0.4,48.15,0.0,0.0,0.2
+19-05-2015,Texas Rangers,Boston Red Sox,42.11,0.0,0.0,0.3,47.37,0.33,0.4,0.5
+20-05-2015,Texas Rangers,Boston Red Sox,41.03,0.33,0.2,0.4,48.72,0.0,0.2,0.5
+21-05-2015,Texas Rangers,Boston Red Sox,42.5,0.0,0.2,0.3,47.5,0.33,0.4,0.5
+22-05-2015,Los Angeles Angels of Anaheim,Boston Red Sox,51.22,0.33,0.4,0.6,46.34,0.0,0.2,0.4
+23-05-2015,Los Angeles Angels of Anaheim,Boston Red Sox,52.38,0.0,0.4,0.5,45.24,0.0,0.2,0.4
+24-05-2015,Los Angeles Angels of Anaheim,Boston Red Sox,51.16,0.33,0.4,0.5,46.51,0.0,0.0,0.3
+02-06-2015,Minnesota Twins,Boston Red Sox,61.22,0.33,0.4,0.6,43.14,0.0,0.2,0.3
+04-06-2015,Minnesota Twins,Boston Red Sox,59.62,0.0,0.2,0.5,44.44,0.33,0.4,0.3
+05-06-2015,Oakland Athletics,Boston Red Sox,41.07,0.33,0.6,0.5,43.64,0.0,0.4,0.3
+06-06-2015,Oakland Athletics,Boston Red Sox,40.35,0.33,0.6,0.6,44.64,0.0,0.2,0.3
+07-06-2015,Oakland Athletics,Boston Red Sox,39.66,0.0,0.4,0.6,45.61,0.33,0.2,0.3
+12-06-2015,Toronto Blue Jays,Boston Red Sox,50.82,0.33,0.6,0.7,44.26,0.0,0.2,0.4
+13-06-2015,Toronto Blue Jays,Boston Red Sox,51.61,0.33,0.6,0.8,43.55,0.0,0.0,0.3
+14-06-2015,Toronto Blue Jays,Boston Red Sox,52.38,0.33,0.6,0.8,42.86,0.0,0.0,0.3
+15-06-2015,Atlanta Braves,Boston Red Sox,47.62,0.33,0.2,0.4,42.19,0.0,0.0,0.3
+16-06-2015,Atlanta Braves,Boston Red Sox,48.44,0.0,0.2,0.3,41.54,0.0,0.0,0.2
+23-06-2015,Baltimore Orioles,Boston Red Sox,52.17,0.33,0.2,0.5,43.66,0.0,0.4,0.3
+24-06-2015,Baltimore Orioles,Boston Red Sox,52.86,0.33,0.4,0.5,43.06,0.33,0.4,0.4
+25-06-2015,Baltimore Orioles,Boston Red Sox,52.11,0.33,0.6,0.6,43.84,0.0,0.2,0.4
+03-07-2015,Houston Astros,Boston Red Sox,58.02,0.33,0.6,0.5,45.68,0.0,0.4,0.5
+04-07-2015,Houston Astros,Boston Red Sox,58.54,0.33,0.6,0.5,45.12,0.33,0.4,0.5
+05-07-2015,Houston Astros,Boston Red Sox,57.83,0.33,0.6,0.6,45.78,0.0,0.2,0.5
+07-07-2015,Miami Marlins,Boston Red Sox,42.17,0.0,0.4,0.5,46.43,0.33,0.4,0.5
+08-07-2015,Miami Marlins,Boston Red Sox,41.67,0.0,0.2,0.5,47.06,0.33,0.4,0.6
+10-07-2015,New York Yankees,Boston Red Sox,54.12,0.33,0.2,0.4,47.67,0.33,0.6,0.6
+11-07-2015,New York Yankees,Boston Red Sox,54.65,0.33,0.4,0.5,47.13,0.33,0.6,0.6
+12-07-2015,New York Yankees,Boston Red Sox,54.02,0.33,0.6,0.6,47.73,0.0,0.4,0.5
+24-07-2015,Detroit Tigers,Boston Red Sox,49.47,0.33,0.4,0.3,43.75,0.0,0.0,0.1
+25-07-2015,Detroit Tigers,Boston Red Sox,48.96,0.0,0.2,0.3,44.33,0.0,0.0,0.0
+26-07-2015,Detroit Tigers,Boston Red Sox,49.48,0.0,0.2,0.3,43.88,0.33,0.2,0.1
+27-07-2015,Chicago White Sox,Boston Red Sox,47.92,0.33,0.6,0.4,44.44,0.0,0.2,0.1
+28-07-2015,Chicago White Sox,Boston Red Sox,48.45,0.33,0.6,0.4,44.0,0.33,0.4,0.2
+29-07-2015,Chicago White Sox,Boston Red Sox,48.98,0.33,0.6,0.5,43.56,0.0,0.2,0.2
+30-07-2015,Chicago White Sox,Boston Red Sox,49.49,0.33,0.6,0.6,43.14,0.0,0.2,0.2
+31-07-2015,Tampa Bay Rays,Boston Red Sox,49.51,0.33,0.4,0.4,43.69,0.0,0.0,0.2
+01-08-2015,Tampa Bay Rays,Boston Red Sox,49.04,0.0,0.4,0.4,44.23,0.33,0.2,0.3
+02-08-2015,Tampa Bay Rays,Boston Red Sox,48.57,0.0,0.2,0.3,44.76,0.33,0.4,0.4
+14-08-2015,Seattle Mariners,Boston Red Sox,46.96,0.33,0.4,0.5,43.86,0.0,0.2,0.3
+15-08-2015,Seattle Mariners,Boston Red Sox,46.55,0.33,0.4,0.5,44.35,0.0,0.2,0.3
+16-08-2015,Seattle Mariners,Boston Red Sox,46.15,0.0,0.4,0.4,44.83,0.33,0.2,0.4
+17-08-2015,Cleveland Indians,Boston Red Sox,46.55,0.0,0.2,0.5,44.44,0.33,0.4,0.4
+18-08-2015,Cleveland Indians,Boston Red Sox,47.01,0.0,0.2,0.5,44.07,0.0,0.4,0.4
+19-08-2015,Cleveland Indians,Boston Red Sox,46.61,0.33,0.2,0.5,44.54,0.0,0.2,0.3
+20-08-2015,Kansas City Royals,Boston Red Sox,61.34,0.33,0.6,0.6,45.0,0.33,0.2,0.4
+21-08-2015,Kansas City Royals,Boston Red Sox,60.83,0.33,0.6,0.6,45.45,0.33,0.4,0.4
+22-08-2015,Kansas City Royals,Boston Red Sox,60.33,0.0,0.4,0.5,45.9,0.33,0.6,0.5
+23-08-2015,Kansas City Royals,Boston Red Sox,60.66,0.0,0.2,0.5,45.53,0.33,0.6,0.6
+31-08-2015,New York Yankees,Boston Red Sox,55.81,0.33,0.4,0.4,46.15,0.33,0.6,0.5
+01-09-2015,New York Yankees,Boston Red Sox,55.38,0.33,0.6,0.5,46.56,0.0,0.4,0.4
+02-09-2015,New York Yankees,Boston Red Sox,55.73,0.0,0.4,0.4,46.21,0.33,0.4,0.5
+04-09-2015,Philadelphia Phillies,Boston Red Sox,39.55,0.33,0.2,0.3,45.86,0.0,0.2,0.5
+05-09-2015,Philadelphia Phillies,Boston Red Sox,39.26,0.0,0.2,0.3,46.27,0.0,0.2,0.4
+06-09-2015,Philadelphia Phillies,Boston Red Sox,38.97,0.0,0.2,0.3,46.67,0.33,0.2,0.5
+07-09-2015,Toronto Blue Jays,Boston Red Sox,57.35,0.33,0.4,0.6,47.06,0.33,0.4,0.5
+08-09-2015,Toronto Blue Jays,Boston Red Sox,56.93,0.33,0.4,0.6,47.45,0.33,0.6,0.5
+09-09-2015,Toronto Blue Jays,Boston Red Sox,57.25,0.0,0.4,0.5,47.1,0.33,0.6,0.5
+21-09-2015,Tampa Bay Rays,Boston Red Sox,48.32,0.0,0.2,0.2,47.97,0.33,0.4,0.4
+22-09-2015,Tampa Bay Rays,Boston Red Sox,48.0,0.33,0.4,0.3,48.32,0.33,0.4,0.5
+23-09-2015,Tampa Bay Rays,Boston Red Sox,48.34,0.0,0.2,0.3,48.0,0.33,0.6,0.5
+24-09-2015,Tampa Bay Rays,Boston Red Sox,48.68,0.33,0.4,0.4,47.68,0.0,0.4,0.4
+25-09-2015,Baltimore Orioles,Boston Red Sox,50.0,0.33,0.4,0.5,47.37,0.0,0.2,0.4
+26-09-2015,Baltimore Orioles,Boston Red Sox,49.67,0.33,0.6,0.5,47.71,0.0,0.0,0.4
+27-09-2015,Baltimore Orioles,Boston Red Sox,49.35,0.0,0.4,0.5,48.05,0.33,0.2,0.4
+10-04-2015,Minnesota Twins,Chicago White Sox,0.0,0.0,nan,nan,0.0,0.0,nan,nan
+11-04-2015,Minnesota Twins,Chicago White Sox,25.0,0.0,0.0,nan,0.0,0.0,0.0,nan
+12-04-2015,Minnesota Twins,Chicago White Sox,20.0,0.33,0.2,nan,20.0,0.0,0.0,nan
+20-04-2015,Cleveland Indians,Chicago White Sox,36.36,0.33,0.4,0.3,36.36,0.33,0.2,0.4
+21-04-2015,Cleveland Indians,Chicago White Sox,33.33,0.0,0.2,0.2,41.67,0.0,0.2,0.4
+22-04-2015,Cleveland Indians,Chicago White Sox,38.46,0.0,0.2,0.2,38.46,0.33,0.4,0.5
+23-04-2015,Kansas City Royals,Chicago White Sox,73.33,0.33,0.6,0.5,42.86,0.0,0.2,0.4
+24-04-2015,Kansas City Royals,Chicago White Sox,75.0,0.0,0.4,0.4,40.0,0.33,0.4,0.4
+26-04-2015,Kansas City Royals,Chicago White Sox,70.59,0.33,0.4,0.5,43.75,0.0,0.2,0.3
+05-05-2015,Detroit Tigers,Chicago White Sox,65.38,0.33,0.2,0.5,36.36,0.0,0.0,0.3
+06-05-2015,Detroit Tigers,Chicago White Sox,62.96,0.33,0.4,0.5,39.13,0.0,0.0,0.2
+07-05-2015,Detroit Tigers,Chicago White Sox,60.71,0.0,0.4,0.4,41.67,0.33,0.2,0.3
+10-05-2015,Cincinnati Reds,Chicago White Sox,50.0,0.33,0.4,0.5,40.74,0.0,0.2,0.2
+18-05-2015,Cleveland Indians,Chicago White Sox,38.89,0.33,0.4,0.4,50.0,0.33,0.6,0.6
+19-05-2015,Cleveland Indians,Chicago White Sox,37.84,0.0,0.4,0.4,51.43,0.33,0.6,0.7
+20-05-2015,Cleveland Indians,Chicago White Sox,39.47,0.0,0.2,0.4,50.0,0.33,0.6,0.7
+21-05-2015,Cleveland Indians,Chicago White Sox,41.03,0.33,0.2,0.4,48.65,0.0,0.4,0.6
+22-05-2015,Minnesota Twins,Chicago White Sox,57.5,0.33,0.4,0.4,47.37,0.0,0.2,0.6
+23-05-2015,Minnesota Twins,Chicago White Sox,56.1,0.33,0.4,0.5,48.72,0.0,0.0,0.5
+24-05-2015,Minnesota Twins,Chicago White Sox,57.14,0.0,0.4,0.5,47.5,0.33,0.2,0.5
+05-06-2015,Detroit Tigers,Chicago White Sox,50.91,0.0,0.0,0.2,46.15,0.33,0.4,0.5
+06-06-2015,Detroit Tigers,Chicago White Sox,50.0,0.0,0.0,0.1,47.17,0.0,0.2,0.4
+07-06-2015,Detroit Tigers,Chicago White Sox,50.88,0.0,0.0,0.0,46.3,0.33,0.4,0.4
+08-06-2015,Houston Astros,Chicago White Sox,58.62,0.0,0.0,0.4,45.45,0.0,0.2,0.4
+09-06-2015,Houston Astros,Chicago White Sox,57.63,0.0,0.0,0.3,46.43,0.0,0.2,0.3
+10-06-2015,Houston Astros,Chicago White Sox,56.67,0.0,0.0,0.3,47.37,0.33,0.2,0.4
+17-06-2015,Pittsburgh Pirates,Chicago White Sox,57.81,0.33,0.6,0.6,44.44,0.0,0.0,0.3
+18-06-2015,Pittsburgh Pirates,Chicago White Sox,58.46,0.33,0.6,0.6,43.75,0.0,0.0,0.3
+19-06-2015,Texas Rangers,Chicago White Sox,53.73,0.33,0.6,0.5,43.08,0.0,0.0,0.2
+20-06-2015,Texas Rangers,Chicago White Sox,54.41,0.0,0.4,0.5,42.42,0.0,0.0,0.1
+21-06-2015,Texas Rangers,Chicago White Sox,53.62,0.33,0.4,0.6,43.28,0.0,0.0,0.0
+03-07-2015,Baltimore Orioles,Chicago White Sox,53.16,0.33,0.2,0.5,44.74,0.33,0.2,0.4
+04-07-2015,Baltimore Orioles,Chicago White Sox,52.5,0.0,0.2,0.5,45.45,0.33,0.4,0.4
+05-07-2015,Baltimore Orioles,Chicago White Sox,51.85,0.0,0.2,0.4,46.15,0.33,0.6,0.5
+06-07-2015,Toronto Blue Jays,Chicago White Sox,51.19,0.0,0.0,0.2,45.57,0.33,0.6,0.5
+07-07-2015,Toronto Blue Jays,Chicago White Sox,50.59,0.33,0.2,0.3,46.25,0.0,0.4,0.5
+08-07-2015,Toronto Blue Jays,Chicago White Sox,51.16,0.0,0.2,0.2,45.68,0.33,0.4,0.5
+09-07-2015,Toronto Blue Jays,Chicago White Sox,50.57,0.33,0.4,0.3,46.34,0.0,0.2,0.5
+18-07-2015,Kansas City Royals,Chicago White Sox,60.23,0.33,0.4,0.7,47.73,0.0,0.2,0.5
+19-07-2015,Kansas City Royals,Chicago White Sox,60.67,0.0,0.4,0.6,47.19,0.33,0.2,0.5
+21-07-2015,St. Louis Cardinals,Chicago White Sox,63.04,0.33,0.4,0.4,46.67,0.0,0.2,0.5
+22-07-2015,St. Louis Cardinals,Chicago White Sox,63.44,0.0,0.4,0.4,46.15,0.0,0.2,0.4
+31-07-2015,New York Yankees,Chicago White Sox,56.44,0.0,0.4,0.6,49.0,0.33,0.6,0.7
+01-08-2015,New York Yankees,Chicago White Sox,56.86,0.0,0.2,0.5,48.51,0.0,0.4,0.7
+02-08-2015,New York Yankees,Chicago White Sox,56.31,0.33,0.2,0.5,49.02,0.0,0.2,0.6
+03-08-2015,Tampa Bay Rays,Chicago White Sox,49.06,0.0,0.0,0.3,48.54,0.33,0.2,0.6
+04-08-2015,Tampa Bay Rays,Chicago White Sox,49.53,0.33,0.2,0.3,48.08,0.0,0.2,0.5
+05-08-2015,Tampa Bay Rays,Chicago White Sox,50.0,0.33,0.4,0.4,47.62,0.0,0.2,0.4
+10-08-2015,Los Angeles Angels of Anaheim,Chicago White Sox,53.64,0.0,0.4,0.3,46.79,0.0,0.2,0.2
+11-08-2015,Los Angeles Angels of Anaheim,Chicago White Sox,53.15,0.33,0.4,0.4,47.27,0.0,0.0,0.2
+12-08-2015,Los Angeles Angels of Anaheim,Chicago White Sox,52.68,0.0,0.2,0.4,47.75,0.33,0.2,0.2
+14-08-2015,Chicago Cubs,Chicago White Sox,57.52,0.33,0.6,0.7,48.21,0.33,0.4,0.3
+15-08-2015,Chicago Cubs,Chicago White Sox,57.89,0.33,0.6,0.7,47.79,0.33,0.6,0.4
+16-08-2015,Chicago Cubs,Chicago White Sox,58.26,0.33,0.6,0.8,47.37,0.0,0.4,0.4
+24-08-2015,Boston Red Sox,Chicago White Sox,45.16,0.0,0.4,0.5,47.54,0.33,0.6,0.4
+25-08-2015,Boston Red Sox,Chicago White Sox,45.6,0.0,0.2,0.4,47.15,0.0,0.4,0.4
+26-08-2015,Boston Red Sox,Chicago White Sox,45.24,0.33,0.2,0.5,47.58,0.0,0.2,0.3
+27-08-2015,Seattle Mariners,Chicago White Sox,46.46,0.33,0.4,0.3,47.2,0.33,0.2,0.4
+28-08-2015,Seattle Mariners,Chicago White Sox,46.09,0.33,0.4,0.4,47.62,0.0,0.2,0.4
+29-08-2015,Seattle Mariners,Chicago White Sox,46.51,0.0,0.4,0.3,47.24,0.33,0.4,0.5
+30-08-2015,Seattle Mariners,Chicago White Sox,46.92,0.33,0.4,0.4,46.88,0.0,0.2,0.4
+07-09-2015,Cleveland Indians,Chicago White Sox,48.89,0.0,0.2,0.5,48.15,0.33,0.6,0.4
+08-09-2015,Cleveland Indians,Chicago White Sox,49.26,0.33,0.4,0.5,47.79,0.33,0.6,0.5
+09-09-2015,Cleveland Indians,Chicago White Sox,48.91,0.33,0.4,0.5,48.18,0.0,0.4,0.5
+11-09-2015,Minnesota Twins,Chicago White Sox,51.8,0.0,0.2,0.4,47.83,0.33,0.4,0.5
+12-09-2015,Minnesota Twins,Chicago White Sox,52.14,0.33,0.4,0.4,47.48,0.0,0.2,0.5
+13-09-2015,Minnesota Twins,Chicago White Sox,51.77,0.33,0.4,0.4,47.86,0.0,0.2,0.5
+14-09-2015,Oakland Athletics,Chicago White Sox,42.66,0.33,0.2,0.3,47.52,0.33,0.2,0.5
+15-09-2015,Oakland Athletics,Chicago White Sox,42.36,0.0,0.2,0.3,47.89,0.0,0.2,0.4
+16-09-2015,Oakland Athletics,Chicago White Sox,42.76,0.0,0.2,0.3,47.55,0.33,0.4,0.4
+17-09-2015,Oakland Athletics,Chicago White Sox,42.47,0.33,0.2,0.4,47.92,0.0,0.2,0.3
+29-09-2015,Kansas City Royals,Chicago White Sox,57.69,0.33,0.2,0.4,46.79,0.0,0.2,0.3
+30-09-2015,Kansas City Royals,Chicago White Sox,57.32,0.0,0.2,0.4,47.13,0.0,0.2,0.3
+01-10-2015,Kansas City Royals,Chicago White Sox,57.59,0.0,0.2,0.3,46.84,0.33,0.2,0.3
+02-10-2015,Detroit Tigers,Chicago White Sox,46.2,0.0,0.2,0.4,46.54,0.0,0.2,0.2
+03-10-2015,Detroit Tigers,Chicago White Sox,45.91,0.0,0.2,0.4,46.88,0.0,0.2,0.2
+04-10-2015,Detroit Tigers,Chicago White Sox,45.62,0.0,0.0,0.3,47.2,0.33,0.2,0.3
+05-04-2015,St. Louis Cardinals,Chicago Cubs,0,0.0,0.2,0.3,0,0.33,0.6,0.7
+08-04-2015,St. Louis Cardinals,Chicago Cubs,100.0,nan,nan,nan,0.0,nan,nan,nan
+13-04-2015,Cincinnati Reds,Chicago Cubs,66.67,0.0,0.4,nan,60.0,0.33,0.4,nan
+14-04-2015,Cincinnati Reds,Chicago Cubs,57.14,0.0,0.2,nan,66.67,0.33,0.4,nan
+15-04-2015,Cincinnati Reds,Chicago Cubs,62.5,0.0,0.0,nan,57.14,0.33,0.6,nan
+17-04-2015,San Diego Padres,Chicago Cubs,60.0,0.33,0.4,0.5,62.5,0.0,0.4,nan
+18-04-2015,San Diego Padres,Chicago Cubs,63.64,0.33,0.4,0.5,55.56,0.33,0.4,0.5
+19-04-2015,San Diego Padres,Chicago Cubs,58.33,0.33,0.6,0.6,60.0,0.0,0.2,0.5
+27-04-2015,Pittsburgh Pirates,Chicago Cubs,57.89,0.33,0.6,0.6,58.82,0.33,0.2,0.4
+28-04-2015,Pittsburgh Pirates,Chicago Cubs,55.0,0.33,0.6,0.6,61.11,0.33,0.4,0.5
+29-04-2015,Pittsburgh Pirates,Chicago Cubs,52.38,0.0,0.4,0.5,63.16,0.33,0.6,0.5
+01-05-2015,Milwaukee Brewers,Chicago Cubs,22.73,0.0,0.2,0.2,60.0,0.33,0.6,0.6
+02-05-2015,Milwaukee Brewers,Chicago Cubs,21.74,0.33,0.2,0.3,61.9,0.0,0.4,0.5
+03-05-2015,Milwaukee Brewers,Chicago Cubs,25.0,0.0,0.2,0.3,59.09,0.33,0.4,0.5
+11-05-2015,New York Mets,Chicago Cubs,64.52,0.33,0.4,0.4,50.0,0.0,0.2,0.2
+12-05-2015,New York Mets,Chicago Cubs,62.5,0.33,0.4,0.5,51.61,0.0,0.2,0.2
+13-05-2015,New York Mets,Chicago Cubs,60.61,0.0,0.4,0.4,53.12,0.33,0.2,0.3
+14-05-2015,New York Mets,Chicago Cubs,58.82,0.0,0.2,0.4,54.55,0.33,0.4,0.4
+15-05-2015,Pittsburgh Pirates,Chicago Cubs,48.57,0.0,0.4,0.5,55.88,0.33,0.6,0.5
+16-05-2015,Pittsburgh Pirates,Chicago Cubs,47.22,0.0,0.2,0.5,57.14,0.33,0.6,0.5
+17-05-2015,Pittsburgh Pirates,Chicago Cubs,45.95,0.0,0.0,0.4,58.33,0.33,0.6,0.6
+25-05-2015,Washington Nationals,Chicago Cubs,59.09,0.0,0.4,0.6,55.81,0.33,0.4,0.5
+26-05-2015,Washington Nationals,Chicago Cubs,60.0,0.33,0.4,0.7,54.55,0.0,0.2,0.4
+27-05-2015,Washington Nationals,Chicago Cubs,58.7,0.33,0.4,0.7,55.56,0.0,0.2,0.3
+29-05-2015,Kansas City Royals,Chicago Cubs,60.87,0.0,0.0,0.5,54.35,0.33,0.2,0.4
+31-05-2015,Kansas City Royals,Chicago Cubs,61.7,0.0,0.0,0.4,53.19,0.0,0.2,0.4
+11-06-2015,Cincinnati Reds,Chicago Cubs,46.55,0.33,0.6,0.4,54.39,0.0,0.4,0.4
+12-06-2015,Cincinnati Reds,Chicago Cubs,45.76,0.33,0.6,0.5,55.17,0.33,0.4,0.4
+13-06-2015,Cincinnati Reds,Chicago Cubs,46.67,0.0,0.4,0.5,54.24,0.33,0.4,0.5
+14-06-2015,Cincinnati Reds,Chicago Cubs,45.9,0.33,0.4,0.5,55.0,0.0,0.4,0.5
+16-06-2015,Cleveland Indians,Chicago Cubs,46.77,0.33,0.4,0.3,55.74,0.33,0.4,0.5
+22-06-2015,Los Angeles Dodgers,Chicago Cubs,55.71,0.0,0.2,0.2,55.22,0.33,0.2,0.4
+23-06-2015,Los Angeles Dodgers,Chicago Cubs,54.93,0.33,0.2,0.3,55.88,0.33,0.4,0.5
+24-06-2015,Los Angeles Dodgers,Chicago Cubs,54.17,0.0,0.2,0.2,56.52,0.33,0.6,0.5
+25-06-2015,Los Angeles Dodgers,Chicago Cubs,54.79,0.0,0.2,0.2,55.71,0.33,0.6,0.5
+03-07-2015,Miami Marlins,Chicago Cubs,42.5,0.33,0.4,0.3,54.55,0.33,0.4,0.3
+04-07-2015,Miami Marlins,Chicago Cubs,43.21,0.33,0.6,0.4,53.85,0.33,0.6,0.3
+05-07-2015,Miami Marlins,Chicago Cubs,42.68,0.33,0.6,0.5,54.43,0.0,0.4,0.3
+06-07-2015,St. Louis Cardinals,Chicago Cubs,65.43,0.33,0.2,0.4,55.0,0.33,0.4,0.4
+08-07-2015,St. Louis Cardinals,Chicago Cubs,64.29,0.0,0.4,0.3,55.42,0.33,0.4,0.6
+10-07-2015,Chicago White Sox,Chicago Cubs,46.99,0.33,0.4,0.6,54.76,0.33,0.4,0.6
+11-07-2015,Chicago White Sox,Chicago Cubs,47.62,0.33,0.4,0.6,54.12,0.0,0.4,0.5
+12-07-2015,Chicago White Sox,Chicago Cubs,48.24,0.33,0.6,0.6,53.49,0.0,0.2,0.4
+24-07-2015,Philadelphia Phillies,Chicago Cubs,35.05,0.0,0.4,0.4,54.26,0.0,0.2,0.4
+25-07-2015,Philadelphia Phillies,Chicago Cubs,35.71,0.33,0.4,0.5,53.68,0.33,0.4,0.5
+26-07-2015,Philadelphia Phillies,Chicago Cubs,36.36,0.33,0.4,0.6,53.12,0.0,0.2,0.4
+27-07-2015,Colorado Rockies,Chicago Cubs,43.75,0.0,0.2,0.3,52.58,0.0,0.2,0.4
+28-07-2015,Colorado Rockies,Chicago Cubs,43.3,0.33,0.4,0.3,53.06,0.0,0.0,0.3
+29-07-2015,Colorado Rockies,Chicago Cubs,43.88,0.0,0.2,0.3,52.53,0.33,0.2,0.3
+06-08-2015,San Francisco Giants,Chicago Cubs,55.14,0.33,0.2,0.4,54.72,0.33,0.6,0.7
+07-08-2015,San Francisco Giants,Chicago Cubs,54.63,0.33,0.4,0.4,55.14,0.0,0.4,0.6
+08-08-2015,San Francisco Giants,Chicago Cubs,54.13,0.0,0.4,0.4,55.56,0.33,0.4,0.7
+09-08-2015,San Francisco Giants,Chicago Cubs,53.64,0.0,0.2,0.3,55.96,0.33,0.4,0.7
+11-08-2015,Milwaukee Brewers,Chicago Cubs,42.48,0.0,0.2,0.3,56.36,0.33,0.6,0.7
+12-08-2015,Milwaukee Brewers,Chicago Cubs,42.11,0.33,0.2,0.4,56.76,0.33,0.6,0.7
+13-08-2015,Milwaukee Brewers,Chicago Cubs,41.74,0.0,0.2,0.4,57.14,0.33,0.6,0.7
+18-08-2015,Detroit Tigers,Chicago Cubs,47.86,0.33,0.4,0.3,57.76,0.33,0.6,0.8
+19-08-2015,Detroit Tigers,Chicago Cubs,48.31,0.0,0.2,0.3,57.26,0.0,0.4,0.7
+20-08-2015,Atlanta Braves,Chicago Cubs,44.17,0.0,0.2,0.2,56.78,0.0,0.2,0.6
+21-08-2015,Atlanta Braves,Chicago Cubs,43.8,0.0,0.0,0.2,57.14,0.0,0.0,0.5
+22-08-2015,Atlanta Braves,Chicago Cubs,43.44,0.0,0.0,0.2,57.5,0.33,0.2,0.5
+23-08-2015,Atlanta Braves,Chicago Cubs,43.09,0.0,0.0,0.2,57.85,0.33,0.4,0.5
+24-08-2015,Cleveland Indians,Chicago Cubs,47.15,0.0,0.4,0.3,58.2,0.33,0.6,0.5
+31-08-2015,Cincinnati Reds,Chicago Cubs,41.09,0.33,0.2,0.2,57.36,0.0,0.0,0.4
+01-09-2015,Cincinnati Reds,Chicago Cubs,41.54,0.0,0.2,0.2,56.92,0.33,0.2,0.4
+02-09-2015,Cincinnati Reds,Chicago Cubs,41.22,0.33,0.4,0.3,57.25,0.0,0.2,0.3
+04-09-2015,Arizona Diamondbacks,Chicago Cubs,48.51,0.33,0.4,0.3,56.82,0.33,0.4,0.3
+05-09-2015,Arizona Diamondbacks,Chicago Cubs,48.15,0.0,0.4,0.3,57.14,0.0,0.2,0.2
+06-09-2015,Arizona Diamondbacks,Chicago Cubs,47.79,0.0,0.2,0.3,57.46,0.33,0.4,0.3
+18-09-2015,St. Louis Cardinals,Chicago Cubs,63.01,0.33,0.6,0.4,58.22,0.33,0.4,0.4
+19-09-2015,St. Louis Cardinals,Chicago Cubs,62.59,0.33,0.6,0.5,58.5,0.33,0.6,0.5
+20-09-2015,St. Louis Cardinals,Chicago Cubs,62.16,0.0,0.4,0.4,58.78,0.33,0.6,0.5
+21-09-2015,Milwaukee Brewers,Chicago Cubs,42.28,0.0,0.0,0.0,58.39,0.33,0.6,0.5
+22-09-2015,Milwaukee Brewers,Chicago Cubs,42.0,0.33,0.2,0.1,58.67,0.0,0.4,0.5
+23-09-2015,Milwaukee Brewers,Chicago Cubs,41.72,0.0,0.2,0.1,58.94,0.33,0.4,0.6
+25-09-2015,Pittsburgh Pirates,Chicago Cubs,60.78,0.33,0.6,0.5,58.55,0.33,0.4,0.7
+26-09-2015,Pittsburgh Pirates,Chicago Cubs,61.04,0.33,0.6,0.6,58.17,0.0,0.4,0.6
+27-09-2015,Pittsburgh Pirates,Chicago Cubs,61.29,0.33,0.6,0.7,57.79,0.0,0.2,0.5
+28-09-2015,Kansas City Royals,Chicago Cubs,58.06,0.0,0.2,0.3,58.06,0.0,0.0,0.4
+06-04-2015,Pittsburgh Pirates,Cincinnati Reds,0,0.0,0.2,0.4,0,0.33,0.2,0.1
+08-04-2015,Pittsburgh Pirates,Cincinnati Reds,0.0,nan,nan,nan,100.0,nan,nan,nan
+09-04-2015,Pittsburgh Pirates,Cincinnati Reds,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+10-04-2015,St. Louis Cardinals,Cincinnati Reds,50.0,0.33,nan,nan,100.0,0.33,nan,nan
+11-04-2015,St. Louis Cardinals,Cincinnati Reds,33.33,0.0,nan,nan,100.0,0.33,0.6,nan
+12-04-2015,St. Louis Cardinals,Cincinnati Reds,50.0,0.0,0.2,nan,80.0,0.33,0.6,nan
+24-04-2015,Chicago Cubs,Cincinnati Reds,53.33,0.0,0.4,0.4,50.0,0.33,0.6,0.4
+26-04-2015,Chicago Cubs,Cincinnati Reds,56.25,0.0,0.2,0.4,47.06,0.0,0.4,0.3
+27-04-2015,Milwaukee Brewers,Cincinnati Reds,21.05,0.0,0.2,0.1,44.44,0.0,0.2,0.3
+28-04-2015,Milwaukee Brewers,Cincinnati Reds,20.0,0.33,0.2,0.2,47.37,0.0,0.0,0.3
+29-04-2015,Milwaukee Brewers,Cincinnati Reds,19.05,0.0,0.2,0.2,50.0,0.33,0.2,0.4
+11-05-2015,Atlanta Braves,Cincinnati Reds,45.16,0.0,0.2,0.4,48.39,0.0,0.2,0.4
+12-05-2015,Atlanta Braves,Cincinnati Reds,46.88,0.0,0.0,0.3,46.88,0.0,0.2,0.4
+13-05-2015,Atlanta Braves,Cincinnati Reds,45.45,0.33,0.2,0.4,48.48,0.0,0.0,0.3
+14-05-2015,San Francisco Giants,Cincinnati Reds,50.0,0.33,0.4,0.5,50.0,0.33,0.2,0.4
+15-05-2015,San Francisco Giants,Cincinnati Reds,48.57,0.0,0.4,0.4,51.43,0.33,0.4,0.4
+16-05-2015,San Francisco Giants,Cincinnati Reds,50.0,0.0,0.2,0.3,50.0,0.33,0.6,0.4
+17-05-2015,San Francisco Giants,Cincinnati Reds,51.35,0.33,0.2,0.4,48.65,0.0,0.4,0.4
+25-05-2015,Colorado Rockies,Cincinnati Reds,40.48,0.33,0.2,0.3,41.86,0.0,0.0,0.1
+26-05-2015,Colorado Rockies,Cincinnati Reds,41.86,0.33,0.4,0.4,40.91,0.0,0.0,0.0
+27-05-2015,Colorado Rockies,Cincinnati Reds,40.91,0.33,0.6,0.5,42.22,0.0,0.0,0.0
+29-05-2015,Washington Nationals,Cincinnati Reds,59.57,0.0,0.4,0.6,41.3,0.33,0.2,0.1
+30-05-2015,Washington Nationals,Cincinnati Reds,58.33,0.33,0.4,0.6,42.55,0.0,0.2,0.1
+31-05-2015,Washington Nationals,Cincinnati Reds,57.14,0.0,0.2,0.5,43.75,0.33,0.4,0.2
+05-06-2015,San Diego Padres,Cincinnati Reds,49.09,0.33,0.4,0.5,44.23,0.0,0.2,0.4
+06-06-2015,San Diego Padres,Cincinnati Reds,50.0,0.33,0.4,0.5,43.4,0.33,0.2,0.5
+07-06-2015,San Diego Padres,Cincinnati Reds,50.88,0.33,0.6,0.5,42.59,0.0,0.2,0.4
+08-06-2015,Philadelphia Phillies,Cincinnati Reds,37.93,0.0,0.0,0.2,43.64,0.0,0.2,0.4
+09-06-2015,Philadelphia Phillies,Cincinnati Reds,37.29,0.33,0.2,0.3,44.64,0.33,0.2,0.4
+10-06-2015,Philadelphia Phillies,Cincinnati Reds,36.67,0.0,0.2,0.3,45.61,0.33,0.4,0.4
+17-06-2015,Detroit Tigers,Cincinnati Reds,52.31,0.33,0.4,0.6,45.31,0.0,0.0,0.4
+19-06-2015,Miami Marlins,Cincinnati Reds,42.65,0.0,0.4,0.5,46.15,0.33,0.2,0.4
+20-06-2015,Miami Marlins,Cincinnati Reds,42.03,0.0,0.2,0.5,46.97,0.33,0.4,0.4
+21-06-2015,Miami Marlins,Cincinnati Reds,42.86,0.0,0.0,0.4,46.27,0.33,0.6,0.4
+29-06-2015,Minnesota Twins,Cincinnati Reds,53.33,0.33,0.4,0.4,45.95,0.0,0.2,0.4
+30-06-2015,Minnesota Twins,Cincinnati Reds,52.63,0.0,0.2,0.3,46.67,0.0,0.0,0.3
+01-07-2015,Minnesota Twins,Cincinnati Reds,53.25,0.0,0.2,0.3,46.05,0.33,0.2,0.4
+03-07-2015,Milwaukee Brewers,Cincinnati Reds,40.74,0.33,0.6,0.6,46.75,0.0,0.2,0.3
+04-07-2015,Milwaukee Brewers,Cincinnati Reds,41.46,0.33,0.6,0.6,46.15,0.33,0.4,0.4
+05-07-2015,Milwaukee Brewers,Cincinnati Reds,42.17,0.33,0.6,0.7,45.57,0.0,0.2,0.3
+17-07-2015,Cleveland Indians,Cincinnati Reds,47.73,0.0,0.4,0.4,45.35,0.0,0.2,0.3
+18-07-2015,Cleveland Indians,Cincinnati Reds,47.19,0.0,0.2,0.4,45.98,0.0,0.2,0.3
+19-07-2015,Cleveland Indians,Cincinnati Reds,47.78,0.0,0.0,0.4,45.45,0.33,0.2,0.4
+20-07-2015,Chicago Cubs,Cincinnati Reds,54.44,0.33,0.4,0.4,44.94,0.0,0.2,0.4
+21-07-2015,Chicago Cubs,Cincinnati Reds,53.85,0.33,0.4,0.4,45.56,0.0,0.2,0.3
+30-07-2015,Pittsburgh Pirates,Cincinnati Reds,59.0,0.33,0.4,0.5,45.45,0.33,0.2,0.3
+31-07-2015,Pittsburgh Pirates,Cincinnati Reds,58.42,0.33,0.6,0.5,46.0,0.33,0.4,0.4
+01-08-2015,Pittsburgh Pirates,Cincinnati Reds,58.82,0.0,0.4,0.5,45.54,0.33,0.6,0.4
+02-08-2015,Pittsburgh Pirates,Cincinnati Reds,58.25,0.33,0.4,0.6,46.08,0.0,0.4,0.4
+04-08-2015,St. Louis Cardinals,Cincinnati Reds,63.81,0.0,0.4,0.4,45.63,0.33,0.4,0.5
+05-08-2015,St. Louis Cardinals,Cincinnati Reds,63.21,0.33,0.4,0.4,46.15,0.0,0.2,0.4
+06-08-2015,St. Louis Cardinals,Cincinnati Reds,63.55,0.0,0.2,0.4,45.71,0.33,0.4,0.5
+18-08-2015,Kansas City Royals,Cincinnati Reds,60.68,0.33,0.4,0.6,43.97,0.0,0.2,0.3
+19-08-2015,Kansas City Royals,Cincinnati Reds,61.02,0.33,0.6,0.6,43.59,0.0,0.0,0.2
+20-08-2015,Arizona Diamondbacks,Cincinnati Reds,48.74,0.0,0.2,0.4,43.22,0.0,0.0,0.2
+21-08-2015,Arizona Diamondbacks,Cincinnati Reds,49.17,0.0,0.2,0.3,42.86,0.0,0.0,0.2
+22-08-2015,Arizona Diamondbacks,Cincinnati Reds,49.59,0.33,0.2,0.3,42.5,0.0,0.0,0.2
+23-08-2015,Arizona Diamondbacks,Cincinnati Reds,50.0,0.33,0.4,0.4,42.15,0.0,0.0,0.1
+24-08-2015,Detroit Tigers,Cincinnati Reds,47.97,0.0,0.2,0.4,41.8,0.0,0.0,0.0
+25-08-2015,Los Angeles Dodgers,Cincinnati Reds,54.47,0.0,0.0,0.3,42.28,0.0,0.0,0.0
+26-08-2015,Los Angeles Dodgers,Cincinnati Reds,54.84,0.0,0.0,0.3,41.94,0.33,0.2,0.1
+27-08-2015,Los Angeles Dodgers,Cincinnati Reds,55.2,0.33,0.2,0.3,41.6,0.0,0.2,0.1
+06-09-2015,Milwaukee Brewers,Cincinnati Reds,44.44,0.33,0.6,0.6,41.04,0.0,0.2,0.3
+07-09-2015,Pittsburgh Pirates,Cincinnati Reds,60.0,0.0,0.2,0.3,41.48,0.0,0.2,0.3
+08-09-2015,Pittsburgh Pirates,Cincinnati Reds,59.56,0.33,0.4,0.3,41.91,0.33,0.2,0.4
+09-09-2015,Pittsburgh Pirates,Cincinnati Reds,59.85,0.0,0.2,0.2,41.61,0.33,0.4,0.4
+10-09-2015,St. Louis Cardinals,Cincinnati Reds,63.31,0.0,0.0,0.3,41.3,0.0,0.4,0.4
+11-09-2015,St. Louis Cardinals,Cincinnati Reds,62.86,0.33,0.2,0.3,41.73,0.0,0.2,0.3
+12-09-2015,St. Louis Cardinals,Cincinnati Reds,62.41,0.0,0.2,0.2,42.14,0.33,0.2,0.4
+13-09-2015,St. Louis Cardinals,Cincinnati Reds,61.97,0.0,0.2,0.2,42.55,0.33,0.4,0.4
+24-09-2015,New York Mets,Cincinnati Reds,55.92,0.0,0.2,0.3,41.72,0.0,0.0,0.3
+25-09-2015,New York Mets,Cincinnati Reds,56.21,0.0,0.2,0.2,41.45,0.0,0.0,0.3
+26-09-2015,New York Mets,Cincinnati Reds,56.49,0.33,0.2,0.3,41.18,0.0,0.0,0.2
+27-09-2015,New York Mets,Cincinnati Reds,56.77,0.33,0.4,0.4,40.91,0.0,0.0,0.2
+29-09-2015,Chicago Cubs,Cincinnati Reds,58.33,0.33,0.2,0.4,40.38,0.0,0.0,0.0
+30-09-2015,Chicago Cubs,Cincinnati Reds,58.6,0.33,0.4,0.4,40.13,0.0,0.0,0.0
+01-10-2015,Chicago Cubs,Cincinnati Reds,58.86,0.33,0.6,0.5,39.87,0.0,0.0,0.0
+10-04-2015,Detroit Tigers,Cleveland Indians,100.0,0.33,nan,nan,66.67,0.33,nan,nan
+11-04-2015,Detroit Tigers,Cleveland Indians,100.0,0.33,0.6,nan,50.0,0.33,0.4,nan
+12-04-2015,Detroit Tigers,Cleveland Indians,100.0,0.33,0.6,nan,40.0,0.0,0.4,nan
+14-04-2015,Chicago White Sox,Cleveland Indians,33.33,0.33,0.2,nan,33.33,0.0,0.2,nan
+15-04-2015,Chicago White Sox,Cleveland Indians,42.86,0.33,0.4,nan,28.57,0.0,0.0,nan
+27-04-2015,Kansas City Royals,Cleveland Indians,66.67,0.0,0.2,0.5,35.29,0.0,0.2,0.3
+28-04-2015,Kansas City Royals,Cleveland Indians,68.42,0.0,0.2,0.4,33.33,0.0,0.2,0.3
+29-04-2015,Kansas City Royals,Cleveland Indians,70.0,0.33,0.2,0.5,31.58,0.0,0.0,0.2
+30-04-2015,Toronto Blue Jays,Cleveland Indians,45.45,0.33,0.2,0.4,35.0,0.0,0.0,0.2
+01-05-2015,Toronto Blue Jays,Cleveland Indians,47.83,0.0,0.2,0.3,33.33,0.33,0.2,0.3
+02-05-2015,Toronto Blue Jays,Cleveland Indians,45.83,0.33,0.4,0.3,36.36,0.0,0.2,0.2
+03-05-2015,Toronto Blue Jays,Cleveland Indians,48.0,0.0,0.2,0.2,34.78,0.33,0.4,0.3
+08-05-2015,Minnesota Twins,Cleveland Indians,55.17,0.33,0.4,0.6,37.04,0.33,0.4,0.4
+09-05-2015,Minnesota Twins,Cleveland Indians,56.67,0.33,0.4,0.7,35.71,0.0,0.2,0.4
+10-05-2015,Minnesota Twins,Cleveland Indians,58.06,0.33,0.6,0.7,34.48,0.0,0.2,0.3
+12-05-2015,St. Louis Cardinals,Cleveland Indians,70.97,0.0,0.4,0.6,36.67,0.0,0.0,0.3
+13-05-2015,St. Louis Cardinals,Cleveland Indians,71.88,0.0,0.2,0.5,35.48,0.33,0.2,0.3
+14-05-2015,St. Louis Cardinals,Cleveland Indians,69.7,0.33,0.2,0.5,37.5,0.0,0.2,0.3
+22-05-2015,Cincinnati Reds,Cleveland Indians,45.0,0.0,0.0,0.3,42.5,0.33,0.4,0.5
+23-05-2015,Cincinnati Reds,Cleveland Indians,43.9,0.0,0.0,0.3,43.9,0.33,0.6,0.5
+24-05-2015,Cincinnati Reds,Cleveland Indians,42.86,0.0,0.0,0.2,45.24,0.33,0.6,0.6
+25-05-2015,Texas Rangers,Cleveland Indians,47.73,0.33,0.6,0.5,46.51,0.33,0.6,0.6
+26-05-2015,Texas Rangers,Cleveland Indians,48.89,0.33,0.6,0.6,45.45,0.33,0.6,0.6
+27-05-2015,Texas Rangers,Cleveland Indians,50.0,0.33,0.6,0.7,44.44,0.0,0.4,0.6
+05-06-2015,Baltimore Orioles,Cleveland Indians,45.28,0.0,0.0,0.2,49.06,0.0,0.4,0.5
+06-06-2015,Baltimore Orioles,Cleveland Indians,46.3,0.33,0.2,0.3,48.15,0.33,0.4,0.6
+07-06-2015,Baltimore Orioles,Cleveland Indians,45.45,0.33,0.4,0.3,49.09,0.0,0.2,0.5
+09-06-2015,Seattle Mariners,Cleveland Indians,43.86,0.33,0.2,0.1,48.21,0.33,0.4,0.5
+10-06-2015,Seattle Mariners,Cleveland Indians,44.83,0.0,0.2,0.1,47.37,0.0,0.2,0.5
+11-06-2015,Seattle Mariners,Cleveland Indians,45.76,0.33,0.4,0.2,46.55,0.0,0.2,0.4
+17-06-2015,Chicago Cubs,Cleveland Indians,54.84,0.33,0.4,0.6,47.62,0.0,0.2,0.3
+18-06-2015,Chicago Cubs,Cleveland Indians,55.56,0.0,0.4,0.5,46.88,0.33,0.4,0.3
+19-06-2015,Tampa Bay Rays,Cleveland Indians,55.88,0.33,0.4,0.6,47.69,0.0,0.2,0.3
+20-06-2015,Tampa Bay Rays,Cleveland Indians,56.52,0.33,0.4,0.6,46.97,0.33,0.4,0.4
+21-06-2015,Tampa Bay Rays,Cleveland Indians,57.14,0.33,0.6,0.7,46.27,0.0,0.2,0.4
+22-06-2015,Detroit Tigers,Cleveland Indians,50.72,0.0,0.0,0.3,47.06,0.0,0.2,0.3
+23-06-2015,Detroit Tigers,Cleveland Indians,51.43,0.33,0.2,0.3,46.38,0.33,0.2,0.4
+24-06-2015,Detroit Tigers,Cleveland Indians,52.11,0.33,0.4,0.4,45.71,0.0,0.2,0.3
+06-07-2015,Houston Astros,Cleveland Indians,57.14,0.0,0.4,0.5,46.91,0.0,0.4,0.5
+07-07-2015,Houston Astros,Cleveland Indians,57.65,0.0,0.2,0.5,46.34,0.0,0.2,0.5
+08-07-2015,Houston Astros,Cleveland Indians,56.98,0.33,0.2,0.6,46.99,0.0,0.0,0.5
+09-07-2015,Houston Astros,Cleveland Indians,56.32,0.0,0.2,0.5,47.62,0.33,0.2,0.5
+10-07-2015,Oakland Athletics,Cleveland Indians,44.32,0.0,0.2,0.4,48.24,0.33,0.4,0.5
+11-07-2015,Oakland Athletics,Cleveland Indians,43.82,0.0,0.2,0.4,48.84,0.33,0.6,0.5
+12-07-2015,Oakland Athletics,Cleveland Indians,44.44,0.0,0.0,0.3,48.28,0.33,0.6,0.5
+23-07-2015,Chicago White Sox,Cleveland Indians,45.65,0.0,0.0,0.3,48.39,0.0,0.4,0.4
+24-07-2015,Chicago White Sox,Cleveland Indians,46.24,0.0,0.0,0.2,47.87,0.33,0.4,0.4
+25-07-2015,Chicago White Sox,Cleveland Indians,46.81,0.33,0.2,0.2,47.37,0.0,0.2,0.3
+26-07-2015,Chicago White Sox,Cleveland Indians,47.37,0.33,0.4,0.3,46.88,0.0,0.2,0.3
+27-07-2015,Kansas City Royals,Cleveland Indians,60.82,0.33,0.2,0.5,46.39,0.0,0.0,0.3
+28-07-2015,Kansas City Royals,Cleveland Indians,61.22,0.33,0.4,0.5,45.92,0.0,0.0,0.3
+29-07-2015,Kansas City Royals,Cleveland Indians,61.62,0.33,0.6,0.5,45.45,0.0,0.0,0.2
+07-08-2015,Minnesota Twins,Cleveland Indians,50.0,0.0,0.0,0.2,45.79,0.33,0.2,0.4
+08-08-2015,Minnesota Twins,Cleveland Indians,50.46,0.0,0.0,0.2,45.37,0.0,0.2,0.4
+09-08-2015,Minnesota Twins,Cleveland Indians,50.0,0.33,0.2,0.2,45.87,0.0,0.2,0.3
+11-08-2015,New York Yankees,Cleveland Indians,55.45,0.0,0.2,0.4,46.36,0.33,0.2,0.3
+12-08-2015,New York Yankees,Cleveland Indians,54.95,0.0,0.0,0.3,46.85,0.33,0.4,0.3
+13-08-2015,New York Yankees,Cleveland Indians,54.46,0.0,0.0,0.3,47.32,0.33,0.6,0.4
+25-08-2015,Milwaukee Brewers,Cleveland Indians,42.4,0.0,0.4,0.5,46.77,0.33,0.4,0.4
+26-08-2015,Milwaukee Brewers,Cleveland Indians,42.06,0.0,0.2,0.4,47.2,0.0,0.2,0.4
+28-08-2015,Los Angeles Angels of Anaheim,Cleveland Indians,51.18,0.0,0.2,0.3,47.62,0.33,0.4,0.4
+29-08-2015,Los Angeles Angels of Anaheim,Cleveland Indians,50.78,0.33,0.4,0.3,48.03,0.33,0.4,0.5
+30-08-2015,Los Angeles Angels of Anaheim,Cleveland Indians,50.39,0.0,0.2,0.2,48.44,0.33,0.6,0.6
+10-09-2015,Detroit Tigers,Cleveland Indians,46.04,0.33,0.4,0.4,49.28,0.0,0.4,0.4
+14-09-2015,Kansas City Royals,Cleveland Indians,59.15,0.33,0.2,0.2,49.65,0.33,0.6,0.6
+15-09-2015,Kansas City Royals,Cleveland Indians,58.74,0.0,0.2,0.2,50.0,0.0,0.4,0.5
+16-09-2015,Kansas City Royals,Cleveland Indians,59.03,0.0,0.2,0.2,49.65,0.33,0.4,0.6
+17-09-2015,Kansas City Royals,Cleveland Indians,58.62,0.33,0.2,0.3,50.0,0.0,0.2,0.5
+18-09-2015,Chicago White Sox,Cleveland Indians,47.59,0.33,0.4,0.4,49.66,0.33,0.4,0.5
+19-09-2015,Chicago White Sox,Cleveland Indians,47.26,0.0,0.2,0.3,50.0,0.0,0.2,0.5
+20-09-2015,Chicago White Sox,Cleveland Indians,47.62,0.0,0.2,0.3,49.66,0.33,0.4,0.5
+28-09-2015,Minnesota Twins,Cleveland Indians,51.61,0.33,0.2,0.4,50.0,0.33,0.6,0.5
+01-10-2015,Minnesota Twins,Cleveland Indians,51.9,0.33,0.6,0.6,49.68,0.0,0.0,0.3
+02-10-2015,Boston Red Sox,Cleveland Indians,49.06,0.33,0.6,0.6,49.37,0.33,0.2,0.4
+03-10-2015,Boston Red Sox,Cleveland Indians,48.75,0.0,0.4,0.6,49.69,0.0,0.2,0.4
+04-10-2015,Boston Red Sox,Cleveland Indians,48.45,0.0,0.2,0.6,50.0,0.33,0.4,0.4
+10-04-2015,Chicago Cubs,Colorado Rockies,50.0,0.0,nan,nan,100.0,0.33,nan,nan
+11-04-2015,Chicago Cubs,Colorado Rockies,33.33,0.33,nan,nan,100.0,0.33,0.6,nan
+12-04-2015,Chicago Cubs,Colorado Rockies,50.0,0.0,0.2,nan,80.0,0.33,0.6,nan
+20-04-2015,San Diego Padres,Colorado Rockies,61.54,0.0,0.4,0.6,58.33,0.0,0.2,0.4
+21-04-2015,San Diego Padres,Colorado Rockies,64.29,0.33,0.4,0.6,53.85,0.0,0.0,0.3
+22-04-2015,San Diego Padres,Colorado Rockies,66.67,0.33,0.4,0.6,50.0,0.0,0.0,0.3
+23-04-2015,San Diego Padres,Colorado Rockies,62.5,0.33,0.6,0.6,53.33,0.0,0.0,0.3
+24-04-2015,San Francisco Giants,Colorado Rockies,41.18,0.33,0.4,0.3,56.25,0.33,0.2,0.3
+25-04-2015,San Francisco Giants,Colorado Rockies,38.89,0.33,0.6,0.4,58.82,0.33,0.4,0.3
+08-05-2015,Los Angeles Dodgers,Colorado Rockies,64.29,0.0,0.2,0.5,42.31,0.0,0.0,0.1
+10-05-2015,Los Angeles Dodgers,Colorado Rockies,65.52,0.33,0.4,0.6,40.74,0.0,0.0,0.1
+18-05-2015,Philadelphia Phillies,Colorado Rockies,41.03,0.33,0.6,0.4,38.24,0.33,0.4,0.2
+19-05-2015,Philadelphia Phillies,Colorado Rockies,42.5,0.33,0.6,0.5,37.14,0.0,0.2,0.2
+20-05-2015,Philadelphia Phillies,Colorado Rockies,41.46,0.33,0.6,0.6,38.89,0.0,0.2,0.2
+21-05-2015,Philadelphia Phillies,Colorado Rockies,42.86,0.0,0.4,0.6,37.84,0.33,0.2,0.3
+22-05-2015,San Francisco Giants,Colorado Rockies,56.1,0.33,0.6,0.6,39.47,0.0,0.2,0.3
+24-05-2015,San Francisco Giants,Colorado Rockies,56.82,0.33,0.6,0.8,39.02,0.0,0.2,0.3
+01-06-2015,Los Angeles Dodgers,Colorado Rockies,59.18,0.33,0.2,0.5,45.83,0.33,0.6,0.6
+03-06-2015,Los Angeles Dodgers,Colorado Rockies,59.62,0.0,0.2,0.4,45.1,0.33,0.4,0.6
+05-06-2015,Miami Marlins,Colorado Rockies,40.74,0.33,0.2,0.3,46.15,0.0,0.2,0.5
+06-06-2015,Miami Marlins,Colorado Rockies,41.82,0.33,0.4,0.4,45.28,0.33,0.4,0.6
+07-06-2015,Miami Marlins,Colorado Rockies,41.07,0.33,0.6,0.5,46.3,0.0,0.2,0.5
+08-06-2015,St. Louis Cardinals,Colorado Rockies,66.67,0.0,0.4,0.5,45.45,0.33,0.4,0.5
+09-06-2015,St. Louis Cardinals,Colorado Rockies,65.52,0.33,0.4,0.6,46.43,0.0,0.2,0.4
+10-06-2015,St. Louis Cardinals,Colorado Rockies,64.41,0.0,0.2,0.5,47.37,0.33,0.4,0.4
+17-06-2015,Houston Astros,Colorado Rockies,57.58,0.33,0.4,0.3,43.75,0.0,0.2,0.3
+18-06-2015,Houston Astros,Colorado Rockies,58.21,0.33,0.6,0.4,43.08,0.0,0.2,0.2
+19-06-2015,Milwaukee Brewers,Colorado Rockies,35.29,0.0,0.0,0.2,42.42,0.0,0.0,0.1
+20-06-2015,Milwaukee Brewers,Colorado Rockies,36.23,0.0,0.0,0.2,41.79,0.0,0.0,0.1
+21-06-2015,Milwaukee Brewers,Colorado Rockies,35.71,0.33,0.2,0.2,42.65,0.0,0.0,0.1
+23-06-2015,Arizona Diamondbacks,Colorado Rockies,49.28,0.0,0.2,0.5,43.48,0.33,0.2,0.2
+24-06-2015,Arizona Diamondbacks,Colorado Rockies,48.57,0.33,0.4,0.5,44.29,0.33,0.4,0.3
+25-06-2015,Arizona Diamondbacks,Colorado Rockies,49.3,0.0,0.2,0.4,43.66,0.33,0.6,0.3
+07-07-2015,Los Angeles Angels of Anaheim,Colorado Rockies,53.66,0.33,0.4,0.6,42.68,0.0,0.0,0.1
+08-07-2015,Los Angeles Angels of Anaheim,Colorado Rockies,54.22,0.33,0.6,0.7,42.17,0.33,0.2,0.2
+09-07-2015,Atlanta Braves,Colorado Rockies,49.41,0.33,0.4,0.6,41.67,0.0,0.2,0.2
+10-07-2015,Atlanta Braves,Colorado Rockies,48.84,0.0,0.4,0.6,42.35,0.0,0.2,0.2
+11-07-2015,Atlanta Braves,Colorado Rockies,48.28,0.0,0.2,0.5,43.02,0.33,0.2,0.2
+12-07-2015,Atlanta Braves,Colorado Rockies,47.73,0.0,0.0,0.4,43.68,0.33,0.4,0.3
+20-07-2015,Texas Rangers,Colorado Rockies,47.25,0.33,0.2,0.2,43.33,0.0,0.4,0.5
+21-07-2015,Texas Rangers,Colorado Rockies,46.74,0.0,0.2,0.2,43.96,0.0,0.2,0.4
+22-07-2015,Texas Rangers,Colorado Rockies,47.31,0.0,0.2,0.2,43.48,0.33,0.2,0.5
+24-07-2015,Cincinnati Reds,Colorado Rockies,45.16,0.33,0.4,0.3,43.01,0.0,0.2,0.5
+25-07-2015,Cincinnati Reds,Colorado Rockies,44.68,0.0,0.2,0.3,43.62,0.0,0.2,0.4
+26-07-2015,Cincinnati Reds,Colorado Rockies,45.26,0.0,0.2,0.3,43.16,0.33,0.2,0.4
+03-08-2015,Seattle Mariners,Colorado Rockies,45.28,0.0,0.2,0.2,42.72,0.33,0.2,0.3
+04-08-2015,Seattle Mariners,Colorado Rockies,45.79,0.33,0.4,0.3,42.31,0.0,0.2,0.3
+05-08-2015,Seattle Mariners,Colorado Rockies,46.3,0.33,0.4,0.3,41.9,0.0,0.2,0.2
+14-08-2015,San Diego Padres,Colorado Rockies,46.96,0.33,0.4,0.2,41.59,0.0,0.0,0.3
+15-08-2015,San Diego Padres,Colorado Rockies,47.41,0.0,0.4,0.2,41.23,0.0,0.0,0.3
+16-08-2015,San Diego Padres,Colorado Rockies,47.86,0.33,0.4,0.3,40.87,0.0,0.0,0.2
+18-08-2015,Washington Nationals,Colorado Rockies,49.57,0.0,0.0,0.2,41.38,0.0,0.0,0.1
+19-08-2015,Washington Nationals,Colorado Rockies,50.0,0.0,0.0,0.1,41.03,0.33,0.2,0.2
+20-08-2015,Washington Nationals,Colorado Rockies,50.42,0.33,0.2,0.2,40.68,0.0,0.2,0.1
+21-08-2015,New York Mets,Colorado Rockies,53.33,0.33,0.2,0.5,41.18,0.0,0.2,0.1
+22-08-2015,New York Mets,Colorado Rockies,53.72,0.0,0.2,0.4,40.83,0.33,0.2,0.2
+23-08-2015,New York Mets,Colorado Rockies,54.1,0.33,0.4,0.4,40.5,0.0,0.2,0.2
+31-08-2015,Arizona Diamondbacks,Colorado Rockies,48.46,0.0,0.2,0.3,40.62,0.0,0.2,0.2
+02-09-2015,Arizona Diamondbacks,Colorado Rockies,48.87,0.33,0.2,0.2,40.46,0.0,0.4,0.4
+03-09-2015,San Francisco Giants,Colorado Rockies,51.88,0.0,0.0,0.3,40.91,0.0,0.2,0.4
+04-09-2015,San Francisco Giants,Colorado Rockies,51.49,0.0,0.0,0.3,41.35,0.33,0.2,0.4
+05-09-2015,San Francisco Giants,Colorado Rockies,51.11,0.0,0.0,0.2,41.79,0.33,0.4,0.4
+06-09-2015,San Francisco Giants,Colorado Rockies,51.47,0.0,0.0,0.1,41.48,0.33,0.6,0.5
+18-09-2015,San Diego Padres,Colorado Rockies,46.94,0.0,0.2,0.3,41.78,0.33,0.4,0.4
+19-09-2015,San Diego Padres,Colorado Rockies,46.62,0.33,0.4,0.3,42.18,0.0,0.2,0.4
+20-09-2015,San Diego Padres,Colorado Rockies,46.31,0.0,0.2,0.2,42.57,0.33,0.4,0.5
+21-09-2015,Pittsburgh Pirates,Colorado Rockies,59.73,0.33,0.2,0.4,42.28,0.33,0.4,0.5
+22-09-2015,Pittsburgh Pirates,Colorado Rockies,60.0,0.33,0.4,0.4,42.0,0.0,0.4,0.4
+23-09-2015,Pittsburgh Pirates,Colorado Rockies,60.26,0.33,0.6,0.4,41.72,0.0,0.2,0.4
+24-09-2015,Pittsburgh Pirates,Colorado Rockies,60.53,0.33,0.6,0.4,41.45,0.0,0.0,0.3
+25-09-2015,Los Angeles Dodgers,Colorado Rockies,57.24,0.33,0.2,0.3,41.18,0.0,0.0,0.3
+26-09-2015,Los Angeles Dodgers,Colorado Rockies,56.86,0.33,0.4,0.4,41.56,0.0,0.0,0.2
+27-09-2015,Los Angeles Dodgers,Colorado Rockies,56.49,0.0,0.4,0.3,41.94,0.33,0.2,0.3
+06-04-2015,Minnesota Twins,Detroit Tigers,0,0.0,0.2,0.5,0,0.0,0.0,0.2
+08-04-2015,Minnesota Twins,Detroit Tigers,0.0,nan,nan,nan,100.0,nan,nan,nan
+09-04-2015,Minnesota Twins,Detroit Tigers,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+17-04-2015,Chicago White Sox,Detroit Tigers,37.5,0.33,0.6,nan,88.89,0.33,0.4,0.7
+18-04-2015,Chicago White Sox,Detroit Tigers,33.33,0.0,0.4,0.3,90.0,0.33,0.4,0.7
+19-04-2015,Chicago White Sox,Detroit Tigers,40.0,0.0,0.2,0.3,81.82,0.33,0.6,0.7
+20-04-2015,New York Yankees,Detroit Tigers,50.0,0.33,0.4,0.4,83.33,0.0,0.4,0.6
+21-04-2015,New York Yankees,Detroit Tigers,46.15,0.33,0.6,0.5,84.62,0.33,0.4,0.6
+22-04-2015,New York Yankees,Detroit Tigers,50.0,0.0,0.4,0.5,78.57,0.33,0.4,0.6
+23-04-2015,New York Yankees,Detroit Tigers,53.33,0.33,0.4,0.5,73.33,0.0,0.4,0.5
+24-04-2015,Cleveland Indians,Detroit Tigers,35.71,0.33,0.2,0.3,68.75,0.0,0.2,0.5
+25-04-2015,Cleveland Indians,Detroit Tigers,40.0,0.0,0.2,0.3,64.71,0.0,0.0,0.4
+26-04-2015,Cleveland Indians,Detroit Tigers,37.5,0.33,0.4,0.4,66.67,0.0,0.0,0.3
+08-05-2015,Kansas City Royals,Detroit Tigers,64.29,0.0,0.2,0.4,62.07,0.0,0.2,0.3
+09-05-2015,Kansas City Royals,Detroit Tigers,62.07,0.33,0.4,0.4,63.33,0.33,0.2,0.4
+10-05-2015,Kansas City Royals,Detroit Tigers,63.33,0.0,0.2,0.4,61.29,0.33,0.4,0.4
+12-05-2015,Minnesota Twins,Detroit Tigers,56.25,0.33,0.6,0.7,59.38,0.0,0.4,0.4
+13-05-2015,Minnesota Twins,Detroit Tigers,54.55,0.0,0.4,0.6,60.61,0.0,0.2,0.4
+14-05-2015,Minnesota Twins,Detroit Tigers,55.88,0.0,0.2,0.5,58.82,0.33,0.2,0.4
+18-05-2015,Milwaukee Brewers,Detroit Tigers,34.21,0.0,0.2,0.4,60.53,0.33,0.6,0.5
+19-05-2015,Milwaukee Brewers,Detroit Tigers,35.9,0.0,0.2,0.4,58.97,0.0,0.4,0.4
+20-05-2015,Milwaukee Brewers,Detroit Tigers,37.5,0.33,0.2,0.4,57.5,0.0,0.2,0.4
+21-05-2015,Houston Astros,Detroit Tigers,65.85,0.33,0.4,0.6,58.54,0.0,0.0,0.4
+22-05-2015,Houston Astros,Detroit Tigers,64.29,0.33,0.4,0.7,59.52,0.33,0.2,0.4
+23-05-2015,Houston Astros,Detroit Tigers,62.79,0.0,0.4,0.6,60.47,0.33,0.4,0.5
+24-05-2015,Houston Astros,Detroit Tigers,63.64,0.0,0.2,0.5,59.09,0.33,0.6,0.5
+02-06-2015,Oakland Athletics,Detroit Tigers,37.74,0.0,0.4,0.5,53.85,0.0,0.0,0.2
+03-06-2015,Oakland Athletics,Detroit Tigers,38.89,0.33,0.4,0.5,52.83,0.0,0.0,0.2
+04-06-2015,Oakland Athletics,Detroit Tigers,40.0,0.33,0.4,0.5,51.85,0.0,0.0,0.2
+09-06-2015,Chicago Cubs,Detroit Tigers,54.55,0.33,0.4,0.4,51.72,0.33,0.2,0.1
+10-06-2015,Chicago Cubs,Detroit Tigers,53.57,0.33,0.4,0.5,52.54,0.33,0.4,0.2
+12-06-2015,Cleveland Indians,Detroit Tigers,47.46,0.0,0.0,0.3,51.67,0.33,0.6,0.3
+13-06-2015,Cleveland Indians,Detroit Tigers,46.67,0.33,0.2,0.3,52.46,0.0,0.4,0.3
+14-06-2015,Cleveland Indians,Detroit Tigers,47.54,0.0,0.2,0.3,51.61,0.33,0.4,0.4
+15-06-2015,Cincinnati Reds,Detroit Tigers,45.16,0.0,0.2,0.5,52.38,0.0,0.2,0.4
+16-06-2015,Cincinnati Reds,Detroit Tigers,44.44,0.0,0.2,0.5,53.12,0.33,0.4,0.5
+25-06-2015,Chicago White Sox,Detroit Tigers,43.66,0.33,0.4,0.3,51.39,0.33,0.6,0.4
+26-06-2015,Chicago White Sox,Detroit Tigers,44.44,0.0,0.2,0.3,50.68,0.0,0.4,0.3
+28-06-2015,Chicago White Sox,Detroit Tigers,43.84,0.33,0.4,0.4,51.35,0.0,0.2,0.3
+30-06-2015,Pittsburgh Pirates,Detroit Tigers,56.0,0.33,0.4,0.3,52.0,0.33,0.2,0.4
+01-07-2015,Pittsburgh Pirates,Detroit Tigers,56.58,0.0,0.4,0.3,51.32,0.33,0.4,0.5
+02-07-2015,Pittsburgh Pirates,Detroit Tigers,57.14,0.33,0.4,0.4,50.65,0.0,0.4,0.5
+03-07-2015,Toronto Blue Jays,Detroit Tigers,51.85,0.33,0.2,0.4,50.0,0.0,0.2,0.4
+04-07-2015,Toronto Blue Jays,Detroit Tigers,51.22,0.0,0.2,0.4,50.63,0.0,0.0,0.3
+05-07-2015,Toronto Blue Jays,Detroit Tigers,50.6,0.0,0.2,0.3,51.25,0.33,0.2,0.3
+17-07-2015,Baltimore Orioles,Detroit Tigers,50.0,0.0,0.2,0.2,50.0,0.0,0.2,0.4
+18-07-2015,Baltimore Orioles,Detroit Tigers,49.44,0.0,0.2,0.2,50.56,0.0,0.0,0.3
+19-07-2015,Baltimore Orioles,Detroit Tigers,50.0,0.0,0.0,0.2,50.0,0.33,0.2,0.4
+20-07-2015,Seattle Mariners,Detroit Tigers,45.65,0.33,0.2,0.4,49.45,0.0,0.2,0.3
+21-07-2015,Seattle Mariners,Detroit Tigers,45.16,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+22-07-2015,Seattle Mariners,Detroit Tigers,45.74,0.0,0.2,0.3,49.46,0.33,0.2,0.3
+23-07-2015,Seattle Mariners,Detroit Tigers,45.26,0.33,0.2,0.3,50.0,0.0,0.2,0.2
+04-08-2015,Kansas City Royals,Detroit Tigers,59.62,0.33,0.2,0.5,48.57,0.0,0.2,0.3
+05-08-2015,Kansas City Royals,Detroit Tigers,60.0,0.0,0.2,0.4,48.11,0.33,0.2,0.3
+06-08-2015,Kansas City Royals,Detroit Tigers,59.43,0.33,0.4,0.4,48.6,0.0,0.2,0.3
+07-08-2015,Boston Red Sox,Detroit Tigers,44.04,0.33,0.2,0.4,49.07,0.33,0.4,0.4
+08-08-2015,Boston Red Sox,Detroit Tigers,44.55,0.0,0.2,0.4,48.62,0.33,0.4,0.5
+09-08-2015,Boston Red Sox,Detroit Tigers,44.14,0.33,0.4,0.5,49.09,0.0,0.4,0.4
+20-08-2015,Texas Rangers,Detroit Tigers,51.26,0.0,0.4,0.5,48.74,0.33,0.4,0.3
+21-08-2015,Texas Rangers,Detroit Tigers,50.83,0.33,0.4,0.6,49.17,0.33,0.4,0.4
+22-08-2015,Texas Rangers,Detroit Tigers,51.24,0.0,0.2,0.6,48.76,0.33,0.6,0.5
+23-08-2015,Texas Rangers,Detroit Tigers,51.64,0.33,0.4,0.6,48.36,0.0,0.4,0.5
+25-08-2015,Los Angeles Angels of Anaheim,Detroit Tigers,50.81,0.0,0.0,0.3,47.58,0.0,0.0,0.4
+26-08-2015,Los Angeles Angels of Anaheim,Detroit Tigers,51.2,0.0,0.0,0.3,47.2,0.0,0.0,0.3
+27-08-2015,Los Angeles Angels of Anaheim,Detroit Tigers,50.79,0.33,0.2,0.4,47.62,0.0,0.0,0.3
+04-09-2015,Cleveland Indians,Detroit Tigers,48.48,0.0,0.4,0.6,45.86,0.0,0.2,0.2
+05-09-2015,Cleveland Indians,Detroit Tigers,48.87,0.0,0.2,0.6,45.52,0.0,0.2,0.2
+06-09-2015,Cleveland Indians,Detroit Tigers,48.51,0.33,0.2,0.6,45.93,0.0,0.0,0.1
+07-09-2015,Tampa Bay Rays,Detroit Tigers,49.26,0.33,0.2,0.4,45.59,0.33,0.2,0.2
+08-09-2015,Tampa Bay Rays,Detroit Tigers,48.91,0.0,0.2,0.4,45.99,0.0,0.2,0.2
+09-09-2015,Tampa Bay Rays,Detroit Tigers,48.55,0.0,0.2,0.4,46.38,0.33,0.4,0.3
+18-09-2015,Kansas City Royals,Detroit Tigers,58.9,0.0,0.2,0.3,46.21,0.33,0.4,0.4
+19-09-2015,Kansas City Royals,Detroit Tigers,58.5,0.33,0.4,0.3,46.58,0.33,0.4,0.4
+20-09-2015,Kansas City Royals,Detroit Tigers,58.11,0.0,0.2,0.3,46.94,0.33,0.6,0.4
+22-09-2015,Chicago White Sox,Detroit Tigers,48.0,0.33,0.4,0.4,46.0,0.0,0.2,0.5
+23-09-2015,Chicago White Sox,Detroit Tigers,47.68,0.33,0.4,0.4,46.36,0.0,0.0,0.4
+25-09-2015,Minnesota Twins,Detroit Tigers,51.32,0.33,0.6,0.3,46.71,0.33,0.2,0.5
+26-09-2015,Minnesota Twins,Detroit Tigers,50.98,0.0,0.4,0.3,47.06,0.33,0.4,0.5
+27-09-2015,Minnesota Twins,Detroit Tigers,51.3,0.0,0.2,0.3,46.75,0.33,0.6,0.5
+06-04-2015,Cleveland Indians,Houston Astros,0,0.33,0.4,0.4,0,0.33,0.6,0.6
+08-04-2015,Cleveland Indians,Houston Astros,0.0,nan,nan,nan,100.0,nan,nan,nan
+09-04-2015,Cleveland Indians,Houston Astros,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+13-04-2015,Oakland Athletics,Houston Astros,42.86,0.0,0.2,nan,50.0,0.0,0.2,nan
+14-04-2015,Oakland Athletics,Houston Astros,50.0,0.0,0.2,nan,42.86,0.33,0.4,nan
+15-04-2015,Oakland Athletics,Houston Astros,55.56,0.33,0.2,0.4,37.5,0.0,0.2,nan
+17-04-2015,Los Angeles Angels of Anaheim,Houston Astros,44.44,0.0,0.2,0.3,44.44,0.0,0.2,0.3
+18-04-2015,Los Angeles Angels of Anaheim,Houston Astros,50.0,0.33,0.4,0.4,40.0,0.33,0.2,0.3
+19-04-2015,Los Angeles Angels of Anaheim,Houston Astros,45.45,0.33,0.4,0.4,45.45,0.0,0.2,0.3
+30-04-2015,Seattle Mariners,Houston Astros,47.62,0.33,0.4,0.4,66.67,0.33,0.6,0.7
+01-05-2015,Seattle Mariners,Houston Astros,45.45,0.33,0.6,0.5,68.18,0.33,0.6,0.7
+02-05-2015,Seattle Mariners,Houston Astros,43.48,0.0,0.4,0.5,69.57,0.33,0.6,0.7
+03-05-2015,Seattle Mariners,Houston Astros,41.67,0.0,0.2,0.4,70.83,0.33,0.6,0.8
+04-05-2015,Texas Rangers,Houston Astros,33.33,0.33,0.2,0.2,72.0,0.33,0.6,0.8
+05-05-2015,Texas Rangers,Houston Astros,36.0,0.0,0.2,0.2,69.23,0.33,0.6,0.8
+06-05-2015,Texas Rangers,Houston Astros,38.46,0.33,0.4,0.3,66.67,0.0,0.4,0.7
+12-05-2015,San Francisco Giants,Houston Astros,50.0,0.0,0.2,0.5,62.5,0.33,0.4,0.4
+13-05-2015,San Francisco Giants,Houston Astros,51.52,0.33,0.4,0.5,60.61,0.0,0.2,0.3
+14-05-2015,Toronto Blue Jays,Houston Astros,48.57,0.33,0.2,0.5,61.76,0.0,0.2,0.2
+15-05-2015,Toronto Blue Jays,Houston Astros,47.22,0.0,0.2,0.4,62.86,0.33,0.2,0.3
+16-05-2015,Toronto Blue Jays,Houston Astros,45.95,0.0,0.2,0.4,63.89,0.33,0.4,0.4
+17-05-2015,Toronto Blue Jays,Houston Astros,44.74,0.0,0.0,0.3,64.86,0.33,0.6,0.5
+18-05-2015,Oakland Athletics,Houston Astros,33.33,0.0,0.0,0.1,65.79,0.33,0.6,0.5
+19-05-2015,Oakland Athletics,Houston Astros,35.0,0.0,0.0,0.1,64.1,0.33,0.6,0.6
+20-05-2015,Oakland Athletics,Houston Astros,34.15,0.33,0.2,0.2,65.0,0.0,0.4,0.5
+29-05-2015,Chicago White Sox,Houston Astros,45.65,0.33,0.4,0.3,62.5,0.33,0.4,0.5
+30-05-2015,Chicago White Sox,Houston Astros,46.81,0.0,0.4,0.3,61.22,0.0,0.2,0.4
+31-05-2015,Chicago White Sox,Houston Astros,45.83,0.33,0.4,0.3,62.0,0.0,0.2,0.3
+01-06-2015,Baltimore Orioles,Houston Astros,46.94,0.0,0.4,0.4,60.78,0.33,0.2,0.4
+02-06-2015,Baltimore Orioles,Houston Astros,46.0,0.0,0.2,0.4,61.54,0.0,0.2,0.4
+03-06-2015,Baltimore Orioles,Houston Astros,45.1,0.0,0.0,0.3,62.26,0.33,0.4,0.4
+04-06-2015,Baltimore Orioles,Houston Astros,44.23,0.0,0.0,0.3,62.96,0.33,0.4,0.4
+12-06-2015,Seattle Mariners,Houston Astros,45.0,0.33,0.4,0.3,55.74,0.0,0.0,0.2
+13-06-2015,Seattle Mariners,Houston Astros,44.26,0.0,0.4,0.3,56.45,0.0,0.0,0.1
+14-06-2015,Seattle Mariners,Houston Astros,45.16,0.0,0.2,0.3,55.56,0.33,0.2,0.1
+15-06-2015,Colorado Rockies,Houston Astros,45.16,0.0,0.0,0.3,56.25,0.0,0.2,0.1
+16-06-2015,Colorado Rockies,Houston Astros,44.44,0.33,0.2,0.3,56.92,0.33,0.4,0.2
+25-06-2015,New York Yankees,Houston Astros,54.17,0.0,0.0,0.4,56.76,0.33,0.4,0.5
+26-06-2015,New York Yankees,Houston Astros,53.42,0.33,0.2,0.5,57.33,0.0,0.2,0.4
+27-06-2015,New York Yankees,Houston Astros,54.05,0.0,0.2,0.4,56.58,0.33,0.4,0.4
+28-06-2015,New York Yankees,Houston Astros,54.67,0.33,0.4,0.4,55.84,0.0,0.2,0.3
+29-06-2015,Kansas City Royals,Houston Astros,61.11,0.33,0.6,0.5,56.41,0.0,0.2,0.3
+30-06-2015,Kansas City Royals,Houston Astros,60.27,0.33,0.6,0.6,56.96,0.33,0.2,0.4
+01-07-2015,Kansas City Royals,Houston Astros,59.46,0.0,0.4,0.5,57.5,0.33,0.4,0.4
+17-07-2015,Texas Rangers,Houston Astros,47.73,0.0,0.2,0.2,53.85,0.0,0.0,0.1
+18-07-2015,Texas Rangers,Houston Astros,47.19,0.0,0.2,0.1,54.35,0.0,0.0,0.1
+19-07-2015,Texas Rangers,Houston Astros,47.78,0.0,0.0,0.1,53.76,0.33,0.2,0.2
+21-07-2015,Boston Red Sox,Houston Astros,45.16,0.0,0.0,0.3,54.26,0.0,0.2,0.1
+22-07-2015,Boston Red Sox,Houston Astros,44.68,0.0,0.0,0.2,54.74,0.33,0.4,0.2
+23-07-2015,Boston Red Sox,Houston Astros,44.21,0.0,0.0,0.1,55.21,0.33,0.4,0.3
+28-07-2015,Los Angeles Angels of Anaheim,Houston Astros,56.12,0.0,0.0,0.5,55.0,0.0,0.4,0.6
+29-07-2015,Los Angeles Angels of Anaheim,Houston Astros,55.56,0.33,0.2,0.5,55.45,0.0,0.2,0.5
+30-07-2015,Los Angeles Angels of Anaheim,Houston Astros,55.0,0.0,0.2,0.4,55.88,0.33,0.2,0.6
+31-07-2015,Arizona Diamondbacks,Houston Astros,49.0,0.33,0.6,0.5,56.31,0.33,0.4,0.6
+01-08-2015,Arizona Diamondbacks,Houston Astros,49.5,0.33,0.6,0.6,55.77,0.33,0.6,0.6
+02-08-2015,Arizona Diamondbacks,Houston Astros,49.02,0.33,0.6,0.7,56.19,0.0,0.4,0.5
+14-08-2015,Detroit Tigers,Houston Astros,48.25,0.0,0.0,0.3,53.91,0.0,0.0,0.1
+15-08-2015,Detroit Tigers,Houston Astros,47.83,0.33,0.2,0.4,54.31,0.33,0.2,0.2
+16-08-2015,Detroit Tigers,Houston Astros,48.28,0.0,0.2,0.3,53.85,0.33,0.4,0.3
+17-08-2015,Tampa Bay Rays,Houston Astros,49.57,0.0,0.2,0.4,54.24,0.0,0.4,0.3
+18-08-2015,Tampa Bay Rays,Houston Astros,50.0,0.0,0.0,0.4,53.78,0.33,0.4,0.3
+19-08-2015,Tampa Bay Rays,Houston Astros,49.58,0.33,0.2,0.5,54.17,0.0,0.2,0.3
+20-08-2015,Tampa Bay Rays,Houston Astros,49.17,0.0,0.2,0.4,54.55,0.33,0.4,0.4
+21-08-2015,Los Angeles Dodgers,Houston Astros,55.83,0.0,0.4,0.5,54.1,0.33,0.4,0.5
+22-08-2015,Los Angeles Dodgers,Houston Astros,55.37,0.0,0.2,0.5,54.47,0.0,0.4,0.5
+23-08-2015,Los Angeles Dodgers,Houston Astros,54.92,0.0,0.0,0.4,54.84,0.33,0.4,0.5
+31-08-2015,Seattle Mariners,Houston Astros,46.56,0.33,0.4,0.5,54.96,0.33,0.4,0.6
+01-09-2015,Seattle Mariners,Houston Astros,46.21,0.0,0.4,0.5,55.3,0.0,0.2,0.5
+02-09-2015,Seattle Mariners,Houston Astros,46.62,0.0,0.2,0.4,54.89,0.33,0.4,0.5
+04-09-2015,Minnesota Twins,Houston Astros,51.88,0.33,0.6,0.6,54.48,0.0,0.2,0.4
+05-09-2015,Minnesota Twins,Houston Astros,51.49,0.0,0.4,0.5,54.81,0.0,0.2,0.4
+06-09-2015,Minnesota Twins,Houston Astros,51.85,0.0,0.2,0.4,54.41,0.33,0.2,0.4
+18-09-2015,Oakland Athletics,Houston Astros,42.86,0.0,0.2,0.3,52.38,0.0,0.0,0.2
+19-09-2015,Oakland Athletics,Houston Astros,43.24,0.33,0.4,0.3,52.03,0.0,0.0,0.2
+20-09-2015,Oakland Athletics,Houston Astros,42.95,0.33,0.4,0.4,52.35,0.0,0.0,0.1
+21-09-2015,Los Angeles Angels of Anaheim,Houston Astros,51.01,0.33,0.6,0.5,52.67,0.33,0.2,0.2
+22-09-2015,Los Angeles Angels of Anaheim,Houston Astros,50.67,0.0,0.4,0.4,52.98,0.33,0.4,0.3
+23-09-2015,Los Angeles Angels of Anaheim,Houston Astros,50.99,0.0,0.2,0.4,52.63,0.33,0.6,0.3
+25-09-2015,Texas Rangers,Houston Astros,54.61,0.33,0.4,0.6,52.29,0.0,0.4,0.3
+26-09-2015,Texas Rangers,Houston Astros,54.9,0.33,0.6,0.6,51.95,0.0,0.2,0.3
+27-09-2015,Texas Rangers,Houston Astros,54.55,0.33,0.6,0.6,52.26,0.0,0.0,0.3
+06-04-2015,Chicago White Sox,Kansas City Royals,0,0.33,0.4,0.4,0,0.33,0.6,0.5
+08-04-2015,Chicago White Sox,Kansas City Royals,0.0,nan,nan,nan,100.0,nan,nan,nan
+09-04-2015,Chicago White Sox,Kansas City Royals,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+17-04-2015,Oakland Athletics,Kansas City Royals,50.0,0.33,0.4,0.4,77.78,0.0,0.4,0.7
+18-04-2015,Oakland Athletics,Kansas City Royals,45.45,0.0,0.4,0.4,80.0,0.0,0.2,0.6
+19-04-2015,Oakland Athletics,Kansas City Royals,50.0,0.0,0.2,0.3,72.73,0.33,0.2,0.6
+20-04-2015,Minnesota Twins,Kansas City Royals,41.67,0.0,0.4,0.4,75.0,0.0,0.2,0.5
+21-04-2015,Minnesota Twins,Kansas City Royals,38.46,0.33,0.4,0.4,76.92,0.33,0.4,0.5
+22-04-2015,Minnesota Twins,Kansas City Royals,35.71,0.0,0.2,0.4,78.57,0.33,0.4,0.5
+30-04-2015,Detroit Tigers,Kansas City Royals,68.18,0.0,0.4,0.3,66.67,0.33,0.4,0.5
+01-05-2015,Detroit Tigers,Kansas City Royals,65.22,0.33,0.4,0.4,68.18,0.0,0.4,0.4
+02-05-2015,Detroit Tigers,Kansas City Royals,62.5,0.0,0.2,0.4,69.57,0.33,0.4,0.4
+03-05-2015,Detroit Tigers,Kansas City Royals,64.0,0.0,0.2,0.4,66.67,0.33,0.4,0.5
+05-05-2015,Cleveland Indians,Kansas City Royals,37.5,0.0,0.2,0.2,64.0,0.0,0.4,0.4
+06-05-2015,Cleveland Indians,Kansas City Royals,36.0,0.33,0.4,0.3,65.38,0.0,0.2,0.4
+07-05-2015,Cleveland Indians,Kansas City Royals,38.46,0.0,0.2,0.3,62.96,0.33,0.2,0.5
+15-05-2015,New York Yankees,Kansas City Royals,58.33,0.0,0.2,0.4,62.86,0.0,0.2,0.4
+16-05-2015,New York Yankees,Kansas City Royals,56.76,0.0,0.0,0.4,63.89,0.33,0.4,0.5
+17-05-2015,New York Yankees,Kansas City Royals,57.89,0.0,0.0,0.3,62.16,0.33,0.4,0.5
+19-05-2015,Cincinnati Reds,Kansas City Royals,47.37,0.0,0.2,0.3,63.16,0.0,0.4,0.5
+20-05-2015,Cincinnati Reds,Kansas City Royals,46.15,0.0,0.0,0.3,64.1,0.33,0.4,0.5
+22-05-2015,St. Louis Cardinals,Kansas City Royals,65.85,0.33,0.4,0.4,65.0,0.33,0.4,0.5
+23-05-2015,St. Louis Cardinals,Kansas City Royals,64.29,0.0,0.4,0.4,65.85,0.33,0.6,0.6
+24-05-2015,St. Louis Cardinals,Kansas City Royals,62.79,0.0,0.2,0.3,66.67,0.33,0.6,0.6
+02-06-2015,Cleveland Indians,Kansas City Royals,48.0,0.33,0.4,0.5,60.42,0.33,0.2,0.4
+03-06-2015,Cleveland Indians,Kansas City Royals,49.02,0.33,0.4,0.5,59.18,0.0,0.2,0.3
+04-06-2015,Cleveland Indians,Kansas City Royals,48.08,0.33,0.6,0.5,60.0,0.0,0.2,0.2
+05-06-2015,Texas Rangers,Kansas City Royals,51.85,0.0,0.4,0.5,58.82,0.33,0.2,0.2
+06-06-2015,Texas Rangers,Kansas City Royals,52.73,0.33,0.4,0.5,57.69,0.0,0.2,0.2
+07-06-2015,Texas Rangers,Kansas City Royals,53.57,0.33,0.4,0.6,56.6,0.0,0.2,0.2
+17-06-2015,Milwaukee Brewers,Kansas City Royals,36.36,0.0,0.0,0.4,59.02,0.33,0.2,0.5
+18-06-2015,Milwaukee Brewers,Kansas City Royals,35.82,0.0,0.0,0.3,59.68,0.33,0.4,0.6
+19-06-2015,Boston Red Sox,Kansas City Royals,42.65,0.0,0.2,0.1,60.32,0.33,0.6,0.6
+20-06-2015,Boston Red Sox,Kansas City Royals,43.48,0.33,0.4,0.2,59.38,0.33,0.6,0.6
+21-06-2015,Boston Red Sox,Kansas City Royals,42.86,0.33,0.4,0.3,60.0,0.0,0.4,0.5
+02-07-2015,Minnesota Twins,Kansas City Royals,52.56,0.33,0.2,0.4,58.67,0.0,0.2,0.5
+03-07-2015,Minnesota Twins,Kansas City Royals,53.16,0.0,0.2,0.3,57.89,0.0,0.0,0.4
+04-07-2015,Minnesota Twins,Kansas City Royals,52.5,0.33,0.4,0.4,58.44,0.0,0.0,0.4
+05-07-2015,Minnesota Twins,Kansas City Royals,53.09,0.0,0.2,0.3,57.69,0.33,0.2,0.4
+08-07-2015,Tampa Bay Rays,Kansas City Royals,50.0,0.0,0.2,0.1,59.26,0.33,0.4,0.3
+09-07-2015,Tampa Bay Rays,Kansas City Royals,49.43,0.0,0.2,0.1,59.76,0.33,0.6,0.4
+10-07-2015,Toronto Blue Jays,Kansas City Royals,50.0,0.0,0.2,0.3,60.24,0.33,0.6,0.5
+11-07-2015,Toronto Blue Jays,Kansas City Royals,49.44,0.0,0.2,0.2,60.71,0.33,0.6,0.6
+12-07-2015,Toronto Blue Jays,Kansas City Royals,50.0,0.0,0.0,0.2,60.0,0.33,0.6,0.7
+20-07-2015,Pittsburgh Pirates,Kansas City Royals,58.24,0.0,0.2,0.5,61.11,0.33,0.4,0.6
+21-07-2015,Pittsburgh Pirates,Kansas City Royals,58.7,0.0,0.0,0.4,60.44,0.33,0.4,0.6
+22-07-2015,Pittsburgh Pirates,Kansas City Royals,58.06,0.33,0.2,0.4,60.87,0.0,0.4,0.5
+24-07-2015,Houston Astros,Kansas City Royals,55.67,0.33,0.6,0.4,60.64,0.33,0.4,0.6
+25-07-2015,Houston Astros,Kansas City Royals,56.12,0.33,0.6,0.5,60.0,0.0,0.4,0.5
+26-07-2015,Houston Astros,Kansas City Royals,55.56,0.33,0.6,0.6,60.42,0.0,0.2,0.4
+07-08-2015,Chicago White Sox,Kansas City Royals,48.11,0.0,0.0,0.3,58.88,0.0,0.2,0.3
+08-08-2015,Chicago White Sox,Kansas City Royals,47.66,0.33,0.2,0.3,59.26,0.0,0.2,0.2
+09-08-2015,Chicago White Sox,Kansas City Royals,47.22,0.0,0.2,0.2,59.63,0.33,0.2,0.3
+10-08-2015,Detroit Tigers,Kansas City Royals,48.65,0.33,0.4,0.4,60.0,0.33,0.4,0.4
+11-08-2015,Detroit Tigers,Kansas City Royals,48.21,0.0,0.2,0.4,60.36,0.33,0.6,0.5
+12-08-2015,Detroit Tigers,Kansas City Royals,47.79,0.0,0.2,0.4,60.71,0.33,0.6,0.5
+13-08-2015,Los Angeles Angels of Anaheim,Kansas City Royals,52.21,0.0,0.2,0.4,60.18,0.33,0.6,0.6
+14-08-2015,Los Angeles Angels of Anaheim,Kansas City Royals,52.63,0.0,0.0,0.3,59.65,0.0,0.4,0.5
+15-08-2015,Los Angeles Angels of Anaheim,Kansas City Royals,52.17,0.33,0.2,0.4,60.0,0.0,0.2,0.5
+16-08-2015,Los Angeles Angels of Anaheim,Kansas City Royals,51.72,0.0,0.2,0.3,60.34,0.33,0.2,0.6
+24-08-2015,Baltimore Orioles,Kansas City Royals,50.41,0.0,0.0,0.4,60.98,0.33,0.2,0.6
+25-08-2015,Baltimore Orioles,Kansas City Royals,50.0,0.0,0.0,0.3,61.29,0.33,0.4,0.6
+26-08-2015,Baltimore Orioles,Kansas City Royals,49.6,0.0,0.0,0.2,61.6,0.33,0.6,0.6
+27-08-2015,Baltimore Orioles,Kansas City Royals,50.0,0.0,0.0,0.1,61.11,0.33,0.6,0.6
+01-09-2015,Detroit Tigers,Kansas City Royals,46.15,0.0,0.0,0.1,61.54,0.33,0.6,0.7
+02-09-2015,Detroit Tigers,Kansas City Royals,46.56,0.0,0.0,0.1,61.07,0.0,0.4,0.6
+03-09-2015,Detroit Tigers,Kansas City Royals,46.21,0.33,0.2,0.2,61.36,0.0,0.2,0.5
+04-09-2015,Chicago White Sox,Kansas City Royals,46.97,0.0,0.2,0.3,61.65,0.33,0.2,0.5
+05-09-2015,Chicago White Sox,Kansas City Royals,47.37,0.33,0.2,0.3,61.19,0.33,0.4,0.5
+06-09-2015,Chicago White Sox,Kansas City Royals,47.76,0.33,0.4,0.4,60.74,0.0,0.4,0.5
+07-09-2015,Minnesota Twins,Kansas City Royals,51.47,0.33,0.2,0.5,60.29,0.0,0.2,0.4
+08-09-2015,Minnesota Twins,Kansas City Royals,51.82,0.0,0.2,0.4,59.85,0.0,0.0,0.3
+09-09-2015,Minnesota Twins,Kansas City Royals,51.45,0.33,0.4,0.5,60.14,0.0,0.0,0.2
+22-09-2015,Seattle Mariners,Kansas City Royals,48.67,0.0,0.4,0.4,58.39,0.0,0.2,0.3
+23-09-2015,Seattle Mariners,Kansas City Royals,49.01,0.33,0.4,0.5,58.0,0.33,0.2,0.3
+24-09-2015,Seattle Mariners,Kansas City Royals,48.68,0.33,0.4,0.5,58.28,0.0,0.2,0.3
+25-09-2015,Cleveland Indians,Kansas City Royals,49.67,0.0,0.2,0.3,58.55,0.33,0.4,0.4
+26-09-2015,Cleveland Indians,Kansas City Royals,50.0,0.33,0.2,0.4,58.17,0.33,0.4,0.4
+27-09-2015,Cleveland Indians,Kansas City Royals,50.33,0.33,0.4,0.4,57.79,0.0,0.4,0.4
+06-04-2015,San Diego Padres,Los Angeles Dodgers,0,0.0,0.2,0.2,0,0.33,0.6,0.4
+07-04-2015,San Diego Padres,Los Angeles Dodgers,0.0,nan,nan,nan,100.0,nan,nan,nan
+08-04-2015,San Diego Padres,Los Angeles Dodgers,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+13-04-2015,Seattle Mariners,Los Angeles Dodgers,50.0,0.33,0.2,nan,50.0,0.0,0.2,nan
+14-04-2015,Seattle Mariners,Los Angeles Dodgers,42.86,0.33,0.4,nan,57.14,0.33,0.2,nan
+15-04-2015,Seattle Mariners,Los Angeles Dodgers,37.5,0.0,0.4,nan,62.5,0.33,0.4,nan
+17-04-2015,Colorado Rockies,Los Angeles Dodgers,77.78,0.33,0.4,0.6,66.67,0.33,0.6,0.5
+18-04-2015,Colorado Rockies,Los Angeles Dodgers,70.0,0.33,0.6,0.6,70.0,0.33,0.6,0.5
+19-04-2015,Colorado Rockies,Los Angeles Dodgers,63.64,0.0,0.4,0.5,72.73,0.33,0.6,0.6
+27-04-2015,San Francisco Giants,Los Angeles Dodgers,42.11,0.0,0.4,0.4,61.11,0.33,0.4,0.5
+28-04-2015,San Francisco Giants,Los Angeles Dodgers,40.0,0.33,0.4,0.5,63.16,0.0,0.4,0.4
+29-04-2015,San Francisco Giants,Los Angeles Dodgers,42.86,0.0,0.2,0.5,60.0,0.33,0.4,0.4
+01-05-2015,Arizona Diamondbacks,Los Angeles Dodgers,47.62,0.33,0.2,0.3,61.9,0.0,0.2,0.3
+02-05-2015,Arizona Diamondbacks,Los Angeles Dodgers,45.45,0.33,0.4,0.3,63.64,0.33,0.4,0.4
+03-05-2015,Arizona Diamondbacks,Los Angeles Dodgers,43.48,0.0,0.4,0.3,65.22,0.33,0.4,0.5
+11-05-2015,Miami Marlins,Los Angeles Dodgers,46.88,0.33,0.4,0.4,66.67,0.33,0.4,0.6
+12-05-2015,Miami Marlins,Los Angeles Dodgers,45.45,0.0,0.2,0.3,67.74,0.33,0.6,0.6
+13-05-2015,Miami Marlins,Los Angeles Dodgers,44.12,0.0,0.2,0.3,68.75,0.33,0.6,0.6
+14-05-2015,Colorado Rockies,Los Angeles Dodgers,36.67,0.0,0.0,0.0,66.67,0.33,0.6,0.6
+15-05-2015,Colorado Rockies,Los Angeles Dodgers,38.71,0.0,0.0,0.0,64.71,0.0,0.4,0.6
+16-05-2015,Colorado Rockies,Los Angeles Dodgers,37.5,0.33,0.2,0.1,65.71,0.0,0.2,0.5
+17-05-2015,Colorado Rockies,Los Angeles Dodgers,39.39,0.0,0.2,0.1,63.89,0.33,0.2,0.6
+22-05-2015,San Diego Padres,Los Angeles Dodgers,47.62,0.0,0.2,0.3,60.0,0.0,0.2,0.3
+23-05-2015,San Diego Padres,Los Angeles Dodgers,46.51,0.0,0.2,0.3,60.98,0.0,0.0,0.2
+24-05-2015,San Diego Padres,Los Angeles Dodgers,45.45,0.0,0.0,0.2,61.9,0.33,0.2,0.3
+25-05-2015,Atlanta Braves,Los Angeles Dodgers,51.16,0.33,0.4,0.6,60.47,0.33,0.4,0.4
+26-05-2015,Atlanta Braves,Los Angeles Dodgers,50.0,0.33,0.4,0.6,61.36,0.0,0.4,0.3
+27-05-2015,Atlanta Braves,Los Angeles Dodgers,48.89,0.0,0.4,0.5,62.22,0.33,0.4,0.4
+04-06-2015,St. Louis Cardinals,Los Angeles Dodgers,66.04,0.33,0.4,0.6,58.49,0.33,0.4,0.4
+05-06-2015,St. Louis Cardinals,Los Angeles Dodgers,66.67,0.33,0.4,0.6,57.41,0.0,0.2,0.3
+06-06-2015,St. Louis Cardinals,Los Angeles Dodgers,67.27,0.33,0.6,0.6,56.36,0.0,0.2,0.3
+07-06-2015,St. Louis Cardinals,Los Angeles Dodgers,66.07,0.33,0.6,0.6,57.14,0.0,0.0,0.3
+08-06-2015,Arizona Diamondbacks,Los Angeles Dodgers,48.21,0.33,0.4,0.5,56.14,0.33,0.2,0.3
+09-06-2015,Arizona Diamondbacks,Los Angeles Dodgers,47.37,0.0,0.4,0.4,56.9,0.0,0.2,0.3
+10-06-2015,Arizona Diamondbacks,Los Angeles Dodgers,46.55,0.0,0.2,0.4,57.63,0.33,0.4,0.3
+17-06-2015,Texas Rangers,Los Angeles Dodgers,53.85,0.33,0.4,0.4,56.92,0.0,0.2,0.5
+18-06-2015,Texas Rangers,Los Angeles Dodgers,54.55,0.33,0.4,0.5,56.06,0.0,0.2,0.5
+19-06-2015,San Francisco Giants,Los Angeles Dodgers,52.94,0.0,0.2,0.2,56.72,0.0,0.0,0.4
+20-06-2015,San Francisco Giants,Los Angeles Dodgers,53.62,0.33,0.4,0.2,55.88,0.33,0.2,0.4
+21-06-2015,San Francisco Giants,Los Angeles Dodgers,54.29,0.33,0.4,0.3,55.07,0.0,0.2,0.3
+03-07-2015,New York Mets,Los Angeles Dodgers,50.0,0.0,0.2,0.4,56.25,0.33,0.4,0.5
+04-07-2015,New York Mets,Los Angeles Dodgers,50.62,0.0,0.0,0.4,55.56,0.33,0.4,0.6
+05-07-2015,New York Mets,Los Angeles Dodgers,50.0,0.33,0.2,0.5,56.1,0.0,0.4,0.5
+06-07-2015,Philadelphia Phillies,Los Angeles Dodgers,33.33,0.0,0.0,0.1,55.42,0.33,0.4,0.5
+07-07-2015,Philadelphia Phillies,Los Angeles Dodgers,32.94,0.33,0.2,0.2,55.95,0.0,0.2,0.4
+08-07-2015,Philadelphia Phillies,Los Angeles Dodgers,33.72,0.0,0.2,0.1,55.29,0.33,0.4,0.5
+09-07-2015,Philadelphia Phillies,Los Angeles Dodgers,33.33,0.33,0.4,0.2,55.81,0.0,0.2,0.4
+10-07-2015,Milwaukee Brewers,Los Angeles Dodgers,42.53,0.0,0.2,0.6,56.32,0.33,0.4,0.5
+11-07-2015,Milwaukee Brewers,Los Angeles Dodgers,42.05,0.33,0.2,0.6,56.82,0.33,0.4,0.5
+12-07-2015,Milwaukee Brewers,Los Angeles Dodgers,42.7,0.0,0.2,0.5,56.18,0.33,0.6,0.5
+28-07-2015,Oakland Athletics,Los Angeles Dodgers,44.0,0.0,0.0,0.3,56.0,0.0,0.4,0.5
+29-07-2015,Oakland Athletics,Los Angeles Dodgers,44.55,0.0,0.0,0.3,55.45,0.0,0.2,0.4
+31-07-2015,Los Angeles Angels of Anaheim,Los Angeles Dodgers,54.46,0.0,0.2,0.3,55.88,0.0,0.0,0.3
+01-08-2015,Los Angeles Angels of Anaheim,Los Angeles Dodgers,53.92,0.0,0.0,0.2,56.31,0.33,0.2,0.4
+02-08-2015,Los Angeles Angels of Anaheim,Los Angeles Dodgers,53.4,0.0,0.0,0.1,56.73,0.33,0.4,0.5
+10-08-2015,Washington Nationals,Los Angeles Dodgers,51.82,0.33,0.4,0.3,55.86,0.0,0.2,0.5
+11-08-2015,Washington Nationals,Los Angeles Dodgers,52.25,0.0,0.2,0.3,55.36,0.0,0.0,0.4
+12-08-2015,Washington Nationals,Los Angeles Dodgers,51.79,0.33,0.4,0.4,55.75,0.0,0.0,0.3
+13-08-2015,Cincinnati Reds,Los Angeles Dodgers,44.64,0.0,0.0,0.2,56.14,0.33,0.2,0.3
+14-08-2015,Cincinnati Reds,Los Angeles Dodgers,45.13,0.33,0.2,0.2,55.65,0.33,0.4,0.4
+15-08-2015,Cincinnati Reds,Los Angeles Dodgers,44.74,0.33,0.4,0.3,56.03,0.0,0.4,0.3
+16-08-2015,Cincinnati Reds,Los Angeles Dodgers,44.35,0.0,0.4,0.3,56.41,0.33,0.4,0.3
+28-08-2015,Chicago Cubs,Los Angeles Dodgers,57.94,0.0,0.4,0.6,55.56,0.33,0.4,0.3
+29-08-2015,Chicago Cubs,Los Angeles Dodgers,57.48,0.0,0.2,0.6,55.91,0.33,0.6,0.3
+30-08-2015,Chicago Cubs,Los Angeles Dodgers,57.03,0.0,0.0,0.5,56.25,0.33,0.6,0.4
+31-08-2015,San Francisco Giants,Los Angeles Dodgers,53.08,0.0,0.4,0.4,55.81,0.33,0.6,0.5
+01-09-2015,San Francisco Giants,Los Angeles Dodgers,52.67,0.0,0.2,0.3,56.15,0.0,0.4,0.5
+02-09-2015,San Francisco Giants,Los Angeles Dodgers,52.27,0.0,0.0,0.3,56.49,0.33,0.4,0.6
+14-09-2015,Colorado Rockies,Los Angeles Dodgers,41.96,0.0,0.4,0.3,57.75,0.33,0.2,0.6
+15-09-2015,Colorado Rockies,Los Angeles Dodgers,41.67,0.33,0.4,0.4,58.04,0.33,0.4,0.6
+16-09-2015,Colorado Rockies,Los Angeles Dodgers,42.07,0.0,0.2,0.4,57.64,0.33,0.6,0.6
+18-09-2015,Pittsburgh Pirates,Los Angeles Dodgers,59.59,0.0,0.2,0.5,57.93,0.0,0.4,0.5
+19-09-2015,Pittsburgh Pirates,Los Angeles Dodgers,59.18,0.0,0.0,0.4,58.22,0.33,0.4,0.5
+20-09-2015,Pittsburgh Pirates,Los Angeles Dodgers,59.46,0.0,0.0,0.4,57.82,0.33,0.4,0.5
+21-09-2015,Arizona Diamondbacks,Los Angeles Dodgers,47.65,0.33,0.4,0.4,57.43,0.0,0.4,0.5
+22-09-2015,Arizona Diamondbacks,Los Angeles Dodgers,48.0,0.0,0.4,0.3,57.05,0.0,0.2,0.5
+23-09-2015,Arizona Diamondbacks,Los Angeles Dodgers,48.34,0.33,0.4,0.4,56.67,0.0,0.0,0.4
+24-09-2015,Arizona Diamondbacks,Los Angeles Dodgers,48.03,0.33,0.4,0.5,56.95,0.0,0.0,0.3
+02-10-2015,San Diego Padres,Los Angeles Dodgers,46.54,0.0,0.0,0.3,55.97,0.0,0.2,0.3
+03-10-2015,San Diego Padres,Los Angeles Dodgers,46.25,0.33,0.2,0.4,56.25,0.33,0.4,0.3
+04-10-2015,San Diego Padres,Los Angeles Dodgers,45.96,0.0,0.2,0.3,56.52,0.33,0.4,0.3
+06-04-2015,Atlanta Braves,Miami Marlins,0,0.33,0.4,0.4,0,0.33,0.4,0.5
+07-04-2015,Atlanta Braves,Miami Marlins,100.0,nan,nan,nan,0.0,nan,nan,nan
+08-04-2015,Atlanta Braves,Miami Marlins,100.0,0.33,nan,nan,0.0,0.0,nan,nan
+10-04-2015,Tampa Bay Rays,Miami Marlins,33.33,0.0,nan,nan,0.0,0.0,nan,nan
+11-04-2015,Tampa Bay Rays,Miami Marlins,25.0,0.33,0.2,nan,25.0,0.0,0.0,nan
+12-04-2015,Tampa Bay Rays,Miami Marlins,40.0,0.0,0.2,nan,20.0,0.33,0.2,nan
+24-04-2015,Washington Nationals,Miami Marlins,43.75,0.0,0.4,0.5,31.25,0.33,0.2,0.3
+25-04-2015,Washington Nationals,Miami Marlins,41.18,0.0,0.2,0.5,35.29,0.33,0.4,0.3
+26-04-2015,Washington Nationals,Miami Marlins,38.89,0.0,0.0,0.4,38.89,0.33,0.6,0.3
+27-04-2015,New York Mets,Miami Marlins,73.68,0.33,0.4,0.7,42.11,0.33,0.6,0.4
+28-04-2015,New York Mets,Miami Marlins,75.0,0.0,0.2,0.6,40.0,0.33,0.6,0.5
+29-04-2015,New York Mets,Miami Marlins,71.43,0.33,0.4,0.6,42.86,0.0,0.4,0.5
+01-05-2015,Philadelphia Phillies,Miami Marlins,34.78,0.0,0.2,0.3,45.45,0.33,0.4,0.6
+02-05-2015,Philadelphia Phillies,Miami Marlins,33.33,0.0,0.0,0.3,47.83,0.33,0.4,0.7
+03-05-2015,Philadelphia Phillies,Miami Marlins,32.0,0.0,0.0,0.3,50.0,0.33,0.6,0.7
+15-05-2015,Atlanta Braves,Miami Marlins,44.12,0.0,0.2,0.3,45.71,0.0,0.0,0.3
+16-05-2015,Atlanta Braves,Miami Marlins,45.71,0.0,0.2,0.3,44.44,0.33,0.2,0.3
+17-05-2015,Atlanta Braves,Miami Marlins,47.22,0.33,0.2,0.3,43.24,0.0,0.2,0.3
+18-05-2015,Arizona Diamondbacks,Miami Marlins,41.67,0.0,0.0,0.2,42.11,0.0,0.2,0.2
+19-05-2015,Arizona Diamondbacks,Miami Marlins,43.24,0.0,0.0,0.2,41.03,0.0,0.0,0.2
+20-05-2015,Arizona Diamondbacks,Miami Marlins,44.74,0.33,0.2,0.3,40.0,0.0,0.0,0.1
+21-05-2015,Arizona Diamondbacks,Miami Marlins,46.15,0.33,0.4,0.3,39.02,0.0,0.0,0.1
+22-05-2015,Baltimore Orioles,Miami Marlins,47.37,0.0,0.4,0.4,38.1,0.0,0.0,0.1
+23-05-2015,Baltimore Orioles,Miami Marlins,48.72,0.33,0.4,0.4,37.21,0.0,0.0,0.1
+24-05-2015,Baltimore Orioles,Miami Marlins,47.5,0.33,0.4,0.5,38.64,0.0,0.0,0.0
+01-06-2015,Chicago Cubs,Miami Marlins,54.17,0.0,0.2,0.3,39.22,0.33,0.4,0.4
+02-06-2015,Chicago Cubs,Miami Marlins,55.1,0.33,0.2,0.3,38.46,0.0,0.4,0.4
+03-06-2015,Chicago Cubs,Miami Marlins,54.0,0.33,0.4,0.4,39.62,0.0,0.2,0.3
+11-06-2015,Colorado Rockies,Miami Marlins,46.55,0.33,0.4,0.5,40.0,0.0,0.2,0.4
+12-06-2015,Colorado Rockies,Miami Marlins,45.76,0.0,0.4,0.4,40.98,0.0,0.0,0.4
+13-06-2015,Colorado Rockies,Miami Marlins,45.0,0.0,0.2,0.4,41.94,0.33,0.2,0.4
+14-06-2015,Colorado Rockies,Miami Marlins,44.26,0.0,0.0,0.3,42.86,0.33,0.4,0.4
+15-06-2015,New York Yankees,Miami Marlins,54.84,0.0,0.0,0.5,42.19,0.33,0.6,0.4
+16-06-2015,New York Yankees,Miami Marlins,53.97,0.33,0.2,0.5,43.08,0.0,0.4,0.4
+23-06-2015,St. Louis Cardinals,Miami Marlins,65.22,0.33,0.4,0.6,42.25,0.33,0.2,0.4
+24-06-2015,St. Louis Cardinals,Miami Marlins,65.71,0.0,0.4,0.5,41.67,0.0,0.2,0.3
+25-06-2015,St. Louis Cardinals,Miami Marlins,66.2,0.33,0.4,0.5,41.1,0.0,0.2,0.3
+26-06-2015,Los Angeles Dodgers,Miami Marlins,55.41,0.33,0.2,0.3,40.54,0.0,0.0,0.2
+27-06-2015,Los Angeles Dodgers,Miami Marlins,56.0,0.33,0.4,0.4,40.0,0.0,0.0,0.1
+28-06-2015,Los Angeles Dodgers,Miami Marlins,55.26,0.33,0.6,0.4,40.79,0.0,0.0,0.1
+30-06-2015,San Francisco Giants,Miami Marlins,54.55,0.33,0.4,0.5,40.26,0.33,0.2,0.2
+01-07-2015,San Francisco Giants,Miami Marlins,53.85,0.33,0.4,0.5,41.03,0.0,0.2,0.2
+02-07-2015,San Francisco Giants,Miami Marlins,53.16,0.0,0.4,0.4,41.77,0.33,0.4,0.2
+09-07-2015,Cincinnati Reds,Miami Marlins,46.34,0.33,0.2,0.3,41.18,0.0,0.0,0.4
+10-07-2015,Cincinnati Reds,Miami Marlins,45.78,0.33,0.4,0.4,41.86,0.0,0.0,0.4
+11-07-2015,Cincinnati Reds,Miami Marlins,46.43,0.0,0.4,0.3,41.38,0.33,0.2,0.4
+12-07-2015,Cincinnati Reds,Miami Marlins,45.88,0.33,0.4,0.4,42.05,0.0,0.2,0.3
+28-07-2015,Washington Nationals,Miami Marlins,53.61,0.33,0.2,0.3,41.41,0.0,0.2,0.3
+29-07-2015,Washington Nationals,Miami Marlins,53.06,0.0,0.2,0.3,42.0,0.0,0.0,0.3
+30-07-2015,Washington Nationals,Miami Marlins,53.54,0.0,0.2,0.3,41.58,0.33,0.2,0.4
+31-07-2015,San Diego Padres,Miami Marlins,48.04,0.33,0.4,0.4,41.18,0.0,0.2,0.4
+01-08-2015,San Diego Padres,Miami Marlins,48.54,0.33,0.4,0.5,40.78,0.0,0.2,0.3
+02-08-2015,San Diego Padres,Miami Marlins,49.04,0.33,0.6,0.6,40.38,0.0,0.0,0.2
+03-08-2015,New York Mets,Miami Marlins,52.38,0.33,0.4,0.5,40.95,0.0,0.0,0.1
+04-08-2015,New York Mets,Miami Marlins,52.83,0.33,0.6,0.6,40.57,0.33,0.2,0.2
+05-08-2015,New York Mets,Miami Marlins,53.27,0.33,0.6,0.6,40.19,0.0,0.2,0.2
+11-08-2015,Boston Red Sox,Miami Marlins,44.64,0.0,0.2,0.4,39.29,0.0,0.0,0.1
+12-08-2015,Boston Red Sox,Miami Marlins,44.25,0.33,0.4,0.4,39.82,0.33,0.2,0.2
+20-08-2015,Philadelphia Phillies,Miami Marlins,39.17,0.0,0.0,0.2,40.83,0.33,0.6,0.6
+21-08-2015,Philadelphia Phillies,Miami Marlins,38.84,0.33,0.2,0.2,41.32,0.0,0.4,0.5
+22-08-2015,Philadelphia Phillies,Miami Marlins,39.34,0.0,0.2,0.2,40.98,0.33,0.4,0.5
+23-08-2015,Philadelphia Phillies,Miami Marlins,39.84,0.33,0.4,0.3,40.65,0.0,0.2,0.4
+24-08-2015,Pittsburgh Pirates,Miami Marlins,60.66,0.33,0.4,0.6,40.32,0.0,0.2,0.4
+25-08-2015,Pittsburgh Pirates,Miami Marlins,60.98,0.33,0.4,0.6,40.0,0.0,0.0,0.4
+26-08-2015,Pittsburgh Pirates,Miami Marlins,60.48,0.33,0.6,0.6,40.48,0.0,0.0,0.3
+27-08-2015,Pittsburgh Pirates,Miami Marlins,60.8,0.0,0.4,0.6,40.16,0.33,0.2,0.3
+04-09-2015,New York Mets,Miami Marlins,55.64,0.0,0.4,0.5,41.04,0.33,0.4,0.4
+05-09-2015,New York Mets,Miami Marlins,55.22,0.33,0.4,0.5,41.48,0.33,0.6,0.4
+06-09-2015,New York Mets,Miami Marlins,55.56,0.0,0.2,0.4,41.18,0.33,0.6,0.5
+07-09-2015,Milwaukee Brewers,Miami Marlins,44.12,0.33,0.6,0.7,41.61,0.0,0.4,0.5
+08-09-2015,Milwaukee Brewers,Miami Marlins,44.53,0.0,0.4,0.6,41.3,0.33,0.4,0.5
+09-09-2015,Milwaukee Brewers,Miami Marlins,44.2,0.33,0.4,0.7,41.73,0.0,0.2,0.5
+11-09-2015,Washington Nationals,Miami Marlins,51.08,0.0,0.2,0.5,42.14,0.33,0.4,0.6
+12-09-2015,Washington Nationals,Miami Marlins,50.71,0.0,0.0,0.5,42.55,0.33,0.4,0.6
+13-09-2015,Washington Nationals,Miami Marlins,50.35,0.0,0.0,0.4,42.96,0.33,0.6,0.6
+22-09-2015,Philadelphia Phillies,Miami Marlins,37.33,0.0,0.0,0.2,42.67,0.0,0.2,0.4
+23-09-2015,Philadelphia Phillies,Miami Marlins,37.75,0.0,0.0,0.2,42.38,0.0,0.0,0.3
+24-09-2015,Philadelphia Phillies,Miami Marlins,37.5,0.33,0.2,0.2,42.76,0.0,0.0,0.3
+25-09-2015,Atlanta Braves,Miami Marlins,40.52,0.33,0.4,0.5,43.14,0.33,0.2,0.4
+26-09-2015,Atlanta Braves,Miami Marlins,40.26,0.33,0.4,0.5,43.51,0.33,0.4,0.4
+27-09-2015,Atlanta Braves,Miami Marlins,40.0,0.0,0.4,0.5,43.87,0.33,0.6,0.4
+06-04-2015,Colorado Rockies,Milwaukee Brewers,0,0.0,0.2,0.4,0,0.0,0.0,0.4
+07-04-2015,Colorado Rockies,Milwaukee Brewers,100.0,nan,nan,nan,0.0,nan,nan,nan
+08-04-2015,Colorado Rockies,Milwaukee Brewers,100.0,0.33,nan,nan,0.0,0.0,nan,nan
+10-04-2015,Pittsburgh Pirates,Milwaukee Brewers,0.0,0.0,nan,nan,0.0,0.0,nan,nan
+11-04-2015,Pittsburgh Pirates,Milwaukee Brewers,25.0,0.0,0.0,nan,0.0,0.0,0.0,nan
+12-04-2015,Pittsburgh Pirates,Milwaukee Brewers,20.0,0.33,0.2,nan,20.0,0.0,0.0,nan
+20-04-2015,Cincinnati Reds,Milwaukee Brewers,41.67,0.0,0.0,0.2,16.67,0.0,0.0,0.2
+21-04-2015,Cincinnati Reds,Milwaukee Brewers,46.15,0.0,0.0,0.1,15.38,0.0,0.0,0.2
+22-04-2015,Cincinnati Reds,Milwaukee Brewers,50.0,0.33,0.2,0.2,14.29,0.0,0.0,0.1
+23-04-2015,Cincinnati Reds,Milwaukee Brewers,53.33,0.33,0.4,0.3,13.33,0.0,0.0,0.1
+24-04-2015,St. Louis Cardinals,Milwaukee Brewers,71.43,0.33,0.4,0.6,18.75,0.0,0.0,0.0
+25-04-2015,St. Louis Cardinals,Milwaukee Brewers,73.33,0.33,0.4,0.7,17.65,0.33,0.2,0.1
+26-04-2015,St. Louis Cardinals,Milwaukee Brewers,75.0,0.33,0.6,0.7,16.67,0.0,0.2,0.1
+04-05-2015,Los Angeles Dodgers,Milwaukee Brewers,66.67,0.33,0.6,0.6,28.0,0.33,0.4,0.3
+05-05-2015,Los Angeles Dodgers,Milwaukee Brewers,64.0,0.33,0.6,0.6,30.77,0.33,0.4,0.4
+06-05-2015,Los Angeles Dodgers,Milwaukee Brewers,65.38,0.0,0.4,0.5,29.63,0.33,0.6,0.5
+07-05-2015,Los Angeles Dodgers,Milwaukee Brewers,62.96,0.33,0.4,0.6,32.14,0.0,0.4,0.4
+08-05-2015,Chicago Cubs,Milwaukee Brewers,51.85,0.33,0.2,0.3,31.03,0.33,0.4,0.5
+09-05-2015,Chicago Cubs,Milwaukee Brewers,53.57,0.0,0.2,0.2,30.0,0.0,0.2,0.5
+10-05-2015,Chicago Cubs,Milwaukee Brewers,51.72,0.33,0.4,0.3,32.26,0.0,0.2,0.4
+11-05-2015,Chicago White Sox,Milwaukee Brewers,42.86,0.33,0.2,0.3,34.38,0.33,0.2,0.5
+12-05-2015,Chicago White Sox,Milwaukee Brewers,41.38,0.33,0.4,0.4,36.36,0.33,0.4,0.5
+13-05-2015,Chicago White Sox,Milwaukee Brewers,43.33,0.0,0.4,0.4,35.29,0.33,0.6,0.5
+25-05-2015,San Francisco Giants,Milwaukee Brewers,55.56,0.0,0.4,0.7,35.56,0.0,0.2,0.3
+26-05-2015,San Francisco Giants,Milwaukee Brewers,56.52,0.0,0.2,0.6,34.78,0.0,0.2,0.3
+27-05-2015,San Francisco Giants,Milwaukee Brewers,57.45,0.33,0.2,0.6,34.04,0.0,0.0,0.3
+29-05-2015,Arizona Diamondbacks,Milwaukee Brewers,45.65,0.0,0.2,0.5,33.33,0.0,0.0,0.2
+30-05-2015,Arizona Diamondbacks,Milwaukee Brewers,46.81,0.0,0.0,0.4,32.65,0.0,0.0,0.1
+31-05-2015,Arizona Diamondbacks,Milwaukee Brewers,47.92,0.33,0.2,0.4,32.0,0.0,0.0,0.1
+11-06-2015,Washington Nationals,Milwaukee Brewers,52.54,0.0,0.0,0.2,36.67,0.33,0.4,0.5
+12-06-2015,Washington Nationals,Milwaukee Brewers,51.67,0.33,0.2,0.2,37.7,0.0,0.4,0.4
+13-06-2015,Washington Nationals,Milwaukee Brewers,50.82,0.0,0.2,0.2,38.71,0.33,0.4,0.5
+14-06-2015,Washington Nationals,Milwaukee Brewers,51.61,0.0,0.2,0.2,38.1,0.33,0.4,0.6
+15-06-2015,Kansas City Royals,Milwaukee Brewers,57.63,0.0,0.4,0.4,37.5,0.0,0.4,0.5
+16-06-2015,Kansas City Royals,Milwaukee Brewers,58.33,0.0,0.2,0.4,36.92,0.0,0.2,0.4
+23-06-2015,New York Mets,Milwaukee Brewers,50.7,0.0,0.0,0.3,35.21,0.0,0.2,0.1
+24-06-2015,New York Mets,Milwaukee Brewers,50.0,0.0,0.0,0.3,36.11,0.0,0.2,0.1
+25-06-2015,New York Mets,Milwaukee Brewers,49.32,0.0,0.0,0.2,36.99,0.33,0.2,0.2
+26-06-2015,Minnesota Twins,Milwaukee Brewers,54.17,0.0,0.2,0.4,36.49,0.33,0.4,0.3
+27-06-2015,Minnesota Twins,Milwaukee Brewers,53.42,0.33,0.4,0.5,37.33,0.0,0.4,0.3
+28-06-2015,Minnesota Twins,Milwaukee Brewers,54.05,0.0,0.2,0.4,36.84,0.33,0.4,0.4
+06-07-2015,Atlanta Braves,Milwaukee Brewers,48.78,0.33,0.6,0.5,42.86,0.33,0.6,0.7
+07-07-2015,Atlanta Braves,Milwaukee Brewers,49.4,0.0,0.4,0.5,42.35,0.33,0.6,0.8
+08-07-2015,Atlanta Braves,Milwaukee Brewers,50.0,0.33,0.4,0.6,41.86,0.0,0.4,0.7
+17-07-2015,Pittsburgh Pirates,Milwaukee Brewers,60.23,0.33,0.4,0.7,42.22,0.33,0.4,0.5
+18-07-2015,Pittsburgh Pirates,Milwaukee Brewers,59.55,0.33,0.6,0.7,42.86,0.0,0.2,0.4
+19-07-2015,Pittsburgh Pirates,Milwaukee Brewers,58.89,0.0,0.4,0.6,43.48,0.33,0.4,0.4
+21-07-2015,Cleveland Indians,Milwaukee Brewers,48.35,0.33,0.2,0.5,44.09,0.33,0.4,0.4
+22-07-2015,Cleveland Indians,Milwaukee Brewers,47.83,0.33,0.4,0.5,44.68,0.33,0.6,0.5
+30-07-2015,Chicago Cubs,Milwaukee Brewers,53.0,0.0,0.2,0.3,43.14,0.33,0.2,0.3
+31-07-2015,Chicago Cubs,Milwaukee Brewers,53.47,0.33,0.4,0.3,42.72,0.0,0.2,0.2
+01-08-2015,Chicago Cubs,Milwaukee Brewers,53.92,0.33,0.4,0.4,42.31,0.0,0.2,0.2
+02-08-2015,Chicago Cubs,Milwaukee Brewers,54.37,0.33,0.6,0.4,41.9,0.0,0.0,0.2
+03-08-2015,San Diego Padres,Milwaukee Brewers,48.57,0.33,0.6,0.7,41.51,0.0,0.0,0.1
+04-08-2015,San Diego Padres,Milwaukee Brewers,49.06,0.0,0.4,0.6,41.12,0.0,0.0,0.1
+05-08-2015,San Diego Padres,Milwaukee Brewers,48.6,0.33,0.4,0.6,41.67,0.0,0.0,0.1
+06-08-2015,San Diego Padres,Milwaukee Brewers,48.15,0.0,0.2,0.5,42.2,0.33,0.2,0.2
+07-08-2015,St. Louis Cardinals,Milwaukee Brewers,63.89,0.33,0.4,0.4,42.73,0.33,0.4,0.2
+08-08-2015,St. Louis Cardinals,Milwaukee Brewers,64.22,0.33,0.4,0.5,42.34,0.33,0.6,0.3
+09-08-2015,St. Louis Cardinals,Milwaukee Brewers,64.55,0.33,0.6,0.6,41.96,0.0,0.4,0.3
+14-08-2015,Philadelphia Phillies,Milwaukee Brewers,40.0,0.0,0.2,0.4,41.38,0.0,0.2,0.4
+15-08-2015,Philadelphia Phillies,Milwaukee Brewers,39.66,0.33,0.2,0.4,41.88,0.0,0.0,0.3
+16-08-2015,Philadelphia Phillies,Milwaukee Brewers,39.32,0.0,0.2,0.4,42.37,0.33,0.2,0.3
+17-08-2015,Miami Marlins,Milwaukee Brewers,40.17,0.0,0.2,0.3,42.86,0.33,0.4,0.3
+18-08-2015,Miami Marlins,Milwaukee Brewers,40.68,0.33,0.2,0.4,42.5,0.33,0.6,0.4
+19-08-2015,Miami Marlins,Milwaukee Brewers,41.18,0.33,0.4,0.5,42.15,0.0,0.4,0.4
+28-08-2015,Cincinnati Reds,Milwaukee Brewers,41.27,0.0,0.2,0.1,41.73,0.0,0.0,0.3
+29-08-2015,Cincinnati Reds,Milwaukee Brewers,40.94,0.0,0.0,0.1,42.19,0.0,0.0,0.2
+30-08-2015,Cincinnati Reds,Milwaukee Brewers,41.41,0.0,0.0,0.1,41.86,0.33,0.2,0.3
+01-09-2015,Pittsburgh Pirates,Milwaukee Brewers,61.24,0.33,0.6,0.7,42.31,0.0,0.2,0.3
+02-09-2015,Pittsburgh Pirates,Milwaukee Brewers,60.77,0.0,0.4,0.6,42.75,0.33,0.4,0.3
+03-09-2015,Pittsburgh Pirates,Milwaukee Brewers,60.31,0.0,0.2,0.5,43.18,0.33,0.4,0.3
+15-09-2015,St. Louis Cardinals,Milwaukee Brewers,62.24,0.0,0.0,0.2,43.36,0.0,0.2,0.3
+16-09-2015,St. Louis Cardinals,Milwaukee Brewers,62.5,0.33,0.2,0.2,43.06,0.0,0.0,0.2
+17-09-2015,St. Louis Cardinals,Milwaukee Brewers,62.76,0.33,0.4,0.3,42.76,0.0,0.0,0.2
+18-09-2015,Cincinnati Reds,Milwaukee Brewers,42.07,0.33,0.2,0.4,42.47,0.0,0.0,0.1
+19-09-2015,Cincinnati Reds,Milwaukee Brewers,42.47,0.0,0.2,0.4,42.18,0.0,0.0,0.1
+20-09-2015,Cincinnati Reds,Milwaukee Brewers,42.86,0.33,0.4,0.5,41.89,0.0,0.0,0.1
+02-10-2015,Chicago Cubs,Milwaukee Brewers,59.12,0.33,0.6,0.5,42.77,0.33,0.6,0.5
+03-10-2015,Chicago Cubs,Milwaukee Brewers,59.38,0.33,0.6,0.5,42.5,0.0,0.4,0.5
+04-10-2015,Chicago Cubs,Milwaukee Brewers,59.63,0.33,0.6,0.6,42.24,0.0,0.2,0.4
+13-04-2015,Kansas City Royals,Minnesota Twins,100.0,0.33,0.6,nan,16.67,0.0,0.2,nan
+15-04-2015,Kansas City Royals,Minnesota Twins,100.0,0.33,0.6,nan,14.29,0.0,0.2,nan
+16-04-2015,Kansas City Royals,Minnesota Twins,87.5,0.33,0.6,nan,25.0,0.0,0.0,nan
+17-04-2015,Cleveland Indians,Minnesota Twins,37.5,0.0,0.0,nan,33.33,0.33,0.2,0.2
+18-04-2015,Cleveland Indians,Minnesota Twins,33.33,0.33,0.2,0.3,40.0,0.33,0.4,0.3
+19-04-2015,Cleveland Indians,Minnesota Twins,40.0,0.0,0.2,0.3,36.36,0.33,0.6,0.4
+27-04-2015,Detroit Tigers,Minnesota Twins,68.42,0.33,0.2,0.3,44.44,0.33,0.4,0.4
+28-04-2015,Detroit Tigers,Minnesota Twins,70.0,0.33,0.4,0.4,42.11,0.33,0.4,0.4
+29-04-2015,Detroit Tigers,Minnesota Twins,66.67,0.33,0.6,0.4,45.0,0.0,0.4,0.4
+30-04-2015,Chicago White Sox,Minnesota Twins,44.44,0.33,0.4,0.5,42.86,0.33,0.4,0.4
+01-05-2015,Chicago White Sox,Minnesota Twins,42.11,0.0,0.4,0.4,45.45,0.0,0.2,0.4
+02-05-2015,Chicago White Sox,Minnesota Twins,40.0,0.0,0.2,0.4,47.83,0.33,0.4,0.5
+03-05-2015,Chicago White Sox,Minnesota Twins,38.1,0.0,0.0,0.3,50.0,0.33,0.4,0.5
+04-05-2015,Oakland Athletics,Minnesota Twins,42.31,0.0,0.2,0.2,52.0,0.33,0.6,0.6
+05-05-2015,Oakland Athletics,Minnesota Twins,40.74,0.33,0.4,0.3,53.85,0.33,0.6,0.6
+06-05-2015,Oakland Athletics,Minnesota Twins,42.86,0.0,0.2,0.3,51.85,0.33,0.6,0.6
+07-05-2015,Oakland Athletics,Minnesota Twins,41.38,0.33,0.4,0.4,53.57,0.0,0.4,0.6
+15-05-2015,Tampa Bay Rays,Minnesota Twins,55.56,0.33,0.4,0.5,54.29,0.33,0.2,0.5
+16-05-2015,Tampa Bay Rays,Minnesota Twins,54.05,0.33,0.6,0.5,55.56,0.0,0.2,0.5
+17-05-2015,Tampa Bay Rays,Minnesota Twins,52.63,0.0,0.4,0.5,56.76,0.33,0.4,0.5
+25-05-2015,Boston Red Sox,Minnesota Twins,47.73,0.33,0.2,0.3,58.14,0.33,0.4,0.5
+26-05-2015,Boston Red Sox,Minnesota Twins,46.67,0.33,0.4,0.4,59.09,0.33,0.4,0.6
+27-05-2015,Boston Red Sox,Minnesota Twins,45.65,0.0,0.4,0.3,60.0,0.33,0.6,0.6
+29-05-2015,Toronto Blue Jays,Minnesota Twins,44.9,0.33,0.6,0.4,60.87,0.33,0.6,0.6
+30-05-2015,Toronto Blue Jays,Minnesota Twins,46.0,0.0,0.4,0.4,59.57,0.33,0.6,0.7
+31-05-2015,Toronto Blue Jays,Minnesota Twins,45.1,0.33,0.4,0.5,60.42,0.0,0.4,0.6
+05-06-2015,Milwaukee Brewers,Minnesota Twins,33.33,0.0,0.4,0.2,60.38,0.33,0.2,0.5
+06-06-2015,Milwaukee Brewers,Minnesota Twins,34.55,0.0,0.2,0.2,59.26,0.33,0.4,0.5
+07-06-2015,Milwaukee Brewers,Minnesota Twins,35.71,0.33,0.2,0.3,58.18,0.0,0.4,0.4
+08-06-2015,Kansas City Royals,Minnesota Twins,57.41,0.0,0.0,0.2,58.93,0.0,0.2,0.4
+09-06-2015,Kansas City Royals,Minnesota Twins,58.18,0.33,0.2,0.3,57.89,0.33,0.2,0.4
+10-06-2015,Kansas City Royals,Minnesota Twins,58.93,0.33,0.4,0.3,56.9,0.0,0.2,0.3
+17-06-2015,St. Louis Cardinals,Minnesota Twins,67.19,0.33,0.6,0.5,53.12,0.0,0.2,0.2
+18-06-2015,St. Louis Cardinals,Minnesota Twins,66.15,0.33,0.6,0.6,53.85,0.0,0.2,0.1
+19-06-2015,Chicago Cubs,Minnesota Twins,54.69,0.33,0.4,0.5,54.55,0.33,0.2,0.2
+20-06-2015,Chicago Cubs,Minnesota Twins,53.85,0.0,0.2,0.5,55.22,0.33,0.4,0.3
+21-06-2015,Chicago Cubs,Minnesota Twins,54.55,0.0,0.2,0.4,54.41,0.33,0.6,0.4
+22-06-2015,Chicago White Sox,Minnesota Twins,44.12,0.33,0.2,0.1,53.62,0.0,0.4,0.4
+23-06-2015,Chicago White Sox,Minnesota Twins,43.48,0.33,0.4,0.2,54.29,0.0,0.2,0.4
+24-06-2015,Chicago White Sox,Minnesota Twins,44.29,0.0,0.4,0.2,53.52,0.33,0.2,0.4
+06-07-2015,Baltimore Orioles,Minnesota Twins,52.44,0.0,0.0,0.3,52.44,0.33,0.4,0.4
+07-07-2015,Baltimore Orioles,Minnesota Twins,51.81,0.33,0.2,0.3,53.01,0.0,0.2,0.3
+08-07-2015,Baltimore Orioles,Minnesota Twins,51.19,0.0,0.2,0.2,53.57,0.33,0.4,0.4
+09-07-2015,Detroit Tigers,Minnesota Twins,51.19,0.0,0.2,0.3,54.12,0.33,0.4,0.5
+10-07-2015,Detroit Tigers,Minnesota Twins,51.76,0.33,0.4,0.4,53.49,0.33,0.6,0.5
+11-07-2015,Detroit Tigers,Minnesota Twins,51.16,0.33,0.4,0.5,54.02,0.0,0.4,0.5
+12-07-2015,Detroit Tigers,Minnesota Twins,50.57,0.0,0.4,0.5,54.55,0.33,0.4,0.5
+24-07-2015,New York Yankees,Minnesota Twins,56.38,0.33,0.6,0.6,53.68,0.0,0.0,0.4
+25-07-2015,New York Yankees,Minnesota Twins,55.79,0.33,0.6,0.6,54.17,0.33,0.2,0.4
+26-07-2015,New York Yankees,Minnesota Twins,56.25,0.0,0.4,0.6,53.61,0.33,0.4,0.4
+28-07-2015,Pittsburgh Pirates,Minnesota Twins,58.16,0.0,0.4,0.3,53.06,0.0,0.4,0.3
+29-07-2015,Pittsburgh Pirates,Minnesota Twins,58.59,0.33,0.4,0.4,52.53,0.0,0.2,0.2
+30-07-2015,Seattle Mariners,Minnesota Twins,45.1,0.0,0.2,0.4,52.0,0.0,0.0,0.2
+31-07-2015,Seattle Mariners,Minnesota Twins,44.66,0.0,0.0,0.3,52.48,0.0,0.0,0.2
+01-08-2015,Seattle Mariners,Minnesota Twins,45.19,0.0,0.0,0.3,51.96,0.33,0.2,0.3
+02-08-2015,Seattle Mariners,Minnesota Twins,44.76,0.33,0.2,0.3,52.43,0.0,0.2,0.3
+11-08-2015,Texas Rangers,Minnesota Twins,50.0,0.33,0.4,0.6,49.55,0.0,0.2,0.2
+12-08-2015,Texas Rangers,Minnesota Twins,49.55,0.0,0.2,0.5,50.0,0.0,0.2,0.1
+13-08-2015,Texas Rangers,Minnesota Twins,49.11,0.0,0.2,0.5,50.44,0.33,0.2,0.2
+14-08-2015,Cleveland Indians,Minnesota Twins,46.9,0.33,0.6,0.5,50.0,0.33,0.4,0.3
+15-08-2015,Cleveland Indians,Minnesota Twins,47.37,0.0,0.4,0.5,49.57,0.0,0.4,0.3
+16-08-2015,Cleveland Indians,Minnesota Twins,46.96,0.33,0.4,0.5,50.0,0.0,0.2,0.3
+28-08-2015,Houston Astros,Minnesota Twins,55.47,0.33,0.4,0.6,51.18,0.33,0.6,0.6
+29-08-2015,Houston Astros,Minnesota Twins,55.04,0.33,0.4,0.6,51.56,0.0,0.4,0.6
+30-08-2015,Houston Astros,Minnesota Twins,55.38,0.0,0.4,0.5,51.16,0.33,0.4,0.7
+01-09-2015,Chicago White Sox,Minnesota Twins,47.29,0.0,0.2,0.3,51.54,0.0,0.2,0.6
+02-09-2015,Chicago White Sox,Minnesota Twins,46.92,0.33,0.2,0.3,51.91,0.33,0.4,0.6
+03-09-2015,Chicago White Sox,Minnesota Twins,46.56,0.0,0.2,0.3,52.27,0.33,0.4,0.6
+14-09-2015,Detroit Tigers,Minnesota Twins,45.77,0.0,0.0,0.3,52.11,0.0,0.4,0.4
+15-09-2015,Detroit Tigers,Minnesota Twins,45.45,0.33,0.2,0.4,52.45,0.33,0.4,0.5
+16-09-2015,Detroit Tigers,Minnesota Twins,45.83,0.0,0.2,0.3,52.08,0.33,0.4,0.5
+17-09-2015,Los Angeles Angels of Anaheim,Minnesota Twins,50.34,0.33,0.2,0.4,51.72,0.0,0.4,0.5
+20-09-2015,Los Angeles Angels of Anaheim,Minnesota Twins,51.35,0.33,0.4,0.5,50.68,0.0,0.0,0.3
+22-09-2015,Cleveland Indians,Minnesota Twins,50.0,0.0,0.2,0.4,51.01,0.0,0.0,0.2
+23-09-2015,Cleveland Indians,Minnesota Twins,49.66,0.33,0.4,0.4,51.33,0.33,0.2,0.3
+24-09-2015,Cleveland Indians,Minnesota Twins,49.33,0.0,0.2,0.4,51.66,0.33,0.4,0.3
+02-10-2015,Kansas City Royals,Minnesota Twins,57.86,0.33,0.2,0.4,52.2,0.0,0.4,0.5
+03-10-2015,Kansas City Royals,Minnesota Twins,58.13,0.33,0.4,0.4,51.88,0.33,0.4,0.5
+04-10-2015,Kansas City Royals,Minnesota Twins,58.39,0.33,0.6,0.4,51.55,0.0,0.2,0.5
+06-04-2015,Toronto Blue Jays,New York Yankees,0,0.0,0.2,0.5,0,0.0,0.2,0.3
+08-04-2015,Toronto Blue Jays,New York Yankees,100.0,nan,nan,nan,0.0,nan,nan,nan
+09-04-2015,Toronto Blue Jays,New York Yankees,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+10-04-2015,Boston Red Sox,New York Yankees,66.67,0.0,nan,nan,33.33,0.33,nan,nan
+11-04-2015,Boston Red Sox,New York Yankees,75.0,0.33,0.4,nan,25.0,0.0,0.2,nan
+12-04-2015,Boston Red Sox,New York Yankees,80.0,0.33,0.4,nan,20.0,0.0,0.2,nan
+24-04-2015,New York Mets,New York Yankees,81.25,0.33,0.6,0.8,56.25,0.33,0.4,0.5
+25-04-2015,New York Mets,New York Yankees,76.47,0.33,0.6,0.8,58.82,0.33,0.6,0.6
+26-04-2015,New York Mets,New York Yankees,77.78,0.0,0.4,0.7,55.56,0.33,0.6,0.7
+27-04-2015,Tampa Bay Rays,New York Yankees,57.89,0.33,0.6,0.4,57.89,0.0,0.4,0.6
+28-04-2015,Tampa Bay Rays,New York Yankees,55.0,0.33,0.6,0.5,60.0,0.33,0.4,0.6
+29-04-2015,Tampa Bay Rays,New York Yankees,52.38,0.0,0.4,0.5,61.9,0.33,0.4,0.6
+07-05-2015,Baltimore Orioles,New York Yankees,48.0,0.0,0.4,0.5,60.71,0.33,0.4,0.6
+08-05-2015,Baltimore Orioles,New York Yankees,46.15,0.0,0.2,0.5,62.07,0.0,0.2,0.5
+09-05-2015,Baltimore Orioles,New York Yankees,44.44,0.0,0.0,0.4,63.33,0.33,0.4,0.5
+10-05-2015,Baltimore Orioles,New York Yankees,46.43,0.0,0.0,0.3,61.29,0.33,0.4,0.6
+22-05-2015,Texas Rangers,New York Yankees,43.9,0.33,0.4,0.3,53.66,0.0,0.2,0.2
+23-05-2015,Texas Rangers,New York Yankees,45.24,0.33,0.4,0.4,52.38,0.0,0.0,0.1
+24-05-2015,Texas Rangers,New York Yankees,46.51,0.33,0.6,0.4,51.16,0.0,0.0,0.1
+25-05-2015,Kansas City Royals,New York Yankees,65.12,0.33,0.6,0.7,50.0,0.0,0.0,0.1
+26-05-2015,Kansas City Royals,New York Yankees,63.64,0.0,0.4,0.6,51.11,0.0,0.0,0.1
+27-05-2015,Kansas City Royals,New York Yankees,62.22,0.0,0.2,0.5,52.17,0.33,0.2,0.2
+05-06-2015,Los Angeles Angels of Anaheim,New York Yankees,51.85,0.0,0.4,0.5,53.7,0.33,0.4,0.5
+06-06-2015,Los Angeles Angels of Anaheim,New York Yankees,50.91,0.0,0.2,0.5,54.55,0.33,0.6,0.5
+07-06-2015,Los Angeles Angels of Anaheim,New York Yankees,50.0,0.0,0.0,0.5,55.36,0.33,0.6,0.5
+09-06-2015,Washington Nationals,New York Yankees,52.63,0.0,0.2,0.2,56.14,0.33,0.6,0.6
+10-06-2015,Washington Nationals,New York Yankees,51.72,0.0,0.2,0.2,56.9,0.33,0.6,0.7
+17-06-2015,Miami Marlins,New York Yankees,43.94,0.33,0.4,0.4,53.12,0.0,0.2,0.4
+18-06-2015,Miami Marlins,New York Yankees,43.28,0.33,0.4,0.5,53.85,0.0,0.2,0.3
+19-06-2015,Detroit Tigers,New York Yankees,51.52,0.0,0.4,0.5,54.55,0.33,0.2,0.3
+20-06-2015,Detroit Tigers,New York Yankees,50.75,0.0,0.2,0.4,55.22,0.33,0.4,0.3
+21-06-2015,Detroit Tigers,New York Yankees,50.0,0.0,0.0,0.3,55.88,0.33,0.6,0.4
+22-06-2015,Philadelphia Phillies,New York Yankees,33.8,0.0,0.2,0.1,55.07,0.33,0.6,0.5
+23-06-2015,Philadelphia Phillies,New York Yankees,34.72,0.33,0.2,0.2,54.29,0.0,0.4,0.5
+24-06-2015,Philadelphia Phillies,New York Yankees,35.62,0.33,0.4,0.3,53.52,0.0,0.2,0.4
+03-07-2015,Tampa Bay Rays,New York Yankees,51.85,0.0,0.0,0.2,53.16,0.0,0.0,0.3
+04-07-2015,Tampa Bay Rays,New York Yankees,51.22,0.0,0.0,0.1,53.75,0.33,0.2,0.4
+05-07-2015,Tampa Bay Rays,New York Yankees,50.6,0.0,0.0,0.1,54.32,0.33,0.4,0.4
+07-07-2015,Oakland Athletics,New York Yankees,44.71,0.33,0.4,0.4,53.66,0.33,0.6,0.5
+08-07-2015,Oakland Athletics,New York Yankees,45.35,0.0,0.2,0.4,53.01,0.0,0.4,0.4
+09-07-2015,Oakland Athletics,New York Yankees,44.83,0.33,0.4,0.5,53.57,0.0,0.2,0.3
+17-07-2015,Seattle Mariners,New York Yankees,46.07,0.33,0.4,0.4,54.55,0.0,0.4,0.5
+18-07-2015,Seattle Mariners,New York Yankees,45.56,0.0,0.2,0.4,55.06,0.33,0.4,0.5
+19-07-2015,Seattle Mariners,New York Yankees,46.15,0.0,0.2,0.3,54.44,0.33,0.4,0.5
+21-07-2015,Baltimore Orioles,New York Yankees,50.55,0.33,0.2,0.2,54.95,0.0,0.4,0.5
+22-07-2015,Baltimore Orioles,New York Yankees,50.0,0.33,0.4,0.3,55.43,0.33,0.4,0.6
+23-07-2015,Baltimore Orioles,New York Yankees,49.46,0.0,0.4,0.3,55.91,0.33,0.4,0.6
+04-08-2015,Boston Red Sox,New York Yankees,44.34,0.33,0.6,0.4,56.73,0.0,0.2,0.5
+05-08-2015,Boston Red Sox,New York Yankees,43.93,0.0,0.4,0.4,57.14,0.33,0.4,0.5
+06-08-2015,Boston Red Sox,New York Yankees,44.44,0.0,0.2,0.3,56.6,0.33,0.4,0.5
+07-08-2015,Toronto Blue Jays,New York Yankees,52.73,0.33,0.6,0.7,57.01,0.0,0.4,0.4
+08-08-2015,Toronto Blue Jays,New York Yankees,53.15,0.33,0.6,0.7,56.48,0.33,0.4,0.4
+09-08-2015,Toronto Blue Jays,New York Yankees,53.57,0.33,0.6,0.7,55.96,0.0,0.2,0.4
+17-08-2015,Minnesota Twins,New York Yankees,50.43,0.33,0.2,0.4,55.17,0.33,0.6,0.3
+18-08-2015,Minnesota Twins,New York Yankees,50.0,0.33,0.4,0.4,55.56,0.0,0.4,0.3
+19-08-2015,Minnesota Twins,New York Yankees,49.58,0.0,0.4,0.4,55.93,0.33,0.4,0.4
+20-08-2015,Cleveland Indians,New York Yankees,46.22,0.0,0.2,0.4,56.3,0.33,0.4,0.5
+21-08-2015,Cleveland Indians,New York Yankees,46.67,0.0,0.2,0.3,55.83,0.33,0.6,0.6
+22-08-2015,Cleveland Indians,New York Yankees,47.11,0.33,0.2,0.3,55.37,0.0,0.4,0.6
+23-08-2015,Cleveland Indians,New York Yankees,46.72,0.33,0.4,0.4,55.74,0.0,0.2,0.5
+24-08-2015,Houston Astros,New York Yankees,55.2,0.33,0.4,0.5,55.28,0.33,0.2,0.5
+25-08-2015,Houston Astros,New York Yankees,54.76,0.33,0.6,0.6,55.65,0.0,0.2,0.4
+26-08-2015,Houston Astros,New York Yankees,55.12,0.0,0.4,0.5,55.2,0.33,0.4,0.5
+04-09-2015,Tampa Bay Rays,New York Yankees,49.62,0.33,0.6,0.4,56.06,0.33,0.4,0.5
+05-09-2015,Tampa Bay Rays,New York Yankees,49.25,0.0,0.4,0.4,56.39,0.33,0.4,0.5
+06-09-2015,Tampa Bay Rays,New York Yankees,49.63,0.0,0.2,0.4,55.97,0.33,0.6,0.6
+07-09-2015,Baltimore Orioles,New York Yankees,47.79,0.0,0.4,0.2,56.3,0.0,0.4,0.6
+08-09-2015,Baltimore Orioles,New York Yankees,47.45,0.0,0.2,0.2,56.62,0.33,0.4,0.6
+09-09-2015,Baltimore Orioles,New York Yankees,47.83,0.0,0.0,0.2,56.2,0.33,0.4,0.6
+11-09-2015,Toronto Blue Jays,New York Yankees,56.83,0.33,0.4,0.5,55.8,0.0,0.4,0.5
+13-09-2015,Toronto Blue Jays,New York Yankees,57.75,0.33,0.4,0.5,54.61,0.0,0.0,0.3
+24-09-2015,Chicago White Sox,New York Yankees,47.37,0.0,0.4,0.4,54.97,0.33,0.4,0.5
+25-09-2015,Chicago White Sox,New York Yankees,47.06,0.0,0.2,0.3,55.26,0.0,0.2,0.4
+26-09-2015,Chicago White Sox,New York Yankees,47.4,0.0,0.0,0.3,54.9,0.33,0.4,0.5
+27-09-2015,Chicago White Sox,New York Yankees,47.1,0.33,0.2,0.4,55.19,0.0,0.2,0.4
+28-09-2015,Boston Red Sox,New York Yankees,48.39,0.33,0.4,0.5,55.48,0.33,0.4,0.5
+29-09-2015,Boston Red Sox,New York Yankees,48.72,0.33,0.6,0.5,55.13,0.33,0.4,0.5
+30-09-2015,Boston Red Sox,New York Yankees,49.04,0.33,0.6,0.5,54.78,0.0,0.4,0.4
+01-10-2015,Boston Red Sox,New York Yankees,49.37,0.33,0.6,0.5,54.43,0.0,0.2,0.4
+13-04-2015,Philadelphia Phillies,New York Mets,50.0,0.33,0.4,nan,50.0,0.0,0.2,nan
+14-04-2015,Philadelphia Phillies,New York Mets,42.86,0.0,0.4,nan,57.14,0.33,0.2,nan
+15-04-2015,Philadelphia Phillies,New York Mets,37.5,0.0,0.2,nan,62.5,0.33,0.4,nan
+16-04-2015,Miami Marlins,New York Mets,33.33,0.33,0.2,0.2,66.67,0.33,0.6,0.5
+17-04-2015,Miami Marlins,New York Mets,30.0,0.33,0.4,0.3,70.0,0.33,0.6,0.5
+18-04-2015,Miami Marlins,New York Mets,27.27,0.0,0.4,0.3,72.73,0.33,0.6,0.6
+19-04-2015,Miami Marlins,New York Mets,25.0,0.0,0.2,0.3,75.0,0.33,0.6,0.6
+21-04-2015,Atlanta Braves,New York Mets,66.67,0.0,0.2,0.4,76.92,0.33,0.6,0.7
+22-04-2015,Atlanta Braves,New York Mets,61.54,0.33,0.4,0.4,78.57,0.33,0.6,0.8
+23-04-2015,Atlanta Braves,New York Mets,57.14,0.0,0.2,0.3,80.0,0.33,0.6,0.8
+30-04-2015,Washington Nationals,New York Mets,40.91,0.33,0.2,0.2,68.18,0.0,0.2,0.5
+01-05-2015,Washington Nationals,New York Mets,43.48,0.33,0.4,0.2,65.22,0.0,0.2,0.4
+02-05-2015,Washington Nationals,New York Mets,41.67,0.33,0.6,0.3,66.67,0.0,0.0,0.3
+03-05-2015,Washington Nationals,New York Mets,44.0,0.0,0.4,0.3,64.0,0.33,0.2,0.3
+05-05-2015,Baltimore Orioles,New York Mets,52.17,0.33,0.4,0.4,61.54,0.0,0.2,0.3
+06-05-2015,Baltimore Orioles,New York Mets,50.0,0.33,0.4,0.5,62.96,0.0,0.2,0.2
+15-05-2015,Milwaukee Brewers,New York Mets,34.29,0.0,0.4,0.4,57.14,0.0,0.0,0.4
+16-05-2015,Milwaukee Brewers,New York Mets,36.11,0.0,0.2,0.4,55.56,0.0,0.0,0.3
+17-05-2015,Milwaukee Brewers,New York Mets,35.14,0.33,0.2,0.4,56.76,0.0,0.0,0.2
+18-05-2015,St. Louis Cardinals,New York Mets,67.57,0.0,0.2,0.3,57.89,0.33,0.2,0.3
+19-05-2015,St. Louis Cardinals,New York Mets,65.79,0.33,0.2,0.3,58.97,0.33,0.4,0.3
+20-05-2015,St. Louis Cardinals,New York Mets,66.67,0.0,0.2,0.3,57.5,0.33,0.6,0.3
+21-05-2015,St. Louis Cardinals,New York Mets,67.5,0.33,0.4,0.4,56.1,0.0,0.4,0.3
+25-05-2015,Philadelphia Phillies,New York Mets,41.3,0.33,0.2,0.5,53.33,0.0,0.2,0.4
+26-05-2015,Philadelphia Phillies,New York Mets,40.43,0.0,0.2,0.4,54.35,0.0,0.0,0.3
+27-05-2015,Philadelphia Phillies,New York Mets,39.58,0.0,0.2,0.3,55.32,0.33,0.2,0.3
+29-05-2015,Miami Marlins,New York Mets,37.5,0.0,0.2,0.2,56.25,0.33,0.4,0.3
+30-05-2015,Miami Marlins,New York Mets,38.78,0.0,0.0,0.2,55.1,0.33,0.6,0.4
+31-05-2015,Miami Marlins,New York Mets,40.0,0.33,0.2,0.3,54.0,0.0,0.4,0.4
+09-06-2015,San Francisco Giants,New York Mets,55.17,0.33,0.4,0.3,53.45,0.0,0.2,0.3
+10-06-2015,San Francisco Giants,New York Mets,55.93,0.0,0.4,0.2,52.54,0.33,0.2,0.4
+11-06-2015,San Francisco Giants,New York Mets,56.67,0.33,0.4,0.3,51.67,0.0,0.2,0.3
+12-06-2015,Atlanta Braves,New York Mets,48.33,0.33,0.4,0.3,52.46,0.0,0.2,0.2
+13-06-2015,Atlanta Braves,New York Mets,47.54,0.0,0.4,0.3,53.23,0.33,0.2,0.3
+14-06-2015,Atlanta Braves,New York Mets,48.39,0.0,0.2,0.3,52.38,0.33,0.4,0.4
+15-06-2015,Toronto Blue Jays,New York Mets,53.12,0.33,0.6,0.8,53.12,0.0,0.4,0.3
+16-06-2015,Toronto Blue Jays,New York Mets,52.31,0.33,0.6,0.8,53.85,0.33,0.4,0.4
+26-06-2015,Cincinnati Reds,New York Mets,47.89,0.33,0.4,0.5,50.0,0.0,0.0,0.1
+27-06-2015,Cincinnati Reds,New York Mets,47.22,0.33,0.4,0.6,50.67,0.33,0.2,0.1
+28-06-2015,Cincinnati Reds,New York Mets,46.58,0.0,0.4,0.5,51.32,0.33,0.4,0.2
+30-06-2015,Chicago Cubs,New York Mets,52.7,0.0,0.0,0.4,51.95,0.33,0.6,0.3
+01-07-2015,Chicago Cubs,New York Mets,53.33,0.0,0.0,0.3,51.28,0.33,0.6,0.4
+02-07-2015,Chicago Cubs,New York Mets,53.95,0.33,0.2,0.3,50.63,0.0,0.4,0.4
+10-07-2015,Arizona Diamondbacks,New York Mets,50.0,0.33,0.4,0.5,51.16,0.0,0.4,0.3
+11-07-2015,Arizona Diamondbacks,New York Mets,49.41,0.33,0.4,0.5,51.72,0.33,0.4,0.4
+12-07-2015,Arizona Diamondbacks,New York Mets,48.84,0.0,0.4,0.5,52.27,0.33,0.4,0.5
+23-07-2015,Los Angeles Dodgers,New York Mets,56.25,0.0,0.2,0.4,51.58,0.33,0.4,0.5
+24-07-2015,Los Angeles Dodgers,New York Mets,56.7,0.33,0.2,0.4,51.04,0.0,0.2,0.4
+25-07-2015,Los Angeles Dodgers,New York Mets,57.14,0.33,0.4,0.5,50.52,0.0,0.2,0.3
+26-07-2015,Los Angeles Dodgers,New York Mets,56.57,0.33,0.6,0.5,51.02,0.0,0.0,0.2
+28-07-2015,San Diego Padres,New York Mets,47.47,0.33,0.4,0.5,51.52,0.33,0.2,0.3
+29-07-2015,San Diego Padres,New York Mets,47.0,0.33,0.6,0.5,52.0,0.33,0.4,0.4
+30-07-2015,San Diego Padres,New York Mets,47.52,0.0,0.4,0.4,51.49,0.33,0.6,0.4
+31-07-2015,Washington Nationals,New York Mets,54.0,0.33,0.2,0.3,50.98,0.0,0.4,0.4
+01-08-2015,Washington Nationals,New York Mets,53.47,0.33,0.4,0.4,51.46,0.0,0.2,0.3
+02-08-2015,Washington Nationals,New York Mets,52.94,0.0,0.4,0.3,51.92,0.33,0.2,0.4
+10-08-2015,Colorado Rockies,New York Mets,43.12,0.0,0.4,0.3,53.15,0.0,0.4,0.7
+11-08-2015,Colorado Rockies,New York Mets,42.73,0.33,0.4,0.4,53.57,0.0,0.2,0.6
+12-08-2015,Colorado Rockies,New York Mets,42.34,0.0,0.2,0.3,53.98,0.33,0.2,0.6
+13-08-2015,Colorado Rockies,New York Mets,41.96,0.0,0.2,0.3,54.39,0.33,0.4,0.6
+14-08-2015,Pittsburgh Pirates,New York Mets,58.93,0.0,0.2,0.5,54.78,0.33,0.6,0.6
+15-08-2015,Pittsburgh Pirates,New York Mets,59.29,0.33,0.2,0.5,54.31,0.33,0.6,0.6
+16-08-2015,Pittsburgh Pirates,New York Mets,59.65,0.33,0.4,0.6,53.85,0.0,0.4,0.5
+28-08-2015,Boston Red Sox,New York Mets,45.67,0.0,0.2,0.5,55.91,0.33,0.6,0.7
+29-08-2015,Boston Red Sox,New York Mets,46.09,0.33,0.4,0.5,55.47,0.33,0.6,0.7
+30-08-2015,Boston Red Sox,New York Mets,46.51,0.33,0.4,0.5,55.04,0.0,0.4,0.7
+31-08-2015,Philadelphia Phillies,New York Mets,39.69,0.33,0.4,0.4,55.38,0.0,0.2,0.6
+01-09-2015,Philadelphia Phillies,New York Mets,39.39,0.0,0.4,0.3,55.73,0.33,0.2,0.6
+02-09-2015,Philadelphia Phillies,New York Mets,39.85,0.0,0.2,0.2,55.3,0.33,0.4,0.6
+14-09-2015,Miami Marlins,New York Mets,42.66,0.33,0.6,0.6,57.34,0.33,0.6,0.7
+15-09-2015,Miami Marlins,New York Mets,42.36,0.0,0.4,0.5,57.64,0.33,0.6,0.7
+16-09-2015,Miami Marlins,New York Mets,42.76,0.0,0.2,0.5,57.24,0.33,0.6,0.8
+18-09-2015,New York Yankees,New York Mets,55.17,0.0,0.4,0.2,56.85,0.0,0.4,0.7
+19-09-2015,New York Yankees,New York Mets,54.79,0.33,0.4,0.3,57.14,0.0,0.2,0.6
+20-09-2015,New York Yankees,New York Mets,55.1,0.0,0.2,0.3,56.76,0.33,0.2,0.6
+21-09-2015,Atlanta Braves,New York Mets,40.0,0.33,0.4,0.3,56.38,0.0,0.2,0.5
+22-09-2015,Atlanta Braves,New York Mets,39.74,0.33,0.6,0.4,56.67,0.0,0.2,0.4
+23-09-2015,Atlanta Braves,New York Mets,40.13,0.0,0.4,0.4,56.29,0.33,0.2,0.4
+04-10-2015,Washington Nationals,New York Mets,51.55,0.33,0.4,0.4,55.28,0.0,0.0,0.4
+06-04-2015,Texas Rangers,Oakland Athletics,0,0.0,0.2,0.3,0,0.33,0.6,0.4
+07-04-2015,Texas Rangers,Oakland Athletics,0.0,nan,nan,nan,100.0,nan,nan,nan
+08-04-2015,Texas Rangers,Oakland Athletics,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+09-04-2015,Texas Rangers,Oakland Athletics,33.33,0.33,nan,nan,66.67,0.0,nan,nan
+10-04-2015,Seattle Mariners,Oakland Athletics,33.33,0.0,nan,nan,50.0,0.33,0.4,nan
+11-04-2015,Seattle Mariners,Oakland Athletics,25.0,0.0,0.2,nan,60.0,0.0,0.2,nan
+12-04-2015,Seattle Mariners,Oakland Athletics,40.0,0.0,0.0,nan,50.0,0.33,0.4,nan
+24-04-2015,Houston Astros,Oakland Athletics,53.33,0.33,0.6,0.5,47.06,0.33,0.4,0.4
+25-04-2015,Houston Astros,Oakland Athletics,56.25,0.0,0.4,0.5,44.44,0.0,0.2,0.3
+26-04-2015,Houston Astros,Oakland Athletics,58.82,0.33,0.4,0.6,42.11,0.0,0.2,0.3
+28-04-2015,Los Angeles Angels of Anaheim,Oakland Athletics,47.37,0.33,0.6,0.4,40.0,0.0,0.0,0.3
+29-04-2015,Los Angeles Angels of Anaheim,Oakland Athletics,45.0,0.0,0.4,0.4,42.86,0.0,0.0,0.2
+30-04-2015,Los Angeles Angels of Anaheim,Oakland Athletics,47.62,0.0,0.2,0.4,40.91,0.33,0.2,0.3
+11-05-2015,Boston Red Sox,Oakland Athletics,45.16,0.0,0.0,0.1,36.36,0.0,0.0,0.2
+12-05-2015,Boston Red Sox,Oakland Athletics,46.88,0.33,0.2,0.2,35.29,0.0,0.0,0.2
+13-05-2015,Boston Red Sox,Oakland Athletics,45.45,0.33,0.4,0.3,37.14,0.0,0.0,0.1
+15-05-2015,Chicago White Sox,Oakland Athletics,45.16,0.33,0.4,0.5,36.11,0.33,0.2,0.2
+16-05-2015,Chicago White Sox,Oakland Athletics,46.88,0.33,0.4,0.5,35.14,0.0,0.2,0.1
+17-05-2015,Chicago White Sox,Oakland Athletics,48.48,0.33,0.6,0.5,34.21,0.0,0.2,0.1
+25-05-2015,Detroit Tigers,Oakland Athletics,57.78,0.0,0.4,0.4,34.78,0.33,0.2,0.2
+26-05-2015,Detroit Tigers,Oakland Athletics,56.52,0.0,0.2,0.3,36.17,0.33,0.4,0.3
+27-05-2015,Detroit Tigers,Oakland Athletics,57.45,0.0,0.0,0.3,35.42,0.33,0.6,0.4
+28-05-2015,New York Yankees,Oakland Athletics,53.19,0.33,0.4,0.2,34.69,0.0,0.4,0.3
+29-05-2015,New York Yankees,Oakland Athletics,52.08,0.33,0.6,0.3,36.0,0.0,0.2,0.3
+30-05-2015,New York Yankees,Oakland Athletics,51.02,0.0,0.4,0.3,37.25,0.33,0.2,0.4
+31-05-2015,New York Yankees,Oakland Athletics,52.0,0.0,0.2,0.3,36.54,0.33,0.4,0.5
+09-06-2015,Texas Rangers,Oakland Athletics,52.63,0.33,0.6,0.7,38.98,0.0,0.2,0.5
+10-06-2015,Texas Rangers,Oakland Athletics,53.45,0.0,0.4,0.6,38.33,0.0,0.0,0.4
+11-06-2015,Texas Rangers,Oakland Athletics,52.54,0.33,0.4,0.6,39.34,0.0,0.0,0.4
+17-06-2015,San Diego Padres,Oakland Athletics,47.76,0.0,0.2,0.3,41.79,0.33,0.4,0.4
+18-06-2015,San Diego Padres,Oakland Athletics,47.06,0.0,0.0,0.2,42.65,0.33,0.6,0.5
+19-06-2015,Los Angeles Angels of Anaheim,Oakland Athletics,50.75,0.0,0.2,0.4,42.03,0.33,0.6,0.6
+20-06-2015,Los Angeles Angels of Anaheim,Oakland Athletics,51.47,0.33,0.4,0.5,41.43,0.0,0.4,0.5
+21-06-2015,Los Angeles Angels of Anaheim,Oakland Athletics,50.72,0.33,0.4,0.5,42.25,0.0,0.2,0.4
+26-06-2015,Kansas City Royals,Oakland Athletics,59.42,0.0,0.2,0.5,45.33,0.33,0.6,0.6
+27-06-2015,Kansas City Royals,Oakland Athletics,60.0,0.33,0.4,0.5,44.74,0.33,0.6,0.6
+28-06-2015,Kansas City Royals,Oakland Athletics,60.56,0.33,0.4,0.5,44.16,0.0,0.4,0.5
+29-06-2015,Colorado Rockies,Oakland Athletics,44.0,0.0,0.4,0.5,43.59,0.0,0.2,0.5
+30-06-2015,Colorado Rockies,Oakland Athletics,43.42,0.0,0.2,0.5,44.3,0.0,0.0,0.5
+01-07-2015,Colorado Rockies,Oakland Athletics,44.16,0.0,0.0,0.4,43.75,0.33,0.2,0.5
+02-07-2015,Seattle Mariners,Oakland Athletics,46.15,0.33,0.2,0.3,44.44,0.0,0.2,0.4
+03-07-2015,Seattle Mariners,Oakland Athletics,45.57,0.33,0.4,0.4,45.12,0.33,0.4,0.4
+04-07-2015,Seattle Mariners,Oakland Athletics,46.25,0.0,0.4,0.4,44.58,0.33,0.4,0.4
+05-07-2015,Seattle Mariners,Oakland Athletics,45.68,0.33,0.4,0.4,45.24,0.0,0.4,0.3
+17-07-2015,Minnesota Twins,Oakland Athletics,55.06,0.33,0.4,0.6,45.05,0.33,0.2,0.3
+18-07-2015,Minnesota Twins,Oakland Athletics,55.56,0.33,0.6,0.6,44.57,0.33,0.4,0.4
+19-07-2015,Minnesota Twins,Oakland Athletics,54.95,0.33,0.6,0.7,45.16,0.0,0.4,0.3
+21-07-2015,Toronto Blue Jays,Oakland Athletics,50.0,0.0,0.2,0.3,45.74,0.33,0.4,0.4
+22-07-2015,Toronto Blue Jays,Oakland Athletics,50.53,0.33,0.4,0.3,45.26,0.33,0.4,0.4
+23-07-2015,Toronto Blue Jays,Oakland Athletics,50.0,0.33,0.4,0.4,45.83,0.0,0.4,0.4
+30-07-2015,Cleveland Indians,Oakland Athletics,46.0,0.0,0.0,0.1,44.12,0.33,0.2,0.3
+31-07-2015,Cleveland Indians,Oakland Athletics,46.53,0.33,0.2,0.2,43.69,0.0,0.2,0.2
+01-08-2015,Cleveland Indians,Oakland Athletics,47.06,0.33,0.4,0.2,43.27,0.0,0.2,0.2
+02-08-2015,Cleveland Indians,Oakland Athletics,46.6,0.33,0.6,0.3,43.81,0.0,0.0,0.1
+03-08-2015,Baltimore Orioles,Oakland Athletics,50.96,0.33,0.4,0.7,44.34,0.33,0.2,0.2
+04-08-2015,Baltimore Orioles,Oakland Athletics,51.43,0.0,0.4,0.6,43.93,0.33,0.4,0.3
+05-08-2015,Baltimore Orioles,Oakland Athletics,50.94,0.33,0.4,0.6,44.44,0.0,0.4,0.3
+06-08-2015,Houston Astros,Oakland Athletics,55.05,0.0,0.2,0.5,44.04,0.33,0.4,0.4
+07-08-2015,Houston Astros,Oakland Athletics,55.45,0.0,0.0,0.4,43.64,0.0,0.2,0.3
+08-08-2015,Houston Astros,Oakland Athletics,54.95,0.33,0.2,0.4,44.14,0.0,0.2,0.3
+09-08-2015,Houston Astros,Oakland Athletics,54.46,0.0,0.2,0.3,44.64,0.33,0.2,0.4
+18-08-2015,Los Angeles Dodgers,Oakland Athletics,56.78,0.33,0.4,0.4,42.5,0.0,0.0,0.2
+19-08-2015,Los Angeles Dodgers,Oakland Athletics,56.3,0.33,0.6,0.5,42.98,0.0,0.0,0.1
+21-08-2015,Tampa Bay Rays,Oakland Athletics,49.59,0.0,0.2,0.3,43.44,0.33,0.2,0.1
+22-08-2015,Tampa Bay Rays,Oakland Athletics,50.0,0.33,0.2,0.3,43.09,0.33,0.4,0.2
+23-08-2015,Tampa Bay Rays,Oakland Athletics,50.41,0.33,0.4,0.3,42.74,0.0,0.4,0.2
+31-08-2015,Los Angeles Angels of Anaheim,Oakland Athletics,50.0,0.0,0.2,0.2,43.51,0.33,0.2,0.3
+01-09-2015,Los Angeles Angels of Anaheim,Oakland Athletics,49.62,0.0,0.0,0.2,43.94,0.33,0.4,0.4
+02-09-2015,Los Angeles Angels of Anaheim,Oakland Athletics,50.0,0.0,0.0,0.2,43.61,0.33,0.6,0.5
+04-09-2015,Seattle Mariners,Oakland Athletics,47.01,0.33,0.2,0.5,43.28,0.0,0.4,0.4
+05-09-2015,Seattle Mariners,Oakland Athletics,47.41,0.33,0.4,0.5,42.96,0.0,0.2,0.3
+06-09-2015,Seattle Mariners,Oakland Athletics,47.79,0.33,0.6,0.5,42.65,0.0,0.0,0.3
+07-09-2015,Houston Astros,Oakland Athletics,54.74,0.0,0.2,0.3,42.34,0.0,0.0,0.3
+08-09-2015,Houston Astros,Oakland Athletics,54.35,0.33,0.4,0.4,42.75,0.0,0.0,0.3
+09-09-2015,Houston Astros,Oakland Athletics,53.96,0.0,0.2,0.3,43.17,0.33,0.2,0.3
+22-09-2015,Texas Rangers,Oakland Athletics,53.69,0.33,0.4,0.6,42.67,0.0,0.4,0.4
+23-09-2015,Texas Rangers,Oakland Athletics,54.0,0.0,0.2,0.6,42.38,0.0,0.2,0.3
+24-09-2015,Texas Rangers,Oakland Athletics,54.3,0.33,0.4,0.6,42.11,0.0,0.0,0.3
+25-09-2015,San Francisco Giants,Oakland Athletics,51.97,0.0,0.4,0.4,41.83,0.0,0.0,0.3
+26-09-2015,San Francisco Giants,Oakland Athletics,51.63,0.0,0.2,0.3,42.21,0.0,0.0,0.2
+27-09-2015,San Francisco Giants,Oakland Athletics,51.95,0.0,0.0,0.3,41.94,0.33,0.2,0.3
+06-04-2015,Boston Red Sox,Philadelphia Phillies,0,0.0,0.0,0.5,0,0.0,0.2,0.5
+08-04-2015,Boston Red Sox,Philadelphia Phillies,100.0,nan,nan,nan,0.0,nan,nan,nan
+09-04-2015,Boston Red Sox,Philadelphia Phillies,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+10-04-2015,Washington Nationals,Philadelphia Phillies,33.33,0.33,nan,nan,33.33,0.33,nan,nan
+11-04-2015,Washington Nationals,Philadelphia Phillies,25.0,0.0,0.2,nan,50.0,0.0,0.2,nan
+12-04-2015,Washington Nationals,Philadelphia Phillies,20.0,0.0,0.2,nan,60.0,0.33,0.4,nan
+21-04-2015,Miami Marlins,Philadelphia Phillies,23.08,0.0,0.0,0.2,30.77,0.33,0.2,0.2
+22-04-2015,Miami Marlins,Philadelphia Phillies,21.43,0.0,0.0,0.2,35.71,0.0,0.2,0.1
+23-04-2015,Miami Marlins,Philadelphia Phillies,26.67,0.0,0.0,0.2,33.33,0.33,0.4,0.2
+24-04-2015,Atlanta Braves,Philadelphia Phillies,53.33,0.0,0.2,0.3,31.25,0.0,0.2,0.2
+25-04-2015,Atlanta Braves,Philadelphia Phillies,50.0,0.0,0.0,0.2,35.29,0.0,0.2,0.2
+26-04-2015,Atlanta Braves,Philadelphia Phillies,52.94,0.0,0.0,0.2,33.33,0.33,0.2,0.3
+08-05-2015,New York Mets,Philadelphia Phillies,64.29,0.33,0.2,0.3,34.48,0.0,0.4,0.2
+09-05-2015,New York Mets,Philadelphia Phillies,62.07,0.33,0.4,0.3,36.67,0.0,0.2,0.2
+10-05-2015,New York Mets,Philadelphia Phillies,63.33,0.0,0.4,0.3,35.48,0.33,0.2,0.3
+11-05-2015,Pittsburgh Pirates,Philadelphia Phillies,48.39,0.33,0.4,0.2,34.38,0.0,0.2,0.3
+12-05-2015,Pittsburgh Pirates,Philadelphia Phillies,50.0,0.33,0.4,0.3,33.33,0.0,0.2,0.3
+13-05-2015,Pittsburgh Pirates,Philadelphia Phillies,51.52,0.33,0.6,0.4,32.35,0.0,0.0,0.3
+14-05-2015,Pittsburgh Pirates,Philadelphia Phillies,50.0,0.33,0.6,0.5,34.29,0.0,0.0,0.2
+15-05-2015,Arizona Diamondbacks,Philadelphia Phillies,45.45,0.33,0.4,0.5,36.11,0.33,0.2,0.2
+16-05-2015,Arizona Diamondbacks,Philadelphia Phillies,44.12,0.0,0.2,0.4,37.84,0.33,0.4,0.3
+17-05-2015,Arizona Diamondbacks,Philadelphia Phillies,42.86,0.0,0.2,0.3,39.47,0.33,0.6,0.4
+29-05-2015,Colorado Rockies,Philadelphia Phillies,42.22,0.0,0.4,0.4,38.78,0.0,0.0,0.2
+30-05-2015,Colorado Rockies,Philadelphia Phillies,43.48,0.33,0.4,0.5,38.0,0.0,0.0,0.2
+31-05-2015,Colorado Rockies,Philadelphia Phillies,44.68,0.33,0.4,0.5,37.25,0.0,0.0,0.1
+02-06-2015,Cincinnati Reds,Philadelphia Phillies,44.9,0.33,0.4,0.3,36.54,0.0,0.0,0.1
+03-06-2015,Cincinnati Reds,Philadelphia Phillies,44.0,0.33,0.6,0.4,37.74,0.0,0.0,0.1
+04-06-2015,Cincinnati Reds,Philadelphia Phillies,43.14,0.0,0.4,0.4,38.89,0.33,0.2,0.1
+05-06-2015,San Francisco Giants,Philadelphia Phillies,54.55,0.0,0.0,0.4,38.18,0.33,0.4,0.2
+06-06-2015,San Francisco Giants,Philadelphia Phillies,55.36,0.0,0.0,0.3,37.5,0.0,0.4,0.2
+07-06-2015,San Francisco Giants,Philadelphia Phillies,56.14,0.33,0.2,0.3,36.84,0.0,0.2,0.2
+17-06-2015,Baltimore Orioles,Philadelphia Phillies,51.56,0.33,0.4,0.7,33.33,0.0,0.0,0.1
+18-06-2015,Baltimore Orioles,Philadelphia Phillies,52.31,0.33,0.4,0.7,32.84,0.0,0.0,0.0
+19-06-2015,St. Louis Cardinals,Philadelphia Phillies,65.15,0.0,0.4,0.5,33.82,0.0,0.0,0.0
+20-06-2015,St. Louis Cardinals,Philadelphia Phillies,65.67,0.0,0.2,0.5,33.33,0.33,0.2,0.1
+21-06-2015,St. Louis Cardinals,Philadelphia Phillies,66.18,0.33,0.2,0.6,32.86,0.0,0.2,0.1
+26-06-2015,Washington Nationals,Philadelphia Phillies,54.79,0.33,0.6,0.6,35.14,0.33,0.6,0.4
+29-06-2015,Milwaukee Brewers,Philadelphia Phillies,37.66,0.0,0.2,0.4,35.06,0.0,0.0,0.3
+30-06-2015,Milwaukee Brewers,Philadelphia Phillies,38.46,0.33,0.4,0.4,34.62,0.33,0.2,0.4
+01-07-2015,Milwaukee Brewers,Philadelphia Phillies,39.24,0.33,0.4,0.5,34.18,0.0,0.2,0.4
+02-07-2015,Milwaukee Brewers,Philadelphia Phillies,40.0,0.33,0.6,0.6,33.75,0.0,0.2,0.3
+17-07-2015,Miami Marlins,Philadelphia Phillies,42.7,0.33,0.4,0.3,31.87,0.0,0.0,0.2
+18-07-2015,Miami Marlins,Philadelphia Phillies,42.22,0.33,0.4,0.3,32.61,0.0,0.0,0.2
+19-07-2015,Miami Marlins,Philadelphia Phillies,41.76,0.0,0.4,0.3,33.33,0.33,0.2,0.2
+20-07-2015,Tampa Bay Rays,Philadelphia Phillies,50.0,0.33,0.4,0.4,34.04,0.33,0.4,0.3
+21-07-2015,Tampa Bay Rays,Philadelphia Phillies,49.47,0.0,0.2,0.4,34.74,0.33,0.6,0.3
+22-07-2015,Tampa Bay Rays,Philadelphia Phillies,50.0,0.0,0.2,0.4,34.38,0.33,0.6,0.4
+30-07-2015,Atlanta Braves,Philadelphia Phillies,45.54,0.0,0.2,0.3,37.25,0.33,0.6,0.7
+31-07-2015,Atlanta Braves,Philadelphia Phillies,45.1,0.0,0.0,0.2,37.86,0.0,0.4,0.6
+01-08-2015,Atlanta Braves,Philadelphia Phillies,44.66,0.0,0.0,0.1,38.46,0.33,0.4,0.6
+02-08-2015,Atlanta Braves,Philadelphia Phillies,44.23,0.0,0.0,0.1,39.05,0.33,0.4,0.7
+04-08-2015,Los Angeles Dodgers,Philadelphia Phillies,57.14,0.33,0.6,0.5,38.68,0.33,0.6,0.7
+05-08-2015,Los Angeles Dodgers,Philadelphia Phillies,56.6,0.33,0.6,0.5,39.25,0.0,0.4,0.6
+06-08-2015,Los Angeles Dodgers,Philadelphia Phillies,57.01,0.0,0.4,0.4,38.89,0.33,0.4,0.6
+18-08-2015,Toronto Blue Jays,Philadelphia Phillies,54.62,0.0,0.2,0.6,38.98,0.0,0.2,0.4
+19-08-2015,Toronto Blue Jays,Philadelphia Phillies,55.0,0.33,0.2,0.6,38.66,0.0,0.0,0.3
+24-08-2015,New York Mets,Philadelphia Phillies,54.47,0.33,0.4,0.4,40.32,0.33,0.4,0.3
+25-08-2015,New York Mets,Philadelphia Phillies,54.84,0.33,0.6,0.4,40.0,0.33,0.6,0.4
+26-08-2015,New York Mets,Philadelphia Phillies,55.2,0.33,0.6,0.5,39.68,0.0,0.4,0.4
+27-08-2015,New York Mets,Philadelphia Phillies,55.56,0.33,0.6,0.6,39.37,0.0,0.2,0.4
+28-08-2015,San Diego Padres,Philadelphia Phillies,48.82,0.33,0.2,0.6,39.06,0.0,0.0,0.4
+29-08-2015,San Diego Padres,Philadelphia Phillies,48.44,0.0,0.2,0.5,39.53,0.0,0.0,0.3
+30-08-2015,San Diego Padres,Philadelphia Phillies,48.06,0.0,0.2,0.4,40.0,0.33,0.2,0.4
+07-09-2015,Atlanta Braves,Philadelphia Phillies,39.42,0.0,0.0,0.0,38.69,0.0,0.0,0.3
+08-09-2015,Atlanta Braves,Philadelphia Phillies,39.86,0.0,0.0,0.0,38.41,0.0,0.0,0.2
+09-09-2015,Atlanta Braves,Philadelphia Phillies,39.57,0.33,0.2,0.1,38.85,0.0,0.0,0.1
+12-09-2015,Chicago Cubs,Philadelphia Phillies,58.57,0.33,0.4,0.6,38.03,0.0,0.2,0.1
+13-09-2015,Chicago Cubs,Philadelphia Phillies,58.16,0.33,0.4,0.7,38.46,0.0,0.0,0.1
+14-09-2015,Washington Nationals,Philadelphia Phillies,50.7,0.0,0.0,0.3,38.89,0.33,0.2,0.2
+15-09-2015,Washington Nationals,Philadelphia Phillies,51.05,0.33,0.2,0.3,38.62,0.33,0.4,0.3
+16-09-2015,Washington Nationals,Philadelphia Phillies,51.39,0.33,0.4,0.3,38.36,0.0,0.4,0.3
+29-09-2015,New York Mets,Philadelphia Phillies,57.05,0.33,0.6,0.4,37.82,0.0,0.2,0.2
+30-09-2015,New York Mets,Philadelphia Phillies,56.69,0.33,0.6,0.5,38.22,0.33,0.4,0.3
+01-10-2015,New York Mets,Philadelphia Phillies,56.33,0.0,0.4,0.5,38.61,0.33,0.4,0.4
+04-10-2015,Miami Marlins,Philadelphia Phillies,44.1,0.33,0.2,0.5,38.51,0.0,0.4,0.5
+13-04-2015,Detroit Tigers,Pittsburgh Pirates,100.0,0.33,0.6,nan,33.33,0.0,0.2,nan
+14-04-2015,Detroit Tigers,Pittsburgh Pirates,85.71,0.33,0.6,nan,42.86,0.33,0.4,nan
+15-04-2015,Detroit Tigers,Pittsburgh Pirates,87.5,0.0,0.4,nan,37.5,0.33,0.4,nan
+17-04-2015,Milwaukee Brewers,Pittsburgh Pirates,22.22,0.0,0.2,0.2,33.33,0.0,0.4,0.3
+18-04-2015,Milwaukee Brewers,Pittsburgh Pirates,20.0,0.0,0.2,0.2,40.0,0.0,0.2,0.3
+19-04-2015,Milwaukee Brewers,Pittsburgh Pirates,18.18,0.0,0.0,0.2,45.45,0.33,0.2,0.4
+20-04-2015,Chicago Cubs,Pittsburgh Pirates,54.55,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+21-04-2015,Chicago Cubs,Pittsburgh Pirates,58.33,0.0,0.2,0.5,46.15,0.33,0.6,0.5
+22-04-2015,Chicago Cubs,Pittsburgh Pirates,61.54,0.33,0.4,0.5,42.86,0.0,0.4,0.5
+23-04-2015,Chicago Cubs,Pittsburgh Pirates,57.14,0.33,0.4,0.5,46.67,0.0,0.2,0.4
+05-05-2015,Cincinnati Reds,Pittsburgh Pirates,48.0,0.33,0.4,0.4,48.0,0.0,0.2,0.4
+06-05-2015,Cincinnati Reds,Pittsburgh Pirates,50.0,0.0,0.2,0.4,46.15,0.0,0.0,0.3
+07-05-2015,Cincinnati Reds,Pittsburgh Pirates,51.85,0.33,0.4,0.5,44.44,0.0,0.0,0.2
+08-05-2015,St. Louis Cardinals,Pittsburgh Pirates,75.0,0.0,0.4,0.7,46.43,0.0,0.0,0.1
+09-05-2015,St. Louis Cardinals,Pittsburgh Pirates,75.86,0.33,0.4,0.7,44.83,0.33,0.2,0.2
+10-05-2015,St. Louis Cardinals,Pittsburgh Pirates,73.33,0.33,0.4,0.7,46.67,0.0,0.2,0.2
+19-05-2015,Minnesota Twins,Pittsburgh Pirates,55.26,0.33,0.4,0.5,47.37,0.0,0.0,0.4
+20-05-2015,Minnesota Twins,Pittsburgh Pirates,56.41,0.0,0.4,0.4,46.15,0.33,0.2,0.4
+22-05-2015,New York Mets,Pittsburgh Pirates,57.14,0.0,0.2,0.3,45.0,0.0,0.2,0.3
+24-05-2015,New York Mets,Pittsburgh Pirates,54.55,0.0,0.2,0.4,47.62,0.33,0.2,0.2
+25-05-2015,Miami Marlins,Pittsburgh Pirates,40.0,0.33,0.2,0.1,48.84,0.33,0.4,0.3
+26-05-2015,Miami Marlins,Pittsburgh Pirates,39.13,0.33,0.4,0.2,50.0,0.33,0.6,0.4
+27-05-2015,Miami Marlins,Pittsburgh Pirates,38.3,0.0,0.4,0.2,51.11,0.33,0.6,0.5
+08-06-2015,Milwaukee Brewers,Pittsburgh Pirates,35.09,0.33,0.4,0.4,55.36,0.0,0.4,0.5
+09-06-2015,Milwaukee Brewers,Pittsburgh Pirates,36.21,0.0,0.4,0.4,54.39,0.33,0.4,0.6
+10-06-2015,Milwaukee Brewers,Pittsburgh Pirates,37.29,0.33,0.4,0.5,53.45,0.0,0.2,0.5
+12-06-2015,Philadelphia Phillies,Pittsburgh Pirates,36.07,0.0,0.2,0.3,54.24,0.0,0.2,0.5
+13-06-2015,Philadelphia Phillies,Pittsburgh Pirates,35.48,0.0,0.0,0.2,55.0,0.33,0.2,0.5
+14-06-2015,Philadelphia Phillies,Pittsburgh Pirates,34.92,0.0,0.0,0.1,55.74,0.33,0.4,0.5
+15-06-2015,Chicago White Sox,Pittsburgh Pirates,45.9,0.0,0.2,0.4,56.45,0.33,0.6,0.5
+16-06-2015,Chicago White Sox,Pittsburgh Pirates,45.16,0.0,0.0,0.3,57.14,0.33,0.6,0.5
+23-06-2015,Cincinnati Reds,Pittsburgh Pirates,47.06,0.0,0.4,0.4,56.52,0.0,0.2,0.6
+24-06-2015,Cincinnati Reds,Pittsburgh Pirates,46.38,0.33,0.4,0.4,57.14,0.0,0.0,0.5
+25-06-2015,Cincinnati Reds,Pittsburgh Pirates,47.14,0.0,0.2,0.4,56.34,0.33,0.2,0.5
+26-06-2015,Atlanta Braves,Pittsburgh Pirates,47.95,0.0,0.2,0.4,55.56,0.0,0.2,0.4
+27-06-2015,Atlanta Braves,Pittsburgh Pirates,47.3,0.0,0.0,0.4,56.16,0.0,0.2,0.3
+28-06-2015,Atlanta Braves,Pittsburgh Pirates,46.67,0.0,0.0,0.3,56.76,0.33,0.2,0.3
+03-07-2015,Cleveland Indians,Pittsburgh Pirates,47.44,0.33,0.6,0.4,57.69,0.33,0.4,0.5
+04-07-2015,Cleveland Indians,Pittsburgh Pirates,48.1,0.33,0.6,0.5,56.96,0.33,0.6,0.5
+05-07-2015,Cleveland Indians,Pittsburgh Pirates,47.5,0.33,0.6,0.5,57.5,0.0,0.4,0.5
+06-07-2015,San Diego Padres,Pittsburgh Pirates,46.43,0.0,0.4,0.4,58.02,0.33,0.4,0.6
+07-07-2015,San Diego Padres,Pittsburgh Pirates,45.88,0.0,0.2,0.3,58.54,0.33,0.4,0.6
+08-07-2015,San Diego Padres,Pittsburgh Pirates,45.35,0.0,0.0,0.2,59.04,0.33,0.6,0.6
+09-07-2015,St. Louis Cardinals,Pittsburgh Pirates,64.71,0.0,0.2,0.3,59.52,0.33,0.6,0.7
+10-07-2015,St. Louis Cardinals,Pittsburgh Pirates,65.12,0.33,0.2,0.4,58.82,0.33,0.6,0.7
+11-07-2015,St. Louis Cardinals,Pittsburgh Pirates,64.37,0.33,0.4,0.5,59.3,0.0,0.4,0.6
+12-07-2015,St. Louis Cardinals,Pittsburgh Pirates,63.64,0.0,0.4,0.5,59.77,0.33,0.4,0.6
+23-07-2015,Washington Nationals,Pittsburgh Pirates,54.84,0.0,0.2,0.4,57.45,0.0,0.2,0.4
+24-07-2015,Washington Nationals,Pittsburgh Pirates,54.26,0.33,0.4,0.5,57.89,0.0,0.2,0.3
+25-07-2015,Washington Nationals,Pittsburgh Pirates,53.68,0.0,0.2,0.4,58.33,0.33,0.2,0.3
+26-07-2015,Washington Nationals,Pittsburgh Pirates,54.17,0.0,0.2,0.3,57.73,0.33,0.4,0.3
+04-08-2015,Chicago Cubs,Pittsburgh Pirates,54.81,0.33,0.6,0.5,58.65,0.0,0.2,0.5
+05-08-2015,Chicago Cubs,Pittsburgh Pirates,55.24,0.33,0.6,0.6,58.1,0.33,0.4,0.5
+07-08-2015,Los Angeles Dodgers,Pittsburgh Pirates,57.41,0.33,0.4,0.5,58.49,0.0,0.2,0.5
+08-08-2015,Los Angeles Dodgers,Pittsburgh Pirates,56.88,0.33,0.4,0.6,58.88,0.33,0.4,0.5
+09-08-2015,Los Angeles Dodgers,Pittsburgh Pirates,56.36,0.0,0.4,0.6,59.26,0.33,0.4,0.5
+17-08-2015,Arizona Diamondbacks,Pittsburgh Pirates,49.14,0.33,0.2,0.5,60.0,0.33,0.6,0.6
+18-08-2015,Arizona Diamondbacks,Pittsburgh Pirates,49.57,0.0,0.2,0.4,59.48,0.33,0.6,0.6
+19-08-2015,Arizona Diamondbacks,Pittsburgh Pirates,49.15,0.33,0.4,0.5,59.83,0.0,0.4,0.5
+20-08-2015,San Francisco Giants,Pittsburgh Pirates,54.17,0.33,0.4,0.6,60.17,0.33,0.4,0.5
+21-08-2015,San Francisco Giants,Pittsburgh Pirates,53.72,0.0,0.2,0.5,60.5,0.33,0.4,0.6
+22-08-2015,San Francisco Giants,Pittsburgh Pirates,54.1,0.0,0.2,0.5,60.0,0.33,0.6,0.7
+23-08-2015,San Francisco Giants,Pittsburgh Pirates,53.66,0.33,0.2,0.5,60.33,0.0,0.4,0.6
+28-08-2015,Colorado Rockies,Pittsburgh Pirates,40.8,0.33,0.2,0.2,61.11,0.33,0.4,0.6
+29-08-2015,Colorado Rockies,Pittsburgh Pirates,40.48,0.33,0.4,0.3,61.42,0.33,0.4,0.6
+30-08-2015,Colorado Rockies,Pittsburgh Pirates,40.16,0.0,0.4,0.3,61.72,0.33,0.6,0.6
+10-09-2015,Milwaukee Brewers,Pittsburgh Pirates,43.88,0.0,0.2,0.6,60.14,0.33,0.4,0.3
+11-09-2015,Milwaukee Brewers,Pittsburgh Pirates,44.29,0.0,0.2,0.5,59.71,0.33,0.4,0.4
+12-09-2015,Milwaukee Brewers,Pittsburgh Pirates,43.97,0.33,0.2,0.5,60.0,0.0,0.4,0.4
+13-09-2015,Milwaukee Brewers,Pittsburgh Pirates,43.66,0.0,0.2,0.4,60.28,0.33,0.4,0.5
+16-09-2015,Chicago Cubs,Pittsburgh Pirates,57.64,0.0,0.0,0.4,60.42,0.33,0.6,0.6
+17-09-2015,Chicago Cubs,Pittsburgh Pirates,57.93,0.33,0.2,0.4,60.0,0.0,0.4,0.6
+28-09-2015,St. Louis Cardinals,Pittsburgh Pirates,62.82,0.33,0.4,0.6,60.9,0.33,0.6,0.8
+02-10-2015,Cincinnati Reds,Pittsburgh Pirates,39.62,0.0,0.0,0.0,60.38,0.33,0.2,0.6
+03-10-2015,Cincinnati Reds,Pittsburgh Pirates,39.38,0.0,0.0,0.0,60.62,0.0,0.2,0.5
+04-10-2015,Cincinnati Reds,Pittsburgh Pirates,39.75,0.0,0.0,0.0,60.25,0.33,0.4,0.5
+09-04-2015,San Francisco Giants,San Diego Padres,66.67,0.0,nan,nan,33.33,0.33,nan,nan
+10-04-2015,San Francisco Giants,San Diego Padres,75.0,0.33,0.4,nan,25.0,0.0,0.2,nan
+11-04-2015,San Francisco Giants,San Diego Padres,60.0,0.33,0.4,nan,40.0,0.0,0.2,nan
+12-04-2015,San Francisco Giants,San Diego Padres,50.0,0.0,0.4,nan,50.0,0.33,0.2,nan
+13-04-2015,Arizona Diamondbacks,San Diego Padres,50.0,0.33,0.4,nan,57.14,0.33,0.4,nan
+14-04-2015,Arizona Diamondbacks,San Diego Padres,57.14,0.0,0.4,nan,50.0,0.33,0.6,nan
+15-04-2015,Arizona Diamondbacks,San Diego Padres,50.0,0.33,0.4,nan,55.56,0.0,0.4,0.4
+24-04-2015,Los Angeles Dodgers,San Diego Padres,60.0,0.0,0.2,0.6,58.82,0.0,0.4,0.6
+25-04-2015,Los Angeles Dodgers,San Diego Padres,62.5,0.0,0.0,0.5,55.56,0.0,0.2,0.5
+26-04-2015,Los Angeles Dodgers,San Diego Padres,64.71,0.33,0.2,0.5,52.63,0.0,0.0,0.4
+27-04-2015,Houston Astros,San Diego Padres,61.11,0.33,0.4,0.6,55.0,0.0,0.0,0.3
+28-04-2015,Houston Astros,San Diego Padres,63.16,0.33,0.6,0.7,52.38,0.33,0.2,0.4
+29-04-2015,Houston Astros,San Diego Padres,65.0,0.33,0.6,0.7,50.0,0.0,0.2,0.3
+01-05-2015,Colorado Rockies,San Diego Padres,52.38,0.0,0.2,0.4,47.83,0.0,0.2,0.2
+02-05-2015,Colorado Rockies,San Diego Padres,50.0,0.0,0.2,0.4,50.0,0.0,0.0,0.1
+03-05-2015,Colorado Rockies,San Diego Padres,47.83,0.0,0.0,0.4,52.0,0.33,0.2,0.2
+14-05-2015,Washington Nationals,San Diego Padres,54.29,0.0,0.4,0.6,51.43,0.0,0.2,0.3
+15-05-2015,Washington Nationals,San Diego Padres,52.78,0.33,0.4,0.6,52.78,0.33,0.2,0.4
+16-05-2015,Washington Nationals,San Diego Padres,54.05,0.0,0.2,0.6,51.35,0.33,0.4,0.5
+17-05-2015,Washington Nationals,San Diego Padres,55.26,0.33,0.4,0.6,50.0,0.0,0.4,0.4
+19-05-2015,Chicago Cubs,San Diego Padres,56.76,0.33,0.6,0.6,48.72,0.0,0.2,0.4
+20-05-2015,Chicago Cubs,San Diego Padres,55.26,0.0,0.4,0.6,50.0,0.0,0.0,0.3
+21-05-2015,Chicago Cubs,San Diego Padres,56.41,0.0,0.2,0.6,48.78,0.33,0.2,0.3
+28-05-2015,Pittsburgh Pirates,San Diego Padres,52.17,0.33,0.6,0.6,47.92,0.33,0.4,0.3
+29-05-2015,Pittsburgh Pirates,San Diego Padres,53.19,0.33,0.6,0.6,46.94,0.33,0.4,0.3
+30-05-2015,Pittsburgh Pirates,San Diego Padres,52.08,0.33,0.6,0.7,48.0,0.0,0.4,0.3
+31-05-2015,Pittsburgh Pirates,San Diego Padres,53.06,0.0,0.4,0.7,47.06,0.33,0.4,0.4
+01-06-2015,New York Mets,San Diego Padres,54.9,0.0,0.2,0.3,48.08,0.0,0.2,0.4
+02-06-2015,New York Mets,San Diego Padres,55.77,0.33,0.2,0.4,47.17,0.33,0.4,0.5
+03-06-2015,New York Mets,San Diego Padres,54.72,0.33,0.4,0.5,48.15,0.0,0.2,0.4
+12-06-2015,Los Angeles Dodgers,San Diego Padres,58.33,0.33,0.4,0.4,50.0,0.0,0.2,0.5
+13-06-2015,Los Angeles Dodgers,San Diego Padres,59.02,0.33,0.6,0.4,49.21,0.33,0.2,0.5
+14-06-2015,Los Angeles Dodgers,San Diego Padres,58.06,0.33,0.6,0.5,50.0,0.0,0.2,0.4
+15-06-2015,Oakland Athletics,San Diego Padres,40.0,0.0,0.2,0.2,49.23,0.33,0.4,0.4
+16-06-2015,Oakland Athletics,San Diego Padres,40.91,0.33,0.2,0.3,48.48,0.0,0.2,0.3
+26-06-2015,Arizona Diamondbacks,San Diego Padres,48.61,0.33,0.4,0.4,46.67,0.0,0.2,0.3
+27-06-2015,Arizona Diamondbacks,San Diego Padres,47.95,0.0,0.2,0.4,47.37,0.0,0.2,0.3
+28-06-2015,Arizona Diamondbacks,San Diego Padres,47.3,0.0,0.2,0.3,48.05,0.33,0.2,0.4
+30-06-2015,Seattle Mariners,San Diego Padres,44.74,0.0,0.2,0.4,47.44,0.33,0.4,0.4
+01-07-2015,Seattle Mariners,San Diego Padres,45.45,0.0,0.2,0.3,46.84,0.0,0.4,0.4
+17-07-2015,Colorado Rockies,San Diego Padres,44.32,0.33,0.6,0.4,45.56,0.33,0.2,0.2
+18-07-2015,Colorado Rockies,San Diego Padres,43.82,0.33,0.6,0.5,46.15,0.33,0.4,0.2
+20-07-2015,San Francisco Giants,San Diego Padres,53.26,0.33,0.6,0.6,46.74,0.33,0.6,0.3
+21-07-2015,San Francisco Giants,San Diego Padres,52.69,0.33,0.6,0.7,47.31,0.33,0.6,0.4
+22-07-2015,San Francisco Giants,San Diego Padres,53.19,0.0,0.4,0.6,46.81,0.33,0.6,0.5
+23-07-2015,Miami Marlins,San Diego Padres,42.11,0.33,0.2,0.3,46.32,0.0,0.4,0.5
+24-07-2015,Miami Marlins,San Diego Padres,42.71,0.33,0.4,0.4,45.83,0.0,0.2,0.5
+25-07-2015,Miami Marlins,San Diego Padres,42.27,0.33,0.6,0.4,46.39,0.0,0.0,0.5
+26-07-2015,Miami Marlins,San Diego Padres,41.84,0.0,0.4,0.3,46.94,0.33,0.2,0.5
+07-08-2015,Philadelphia Phillies,San Diego Padres,38.53,0.0,0.2,0.5,47.71,0.0,0.2,0.5
+08-08-2015,Philadelphia Phillies,San Diego Padres,39.09,0.0,0.2,0.4,47.27,0.0,0.0,0.4
+09-08-2015,Philadelphia Phillies,San Diego Padres,39.64,0.33,0.2,0.5,46.85,0.0,0.0,0.3
+10-08-2015,Cincinnati Reds,San Diego Padres,44.95,0.33,0.2,0.3,46.43,0.0,0.0,0.2
+11-08-2015,Cincinnati Reds,San Diego Padres,44.55,0.0,0.2,0.3,46.9,0.0,0.0,0.1
+12-08-2015,Cincinnati Reds,San Diego Padres,44.14,0.0,0.2,0.2,47.37,0.33,0.2,0.2
+17-08-2015,Atlanta Braves,San Diego Padres,45.3,0.0,0.2,0.4,47.46,0.33,0.4,0.4
+18-08-2015,Atlanta Braves,San Diego Padres,44.92,0.33,0.4,0.4,47.9,0.0,0.4,0.4
+19-08-2015,Atlanta Braves,San Diego Padres,44.54,0.0,0.2,0.3,48.33,0.33,0.4,0.5
+21-08-2015,St. Louis Cardinals,San Diego Padres,64.17,0.0,0.2,0.5,48.76,0.33,0.4,0.6
+22-08-2015,St. Louis Cardinals,San Diego Padres,63.64,0.33,0.4,0.5,49.18,0.33,0.6,0.6
+23-08-2015,St. Louis Cardinals,San Diego Padres,63.11,0.0,0.2,0.4,49.59,0.33,0.6,0.6
+31-08-2015,Texas Rangers,San Diego Padres,52.71,0.33,0.6,0.6,48.46,0.0,0.0,0.3
+01-09-2015,Texas Rangers,San Diego Padres,52.31,0.33,0.6,0.6,48.85,0.33,0.2,0.3
+02-09-2015,Texas Rangers,San Diego Padres,52.67,0.0,0.4,0.5,48.48,0.33,0.4,0.3
+03-09-2015,Los Angeles Dodgers,San Diego Padres,56.82,0.33,0.4,0.7,48.12,0.0,0.4,0.3
+04-09-2015,Los Angeles Dodgers,San Diego Padres,56.39,0.33,0.6,0.7,48.51,0.0,0.2,0.3
+05-09-2015,Los Angeles Dodgers,San Diego Padres,56.72,0.0,0.4,0.6,48.15,0.33,0.2,0.3
+06-09-2015,Los Angeles Dodgers,San Diego Padres,57.04,0.33,0.4,0.6,47.79,0.0,0.2,0.3
+07-09-2015,Colorado Rockies,San Diego Padres,41.18,0.0,0.4,0.5,47.45,0.0,0.2,0.3
+08-09-2015,Colorado Rockies,San Diego Padres,41.61,0.0,0.2,0.4,47.1,0.0,0.0,0.3
+09-09-2015,Colorado Rockies,San Diego Padres,41.3,0.33,0.2,0.4,47.48,0.0,0.0,0.2
+10-09-2015,Colorado Rockies,San Diego Padres,41.01,0.0,0.2,0.4,47.86,0.33,0.2,0.2
+22-09-2015,San Francisco Giants,San Diego Padres,52.35,0.0,0.2,0.5,46.67,0.0,0.2,0.2
+23-09-2015,San Francisco Giants,San Diego Padres,52.67,0.33,0.2,0.5,46.36,0.33,0.2,0.3
+24-09-2015,San Francisco Giants,San Diego Padres,52.32,0.33,0.4,0.5,46.71,0.0,0.2,0.3
+25-09-2015,Arizona Diamondbacks,San Diego Padres,47.71,0.0,0.4,0.5,47.06,0.33,0.4,0.4
+26-09-2015,Arizona Diamondbacks,San Diego Padres,48.05,0.0,0.2,0.4,46.75,0.33,0.4,0.4
+27-09-2015,Arizona Diamondbacks,San Diego Padres,47.74,0.33,0.2,0.5,47.1,0.0,0.4,0.4
+29-09-2015,Milwaukee Brewers,San Diego Padres,42.31,0.0,0.2,0.3,46.79,0.33,0.4,0.4
+30-09-2015,Milwaukee Brewers,San Diego Padres,42.68,0.33,0.4,0.4,46.5,0.0,0.2,0.4
+01-10-2015,Milwaukee Brewers,San Diego Padres,43.04,0.33,0.4,0.4,46.2,0.0,0.2,0.4
+06-04-2015,Los Angeles Angels of Anaheim,Seattle Mariners,0,0.33,0.4,0.6,0,0.0,0.0,0.1
+07-04-2015,Los Angeles Angels of Anaheim,Seattle Mariners,0.0,nan,nan,nan,100.0,nan,nan,nan
+08-04-2015,Los Angeles Angels of Anaheim,Seattle Mariners,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+17-04-2015,Texas Rangers,Seattle Mariners,40.0,0.33,0.2,0.4,33.33,0.0,0.2,0.3
+18-04-2015,Texas Rangers,Seattle Mariners,45.45,0.0,0.2,0.3,30.0,0.0,0.0,0.2
+19-04-2015,Texas Rangers,Seattle Mariners,41.67,0.33,0.4,0.4,36.36,0.0,0.0,0.2
+20-04-2015,Houston Astros,Seattle Mariners,50.0,0.33,0.4,0.4,41.67,0.33,0.2,0.3
+21-04-2015,Houston Astros,Seattle Mariners,53.85,0.33,0.4,0.4,38.46,0.33,0.4,0.4
+22-04-2015,Houston Astros,Seattle Mariners,57.14,0.33,0.6,0.5,35.71,0.0,0.4,0.3
+24-04-2015,Minnesota Twins,Seattle Mariners,40.0,0.0,0.2,0.4,40.0,0.0,0.2,0.2
+25-04-2015,Minnesota Twins,Seattle Mariners,37.5,0.33,0.2,0.5,43.75,0.33,0.2,0.3
+26-04-2015,Minnesota Twins,Seattle Mariners,41.18,0.0,0.2,0.4,41.18,0.33,0.4,0.4
+08-05-2015,Oakland Athletics,Seattle Mariners,40.0,0.0,0.2,0.3,39.29,0.0,0.2,0.3
+09-05-2015,Oakland Athletics,Seattle Mariners,38.71,0.0,0.2,0.3,41.38,0.0,0.2,0.2
+10-05-2015,Oakland Athletics,Seattle Mariners,37.5,0.0,0.0,0.3,43.33,0.33,0.2,0.2
+12-05-2015,San Diego Padres,Seattle Mariners,51.52,0.33,0.4,0.5,45.16,0.33,0.4,0.3
+13-05-2015,San Diego Padres,Seattle Mariners,50.0,0.0,0.4,0.4,46.88,0.33,0.6,0.4
+14-05-2015,Boston Red Sox,Seattle Mariners,47.06,0.0,0.4,0.3,45.45,0.33,0.6,0.5
+15-05-2015,Boston Red Sox,Seattle Mariners,48.57,0.33,0.4,0.4,44.12,0.0,0.4,0.5
+16-05-2015,Boston Red Sox,Seattle Mariners,47.22,0.33,0.4,0.4,45.71,0.0,0.2,0.4
+17-05-2015,Boston Red Sox,Seattle Mariners,48.65,0.0,0.4,0.4,44.44,0.33,0.2,0.5
+28-05-2015,Cleveland Indians,Seattle Mariners,45.65,0.0,0.2,0.6,50.0,0.33,0.4,0.5
+29-05-2015,Cleveland Indians,Seattle Mariners,46.81,0.33,0.2,0.6,48.94,0.33,0.6,0.6
+30-05-2015,Cleveland Indians,Seattle Mariners,45.83,0.33,0.4,0.6,50.0,0.0,0.4,0.5
+31-05-2015,Cleveland Indians,Seattle Mariners,46.94,0.0,0.4,0.5,48.98,0.33,0.4,0.6
+01-06-2015,New York Yankees,Seattle Mariners,50.98,0.33,0.2,0.4,48.0,0.0,0.2,0.5
+02-06-2015,New York Yankees,Seattle Mariners,51.92,0.0,0.2,0.4,47.06,0.0,0.2,0.4
+03-06-2015,New York Yankees,Seattle Mariners,52.83,0.33,0.4,0.5,46.15,0.0,0.0,0.4
+04-06-2015,Tampa Bay Rays,Seattle Mariners,51.85,0.33,0.4,0.3,45.28,0.0,0.0,0.3
+05-06-2015,Tampa Bay Rays,Seattle Mariners,52.73,0.33,0.4,0.4,44.44,0.0,0.0,0.2
+06-06-2015,Tampa Bay Rays,Seattle Mariners,53.57,0.33,0.6,0.5,43.64,0.0,0.0,0.1
+07-06-2015,Tampa Bay Rays,Seattle Mariners,52.63,0.33,0.6,0.6,44.64,0.0,0.0,0.1
+17-06-2015,San Francisco Giants,Seattle Mariners,53.03,0.0,0.0,0.2,44.62,0.33,0.4,0.4
+18-06-2015,San Francisco Giants,Seattle Mariners,52.24,0.33,0.2,0.3,45.45,0.0,0.2,0.4
+19-06-2015,Houston Astros,Seattle Mariners,58.82,0.33,0.6,0.5,44.78,0.33,0.4,0.4
+20-06-2015,Houston Astros,Seattle Mariners,57.97,0.33,0.6,0.6,45.59,0.0,0.2,0.3
+21-06-2015,Houston Astros,Seattle Mariners,57.14,0.0,0.4,0.6,46.38,0.33,0.4,0.4
+22-06-2015,Kansas City Royals,Seattle Mariners,59.09,0.33,0.4,0.5,45.71,0.33,0.4,0.5
+23-06-2015,Kansas City Royals,Seattle Mariners,59.7,0.0,0.2,0.5,45.07,0.0,0.4,0.4
+24-06-2015,Kansas City Royals,Seattle Mariners,58.82,0.33,0.4,0.6,45.83,0.0,0.2,0.4
+06-07-2015,Detroit Tigers,Seattle Mariners,50.62,0.33,0.4,0.4,46.34,0.0,0.2,0.4
+07-07-2015,Detroit Tigers,Seattle Mariners,51.22,0.0,0.4,0.4,45.78,0.33,0.4,0.4
+08-07-2015,Detroit Tigers,Seattle Mariners,50.6,0.33,0.4,0.4,46.43,0.0,0.2,0.4
+09-07-2015,Los Angeles Angels of Anaheim,Seattle Mariners,54.76,0.33,0.6,0.7,45.88,0.33,0.4,0.5
+10-07-2015,Los Angeles Angels of Anaheim,Seattle Mariners,54.12,0.33,0.6,0.7,46.51,0.0,0.2,0.4
+11-07-2015,Los Angeles Angels of Anaheim,Seattle Mariners,54.65,0.0,0.4,0.6,45.98,0.33,0.4,0.4
+12-07-2015,Los Angeles Angels of Anaheim,Seattle Mariners,54.02,0.33,0.4,0.6,46.59,0.0,0.2,0.4
+24-07-2015,Toronto Blue Jays,Seattle Mariners,50.52,0.0,0.4,0.4,45.83,0.0,0.2,0.3
+25-07-2015,Toronto Blue Jays,Seattle Mariners,50.0,0.33,0.4,0.5,46.39,0.33,0.4,0.3
+26-07-2015,Toronto Blue Jays,Seattle Mariners,50.51,0.0,0.2,0.4,45.92,0.33,0.4,0.4
+27-07-2015,Arizona Diamondbacks,Seattle Mariners,47.42,0.33,0.4,0.3,46.46,0.0,0.4,0.4
+28-07-2015,Arizona Diamondbacks,Seattle Mariners,47.96,0.33,0.4,0.4,46.0,0.33,0.4,0.4
+29-07-2015,Arizona Diamondbacks,Seattle Mariners,48.48,0.33,0.6,0.5,45.54,0.0,0.2,0.4
+07-08-2015,Texas Rangers,Seattle Mariners,50.47,0.33,0.6,0.6,45.87,0.33,0.6,0.4
+08-08-2015,Texas Rangers,Seattle Mariners,50.0,0.33,0.6,0.7,46.36,0.0,0.4,0.4
+09-08-2015,Texas Rangers,Seattle Mariners,50.46,0.0,0.4,0.6,45.95,0.33,0.4,0.5
+10-08-2015,Baltimore Orioles,Seattle Mariners,50.91,0.33,0.4,0.5,46.43,0.0,0.2,0.5
+11-08-2015,Baltimore Orioles,Seattle Mariners,51.35,0.0,0.2,0.4,46.02,0.33,0.4,0.5
+12-08-2015,Baltimore Orioles,Seattle Mariners,50.89,0.33,0.4,0.4,46.49,0.0,0.2,0.5
+21-08-2015,Chicago White Sox,Seattle Mariners,47.06,0.0,0.0,0.3,46.28,0.33,0.4,0.4
+22-08-2015,Chicago White Sox,Seattle Mariners,47.5,0.33,0.2,0.3,45.9,0.0,0.2,0.4
+23-08-2015,Chicago White Sox,Seattle Mariners,47.93,0.33,0.4,0.3,45.53,0.0,0.2,0.3
+24-08-2015,Oakland Athletics,Seattle Mariners,43.2,0.0,0.2,0.2,45.97,0.0,0.0,0.2
+25-08-2015,Oakland Athletics,Seattle Mariners,43.65,0.33,0.2,0.3,45.6,0.33,0.2,0.3
+26-08-2015,Oakland Athletics,Seattle Mariners,43.31,0.33,0.4,0.4,46.03,0.0,0.2,0.3
+07-09-2015,Texas Rangers,Seattle Mariners,52.59,0.33,0.4,0.6,48.18,0.33,0.6,0.6
+08-09-2015,Texas Rangers,Seattle Mariners,52.94,0.0,0.2,0.5,47.83,0.33,0.6,0.6
+09-09-2015,Texas Rangers,Seattle Mariners,53.28,0.33,0.4,0.5,47.48,0.0,0.4,0.5
+10-09-2015,Texas Rangers,Seattle Mariners,52.9,0.33,0.4,0.5,47.86,0.0,0.2,0.5
+11-09-2015,Colorado Rockies,Seattle Mariners,41.43,0.0,0.2,0.4,48.23,0.33,0.2,0.6
+12-09-2015,Colorado Rockies,Seattle Mariners,41.84,0.33,0.2,0.4,47.89,0.33,0.4,0.6
+13-09-2015,Colorado Rockies,Seattle Mariners,41.55,0.33,0.4,0.4,48.25,0.0,0.4,0.5
+14-09-2015,Los Angeles Angels of Anaheim,Seattle Mariners,50.7,0.33,0.6,0.5,47.92,0.33,0.4,0.5
+15-09-2015,Los Angeles Angels of Anaheim,Seattle Mariners,50.35,0.0,0.4,0.4,48.28,0.0,0.2,0.4
+16-09-2015,Los Angeles Angels of Anaheim,Seattle Mariners,50.69,0.0,0.2,0.4,47.95,0.33,0.4,0.4
+28-09-2015,Houston Astros,Seattle Mariners,52.56,0.33,0.2,0.4,47.44,0.0,0.0,0.3
+29-09-2015,Houston Astros,Seattle Mariners,52.87,0.33,0.4,0.5,47.13,0.0,0.0,0.2
+30-09-2015,Houston Astros,Seattle Mariners,52.53,0.33,0.6,0.5,47.47,0.0,0.0,0.2
+02-10-2015,Oakland Athletics,Seattle Mariners,41.51,0.0,0.0,0.1,47.17,0.33,0.2,0.2
+03-10-2015,Oakland Athletics,Seattle Mariners,41.88,0.33,0.2,0.2,46.88,0.0,0.2,0.1
+04-10-2015,Oakland Athletics,Seattle Mariners,42.24,0.33,0.4,0.3,46.58,0.0,0.2,0.1
+13-04-2015,Colorado Rockies,San Francisco Giants,66.67,0.0,0.4,nan,42.86,0.0,0.2,nan
+14-04-2015,Colorado Rockies,San Francisco Giants,71.43,0.0,0.2,nan,37.5,0.0,0.0,nan
+15-04-2015,Colorado Rockies,San Francisco Giants,75.0,0.33,0.2,nan,33.33,0.0,0.0,0.3
+16-04-2015,Arizona Diamondbacks,San Francisco Giants,44.44,0.0,0.2,0.4,30.0,0.0,0.0,0.2
+17-04-2015,Arizona Diamondbacks,San Francisco Giants,50.0,0.0,0.2,0.4,27.27,0.0,0.0,0.2
+18-04-2015,Arizona Diamondbacks,San Francisco Giants,54.55,0.33,0.2,0.4,25.0,0.0,0.0,0.1
+19-04-2015,Arizona Diamondbacks,San Francisco Giants,50.0,0.33,0.4,0.5,30.77,0.0,0.0,0.0
+21-04-2015,Los Angeles Dodgers,San Francisco Giants,75.0,0.33,0.6,0.6,28.57,0.33,0.2,0.1
+22-04-2015,Los Angeles Dodgers,San Francisco Giants,69.23,0.33,0.6,0.7,33.33,0.0,0.2,0.1
+23-04-2015,Los Angeles Dodgers,San Francisco Giants,64.29,0.0,0.4,0.7,37.5,0.33,0.4,0.2
+01-05-2015,Los Angeles Angels of Anaheim,San Francisco Giants,50.0,0.33,0.2,0.5,40.91,0.33,0.4,0.5
+02-05-2015,Los Angeles Angels of Anaheim,San Francisco Giants,47.83,0.33,0.4,0.5,43.48,0.0,0.2,0.5
+03-05-2015,Los Angeles Angels of Anaheim,San Francisco Giants,45.83,0.0,0.4,0.5,45.83,0.33,0.4,0.5
+04-05-2015,San Diego Padres,San Francisco Giants,53.85,0.33,0.4,0.3,48.0,0.33,0.4,0.5
+05-05-2015,San Diego Padres,San Francisco Giants,51.85,0.33,0.6,0.4,50.0,0.33,0.6,0.5
+06-05-2015,San Diego Padres,San Francisco Giants,50.0,0.0,0.4,0.4,51.85,0.33,0.6,0.6
+07-05-2015,Miami Marlins,San Francisco Giants,46.43,0.33,0.2,0.5,50.0,0.33,0.6,0.6
+08-05-2015,Miami Marlins,San Francisco Giants,48.28,0.0,0.2,0.5,48.28,0.0,0.4,0.6
+09-05-2015,Miami Marlins,San Francisco Giants,46.67,0.33,0.4,0.5,50.0,0.0,0.2,0.5
+10-05-2015,Miami Marlins,San Francisco Giants,48.39,0.0,0.2,0.4,48.39,0.33,0.2,0.6
+19-05-2015,Los Angeles Dodgers,San Francisco Giants,64.86,0.0,0.2,0.5,52.63,0.33,0.4,0.5
+20-05-2015,Los Angeles Dodgers,San Francisco Giants,63.16,0.33,0.4,0.5,53.85,0.33,0.6,0.5
+21-05-2015,Los Angeles Dodgers,San Francisco Giants,61.54,0.0,0.2,0.4,55.0,0.33,0.6,0.6
+28-05-2015,Atlanta Braves,San Francisco Giants,50.0,0.0,0.2,0.4,58.33,0.33,0.4,0.6
+29-05-2015,Atlanta Braves,San Francisco Giants,48.94,0.33,0.2,0.5,59.18,0.33,0.6,0.6
+30-05-2015,Atlanta Braves,San Francisco Giants,47.92,0.0,0.2,0.4,60.0,0.33,0.6,0.6
+31-05-2015,Atlanta Braves,San Francisco Giants,48.98,0.0,0.2,0.3,58.82,0.33,0.6,0.6
+01-06-2015,Pittsburgh Pirates,San Francisco Giants,52.0,0.33,0.4,0.7,57.69,0.0,0.4,0.5
+02-06-2015,Pittsburgh Pirates,San Francisco Giants,52.94,0.0,0.2,0.6,56.6,0.0,0.2,0.5
+03-06-2015,Pittsburgh Pirates,San Francisco Giants,53.85,0.33,0.4,0.6,55.56,0.0,0.0,0.5
+12-06-2015,Arizona Diamondbacks,San Francisco Giants,45.76,0.0,0.0,0.4,55.74,0.33,0.4,0.4
+13-06-2015,Arizona Diamondbacks,San Francisco Giants,46.67,0.0,0.0,0.3,54.84,0.0,0.4,0.4
+14-06-2015,Arizona Diamondbacks,San Francisco Giants,47.54,0.33,0.2,0.3,53.97,0.0,0.2,0.4
+15-06-2015,Seattle Mariners,San Francisco Giants,44.44,0.33,0.2,0.4,53.12,0.0,0.0,0.4
+16-06-2015,Seattle Mariners,San Francisco Giants,45.31,0.0,0.2,0.4,52.31,0.0,0.0,0.3
+23-06-2015,San Diego Padres,San Francisco Giants,47.22,0.33,0.4,0.3,53.52,0.33,0.6,0.4
+24-06-2015,San Diego Padres,San Francisco Giants,47.95,0.0,0.2,0.2,52.78,0.0,0.4,0.4
+25-06-2015,San Diego Padres,San Francisco Giants,47.3,0.33,0.4,0.3,53.42,0.0,0.2,0.4
+26-06-2015,Colorado Rockies,San Francisco Giants,44.44,0.0,0.4,0.3,54.05,0.33,0.2,0.5
+27-06-2015,Colorado Rockies,San Francisco Giants,45.21,0.33,0.4,0.4,53.33,0.33,0.4,0.5
+28-06-2015,Colorado Rockies,San Francisco Giants,44.59,0.33,0.4,0.5,53.95,0.0,0.4,0.5
+06-07-2015,New York Mets,San Francisco Giants,50.6,0.0,0.2,0.4,50.6,0.0,0.0,0.2
+07-07-2015,New York Mets,San Francisco Giants,51.19,0.33,0.4,0.4,50.0,0.0,0.0,0.2
+08-07-2015,New York Mets,San Francisco Giants,50.59,0.33,0.4,0.4,50.59,0.0,0.0,0.1
+10-07-2015,Philadelphia Phillies,San Francisco Giants,32.95,0.0,0.2,0.2,50.0,0.33,0.2,0.1
+11-07-2015,Philadelphia Phillies,San Francisco Giants,32.58,0.0,0.2,0.2,50.57,0.0,0.2,0.1
+12-07-2015,Philadelphia Phillies,San Francisco Giants,32.22,0.0,0.0,0.2,51.14,0.33,0.4,0.2
+24-07-2015,Oakland Athletics,San Francisco Giants,45.36,0.33,0.4,0.5,53.68,0.33,0.4,0.7
+25-07-2015,Oakland Athletics,San Francisco Giants,44.9,0.0,0.2,0.5,54.17,0.33,0.4,0.7
+26-07-2015,Oakland Athletics,San Francisco Giants,44.44,0.0,0.2,0.4,54.64,0.33,0.6,0.7
+27-07-2015,Milwaukee Brewers,San Francisco Giants,43.43,0.0,0.2,0.5,55.1,0.33,0.6,0.7
+28-07-2015,Milwaukee Brewers,San Francisco Giants,43.0,0.0,0.2,0.4,55.56,0.33,0.6,0.7
+29-07-2015,Milwaukee Brewers,San Francisco Giants,43.56,0.0,0.0,0.3,55.0,0.33,0.6,0.7
+11-08-2015,Houston Astros,San Francisco Giants,53.98,0.0,0.2,0.3,53.15,0.0,0.0,0.3
+12-08-2015,Houston Astros,San Francisco Giants,53.51,0.0,0.0,0.2,53.57,0.0,0.0,0.2
+13-08-2015,Washington Nationals,San Francisco Giants,51.33,0.0,0.2,0.4,53.1,0.33,0.2,0.3
+14-08-2015,Washington Nationals,San Francisco Giants,50.88,0.0,0.2,0.3,53.51,0.0,0.2,0.3
+15-08-2015,Washington Nationals,San Francisco Giants,50.43,0.0,0.0,0.3,53.91,0.33,0.4,0.3
+16-08-2015,Washington Nationals,San Francisco Giants,50.0,0.0,0.0,0.2,54.31,0.33,0.4,0.3
+25-08-2015,Chicago Cubs,San Francisco Giants,58.54,0.33,0.6,0.5,53.23,0.0,0.2,0.4
+26-08-2015,Chicago Cubs,San Francisco Giants,58.87,0.33,0.6,0.5,52.8,0.0,0.2,0.3
+27-08-2015,Chicago Cubs,San Francisco Giants,58.4,0.33,0.6,0.6,53.17,0.0,0.0,0.2
+28-08-2015,St. Louis Cardinals,San Francisco Giants,64.57,0.33,0.6,0.5,53.54,0.33,0.2,0.3
+29-08-2015,St. Louis Cardinals,San Francisco Giants,64.06,0.33,0.6,0.6,53.91,0.33,0.4,0.3
+30-08-2015,St. Louis Cardinals,San Francisco Giants,64.34,0.0,0.4,0.5,53.49,0.33,0.6,0.4
+11-09-2015,San Diego Padres,San Francisco Giants,47.52,0.33,0.4,0.3,51.43,0.33,0.4,0.3
+12-09-2015,San Diego Padres,San Francisco Giants,47.18,0.0,0.4,0.3,51.77,0.0,0.2,0.3
+13-09-2015,San Diego Padres,San Francisco Giants,46.85,0.0,0.2,0.2,52.11,0.33,0.4,0.4
+14-09-2015,Cincinnati Reds,San Francisco Giants,42.25,0.33,0.6,0.5,52.45,0.33,0.4,0.5
+15-09-2015,Cincinnati Reds,San Francisco Giants,41.96,0.0,0.4,0.5,52.78,0.33,0.6,0.6
+16-09-2015,Cincinnati Reds,San Francisco Giants,42.36,0.0,0.2,0.4,52.41,0.33,0.6,0.6
+18-09-2015,Arizona Diamondbacks,San Francisco Giants,47.26,0.33,0.2,0.4,52.74,0.0,0.4,0.5
+19-09-2015,Arizona Diamondbacks,San Francisco Giants,47.62,0.0,0.2,0.3,52.38,0.33,0.4,0.6
+20-09-2015,Arizona Diamondbacks,San Francisco Giants,47.97,0.33,0.4,0.4,52.03,0.0,0.2,0.5
+28-09-2015,Los Angeles Dodgers,San Francisco Giants,56.13,0.0,0.2,0.2,52.26,0.33,0.2,0.3
+29-09-2015,Los Angeles Dodgers,San Francisco Giants,55.77,0.0,0.0,0.2,52.56,0.33,0.4,0.4
+30-09-2015,Los Angeles Dodgers,San Francisco Giants,56.05,0.0,0.0,0.2,52.23,0.33,0.6,0.5
+01-10-2015,Los Angeles Dodgers,San Francisco Giants,55.7,0.33,0.2,0.3,52.53,0.0,0.4,0.4
+02-10-2015,Colorado Rockies,San Francisco Giants,41.51,0.0,0.2,0.3,52.2,0.33,0.4,0.4
+03-10-2015,Colorado Rockies,San Francisco Giants,41.88,0.0,0.0,0.3,51.88,0.0,0.2,0.4
+04-10-2015,Colorado Rockies,San Francisco Giants,41.61,0.33,0.2,0.4,52.17,0.0,0.2,0.4
+13-04-2015,Milwaukee Brewers,St. Louis Cardinals,16.67,0.33,0.2,nan,60.0,0.33,0.2,nan
+15-04-2015,Milwaukee Brewers,St. Louis Cardinals,28.57,0.0,0.2,nan,50.0,0.33,0.4,nan
+16-04-2015,Milwaukee Brewers,St. Louis Cardinals,25.0,0.33,0.4,nan,57.14,0.0,0.4,nan
+17-04-2015,Cincinnati Reds,St. Louis Cardinals,55.56,0.33,0.2,0.5,62.5,0.33,0.4,nan
+18-04-2015,Cincinnati Reds,St. Louis Cardinals,50.0,0.0,0.2,0.4,66.67,0.33,0.4,0.5
+19-04-2015,Cincinnati Reds,St. Louis Cardinals,45.45,0.0,0.2,0.3,70.0,0.33,0.6,0.5
+27-04-2015,Philadelphia Phillies,St. Louis Cardinals,36.84,0.0,0.2,0.3,70.59,0.33,0.6,0.7
+28-04-2015,Philadelphia Phillies,St. Louis Cardinals,40.0,0.33,0.4,0.4,66.67,0.0,0.4,0.6
+29-04-2015,Philadelphia Phillies,St. Louis Cardinals,38.1,0.33,0.4,0.4,68.42,0.0,0.2,0.5
+30-04-2015,Philadelphia Phillies,St. Louis Cardinals,36.36,0.0,0.4,0.4,70.0,0.33,0.2,0.5
+01-05-2015,Pittsburgh Pirates,St. Louis Cardinals,54.55,0.0,0.2,0.5,71.43,0.33,0.4,0.6
+02-05-2015,Pittsburgh Pirates,St. Louis Cardinals,52.17,0.33,0.2,0.6,72.73,0.33,0.6,0.6
+03-05-2015,Pittsburgh Pirates,St. Louis Cardinals,50.0,0.0,0.2,0.5,73.91,0.33,0.6,0.6
+04-05-2015,Chicago Cubs,St. Louis Cardinals,56.52,0.0,0.2,0.5,75.0,0.33,0.6,0.6
+05-05-2015,Chicago Cubs,St. Louis Cardinals,54.17,0.0,0.2,0.5,76.0,0.33,0.6,0.6
+06-05-2015,Chicago Cubs,St. Louis Cardinals,52.0,0.0,0.0,0.4,76.92,0.33,0.6,0.7
+07-05-2015,Chicago Cubs,St. Louis Cardinals,53.85,0.0,0.0,0.3,74.07,0.33,0.6,0.8
+15-05-2015,Detroit Tigers,St. Louis Cardinals,60.0,0.0,0.2,0.3,70.59,0.0,0.2,0.4
+16-05-2015,Detroit Tigers,St. Louis Cardinals,61.11,0.33,0.4,0.4,68.57,0.33,0.4,0.4
+17-05-2015,Detroit Tigers,St. Louis Cardinals,62.16,0.33,0.4,0.5,66.67,0.0,0.2,0.4
+25-05-2015,Arizona Diamondbacks,St. Louis Cardinals,48.84,0.0,0.4,0.5,63.64,0.0,0.0,0.3
+26-05-2015,Arizona Diamondbacks,St. Louis Cardinals,47.73,0.33,0.4,0.6,64.44,0.33,0.2,0.4
+27-05-2015,Arizona Diamondbacks,St. Louis Cardinals,46.67,0.0,0.2,0.6,65.22,0.33,0.4,0.4
+29-05-2015,Los Angeles Dodgers,St. Louis Cardinals,60.87,0.33,0.4,0.4,65.96,0.33,0.6,0.5
+30-05-2015,Los Angeles Dodgers,St. Louis Cardinals,59.57,0.0,0.4,0.4,66.67,0.33,0.6,0.5
+31-05-2015,Los Angeles Dodgers,St. Louis Cardinals,60.42,0.0,0.2,0.4,65.31,0.33,0.6,0.5
+01-06-2015,Milwaukee Brewers,St. Louis Cardinals,33.33,0.0,0.0,0.1,66.0,0.0,0.4,0.5
+02-06-2015,Milwaukee Brewers,St. Louis Cardinals,34.62,0.33,0.2,0.1,64.71,0.33,0.4,0.6
+03-06-2015,Milwaukee Brewers,St. Louis Cardinals,33.96,0.33,0.4,0.2,65.38,0.0,0.2,0.6
+12-06-2015,Kansas City Royals,St. Louis Cardinals,59.65,0.33,0.6,0.4,65.0,0.0,0.2,0.5
+13-06-2015,Kansas City Royals,St. Louis Cardinals,58.62,0.33,0.6,0.5,65.57,0.33,0.2,0.5
+15-06-2015,Minnesota Twins,St. Louis Cardinals,54.84,0.0,0.0,0.1,66.13,0.33,0.4,0.5
+16-06-2015,Minnesota Twins,St. Louis Cardinals,53.97,0.33,0.2,0.2,66.67,0.33,0.6,0.5
+26-06-2015,Chicago Cubs,St. Louis Cardinals,54.93,0.0,0.4,0.5,66.67,0.33,0.4,0.5
+27-06-2015,Chicago Cubs,St. Louis Cardinals,54.17,0.0,0.2,0.4,67.12,0.33,0.6,0.5
+28-06-2015,Chicago Cubs,St. Louis Cardinals,53.42,0.0,0.0,0.4,67.57,0.33,0.6,0.6
+30-06-2015,Chicago White Sox,St. Louis Cardinals,43.24,0.0,0.2,0.4,68.0,0.33,0.6,0.7
+01-07-2015,Chicago White Sox,St. Louis Cardinals,44.0,0.0,0.2,0.4,67.11,0.33,0.6,0.7
+02-07-2015,San Diego Padres,St. Louis Cardinals,46.25,0.0,0.2,0.3,66.23,0.0,0.4,0.6
+03-07-2015,San Diego Padres,St. Louis Cardinals,46.91,0.0,0.0,0.3,65.38,0.0,0.2,0.6
+04-07-2015,San Diego Padres,St. Louis Cardinals,47.56,0.33,0.2,0.3,64.56,0.0,0.0,0.5
+05-07-2015,San Diego Padres,St. Louis Cardinals,46.99,0.33,0.4,0.4,65.0,0.0,0.0,0.4
+17-07-2015,New York Mets,St. Louis Cardinals,52.81,0.33,0.6,0.6,62.92,0.0,0.2,0.4
+18-07-2015,New York Mets,St. Louis Cardinals,52.22,0.33,0.6,0.6,63.33,0.0,0.0,0.3
+19-07-2015,New York Mets,St. Louis Cardinals,51.65,0.0,0.4,0.6,63.74,0.33,0.2,0.3
+23-07-2015,Kansas City Royals,St. Louis Cardinals,61.29,0.33,0.4,0.5,63.83,0.33,0.4,0.4
+24-07-2015,Atlanta Braves,St. Louis Cardinals,47.37,0.33,0.4,0.3,64.21,0.33,0.4,0.4
+25-07-2015,Atlanta Braves,St. Louis Cardinals,46.88,0.0,0.4,0.3,64.58,0.33,0.6,0.5
+26-07-2015,Atlanta Braves,St. Louis Cardinals,46.39,0.0,0.2,0.3,64.95,0.33,0.6,0.6
+27-07-2015,Cincinnati Reds,St. Louis Cardinals,44.79,0.33,0.2,0.3,64.29,0.33,0.6,0.7
+28-07-2015,Cincinnati Reds,St. Louis Cardinals,44.33,0.0,0.2,0.3,64.65,0.0,0.4,0.6
+29-07-2015,Cincinnati Reds,St. Louis Cardinals,44.9,0.0,0.2,0.3,64.0,0.33,0.4,0.6
+30-07-2015,Colorado Rockies,St. Louis Cardinals,43.43,0.33,0.4,0.4,63.37,0.0,0.2,0.6
+31-07-2015,Colorado Rockies,St. Louis Cardinals,43.0,0.0,0.2,0.3,63.73,0.0,0.2,0.5
+01-08-2015,Colorado Rockies,St. Louis Cardinals,42.57,0.0,0.2,0.3,64.08,0.33,0.2,0.5
+02-08-2015,Colorado Rockies,St. Louis Cardinals,43.14,0.0,0.0,0.3,63.46,0.33,0.4,0.5
+11-08-2015,Pittsburgh Pirates,St. Louis Cardinals,59.63,0.33,0.6,0.5,63.96,0.33,0.6,0.6
+12-08-2015,Pittsburgh Pirates,St. Louis Cardinals,59.09,0.33,0.6,0.6,64.29,0.0,0.4,0.5
+13-08-2015,Pittsburgh Pirates,St. Louis Cardinals,58.56,0.0,0.4,0.5,64.6,0.33,0.4,0.6
+14-08-2015,Miami Marlins,St. Louis Cardinals,40.35,0.33,0.4,0.2,64.04,0.33,0.4,0.6
+15-08-2015,Miami Marlins,St. Louis Cardinals,40.0,0.33,0.6,0.3,64.35,0.0,0.4,0.6
+16-08-2015,Miami Marlins,St. Louis Cardinals,39.66,0.0,0.4,0.3,64.66,0.33,0.4,0.6
+17-08-2015,San Francisco Giants,St. Louis Cardinals,54.7,0.33,0.6,0.4,64.1,0.33,0.4,0.6
+18-08-2015,San Francisco Giants,St. Louis Cardinals,54.24,0.33,0.6,0.5,64.41,0.0,0.4,0.5
+19-08-2015,San Francisco Giants,St. Louis Cardinals,54.62,0.0,0.4,0.5,63.87,0.33,0.4,0.5
+31-08-2015,Washington Nationals,St. Louis Cardinals,51.16,0.33,0.4,0.5,64.62,0.33,0.4,0.6
+01-09-2015,Washington Nationals,St. Louis Cardinals,50.77,0.33,0.4,0.6,64.89,0.33,0.4,0.7
+02-09-2015,Washington Nationals,St. Louis Cardinals,50.38,0.0,0.4,0.5,65.15,0.33,0.6,0.7
+04-09-2015,Pittsburgh Pirates,St. Louis Cardinals,59.85,0.0,0.0,0.4,64.66,0.33,0.6,0.7
+05-09-2015,Pittsburgh Pirates,St. Louis Cardinals,60.15,0.0,0.0,0.4,64.18,0.0,0.4,0.6
+06-09-2015,Pittsburgh Pirates,St. Louis Cardinals,59.7,0.33,0.2,0.4,64.44,0.0,0.2,0.5
+07-09-2015,Chicago Cubs,St. Louis Cardinals,57.78,0.33,0.4,0.4,63.97,0.33,0.2,0.5
+08-09-2015,Chicago Cubs,St. Louis Cardinals,58.09,0.33,0.6,0.5,63.5,0.0,0.2,0.5
+09-09-2015,Chicago Cubs,St. Louis Cardinals,58.39,0.33,0.6,0.6,63.04,0.0,0.2,0.4
+21-09-2015,Cincinnati Reds,St. Louis Cardinals,42.57,0.33,0.4,0.5,62.42,0.0,0.2,0.4
+22-09-2015,Cincinnati Reds,St. Louis Cardinals,42.28,0.0,0.4,0.4,62.67,0.33,0.2,0.5
+23-09-2015,Cincinnati Reds,St. Louis Cardinals,42.0,0.0,0.2,0.3,62.91,0.33,0.4,0.6
+24-09-2015,Milwaukee Brewers,St. Louis Cardinals,42.11,0.0,0.2,0.1,63.16,0.33,0.6,0.6
+25-09-2015,Milwaukee Brewers,St. Louis Cardinals,41.83,0.33,0.2,0.2,63.4,0.33,0.6,0.6
+26-09-2015,Milwaukee Brewers,St. Louis Cardinals,42.21,0.0,0.2,0.2,62.99,0.33,0.6,0.6
+27-09-2015,Milwaukee Brewers,St. Louis Cardinals,41.94,0.33,0.4,0.3,63.23,0.0,0.4,0.5
+06-04-2015,Baltimore Orioles,Tampa Bay Rays,0,0.33,0.6,0.4,0,0.33,0.4,0.4
+07-04-2015,Baltimore Orioles,Tampa Bay Rays,100.0,nan,nan,nan,0.0,nan,nan,nan
+08-04-2015,Baltimore Orioles,Tampa Bay Rays,100.0,0.33,nan,nan,0.0,0.0,nan,nan
+17-04-2015,New York Yankees,Tampa Bay Rays,33.33,0.0,0.4,0.3,60.0,0.0,0.4,0.5
+18-04-2015,New York Yankees,Tampa Bay Rays,40.0,0.0,0.2,0.3,54.55,0.33,0.4,0.6
+19-04-2015,New York Yankees,Tampa Bay Rays,45.45,0.33,0.2,0.3,50.0,0.0,0.2,0.5
+21-04-2015,Boston Red Sox,Tampa Bay Rays,61.54,0.0,0.2,0.4,46.15,0.0,0.2,0.5
+22-04-2015,Boston Red Sox,Tampa Bay Rays,64.29,0.33,0.2,0.4,42.86,0.0,0.0,0.4
+23-04-2015,Boston Red Sox,Tampa Bay Rays,60.0,0.33,0.4,0.5,46.67,0.0,0.0,0.3
+24-04-2015,Toronto Blue Jays,Tampa Bay Rays,56.25,0.33,0.4,0.4,50.0,0.33,0.2,0.3
+25-04-2015,Toronto Blue Jays,Tampa Bay Rays,52.94,0.33,0.6,0.5,52.94,0.33,0.4,0.3
+26-04-2015,Toronto Blue Jays,Tampa Bay Rays,50.0,0.0,0.4,0.4,55.56,0.33,0.6,0.4
+01-05-2015,Baltimore Orioles,Tampa Bay Rays,50.0,0.33,0.4,0.3,54.55,0.0,0.2,0.5
+02-05-2015,Baltimore Orioles,Tampa Bay Rays,47.62,0.33,0.6,0.3,56.52,0.33,0.2,0.6
+03-05-2015,Baltimore Orioles,Tampa Bay Rays,50.0,0.0,0.4,0.3,54.17,0.33,0.4,0.6
+07-05-2015,Texas Rangers,Tampa Bay Rays,40.74,0.33,0.4,0.3,53.57,0.0,0.2,0.3
+08-05-2015,Texas Rangers,Tampa Bay Rays,42.86,0.33,0.6,0.4,51.72,0.33,0.4,0.4
+09-05-2015,Texas Rangers,Tampa Bay Rays,41.38,0.33,0.6,0.5,53.33,0.0,0.2,0.4
+10-05-2015,Texas Rangers,Tampa Bay Rays,40.0,0.0,0.4,0.5,54.84,0.33,0.4,0.4
+11-05-2015,New York Yankees,Tampa Bay Rays,62.5,0.0,0.4,0.5,53.12,0.33,0.4,0.4
+12-05-2015,New York Yankees,Tampa Bay Rays,63.64,0.33,0.4,0.5,51.52,0.0,0.4,0.4
+13-05-2015,New York Yankees,Tampa Bay Rays,61.76,0.33,0.4,0.5,52.94,0.0,0.2,0.4
+14-05-2015,New York Yankees,Tampa Bay Rays,60.0,0.0,0.4,0.5,54.29,0.33,0.2,0.4
+21-05-2015,Oakland Athletics,Tampa Bay Rays,33.33,0.0,0.2,0.2,53.66,0.33,0.4,0.5
+22-05-2015,Oakland Athletics,Tampa Bay Rays,32.56,0.0,0.2,0.2,54.76,0.0,0.4,0.5
+23-05-2015,Oakland Athletics,Tampa Bay Rays,31.82,0.0,0.0,0.1,55.81,0.33,0.4,0.5
+24-05-2015,Oakland Athletics,Tampa Bay Rays,33.33,0.0,0.0,0.1,54.55,0.33,0.4,0.5
+25-05-2015,Seattle Mariners,Tampa Bay Rays,46.51,0.33,0.4,0.5,53.33,0.0,0.4,0.4
+26-05-2015,Seattle Mariners,Tampa Bay Rays,47.73,0.0,0.4,0.4,52.17,0.0,0.2,0.4
+27-05-2015,Seattle Mariners,Tampa Bay Rays,48.89,0.33,0.4,0.5,51.06,0.0,0.0,0.4
+09-06-2015,Los Angeles Angels of Anaheim,Tampa Bay Rays,49.12,0.0,0.0,0.4,53.45,0.0,0.4,0.6
+10-06-2015,Los Angeles Angels of Anaheim,Tampa Bay Rays,50.0,0.0,0.0,0.3,52.54,0.33,0.4,0.6
+11-06-2015,Los Angeles Angels of Anaheim,Tampa Bay Rays,49.15,0.33,0.2,0.3,53.33,0.0,0.2,0.5
+12-06-2015,Chicago White Sox,Tampa Bay Rays,48.28,0.33,0.4,0.4,52.46,0.33,0.4,0.6
+13-06-2015,Chicago White Sox,Tampa Bay Rays,47.46,0.33,0.6,0.5,53.23,0.0,0.2,0.5
+14-06-2015,Chicago White Sox,Tampa Bay Rays,46.67,0.0,0.4,0.4,53.97,0.33,0.4,0.5
+15-06-2015,Washington Nationals,Tampa Bay Rays,52.38,0.33,0.2,0.3,54.69,0.33,0.4,0.5
+16-06-2015,Washington Nationals,Tampa Bay Rays,51.56,0.33,0.4,0.3,55.38,0.33,0.6,0.5
+22-06-2015,Toronto Blue Jays,Tampa Bay Rays,52.11,0.0,0.4,0.5,56.34,0.33,0.6,0.7
+23-06-2015,Toronto Blue Jays,Tampa Bay Rays,52.78,0.0,0.2,0.4,55.56,0.0,0.4,0.6
+24-06-2015,Toronto Blue Jays,Tampa Bay Rays,52.05,0.33,0.2,0.4,56.16,0.0,0.2,0.5
+26-06-2015,Boston Red Sox,Tampa Bay Rays,43.24,0.33,0.4,0.5,55.41,0.33,0.2,0.5
+27-06-2015,Boston Red Sox,Tampa Bay Rays,44.0,0.0,0.2,0.4,54.67,0.0,0.2,0.5
+28-06-2015,Boston Red Sox,Tampa Bay Rays,43.42,0.33,0.4,0.5,55.26,0.0,0.2,0.4
+29-06-2015,Cleveland Indians,Tampa Bay Rays,44.59,0.0,0.2,0.2,54.55,0.33,0.2,0.4
+30-06-2015,Cleveland Indians,Tampa Bay Rays,45.33,0.0,0.0,0.2,53.85,0.0,0.2,0.3
+01-07-2015,Cleveland Indians,Tampa Bay Rays,46.05,0.33,0.2,0.3,53.16,0.0,0.2,0.2
+02-07-2015,Cleveland Indians,Tampa Bay Rays,46.75,0.33,0.4,0.3,52.5,0.0,0.0,0.2
+10-07-2015,Houston Astros,Tampa Bay Rays,55.68,0.0,0.2,0.4,48.86,0.0,0.0,0.1
+11-07-2015,Houston Astros,Tampa Bay Rays,55.06,0.0,0.0,0.3,49.44,0.0,0.0,0.1
+12-07-2015,Houston Astros,Tampa Bay Rays,54.44,0.0,0.0,0.2,50.0,0.33,0.2,0.2
+24-07-2015,Baltimore Orioles,Tampa Bay Rays,48.94,0.0,0.2,0.3,49.48,0.33,0.2,0.5
+25-07-2015,Baltimore Orioles,Tampa Bay Rays,48.42,0.0,0.0,0.2,50.0,0.0,0.2,0.4
+26-07-2015,Baltimore Orioles,Tampa Bay Rays,48.96,0.0,0.0,0.2,49.49,0.33,0.4,0.4
+27-07-2015,Detroit Tigers,Tampa Bay Rays,48.98,0.33,0.2,0.3,49.0,0.0,0.2,0.3
+28-07-2015,Detroit Tigers,Tampa Bay Rays,48.48,0.0,0.2,0.3,49.5,0.0,0.2,0.3
+29-07-2015,Detroit Tigers,Tampa Bay Rays,48.0,0.0,0.2,0.3,50.0,0.33,0.2,0.3
+07-08-2015,New York Mets,Tampa Bay Rays,53.7,0.33,0.6,0.6,49.54,0.33,0.6,0.5
+08-08-2015,New York Mets,Tampa Bay Rays,54.13,0.33,0.6,0.6,49.09,0.0,0.4,0.4
+09-08-2015,New York Mets,Tampa Bay Rays,53.64,0.33,0.6,0.7,49.55,0.0,0.2,0.3
+11-08-2015,Atlanta Braves,Tampa Bay Rays,45.54,0.33,0.6,0.5,50.0,0.33,0.2,0.4
+12-08-2015,Atlanta Braves,Tampa Bay Rays,45.13,0.0,0.4,0.5,50.44,0.33,0.4,0.5
+25-08-2015,Minnesota Twins,Tampa Bay Rays,50.81,0.33,0.6,0.5,50.0,0.33,0.6,0.4
+26-08-2015,Minnesota Twins,Tampa Bay Rays,51.2,0.33,0.6,0.5,49.6,0.0,0.4,0.4
+27-08-2015,Minnesota Twins,Tampa Bay Rays,51.59,0.33,0.6,0.5,49.21,0.0,0.2,0.4
+28-08-2015,Kansas City Royals,Tampa Bay Rays,61.42,0.0,0.4,0.5,49.61,0.0,0.0,0.3
+29-08-2015,Kansas City Royals,Tampa Bay Rays,61.72,0.33,0.4,0.5,49.22,0.33,0.2,0.4
+30-08-2015,Kansas City Royals,Tampa Bay Rays,62.02,0.33,0.4,0.6,48.84,0.0,0.2,0.4
+11-09-2015,Boston Red Sox,Tampa Bay Rays,47.48,0.0,0.4,0.5,48.92,0.0,0.0,0.3
+12-09-2015,Boston Red Sox,Tampa Bay Rays,47.14,0.33,0.4,0.5,49.29,0.33,0.2,0.3
+13-09-2015,Boston Red Sox,Tampa Bay Rays,47.52,0.0,0.2,0.5,48.94,0.33,0.4,0.3
+14-09-2015,New York Yankees,Tampa Bay Rays,54.93,0.0,0.0,0.2,48.59,0.0,0.4,0.3
+15-09-2015,New York Yankees,Tampa Bay Rays,55.24,0.33,0.2,0.3,48.25,0.0,0.2,0.3
+16-09-2015,New York Yankees,Tampa Bay Rays,54.86,0.33,0.4,0.3,48.61,0.0,0.0,0.2
+17-09-2015,Baltimore Orioles,Tampa Bay Rays,48.97,0.33,0.6,0.6,48.28,0.33,0.2,0.3
+18-09-2015,Baltimore Orioles,Tampa Bay Rays,49.32,0.0,0.4,0.6,47.95,0.0,0.2,0.3
+19-09-2015,Baltimore Orioles,Tampa Bay Rays,48.98,0.33,0.4,0.6,48.3,0.0,0.2,0.3
+20-09-2015,Baltimore Orioles,Tampa Bay Rays,49.32,0.0,0.2,0.5,47.97,0.33,0.2,0.3
+29-09-2015,Miami Marlins,Tampa Bay Rays,44.23,0.33,0.6,0.4,48.08,0.0,0.2,0.4
+30-09-2015,Miami Marlins,Tampa Bay Rays,43.95,0.33,0.6,0.5,48.41,0.0,0.0,0.4
+01-10-2015,Miami Marlins,Tampa Bay Rays,43.67,0.0,0.4,0.5,48.73,0.33,0.2,0.4
+02-10-2015,Toronto Blue Jays,Tampa Bay Rays,57.86,0.0,0.4,0.6,49.06,0.33,0.4,0.5
+03-10-2015,Toronto Blue Jays,Tampa Bay Rays,58.13,0.0,0.2,0.6,48.75,0.33,0.6,0.5
+04-10-2015,Toronto Blue Jays,Tampa Bay Rays,57.76,0.33,0.2,0.6,49.07,0.0,0.4,0.4
+10-04-2015,Houston Astros,Texas Rangers,33.33,0.0,nan,nan,50.0,0.0,0.2,nan
+11-04-2015,Houston Astros,Texas Rangers,50.0,0.0,0.2,nan,40.0,0.33,0.4,nan
+12-04-2015,Houston Astros,Texas Rangers,40.0,0.33,0.2,nan,50.0,0.0,0.2,nan
+13-04-2015,Los Angeles Angels of Anaheim,Texas Rangers,33.33,0.0,0.2,nan,42.86,0.33,0.4,nan
+14-04-2015,Los Angeles Angels of Anaheim,Texas Rangers,42.86,0.0,0.0,nan,37.5,0.0,0.2,nan
+15-04-2015,Los Angeles Angels of Anaheim,Texas Rangers,37.5,0.33,0.2,nan,44.44,0.0,0.2,0.3
+27-04-2015,Seattle Mariners,Texas Rangers,38.89,0.0,0.4,0.4,38.89,0.0,0.0,0.2
+28-04-2015,Seattle Mariners,Texas Rangers,42.11,0.0,0.2,0.4,36.84,0.33,0.2,0.3
+29-04-2015,Seattle Mariners,Texas Rangers,45.0,0.33,0.2,0.4,35.0,0.0,0.2,0.2
+01-05-2015,Oakland Athletics,Texas Rangers,39.13,0.0,0.2,0.2,33.33,0.0,0.2,0.2
+02-05-2015,Oakland Athletics,Texas Rangers,41.67,0.0,0.2,0.2,31.82,0.0,0.0,0.2
+03-05-2015,Oakland Athletics,Texas Rangers,40.0,0.33,0.2,0.2,34.78,0.0,0.0,0.1
+11-05-2015,Kansas City Royals,Texas Rangers,64.52,0.33,0.4,0.4,41.94,0.0,0.2,0.5
+12-05-2015,Kansas City Royals,Texas Rangers,62.5,0.33,0.4,0.4,43.75,0.33,0.2,0.5
+13-05-2015,Kansas City Royals,Texas Rangers,63.64,0.0,0.4,0.4,42.42,0.33,0.4,0.6
+14-05-2015,Kansas City Royals,Texas Rangers,61.76,0.33,0.4,0.5,44.12,0.0,0.4,0.5
+15-05-2015,Cleveland Indians,Texas Rangers,36.36,0.33,0.4,0.3,42.86,0.33,0.4,0.5
+16-05-2015,Cleveland Indians,Texas Rangers,38.24,0.0,0.2,0.3,41.67,0.0,0.2,0.4
+17-05-2015,Cleveland Indians,Texas Rangers,40.0,0.33,0.4,0.3,40.54,0.0,0.2,0.3
+28-05-2015,Boston Red Sox,Texas Rangers,44.68,0.0,0.2,0.3,48.94,0.33,0.6,0.7
+29-05-2015,Boston Red Sox,Texas Rangers,45.83,0.0,0.0,0.2,47.92,0.0,0.4,0.7
+30-05-2015,Boston Red Sox,Texas Rangers,44.9,0.33,0.2,0.3,48.98,0.0,0.2,0.6
+31-05-2015,Boston Red Sox,Texas Rangers,44.0,0.0,0.2,0.3,50.0,0.33,0.2,0.6
+02-06-2015,Chicago White Sox,Texas Rangers,46.94,0.0,0.2,0.3,50.98,0.33,0.4,0.6
+03-06-2015,Chicago White Sox,Texas Rangers,46.0,0.33,0.4,0.4,51.92,0.33,0.6,0.6
+04-06-2015,Chicago White Sox,Texas Rangers,47.06,0.0,0.2,0.4,50.94,0.33,0.6,0.6
+12-06-2015,Minnesota Twins,Texas Rangers,55.93,0.0,0.2,0.3,51.67,0.0,0.2,0.5
+13-06-2015,Minnesota Twins,Texas Rangers,55.0,0.0,0.0,0.3,52.46,0.0,0.2,0.4
+14-06-2015,Minnesota Twins,Texas Rangers,54.1,0.0,0.0,0.2,53.23,0.33,0.2,0.5
+15-06-2015,Los Angeles Dodgers,Texas Rangers,58.73,0.0,0.4,0.5,52.38,0.33,0.4,0.5
+16-06-2015,Los Angeles Dodgers,Texas Rangers,57.81,0.33,0.4,0.6,53.12,0.0,0.4,0.4
+23-06-2015,Oakland Athletics,Texas Rangers,43.06,0.33,0.2,0.5,52.86,0.0,0.2,0.5
+24-06-2015,Oakland Athletics,Texas Rangers,43.84,0.33,0.4,0.6,52.11,0.0,0.2,0.4
+25-06-2015,Oakland Athletics,Texas Rangers,44.59,0.33,0.6,0.6,51.39,0.0,0.0,0.4
+03-07-2015,Los Angeles Angels of Anaheim,Texas Rangers,51.9,0.33,0.6,0.6,51.25,0.0,0.4,0.3
+04-07-2015,Los Angeles Angels of Anaheim,Texas Rangers,52.5,0.0,0.4,0.5,50.62,0.33,0.4,0.4
+05-07-2015,Los Angeles Angels of Anaheim,Texas Rangers,53.09,0.33,0.4,0.6,50.0,0.0,0.2,0.4
+07-07-2015,Arizona Diamondbacks,Texas Rangers,48.78,0.33,0.6,0.5,49.4,0.0,0.2,0.4
+08-07-2015,Arizona Diamondbacks,Texas Rangers,49.4,0.0,0.4,0.5,48.81,0.0,0.0,0.3
+10-07-2015,San Diego Padres,Texas Rangers,44.83,0.0,0.0,0.2,48.24,0.0,0.0,0.3
+11-07-2015,San Diego Padres,Texas Rangers,44.32,0.0,0.0,0.2,48.84,0.0,0.0,0.2
+12-07-2015,San Diego Padres,Texas Rangers,44.94,0.0,0.0,0.2,48.28,0.33,0.2,0.2
+27-07-2015,New York Yankees,Texas Rangers,56.7,0.33,0.4,0.6,48.45,0.33,0.6,0.5
+28-07-2015,New York Yankees,Texas Rangers,57.14,0.33,0.4,0.6,47.96,0.0,0.4,0.5
+29-07-2015,New York Yankees,Texas Rangers,57.58,0.33,0.6,0.7,47.47,0.0,0.2,0.4
+30-07-2015,New York Yankees,Texas Rangers,57.0,0.33,0.6,0.7,48.0,0.0,0.0,0.4
+31-07-2015,San Francisco Giants,Texas Rangers,55.45,0.0,0.4,0.6,48.51,0.33,0.2,0.5
+01-08-2015,San Francisco Giants,Texas Rangers,54.9,0.33,0.4,0.7,49.02,0.33,0.4,0.5
+02-08-2015,San Francisco Giants,Texas Rangers,55.34,0.0,0.2,0.6,48.54,0.33,0.6,0.5
+03-08-2015,Houston Astros,Texas Rangers,56.6,0.33,0.4,0.5,49.04,0.0,0.4,0.4
+04-08-2015,Houston Astros,Texas Rangers,56.07,0.33,0.4,0.5,49.52,0.33,0.4,0.4
+05-08-2015,Houston Astros,Texas Rangers,55.56,0.0,0.4,0.5,50.0,0.33,0.4,0.5
+14-08-2015,Tampa Bay Rays,Texas Rangers,50.88,0.33,0.6,0.6,49.56,0.0,0.0,0.4
+15-08-2015,Tampa Bay Rays,Texas Rangers,50.43,0.33,0.6,0.6,50.0,0.33,0.2,0.4
+16-08-2015,Tampa Bay Rays,Texas Rangers,50.0,0.0,0.4,0.5,50.43,0.33,0.4,0.4
+17-08-2015,Seattle Mariners,Texas Rangers,46.61,0.0,0.2,0.4,50.86,0.33,0.6,0.4
+18-08-2015,Seattle Mariners,Texas Rangers,46.22,0.33,0.2,0.4,51.28,0.33,0.6,0.5
+19-08-2015,Seattle Mariners,Texas Rangers,46.67,0.0,0.2,0.4,50.85,0.33,0.6,0.5
+25-08-2015,Toronto Blue Jays,Texas Rangers,55.65,0.33,0.4,0.5,52.03,0.33,0.4,0.6
+26-08-2015,Toronto Blue Jays,Texas Rangers,56.0,0.33,0.6,0.5,51.61,0.33,0.6,0.6
+27-08-2015,Toronto Blue Jays,Texas Rangers,56.35,0.33,0.6,0.6,51.2,0.0,0.4,0.5
+28-08-2015,Baltimore Orioles,Texas Rangers,49.61,0.33,0.2,0.2,51.59,0.0,0.2,0.4
+29-08-2015,Baltimore Orioles,Texas Rangers,49.22,0.0,0.2,0.1,51.97,0.33,0.2,0.5
+30-08-2015,Baltimore Orioles,Texas Rangers,48.84,0.0,0.2,0.1,52.34,0.33,0.4,0.5
+11-09-2015,Oakland Athletics,Texas Rangers,42.86,0.33,0.4,0.3,52.52,0.0,0.4,0.5
+12-09-2015,Oakland Athletics,Texas Rangers,42.55,0.0,0.4,0.2,52.86,0.0,0.2,0.4
+13-09-2015,Oakland Athletics,Texas Rangers,42.96,0.0,0.2,0.2,52.48,0.33,0.2,0.4
+14-09-2015,Houston Astros,Texas Rangers,53.85,0.0,0.2,0.3,52.82,0.0,0.2,0.4
+15-09-2015,Houston Astros,Texas Rangers,53.47,0.33,0.2,0.3,53.15,0.33,0.4,0.4
+16-09-2015,Houston Astros,Texas Rangers,53.1,0.0,0.2,0.3,53.47,0.33,0.4,0.5
+17-09-2015,Houston Astros,Texas Rangers,52.74,0.0,0.2,0.2,53.79,0.33,0.6,0.5
+18-09-2015,Seattle Mariners,Texas Rangers,48.3,0.0,0.2,0.4,54.11,0.33,0.6,0.5
+19-09-2015,Seattle Mariners,Texas Rangers,48.65,0.33,0.4,0.5,53.74,0.33,0.6,0.6
+20-09-2015,Seattle Mariners,Texas Rangers,48.32,0.33,0.4,0.5,54.05,0.0,0.4,0.6
+28-09-2015,Detroit Tigers,Texas Rangers,46.45,0.0,0.4,0.4,54.19,0.0,0.4,0.5
+29-09-2015,Detroit Tigers,Texas Rangers,46.79,0.0,0.2,0.3,53.85,0.0,0.2,0.5
+30-09-2015,Detroit Tigers,Texas Rangers,46.5,0.33,0.2,0.4,54.14,0.0,0.0,0.4
+01-10-2015,Los Angeles Angels of Anaheim,Texas Rangers,52.53,0.33,0.6,0.7,54.43,0.33,0.2,0.5
+02-10-2015,Los Angeles Angels of Anaheim,Texas Rangers,52.2,0.0,0.4,0.7,54.72,0.33,0.4,0.5
+03-10-2015,Los Angeles Angels of Anaheim,Texas Rangers,52.5,0.0,0.2,0.6,54.37,0.33,0.6,0.5
+04-10-2015,Los Angeles Angels of Anaheim,Texas Rangers,52.8,0.33,0.2,0.6,54.04,0.0,0.4,0.4
+13-04-2015,Tampa Bay Rays,Toronto Blue Jays,50.0,0.33,0.4,nan,66.67,0.0,0.4,nan
+14-04-2015,Tampa Bay Rays,Toronto Blue Jays,57.14,0.33,0.4,nan,57.14,0.33,0.4,nan
+15-04-2015,Tampa Bay Rays,Toronto Blue Jays,62.5,0.33,0.6,nan,50.0,0.0,0.2,nan
+16-04-2015,Tampa Bay Rays,Toronto Blue Jays,55.56,0.33,0.6,0.5,55.56,0.0,0.2,0.4
+17-04-2015,Atlanta Braves,Toronto Blue Jays,66.67,0.0,0.2,0.6,50.0,0.33,0.2,0.4
+18-04-2015,Atlanta Braves,Toronto Blue Jays,70.0,0.0,0.2,0.5,45.45,0.0,0.2,0.4
+19-04-2015,Atlanta Braves,Toronto Blue Jays,63.64,0.33,0.2,0.5,50.0,0.0,0.2,0.3
+21-04-2015,Baltimore Orioles,Toronto Blue Jays,53.85,0.33,0.4,0.5,46.15,0.33,0.2,0.3
+22-04-2015,Baltimore Orioles,Toronto Blue Jays,50.0,0.0,0.4,0.4,50.0,0.0,0.2,0.3
+23-04-2015,Baltimore Orioles,Toronto Blue Jays,46.67,0.0,0.2,0.4,53.33,0.33,0.4,0.3
+04-05-2015,New York Yankees,Toronto Blue Jays,64.0,0.33,0.4,0.6,46.15,0.33,0.4,0.3
+05-05-2015,New York Yankees,Toronto Blue Jays,61.54,0.33,0.6,0.6,48.15,0.0,0.2,0.3
+06-05-2015,New York Yankees,Toronto Blue Jays,62.96,0.0,0.4,0.6,46.43,0.33,0.4,0.4
+08-05-2015,Boston Red Sox,Toronto Blue Jays,46.43,0.33,0.2,0.3,48.28,0.0,0.2,0.4
+09-05-2015,Boston Red Sox,Toronto Blue Jays,44.83,0.0,0.2,0.2,50.0,0.33,0.4,0.4
+10-05-2015,Boston Red Sox,Toronto Blue Jays,43.33,0.0,0.2,0.2,51.61,0.33,0.4,0.5
+18-05-2015,Los Angeles Angels of Anaheim,Toronto Blue Jays,51.35,0.33,0.6,0.6,43.59,0.0,0.0,0.2
+19-05-2015,Los Angeles Angels of Anaheim,Toronto Blue Jays,50.0,0.0,0.4,0.6,45.0,0.0,0.0,0.1
+20-05-2015,Los Angeles Angels of Anaheim,Toronto Blue Jays,51.28,0.0,0.2,0.5,43.9,0.33,0.2,0.2
+21-05-2015,Los Angeles Angels of Anaheim,Toronto Blue Jays,52.5,0.33,0.2,0.6,42.86,0.0,0.2,0.2
+22-05-2015,Seattle Mariners,Toronto Blue Jays,45.0,0.33,0.4,0.4,44.19,0.0,0.2,0.1
+23-05-2015,Seattle Mariners,Toronto Blue Jays,46.34,0.0,0.2,0.3,43.18,0.33,0.2,0.2
+24-05-2015,Seattle Mariners,Toronto Blue Jays,47.62,0.33,0.4,0.4,42.22,0.0,0.2,0.2
+25-05-2015,Chicago White Sox,Toronto Blue Jays,46.34,0.0,0.2,0.4,43.48,0.0,0.2,0.2
+26-05-2015,Chicago White Sox,Toronto Blue Jays,45.24,0.0,0.2,0.3,44.68,0.33,0.2,0.3
+27-05-2015,Chicago White Sox,Toronto Blue Jays,44.19,0.0,0.0,0.2,45.83,0.33,0.4,0.4
+05-06-2015,Houston Astros,Toronto Blue Jays,61.82,0.33,0.6,0.5,45.45,0.33,0.2,0.4
+06-06-2015,Houston Astros,Toronto Blue Jays,60.71,0.0,0.4,0.4,46.43,0.33,0.4,0.4
+07-06-2015,Houston Astros,Toronto Blue Jays,59.65,0.0,0.2,0.4,47.37,0.33,0.6,0.4
+08-06-2015,Miami Marlins,Toronto Blue Jays,42.11,0.0,0.4,0.5,48.28,0.33,0.6,0.5
+09-06-2015,Miami Marlins,Toronto Blue Jays,41.38,0.33,0.4,0.5,49.15,0.33,0.6,0.5
+10-06-2015,Miami Marlins,Toronto Blue Jays,40.68,0.0,0.2,0.4,50.0,0.33,0.6,0.6
+17-06-2015,New York Mets,Toronto Blue Jays,54.55,0.33,0.4,0.5,51.52,0.0,0.4,0.7
+18-06-2015,New York Mets,Toronto Blue Jays,53.73,0.33,0.6,0.5,52.24,0.0,0.2,0.6
+19-06-2015,Baltimore Orioles,Toronto Blue Jays,51.52,0.33,0.6,0.7,52.94,0.33,0.2,0.6
+20-06-2015,Baltimore Orioles,Toronto Blue Jays,50.75,0.0,0.4,0.6,53.62,0.33,0.4,0.6
+21-06-2015,Baltimore Orioles,Toronto Blue Jays,51.47,0.0,0.2,0.5,52.86,0.33,0.6,0.6
+26-06-2015,Texas Rangers,Toronto Blue Jays,50.68,0.0,0.0,0.3,52.7,0.0,0.2,0.4
+27-06-2015,Texas Rangers,Toronto Blue Jays,50.0,0.0,0.0,0.2,53.33,0.33,0.4,0.5
+28-06-2015,Texas Rangers,Toronto Blue Jays,50.67,0.0,0.0,0.1,52.63,0.33,0.4,0.5
+29-06-2015,Boston Red Sox,Toronto Blue Jays,44.16,0.0,0.2,0.4,53.25,0.0,0.4,0.4
+30-06-2015,Boston Red Sox,Toronto Blue Jays,44.87,0.33,0.4,0.4,52.56,0.33,0.4,0.4
+01-07-2015,Boston Red Sox,Toronto Blue Jays,45.57,0.33,0.4,0.5,51.9,0.0,0.2,0.4
+02-07-2015,Boston Red Sox,Toronto Blue Jays,45.0,0.33,0.6,0.5,52.5,0.0,0.2,0.4
+17-07-2015,Tampa Bay Rays,Toronto Blue Jays,50.55,0.33,0.4,0.3,49.45,0.33,0.2,0.3
+18-07-2015,Tampa Bay Rays,Toronto Blue Jays,50.0,0.33,0.6,0.4,50.0,0.0,0.2,0.3
+19-07-2015,Tampa Bay Rays,Toronto Blue Jays,50.54,0.0,0.4,0.3,49.46,0.33,0.4,0.3
+28-07-2015,Philadelphia Phillies,Toronto Blue Jays,37.0,0.33,0.6,0.7,50.0,0.33,0.4,0.5
+29-07-2015,Philadelphia Phillies,Toronto Blue Jays,37.62,0.33,0.6,0.7,49.5,0.0,0.2,0.4
+30-07-2015,Kansas City Royals,Toronto Blue Jays,61.0,0.33,0.6,0.6,50.0,0.0,0.2,0.4
+31-07-2015,Kansas City Royals,Toronto Blue Jays,60.4,0.0,0.4,0.5,50.49,0.33,0.2,0.4
+01-08-2015,Kansas City Royals,Toronto Blue Jays,59.8,0.0,0.2,0.4,50.96,0.33,0.4,0.4
+02-08-2015,Kansas City Royals,Toronto Blue Jays,60.19,0.0,0.0,0.4,50.48,0.33,0.6,0.5
+03-08-2015,Minnesota Twins,Toronto Blue Jays,51.92,0.33,0.4,0.3,50.94,0.0,0.4,0.4
+04-08-2015,Minnesota Twins,Toronto Blue Jays,51.43,0.0,0.2,0.2,51.4,0.33,0.4,0.5
+05-08-2015,Minnesota Twins,Toronto Blue Jays,50.94,0.0,0.2,0.2,51.85,0.33,0.4,0.5
+06-08-2015,Minnesota Twins,Toronto Blue Jays,50.47,0.0,0.0,0.2,52.29,0.33,0.6,0.6
+11-08-2015,Oakland Athletics,Toronto Blue Jays,45.13,0.33,0.4,0.5,53.98,0.33,0.6,0.7
+12-08-2015,Oakland Athletics,Toronto Blue Jays,44.74,0.33,0.6,0.5,54.39,0.33,0.6,0.8
+13-08-2015,Oakland Athletics,Toronto Blue Jays,44.35,0.0,0.4,0.4,54.78,0.33,0.6,0.8
+14-08-2015,New York Yankees,Toronto Blue Jays,54.87,0.0,0.0,0.2,55.17,0.33,0.6,0.8
+15-08-2015,New York Yankees,Toronto Blue Jays,55.26,0.33,0.2,0.2,54.7,0.33,0.6,0.8
+16-08-2015,New York Yankees,Toronto Blue Jays,55.65,0.33,0.4,0.3,54.24,0.0,0.4,0.7
+28-08-2015,Detroit Tigers,Toronto Blue Jays,47.24,0.33,0.2,0.3,55.91,0.33,0.6,0.7
+29-08-2015,Detroit Tigers,Toronto Blue Jays,46.88,0.0,0.2,0.2,56.25,0.0,0.4,0.6
+30-08-2015,Detroit Tigers,Toronto Blue Jays,46.51,0.0,0.2,0.1,56.59,0.33,0.4,0.6
+31-08-2015,Cleveland Indians,Toronto Blue Jays,48.84,0.33,0.6,0.6,56.92,0.33,0.4,0.7
+01-09-2015,Cleveland Indians,Toronto Blue Jays,49.23,0.33,0.6,0.6,56.49,0.33,0.6,0.7
+02-09-2015,Cleveland Indians,Toronto Blue Jays,48.85,0.33,0.6,0.7,56.82,0.0,0.4,0.6
+04-09-2015,Baltimore Orioles,Toronto Blue Jays,48.12,0.0,0.0,0.1,57.14,0.33,0.4,0.6
+05-09-2015,Baltimore Orioles,Toronto Blue Jays,48.51,0.33,0.2,0.2,56.72,0.33,0.4,0.6
+06-09-2015,Baltimore Orioles,Toronto Blue Jays,48.15,0.33,0.4,0.2,57.04,0.0,0.4,0.5
+18-09-2015,Boston Red Sox,Toronto Blue Jays,47.59,0.0,0.2,0.4,57.53,0.33,0.2,0.5
+19-09-2015,Boston Red Sox,Toronto Blue Jays,47.26,0.33,0.2,0.4,57.82,0.33,0.4,0.5
+20-09-2015,Boston Red Sox,Toronto Blue Jays,47.62,0.0,0.2,0.4,57.43,0.33,0.6,0.6
+21-09-2015,New York Yankees,Toronto Blue Jays,55.41,0.33,0.4,0.4,57.05,0.0,0.4,0.5
+22-09-2015,New York Yankees,Toronto Blue Jays,55.03,0.33,0.4,0.5,57.33,0.0,0.2,0.4
+23-09-2015,New York Yankees,Toronto Blue Jays,55.33,0.0,0.4,0.5,56.95,0.33,0.2,0.4
+25-09-2015,Tampa Bay Rays,Toronto Blue Jays,49.02,0.33,0.4,0.4,57.24,0.0,0.2,0.4
+26-09-2015,Tampa Bay Rays,Toronto Blue Jays,48.7,0.33,0.6,0.5,57.52,0.33,0.4,0.5
+27-09-2015,Tampa Bay Rays,Toronto Blue Jays,48.39,0.0,0.4,0.5,57.79,0.33,0.4,0.5
+06-04-2015,New York Mets,Washington Nationals,0,0.0,0.0,0.3,0,0.33,0.6,0.5
+08-04-2015,New York Mets,Washington Nationals,100.0,nan,nan,nan,0.0,nan,nan,nan
+09-04-2015,New York Mets,Washington Nationals,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+16-04-2015,Philadelphia Phillies,Washington Nationals,33.33,0.0,0.0,0.3,33.33,0.0,0.2,0.2
+17-04-2015,Philadelphia Phillies,Washington Nationals,30.0,0.0,0.0,0.3,40.0,0.33,0.2,0.3
+18-04-2015,Philadelphia Phillies,Washington Nationals,27.27,0.0,0.0,0.2,45.45,0.33,0.4,0.3
+19-04-2015,Philadelphia Phillies,Washington Nationals,33.33,0.0,0.0,0.2,41.67,0.33,0.6,0.4
+21-04-2015,St. Louis Cardinals,Washington Nationals,72.73,0.33,0.6,0.6,46.15,0.0,0.4,0.4
+22-04-2015,St. Louis Cardinals,Washington Nationals,66.67,0.33,0.6,0.7,50.0,0.33,0.4,0.5
+23-04-2015,St. Louis Cardinals,Washington Nationals,69.23,0.0,0.4,0.6,46.67,0.33,0.4,0.5
+04-05-2015,Miami Marlins,Washington Nationals,48.0,0.33,0.6,0.7,46.15,0.33,0.4,0.4
+05-05-2015,Miami Marlins,Washington Nationals,46.15,0.0,0.4,0.6,48.15,0.33,0.4,0.5
+06-05-2015,Miami Marlins,Washington Nationals,48.15,0.0,0.2,0.5,46.43,0.33,0.6,0.6
+08-05-2015,Atlanta Braves,Washington Nationals,50.0,0.33,0.4,0.3,48.28,0.0,0.4,0.6
+09-05-2015,Atlanta Braves,Washington Nationals,48.28,0.33,0.4,0.4,50.0,0.33,0.4,0.6
+10-05-2015,Atlanta Braves,Washington Nationals,46.67,0.0,0.4,0.4,51.61,0.33,0.4,0.6
+19-05-2015,New York Yankees,Washington Nationals,56.41,0.33,0.2,0.3,56.41,0.33,0.4,0.6
+20-05-2015,New York Yankees,Washington Nationals,55.0,0.0,0.2,0.3,57.5,0.33,0.6,0.6
+22-05-2015,Philadelphia Phillies,Washington Nationals,41.86,0.33,0.4,0.7,58.54,0.33,0.6,0.6
+23-05-2015,Philadelphia Phillies,Washington Nationals,40.91,0.0,0.2,0.6,59.52,0.33,0.6,0.6
+24-05-2015,Philadelphia Phillies,Washington Nationals,42.22,0.0,0.2,0.5,58.14,0.33,0.6,0.7
+03-06-2015,Toronto Blue Jays,Washington Nationals,44.44,0.0,0.0,0.4,55.77,0.33,0.2,0.4
+04-06-2015,Chicago Cubs,Washington Nationals,52.94,0.0,0.4,0.3,54.72,0.0,0.2,0.3
+05-06-2015,Chicago Cubs,Washington Nationals,53.85,0.0,0.2,0.3,53.7,0.0,0.2,0.2
+06-06-2015,Chicago Cubs,Washington Nationals,52.83,0.33,0.2,0.4,54.55,0.0,0.0,0.2
+07-06-2015,Chicago Cubs,Washington Nationals,53.7,0.0,0.2,0.3,53.57,0.33,0.2,0.2
+17-06-2015,Tampa Bay Rays,Washington Nationals,54.55,0.33,0.6,0.6,52.31,0.0,0.4,0.3
+18-06-2015,Tampa Bay Rays,Washington Nationals,55.22,0.0,0.4,0.5,51.52,0.33,0.4,0.4
+19-06-2015,Pittsburgh Pirates,Washington Nationals,59.09,0.33,0.6,0.7,50.75,0.0,0.2,0.4
+20-06-2015,Pittsburgh Pirates,Washington Nationals,58.21,0.33,0.6,0.8,51.47,0.0,0.2,0.3
+21-06-2015,Pittsburgh Pirates,Washington Nationals,57.35,0.0,0.4,0.7,52.17,0.33,0.2,0.4
+23-06-2015,Atlanta Braves,Washington Nationals,50.0,0.33,0.4,0.5,52.86,0.33,0.4,0.5
+24-06-2015,Atlanta Braves,Washington Nationals,49.3,0.33,0.6,0.5,53.52,0.33,0.6,0.5
+25-06-2015,Atlanta Braves,Washington Nationals,48.61,0.0,0.4,0.5,54.17,0.33,0.6,0.5
+03-07-2015,San Francisco Giants,Washington Nationals,52.5,0.0,0.2,0.4,54.43,0.0,0.2,0.6
+04-07-2015,San Francisco Giants,Washington Nationals,51.85,0.0,0.0,0.4,55.0,0.0,0.2,0.5
+05-07-2015,San Francisco Giants,Washington Nationals,51.22,0.0,0.0,0.3,55.56,0.33,0.2,0.5
+06-07-2015,Cincinnati Reds,Washington Nationals,45.0,0.0,0.2,0.2,56.1,0.33,0.4,0.5
+07-07-2015,Cincinnati Reds,Washington Nationals,45.68,0.0,0.0,0.2,55.42,0.33,0.6,0.5
+17-07-2015,Los Angeles Dodgers,Washington Nationals,56.67,0.0,0.4,0.5,55.17,0.33,0.2,0.4
+18-07-2015,Los Angeles Dodgers,Washington Nationals,56.04,0.33,0.4,0.5,55.68,0.33,0.4,0.5
+19-07-2015,Los Angeles Dodgers,Washington Nationals,56.52,0.0,0.2,0.5,55.06,0.33,0.6,0.5
+20-07-2015,New York Mets,Washington Nationals,52.17,0.0,0.2,0.5,54.44,0.0,0.4,0.4
+21-07-2015,New York Mets,Washington Nationals,51.61,0.33,0.2,0.5,54.95,0.0,0.2,0.3
+22-07-2015,New York Mets,Washington Nationals,52.13,0.0,0.2,0.5,54.35,0.33,0.2,0.4
+03-08-2015,Arizona Diamondbacks,Washington Nationals,48.54,0.0,0.4,0.6,52.43,0.0,0.2,0.3
+04-08-2015,Arizona Diamondbacks,Washington Nationals,49.04,0.0,0.2,0.6,51.92,0.0,0.0,0.3
+05-08-2015,Arizona Diamondbacks,Washington Nationals,48.57,0.33,0.2,0.6,52.38,0.0,0.0,0.2
+06-08-2015,Arizona Diamondbacks,Washington Nationals,49.06,0.0,0.2,0.5,51.89,0.33,0.2,0.3
+07-08-2015,Colorado Rockies,Washington Nationals,42.45,0.0,0.0,0.2,52.34,0.0,0.2,0.3
+08-08-2015,Colorado Rockies,Washington Nationals,42.99,0.33,0.2,0.2,51.85,0.33,0.4,0.3
+09-08-2015,Colorado Rockies,Washington Nationals,42.59,0.33,0.4,0.3,52.29,0.0,0.2,0.2
+21-08-2015,Milwaukee Brewers,Washington Nationals,42.62,0.0,0.2,0.3,50.0,0.33,0.4,0.2
+22-08-2015,Milwaukee Brewers,Washington Nationals,43.09,0.33,0.2,0.4,49.59,0.0,0.4,0.2
+23-08-2015,Milwaukee Brewers,Washington Nationals,42.74,0.33,0.4,0.5,50.0,0.0,0.2,0.2
+25-08-2015,San Diego Padres,Washington Nationals,49.19,0.33,0.6,0.7,50.41,0.33,0.2,0.3
+26-08-2015,San Diego Padres,Washington Nationals,48.8,0.0,0.4,0.6,50.81,0.33,0.4,0.4
+27-08-2015,San Diego Padres,Washington Nationals,49.21,0.0,0.2,0.5,50.4,0.33,0.6,0.5
+28-08-2015,Miami Marlins,Washington Nationals,39.84,0.0,0.2,0.2,50.79,0.0,0.4,0.5
+29-08-2015,Miami Marlins,Washington Nationals,40.31,0.0,0.2,0.2,50.39,0.33,0.4,0.5
+30-08-2015,Miami Marlins,Washington Nationals,40.0,0.33,0.2,0.2,50.78,0.0,0.2,0.4
+03-09-2015,Atlanta Braves,Washington Nationals,40.6,0.0,0.0,0.1,50.76,0.0,0.2,0.4
+04-09-2015,Atlanta Braves,Washington Nationals,40.3,0.0,0.0,0.0,51.13,0.33,0.2,0.4
+05-09-2015,Atlanta Braves,Washington Nationals,40.0,0.0,0.0,0.0,51.49,0.33,0.4,0.5
+06-09-2015,Atlanta Braves,Washington Nationals,39.71,0.0,0.0,0.0,51.85,0.33,0.6,0.5
+07-09-2015,New York Mets,Washington Nationals,55.15,0.33,0.4,0.4,52.21,0.33,0.6,0.6
+08-09-2015,New York Mets,Washington Nationals,55.47,0.0,0.2,0.4,51.82,0.33,0.6,0.6
+09-09-2015,New York Mets,Washington Nationals,55.8,0.33,0.4,0.5,51.45,0.0,0.4,0.5
+17-09-2015,Miami Marlins,Washington Nationals,43.15,0.33,0.2,0.5,51.72,0.33,0.6,0.3
+18-09-2015,Miami Marlins,Washington Nationals,43.54,0.33,0.4,0.6,51.37,0.33,0.6,0.4
+19-09-2015,Miami Marlins,Washington Nationals,43.24,0.33,0.6,0.6,51.7,0.0,0.4,0.4
+20-09-2015,Miami Marlins,Washington Nationals,42.95,0.0,0.4,0.5,52.03,0.33,0.4,0.5
+22-09-2015,Baltimore Orioles,Washington Nationals,48.99,0.33,0.4,0.5,52.35,0.33,0.4,0.6
+23-09-2015,Baltimore Orioles,Washington Nationals,49.33,0.0,0.2,0.5,52.0,0.33,0.6,0.7
+24-09-2015,Baltimore Orioles,Washington Nationals,49.67,0.33,0.4,0.5,51.66,0.0,0.4,0.6
+25-09-2015,Philadelphia Phillies,Washington Nationals,37.25,0.0,0.2,0.1,51.32,0.0,0.2,0.5
+26-09-2015,Philadelphia Phillies,Washington Nationals,37.66,0.0,0.2,0.1,50.98,0.0,0.0,0.4
+27-09-2015,Philadelphia Phillies,Washington Nationals,37.42,0.33,0.2,0.2,51.3,0.0,0.0,0.3
+28-09-2015,Cincinnati Reds,Washington Nationals,40.65,0.0,0.0,0.1,50.97,0.33,0.2,0.4

@@ -25,7 +25,7 @@ from joining_dfs import combine_df
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2016,2021):
+for yeari in range(2015,2021):
     curYear_DF = combine_df(yeari)
     #loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
@@ -180,12 +180,15 @@ statsDF['recFIP_Diff'] = statsDF.apply(lambda x: x['H_SP_recFIP'] - x['A_SP_recF
 
 
 # WEATHER
+
+statsDF['windSpeed'] = statsDF['windSpeed'].apply(lambda x: '10+' if x >= 10 else ('0' if x == 0 else '>0 + <10'))
 statsDF['windDirection'] = statsDF['windDirection'].fillna('NaN')
-statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else 'crosswind')))
+statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'NoWind' if x == 'NoWind' else ('unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('crosswind' if 'from' in x else x)))))
+statsDF['windSpeedAndDir'] = statsDF.apply(lambda x: x['windSpeed'] + ' ' + x['windDirection'], axis=1)
+
+#statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('NoWind' if 'NoWind' in x else 'crosswind'))))
 statsDF['precipitation'] = statsDF['precipitation'].fillna('NaN')
 statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: 'Rain' if 'Drizzle' in x else x)
-
-
 
 # Save Modes, Means, and SDs for testing data
 #pickle.dump(modeTestingList, open('modes.pkl', 'wb'))
@@ -217,7 +220,7 @@ useful_features = []
 useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
 #useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
 useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
-useful_features.extend(['temperature','windSpeed'])#,'windDirection','precipitation'])
+useful_features.extend(['temperature','windSpeedAndDir','precipitation'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
 # Create Full Features DF
@@ -279,9 +282,9 @@ for curFold in [int(x) for x in np.unique(statsDF['kfold'])]:
 
     # Using Accuracy Cutoff to get best predictions
     # Transform predictions into binary
-    predictions_binary = np.array([0 if x[0] > accCutOff else (1 if x[0] < (1-accCutOff) else np.nan) for x in predictions])
-    ind = np.where(~np.isnan(predictions_binary))[0]
-    curACC = round(sum(predictions_binary[ind] == test_labels[ind])/len(test_labels[ind]),2)
+    predictions_binary_cutoff = np.array([0 if x[0] > accCutOff else (1 if x[0] < (1-accCutOff) else np.nan) for x in predictions])
+    ind = np.where(~np.isnan(predictions_binary_cutoff))[0]
+    curACC = round(sum(predictions_binary_cutoff[ind] == test_labels[ind])/len(test_labels[ind]),2)
     cutOffAccArray.append(curACC)
 
 print('MEAN ACCURACY: ', np.mean(accArray))
