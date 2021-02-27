@@ -25,16 +25,16 @@ from joining_dfs import combine_df
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2015,2021):
+for yeari in range(2010,2021):
     curYear_DF = combine_df(yeari)
     #loadGames = pd.read_csv('input/gamelogs/gamelogs' + str(yeari) + '.csv', sep=',')
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
 # Calculate difference in WinPct
-statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
-statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
-statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
-statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
+#statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
+#statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
+#statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
+#statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
 
 # Convert certain numerical columns to strings when you want them to be treated as categorical
 #statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
@@ -52,21 +52,18 @@ batting = dict()
 #batStatsCols = [5,curBatStati]
 batStatsCols = [5]
 #batStatsCols.extend([43,44,45,48,56,58,68,71,76,78,79,80,93,104,105])
-batStatsCols.extend([6,7,8,9,10,11,12,13,14,15])
-for yeari in range(2018,2019):
+batStatsCols.extend([10,14,21,23,25,26,27,28,29,30,31,32,33,34])
+for yeari in range(2009,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
-
+'''
 #print('Loading Pitching Stats...')
 pitching = dict()
 #batStatsCols = [5,curBatStati]
 pitchStatsCols = [13]
-pitchStatsCols.extend([46,47,48,49,50,52,59,62,64,76,77,81,83,102,107,123])
-for yeari in range(2018,2019):
+pitchStatsCols.extend([58,62,76,105,109,113,114,115,116,117,118,119,120,121,122,123,124,125])#start at 113
+for yeari in range(2009,2019):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
-
-#relStatsList = ['+WPA_A_1_prevY','+WPA_A_1_prevY']
-#relStatsList.append(list(batting[list(batting.keys())[0]].columns)[-1] + '_A_2_prevY')
-#relStatsList.append(list(batting[list(batting.keys())[0]].columns)[-1] + '_H_2_prevY')
+'''
 
 # Create dictionaries to store Modes, Means, and SDs for testing data
 modeTestingList = dict()
@@ -76,7 +73,7 @@ highOutlierTestingList = dict()
 # BATTING STATS
 # List of batters that you'd like included in the analysis
 #batterList = ['A_1','A_2','A_3','A_4','A_5','A_6','A_7','A_8','A_9','H_1','H_2','H_3','H_4','H_5','H_6','H_7','H_8','H_9']
-batterList = ['A_1','A_2','A_3','A_4','A_5']
+batterList = ['A_1','A_2','A_3']
 #batterList = ['A_1','A_2','A_3','A_4','A_5','H_1','H_2','H_3','H_4','H_5']
 # Compile list of statistics by removing irrelevant column names from column list
 battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
@@ -117,13 +114,13 @@ for yeari in ['prevY']:
         statsDF[stati + '_A_avg_' + yeari] = statsDF[Acol].mean(axis=1)
         #Hcol = X[[stati + '_H' in x for x in X]]
         #statsDF[stati + '_H_avg_' + yeari] = statsDF[Hcol].mean(axis=1)
-
+'''
 # Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
 #statsDF['H_FB-GB*WS_H'] = (statsDF['FB%_H_avg_prevY'] - statsDF['GB%_H_avg_prevY']) * statsDF['windspeed']
 #statsDF['H_FB-GB*WS_A'] = (statsDF['FB%_A_avg_prevY'] - statsDF['GB%_A_avg_prevY']) * statsDF['windspeed']
 #statsDF = statsDF.drop(['GB%_H_avg_prevY','GB%_A_avg_prevY'],axis=1)
 
-'''
+
 '''
 # Recent wOBA Stats
 statsDF['H_recwOBA_1-3'] = statsDF.apply(lambda x: (x['H_1_recwOBA'] + x['H_2_recwOBA'] + x['H_3_recwOBA'])/3, axis=1)
@@ -135,11 +132,11 @@ statsDF['A_recwOBA_7-9'] = statsDF.apply(lambda x: (x['A_7_recwOBA'] + x['A_8_re
 '''
 
 
-'''
+
 # PITCHING STATS
 # List of pitchers that you'd like included in the analysis
-pitcherList = ['AwaySP','HomeSP']
-#pitcherList = ['AwaySP']
+#pitcherList = ['AwaySP','HomeSP']
+pitcherList = ['AwaySP']
 # Compile list of statistics by removing irrelevant column names from column list
 pitchingStatsColumns = [ elem for elem in list(pitching[list(pitching.keys())[0]].columns) if elem not in ['Season','Team']]
 
@@ -169,18 +166,18 @@ for yeari in ['prevY']:
             #lowOutlierTestingList[stati + '_' + pitchi + '_' + yeari] = lowOutlier
             #highOutlierTestingList[stati + '_' + pitchi + '_' + yeari] = highOutlier
 
-
+'''
 # Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
 statsDF['P_FB-GB*WS_H'] = (statsDF['FB%_AwaySP_prevY'] - statsDF['GB%_AwaySP_prevY']) * statsDF['windspeed']
 statsDF['P_FB-GB*WS_A'] = (statsDF['FB%_HomeSP_prevY'] - statsDF['FB%_HomeSP_prevY']) * statsDF['windspeed']
 statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY','GB%_HomeSP_prevY'],axis=1)
 '''
 
-statsDF['recFIP_Diff'] = statsDF.apply(lambda x: x['H_SP_recFIP'] - x['A_SP_recFIP'], axis=1)
+#statsDF['recFIP_Diff'] = statsDF.apply(lambda x: x['H_SP_recFIP'] - x['A_SP_recFIP'], axis=1)
 
 
 # WEATHER
-
+'''
 statsDF['windSpeed'] = statsDF['windSpeed'].apply(lambda x: '10+' if x >= 10 else ('0' if x == 0 else '>0 + <10'))
 statsDF['windDirection'] = statsDF['windDirection'].fillna('NaN')
 statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'NoWind' if x == 'NoWind' else ('unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('crosswind' if 'from' in x else x)))))
@@ -189,7 +186,7 @@ statsDF['windSpeedAndDir'] = statsDF.apply(lambda x: x['windSpeed'] + ' ' + x['w
 #statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('NoWind' if 'NoWind' in x else 'crosswind'))))
 statsDF['precipitation'] = statsDF['precipitation'].fillna('NaN')
 statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: 'Rain' if 'Drizzle' in x else x)
-
+'''
 # Save Modes, Means, and SDs for testing data
 #pickle.dump(modeTestingList, open('modes.pkl', 'wb'))
 #pickle.dump(lowOutlierTestingList, open('lowOutliers.pkl', 'wb'))
@@ -208,7 +205,8 @@ labels = np.array(statsDF[labelCol])
 kfolds = np.array(statsDF['kfold'])
 
 # Classify all numeric data into bins
-for coli in statsDF.columns:
+nonStatsColumns = [x for x in statsDF.columns if 'prevY' not in x]
+for coli in nonStatsColumns:
     if ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year','kfold']:
         statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
         statsDF[coli] = statsDF[coli].astype(str)
@@ -216,11 +214,11 @@ for coli in statsDF.columns:
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = []
-#useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
-useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
+useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
+#useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
 #useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
-useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
-useful_features.extend(['temperature','windSpeedAndDir','precipitation'])
+#useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
+#useful_features.extend(['temperature','windSpeedAndDir','precipitation'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
 # Create Full Features DF
@@ -245,7 +243,7 @@ for coli in A_useful_features:
 
 
 pd.set_option('display.max_columns', 500)
-#sys.exit()
+sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
@@ -289,26 +287,6 @@ for curFold in [int(x) for x in np.unique(statsDF['kfold'])]:
 
 print('MEAN ACCURACY: ', np.mean(accArray))
 print('MEAN ACCURACY WITH CUTOFF: ', np.mean(cutOffAccArray))
-
-sys.exit()
-
-# Split Data into Training and Testing Set
-train_features, test_features, train_labels, test_labels = train_test_split(features_toModel, labels, test_size = 0.10)
-
-
-print('Modelling...')
-# Fit the model
-#rf = assorted_functions.random_forest(train_features, train_labels)
-# Train on all data
-rf = assorted_funcs.random_forest(features_toModel, labels)
-
-# Make predictions
-predictions = rf.predict_proba(test_features)
-
-# Transform predictions into binary
-predictions_binary = np.array([0 if x[0] >= 0.5 else 1 for x in predictions])
-
-print('Accuracy: ', round(sum(predictions_binary == test_labels)/len(test_labels),2))
 
 
 
