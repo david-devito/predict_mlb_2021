@@ -60,7 +60,7 @@ for yeari in range(2009,2020):
 pitching = dict()
 #batStatsCols = [5,curBatStati]
 pitchStatsCols = [13]
-pitchStatsCols.extend([58,62,76,105,109,113,114,115,116,117,118,119,120,121,122,123,124,125])#start at 113
+pitchStatsCols.extend([62,109,217,221,240,284])#start at 326
 for yeari in range(2009,2019):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 '''
@@ -135,8 +135,8 @@ statsDF['A_recwOBA_7-9'] = statsDF.apply(lambda x: (x['A_7_recwOBA'] + x['A_8_re
 
 # PITCHING STATS
 # List of pitchers that you'd like included in the analysis
-#pitcherList = ['AwaySP','HomeSP']
-pitcherList = ['AwaySP']
+pitcherList = ['AwaySP','HomeSP']
+#pitcherList = ['HomeSP']
 # Compile list of statistics by removing irrelevant column names from column list
 pitchingStatsColumns = [ elem for elem in list(pitching[list(pitching.keys())[0]].columns) if elem not in ['Season','Team']]
 
@@ -235,7 +235,7 @@ features_list = list(featuresDF.columns)
 ## CHECKING WHICH FEATURES BEST SEPARATE THE TARGET VARIABLE
 df_away = statsDF[statsDF['Winner'] == 0].copy()
 df_home = statsDF[statsDF['Winner'] == 1].copy()
-A_useful_features = [x for x in useful_features if 'A' in x]
+A_useful_features = [x for x in useful_features if 'H' in x]
 for coli in A_useful_features:
     x = assorted_funcs.doesVarSeparateGroups(df_away,df_home,coli)
     print(coli + ' - ' + str(x))
@@ -243,7 +243,7 @@ for coli in A_useful_features:
 
 
 pd.set_option('display.max_columns', 500)
-sys.exit()
+#sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
