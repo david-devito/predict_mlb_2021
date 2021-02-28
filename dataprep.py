@@ -9,9 +9,12 @@ sys.path.append('./function_scripts')
 # Python packages
 import pandas as pd
 import numpy as np
+from matplotlib import pyplot as plt
 # sklearn functions
 from sklearn.preprocessing import MinMaxScaler, KBinsDiscretizer
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
+from imblearn.over_sampling import SMOTE,SMOTENC
 # My functions
 import get_mlb_playerstats
 import assorted_funcs
@@ -44,27 +47,26 @@ statsDF['Winner'] = statsDF.apply(lambda x: 'Away' if x['AwayScore'] > x['HomeSc
 # Split dataset into stratified k-folds based on target variable
 statsDF = create_kfolds(statsDF,5,'Winner')
 
-'''
+
 ## LOAD STATISTICS
 # Load Batting Stats
 #print('Loading Batting Stats...')
 batting = dict()
-#batStatsCols = [5,curBatStati]
 batStatsCols = [5]
 #batStatsCols.extend([43,44,45,48,56,58,68,71,76,78,79,80,93,104,105])
-batStatsCols.extend([10,14,21,23,25,26,27,28,29,30,31,32,33,34])
+batStatsCols.extend([62,102,131,132,133,134,135,136,137,138,139,140]) #start at 141
 for yeari in range(2009,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
+    
 '''
 #print('Loading Pitching Stats...')
 pitching = dict()
-#batStatsCols = [5,curBatStati]
 pitchStatsCols = [13]
 pitchStatsCols.extend([62,109,217,221,240,284])#start at 326
 for yeari in range(2009,2019):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
-'''
 
+'''
 # Create dictionaries to store Modes, Means, and SDs for testing data
 modeTestingList = dict()
 lowOutlierTestingList = dict()
@@ -88,7 +90,7 @@ for yeari in ['prevY']:
         for stati in battingStatsColumns:
             #if stati + '_' + bati + '_' + yeari in relStatsList:
             #curStat = stati + '_' + bati
-            #print(stati)
+            print(stati)
             # Create a column that contains the statistical value associated with each corresponding hitter
             statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
             # Replace any outliers with the mode from that column
@@ -115,13 +117,14 @@ for yeari in ['prevY']:
         #Hcol = X[[stati + '_H' in x for x in X]]
         #statsDF[stati + '_H_avg_' + yeari] = statsDF[Hcol].mean(axis=1)
 '''
+
 # Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
 #statsDF['H_FB-GB*WS_H'] = (statsDF['FB%_H_avg_prevY'] - statsDF['GB%_H_avg_prevY']) * statsDF['windspeed']
 #statsDF['H_FB-GB*WS_A'] = (statsDF['FB%_A_avg_prevY'] - statsDF['GB%_A_avg_prevY']) * statsDF['windspeed']
 #statsDF = statsDF.drop(['GB%_H_avg_prevY','GB%_A_avg_prevY'],axis=1)
 
 
-'''
+
 # Recent wOBA Stats
 statsDF['H_recwOBA_1-3'] = statsDF.apply(lambda x: (x['H_1_recwOBA'] + x['H_2_recwOBA'] + x['H_3_recwOBA'])/3, axis=1)
 statsDF['H_recwOBA_4-6'] = statsDF.apply(lambda x: (x['H_4_recwOBA'] + x['H_5_recwOBA'] + x['H_6_recwOBA'])/3, axis=1)
@@ -129,7 +132,7 @@ statsDF['H_recwOBA_7-9'] = statsDF.apply(lambda x: (x['H_7_recwOBA'] + x['H_8_re
 statsDF['A_recwOBA_1-3'] = statsDF.apply(lambda x: (x['A_1_recwOBA'] + x['A_2_recwOBA'] + x['A_3_recwOBA'])/3, axis=1)
 statsDF['A_recwOBA_4-6'] = statsDF.apply(lambda x: (x['A_4_recwOBA'] + x['A_5_recwOBA'] + x['A_6_recwOBA'])/3, axis=1)
 statsDF['A_recwOBA_7-9'] = statsDF.apply(lambda x: (x['A_7_recwOBA'] + x['A_8_recwOBA'] + x['A_9_recwOBA'])/3, axis=1)
-'''
+
 
 
 
@@ -159,14 +162,14 @@ for yeari in ['prevY']:
             statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] < lowOutlier, stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
             statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] > highOutlier, stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
             # Fill any NaN values with the mode from that column
-            statsDF[stati + '_' + pitchi + '_' + yeari].fillna(statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0], inplace=True)
+            #statsDF[stati + '_' + pitchi + '_' + yeari].fillna(statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0], inplace=True)
             # Save Mode for Future Testing
             #modeTestingList[stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
             # Save Low and High Outlier Values for Future Testing
             #lowOutlierTestingList[stati + '_' + pitchi + '_' + yeari] = lowOutlier
             #highOutlierTestingList[stati + '_' + pitchi + '_' + yeari] = highOutlier
 
-'''
+
 # Calculate FB - GB Pitcher Difference and Add Effect of Wind Speed
 statsDF['P_FB-GB*WS_H'] = (statsDF['FB%_AwaySP_prevY'] - statsDF['GB%_AwaySP_prevY']) * statsDF['windspeed']
 statsDF['P_FB-GB*WS_A'] = (statsDF['FB%_HomeSP_prevY'] - statsDF['FB%_HomeSP_prevY']) * statsDF['windspeed']
@@ -192,6 +195,9 @@ statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: 'Rain' if 'D
 #pickle.dump(lowOutlierTestingList, open('lowOutliers.pkl', 'wb'))
 #pickle.dump(highOutlierTestingList, open('highOutliers.pkl', 'wb'))
 
+# REMOVE COLUMNS WITH NA VALUES
+statsDF = statsDF.dropna(axis=0, how='any').copy()
+
 # SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
 labelCol = 'Winner'
 
@@ -208,8 +214,9 @@ kfolds = np.array(statsDF['kfold'])
 nonStatsColumns = [x for x in statsDF.columns if 'prevY' not in x]
 for coli in nonStatsColumns:
     if ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year','kfold']:
-        statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
-        statsDF[coli] = statsDF[coli].astype(str)
+        #statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
+        #statsDF[coli] = statsDF[coli].astype(str)
+        statsDF[coli].fillna(statsDF[coli].mode()[0], inplace=True)
 
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
@@ -217,7 +224,7 @@ useful_features = []
 useful_features = [x for x in statsDF.columns if ('avg_prevY' in x) | ('SP_prevY' in x)]
 #useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
 #useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
-#useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
+useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
 #useful_features.extend(['temperature','windSpeedAndDir','precipitation'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
@@ -235,7 +242,7 @@ features_list = list(featuresDF.columns)
 ## CHECKING WHICH FEATURES BEST SEPARATE THE TARGET VARIABLE
 df_away = statsDF[statsDF['Winner'] == 0].copy()
 df_home = statsDF[statsDF['Winner'] == 1].copy()
-A_useful_features = [x for x in useful_features if 'H' in x]
+A_useful_features = [x for x in useful_features if 'A' in x]
 for coli in A_useful_features:
     x = assorted_funcs.doesVarSeparateGroups(df_away,df_home,coli)
     print(coli + ' - ' + str(x))
@@ -243,13 +250,14 @@ for coli in A_useful_features:
 
 
 pd.set_option('display.max_columns', 500)
-#sys.exit()
+sys.exit()
 
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
 accArray = []
 accCutOff = 0.6
 cutOffAccArray = []
+cat_col_index = []
 for curFold in [int(x) for x in np.unique(statsDF['kfold'])]:
 
     # Transform features into numpy array
@@ -262,6 +270,10 @@ for curFold in [int(x) for x in np.unique(statsDF['kfold'])]:
     scaler.fit(train_features)
     train_features = scaler.transform(train_features)
     test_features = scaler.transform(test_features)
+    
+    # SMOTENC to balance classes
+    sm = SMOTE()#categorical_features=cat_col_index)
+    train_features, train_labels = sm.fit_resample(train_features, train_labels)
     
     # Fit the model
     # Train on all data
@@ -308,3 +320,17 @@ for f in range(train_features.shape[1]):
 #pickle.dump(rf, open('finalized_model.sav', 'wb'))
 # save the scaler for use in testing
 #pickle.dump(scaler, open('scaler.pkl', 'wb'))
+    
+conf_mat = confusion_matrix(y_true=test_labels[ind], y_pred=predictions_binary[ind])
+print('Confusion matrix:\n', conf_mat)
+
+labels = ['Class 0', 'Class 1']
+fig = plt.figure()
+ax = fig.add_subplot(111)
+cax = ax.matshow(conf_mat, cmap=plt.cm.Blues)
+fig.colorbar(cax)
+ax.set_xticklabels([''] + labels)
+ax.set_yticklabels([''] + labels)
+plt.xlabel('Predicted')
+plt.ylabel('Expected')
+plt.show()

@@ -1,0 +1,2375 @@
+Date,AwayTeam,HomeTeam,A_SeaWinPct,A_last3WinPct,A_last5WinPct,A_last10WinPct,H_SeaWinPct,H_last3WinPct,H_last5WinPct,H_last10WinPct
+31-03-2014,Seattle Mariners,Los Angeles Angels of Anaheim,0,0.33,0.6,0.3,0,0.0,0.2,0.3
+01-04-2014,Seattle Mariners,Los Angeles Angels of Anaheim,100.0,nan,nan,nan,0.0,nan,nan,nan
+02-04-2014,Seattle Mariners,Los Angeles Angels of Anaheim,100.0,0.33,nan,nan,0.0,0.0,nan,nan
+11-04-2014,New York Mets,Los Angeles Angels of Anaheim,44.44,0.0,0.2,0.3,44.44,0.0,0.2,0.3
+12-04-2014,New York Mets,Los Angeles Angels of Anaheim,40.0,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+13-04-2014,New York Mets,Los Angeles Angels of Anaheim,45.45,0.0,0.2,0.4,45.45,0.33,0.4,0.5
+14-04-2014,Oakland Athletics,Los Angeles Angels of Anaheim,66.67,0.33,0.4,0.6,50.0,0.0,0.4,0.5
+15-04-2014,Oakland Athletics,Los Angeles Angels of Anaheim,69.23,0.33,0.4,0.6,46.15,0.33,0.4,0.5
+16-04-2014,Oakland Athletics,Los Angeles Angels of Anaheim,71.43,0.33,0.6,0.7,42.86,0.0,0.2,0.4
+28-04-2014,Cleveland Indians,Los Angeles Angels of Anaheim,44.0,0.0,0.2,0.4,45.83,0.0,0.2,0.4
+29-04-2014,Cleveland Indians,Los Angeles Angels of Anaheim,42.31,0.0,0.0,0.4,48.0,0.0,0.2,0.3
+30-04-2014,Cleveland Indians,Los Angeles Angels of Anaheim,40.74,0.0,0.0,0.3,50.0,0.33,0.2,0.4
+02-05-2014,Texas Rangers,Los Angeles Angels of Anaheim,53.57,0.0,0.0,0.4,51.85,0.33,0.4,0.5
+03-05-2014,Texas Rangers,Los Angeles Angels of Anaheim,55.17,0.0,0.0,0.3,50.0,0.33,0.6,0.5
+04-05-2014,Texas Rangers,Los Angeles Angels of Anaheim,53.33,0.33,0.2,0.3,51.72,0.0,0.4,0.4
+05-05-2014,New York Yankees,Los Angeles Angels of Anaheim,53.33,0.33,0.2,0.4,50.0,0.33,0.4,0.5
+06-05-2014,New York Yankees,Los Angeles Angels of Anaheim,51.61,0.0,0.2,0.3,51.61,0.0,0.2,0.4
+07-05-2014,New York Yankees,Los Angeles Angels of Anaheim,53.12,0.0,0.2,0.3,50.0,0.33,0.4,0.5
+15-05-2014,Tampa Bay Rays,Los Angeles Angels of Anaheim,43.9,0.33,0.2,0.2,53.85,0.33,0.4,0.5
+16-05-2014,Tampa Bay Rays,Los Angeles Angels of Anaheim,42.86,0.33,0.4,0.3,55.0,0.33,0.4,0.5
+17-05-2014,Tampa Bay Rays,Los Angeles Angels of Anaheim,44.19,0.0,0.4,0.3,53.66,0.33,0.6,0.6
+18-05-2014,Tampa Bay Rays,Los Angeles Angels of Anaheim,43.18,0.33,0.4,0.4,54.76,0.0,0.4,0.6
+19-05-2014,Houston Astros,Los Angeles Angels of Anaheim,36.36,0.33,0.4,0.4,55.81,0.33,0.4,0.6
+20-05-2014,Houston Astros,Los Angeles Angels of Anaheim,37.78,0.33,0.4,0.5,54.55,0.33,0.4,0.6
+21-05-2014,Houston Astros,Los Angeles Angels of Anaheim,36.96,0.33,0.6,0.6,55.56,0.0,0.4,0.5
+23-05-2014,Kansas City Royals,Los Angeles Angels of Anaheim,50.0,0.0,0.2,0.4,56.52,0.33,0.4,0.6
+24-05-2014,Kansas City Royals,Los Angeles Angels of Anaheim,48.94,0.33,0.2,0.4,57.45,0.33,0.4,0.6
+25-05-2014,Kansas City Royals,Los Angeles Angels of Anaheim,50.0,0.0,0.2,0.3,56.25,0.33,0.6,0.6
+06-06-2014,Chicago White Sox,Los Angeles Angels of Anaheim,50.82,0.33,0.4,0.5,52.54,0.33,0.2,0.3
+07-06-2014,Chicago White Sox,Los Angeles Angels of Anaheim,50.0,0.33,0.4,0.5,53.33,0.0,0.2,0.2
+08-06-2014,Chicago White Sox,Los Angeles Angels of Anaheim,49.21,0.0,0.4,0.4,54.1,0.33,0.4,0.3
+09-06-2014,Oakland Athletics,Los Angeles Angels of Anaheim,61.9,0.0,0.2,0.6,54.84,0.33,0.4,0.3
+10-06-2014,Oakland Athletics,Los Angeles Angels of Anaheim,60.94,0.33,0.4,0.6,55.56,0.33,0.6,0.4
+11-06-2014,Oakland Athletics,Los Angeles Angels of Anaheim,60.0,0.0,0.2,0.5,56.25,0.33,0.6,0.5
+20-06-2014,Texas Rangers,Los Angeles Angels of Anaheim,48.61,0.0,0.2,0.4,53.52,0.33,0.2,0.4
+21-06-2014,Texas Rangers,Los Angeles Angels of Anaheim,47.95,0.0,0.2,0.4,54.17,0.0,0.2,0.3
+22-06-2014,Texas Rangers,Los Angeles Angels of Anaheim,47.3,0.0,0.0,0.4,54.79,0.33,0.4,0.3
+24-06-2014,Minnesota Twins,Los Angeles Angels of Anaheim,48.65,0.33,0.6,0.3,55.41,0.33,0.4,0.4
+25-06-2014,Minnesota Twins,Los Angeles Angels of Anaheim,48.0,0.33,0.6,0.4,56.0,0.33,0.6,0.5
+26-06-2014,Minnesota Twins,Los Angeles Angels of Anaheim,47.37,0.0,0.4,0.4,56.58,0.33,0.6,0.5
+03-07-2014,Houston Astros,Los Angeles Angels of Anaheim,41.86,0.0,0.2,0.3,56.63,0.33,0.4,0.6
+04-07-2014,Houston Astros,Los Angeles Angels of Anaheim,41.38,0.0,0.0,0.3,57.14,0.0,0.4,0.5
+05-07-2014,Houston Astros,Los Angeles Angels of Anaheim,40.91,0.0,0.0,0.3,57.65,0.33,0.4,0.5
+06-07-2014,Houston Astros,Los Angeles Angels of Anaheim,40.45,0.0,0.0,0.2,58.14,0.33,0.4,0.5
+07-07-2014,Toronto Blue Jays,Los Angeles Angels of Anaheim,52.22,0.0,0.0,0.2,58.62,0.33,0.6,0.6
+08-07-2014,Toronto Blue Jays,Los Angeles Angels of Anaheim,51.65,0.0,0.0,0.2,59.09,0.33,0.6,0.6
+09-07-2014,Toronto Blue Jays,Los Angeles Angels of Anaheim,52.17,0.0,0.0,0.2,58.43,0.33,0.6,0.7
+18-07-2014,Seattle Mariners,Los Angeles Angels of Anaheim,53.68,0.33,0.4,0.4,60.64,0.33,0.6,0.7
+19-07-2014,Seattle Mariners,Los Angeles Angels of Anaheim,53.12,0.0,0.4,0.3,61.05,0.33,0.6,0.7
+20-07-2014,Seattle Mariners,Los Angeles Angels of Anaheim,53.61,0.0,0.2,0.3,60.42,0.33,0.6,0.7
+21-07-2014,Baltimore Orioles,Los Angeles Angels of Anaheim,54.64,0.33,0.4,0.5,60.82,0.0,0.4,0.6
+22-07-2014,Baltimore Orioles,Los Angeles Angels of Anaheim,55.1,0.0,0.2,0.4,60.2,0.33,0.4,0.7
+23-07-2014,Baltimore Orioles,Los Angeles Angels of Anaheim,55.56,0.33,0.4,0.5,59.6,0.0,0.2,0.6
+24-07-2014,Detroit Tigers,Los Angeles Angels of Anaheim,57.14,0.0,0.4,0.3,60.0,0.0,0.2,0.5
+25-07-2014,Detroit Tigers,Los Angeles Angels of Anaheim,57.58,0.33,0.4,0.3,59.41,0.33,0.2,0.5
+26-07-2014,Detroit Tigers,Los Angeles Angels of Anaheim,57.0,0.33,0.4,0.4,59.8,0.0,0.2,0.4
+27-07-2014,Detroit Tigers,Los Angeles Angels of Anaheim,56.44,0.0,0.4,0.4,60.19,0.33,0.4,0.4
+06-08-2014,Los Angeles Dodgers,Los Angeles Angels of Anaheim,56.14,0.0,0.2,0.5,59.82,0.33,0.4,0.5
+07-08-2014,Los Angeles Dodgers,Los Angeles Angels of Anaheim,56.52,0.33,0.2,0.5,59.29,0.0,0.4,0.4
+08-08-2014,Boston Red Sox,Los Angeles Angels of Anaheim,43.86,0.33,0.2,0.2,58.77,0.0,0.2,0.4
+09-08-2014,Boston Red Sox,Los Angeles Angels of Anaheim,44.35,0.0,0.2,0.2,58.26,0.0,0.0,0.4
+10-08-2014,Boston Red Sox,Los Angeles Angels of Anaheim,43.97,0.33,0.4,0.3,58.62,0.0,0.0,0.3
+12-08-2014,Philadelphia Phillies,Los Angeles Angels of Anaheim,44.54,0.33,0.2,0.4,58.12,0.33,0.2,0.3
+13-08-2014,Philadelphia Phillies,Los Angeles Angels of Anaheim,44.17,0.0,0.2,0.4,58.47,0.0,0.2,0.3
+25-08-2014,Miami Marlins,Los Angeles Angels of Anaheim,49.61,0.0,0.2,0.5,59.69,0.0,0.2,0.5
+26-08-2014,Miami Marlins,Los Angeles Angels of Anaheim,50.0,0.0,0.2,0.4,59.23,0.33,0.2,0.5
+27-08-2014,Miami Marlins,Los Angeles Angels of Anaheim,49.62,0.33,0.2,0.5,59.54,0.0,0.2,0.5
+28-08-2014,Oakland Athletics,Los Angeles Angels of Anaheim,59.09,0.0,0.2,0.4,59.85,0.33,0.4,0.5
+29-08-2014,Oakland Athletics,Los Angeles Angels of Anaheim,58.65,0.33,0.4,0.5,60.15,0.33,0.4,0.5
+30-08-2014,Oakland Athletics,Los Angeles Angels of Anaheim,58.21,0.0,0.2,0.4,60.45,0.33,0.6,0.5
+31-08-2014,Oakland Athletics,Los Angeles Angels of Anaheim,57.78,0.0,0.2,0.4,60.74,0.33,0.6,0.5
+12-09-2014,Houston Astros,Los Angeles Angels of Anaheim,44.52,0.33,0.4,0.6,62.33,0.33,0.6,0.7
+13-09-2014,Houston Astros,Los Angeles Angels of Anaheim,44.22,0.33,0.4,0.6,62.59,0.33,0.6,0.8
+14-09-2014,Houston Astros,Los Angeles Angels of Anaheim,43.92,0.0,0.4,0.5,62.84,0.33,0.6,0.8
+15-09-2014,Seattle Mariners,Los Angeles Angels of Anaheim,54.05,0.0,0.2,0.4,62.42,0.33,0.6,0.8
+16-09-2014,Seattle Mariners,Los Angeles Angels of Anaheim,53.69,0.0,0.2,0.3,62.67,0.0,0.4,0.7
+17-09-2014,Seattle Mariners,Los Angeles Angels of Anaheim,54.0,0.0,0.0,0.2,62.25,0.33,0.4,0.7
+18-09-2014,Seattle Mariners,Los Angeles Angels of Anaheim,53.64,0.33,0.2,0.3,62.5,0.0,0.2,0.6
+19-09-2014,Texas Rangers,Los Angeles Angels of Anaheim,39.47,0.33,0.6,0.5,62.09,0.33,0.4,0.6
+20-09-2014,Texas Rangers,Los Angeles Angels of Anaheim,39.87,0.33,0.6,0.6,61.69,0.0,0.2,0.5
+21-09-2014,Texas Rangers,Los Angeles Angels of Anaheim,39.61,0.33,0.6,0.7,61.94,0.0,0.2,0.4
+22-03-2014,Los Angeles Dodgers,Arizona Diamondbacks,0,0.33,0.6,0.6,0,0.33,0.2,0.2
+23-03-2014,Los Angeles Dodgers,Arizona Diamondbacks,100.0,nan,nan,nan,0.0,nan,nan,nan
+31-03-2014,San Francisco Giants,Arizona Diamondbacks,0,0.33,0.4,0.3,0.0,0.0,nan,nan
+01-04-2014,San Francisco Giants,Arizona Diamondbacks,100.0,nan,nan,nan,0.0,0.0,nan,nan
+02-04-2014,San Francisco Giants,Arizona Diamondbacks,50.0,0.33,nan,nan,25.0,0.0,0.0,nan
+03-04-2014,San Francisco Giants,Arizona Diamondbacks,66.67,0.0,nan,nan,20.0,0.33,0.2,nan
+11-04-2014,Los Angeles Dodgers,Arizona Diamondbacks,60.0,0.33,0.4,0.5,33.33,0.33,0.4,0.3
+12-04-2014,Los Angeles Dodgers,Arizona Diamondbacks,63.64,0.0,0.4,0.4,30.77,0.33,0.4,0.3
+13-04-2014,Los Angeles Dodgers,Arizona Diamondbacks,66.67,0.33,0.4,0.5,28.57,0.0,0.4,0.3
+14-04-2014,New York Mets,Arizona Diamondbacks,41.67,0.33,0.4,0.5,26.67,0.0,0.2,0.3
+15-04-2014,New York Mets,Arizona Diamondbacks,46.15,0.0,0.2,0.4,25.0,0.0,0.0,0.3
+16-04-2014,New York Mets,Arizona Diamondbacks,50.0,0.33,0.4,0.4,23.53,0.0,0.0,0.3
+25-04-2014,Philadelphia Phillies,Arizona Diamondbacks,50.0,0.0,0.4,0.4,28.0,0.33,0.2,0.2
+26-04-2014,Philadelphia Phillies,Arizona Diamondbacks,47.83,0.33,0.4,0.5,30.77,0.33,0.4,0.3
+27-04-2014,Philadelphia Phillies,Arizona Diamondbacks,50.0,0.0,0.2,0.4,29.63,0.33,0.6,0.4
+28-04-2014,Colorado Rockies,Arizona Diamondbacks,53.85,0.0,0.2,0.5,28.57,0.0,0.4,0.3
+29-04-2014,Colorado Rockies,Arizona Diamondbacks,55.56,0.33,0.4,0.5,27.59,0.0,0.2,0.3
+30-04-2014,Colorado Rockies,Arizona Diamondbacks,57.14,0.33,0.4,0.5,26.67,0.0,0.0,0.3
+12-05-2014,Washington Nationals,Arizona Diamondbacks,51.35,0.0,0.2,0.3,37.5,0.33,0.4,0.5
+13-05-2014,Washington Nationals,Arizona Diamondbacks,52.63,0.0,0.0,0.2,36.59,0.33,0.4,0.5
+14-05-2014,Washington Nationals,Arizona Diamondbacks,51.28,0.33,0.2,0.3,38.1,0.0,0.4,0.4
+16-05-2014,Los Angeles Dodgers,Arizona Diamondbacks,52.38,0.33,0.4,0.4,37.21,0.33,0.4,0.5
+17-05-2014,Los Angeles Dodgers,Arizona Diamondbacks,53.49,0.0,0.4,0.3,36.36,0.0,0.2,0.5
+18-05-2014,Los Angeles Dodgers,Arizona Diamondbacks,52.27,0.33,0.4,0.4,37.78,0.0,0.2,0.4
+26-05-2014,San Diego Padres,Arizona Diamondbacks,45.1,0.0,0.2,0.2,38.46,0.33,0.4,0.4
+27-05-2014,San Diego Padres,Arizona Diamondbacks,44.23,0.33,0.4,0.3,39.62,0.0,0.4,0.4
+28-05-2014,San Diego Padres,Arizona Diamondbacks,45.28,0.0,0.2,0.2,38.89,0.33,0.4,0.4
+29-05-2014,Cincinnati Reds,Arizona Diamondbacks,45.1,0.0,0.0,0.3,40.0,0.0,0.2,0.3
+30-05-2014,Cincinnati Reds,Arizona Diamondbacks,44.23,0.33,0.2,0.3,41.07,0.33,0.4,0.4
+31-05-2014,Cincinnati Reds,Arizona Diamondbacks,45.28,0.0,0.2,0.3,40.35,0.33,0.4,0.5
+01-06-2014,Cincinnati Reds,Arizona Diamondbacks,46.3,0.33,0.4,0.3,39.66,0.0,0.4,0.5
+06-06-2014,Atlanta Braves,Arizona Diamondbacks,53.45,0.0,0.4,0.3,41.94,0.33,0.4,0.4
+07-06-2014,Atlanta Braves,Arizona Diamondbacks,54.24,0.0,0.2,0.3,41.27,0.33,0.6,0.5
+08-06-2014,Atlanta Braves,Arizona Diamondbacks,53.33,0.33,0.2,0.4,42.19,0.0,0.4,0.4
+09-06-2014,Houston Astros,Arizona Diamondbacks,43.75,0.0,0.4,0.4,43.08,0.33,0.4,0.4
+10-06-2014,Houston Astros,Arizona Diamondbacks,44.62,0.33,0.4,0.4,42.42,0.33,0.4,0.5
+16-06-2014,Milwaukee Brewers,Arizona Diamondbacks,58.57,0.33,0.4,0.5,41.67,0.0,0.0,0.3
+17-06-2014,Milwaukee Brewers,Arizona Diamondbacks,59.15,0.0,0.2,0.5,41.1,0.33,0.2,0.3
+18-06-2014,Milwaukee Brewers,Arizona Diamondbacks,59.72,0.33,0.4,0.5,40.54,0.0,0.2,0.2
+19-06-2014,Milwaukee Brewers,Arizona Diamondbacks,58.9,0.33,0.4,0.5,41.33,0.0,0.2,0.2
+20-06-2014,San Francisco Giants,Arizona Diamondbacks,60.27,0.0,0.0,0.1,40.79,0.33,0.2,0.2
+21-06-2014,San Francisco Giants,Arizona Diamondbacks,59.46,0.0,0.0,0.1,41.56,0.0,0.2,0.2
+22-06-2014,San Francisco Giants,Arizona Diamondbacks,60.0,0.0,0.0,0.1,41.03,0.33,0.4,0.3
+24-06-2014,Cleveland Indians,Arizona Diamondbacks,48.68,0.0,0.2,0.4,40.51,0.0,0.2,0.3
+25-06-2014,Cleveland Indians,Arizona Diamondbacks,48.05,0.0,0.0,0.4,41.25,0.0,0.2,0.3
+07-07-2014,Miami Marlins,Arizona Diamondbacks,48.86,0.33,0.2,0.3,41.11,0.0,0.2,0.3
+08-07-2014,Miami Marlins,Arizona Diamondbacks,48.31,0.33,0.4,0.4,41.76,0.33,0.2,0.3
+09-07-2014,Miami Marlins,Arizona Diamondbacks,48.89,0.0,0.4,0.4,41.3,0.33,0.4,0.3
+18-07-2014,Chicago Cubs,Arizona Diamondbacks,42.55,0.0,0.4,0.2,41.67,0.33,0.4,0.4
+19-07-2014,Chicago Cubs,Arizona Diamondbacks,42.11,0.0,0.2,0.2,42.27,0.0,0.2,0.4
+20-07-2014,Chicago Cubs,Arizona Diamondbacks,41.67,0.0,0.0,0.2,42.86,0.33,0.4,0.5
+21-07-2014,Detroit Tigers,Arizona Diamondbacks,56.84,0.0,0.0,0.4,43.43,0.33,0.4,0.5
+22-07-2014,Detroit Tigers,Arizona Diamondbacks,57.29,0.33,0.2,0.4,43.0,0.33,0.6,0.5
+23-07-2014,Detroit Tigers,Arizona Diamondbacks,56.7,0.33,0.4,0.4,43.56,0.0,0.4,0.5
+31-07-2014,Pittsburgh Pirates,Arizona Diamondbacks,53.27,0.33,0.6,0.5,43.52,0.0,0.2,0.3
+01-08-2014,Pittsburgh Pirates,Arizona Diamondbacks,52.78,0.0,0.4,0.5,44.04,0.33,0.4,0.4
+02-08-2014,Pittsburgh Pirates,Arizona Diamondbacks,53.21,0.0,0.2,0.4,43.64,0.33,0.4,0.4
+03-08-2014,Pittsburgh Pirates,Arizona Diamondbacks,53.64,0.33,0.2,0.4,43.24,0.0,0.4,0.4
+05-08-2014,Kansas City Royals,Arizona Diamondbacks,51.82,0.0,0.4,0.5,43.75,0.0,0.2,0.4
+06-08-2014,Kansas City Royals,Arizona Diamondbacks,52.25,0.33,0.4,0.5,43.36,0.33,0.2,0.4
+07-08-2014,Kansas City Royals,Arizona Diamondbacks,52.68,0.33,0.4,0.5,42.98,0.0,0.2,0.4
+08-08-2014,Colorado Rockies,Arizona Diamondbacks,39.13,0.33,0.2,0.2,42.61,0.0,0.2,0.3
+09-08-2014,Colorado Rockies,Arizona Diamondbacks,38.79,0.0,0.2,0.2,43.1,0.0,0.0,0.3
+10-08-2014,Colorado Rockies,Arizona Diamondbacks,38.46,0.0,0.2,0.1,43.59,0.33,0.2,0.3
+22-08-2014,San Diego Padres,Arizona Diamondbacks,46.83,0.33,0.2,0.4,41.41,0.0,0.0,0.2
+23-08-2014,San Diego Padres,Arizona Diamondbacks,46.46,0.0,0.2,0.3,41.86,0.0,0.0,0.1
+24-08-2014,San Diego Padres,Arizona Diamondbacks,46.09,0.0,0.2,0.2,42.31,0.33,0.2,0.2
+26-08-2014,Los Angeles Dodgers,Arizona Diamondbacks,56.06,0.33,0.6,0.4,41.98,0.33,0.4,0.2
+27-08-2014,Los Angeles Dodgers,Arizona Diamondbacks,56.39,0.0,0.4,0.4,41.67,0.0,0.4,0.2
+29-08-2014,Colorado Rockies,Arizona Diamondbacks,39.55,0.0,0.2,0.4,41.35,0.0,0.2,0.2
+30-08-2014,Colorado Rockies,Arizona Diamondbacks,39.26,0.0,0.0,0.4,41.79,0.0,0.0,0.2
+31-08-2014,Colorado Rockies,Arizona Diamondbacks,39.71,0.0,0.0,0.3,41.48,0.33,0.2,0.3
+12-09-2014,San Diego Padres,Arizona Diamondbacks,46.21,0.33,0.2,0.2,40.41,0.0,0.0,0.2
+13-09-2014,San Diego Padres,Arizona Diamondbacks,46.58,0.0,0.2,0.1,40.14,0.0,0.0,0.2
+14-09-2014,San Diego Padres,Arizona Diamondbacks,46.26,0.33,0.4,0.2,40.54,0.0,0.0,0.1
+15-09-2014,San Francisco Giants,Arizona Diamondbacks,55.03,0.0,0.4,0.6,40.94,0.33,0.2,0.1
+16-09-2014,San Francisco Giants,Arizona Diamondbacks,54.67,0.0,0.2,0.5,41.33,0.33,0.4,0.2
+17-09-2014,San Francisco Giants,Arizona Diamondbacks,54.97,0.0,0.0,0.4,41.06,0.33,0.6,0.3
+26-09-2014,St. Louis Cardinals,Arizona Diamondbacks,55.35,0.0,0.2,0.5,39.62,0.0,0.2,0.1
+27-09-2014,St. Louis Cardinals,Arizona Diamondbacks,55.62,0.0,0.2,0.5,39.38,0.0,0.2,0.1
+28-09-2014,St. Louis Cardinals,Arizona Diamondbacks,55.28,0.33,0.2,0.5,39.75,0.0,0.0,0.1
+08-04-2014,New York Mets,Atlanta Braves,33.33,0.33,0.4,nan,66.67,0.33,0.6,nan
+09-04-2014,New York Mets,Atlanta Braves,42.86,0.0,0.4,nan,57.14,0.0,0.4,nan
+10-04-2014,New York Mets,Atlanta Braves,37.5,0.33,0.4,nan,62.5,0.0,0.2,nan
+11-04-2014,Washington Nationals,Atlanta Braves,77.78,0.33,0.6,0.6,55.56,0.33,0.2,0.5
+12-04-2014,Washington Nationals,Atlanta Braves,70.0,0.33,0.6,0.6,60.0,0.0,0.2,0.5
+13-04-2014,Washington Nationals,Atlanta Braves,63.64,0.0,0.4,0.5,63.64,0.33,0.4,0.5
+21-04-2014,Miami Marlins,Atlanta Braves,47.37,0.33,0.4,0.3,66.67,0.33,0.4,0.7
+22-04-2014,Miami Marlins,Atlanta Braves,45.0,0.33,0.6,0.4,68.42,0.0,0.4,0.6
+23-04-2014,Miami Marlins,Atlanta Braves,47.62,0.0,0.4,0.4,65.0,0.33,0.4,0.6
+25-04-2014,Cincinnati Reds,Atlanta Braves,50.0,0.33,0.4,0.6,66.67,0.0,0.2,0.5
+26-04-2014,Cincinnati Reds,Atlanta Braves,47.83,0.33,0.6,0.6,68.18,0.33,0.4,0.5
+27-04-2014,Cincinnati Reds,Atlanta Braves,45.83,0.0,0.4,0.5,69.57,0.33,0.4,0.5
+02-05-2014,San Francisco Giants,Atlanta Braves,60.71,0.33,0.4,0.5,62.96,0.0,0.2,0.5
+03-05-2014,San Francisco Giants,Atlanta Braves,62.07,0.33,0.4,0.6,60.71,0.0,0.0,0.4
+04-05-2014,San Francisco Giants,Atlanta Braves,63.33,0.33,0.6,0.7,58.62,0.0,0.0,0.4
+05-05-2014,St. Louis Cardinals,Atlanta Braves,50.0,0.0,0.2,0.3,56.67,0.0,0.0,0.3
+06-05-2014,St. Louis Cardinals,Atlanta Braves,51.52,0.33,0.2,0.3,54.84,0.0,0.0,0.2
+07-05-2014,St. Louis Cardinals,Atlanta Braves,50.0,0.33,0.4,0.4,56.25,0.0,0.0,0.1
+09-05-2014,Chicago Cubs,Atlanta Braves,36.36,0.0,0.0,0.3,54.55,0.33,0.2,0.1
+10-05-2014,Chicago Cubs,Atlanta Braves,35.29,0.33,0.2,0.4,55.88,0.0,0.2,0.1
+11-05-2014,Chicago Cubs,Atlanta Braves,34.29,0.0,0.2,0.3,57.14,0.33,0.4,0.2
+19-05-2014,Milwaukee Brewers,Atlanta Braves,61.36,0.0,0.4,0.5,54.76,0.0,0.0,0.4
+20-05-2014,Milwaukee Brewers,Atlanta Braves,60.0,0.0,0.2,0.5,55.81,0.33,0.2,0.4
+21-05-2014,Milwaukee Brewers,Atlanta Braves,58.7,0.0,0.0,0.4,56.82,0.33,0.4,0.4
+22-05-2014,Milwaukee Brewers,Atlanta Braves,59.57,0.0,0.0,0.3,55.56,0.33,0.6,0.4
+23-05-2014,Colorado Rockies,Atlanta Braves,54.17,0.0,0.4,0.3,56.52,0.0,0.4,0.4
+24-05-2014,Colorado Rockies,Atlanta Braves,53.06,0.0,0.2,0.3,57.45,0.33,0.4,0.4
+25-05-2014,Colorado Rockies,Atlanta Braves,54.0,0.0,0.0,0.3,56.25,0.33,0.4,0.5
+26-05-2014,Boston Red Sox,Atlanta Braves,40.82,0.0,0.0,0.0,57.14,0.0,0.4,0.5
+27-05-2014,Boston Red Sox,Atlanta Braves,42.0,0.0,0.0,0.0,56.0,0.33,0.4,0.6
+03-06-2014,Seattle Mariners,Atlanta Braves,50.88,0.33,0.4,0.4,55.36,0.33,0.4,0.3
+04-06-2014,Seattle Mariners,Atlanta Braves,51.72,0.33,0.6,0.5,54.39,0.33,0.6,0.4
+13-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,55.38,0.33,0.6,0.6,52.31,0.0,0.4,0.3
+14-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,54.55,0.0,0.4,0.6,53.03,0.0,0.2,0.3
+15-06-2014,Los Angeles Angels of Anaheim,Atlanta Braves,55.22,0.0,0.2,0.5,52.24,0.33,0.2,0.4
+16-06-2014,Philadelphia Phillies,Atlanta Braves,43.28,0.33,0.4,0.5,52.94,0.0,0.2,0.3
+17-06-2014,Philadelphia Phillies,Atlanta Braves,44.12,0.0,0.2,0.4,52.17,0.33,0.4,0.4
+18-06-2014,Philadelphia Phillies,Atlanta Braves,44.93,0.33,0.4,0.5,51.43,0.0,0.2,0.4
+30-06-2014,New York Mets,Atlanta Braves,45.12,0.33,0.2,0.4,53.66,0.33,0.6,0.5
+01-07-2014,New York Mets,Atlanta Braves,44.58,0.0,0.2,0.4,54.22,0.33,0.6,0.6
+02-07-2014,New York Mets,Atlanta Braves,44.05,0.0,0.2,0.3,54.76,0.33,0.6,0.7
+04-07-2014,Arizona Diamondbacks,Atlanta Braves,41.38,0.0,0.0,0.3,55.29,0.33,0.6,0.7
+05-07-2014,Arizona Diamondbacks,Atlanta Braves,40.91,0.33,0.2,0.4,55.81,0.33,0.6,0.7
+06-07-2014,Arizona Diamondbacks,Atlanta Braves,40.45,0.0,0.2,0.3,56.32,0.33,0.6,0.8
+18-07-2014,Philadelphia Phillies,Atlanta Braves,44.21,0.0,0.4,0.5,54.74,0.33,0.4,0.3
+19-07-2014,Philadelphia Phillies,Atlanta Braves,43.75,0.0,0.2,0.5,55.21,0.33,0.4,0.3
+20-07-2014,Philadelphia Phillies,Atlanta Braves,44.33,0.0,0.0,0.5,54.64,0.33,0.6,0.4
+21-07-2014,Miami Marlins,Atlanta Braves,46.39,0.0,0.0,0.1,55.1,0.0,0.4,0.4
+22-07-2014,Miami Marlins,Atlanta Braves,46.94,0.33,0.2,0.2,54.55,0.33,0.4,0.5
+23-07-2014,Miami Marlins,Atlanta Braves,47.47,0.33,0.4,0.2,54.0,0.0,0.2,0.5
+24-07-2014,Miami Marlins,Atlanta Braves,47.0,0.33,0.6,0.3,54.46,0.0,0.2,0.4
+25-07-2014,San Diego Padres,Atlanta Braves,44.55,0.33,0.4,0.4,53.92,0.33,0.2,0.5
+26-07-2014,San Diego Padres,Atlanta Braves,45.1,0.33,0.4,0.4,53.4,0.0,0.2,0.4
+27-07-2014,San Diego Padres,Atlanta Braves,44.66,0.33,0.6,0.5,53.85,0.0,0.2,0.3
+28-07-2014,San Diego Padres,Atlanta Braves,44.23,0.0,0.4,0.5,54.29,0.33,0.2,0.3
+08-08-2014,Washington Nationals,Atlanta Braves,54.87,0.33,0.2,0.4,50.88,0.0,0.0,0.1
+09-08-2014,Washington Nationals,Atlanta Braves,54.39,0.33,0.4,0.4,51.3,0.0,0.0,0.0
+10-08-2014,Washington Nationals,Atlanta Braves,54.78,0.0,0.4,0.4,50.86,0.33,0.2,0.1
+11-08-2014,Los Angeles Dodgers,Atlanta Braves,56.3,0.0,0.2,0.4,51.28,0.0,0.2,0.1
+12-08-2014,Los Angeles Dodgers,Atlanta Braves,56.67,0.33,0.2,0.4,50.85,0.33,0.4,0.2
+13-08-2014,Los Angeles Dodgers,Atlanta Braves,57.02,0.33,0.4,0.5,50.42,0.0,0.2,0.2
+14-08-2014,Los Angeles Dodgers,Atlanta Braves,56.56,0.33,0.6,0.6,50.83,0.0,0.2,0.2
+15-08-2014,Oakland Athletics,Atlanta Braves,60.33,0.0,0.2,0.4,50.41,0.33,0.2,0.3
+16-08-2014,Oakland Athletics,Atlanta Braves,59.84,0.0,0.2,0.4,50.82,0.0,0.2,0.3
+17-08-2014,Oakland Athletics,Atlanta Braves,59.35,0.0,0.0,0.3,51.22,0.33,0.4,0.4
+29-08-2014,Miami Marlins,Atlanta Braves,49.24,0.0,0.2,0.4,52.24,0.33,0.2,0.4
+30-08-2014,Miami Marlins,Atlanta Braves,48.87,0.0,0.2,0.3,52.59,0.33,0.4,0.4
+31-08-2014,Miami Marlins,Atlanta Braves,49.25,0.0,0.0,0.2,52.21,0.33,0.6,0.5
+01-09-2014,Philadelphia Phillies,Atlanta Braves,45.59,0.33,0.4,0.6,52.55,0.0,0.4,0.4
+02-09-2014,Philadelphia Phillies,Atlanta Braves,45.99,0.0,0.2,0.5,52.17,0.33,0.4,0.4
+03-09-2014,Philadelphia Phillies,Atlanta Braves,46.38,0.33,0.4,0.6,51.8,0.0,0.2,0.4
+15-09-2014,Washington Nationals,Atlanta Braves,57.43,0.33,0.4,0.5,50.34,0.0,0.2,0.2
+16-09-2014,Washington Nationals,Atlanta Braves,57.72,0.33,0.4,0.6,50.0,0.0,0.0,0.2
+17-09-2014,Washington Nationals,Atlanta Braves,58.0,0.33,0.6,0.6,49.67,0.0,0.0,0.1
+19-09-2014,New York Mets,Atlanta Braves,47.71,0.33,0.2,0.4,50.0,0.0,0.0,0.1
+20-09-2014,New York Mets,Atlanta Braves,48.05,0.0,0.2,0.3,49.67,0.33,0.2,0.2
+21-09-2014,New York Mets,Atlanta Braves,48.39,0.33,0.4,0.3,49.35,0.0,0.2,0.2
+22-09-2014,Pittsburgh Pirates,Atlanta Braves,54.19,0.0,0.4,0.6,49.03,0.0,0.2,0.1
+23-09-2014,Pittsburgh Pirates,Atlanta Braves,54.49,0.33,0.4,0.6,48.72,0.0,0.0,0.1
+24-09-2014,Pittsburgh Pirates,Atlanta Braves,54.78,0.33,0.4,0.7,48.41,0.0,0.0,0.1
+25-09-2014,Pittsburgh Pirates,Atlanta Braves,54.43,0.33,0.6,0.7,48.73,0.0,0.0,0.1
+31-03-2014,Boston Red Sox,Baltimore Orioles,0,0.33,0.4,0.5,0,0.0,0.0,0.3
+02-04-2014,Boston Red Sox,Baltimore Orioles,0.0,nan,nan,nan,100.0,nan,nan,nan
+03-04-2014,Boston Red Sox,Baltimore Orioles,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+11-04-2014,Toronto Blue Jays,Baltimore Orioles,50.0,0.33,0.4,0.5,44.44,0.33,0.4,0.3
+12-04-2014,Toronto Blue Jays,Baltimore Orioles,54.55,0.0,0.4,0.4,40.0,0.33,0.4,0.3
+13-04-2014,Toronto Blue Jays,Baltimore Orioles,50.0,0.33,0.4,0.4,45.45,0.0,0.4,0.3
+14-04-2014,Tampa Bay Rays,Baltimore Orioles,53.85,0.33,0.4,0.5,41.67,0.33,0.4,0.4
+16-04-2014,Tampa Bay Rays,Baltimore Orioles,50.0,0.0,0.4,0.4,46.15,0.0,0.2,0.4
+25-04-2014,Kansas City Royals,Baltimore Orioles,47.62,0.0,0.2,0.5,52.38,0.33,0.4,0.5
+26-04-2014,Kansas City Royals,Baltimore Orioles,50.0,0.0,0.2,0.4,50.0,0.33,0.4,0.5
+27-04-2014,Kansas City Royals,Baltimore Orioles,47.83,0.33,0.2,0.4,52.17,0.0,0.4,0.4
+09-05-2014,Houston Astros,Baltimore Orioles,31.43,0.0,0.0,0.1,56.25,0.33,0.4,0.5
+10-05-2014,Houston Astros,Baltimore Orioles,30.56,0.33,0.2,0.2,57.58,0.33,0.6,0.6
+11-05-2014,Houston Astros,Baltimore Orioles,29.73,0.0,0.2,0.2,58.82,0.33,0.6,0.6
+12-05-2014,Detroit Tigers,Baltimore Orioles,63.64,0.33,0.2,0.6,57.14,0.33,0.6,0.6
+13-05-2014,Detroit Tigers,Baltimore Orioles,64.71,0.0,0.2,0.5,55.56,0.0,0.4,0.5
+14-05-2014,Detroit Tigers,Baltimore Orioles,65.71,0.33,0.4,0.5,54.05,0.0,0.2,0.5
+22-05-2014,Cleveland Indians,Baltimore Orioles,46.81,0.33,0.4,0.3,52.27,0.33,0.2,0.3
+23-05-2014,Cleveland Indians,Baltimore Orioles,47.92,0.33,0.6,0.4,51.11,0.0,0.2,0.3
+24-05-2014,Cleveland Indians,Baltimore Orioles,46.94,0.33,0.6,0.4,52.17,0.0,0.2,0.3
+25-05-2014,Cleveland Indians,Baltimore Orioles,48.0,0.0,0.4,0.4,51.06,0.33,0.2,0.4
+06-06-2014,Oakland Athletics,Baltimore Orioles,61.67,0.33,0.6,0.6,51.72,0.33,0.6,0.4
+07-06-2014,Oakland Athletics,Baltimore Orioles,62.3,0.0,0.4,0.6,50.85,0.0,0.4,0.4
+08-06-2014,Oakland Athletics,Baltimore Orioles,61.29,0.33,0.4,0.6,51.67,0.0,0.2,0.4
+09-06-2014,Boston Red Sox,Baltimore Orioles,45.16,0.0,0.0,0.3,50.82,0.33,0.2,0.5
+10-06-2014,Boston Red Sox,Baltimore Orioles,44.44,0.33,0.2,0.3,51.61,0.0,0.2,0.5
+11-06-2014,Boston Red Sox,Baltimore Orioles,45.31,0.0,0.2,0.2,50.79,0.33,0.4,0.5
+12-06-2014,Toronto Blue Jays,Baltimore Orioles,58.21,0.0,0.2,0.5,51.56,0.0,0.2,0.4
+13-06-2014,Toronto Blue Jays,Baltimore Orioles,57.35,0.0,0.2,0.4,52.31,0.33,0.4,0.4
+14-06-2014,Toronto Blue Jays,Baltimore Orioles,57.97,0.0,0.0,0.3,51.52,0.33,0.4,0.4
+15-06-2014,Toronto Blue Jays,Baltimore Orioles,57.14,0.33,0.2,0.3,52.24,0.0,0.4,0.4
+23-06-2014,Chicago White Sox,Baltimore Orioles,46.05,0.0,0.0,0.2,52.7,0.33,0.4,0.4
+24-06-2014,Chicago White Sox,Baltimore Orioles,45.45,0.0,0.0,0.2,53.33,0.33,0.4,0.5
+25-06-2014,Chicago White Sox,Baltimore Orioles,46.15,0.0,0.0,0.2,52.63,0.33,0.6,0.5
+28-06-2014,Tampa Bay Rays,Baltimore Orioles,40.24,0.33,0.4,0.5,53.16,0.0,0.2,0.5
+29-06-2014,Tampa Bay Rays,Baltimore Orioles,40.96,0.0,0.4,0.4,52.5,0.33,0.4,0.5
+30-06-2014,Texas Rangers,Baltimore Orioles,45.68,0.33,0.4,0.2,51.85,0.0,0.2,0.5
+01-07-2014,Texas Rangers,Baltimore Orioles,45.12,0.0,0.4,0.2,52.44,0.0,0.2,0.4
+02-07-2014,Texas Rangers,Baltimore Orioles,44.58,0.0,0.2,0.2,53.01,0.33,0.2,0.4
+03-07-2014,Texas Rangers,Baltimore Orioles,44.05,0.0,0.0,0.2,53.57,0.33,0.4,0.4
+09-07-2014,Washington Nationals,Baltimore Orioles,54.55,0.33,0.4,0.7,55.06,0.33,0.4,0.6
+10-07-2014,Washington Nationals,Baltimore Orioles,55.06,0.0,0.4,0.6,54.44,0.33,0.6,0.7
+11-07-2014,New York Yankees,Baltimore Orioles,50.55,0.33,0.4,0.5,54.95,0.0,0.4,0.6
+12-07-2014,New York Yankees,Baltimore Orioles,50.0,0.0,0.2,0.5,55.43,0.33,0.4,0.6
+13-07-2014,New York Yankees,Baltimore Orioles,50.54,0.0,0.2,0.4,54.84,0.33,0.4,0.6
+29-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,60.58,0.33,0.4,0.4,55.77,0.0,0.4,0.5
+30-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,60.0,0.33,0.6,0.5,56.19,0.33,0.4,0.5
+31-07-2014,Los Angeles Angels of Anaheim,Baltimore Orioles,59.43,0.0,0.4,0.4,56.6,0.33,0.4,0.6
+01-08-2014,Seattle Mariners,Baltimore Orioles,51.85,0.0,0.2,0.2,56.07,0.33,0.6,0.6
+02-08-2014,Seattle Mariners,Baltimore Orioles,51.38,0.33,0.4,0.3,56.48,0.0,0.4,0.5
+03-08-2014,Seattle Mariners,Baltimore Orioles,51.82,0.0,0.2,0.3,55.96,0.33,0.4,0.6
+08-08-2014,St. Louis Cardinals,Baltimore Orioles,53.98,0.0,0.4,0.4,57.02,0.0,0.4,0.5
+09-08-2014,St. Louis Cardinals,Baltimore Orioles,53.51,0.33,0.4,0.5,57.39,0.33,0.4,0.5
+10-08-2014,St. Louis Cardinals,Baltimore Orioles,53.04,0.0,0.2,0.5,57.76,0.33,0.4,0.6
+11-08-2014,New York Yankees,Baltimore Orioles,52.14,0.0,0.4,0.6,57.26,0.33,0.6,0.6
+13-08-2014,New York Yankees,Baltimore Orioles,51.69,0.0,0.2,0.5,57.63,0.0,0.4,0.6
+25-08-2014,Tampa Bay Rays,Baltimore Orioles,49.23,0.0,0.4,0.3,57.03,0.0,0.2,0.4
+26-08-2014,Tampa Bay Rays,Baltimore Orioles,48.85,0.33,0.4,0.3,57.36,0.0,0.0,0.4
+27-08-2014,Tampa Bay Rays,Baltimore Orioles,48.48,0.0,0.2,0.3,57.69,0.33,0.2,0.5
+28-08-2014,Tampa Bay Rays,Baltimore Orioles,48.87,0.0,0.2,0.3,57.25,0.33,0.4,0.5
+29-08-2014,Minnesota Twins,Baltimore Orioles,44.36,0.0,0.0,0.3,57.58,0.0,0.4,0.4
+30-08-2014,Minnesota Twins,Baltimore Orioles,44.03,0.33,0.2,0.4,57.89,0.33,0.4,0.4
+31-08-2014,Minnesota Twins,Baltimore Orioles,43.7,0.0,0.2,0.3,58.21,0.33,0.4,0.4
+01-09-2014,Minnesota Twins,Baltimore Orioles,43.38,0.0,0.2,0.2,58.52,0.33,0.6,0.5
+02-09-2014,Cincinnati Reds,Baltimore Orioles,48.18,0.0,0.2,0.4,58.09,0.33,0.6,0.6
+03-09-2014,Cincinnati Reds,Baltimore Orioles,47.83,0.33,0.2,0.5,58.39,0.0,0.4,0.6
+04-09-2014,Cincinnati Reds,Baltimore Orioles,47.48,0.0,0.2,0.4,58.7,0.33,0.4,0.6
+13-09-2014,New York Yankees,Baltimore Orioles,51.37,0.0,0.4,0.4,59.86,0.33,0.6,0.6
+14-09-2014,New York Yankees,Baltimore Orioles,51.7,0.0,0.2,0.3,59.46,0.33,0.6,0.6
+15-09-2014,Toronto Blue Jays,Baltimore Orioles,52.03,0.33,0.4,0.5,59.73,0.0,0.4,0.6
+16-09-2014,Toronto Blue Jays,Baltimore Orioles,51.68,0.0,0.2,0.5,60.0,0.33,0.4,0.7
+17-09-2014,Toronto Blue Jays,Baltimore Orioles,51.33,0.0,0.2,0.5,60.26,0.33,0.4,0.7
+19-09-2014,Boston Red Sox,Baltimore Orioles,43.14,0.0,0.2,0.3,60.53,0.33,0.6,0.7
+20-09-2014,Boston Red Sox,Baltimore Orioles,43.51,0.0,0.0,0.3,60.13,0.33,0.6,0.7
+21-09-2014,Boston Red Sox,Baltimore Orioles,43.23,0.33,0.2,0.4,60.39,0.0,0.4,0.6
+04-04-2014,Milwaukee Brewers,Boston Red Sox,33.33,0.0,nan,nan,66.67,0.33,nan,nan
+05-04-2014,Milwaukee Brewers,Boston Red Sox,50.0,0.0,0.2,nan,50.0,0.33,0.4,nan
+06-04-2014,Milwaukee Brewers,Boston Red Sox,60.0,0.33,0.2,nan,40.0,0.0,0.4,nan
+07-04-2014,Texas Rangers,Boston Red Sox,50.0,0.0,0.2,nan,33.33,0.0,0.2,nan
+08-04-2014,Texas Rangers,Boston Red Sox,42.86,0.33,0.2,nan,42.86,0.0,0.0,nan
+09-04-2014,Texas Rangers,Boston Red Sox,50.0,0.0,0.2,nan,37.5,0.33,0.2,nan
+18-04-2014,Baltimore Orioles,Boston Red Sox,50.0,0.33,0.4,0.5,43.75,0.33,0.2,0.3
+19-04-2014,Baltimore Orioles,Boston Red Sox,53.33,0.33,0.4,0.5,41.18,0.33,0.4,0.4
+20-04-2014,Baltimore Orioles,Boston Red Sox,50.0,0.33,0.6,0.6,44.44,0.0,0.4,0.3
+21-04-2014,Baltimore Orioles,Boston Red Sox,47.06,0.0,0.4,0.5,47.37,0.33,0.4,0.4
+22-04-2014,New York Yankees,Boston Red Sox,57.89,0.0,0.2,0.5,45.0,0.33,0.4,0.4
+23-04-2014,New York Yankees,Boston Red Sox,60.0,0.33,0.2,0.6,42.86,0.0,0.4,0.4
+24-04-2014,New York Yankees,Boston Red Sox,57.14,0.33,0.4,0.6,45.45,0.0,0.2,0.4
+29-04-2014,Tampa Bay Rays,Boston Red Sox,42.31,0.0,0.2,0.3,46.15,0.33,0.4,0.5
+02-05-2014,Oakland Athletics,Boston Red Sox,64.29,0.33,0.4,0.4,44.83,0.0,0.2,0.4
+03-05-2014,Oakland Athletics,Boston Red Sox,62.07,0.33,0.6,0.5,46.67,0.0,0.2,0.4
+04-05-2014,Oakland Athletics,Boston Red Sox,60.0,0.0,0.4,0.5,48.39,0.33,0.2,0.4
+06-05-2014,Cincinnati Reds,Boston Red Sox,48.39,0.33,0.4,0.3,46.88,0.33,0.4,0.5
+07-05-2014,Cincinnati Reds,Boston Red Sox,46.88,0.33,0.4,0.4,48.48,0.0,0.4,0.4
+16-05-2014,Detroit Tigers,Boston Red Sox,66.67,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+17-05-2014,Detroit Tigers,Boston Red Sox,67.57,0.33,0.6,0.5,48.78,0.0,0.2,0.5
+18-05-2014,Detroit Tigers,Boston Red Sox,68.42,0.33,0.6,0.5,47.62,0.0,0.2,0.4
+20-05-2014,Toronto Blue Jays,Boston Red Sox,51.11,0.33,0.6,0.5,46.51,0.0,0.0,0.3
+21-05-2014,Toronto Blue Jays,Boston Red Sox,52.17,0.0,0.4,0.5,45.45,0.0,0.0,0.3
+22-05-2014,Toronto Blue Jays,Boston Red Sox,53.19,0.33,0.4,0.6,44.44,0.0,0.0,0.2
+28-05-2014,Atlanta Braves,Boston Red Sox,54.9,0.0,0.2,0.5,43.14,0.33,0.2,0.1
+29-05-2014,Atlanta Braves,Boston Red Sox,53.85,0.0,0.2,0.4,44.23,0.33,0.4,0.2
+30-05-2014,Tampa Bay Rays,Boston Red Sox,42.59,0.0,0.2,0.4,45.28,0.33,0.6,0.3
+31-05-2014,Tampa Bay Rays,Boston Red Sox,41.82,0.0,0.0,0.4,46.3,0.33,0.6,0.4
+01-06-2014,Tampa Bay Rays,Boston Red Sox,41.07,0.0,0.0,0.4,47.27,0.33,0.6,0.5
+12-06-2014,Cleveland Indians,Boston Red Sox,50.0,0.0,0.4,0.6,44.62,0.33,0.4,0.2
+13-06-2014,Cleveland Indians,Boston Red Sox,49.25,0.0,0.2,0.5,45.45,0.0,0.2,0.2
+14-06-2014,Cleveland Indians,Boston Red Sox,48.53,0.0,0.0,0.4,46.27,0.33,0.4,0.3
+15-06-2014,Cleveland Indians,Boston Red Sox,49.28,0.0,0.0,0.3,45.59,0.33,0.4,0.4
+16-06-2014,Minnesota Twins,Boston Red Sox,47.76,0.0,0.4,0.4,44.93,0.0,0.4,0.4
+17-06-2014,Minnesota Twins,Boston Red Sox,47.06,0.0,0.2,0.4,45.71,0.0,0.2,0.4
+18-06-2014,Minnesota Twins,Boston Red Sox,46.38,0.0,0.0,0.3,46.48,0.33,0.2,0.4
+30-06-2014,Chicago Cubs,Boston Red Sox,42.5,0.0,0.4,0.3,46.34,0.33,0.4,0.3
+01-07-2014,Chicago Cubs,Boston Red Sox,43.21,0.0,0.2,0.3,45.78,0.33,0.4,0.4
+02-07-2014,Chicago Cubs,Boston Red Sox,43.9,0.33,0.2,0.4,45.24,0.0,0.4,0.4
+06-07-2014,Baltimore Orioles,Boston Red Sox,54.02,0.0,0.4,0.5,44.83,0.33,0.2,0.4
+07-07-2014,Chicago White Sox,Boston Red Sox,47.19,0.0,0.4,0.5,44.32,0.0,0.2,0.3
+08-07-2014,Chicago White Sox,Boston Red Sox,47.78,0.33,0.4,0.5,43.82,0.0,0.2,0.3
+09-07-2014,Chicago White Sox,Boston Red Sox,48.35,0.33,0.4,0.5,43.33,0.0,0.0,0.2
+10-07-2014,Chicago White Sox,Boston Red Sox,47.83,0.33,0.6,0.5,43.96,0.0,0.0,0.1
+18-07-2014,Kansas City Royals,Boston Red Sox,51.06,0.0,0.0,0.2,45.26,0.0,0.4,0.3
+19-07-2014,Kansas City Royals,Boston Red Sox,50.53,0.33,0.2,0.3,45.83,0.33,0.4,0.4
+20-07-2014,Kansas City Royals,Boston Red Sox,50.0,0.0,0.2,0.3,46.39,0.33,0.4,0.5
+28-07-2014,Toronto Blue Jays,Boston Red Sox,52.83,0.33,0.4,0.6,45.71,0.0,0.0,0.3
+29-07-2014,Toronto Blue Jays,Boston Red Sox,53.27,0.33,0.4,0.6,45.28,0.33,0.2,0.3
+30-07-2014,Toronto Blue Jays,Boston Red Sox,53.7,0.33,0.6,0.6,44.86,0.0,0.2,0.2
+01-08-2014,New York Yankees,Boston Red Sox,51.4,0.33,0.2,0.5,44.44,0.0,0.2,0.1
+02-08-2014,New York Yankees,Boston Red Sox,50.93,0.0,0.2,0.4,44.95,0.0,0.0,0.1
+03-08-2014,New York Yankees,Boston Red Sox,51.38,0.0,0.2,0.3,44.55,0.33,0.2,0.2
+14-08-2014,Houston Astros,Boston Red Sox,41.32,0.33,0.2,0.3,45.38,0.33,0.4,0.4
+15-08-2014,Houston Astros,Boston Red Sox,40.98,0.0,0.2,0.3,45.83,0.33,0.6,0.5
+16-08-2014,Houston Astros,Boston Red Sox,41.46,0.0,0.2,0.3,45.45,0.33,0.6,0.6
+17-08-2014,Houston Astros,Boston Red Sox,41.13,0.33,0.2,0.4,45.9,0.0,0.4,0.5
+18-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,59.02,0.33,0.6,0.5,45.53,0.33,0.4,0.6
+19-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,59.35,0.0,0.4,0.5,45.16,0.0,0.2,0.5
+20-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,59.68,0.33,0.4,0.6,44.8,0.0,0.2,0.5
+21-08-2014,Los Angeles Angels of Anaheim,Boston Red Sox,60.0,0.33,0.4,0.6,44.44,0.0,0.0,0.4
+22-08-2014,Seattle Mariners,Boston Red Sox,53.97,0.33,0.4,0.6,44.09,0.0,0.0,0.3
+23-08-2014,Seattle Mariners,Boston Red Sox,54.33,0.0,0.2,0.5,43.75,0.0,0.0,0.2
+24-08-2014,Seattle Mariners,Boston Red Sox,54.69,0.33,0.4,0.5,43.41,0.0,0.0,0.1
+05-09-2014,Toronto Blue Jays,Boston Red Sox,51.8,0.33,0.6,0.5,43.57,0.0,0.2,0.4
+06-09-2014,Toronto Blue Jays,Boston Red Sox,51.43,0.33,0.6,0.6,43.97,0.0,0.2,0.3
+07-09-2014,Toronto Blue Jays,Boston Red Sox,51.06,0.0,0.4,0.6,44.37,0.33,0.2,0.4
+08-09-2014,Baltimore Orioles,Boston Red Sox,58.45,0.0,0.2,0.5,44.06,0.33,0.4,0.4
+09-09-2014,Baltimore Orioles,Boston Red Sox,58.74,0.33,0.2,0.5,43.75,0.0,0.4,0.4
+10-09-2014,Baltimore Orioles,Boston Red Sox,59.03,0.33,0.4,0.5,43.45,0.0,0.2,0.3
+23-09-2014,Tampa Bay Rays,Boston Red Sox,48.08,0.33,0.2,0.5,43.59,0.0,0.2,0.3
+24-09-2014,Tampa Bay Rays,Boston Red Sox,48.41,0.0,0.2,0.4,43.31,0.33,0.4,0.3
+25-09-2014,Tampa Bay Rays,Boston Red Sox,48.1,0.33,0.4,0.5,43.67,0.0,0.2,0.3
+26-09-2014,New York Yankees,Boston Red Sox,51.57,0.0,0.2,0.5,44.03,0.33,0.4,0.3
+27-09-2014,New York Yankees,Boston Red Sox,51.88,0.33,0.2,0.5,43.75,0.33,0.4,0.4
+28-09-2014,New York Yankees,Boston Red Sox,51.55,0.33,0.4,0.5,44.1,0.0,0.4,0.4
+31-03-2014,Minnesota Twins,Chicago White Sox,0,0.33,0.4,0.4,0,0.33,0.2,0.3
+02-04-2014,Minnesota Twins,Chicago White Sox,0.0,nan,nan,nan,100.0,nan,nan,nan
+03-04-2014,Minnesota Twins,Chicago White Sox,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+10-04-2014,Cleveland Indians,Chicago White Sox,55.56,0.33,0.4,0.5,44.44,0.33,0.4,0.4
+11-04-2014,Cleveland Indians,Chicago White Sox,50.0,0.0,0.4,0.4,50.0,0.0,0.2,0.3
+12-04-2014,Cleveland Indians,Chicago White Sox,45.45,0.0,0.2,0.4,54.55,0.33,0.4,0.3
+13-04-2014,Cleveland Indians,Chicago White Sox,50.0,0.0,0.0,0.3,50.0,0.33,0.4,0.4
+15-04-2014,Boston Red Sox,Chicago White Sox,38.46,0.0,0.2,0.3,53.85,0.0,0.4,0.4
+16-04-2014,Boston Red Sox,Chicago White Sox,35.71,0.0,0.2,0.3,57.14,0.33,0.4,0.5
+17-04-2014,Boston Red Sox,Chicago White Sox,40.0,0.0,0.0,0.3,53.33,0.33,0.4,0.5
+25-04-2014,Tampa Bay Rays,Chicago White Sox,45.45,0.0,0.2,0.3,47.83,0.33,0.4,0.3
+26-04-2014,Tampa Bay Rays,Chicago White Sox,43.48,0.0,0.2,0.3,50.0,0.0,0.2,0.3
+27-04-2014,Tampa Bay Rays,Chicago White Sox,45.83,0.0,0.0,0.3,48.0,0.33,0.4,0.4
+28-04-2014,Tampa Bay Rays,Chicago White Sox,44.0,0.33,0.2,0.4,50.0,0.0,0.2,0.4
+29-04-2014,Detroit Tigers,Chicago White Sox,57.14,0.33,0.4,0.5,51.85,0.33,0.4,0.5
+30-04-2014,Detroit Tigers,Chicago White Sox,59.09,0.0,0.4,0.5,50.0,0.33,0.4,0.5
+07-05-2014,Chicago Cubs,Chicago White Sox,35.48,0.0,0.2,0.4,50.0,0.33,0.4,0.4
+08-05-2014,Chicago Cubs,Chicago White Sox,34.38,0.0,0.0,0.4,51.43,0.33,0.6,0.4
+09-05-2014,Arizona Diamondbacks,Chicago White Sox,35.14,0.33,0.2,0.4,50.0,0.33,0.6,0.4
+10-05-2014,Arizona Diamondbacks,Chicago White Sox,34.21,0.33,0.4,0.5,51.35,0.0,0.4,0.4
+11-05-2014,Arizona Diamondbacks,Chicago White Sox,35.9,0.0,0.4,0.5,50.0,0.33,0.4,0.5
+22-05-2014,New York Yankees,Chicago White Sox,53.33,0.0,0.2,0.4,47.92,0.33,0.4,0.4
+23-05-2014,New York Yankees,Chicago White Sox,52.17,0.33,0.2,0.5,48.98,0.0,0.4,0.4
+24-05-2014,New York Yankees,Chicago White Sox,51.06,0.0,0.2,0.5,50.0,0.33,0.4,0.5
+25-05-2014,New York Yankees,Chicago White Sox,52.08,0.0,0.2,0.4,49.02,0.33,0.4,0.5
+26-05-2014,Cleveland Indians,Chicago White Sox,47.06,0.33,0.4,0.5,48.08,0.0,0.4,0.4
+27-05-2014,Cleveland Indians,Chicago White Sox,46.15,0.0,0.2,0.5,49.06,0.0,0.2,0.4
+28-05-2014,Cleveland Indians,Chicago White Sox,45.28,0.0,0.2,0.5,50.0,0.33,0.2,0.5
+30-05-2014,San Diego Padres,Chicago White Sox,44.44,0.33,0.4,0.3,50.91,0.33,0.4,0.5
+31-05-2014,San Diego Padres,Chicago White Sox,45.45,0.0,0.2,0.3,50.0,0.33,0.6,0.5
+01-06-2014,San Diego Padres,Chicago White Sox,46.43,0.33,0.4,0.4,49.12,0.0,0.4,0.5
+09-06-2014,Detroit Tigers,Chicago White Sox,55.93,0.33,0.4,0.3,48.44,0.0,0.2,0.3
+11-06-2014,Detroit Tigers,Chicago White Sox,55.0,0.0,0.4,0.2,49.23,0.0,0.0,0.3
+12-06-2014,Detroit Tigers,Chicago White Sox,54.1,0.0,0.2,0.2,50.0,0.33,0.2,0.4
+13-06-2014,Kansas City Royals,Chicago White Sox,50.77,0.33,0.6,0.6,49.25,0.33,0.4,0.4
+14-06-2014,Kansas City Royals,Chicago White Sox,51.52,0.33,0.6,0.6,48.53,0.0,0.4,0.4
+15-06-2014,Kansas City Royals,Chicago White Sox,52.24,0.33,0.6,0.6,47.83,0.0,0.2,0.3
+17-06-2014,San Francisco Giants,Chicago White Sox,61.97,0.0,0.2,0.3,47.14,0.0,0.0,0.2
+18-06-2014,San Francisco Giants,Chicago White Sox,61.11,0.0,0.0,0.2,47.89,0.0,0.0,0.2
+02-07-2014,Los Angeles Angels of Anaheim,Chicago White Sox,57.32,0.33,0.4,0.6,45.88,0.0,0.4,0.4
+04-07-2014,Seattle Mariners,Chicago White Sox,55.29,0.33,0.6,0.6,46.51,0.0,0.2,0.4
+05-07-2014,Seattle Mariners,Chicago White Sox,54.65,0.33,0.6,0.6,47.13,0.33,0.2,0.4
+06-07-2014,Seattle Mariners,Chicago White Sox,55.17,0.0,0.4,0.5,46.59,0.33,0.4,0.5
+18-07-2014,Houston Astros,Chicago White Sox,41.67,0.33,0.4,0.4,46.88,0.33,0.2,0.4
+19-07-2014,Houston Astros,Chicago White Sox,41.24,0.0,0.2,0.4,47.42,0.0,0.2,0.4
+20-07-2014,Houston Astros,Chicago White Sox,40.82,0.0,0.2,0.4,47.96,0.33,0.4,0.4
+21-07-2014,Kansas City Royals,Chicago White Sox,49.48,0.0,0.2,0.2,47.47,0.33,0.4,0.4
+22-07-2014,Kansas City Royals,Chicago White Sox,48.98,0.0,0.0,0.2,48.0,0.0,0.4,0.3
+23-07-2014,Kansas City Royals,Chicago White Sox,49.49,0.0,0.0,0.1,47.52,0.33,0.4,0.4
+01-08-2014,Minnesota Twins,Chicago White Sox,44.86,0.0,0.4,0.3,48.62,0.0,0.2,0.4
+02-08-2014,Minnesota Twins,Chicago White Sox,44.44,0.0,0.2,0.3,49.09,0.33,0.4,0.5
+03-08-2014,Minnesota Twins,Chicago White Sox,44.95,0.0,0.0,0.2,48.65,0.33,0.4,0.6
+04-08-2014,Texas Rangers,Chicago White Sox,38.74,0.0,0.2,0.3,48.21,0.0,0.4,0.5
+05-08-2014,Texas Rangers,Chicago White Sox,38.39,0.0,0.0,0.2,48.67,0.0,0.2,0.4
+06-08-2014,Texas Rangers,Chicago White Sox,38.94,0.0,0.0,0.2,48.25,0.33,0.2,0.4
+15-08-2014,Toronto Blue Jays,Chicago White Sox,51.64,0.0,0.2,0.3,47.11,0.33,0.4,0.3
+16-08-2014,Toronto Blue Jays,Chicago White Sox,51.22,0.0,0.0,0.3,47.54,0.0,0.2,0.2
+17-08-2014,Toronto Blue Jays,Chicago White Sox,51.61,0.0,0.0,0.2,47.15,0.33,0.4,0.3
+18-08-2014,Baltimore Orioles,Chicago White Sox,57.38,0.0,0.2,0.5,47.58,0.0,0.2,0.3
+19-08-2014,Baltimore Orioles,Chicago White Sox,57.72,0.33,0.2,0.5,47.2,0.33,0.4,0.4
+20-08-2014,Baltimore Orioles,Chicago White Sox,58.06,0.33,0.4,0.5,46.83,0.0,0.2,0.4
+26-08-2014,Cleveland Indians,Chicago White Sox,51.16,0.33,0.2,0.5,45.38,0.0,0.0,0.2
+27-08-2014,Cleveland Indians,Chicago White Sox,51.54,0.33,0.4,0.5,45.04,0.0,0.0,0.1
+28-08-2014,Cleveland Indians,Chicago White Sox,51.15,0.33,0.6,0.5,45.45,0.0,0.0,0.1
+29-08-2014,Detroit Tigers,Chicago White Sox,54.55,0.0,0.4,0.4,45.11,0.33,0.2,0.1
+31-08-2014,Detroit Tigers,Chicago White Sox,54.81,0.0,0.4,0.5,44.85,0.33,0.2,0.2
+08-09-2014,Oakland Athletics,Chicago White Sox,56.34,0.33,0.2,0.2,44.37,0.0,0.0,0.3
+09-09-2014,Oakland Athletics,Chicago White Sox,55.94,0.0,0.2,0.2,44.76,0.0,0.0,0.3
+10-09-2014,Oakland Athletics,Chicago White Sox,56.25,0.0,0.2,0.2,44.44,0.33,0.2,0.3
+11-09-2014,Oakland Athletics,Chicago White Sox,55.86,0.33,0.2,0.3,44.83,0.0,0.2,0.3
+14-09-2014,Minnesota Twins,Chicago White Sox,41.89,0.0,0.0,0.1,45.95,0.33,0.6,0.4
+25-09-2014,Kansas City Royals,Chicago White Sox,54.43,0.33,0.6,0.5,45.57,0.0,0.4,0.4
+26-09-2014,Kansas City Royals,Chicago White Sox,54.72,0.0,0.4,0.4,45.28,0.0,0.2,0.4
+27-09-2014,Kansas City Royals,Chicago White Sox,55.0,0.33,0.4,0.5,45.0,0.0,0.0,0.3
+28-09-2014,Kansas City Royals,Chicago White Sox,54.66,0.33,0.4,0.5,45.34,0.0,0.0,0.3
+04-04-2014,Philadelphia Phillies,Chicago Cubs,33.33,0.0,nan,nan,33.33,0.0,nan,nan
+05-04-2014,Philadelphia Phillies,Chicago Cubs,50.0,0.0,0.2,nan,25.0,0.33,0.2,nan
+06-04-2014,Philadelphia Phillies,Chicago Cubs,60.0,0.33,0.2,nan,20.0,0.0,0.2,nan
+08-04-2014,Pittsburgh Pirates,Chicago Cubs,66.67,0.0,0.2,nan,33.33,0.0,0.2,nan
+09-04-2014,Pittsburgh Pirates,Chicago Cubs,71.43,0.33,0.4,nan,28.57,0.33,0.2,nan
+10-04-2014,Pittsburgh Pirates,Chicago Cubs,62.5,0.33,0.4,nan,37.5,0.0,0.2,nan
+18-04-2014,Cincinnati Reds,Chicago Cubs,40.0,0.33,0.4,0.3,28.57,0.0,0.0,0.3
+19-04-2014,Cincinnati Reds,Chicago Cubs,43.75,0.33,0.4,0.4,26.67,0.0,0.0,0.2
+20-04-2014,Cincinnati Reds,Chicago Cubs,41.18,0.33,0.6,0.5,31.25,0.0,0.0,0.2
+21-04-2014,Arizona Diamondbacks,Chicago Cubs,23.81,0.0,0.2,0.1,29.41,0.33,0.2,0.2
+22-04-2014,Arizona Diamondbacks,Chicago Cubs,22.73,0.0,0.2,0.1,33.33,0.0,0.2,0.2
+23-04-2014,Arizona Diamondbacks,Chicago Cubs,21.74,0.0,0.0,0.1,36.84,0.33,0.4,0.2
+24-04-2014,Arizona Diamondbacks,Chicago Cubs,25.0,0.0,0.0,0.1,35.0,0.33,0.4,0.3
+02-05-2014,St. Louis Cardinals,Chicago Cubs,51.72,0.0,0.2,0.3,34.62,0.0,0.2,0.3
+03-05-2014,St. Louis Cardinals,Chicago Cubs,50.0,0.33,0.2,0.3,37.04,0.33,0.4,0.3
+04-05-2014,St. Louis Cardinals,Chicago Cubs,48.39,0.0,0.2,0.3,39.29,0.33,0.4,0.3
+05-05-2014,Chicago White Sox,Chicago Cubs,46.88,0.0,0.0,0.3,37.93,0.33,0.6,0.4
+06-05-2014,Chicago White Sox,Chicago Cubs,48.48,0.33,0.2,0.3,36.67,0.0,0.4,0.4
+16-05-2014,Milwaukee Brewers,Chicago Cubs,63.41,0.0,0.4,0.4,33.33,0.0,0.2,0.2
+17-05-2014,Milwaukee Brewers,Chicago Cubs,64.29,0.33,0.4,0.4,32.5,0.0,0.2,0.2
+18-05-2014,Milwaukee Brewers,Chicago Cubs,62.79,0.33,0.4,0.5,34.15,0.0,0.0,0.2
+20-05-2014,New York Yankees,Chicago Cubs,53.49,0.33,0.6,0.4,35.71,0.33,0.2,0.2
+21-05-2014,New York Yankees,Chicago Cubs,52.27,0.0,0.4,0.4,37.21,0.33,0.4,0.3
+03-06-2014,New York Mets,Chicago Cubs,49.12,0.33,0.4,0.6,37.04,0.33,0.2,0.3
+04-06-2014,New York Mets,Chicago Cubs,48.28,0.33,0.6,0.6,38.18,0.0,0.2,0.3
+05-06-2014,New York Mets,Chicago Cubs,47.46,0.0,0.4,0.6,39.29,0.33,0.4,0.3
+06-06-2014,Miami Marlins,Chicago Cubs,53.33,0.33,0.6,0.5,40.35,0.33,0.4,0.4
+07-06-2014,Miami Marlins,Chicago Cubs,52.46,0.33,0.6,0.5,41.38,0.33,0.6,0.4
+08-06-2014,Miami Marlins,Chicago Cubs,51.61,0.0,0.4,0.4,42.37,0.33,0.6,0.5
+20-06-2014,Pittsburgh Pirates,Chicago Cubs,48.61,0.0,0.0,0.4,42.86,0.0,0.4,0.4
+21-06-2014,Pittsburgh Pirates,Chicago Cubs,47.95,0.33,0.2,0.5,43.66,0.33,0.4,0.4
+22-06-2014,Pittsburgh Pirates,Chicago Cubs,48.65,0.0,0.2,0.4,43.06,0.33,0.4,0.5
+23-06-2014,Cincinnati Reds,Chicago Cubs,50.0,0.33,0.2,0.5,42.47,0.0,0.4,0.5
+24-06-2014,Cincinnati Reds,Chicago Cubs,50.67,0.33,0.4,0.5,41.89,0.0,0.2,0.4
+25-06-2014,Cincinnati Reds,Chicago Cubs,50.0,0.33,0.6,0.6,42.67,0.0,0.0,0.4
+26-06-2014,Washington Nationals,Chicago Cubs,53.25,0.33,0.6,0.6,42.11,0.33,0.2,0.4
+27-06-2014,Washington Nationals,Chicago Cubs,52.56,0.0,0.4,0.5,42.86,0.0,0.2,0.3
+11-07-2014,Atlanta Braves,Chicago Cubs,54.35,0.0,0.0,0.4,42.86,0.0,0.0,0.2
+12-07-2014,Atlanta Braves,Chicago Cubs,53.76,0.33,0.2,0.4,43.48,0.33,0.2,0.2
+13-07-2014,Atlanta Braves,Chicago Cubs,54.26,0.0,0.2,0.3,43.01,0.33,0.4,0.2
+22-07-2014,San Diego Padres,Chicago Cubs,43.88,0.33,0.2,0.2,41.24,0.0,0.0,0.2
+23-07-2014,San Diego Padres,Chicago Cubs,43.43,0.33,0.4,0.3,41.84,0.0,0.0,0.2
+24-07-2014,San Diego Padres,Chicago Cubs,44.0,0.0,0.4,0.3,41.41,0.33,0.2,0.3
+25-07-2014,St. Louis Cardinals,Chicago Cubs,53.47,0.0,0.2,0.4,41.0,0.0,0.2,0.2
+26-07-2014,St. Louis Cardinals,Chicago Cubs,52.94,0.0,0.0,0.4,41.58,0.0,0.2,0.1
+27-07-2014,St. Louis Cardinals,Chicago Cubs,53.4,0.0,0.0,0.3,41.18,0.33,0.2,0.2
+28-07-2014,Colorado Rockies,Chicago Cubs,40.95,0.33,0.6,0.3,40.78,0.0,0.2,0.2
+29-07-2014,Colorado Rockies,Chicago Cubs,40.57,0.0,0.4,0.3,41.35,0.0,0.2,0.2
+30-07-2014,Colorado Rockies,Chicago Cubs,40.19,0.0,0.2,0.3,41.9,0.33,0.2,0.3
+31-07-2014,Colorado Rockies,Chicago Cubs,40.74,0.0,0.0,0.3,41.51,0.33,0.4,0.4
+08-08-2014,Tampa Bay Rays,Chicago Cubs,48.25,0.0,0.0,0.3,43.36,0.0,0.4,0.5
+09-08-2014,Tampa Bay Rays,Chicago Cubs,48.7,0.33,0.2,0.3,42.98,0.33,0.4,0.5
+10-08-2014,Tampa Bay Rays,Chicago Cubs,49.14,0.33,0.4,0.3,42.61,0.0,0.2,0.5
+11-08-2014,Milwaukee Brewers,Chicago Cubs,55.08,0.33,0.6,0.5,43.1,0.0,0.2,0.4
+12-08-2014,Milwaukee Brewers,Chicago Cubs,55.46,0.0,0.4,0.4,42.74,0.33,0.2,0.4
+13-08-2014,Milwaukee Brewers,Chicago Cubs,55.0,0.33,0.4,0.5,43.22,0.0,0.2,0.4
+14-08-2014,Milwaukee Brewers,Chicago Cubs,54.55,0.0,0.2,0.5,43.7,0.33,0.4,0.4
+19-08-2014,San Francisco Giants,Chicago Cubs,53.23,0.33,0.4,0.2,43.55,0.33,0.2,0.4
+20-08-2014,San Francisco Giants,Chicago Cubs,52.8,0.33,0.4,0.3,44.0,0.33,0.4,0.4
+21-08-2014,San Francisco Giants,Chicago Cubs,53.17,0.0,0.4,0.3,43.65,0.33,0.6,0.5
+22-08-2014,Baltimore Orioles,Chicago Cubs,58.4,0.33,0.6,0.5,43.31,0.0,0.4,0.4
+23-08-2014,Baltimore Orioles,Chicago Cubs,57.94,0.33,0.6,0.6,43.75,0.0,0.2,0.3
+24-08-2014,Baltimore Orioles,Chicago Cubs,57.48,0.0,0.4,0.5,44.19,0.33,0.2,0.4
+01-09-2014,Milwaukee Brewers,Chicago Cubs,53.68,0.0,0.0,0.2,44.53,0.0,0.4,0.5
+02-09-2014,Milwaukee Brewers,Chicago Cubs,53.28,0.0,0.0,0.2,44.93,0.0,0.2,0.4
+03-09-2014,Milwaukee Brewers,Chicago Cubs,52.9,0.0,0.0,0.2,45.32,0.33,0.2,0.4
+05-09-2014,Pittsburgh Pirates,Chicago Cubs,51.08,0.0,0.0,0.4,45.71,0.33,0.4,0.4
+06-09-2014,Pittsburgh Pirates,Chicago Cubs,51.43,0.0,0.0,0.4,45.39,0.33,0.6,0.5
+07-09-2014,Pittsburgh Pirates,Chicago Cubs,51.77,0.33,0.2,0.4,45.07,0.0,0.4,0.5
+15-09-2014,Cincinnati Reds,Chicago Cubs,47.33,0.33,0.4,0.5,43.62,0.33,0.2,0.1
+16-09-2014,Cincinnati Reds,Chicago Cubs,47.02,0.0,0.2,0.4,44.0,0.0,0.2,0.1
+17-09-2014,Cincinnati Reds,Chicago Cubs,46.71,0.0,0.2,0.4,44.37,0.33,0.4,0.2
+18-09-2014,Los Angeles Dodgers,Chicago Cubs,56.58,0.0,0.4,0.5,44.74,0.33,0.4,0.3
+19-09-2014,Los Angeles Dodgers,Chicago Cubs,56.86,0.0,0.2,0.4,44.44,0.33,0.6,0.4
+20-09-2014,Los Angeles Dodgers,Chicago Cubs,57.14,0.33,0.2,0.5,44.16,0.0,0.4,0.4
+21-09-2014,Los Angeles Dodgers,Chicago Cubs,56.77,0.33,0.4,0.5,44.52,0.0,0.2,0.4
+22-09-2014,St. Louis Cardinals,Chicago Cubs,55.77,0.33,0.6,0.7,44.23,0.33,0.2,0.5
+23-09-2014,St. Louis Cardinals,Chicago Cubs,56.05,0.0,0.4,0.6,43.95,0.0,0.2,0.4
+24-09-2014,St. Louis Cardinals,Chicago Cubs,55.7,0.33,0.4,0.6,44.3,0.0,0.2,0.4
+31-03-2014,St. Louis Cardinals,Cincinnati Reds,0,0.0,0.2,0.4,0,0.33,0.4,0.4
+02-04-2014,St. Louis Cardinals,Cincinnati Reds,100.0,nan,nan,nan,0.0,nan,nan,nan
+03-04-2014,St. Louis Cardinals,Cincinnati Reds,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+11-04-2014,Tampa Bay Rays,Cincinnati Reds,50.0,0.33,0.2,0.4,33.33,0.0,0.2,0.2
+12-04-2014,Tampa Bay Rays,Cincinnati Reds,54.55,0.0,0.2,0.4,30.0,0.33,0.2,0.3
+13-04-2014,Tampa Bay Rays,Cincinnati Reds,58.33,0.33,0.4,0.5,27.27,0.0,0.2,0.2
+14-04-2014,Pittsburgh Pirates,Cincinnati Reds,50.0,0.0,0.2,0.4,33.33,0.0,0.2,0.2
+15-04-2014,Pittsburgh Pirates,Cincinnati Reds,53.85,0.0,0.0,0.3,30.77,0.33,0.2,0.3
+16-04-2014,Pittsburgh Pirates,Cincinnati Reds,50.0,0.33,0.2,0.4,35.71,0.0,0.2,0.3
+29-04-2014,Chicago Cubs,Cincinnati Reds,33.33,0.0,0.0,0.3,44.0,0.0,0.2,0.4
+30-04-2014,Chicago Cubs,Cincinnati Reds,32.0,0.33,0.2,0.3,46.15,0.0,0.0,0.4
+01-05-2014,Milwaukee Brewers,Cincinnati Reds,71.43,0.33,0.4,0.6,44.44,0.33,0.2,0.4
+02-05-2014,Milwaukee Brewers,Cincinnati Reds,68.97,0.0,0.4,0.5,46.43,0.0,0.2,0.4
+03-05-2014,Milwaukee Brewers,Cincinnati Reds,70.0,0.0,0.2,0.5,44.83,0.33,0.4,0.4
+04-05-2014,Milwaukee Brewers,Cincinnati Reds,67.74,0.33,0.2,0.5,46.67,0.0,0.2,0.3
+09-05-2014,Colorado Rockies,Cincinnati Reds,59.46,0.33,0.6,0.6,45.45,0.0,0.4,0.4
+10-05-2014,Colorado Rockies,Cincinnati Reds,57.89,0.0,0.4,0.6,47.06,0.0,0.2,0.4
+11-05-2014,Colorado Rockies,Cincinnati Reds,58.97,0.0,0.2,0.5,45.71,0.33,0.2,0.4
+13-05-2014,San Diego Padres,Cincinnati Reds,46.15,0.33,0.4,0.4,47.22,0.0,0.2,0.4
+23-05-2014,St. Louis Cardinals,Cincinnati Reds,55.32,0.33,0.4,0.6,46.67,0.0,0.2,0.3
+24-05-2014,St. Louis Cardinals,Cincinnati Reds,54.17,0.33,0.6,0.7,47.83,0.33,0.4,0.4
+25-05-2014,St. Louis Cardinals,Cincinnati Reds,55.1,0.0,0.4,0.6,46.81,0.33,0.4,0.4
+03-06-2014,San Francisco Giants,Cincinnati Reds,65.52,0.0,0.4,0.6,47.27,0.33,0.4,0.3
+04-06-2014,San Francisco Giants,Cincinnati Reds,64.41,0.33,0.4,0.6,48.21,0.33,0.6,0.4
+05-06-2014,San Francisco Giants,Cincinnati Reds,65.0,0.0,0.2,0.5,47.37,0.33,0.6,0.5
+06-06-2014,Philadelphia Phillies,Cincinnati Reds,41.38,0.0,0.0,0.2,46.55,0.0,0.4,0.5
+07-06-2014,Philadelphia Phillies,Cincinnati Reds,42.37,0.0,0.0,0.1,45.76,0.0,0.2,0.5
+08-06-2014,Philadelphia Phillies,Cincinnati Reds,41.67,0.33,0.2,0.2,46.67,0.0,0.0,0.4
+09-06-2014,Los Angeles Dodgers,Cincinnati Reds,51.56,0.0,0.2,0.3,47.54,0.33,0.2,0.5
+10-06-2014,Los Angeles Dodgers,Cincinnati Reds,52.31,0.33,0.4,0.4,46.77,0.33,0.4,0.5
+11-06-2014,Los Angeles Dodgers,Cincinnati Reds,53.03,0.33,0.4,0.4,46.03,0.0,0.4,0.4
+12-06-2014,Los Angeles Dodgers,Cincinnati Reds,52.24,0.33,0.6,0.5,46.88,0.0,0.2,0.3
+20-06-2014,Toronto Blue Jays,Cincinnati Reds,55.41,0.0,0.2,0.2,49.3,0.33,0.6,0.6
+21-06-2014,Toronto Blue Jays,Cincinnati Reds,56.0,0.0,0.0,0.2,48.61,0.0,0.4,0.6
+22-06-2014,Toronto Blue Jays,Cincinnati Reds,55.26,0.33,0.2,0.3,49.32,0.0,0.2,0.5
+04-07-2014,Milwaukee Brewers,Cincinnati Reds,59.3,0.0,0.2,0.4,51.19,0.0,0.2,0.5
+05-07-2014,Milwaukee Brewers,Cincinnati Reds,58.62,0.0,0.0,0.4,51.76,0.0,0.0,0.5
+06-07-2014,Milwaukee Brewers,Cincinnati Reds,59.09,0.0,0.0,0.4,51.16,0.33,0.2,0.5
+07-07-2014,Chicago Cubs,Cincinnati Reds,44.19,0.0,0.4,0.5,51.72,0.0,0.2,0.4
+09-07-2014,Chicago Cubs,Cincinnati Reds,42.7,0.0,0.0,0.4,53.33,0.33,0.6,0.4
+10-07-2014,Chicago Cubs,Cincinnati Reds,42.22,0.0,0.0,0.3,53.85,0.33,0.6,0.5
+11-07-2014,Pittsburgh Pirates,Cincinnati Reds,52.17,0.0,0.0,0.4,53.26,0.33,0.6,0.6
+12-07-2014,Pittsburgh Pirates,Cincinnati Reds,51.61,0.33,0.2,0.4,53.76,0.0,0.4,0.6
+13-07-2014,Pittsburgh Pirates,Cincinnati Reds,52.13,0.0,0.2,0.4,53.19,0.33,0.4,0.6
+25-07-2014,Washington Nationals,Cincinnati Reds,55.56,0.33,0.6,0.6,50.5,0.0,0.0,0.2
+26-07-2014,Washington Nationals,Cincinnati Reds,56.0,0.0,0.4,0.6,50.0,0.0,0.0,0.1
+27-07-2014,Washington Nationals,Cincinnati Reds,55.45,0.33,0.4,0.6,50.49,0.0,0.0,0.1
+28-07-2014,Arizona Diamondbacks,Cincinnati Reds,42.86,0.33,0.2,0.5,50.0,0.33,0.2,0.1
+29-07-2014,Arizona Diamondbacks,Cincinnati Reds,43.4,0.0,0.2,0.4,49.52,0.0,0.2,0.1
+30-07-2014,Arizona Diamondbacks,Cincinnati Reds,42.99,0.33,0.4,0.4,50.0,0.0,0.2,0.1
+06-08-2014,Cleveland Indians,Cincinnati Reds,50.44,0.33,0.6,0.6,50.44,0.0,0.2,0.4
+07-08-2014,Cleveland Indians,Cincinnati Reds,50.0,0.0,0.4,0.5,50.88,0.33,0.4,0.5
+08-08-2014,Miami Marlins,Cincinnati Reds,48.25,0.0,0.2,0.3,51.3,0.33,0.4,0.5
+09-08-2014,Miami Marlins,Cincinnati Reds,48.7,0.0,0.2,0.2,50.86,0.33,0.6,0.6
+10-08-2014,Miami Marlins,Cincinnati Reds,49.14,0.33,0.2,0.3,50.43,0.0,0.4,0.5
+12-08-2014,Boston Red Sox,Cincinnati Reds,44.44,0.0,0.2,0.3,50.85,0.0,0.2,0.4
+13-08-2014,Boston Red Sox,Cincinnati Reds,44.92,0.33,0.4,0.3,50.42,0.33,0.2,0.5
+21-08-2014,Atlanta Braves,Cincinnati Reds,51.97,0.33,0.6,0.6,48.03,0.0,0.0,0.1
+22-08-2014,Atlanta Braves,Cincinnati Reds,52.34,0.0,0.4,0.6,47.66,0.0,0.0,0.1
+23-08-2014,Atlanta Braves,Cincinnati Reds,52.71,0.33,0.4,0.6,47.29,0.0,0.0,0.1
+24-08-2014,Atlanta Braves,Cincinnati Reds,52.31,0.33,0.4,0.7,47.69,0.0,0.0,0.1
+26-08-2014,Chicago Cubs,Cincinnati Reds,44.62,0.33,0.4,0.5,48.09,0.33,0.2,0.1
+27-08-2014,Chicago Cubs,Cincinnati Reds,45.04,0.33,0.6,0.6,47.73,0.33,0.4,0.2
+28-08-2014,Chicago Cubs,Cincinnati Reds,44.7,0.33,0.6,0.6,48.12,0.0,0.4,0.2
+05-09-2014,New York Mets,Cincinnati Reds,47.14,0.33,0.4,0.4,47.14,0.0,0.2,0.3
+06-09-2014,New York Mets,Cincinnati Reds,47.52,0.33,0.4,0.4,46.81,0.0,0.0,0.3
+07-09-2014,New York Mets,Cincinnati Reds,47.18,0.33,0.6,0.5,47.18,0.0,0.0,0.2
+08-09-2014,St. Louis Cardinals,Cincinnati Reds,55.24,0.33,0.4,0.7,46.85,0.33,0.2,0.2
+09-09-2014,St. Louis Cardinals,Cincinnati Reds,55.56,0.33,0.4,0.7,46.53,0.0,0.2,0.2
+10-09-2014,St. Louis Cardinals,Cincinnati Reds,55.17,0.33,0.6,0.7,46.9,0.0,0.2,0.2
+11-09-2014,St. Louis Cardinals,Cincinnati Reds,54.79,0.0,0.4,0.6,47.26,0.33,0.2,0.2
+23-09-2014,Milwaukee Brewers,Cincinnati Reds,51.28,0.33,0.2,0.4,46.15,0.0,0.0,0.1
+24-09-2014,Milwaukee Brewers,Cincinnati Reds,50.96,0.0,0.2,0.3,46.5,0.33,0.2,0.2
+25-09-2014,Milwaukee Brewers,Cincinnati Reds,51.27,0.0,0.2,0.3,46.2,0.33,0.4,0.2
+26-09-2014,Pittsburgh Pirates,Cincinnati Reds,54.72,0.0,0.4,0.6,46.54,0.0,0.4,0.2
+27-09-2014,Pittsburgh Pirates,Cincinnati Reds,55.0,0.33,0.4,0.6,46.25,0.33,0.4,0.3
+28-09-2014,Pittsburgh Pirates,Cincinnati Reds,54.66,0.33,0.4,0.6,46.58,0.0,0.2,0.3
+04-04-2014,Minnesota Twins,Cleveland Indians,33.33,0.0,nan,nan,66.67,0.0,nan,nan
+05-04-2014,Minnesota Twins,Cleveland Indians,25.0,0.33,0.2,nan,75.0,0.33,0.4,nan
+06-04-2014,Minnesota Twins,Cleveland Indians,40.0,0.0,0.2,nan,60.0,0.33,0.4,nan
+08-04-2014,San Diego Padres,Cleveland Indians,33.33,0.0,0.0,nan,50.0,0.0,0.4,nan
+18-04-2014,Toronto Blue Jays,Cleveland Indians,50.0,0.0,0.4,0.5,46.67,0.33,0.4,0.4
+19-04-2014,Toronto Blue Jays,Cleveland Indians,52.94,0.0,0.2,0.4,43.75,0.0,0.2,0.3
+20-04-2014,Toronto Blue Jays,Cleveland Indians,55.56,0.33,0.2,0.4,41.18,0.0,0.2,0.2
+21-04-2014,Kansas City Royals,Cleveland Indians,52.94,0.33,0.6,0.5,44.44,0.0,0.0,0.2
+22-04-2014,Kansas City Royals,Cleveland Indians,50.0,0.0,0.4,0.5,47.37,0.33,0.2,0.3
+23-04-2014,Kansas City Royals,Cleveland Indians,52.63,0.0,0.2,0.5,45.0,0.33,0.4,0.4
+24-04-2014,Kansas City Royals,Cleveland Indians,50.0,0.33,0.2,0.6,47.62,0.0,0.4,0.3
+02-05-2014,Chicago White Sox,Cleveland Indians,48.28,0.0,0.4,0.4,39.29,0.0,0.0,0.2
+03-05-2014,Chicago White Sox,Cleveland Indians,46.67,0.0,0.2,0.4,41.38,0.0,0.0,0.2
+04-05-2014,Chicago White Sox,Cleveland Indians,45.16,0.0,0.0,0.3,43.33,0.33,0.2,0.2
+05-05-2014,Minnesota Twins,Cleveland Indians,48.28,0.33,0.2,0.3,41.94,0.33,0.4,0.2
+06-05-2014,Minnesota Twins,Cleveland Indians,50.0,0.33,0.4,0.3,40.62,0.0,0.4,0.2
+07-05-2014,Minnesota Twins,Cleveland Indians,48.39,0.33,0.6,0.4,42.42,0.0,0.2,0.2
+08-05-2014,Minnesota Twins,Cleveland Indians,46.88,0.0,0.4,0.3,44.12,0.33,0.2,0.3
+16-05-2014,Oakland Athletics,Cleveland Indians,60.98,0.33,0.6,0.6,46.34,0.33,0.4,0.6
+17-05-2014,Oakland Athletics,Cleveland Indians,61.9,0.0,0.4,0.6,45.24,0.0,0.2,0.5
+18-05-2014,Oakland Athletics,Cleveland Indians,62.79,0.33,0.4,0.7,44.19,0.0,0.2,0.4
+19-05-2014,Detroit Tigers,Cleveland Indians,69.23,0.33,0.6,0.6,43.18,0.0,0.0,0.3
+20-05-2014,Detroit Tigers,Cleveland Indians,67.5,0.33,0.6,0.7,44.44,0.0,0.0,0.2
+21-05-2014,Detroit Tigers,Cleveland Indians,65.85,0.0,0.4,0.6,45.65,0.33,0.2,0.3
+30-05-2014,Colorado Rockies,Cleveland Indians,51.85,0.33,0.2,0.3,44.44,0.0,0.0,0.4
+31-05-2014,Colorado Rockies,Cleveland Indians,50.91,0.0,0.2,0.2,45.45,0.0,0.0,0.3
+01-06-2014,Colorado Rockies,Cleveland Indians,50.0,0.0,0.2,0.2,46.43,0.33,0.2,0.3
+02-06-2014,Boston Red Sox,Cleveland Indians,48.21,0.33,0.6,0.6,47.37,0.33,0.4,0.3
+03-06-2014,Boston Red Sox,Cleveland Indians,47.37,0.33,0.6,0.7,48.28,0.33,0.6,0.4
+04-06-2014,Boston Red Sox,Cleveland Indians,46.55,0.0,0.4,0.7,49.15,0.33,0.6,0.4
+16-06-2014,Los Angeles Angels of Anaheim,Cleveland Indians,54.41,0.33,0.2,0.6,50.0,0.33,0.2,0.4
+17-06-2014,Los Angeles Angels of Anaheim,Cleveland Indians,53.62,0.0,0.2,0.5,50.7,0.33,0.4,0.4
+19-06-2014,Los Angeles Angels of Anaheim,Cleveland Indians,54.29,0.0,0.2,0.4,50.0,0.33,0.6,0.4
+20-06-2014,Detroit Tigers,Cleveland Indians,53.62,0.0,0.0,0.3,50.68,0.0,0.4,0.3
+21-06-2014,Detroit Tigers,Cleveland Indians,54.29,0.33,0.2,0.4,50.0,0.33,0.4,0.4
+22-06-2014,Detroit Tigers,Cleveland Indians,54.93,0.33,0.4,0.4,49.33,0.0,0.2,0.4
+04-07-2014,Kansas City Royals,Cleveland Indians,52.38,0.0,0.4,0.4,48.81,0.33,0.2,0.3
+05-07-2014,Kansas City Royals,Cleveland Indians,52.94,0.33,0.4,0.4,48.24,0.33,0.4,0.4
+06-07-2014,Kansas City Royals,Cleveland Indians,52.33,0.33,0.4,0.5,48.84,0.0,0.4,0.4
+07-07-2014,New York Yankees,Cleveland Indians,50.57,0.0,0.4,0.2,49.43,0.33,0.4,0.4
+08-07-2014,New York Yankees,Cleveland Indians,51.14,0.33,0.4,0.3,48.86,0.33,0.4,0.5
+09-07-2014,New York Yankees,Cleveland Indians,50.56,0.33,0.4,0.4,49.44,0.0,0.4,0.4
+10-07-2014,New York Yankees,Cleveland Indians,51.11,0.0,0.4,0.4,48.89,0.33,0.4,0.5
+11-07-2014,Chicago White Sox,Cleveland Indians,47.31,0.0,0.4,0.5,49.45,0.0,0.2,0.5
+12-07-2014,Chicago White Sox,Cleveland Indians,46.81,0.0,0.2,0.5,50.0,0.33,0.4,0.5
+13-07-2014,Chicago White Sox,Cleveland Indians,47.37,0.0,0.0,0.4,49.46,0.33,0.4,0.5
+29-07-2014,Seattle Mariners,Cleveland Indians,51.43,0.33,0.2,0.3,49.52,0.0,0.0,0.2
+30-07-2014,Seattle Mariners,Cleveland Indians,51.89,0.0,0.2,0.2,49.06,0.33,0.2,0.2
+31-07-2014,Seattle Mariners,Cleveland Indians,51.4,0.33,0.4,0.3,49.53,0.0,0.2,0.2
+01-08-2014,Texas Rangers,Cleveland Indians,39.81,0.0,0.2,0.2,49.07,0.33,0.4,0.3
+02-08-2014,Texas Rangers,Cleveland Indians,39.45,0.33,0.4,0.3,49.54,0.0,0.2,0.2
+03-08-2014,Texas Rangers,Cleveland Indians,39.09,0.0,0.2,0.3,50.0,0.33,0.4,0.3
+04-08-2014,Cincinnati Reds,Cleveland Indians,50.45,0.0,0.4,0.4,50.45,0.33,0.4,0.4
+05-08-2014,Cincinnati Reds,Cleveland Indians,50.0,0.33,0.4,0.4,50.89,0.33,0.6,0.5
+15-08-2014,Baltimore Orioles,Cleveland Indians,57.98,0.33,0.4,0.6,50.0,0.33,0.6,0.4
+16-08-2014,Baltimore Orioles,Cleveland Indians,57.5,0.33,0.4,0.6,50.41,0.0,0.4,0.3
+17-08-2014,Baltimore Orioles,Cleveland Indians,57.02,0.0,0.4,0.5,50.82,0.33,0.4,0.4
+22-08-2014,Houston Astros,Cleveland Indians,42.19,0.33,0.6,0.5,50.79,0.33,0.4,0.6
+23-08-2014,Houston Astros,Cleveland Indians,42.64,0.0,0.4,0.4,50.39,0.0,0.4,0.5
+24-08-2014,Houston Astros,Cleveland Indians,42.31,0.33,0.4,0.5,50.78,0.0,0.2,0.4
+01-09-2014,Detroit Tigers,Cleveland Indians,54.41,0.33,0.4,0.6,52.59,0.33,0.6,0.6
+02-09-2014,Detroit Tigers,Cleveland Indians,54.74,0.0,0.2,0.5,52.21,0.33,0.6,0.7
+03-09-2014,Detroit Tigers,Cleveland Indians,55.07,0.33,0.4,0.5,51.82,0.0,0.4,0.6
+04-09-2014,Detroit Tigers,Cleveland Indians,54.68,0.33,0.4,0.5,52.17,0.0,0.2,0.5
+05-09-2014,Chicago White Sox,Cleveland Indians,45.32,0.33,0.4,0.4,51.8,0.33,0.2,0.5
+06-09-2014,Chicago White Sox,Cleveland Indians,45.0,0.0,0.4,0.4,52.14,0.0,0.2,0.5
+07-09-2014,Chicago White Sox,Cleveland Indians,44.68,0.0,0.2,0.3,52.48,0.33,0.4,0.5
+08-09-2014,Los Angeles Angels of Anaheim,Cleveland Indians,61.27,0.33,0.6,0.6,52.82,0.33,0.4,0.5
+09-09-2014,Minnesota Twins,Cleveland Indians,42.66,0.0,0.0,0.2,52.45,0.33,0.6,0.5
+22-09-2014,Kansas City Royals,Cleveland Indians,54.19,0.0,0.2,0.3,52.56,0.33,0.4,0.4
+23-09-2014,Kansas City Royals,Cleveland Indians,54.49,0.33,0.2,0.4,52.23,0.33,0.4,0.5
+24-09-2014,Kansas City Royals,Cleveland Indians,54.78,0.33,0.4,0.4,51.9,0.0,0.4,0.5
+26-09-2014,Tampa Bay Rays,Cleveland Indians,47.8,0.0,0.2,0.4,52.2,0.0,0.2,0.5
+27-09-2014,Tampa Bay Rays,Cleveland Indians,47.5,0.0,0.2,0.3,52.5,0.33,0.2,0.5
+28-09-2014,Tampa Bay Rays,Cleveland Indians,47.83,0.0,0.0,0.2,52.17,0.33,0.4,0.5
+04-04-2014,Arizona Diamondbacks,Colorado Rockies,16.67,0.0,0.2,nan,25.0,0.33,0.2,nan
+05-04-2014,Arizona Diamondbacks,Colorado Rockies,14.29,0.0,0.2,nan,40.0,0.0,0.2,nan
+06-04-2014,Arizona Diamondbacks,Colorado Rockies,12.5,0.0,0.0,nan,50.0,0.33,0.4,nan
+07-04-2014,Chicago White Sox,Colorado Rockies,50.0,0.0,0.0,nan,42.86,0.33,0.4,nan
+08-04-2014,Chicago White Sox,Colorado Rockies,42.86,0.33,0.2,nan,50.0,0.0,0.4,nan
+09-04-2014,Chicago White Sox,Colorado Rockies,50.0,0.0,0.2,nan,44.44,0.33,0.4,0.4
+18-04-2014,Philadelphia Phillies,Colorado Rockies,46.67,0.0,0.2,0.3,47.06,0.0,0.2,0.3
+19-04-2014,Philadelphia Phillies,Colorado Rockies,43.75,0.33,0.2,0.4,50.0,0.33,0.4,0.4
+20-04-2014,Philadelphia Phillies,Colorado Rockies,41.18,0.0,0.2,0.4,52.63,0.33,0.4,0.4
+21-04-2014,San Francisco Giants,Colorado Rockies,57.89,0.0,0.0,0.4,50.0,0.33,0.6,0.5
+22-04-2014,San Francisco Giants,Colorado Rockies,55.0,0.33,0.2,0.4,52.38,0.0,0.4,0.4
+23-04-2014,San Francisco Giants,Colorado Rockies,52.38,0.0,0.2,0.4,54.55,0.33,0.4,0.5
+01-05-2014,New York Mets,Colorado Rockies,57.69,0.33,0.4,0.6,55.17,0.33,0.6,0.6
+02-05-2014,New York Mets,Colorado Rockies,55.56,0.33,0.4,0.6,56.67,0.0,0.4,0.5
+03-05-2014,New York Mets,Colorado Rockies,53.57,0.0,0.4,0.5,58.06,0.33,0.4,0.5
+04-05-2014,New York Mets,Colorado Rockies,51.72,0.0,0.2,0.5,59.38,0.33,0.4,0.6
+05-05-2014,Texas Rangers,Colorado Rockies,54.84,0.0,0.2,0.2,57.58,0.33,0.6,0.6
+06-05-2014,Texas Rangers,Colorado Rockies,53.12,0.33,0.4,0.3,58.82,0.0,0.4,0.6
+16-05-2014,San Diego Padres,Colorado Rockies,47.62,0.0,0.4,0.4,54.76,0.0,0.2,0.4
+17-05-2014,San Diego Padres,Colorado Rockies,46.51,0.33,0.4,0.5,55.81,0.0,0.0,0.3
+18-05-2014,San Diego Padres,Colorado Rockies,47.73,0.0,0.2,0.5,54.55,0.33,0.2,0.3
+20-05-2014,San Francisco Giants,Colorado Rockies,62.22,0.0,0.2,0.4,55.56,0.0,0.2,0.2
+21-05-2014,San Francisco Giants,Colorado Rockies,60.87,0.33,0.2,0.5,56.52,0.33,0.4,0.3
+22-05-2014,San Francisco Giants,Colorado Rockies,61.7,0.0,0.2,0.4,55.32,0.33,0.4,0.4
+03-06-2014,Arizona Diamondbacks,Colorado Rockies,38.98,0.0,0.2,0.4,49.12,0.0,0.0,0.2
+04-06-2014,Arizona Diamondbacks,Colorado Rockies,40.0,0.0,0.0,0.3,48.28,0.0,0.0,0.2
+05-06-2014,Arizona Diamondbacks,Colorado Rockies,40.98,0.33,0.2,0.4,47.46,0.0,0.0,0.1
+06-06-2014,Los Angeles Dodgers,Colorado Rockies,50.82,0.0,0.2,0.3,46.67,0.0,0.0,0.1
+07-06-2014,Los Angeles Dodgers,Colorado Rockies,51.61,0.0,0.2,0.2,45.9,0.0,0.0,0.1
+08-06-2014,Los Angeles Dodgers,Colorado Rockies,50.79,0.33,0.2,0.3,46.77,0.0,0.0,0.0
+09-06-2014,Atlanta Braves,Colorado Rockies,52.46,0.0,0.2,0.4,46.03,0.33,0.2,0.1
+10-06-2014,Atlanta Braves,Colorado Rockies,53.23,0.0,0.2,0.4,45.31,0.0,0.2,0.1
+11-06-2014,Atlanta Braves,Colorado Rockies,53.97,0.33,0.2,0.4,44.62,0.0,0.2,0.1
+12-06-2014,Atlanta Braves,Colorado Rockies,53.12,0.33,0.4,0.4,45.45,0.0,0.0,0.1
+20-06-2014,Milwaukee Brewers,Colorado Rockies,59.46,0.0,0.4,0.5,46.58,0.0,0.2,0.5
+21-06-2014,Milwaukee Brewers,Colorado Rockies,60.0,0.33,0.4,0.5,45.95,0.0,0.0,0.5
+22-06-2014,Milwaukee Brewers,Colorado Rockies,60.53,0.33,0.4,0.5,45.33,0.0,0.0,0.4
+23-06-2014,St. Louis Cardinals,Colorado Rockies,53.95,0.33,0.2,0.5,44.74,0.0,0.0,0.3
+24-06-2014,St. Louis Cardinals,Colorado Rockies,54.55,0.33,0.4,0.5,44.16,0.0,0.0,0.2
+25-06-2014,St. Louis Cardinals,Colorado Rockies,53.85,0.33,0.6,0.5,44.87,0.0,0.0,0.1
+03-07-2014,Los Angeles Dodgers,Colorado Rockies,55.17,0.0,0.4,0.6,41.86,0.0,0.2,0.2
+04-07-2014,Los Angeles Dodgers,Colorado Rockies,55.68,0.0,0.2,0.5,41.38,0.0,0.0,0.1
+05-07-2014,Los Angeles Dodgers,Colorado Rockies,56.18,0.33,0.2,0.5,40.91,0.0,0.0,0.1
+06-07-2014,Los Angeles Dodgers,Colorado Rockies,55.56,0.33,0.4,0.5,41.57,0.0,0.0,0.1
+07-07-2014,San Diego Padres,Colorado Rockies,44.32,0.0,0.4,0.5,41.11,0.33,0.2,0.2
+08-07-2014,San Diego Padres,Colorado Rockies,44.94,0.0,0.2,0.5,40.66,0.0,0.2,0.2
+09-07-2014,San Diego Padres,Colorado Rockies,44.44,0.33,0.2,0.6,41.3,0.0,0.2,0.1
+11-07-2014,Minnesota Twins,Colorado Rockies,46.15,0.33,0.4,0.3,41.94,0.33,0.2,0.2
+12-07-2014,Minnesota Twins,Colorado Rockies,45.65,0.33,0.6,0.4,42.55,0.33,0.4,0.3
+13-07-2014,Minnesota Twins,Colorado Rockies,46.24,0.0,0.4,0.4,42.11,0.33,0.6,0.4
+21-07-2014,Washington Nationals,Colorado Rockies,55.21,0.33,0.4,0.4,40.4,0.0,0.0,0.3
+22-07-2014,Washington Nationals,Colorado Rockies,55.67,0.33,0.4,0.5,40.0,0.0,0.0,0.3
+23-07-2014,Washington Nationals,Colorado Rockies,56.12,0.33,0.6,0.5,39.6,0.0,0.0,0.2
+25-07-2014,Pittsburgh Pirates,Colorado Rockies,53.47,0.33,0.4,0.5,40.2,0.0,0.0,0.1
+26-07-2014,Pittsburgh Pirates,Colorado Rockies,52.94,0.33,0.4,0.6,40.78,0.33,0.2,0.1
+27-07-2014,Pittsburgh Pirates,Colorado Rockies,52.43,0.0,0.4,0.5,41.35,0.33,0.4,0.2
+05-08-2014,Chicago Cubs,Colorado Rockies,42.73,0.0,0.4,0.4,39.29,0.0,0.0,0.2
+06-08-2014,Chicago Cubs,Colorado Rockies,43.24,0.33,0.4,0.5,38.94,0.0,0.0,0.1
+07-08-2014,Chicago Cubs,Colorado Rockies,42.86,0.33,0.4,0.6,39.47,0.0,0.0,0.1
+14-08-2014,Cincinnati Reds,Colorado Rockies,50.0,0.0,0.2,0.4,38.02,0.0,0.2,0.2
+15-08-2014,Cincinnati Reds,Colorado Rockies,49.59,0.0,0.2,0.4,38.52,0.0,0.0,0.2
+19-08-2014,Kansas City Royals,Colorado Rockies,55.65,0.33,0.4,0.6,39.2,0.33,0.4,0.3
+20-08-2014,Kansas City Royals,Colorado Rockies,56.0,0.33,0.4,0.6,38.89,0.33,0.4,0.4
+22-08-2014,Miami Marlins,Colorado Rockies,50.0,0.33,0.6,0.6,39.37,0.0,0.4,0.3
+23-08-2014,Miami Marlins,Colorado Rockies,50.39,0.0,0.4,0.5,39.06,0.33,0.4,0.4
+24-08-2014,Miami Marlins,Colorado Rockies,50.0,0.33,0.4,0.5,39.53,0.0,0.2,0.4
+01-09-2014,San Francisco Giants,Colorado Rockies,54.74,0.33,0.6,0.5,39.42,0.33,0.2,0.4
+02-09-2014,San Francisco Giants,Colorado Rockies,54.35,0.33,0.6,0.6,39.86,0.0,0.2,0.3
+03-09-2014,San Francisco Giants,Colorado Rockies,54.68,0.0,0.4,0.6,39.57,0.33,0.4,0.3
+05-09-2014,San Diego Padres,Colorado Rockies,47.48,0.0,0.4,0.6,40.0,0.0,0.2,0.2
+06-09-2014,San Diego Padres,Colorado Rockies,47.14,0.0,0.2,0.5,40.43,0.33,0.4,0.3
+07-09-2014,San Diego Padres,Colorado Rockies,46.81,0.0,0.0,0.4,40.85,0.33,0.4,0.4
+15-09-2014,Los Angeles Dodgers,Colorado Rockies,57.05,0.33,0.4,0.6,39.6,0.0,0.0,0.3
+16-09-2014,Los Angeles Dodgers,Colorado Rockies,57.33,0.33,0.4,0.6,39.33,0.0,0.0,0.2
+17-09-2014,Los Angeles Dodgers,Colorado Rockies,56.95,0.33,0.6,0.6,39.74,0.0,0.0,0.1
+18-09-2014,Arizona Diamondbacks,Colorado Rockies,40.79,0.0,0.4,0.3,40.13,0.33,0.2,0.1
+19-09-2014,Arizona Diamondbacks,Colorado Rockies,40.52,0.0,0.2,0.3,40.52,0.33,0.4,0.2
+20-09-2014,Arizona Diamondbacks,Colorado Rockies,40.26,0.0,0.0,0.3,40.91,0.33,0.6,0.3
+21-09-2014,Arizona Diamondbacks,Colorado Rockies,40.0,0.0,0.0,0.3,41.29,0.33,0.6,0.4
+31-03-2014,Kansas City Royals,Detroit Tigers,0,0.0,0.4,0.5,0,0.0,0.2,0.4
+02-04-2014,Kansas City Royals,Detroit Tigers,0.0,nan,nan,nan,100.0,nan,nan,nan
+04-04-2014,Baltimore Orioles,Detroit Tigers,33.33,0.0,nan,nan,100.0,0.33,nan,nan
+05-04-2014,Baltimore Orioles,Detroit Tigers,25.0,0.0,0.2,nan,100.0,0.33,nan,nan
+06-04-2014,Baltimore Orioles,Detroit Tigers,20.0,0.0,0.0,nan,100.0,0.33,0.6,nan
+16-04-2014,Cleveland Indians,Detroit Tigers,46.15,0.33,0.2,0.3,60.0,0.33,0.4,0.5
+17-04-2014,Cleveland Indians,Detroit Tigers,50.0,0.0,0.2,0.3,54.55,0.0,0.2,0.4
+18-04-2014,Los Angeles Angels of Anaheim,Detroit Tigers,46.67,0.0,0.2,0.4,58.33,0.0,0.2,0.3
+19-04-2014,Los Angeles Angels of Anaheim,Detroit Tigers,50.0,0.33,0.2,0.4,53.85,0.33,0.2,0.3
+20-04-2014,Los Angeles Angels of Anaheim,Detroit Tigers,47.06,0.33,0.4,0.5,57.14,0.0,0.2,0.3
+21-04-2014,Chicago White Sox,Detroit Tigers,47.37,0.0,0.0,0.3,60.0,0.33,0.4,0.4
+22-04-2014,Chicago White Sox,Detroit Tigers,50.0,0.33,0.2,0.3,56.25,0.33,0.4,0.4
+23-04-2014,Chicago White Sox,Detroit Tigers,47.62,0.33,0.4,0.4,58.82,0.0,0.4,0.4
+24-04-2014,Chicago White Sox,Detroit Tigers,50.0,0.0,0.4,0.3,55.56,0.33,0.4,0.4
+05-05-2014,Houston Astros,Detroit Tigers,32.26,0.0,0.2,0.3,65.38,0.33,0.6,0.6
+06-05-2014,Houston Astros,Detroit Tigers,31.25,0.0,0.2,0.3,66.67,0.33,0.6,0.7
+07-05-2014,Houston Astros,Detroit Tigers,30.3,0.0,0.0,0.3,67.86,0.33,0.6,0.7
+08-05-2014,Houston Astros,Detroit Tigers,29.41,0.0,0.0,0.2,68.97,0.33,0.6,0.7
+09-05-2014,Minnesota Twins,Detroit Tigers,45.45,0.0,0.2,0.3,66.67,0.33,0.6,0.8
+10-05-2014,Minnesota Twins,Detroit Tigers,47.06,0.0,0.0,0.3,64.52,0.0,0.4,0.7
+11-05-2014,Minnesota Twins,Detroit Tigers,45.71,0.33,0.2,0.4,65.62,0.0,0.2,0.6
+22-05-2014,Texas Rangers,Detroit Tigers,47.83,0.0,0.2,0.2,64.29,0.0,0.2,0.6
+23-05-2014,Texas Rangers,Detroit Tigers,48.94,0.33,0.4,0.3,62.79,0.0,0.0,0.5
+24-05-2014,Texas Rangers,Detroit Tigers,47.92,0.33,0.4,0.3,63.64,0.0,0.0,0.4
+25-05-2014,Texas Rangers,Detroit Tigers,48.98,0.0,0.4,0.3,62.22,0.33,0.2,0.4
+03-06-2014,Toronto Blue Jays,Detroit Tigers,58.62,0.33,0.2,0.6,58.49,0.0,0.4,0.3
+04-06-2014,Toronto Blue Jays,Detroit Tigers,59.32,0.33,0.4,0.6,57.41,0.0,0.2,0.3
+05-06-2014,Toronto Blue Jays,Detroit Tigers,60.0,0.33,0.6,0.6,56.36,0.0,0.0,0.3
+06-06-2014,Boston Red Sox,Detroit Tigers,45.76,0.0,0.2,0.6,55.36,0.0,0.0,0.3
+07-06-2014,Boston Red Sox,Detroit Tigers,45.0,0.0,0.0,0.5,56.14,0.0,0.0,0.2
+08-06-2014,Boston Red Sox,Detroit Tigers,44.26,0.0,0.0,0.4,56.9,0.33,0.2,0.3
+13-06-2014,Minnesota Twins,Detroit Tigers,48.44,0.33,0.2,0.4,54.84,0.0,0.0,0.2
+14-06-2014,Minnesota Twins,Detroit Tigers,49.23,0.33,0.4,0.4,53.97,0.33,0.2,0.3
+15-06-2014,Minnesota Twins,Detroit Tigers,48.48,0.33,0.6,0.4,54.69,0.0,0.2,0.3
+16-06-2014,Kansas City Royals,Detroit Tigers,52.94,0.33,0.6,0.7,55.38,0.33,0.4,0.4
+17-06-2014,Kansas City Royals,Detroit Tigers,53.62,0.33,0.6,0.7,54.55,0.33,0.4,0.4
+18-06-2014,Kansas City Royals,Detroit Tigers,54.29,0.33,0.6,0.8,53.73,0.0,0.4,0.3
+19-06-2014,Kansas City Royals,Detroit Tigers,54.93,0.33,0.6,0.8,52.94,0.0,0.2,0.3
+30-06-2014,Oakland Athletics,Detroit Tigers,62.96,0.33,0.6,0.6,56.41,0.33,0.4,0.7
+01-07-2014,Oakland Athletics,Detroit Tigers,62.2,0.33,0.6,0.6,56.96,0.0,0.2,0.6
+02-07-2014,Oakland Athletics,Detroit Tigers,61.45,0.0,0.4,0.5,57.5,0.33,0.4,0.6
+03-07-2014,Tampa Bay Rays,Detroit Tigers,43.68,0.33,0.6,0.6,58.02,0.33,0.4,0.6
+04-07-2014,Tampa Bay Rays,Detroit Tigers,43.18,0.33,0.6,0.7,58.54,0.33,0.6,0.6
+05-07-2014,Tampa Bay Rays,Detroit Tigers,43.82,0.0,0.4,0.6,57.83,0.33,0.6,0.6
+06-07-2014,Tampa Bay Rays,Detroit Tigers,44.44,0.33,0.4,0.6,57.14,0.0,0.4,0.5
+08-07-2014,Los Angeles Dodgers,Detroit Tigers,56.04,0.0,0.4,0.5,56.47,0.0,0.2,0.5
+09-07-2014,Los Angeles Dodgers,Detroit Tigers,55.43,0.33,0.4,0.5,56.98,0.0,0.0,0.4
+18-07-2014,Cleveland Indians,Detroit Tigers,50.0,0.0,0.4,0.5,58.24,0.33,0.6,0.5
+20-07-2014,Cleveland Indians,Detroit Tigers,51.55,0.33,0.6,0.6,56.38,0.0,0.0,0.5
+29-07-2014,Chicago White Sox,Detroit Tigers,48.11,0.33,0.6,0.5,55.88,0.0,0.2,0.4
+30-07-2014,Chicago White Sox,Detroit Tigers,48.6,0.0,0.4,0.4,55.34,0.0,0.0,0.4
+31-07-2014,Chicago White Sox,Detroit Tigers,48.15,0.33,0.4,0.5,55.77,0.0,0.0,0.3
+01-08-2014,Colorado Rockies,Detroit Tigers,40.37,0.33,0.2,0.4,55.24,0.33,0.2,0.3
+02-08-2014,Colorado Rockies,Detroit Tigers,40.0,0.0,0.2,0.4,55.66,0.0,0.2,0.3
+03-08-2014,Colorado Rockies,Detroit Tigers,39.64,0.0,0.2,0.3,56.07,0.33,0.4,0.3
+13-08-2014,Pittsburgh Pirates,Detroit Tigers,53.78,0.33,0.2,0.4,53.85,0.0,0.0,0.2
+14-08-2014,Pittsburgh Pirates,Detroit Tigers,53.33,0.33,0.4,0.5,54.24,0.0,0.0,0.2
+15-08-2014,Seattle Mariners,Detroit Tigers,54.17,0.33,0.6,0.7,54.62,0.33,0.2,0.2
+16-08-2014,Seattle Mariners,Detroit Tigers,54.55,0.33,0.6,0.7,54.17,0.33,0.4,0.3
+17-08-2014,Seattle Mariners,Detroit Tigers,54.1,0.33,0.6,0.7,54.55,0.0,0.4,0.3
+26-08-2014,New York Yankees,Detroit Tigers,52.71,0.33,0.6,0.6,54.26,0.33,0.2,0.4
+27-08-2014,New York Yankees,Detroit Tigers,52.31,0.33,0.6,0.6,54.62,0.33,0.4,0.4
+28-08-2014,New York Yankees,Detroit Tigers,52.67,0.0,0.4,0.5,54.2,0.33,0.6,0.5
+05-09-2014,San Francisco Giants,Detroit Tigers,54.29,0.33,0.4,0.7,55.0,0.0,0.4,0.5
+06-09-2014,San Francisco Giants,Detroit Tigers,54.61,0.0,0.2,0.6,54.61,0.33,0.4,0.5
+07-09-2014,San Francisco Giants,Detroit Tigers,54.93,0.33,0.4,0.6,54.23,0.0,0.2,0.4
+08-09-2014,Kansas City Royals,Detroit Tigers,55.63,0.0,0.4,0.4,54.55,0.0,0.2,0.4
+09-09-2014,Kansas City Royals,Detroit Tigers,55.24,0.33,0.4,0.5,54.86,0.33,0.2,0.4
+10-09-2014,Kansas City Royals,Detroit Tigers,54.86,0.0,0.2,0.5,55.17,0.33,0.4,0.5
+12-09-2014,Cleveland Indians,Detroit Tigers,52.74,0.33,0.2,0.5,54.79,0.33,0.6,0.5
+13-09-2014,Cleveland Indians,Detroit Tigers,52.38,0.33,0.4,0.5,55.1,0.0,0.4,0.4
+14-09-2014,Cleveland Indians,Detroit Tigers,52.03,0.0,0.4,0.5,55.41,0.33,0.4,0.5
+22-09-2014,Chicago White Sox,Detroit Tigers,45.81,0.0,0.2,0.4,55.48,0.33,0.4,0.6
+23-09-2014,Chicago White Sox,Detroit Tigers,46.15,0.33,0.4,0.4,55.13,0.0,0.4,0.5
+24-09-2014,Chicago White Sox,Detroit Tigers,45.86,0.33,0.4,0.4,55.41,0.0,0.2,0.4
+25-09-2014,Minnesota Twins,Detroit Tigers,43.04,0.33,0.2,0.4,55.7,0.33,0.2,0.4
+26-09-2014,Minnesota Twins,Detroit Tigers,42.77,0.33,0.4,0.5,55.97,0.33,0.4,0.4
+27-09-2014,Minnesota Twins,Detroit Tigers,43.12,0.0,0.4,0.4,55.62,0.33,0.6,0.5
+28-09-2014,Minnesota Twins,Detroit Tigers,43.48,0.33,0.4,0.4,55.28,0.0,0.4,0.5
+01-04-2014,New York Yankees,Houston Astros,0,0.0,0.4,0.4,0,0.0,0.2,0.3
+02-04-2014,New York Yankees,Houston Astros,0.0,nan,nan,nan,100.0,nan,nan,nan
+03-04-2014,New York Yankees,Houston Astros,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+04-04-2014,Los Angeles Angels of Anaheim,Houston Astros,0.0,0.0,nan,nan,66.67,0.33,nan,nan
+05-04-2014,Los Angeles Angels of Anaheim,Houston Astros,25.0,0.0,0.0,nan,50.0,0.0,0.4,nan
+06-04-2014,Los Angeles Angels of Anaheim,Houston Astros,40.0,0.33,0.2,nan,40.0,0.0,0.2,nan
+07-04-2014,Los Angeles Angels of Anaheim,Houston Astros,33.33,0.33,0.4,nan,50.0,0.0,0.0,nan
+15-04-2014,Kansas City Royals,Houston Astros,36.36,0.0,0.2,0.4,38.46,0.33,0.4,0.3
+16-04-2014,Kansas City Royals,Houston Astros,41.67,0.0,0.0,0.3,35.71,0.0,0.2,0.3
+17-04-2014,Kansas City Royals,Houston Astros,46.15,0.33,0.2,0.3,33.33,0.0,0.2,0.2
+24-04-2014,Oakland Athletics,Houston Astros,61.9,0.0,0.2,0.5,31.82,0.33,0.4,0.2
+25-04-2014,Oakland Athletics,Houston Astros,63.64,0.0,0.0,0.4,30.43,0.0,0.4,0.2
+26-04-2014,Oakland Athletics,Houston Astros,65.22,0.33,0.2,0.4,29.17,0.0,0.2,0.2
+27-04-2014,Oakland Athletics,Houston Astros,62.5,0.33,0.4,0.5,32.0,0.0,0.0,0.2
+29-04-2014,Washington Nationals,Houston Astros,53.85,0.33,0.4,0.4,34.62,0.33,0.2,0.3
+30-04-2014,Washington Nationals,Houston Astros,55.56,0.0,0.4,0.4,33.33,0.33,0.4,0.4
+02-05-2014,Seattle Mariners,Houston Astros,46.15,0.33,0.4,0.4,32.14,0.0,0.4,0.4
+03-05-2014,Seattle Mariners,Houston Astros,44.44,0.33,0.6,0.5,34.48,0.0,0.2,0.3
+04-05-2014,Seattle Mariners,Houston Astros,46.43,0.0,0.4,0.5,33.33,0.33,0.2,0.3
+12-05-2014,Texas Rangers,Houston Astros,50.0,0.0,0.4,0.3,31.58,0.0,0.2,0.1
+13-05-2014,Texas Rangers,Houston Astros,51.28,0.0,0.2,0.3,30.77,0.33,0.2,0.2
+14-05-2014,Texas Rangers,Houston Astros,50.0,0.33,0.2,0.3,32.5,0.0,0.2,0.2
+16-05-2014,Chicago White Sox,Houston Astros,47.62,0.0,0.0,0.3,34.15,0.33,0.4,0.3
+17-05-2014,Chicago White Sox,Houston Astros,48.84,0.33,0.2,0.3,33.33,0.33,0.4,0.4
+18-05-2014,Chicago White Sox,Houston Astros,47.73,0.33,0.4,0.3,34.88,0.0,0.4,0.4
+29-05-2014,Baltimore Orioles,Houston Astros,50.98,0.0,0.4,0.4,40.74,0.33,0.6,0.4
+30-05-2014,Baltimore Orioles,Houston Astros,50.0,0.0,0.2,0.3,41.82,0.33,0.6,0.5
+31-05-2014,Baltimore Orioles,Houston Astros,49.06,0.0,0.0,0.3,42.86,0.33,0.6,0.6
+01-06-2014,Baltimore Orioles,Houston Astros,50.0,0.0,0.0,0.3,42.11,0.33,0.6,0.7
+03-06-2014,Los Angeles Angels of Anaheim,Houston Astros,53.57,0.0,0.2,0.3,41.38,0.0,0.4,0.7
+04-06-2014,Los Angeles Angels of Anaheim,Houston Astros,52.63,0.0,0.0,0.3,42.37,0.0,0.2,0.6
+05-06-2014,Los Angeles Angels of Anaheim,Houston Astros,53.45,0.0,0.0,0.2,41.67,0.33,0.2,0.6
+11-06-2014,Arizona Diamondbacks,Houston Astros,43.28,0.0,0.4,0.5,43.94,0.33,0.4,0.5
+12-06-2014,Arizona Diamondbacks,Houston Astros,42.65,0.33,0.4,0.6,44.78,0.0,0.4,0.5
+13-06-2014,Tampa Bay Rays,Houston Astros,37.31,0.0,0.0,0.1,45.59,0.33,0.4,0.5
+14-06-2014,Tampa Bay Rays,Houston Astros,38.24,0.33,0.2,0.2,44.93,0.33,0.4,0.6
+15-06-2014,Tampa Bay Rays,Houston Astros,37.68,0.33,0.4,0.3,45.71,0.0,0.4,0.5
+24-06-2014,Atlanta Braves,Houston Astros,50.67,0.0,0.4,0.3,42.86,0.0,0.2,0.2
+25-06-2014,Atlanta Braves,Houston Astros,51.32,0.0,0.2,0.3,42.31,0.0,0.2,0.2
+26-06-2014,Atlanta Braves,Houston Astros,51.95,0.33,0.2,0.3,41.77,0.0,0.0,0.1
+27-06-2014,Detroit Tigers,Houston Astros,57.33,0.33,0.6,0.6,42.5,0.0,0.0,0.1
+28-06-2014,Detroit Tigers,Houston Astros,56.58,0.33,0.6,0.7,43.21,0.33,0.2,0.2
+29-06-2014,Detroit Tigers,Houston Astros,57.14,0.0,0.4,0.7,42.68,0.33,0.4,0.3
+30-06-2014,Seattle Mariners,Houston Astros,53.66,0.0,0.2,0.6,43.37,0.0,0.4,0.3
+01-07-2014,Seattle Mariners,Houston Astros,54.22,0.33,0.4,0.6,42.86,0.33,0.4,0.3
+02-07-2014,Seattle Mariners,Houston Astros,54.76,0.33,0.4,0.6,42.35,0.0,0.2,0.3
+11-07-2014,Boston Red Sox,Houston Astros,44.57,0.33,0.2,0.2,41.94,0.33,0.4,0.2
+12-07-2014,Boston Red Sox,Houston Astros,45.16,0.33,0.4,0.3,41.49,0.33,0.6,0.3
+13-07-2014,Boston Red Sox,Houston Astros,44.68,0.33,0.6,0.4,42.11,0.0,0.4,0.3
+25-07-2014,Miami Marlins,Houston Astros,47.52,0.0,0.4,0.3,41.18,0.0,0.4,0.3
+26-07-2014,Miami Marlins,Houston Astros,48.04,0.33,0.4,0.4,40.78,0.0,0.2,0.3
+27-07-2014,Miami Marlins,Houston Astros,48.54,0.33,0.4,0.5,40.38,0.0,0.0,0.2
+28-07-2014,Oakland Athletics,Houston Astros,62.5,0.33,0.4,0.5,40.0,0.0,0.0,0.2
+29-07-2014,Oakland Athletics,Houston Astros,61.9,0.33,0.4,0.5,40.57,0.0,0.0,0.2
+30-07-2014,Oakland Athletics,Houston Astros,62.26,0.0,0.4,0.5,40.19,0.33,0.2,0.3
+31-07-2014,Toronto Blue Jays,Houston Astros,54.13,0.33,0.6,0.7,40.74,0.0,0.2,0.2
+01-08-2014,Toronto Blue Jays,Houston Astros,54.55,0.33,0.6,0.7,40.37,0.33,0.4,0.2
+02-08-2014,Toronto Blue Jays,Houston Astros,54.05,0.33,0.6,0.7,40.91,0.0,0.2,0.2
+03-08-2014,Toronto Blue Jays,Houston Astros,53.57,0.0,0.4,0.6,41.44,0.33,0.4,0.3
+08-08-2014,Texas Rangers,Houston Astros,39.47,0.33,0.2,0.3,40.87,0.0,0.2,0.4
+09-08-2014,Texas Rangers,Houston Astros,39.13,0.33,0.4,0.3,41.38,0.0,0.0,0.4
+10-08-2014,Texas Rangers,Houston Astros,38.79,0.0,0.4,0.3,41.88,0.33,0.2,0.4
+11-08-2014,Minnesota Twins,Houston Astros,44.83,0.0,0.0,0.3,41.53,0.33,0.4,0.5
+12-08-2014,Minnesota Twins,Houston Astros,45.3,0.33,0.2,0.4,41.18,0.0,0.4,0.4
+13-08-2014,Minnesota Twins,Houston Astros,44.92,0.33,0.4,0.4,41.67,0.0,0.2,0.3
+25-08-2014,Oakland Athletics,Houston Astros,58.91,0.33,0.4,0.3,41.98,0.0,0.2,0.5
+26-08-2014,Oakland Athletics,Houston Astros,59.23,0.0,0.4,0.3,41.67,0.0,0.2,0.4
+27-08-2014,Oakland Athletics,Houston Astros,58.78,0.33,0.4,0.4,42.11,0.0,0.0,0.4
+28-08-2014,Texas Rangers,Houston Astros,39.39,0.0,0.4,0.4,41.79,0.33,0.2,0.4
+29-08-2014,Texas Rangers,Houston Astros,39.1,0.33,0.4,0.4,42.22,0.0,0.2,0.3
+30-08-2014,Texas Rangers,Houston Astros,39.55,0.0,0.2,0.4,41.91,0.33,0.4,0.3
+31-08-2014,Texas Rangers,Houston Astros,39.26,0.33,0.4,0.4,42.34,0.0,0.2,0.3
+02-09-2014,Los Angeles Angels of Anaheim,Houston Astros,61.03,0.33,0.6,0.6,42.75,0.33,0.4,0.3
+03-09-2014,Los Angeles Angels of Anaheim,Houston Astros,60.58,0.33,0.6,0.7,43.17,0.33,0.4,0.4
+15-09-2014,Cleveland Indians,Houston Astros,51.68,0.0,0.2,0.4,44.3,0.0,0.2,0.4
+16-09-2014,Cleveland Indians,Houston Astros,51.33,0.0,0.0,0.3,44.67,0.33,0.2,0.4
+17-09-2014,Cleveland Indians,Houston Astros,51.66,0.0,0.0,0.2,44.37,0.33,0.4,0.5
+18-09-2014,Cleveland Indians,Houston Astros,51.97,0.33,0.2,0.3,44.08,0.0,0.4,0.4
+19-09-2014,Seattle Mariners,Houston Astros,53.95,0.0,0.2,0.2,43.79,0.0,0.2,0.4
+20-09-2014,Seattle Mariners,Houston Astros,54.25,0.33,0.4,0.3,43.51,0.0,0.0,0.3
+21-09-2014,Seattle Mariners,Houston Astros,53.9,0.33,0.4,0.4,43.87,0.0,0.0,0.2
+04-04-2014,Chicago White Sox,Kansas City Royals,66.67,0.33,nan,nan,0.0,0.0,nan,nan
+05-04-2014,Chicago White Sox,Kansas City Royals,50.0,0.0,0.4,nan,33.33,0.0,nan,nan
+06-04-2014,Chicago White Sox,Kansas City Royals,40.0,0.0,0.2,nan,50.0,0.33,0.2,nan
+07-04-2014,Tampa Bay Rays,Kansas City Royals,57.14,0.33,0.6,nan,40.0,0.33,0.4,nan
+08-04-2014,Tampa Bay Rays,Kansas City Royals,50.0,0.0,0.4,nan,50.0,0.0,0.4,nan
+09-04-2014,Tampa Bay Rays,Kansas City Royals,55.56,0.0,0.2,0.4,42.86,0.33,0.4,nan
+18-04-2014,Minnesota Twins,Kansas City Royals,53.33,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+19-04-2014,Minnesota Twins,Kansas City Royals,50.0,0.33,0.4,0.5,53.33,0.33,0.6,0.4
+20-04-2014,Minnesota Twins,Kansas City Royals,47.06,0.0,0.4,0.5,56.25,0.33,0.6,0.5
+29-04-2014,Toronto Blue Jays,Kansas City Royals,48.0,0.0,0.0,0.3,50.0,0.0,0.2,0.3
+30-04-2014,Toronto Blue Jays,Kansas City Royals,46.15,0.33,0.2,0.3,52.0,0.33,0.4,0.3
+01-05-2014,Toronto Blue Jays,Kansas City Royals,44.44,0.0,0.2,0.2,53.85,0.33,0.4,0.4
+02-05-2014,Detroit Tigers,Kansas City Royals,60.87,0.33,0.4,0.5,51.85,0.33,0.6,0.5
+03-05-2014,Detroit Tigers,Kansas City Royals,62.5,0.33,0.4,0.5,50.0,0.0,0.4,0.4
+04-05-2014,Detroit Tigers,Kansas City Royals,64.0,0.33,0.6,0.6,48.28,0.0,0.2,0.4
+13-05-2014,Colorado Rockies,Kansas City Royals,57.5,0.33,0.2,0.5,48.65,0.0,0.2,0.3
+14-05-2014,Colorado Rockies,Kansas City Royals,56.1,0.0,0.2,0.4,50.0,0.33,0.4,0.4
+15-05-2014,Baltimore Orioles,Kansas City Royals,52.63,0.0,0.0,0.5,51.28,0.33,0.4,0.5
+16-05-2014,Baltimore Orioles,Kansas City Royals,53.85,0.0,0.0,0.4,50.0,0.33,0.6,0.6
+17-05-2014,Baltimore Orioles,Kansas City Royals,55.0,0.33,0.2,0.4,48.78,0.0,0.4,0.5
+18-05-2014,Baltimore Orioles,Kansas City Royals,53.66,0.33,0.4,0.4,50.0,0.0,0.2,0.4
+19-05-2014,Chicago White Sox,Kansas City Royals,46.67,0.0,0.4,0.3,51.16,0.33,0.2,0.5
+20-05-2014,Chicago White Sox,Kansas City Royals,47.83,0.0,0.2,0.2,50.0,0.33,0.4,0.5
+21-05-2014,Chicago White Sox,Kansas City Royals,48.94,0.33,0.2,0.3,48.89,0.0,0.4,0.5
+26-05-2014,Houston Astros,Kansas City Royals,37.25,0.33,0.2,0.4,48.98,0.33,0.4,0.4
+27-05-2014,Houston Astros,Kansas City Royals,38.46,0.33,0.4,0.4,48.0,0.0,0.2,0.4
+28-05-2014,Houston Astros,Kansas City Royals,39.62,0.33,0.6,0.4,47.06,0.0,0.2,0.3
+04-06-2014,St. Louis Cardinals,Kansas City Royals,50.85,0.0,0.2,0.2,48.28,0.33,0.2,0.3
+05-06-2014,St. Louis Cardinals,Kansas City Royals,51.67,0.0,0.0,0.2,47.46,0.33,0.4,0.4
+06-06-2014,New York Yankees,Kansas City Royals,50.85,0.0,0.0,0.2,48.33,0.0,0.4,0.4
+07-06-2014,New York Yankees,Kansas City Royals,51.67,0.33,0.2,0.3,47.54,0.33,0.4,0.5
+08-06-2014,New York Yankees,Kansas City Royals,50.82,0.33,0.4,0.3,48.39,0.0,0.2,0.4
+10-06-2014,Cleveland Indians,Kansas City Royals,51.56,0.33,0.4,0.7,49.21,0.33,0.4,0.4
+11-06-2014,Cleveland Indians,Kansas City Royals,50.77,0.33,0.6,0.7,50.0,0.33,0.4,0.5
+20-06-2014,Seattle Mariners,Kansas City Royals,50.68,0.0,0.4,0.3,54.17,0.33,0.6,0.8
+21-06-2014,Seattle Mariners,Kansas City Royals,51.35,0.0,0.2,0.3,53.42,0.0,0.4,0.7
+22-06-2014,Seattle Mariners,Kansas City Royals,52.0,0.33,0.2,0.4,52.7,0.0,0.2,0.6
+23-06-2014,Los Angeles Dodgers,Kansas City Royals,54.55,0.33,0.4,0.6,52.0,0.0,0.0,0.5
+24-06-2014,Los Angeles Dodgers,Kansas City Royals,53.85,0.33,0.4,0.6,52.63,0.0,0.0,0.4
+25-06-2014,Los Angeles Dodgers,Kansas City Royals,54.43,0.0,0.4,0.5,51.95,0.33,0.2,0.4
+27-06-2014,Los Angeles Angels of Anaheim,Kansas City Royals,57.14,0.33,0.6,0.6,51.28,0.0,0.2,0.3
+28-06-2014,Los Angeles Angels of Anaheim,Kansas City Royals,56.41,0.33,0.6,0.7,51.9,0.0,0.2,0.2
+29-06-2014,Los Angeles Angels of Anaheim,Kansas City Royals,56.96,0.0,0.4,0.6,51.25,0.33,0.2,0.2
+10-07-2014,Detroit Tigers,Kansas City Royals,57.47,0.33,0.2,0.5,52.22,0.0,0.2,0.4
+11-07-2014,Detroit Tigers,Kansas City Royals,57.95,0.33,0.4,0.5,51.65,0.33,0.4,0.4
+12-07-2014,Detroit Tigers,Kansas City Royals,58.43,0.33,0.6,0.5,51.09,0.0,0.2,0.4
+13-07-2014,Detroit Tigers,Kansas City Royals,58.89,0.33,0.6,0.5,50.54,0.0,0.2,0.3
+24-07-2014,Cleveland Indians,Kansas City Royals,50.5,0.33,0.2,0.5,50.0,0.33,0.2,0.2
+25-07-2014,Cleveland Indians,Kansas City Royals,50.0,0.0,0.2,0.5,50.5,0.33,0.4,0.3
+26-07-2014,Cleveland Indians,Kansas City Royals,49.51,0.0,0.2,0.4,50.98,0.33,0.6,0.4
+27-07-2014,Cleveland Indians,Kansas City Royals,49.04,0.0,0.0,0.3,51.46,0.33,0.6,0.4
+29-07-2014,Minnesota Twins,Kansas City Royals,45.19,0.0,0.0,0.2,50.96,0.33,0.6,0.5
+30-07-2014,Minnesota Twins,Kansas City Royals,45.71,0.33,0.2,0.3,50.48,0.0,0.4,0.5
+31-07-2014,Minnesota Twins,Kansas City Royals,45.28,0.33,0.4,0.4,50.94,0.0,0.2,0.5
+08-08-2014,San Francisco Giants,Kansas City Royals,54.31,0.33,0.4,0.5,53.1,0.33,0.6,0.6
+09-08-2014,San Francisco Giants,Kansas City Royals,53.85,0.0,0.2,0.5,53.51,0.33,0.6,0.7
+10-08-2014,San Francisco Giants,Kansas City Royals,53.39,0.0,0.2,0.4,53.91,0.33,0.6,0.7
+11-08-2014,Oakland Athletics,Kansas City Royals,61.54,0.33,0.6,0.6,54.31,0.33,0.6,0.7
+12-08-2014,Oakland Athletics,Kansas City Royals,61.02,0.0,0.4,0.5,54.7,0.33,0.6,0.7
+13-08-2014,Oakland Athletics,Kansas City Royals,61.34,0.0,0.2,0.5,54.24,0.33,0.6,0.8
+14-08-2014,Oakland Athletics,Kansas City Royals,60.83,0.33,0.2,0.5,54.62,0.0,0.4,0.7
+25-08-2014,New York Yankees,Kansas City Royals,52.34,0.33,0.6,0.5,55.81,0.33,0.4,0.6
+26-08-2014,Minnesota Twins,Kansas City Royals,44.62,0.0,0.4,0.3,55.38,0.0,0.4,0.5
+27-08-2014,Minnesota Twins,Kansas City Royals,44.27,0.0,0.2,0.3,55.73,0.0,0.2,0.5
+28-08-2014,Minnesota Twins,Kansas City Royals,43.94,0.0,0.0,0.3,56.06,0.33,0.2,0.5
+29-08-2014,Cleveland Indians,Kansas City Royals,51.52,0.0,0.4,0.5,55.64,0.33,0.4,0.5
+30-08-2014,Cleveland Indians,Kansas City Royals,51.88,0.33,0.4,0.5,55.22,0.0,0.4,0.4
+31-08-2014,Cleveland Indians,Kansas City Royals,52.24,0.33,0.4,0.5,54.81,0.0,0.2,0.4
+01-09-2014,Texas Rangers,Kansas City Royals,38.97,0.0,0.2,0.4,54.41,0.0,0.0,0.3
+02-09-2014,Texas Rangers,Kansas City Royals,38.69,0.0,0.2,0.4,54.74,0.0,0.0,0.2
+03-09-2014,Texas Rangers,Kansas City Royals,38.41,0.0,0.0,0.3,55.07,0.33,0.2,0.3
+11-09-2014,Boston Red Sox,Kansas City Royals,43.15,0.0,0.0,0.3,55.17,0.0,0.2,0.5
+12-09-2014,Boston Red Sox,Kansas City Royals,43.54,0.0,0.0,0.2,54.79,0.33,0.2,0.5
+13-09-2014,Boston Red Sox,Kansas City Royals,43.92,0.33,0.2,0.3,54.42,0.0,0.2,0.4
+14-09-2014,Boston Red Sox,Kansas City Royals,43.62,0.33,0.4,0.4,54.73,0.0,0.2,0.3
+15-09-2014,Chicago White Sox,Kansas City Royals,45.64,0.33,0.6,0.5,54.36,0.33,0.2,0.3
+16-09-2014,Chicago White Sox,Kansas City Royals,45.33,0.0,0.4,0.5,54.67,0.0,0.2,0.3
+17-09-2014,Chicago White Sox,Kansas City Royals,45.7,0.0,0.2,0.5,54.3,0.33,0.4,0.3
+19-09-2014,Detroit Tigers,Kansas City Royals,55.26,0.0,0.4,0.6,54.61,0.0,0.2,0.3
+20-09-2014,Detroit Tigers,Kansas City Royals,55.56,0.0,0.2,0.5,54.25,0.33,0.4,0.4
+21-09-2014,Detroit Tigers,Kansas City Royals,55.84,0.33,0.2,0.5,53.9,0.0,0.2,0.3
+04-04-2014,San Francisco Giants,Los Angeles Dodgers,75.0,0.33,0.4,nan,80.0,0.33,0.4,nan
+05-04-2014,San Francisco Giants,Los Angeles Dodgers,80.0,0.33,0.4,nan,66.67,0.33,0.4,nan
+06-04-2014,San Francisco Giants,Los Angeles Dodgers,83.33,0.33,0.6,nan,57.14,0.0,0.4,nan
+08-04-2014,Detroit Tigers,Los Angeles Dodgers,80.0,0.33,0.6,nan,62.5,0.0,0.2,nan
+09-04-2014,Detroit Tigers,Los Angeles Dodgers,66.67,0.0,0.4,nan,66.67,0.33,0.2,0.5
+18-04-2014,Arizona Diamondbacks,Los Angeles Dodgers,22.22,0.0,0.0,0.2,62.5,0.0,0.2,0.5
+19-04-2014,Arizona Diamondbacks,Los Angeles Dodgers,26.32,0.0,0.0,0.2,58.82,0.33,0.2,0.5
+20-04-2014,Arizona Diamondbacks,Los Angeles Dodgers,25.0,0.33,0.2,0.2,61.11,0.0,0.2,0.4
+21-04-2014,Philadelphia Phillies,Los Angeles Dodgers,44.44,0.0,0.2,0.4,63.16,0.33,0.4,0.5
+22-04-2014,Philadelphia Phillies,Los Angeles Dodgers,47.37,0.33,0.2,0.4,60.0,0.33,0.4,0.5
+23-04-2014,Philadelphia Phillies,Los Angeles Dodgers,50.0,0.33,0.4,0.4,57.14,0.0,0.4,0.4
+24-04-2014,Philadelphia Phillies,Los Angeles Dodgers,47.62,0.33,0.6,0.4,59.09,0.0,0.2,0.3
+25-04-2014,Colorado Rockies,Los Angeles Dodgers,52.17,0.33,0.4,0.6,56.52,0.33,0.2,0.4
+26-04-2014,Colorado Rockies,Los Angeles Dodgers,54.17,0.0,0.4,0.5,54.17,0.0,0.2,0.4
+27-04-2014,Colorado Rockies,Los Angeles Dodgers,52.0,0.33,0.4,0.6,56.0,0.0,0.2,0.3
+08-05-2014,San Francisco Giants,Los Angeles Dodgers,61.76,0.0,0.4,0.6,54.29,0.33,0.2,0.5
+09-05-2014,San Francisco Giants,Los Angeles Dodgers,62.86,0.0,0.2,0.6,52.78,0.0,0.2,0.4
+10-05-2014,San Francisco Giants,Los Angeles Dodgers,63.89,0.33,0.2,0.6,51.35,0.0,0.2,0.3
+11-05-2014,San Francisco Giants,Los Angeles Dodgers,62.16,0.33,0.4,0.6,52.63,0.0,0.0,0.2
+12-05-2014,Miami Marlins,Los Angeles Dodgers,52.63,0.0,0.2,0.5,51.28,0.33,0.2,0.3
+13-05-2014,Miami Marlins,Los Angeles Dodgers,51.28,0.0,0.0,0.5,52.5,0.0,0.2,0.2
+14-05-2014,Miami Marlins,Los Angeles Dodgers,50.0,0.0,0.0,0.4,53.66,0.33,0.4,0.3
+26-05-2014,Cincinnati Reds,Los Angeles Dodgers,45.83,0.0,0.4,0.4,52.94,0.0,0.2,0.4
+27-05-2014,Cincinnati Reds,Los Angeles Dodgers,44.9,0.0,0.2,0.3,53.85,0.33,0.4,0.4
+28-05-2014,Cincinnati Reds,Los Angeles Dodgers,44.0,0.0,0.0,0.3,54.72,0.33,0.4,0.5
+29-05-2014,Pittsburgh Pirates,Los Angeles Dodgers,44.23,0.0,0.2,0.5,53.7,0.33,0.6,0.6
+30-05-2014,Pittsburgh Pirates,Los Angeles Dodgers,45.28,0.0,0.2,0.5,52.73,0.0,0.4,0.5
+31-05-2014,Pittsburgh Pirates,Los Angeles Dodgers,46.3,0.33,0.2,0.5,51.79,0.0,0.2,0.4
+01-06-2014,Pittsburgh Pirates,Los Angeles Dodgers,45.45,0.33,0.4,0.5,52.63,0.0,0.0,0.4
+02-06-2014,Chicago White Sox,Los Angeles Dodgers,50.0,0.0,0.2,0.4,51.72,0.33,0.2,0.4
+03-06-2014,Chicago White Sox,Los Angeles Dodgers,49.15,0.33,0.2,0.4,52.54,0.0,0.2,0.4
+04-06-2014,Chicago White Sox,Los Angeles Dodgers,50.0,0.0,0.2,0.4,51.67,0.33,0.4,0.4
+13-06-2014,Arizona Diamondbacks,Los Angeles Dodgers,42.03,0.0,0.2,0.5,51.47,0.0,0.4,0.4
+14-06-2014,Arizona Diamondbacks,Los Angeles Dodgers,41.43,0.0,0.2,0.4,52.17,0.0,0.2,0.4
+15-06-2014,Arizona Diamondbacks,Los Angeles Dodgers,40.85,0.0,0.0,0.3,52.86,0.33,0.2,0.5
+16-06-2014,Colorado Rockies,Los Angeles Dodgers,48.57,0.33,0.6,0.5,52.11,0.33,0.4,0.5
+17-06-2014,Colorado Rockies,Los Angeles Dodgers,47.89,0.33,0.6,0.5,52.78,0.0,0.4,0.5
+18-06-2014,Colorado Rockies,Los Angeles Dodgers,47.22,0.0,0.4,0.5,53.42,0.33,0.4,0.5
+26-06-2014,St. Louis Cardinals,Los Angeles Dodgers,54.43,0.0,0.4,0.4,55.0,0.33,0.4,0.6
+27-06-2014,St. Louis Cardinals,Los Angeles Dodgers,53.75,0.33,0.4,0.4,55.56,0.33,0.4,0.6
+28-06-2014,St. Louis Cardinals,Los Angeles Dodgers,54.32,0.0,0.2,0.4,54.88,0.33,0.6,0.6
+29-06-2014,St. Louis Cardinals,Los Angeles Dodgers,53.66,0.33,0.4,0.5,55.42,0.0,0.4,0.5
+30-06-2014,Cleveland Indians,Los Angeles Dodgers,48.15,0.33,0.4,0.3,55.95,0.33,0.4,0.6
+01-07-2014,Cleveland Indians,Los Angeles Dodgers,47.56,0.0,0.2,0.2,56.47,0.33,0.4,0.6
+02-07-2014,Cleveland Indians,Los Angeles Dodgers,48.19,0.0,0.2,0.2,55.81,0.33,0.6,0.6
+10-07-2014,San Diego Padres,Los Angeles Dodgers,43.96,0.0,0.2,0.5,54.84,0.0,0.2,0.4
+11-07-2014,San Diego Padres,Los Angeles Dodgers,43.48,0.0,0.2,0.4,55.32,0.0,0.2,0.3
+12-07-2014,San Diego Padres,Los Angeles Dodgers,44.09,0.0,0.0,0.3,54.74,0.33,0.2,0.4
+13-07-2014,San Diego Padres,Los Angeles Dodgers,43.62,0.33,0.2,0.3,55.21,0.0,0.2,0.4
+29-07-2014,Atlanta Braves,Los Angeles Dodgers,54.72,0.33,0.4,0.4,55.66,0.33,0.4,0.4
+30-07-2014,Atlanta Braves,Los Angeles Dodgers,54.21,0.33,0.6,0.4,56.07,0.33,0.6,0.5
+31-07-2014,Atlanta Braves,Los Angeles Dodgers,53.7,0.0,0.4,0.4,56.48,0.33,0.6,0.6
+01-08-2014,Chicago Cubs,Los Angeles Dodgers,42.06,0.0,0.4,0.3,56.88,0.33,0.6,0.6
+02-08-2014,Chicago Cubs,Los Angeles Dodgers,42.59,0.33,0.4,0.4,56.36,0.33,0.6,0.6
+03-08-2014,Chicago Cubs,Los Angeles Dodgers,42.2,0.33,0.4,0.5,56.76,0.0,0.4,0.6
+04-08-2014,Los Angeles Angels of Anaheim,Los Angeles Dodgers,60.0,0.0,0.4,0.5,56.25,0.33,0.4,0.7
+05-08-2014,Los Angeles Angels of Anaheim,Los Angeles Dodgers,60.36,0.33,0.4,0.5,55.75,0.0,0.2,0.6
+15-08-2014,Milwaukee Brewers,Los Angeles Dodgers,54.92,0.0,0.2,0.4,56.91,0.0,0.4,0.5
+16-08-2014,Milwaukee Brewers,Los Angeles Dodgers,55.28,0.33,0.2,0.5,56.45,0.33,0.4,0.5
+17-08-2014,Milwaukee Brewers,Los Angeles Dodgers,55.65,0.33,0.4,0.5,56.0,0.0,0.2,0.4
+19-08-2014,San Diego Padres,Los Angeles Dodgers,47.15,0.33,0.2,0.6,55.56,0.0,0.2,0.4
+20-08-2014,San Diego Padres,Los Angeles Dodgers,46.77,0.0,0.2,0.5,55.91,0.0,0.0,0.4
+21-08-2014,San Diego Padres,Los Angeles Dodgers,47.2,0.0,0.2,0.4,55.47,0.33,0.2,0.4
+22-08-2014,New York Mets,Los Angeles Dodgers,46.88,0.0,0.0,0.2,55.81,0.0,0.2,0.3
+23-08-2014,New York Mets,Los Angeles Dodgers,46.51,0.33,0.2,0.3,56.15,0.33,0.4,0.3
+24-08-2014,New York Mets,Los Angeles Dodgers,46.15,0.0,0.2,0.3,56.49,0.33,0.4,0.4
+01-09-2014,Washington Nationals,Los Angeles Dodgers,57.04,0.33,0.4,0.4,56.2,0.0,0.2,0.5
+02-09-2014,Washington Nationals,Los Angeles Dodgers,57.35,0.0,0.4,0.4,55.8,0.33,0.2,0.5
+03-09-2014,Washington Nationals,Los Angeles Dodgers,56.93,0.33,0.4,0.4,56.12,0.0,0.2,0.4
+05-09-2014,Arizona Diamondbacks,Los Angeles Dodgers,42.14,0.33,0.2,0.3,55.71,0.33,0.4,0.4
+06-09-2014,Arizona Diamondbacks,Los Angeles Dodgers,41.84,0.33,0.4,0.4,56.03,0.0,0.2,0.4
+07-09-2014,Arizona Diamondbacks,Los Angeles Dodgers,41.55,0.0,0.4,0.4,56.34,0.33,0.4,0.4
+08-09-2014,San Diego Padres,Los Angeles Dodgers,46.48,0.0,0.0,0.3,56.64,0.33,0.4,0.4
+09-09-2014,San Diego Padres,Los Angeles Dodgers,46.15,0.0,0.0,0.2,56.94,0.33,0.6,0.5
+10-09-2014,San Diego Padres,Los Angeles Dodgers,46.53,0.0,0.0,0.2,56.55,0.33,0.6,0.6
+22-09-2014,San Francisco Giants,Los Angeles Dodgers,54.19,0.0,0.2,0.3,57.05,0.0,0.4,0.5
+23-09-2014,San Francisco Giants,Los Angeles Dodgers,54.49,0.0,0.0,0.2,56.69,0.33,0.4,0.5
+24-09-2014,San Francisco Giants,Los Angeles Dodgers,54.14,0.33,0.2,0.3,56.96,0.0,0.2,0.4
+26-09-2014,Colorado Rockies,Los Angeles Dodgers,41.51,0.33,0.4,0.7,57.23,0.33,0.4,0.4
+27-09-2014,Colorado Rockies,Los Angeles Dodgers,41.25,0.0,0.2,0.6,57.5,0.33,0.4,0.5
+28-09-2014,Colorado Rockies,Los Angeles Dodgers,40.99,0.0,0.2,0.5,57.76,0.33,0.6,0.6
+31-03-2014,Colorado Rockies,Miami Marlins,0,0.0,0.0,0.4,0,0.0,0.2,0.3
+01-04-2014,Colorado Rockies,Miami Marlins,0.0,nan,nan,nan,100.0,nan,nan,nan
+02-04-2014,Colorado Rockies,Miami Marlins,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+03-04-2014,Colorado Rockies,Miami Marlins,33.33,0.0,nan,nan,66.67,0.33,nan,nan
+04-04-2014,San Diego Padres,Miami Marlins,33.33,0.0,nan,nan,75.0,0.0,0.4,nan
+05-04-2014,San Diego Padres,Miami Marlins,25.0,0.0,0.2,nan,80.0,0.33,0.4,nan
+06-04-2014,San Diego Padres,Miami Marlins,20.0,0.0,0.0,nan,83.33,0.33,0.4,nan
+14-04-2014,Washington Nationals,Miami Marlins,58.33,0.0,0.2,0.4,38.46,0.0,0.0,0.2
+15-04-2014,Washington Nationals,Miami Marlins,61.54,0.0,0.0,0.4,35.71,0.0,0.0,0.1
+16-04-2014,Washington Nationals,Miami Marlins,57.14,0.33,0.2,0.5,40.0,0.0,0.0,0.0
+18-04-2014,Seattle Mariners,Miami Marlins,46.67,0.0,0.2,0.3,37.5,0.33,0.2,0.1
+19-04-2014,Seattle Mariners,Miami Marlins,43.75,0.0,0.0,0.2,41.18,0.0,0.2,0.1
+20-04-2014,Seattle Mariners,Miami Marlins,41.18,0.0,0.0,0.2,44.44,0.33,0.4,0.2
+29-04-2014,Atlanta Braves,Miami Marlins,70.83,0.33,0.6,0.6,44.0,0.33,0.2,0.5
+30-04-2014,Atlanta Braves,Miami Marlins,68.0,0.33,0.6,0.6,46.15,0.0,0.2,0.4
+01-05-2014,Atlanta Braves,Miami Marlins,65.38,0.0,0.4,0.5,48.15,0.33,0.4,0.4
+02-05-2014,Los Angeles Dodgers,Miami Marlins,58.62,0.33,0.4,0.4,50.0,0.33,0.4,0.4
+03-05-2014,Los Angeles Dodgers,Miami Marlins,56.67,0.33,0.6,0.5,51.72,0.33,0.6,0.5
+04-05-2014,Los Angeles Dodgers,Miami Marlins,58.06,0.0,0.4,0.4,50.0,0.33,0.6,0.5
+05-05-2014,New York Mets,Miami Marlins,53.33,0.0,0.0,0.4,51.61,0.0,0.4,0.5
+06-05-2014,New York Mets,Miami Marlins,51.61,0.33,0.2,0.4,53.12,0.33,0.4,0.6
+07-05-2014,New York Mets,Miami Marlins,50.0,0.0,0.2,0.3,54.55,0.33,0.4,0.6
+20-05-2014,Philadelphia Phillies,Miami Marlins,46.34,0.33,0.2,0.3,51.11,0.33,0.4,0.3
+21-05-2014,Philadelphia Phillies,Miami Marlins,47.62,0.33,0.4,0.4,50.0,0.0,0.4,0.3
+22-05-2014,Philadelphia Phillies,Miami Marlins,46.51,0.33,0.6,0.4,51.06,0.0,0.2,0.3
+23-05-2014,Milwaukee Brewers,Miami Marlins,58.33,0.33,0.2,0.3,52.08,0.33,0.2,0.4
+24-05-2014,Milwaukee Brewers,Miami Marlins,59.18,0.0,0.2,0.3,51.02,0.33,0.4,0.5
+25-05-2014,Milwaukee Brewers,Miami Marlins,58.0,0.33,0.4,0.3,52.0,0.0,0.4,0.4
+30-05-2014,Atlanta Braves,Miami Marlins,52.83,0.0,0.0,0.3,52.83,0.33,0.4,0.4
+31-05-2014,Atlanta Braves,Miami Marlins,53.7,0.0,0.0,0.3,51.85,0.33,0.4,0.5
+01-06-2014,Atlanta Braves,Miami Marlins,54.55,0.33,0.2,0.3,50.91,0.0,0.4,0.5
+02-06-2014,Tampa Bay Rays,Miami Marlins,40.35,0.0,0.0,0.3,50.0,0.0,0.2,0.4
+03-06-2014,Tampa Bay Rays,Miami Marlins,39.66,0.0,0.0,0.2,50.88,0.0,0.0,0.3
+13-06-2014,Pittsburgh Pirates,Miami Marlins,48.48,0.33,0.4,0.4,52.31,0.33,0.4,0.6
+14-06-2014,Pittsburgh Pirates,Miami Marlins,49.25,0.33,0.4,0.4,51.52,0.0,0.4,0.5
+15-06-2014,Pittsburgh Pirates,Miami Marlins,50.0,0.33,0.6,0.5,50.75,0.0,0.2,0.4
+16-06-2014,Chicago Cubs,Miami Marlins,41.79,0.0,0.2,0.3,51.47,0.0,0.0,0.3
+17-06-2014,Chicago Cubs,Miami Marlins,42.65,0.33,0.4,0.3,50.72,0.33,0.2,0.3
+18-06-2014,Chicago Cubs,Miami Marlins,42.03,0.33,0.4,0.4,51.43,0.0,0.2,0.3
+19-06-2014,New York Mets,Miami Marlins,44.44,0.0,0.2,0.3,50.7,0.33,0.4,0.4
+20-06-2014,New York Mets,Miami Marlins,45.21,0.33,0.2,0.3,50.0,0.0,0.2,0.3
+21-06-2014,New York Mets,Miami Marlins,44.59,0.33,0.4,0.4,50.68,0.0,0.2,0.2
+22-06-2014,New York Mets,Miami Marlins,45.33,0.0,0.4,0.4,50.0,0.33,0.2,0.3
+27-06-2014,Oakland Athletics,Miami Marlins,61.54,0.0,0.2,0.5,49.37,0.33,0.4,0.3
+28-06-2014,Oakland Athletics,Miami Marlins,62.03,0.33,0.2,0.6,48.75,0.0,0.2,0.3
+29-06-2014,Oakland Athletics,Miami Marlins,62.5,0.33,0.4,0.6,48.15,0.0,0.2,0.3
+01-07-2014,Philadelphia Phillies,Miami Marlins,43.9,0.0,0.0,0.2,47.56,0.0,0.0,0.2
+02-07-2014,Philadelphia Phillies,Miami Marlins,43.37,0.0,0.0,0.2,48.19,0.0,0.0,0.2
+03-07-2014,Philadelphia Phillies,Miami Marlins,42.86,0.0,0.0,0.2,48.81,0.33,0.2,0.3
+18-07-2014,San Francisco Giants,Miami Marlins,55.21,0.0,0.2,0.4,46.81,0.0,0.0,0.3
+19-07-2014,San Francisco Giants,Miami Marlins,55.67,0.33,0.4,0.4,46.32,0.0,0.0,0.3
+20-07-2014,San Francisco Giants,Miami Marlins,56.12,0.33,0.4,0.4,45.83,0.0,0.0,0.2
+28-07-2014,Washington Nationals,Miami Marlins,55.88,0.0,0.2,0.5,49.04,0.33,0.6,0.6
+29-07-2014,Washington Nationals,Miami Marlins,55.34,0.33,0.4,0.6,49.52,0.33,0.6,0.7
+30-07-2014,Washington Nationals,Miami Marlins,54.81,0.0,0.2,0.5,50.0,0.33,0.6,0.7
+31-07-2014,Cincinnati Reds,Miami Marlins,49.53,0.33,0.2,0.2,49.53,0.33,0.6,0.7
+01-08-2014,Cincinnati Reds,Miami Marlins,50.0,0.0,0.2,0.2,49.07,0.0,0.4,0.6
+02-08-2014,Cincinnati Reds,Miami Marlins,50.46,0.33,0.4,0.3,48.62,0.0,0.2,0.6
+03-08-2014,Cincinnati Reds,Miami Marlins,50.0,0.33,0.4,0.4,49.09,0.0,0.0,0.5
+11-08-2014,St. Louis Cardinals,Miami Marlins,53.45,0.0,0.2,0.4,48.72,0.33,0.4,0.4
+12-08-2014,St. Louis Cardinals,Miami Marlins,52.99,0.33,0.2,0.5,49.15,0.0,0.4,0.4
+13-08-2014,St. Louis Cardinals,Miami Marlins,52.54,0.0,0.2,0.4,49.58,0.33,0.4,0.4
+14-08-2014,Arizona Diamondbacks,Miami Marlins,43.33,0.0,0.2,0.3,49.17,0.33,0.4,0.5
+15-08-2014,Arizona Diamondbacks,Miami Marlins,42.98,0.33,0.2,0.3,49.59,0.0,0.4,0.4
+16-08-2014,Arizona Diamondbacks,Miami Marlins,43.44,0.0,0.2,0.3,49.18,0.33,0.4,0.5
+17-08-2014,Arizona Diamondbacks,Miami Marlins,43.09,0.33,0.4,0.4,49.59,0.0,0.2,0.5
+19-08-2014,Texas Rangers,Miami Marlins,38.71,0.0,0.0,0.2,50.0,0.33,0.4,0.5
+20-08-2014,Texas Rangers,Miami Marlins,38.4,0.33,0.2,0.3,50.4,0.33,0.4,0.5
+01-09-2014,New York Mets,Miami Marlins,46.72,0.0,0.2,0.3,48.89,0.33,0.2,0.3
+02-09-2014,New York Mets,Miami Marlins,46.38,0.33,0.4,0.4,49.26,0.0,0.2,0.2
+03-09-2014,New York Mets,Miami Marlins,46.76,0.0,0.2,0.4,48.91,0.33,0.4,0.3
+05-09-2014,Atlanta Braves,Miami Marlins,52.14,0.0,0.2,0.4,48.55,0.0,0.2,0.3
+06-09-2014,Atlanta Braves,Miami Marlins,51.77,0.33,0.2,0.5,48.92,0.0,0.2,0.2
+07-09-2014,Atlanta Braves,Miami Marlins,52.11,0.0,0.2,0.4,48.57,0.33,0.2,0.3
+18-09-2014,Washington Nationals,Miami Marlins,57.62,0.33,0.6,0.6,49.01,0.0,0.4,0.3
+19-09-2014,Washington Nationals,Miami Marlins,57.89,0.0,0.4,0.5,48.68,0.33,0.4,0.3
+20-09-2014,Washington Nationals,Miami Marlins,58.17,0.33,0.4,0.6,48.37,0.0,0.2,0.3
+21-09-2014,Washington Nationals,Miami Marlins,58.44,0.33,0.4,0.6,48.05,0.0,0.2,0.3
+23-09-2014,Philadelphia Phillies,Miami Marlins,45.51,0.33,0.2,0.3,47.74,0.0,0.0,0.3
+24-09-2014,Philadelphia Phillies,Miami Marlins,45.22,0.0,0.2,0.2,48.08,0.0,0.0,0.3
+25-09-2014,Philadelphia Phillies,Miami Marlins,45.57,0.0,0.2,0.2,47.77,0.33,0.2,0.3
+31-03-2014,Atlanta Braves,Milwaukee Brewers,0,0.33,0.2,0.2,0,0.33,0.2,0.3
+01-04-2014,Atlanta Braves,Milwaukee Brewers,0.0,nan,nan,nan,100.0,nan,nan,nan
+02-04-2014,Atlanta Braves,Milwaukee Brewers,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+11-04-2014,Pittsburgh Pirates,Milwaukee Brewers,66.67,0.0,0.4,0.5,77.78,0.33,0.6,0.6
+12-04-2014,Pittsburgh Pirates,Milwaukee Brewers,60.0,0.33,0.4,0.5,80.0,0.33,0.6,0.6
+13-04-2014,Pittsburgh Pirates,Milwaukee Brewers,54.55,0.0,0.2,0.4,81.82,0.33,0.6,0.7
+14-04-2014,St. Louis Cardinals,Milwaukee Brewers,58.33,0.33,0.2,0.4,83.33,0.33,0.6,0.8
+15-04-2014,St. Louis Cardinals,Milwaukee Brewers,61.54,0.33,0.4,0.5,76.92,0.33,0.6,0.8
+16-04-2014,St. Louis Cardinals,Milwaukee Brewers,64.29,0.33,0.6,0.5,71.43,0.0,0.4,0.7
+21-04-2014,San Diego Padres,Milwaukee Brewers,47.37,0.33,0.4,0.5,73.68,0.33,0.4,0.5
+22-04-2014,San Diego Padres,Milwaukee Brewers,45.0,0.0,0.4,0.5,75.0,0.33,0.6,0.5
+23-04-2014,San Diego Padres,Milwaukee Brewers,47.62,0.0,0.2,0.4,71.43,0.33,0.6,0.5
+25-04-2014,Chicago Cubs,Milwaukee Brewers,33.33,0.0,0.4,0.3,72.73,0.0,0.4,0.5
+26-04-2014,Chicago Cubs,Milwaukee Brewers,31.82,0.0,0.2,0.3,73.91,0.33,0.4,0.6
+27-04-2014,Chicago Cubs,Milwaukee Brewers,30.43,0.0,0.0,0.3,75.0,0.33,0.4,0.6
+05-05-2014,Arizona Diamondbacks,Milwaukee Brewers,32.35,0.33,0.6,0.4,65.62,0.0,0.2,0.4
+06-05-2014,Arizona Diamondbacks,Milwaukee Brewers,31.43,0.0,0.4,0.3,66.67,0.0,0.2,0.3
+07-05-2014,Arizona Diamondbacks,Milwaukee Brewers,33.33,0.0,0.2,0.3,64.71,0.33,0.2,0.4
+09-05-2014,New York Yankees,Milwaukee Brewers,54.55,0.33,0.2,0.3,62.86,0.0,0.2,0.3
+10-05-2014,New York Yankees,Milwaukee Brewers,55.88,0.33,0.4,0.3,61.11,0.0,0.2,0.2
+11-05-2014,New York Yankees,Milwaukee Brewers,54.29,0.33,0.6,0.4,62.16,0.0,0.0,0.2
+13-05-2014,Pittsburgh Pirates,Milwaukee Brewers,43.24,0.33,0.6,0.6,63.16,0.33,0.2,0.3
+14-05-2014,Pittsburgh Pirates,Milwaukee Brewers,42.11,0.0,0.4,0.5,64.1,0.33,0.4,0.3
+15-05-2014,Pittsburgh Pirates,Milwaukee Brewers,43.59,0.0,0.2,0.4,62.5,0.33,0.6,0.4
+26-05-2014,Baltimore Orioles,Milwaukee Brewers,52.08,0.0,0.2,0.3,58.82,0.0,0.2,0.2
+27-05-2014,Baltimore Orioles,Milwaukee Brewers,53.06,0.33,0.4,0.3,57.69,0.33,0.4,0.3
+28-05-2014,Baltimore Orioles,Milwaukee Brewers,52.0,0.33,0.4,0.4,58.49,0.0,0.2,0.3
+30-05-2014,Chicago Cubs,Milwaukee Brewers,37.25,0.0,0.2,0.4,59.26,0.33,0.4,0.4
+31-05-2014,Chicago Cubs,Milwaukee Brewers,36.54,0.0,0.2,0.3,60.0,0.33,0.4,0.5
+01-06-2014,Chicago Cubs,Milwaukee Brewers,37.74,0.0,0.0,0.3,58.93,0.33,0.6,0.5
+02-06-2014,Minnesota Twins,Milwaukee Brewers,48.15,0.0,0.2,0.2,59.65,0.0,0.4,0.5
+03-06-2014,Minnesota Twins,Milwaukee Brewers,47.27,0.33,0.4,0.3,60.34,0.33,0.4,0.5
+13-06-2014,Cincinnati Reds,Milwaukee Brewers,47.69,0.33,0.2,0.3,59.7,0.33,0.4,0.4
+14-06-2014,Cincinnati Reds,Milwaukee Brewers,48.48,0.33,0.4,0.4,58.82,0.33,0.4,0.5
+15-06-2014,Cincinnati Reds,Milwaukee Brewers,47.76,0.33,0.6,0.5,59.42,0.0,0.4,0.5
+23-06-2014,Washington Nationals,Milwaukee Brewers,52.7,0.33,0.2,0.3,61.04,0.33,0.6,0.6
+24-06-2014,Washington Nationals,Milwaukee Brewers,53.33,0.33,0.4,0.4,60.26,0.33,0.6,0.6
+25-06-2014,Washington Nationals,Milwaukee Brewers,53.95,0.33,0.6,0.5,59.49,0.0,0.4,0.6
+26-06-2014,Colorado Rockies,Milwaukee Brewers,44.3,0.33,0.2,0.1,60.0,0.0,0.2,0.5
+27-06-2014,Colorado Rockies,Milwaukee Brewers,43.75,0.0,0.2,0.1,60.49,0.33,0.2,0.5
+28-06-2014,Colorado Rockies,Milwaukee Brewers,43.21,0.0,0.2,0.1,60.98,0.33,0.4,0.6
+29-06-2014,Colorado Rockies,Milwaukee Brewers,42.68,0.0,0.0,0.1,61.45,0.33,0.6,0.6
+07-07-2014,Philadelphia Phillies,Milwaukee Brewers,42.05,0.0,0.2,0.1,58.43,0.33,0.2,0.4
+08-07-2014,Philadelphia Phillies,Milwaukee Brewers,42.7,0.0,0.0,0.1,57.78,0.0,0.2,0.3
+09-07-2014,Philadelphia Phillies,Milwaukee Brewers,43.33,0.33,0.2,0.2,57.14,0.0,0.2,0.2
+10-07-2014,Philadelphia Phillies,Milwaukee Brewers,43.96,0.33,0.4,0.3,56.52,0.0,0.0,0.1
+11-07-2014,St. Louis Cardinals,Milwaukee Brewers,53.76,0.33,0.6,0.6,55.91,0.0,0.0,0.1
+12-07-2014,St. Louis Cardinals,Milwaukee Brewers,54.26,0.0,0.4,0.5,55.32,0.0,0.0,0.1
+13-07-2014,St. Louis Cardinals,Milwaukee Brewers,54.74,0.33,0.4,0.5,54.74,0.0,0.0,0.1
+21-07-2014,Cincinnati Reds,Milwaukee Brewers,52.04,0.0,0.2,0.4,54.55,0.0,0.4,0.2
+22-07-2014,Cincinnati Reds,Milwaukee Brewers,51.52,0.0,0.0,0.3,55.0,0.0,0.2,0.2
+23-07-2014,Cincinnati Reds,Milwaukee Brewers,51.0,0.0,0.0,0.2,55.45,0.33,0.2,0.3
+24-07-2014,New York Mets,Milwaukee Brewers,47.52,0.33,0.2,0.5,55.88,0.33,0.4,0.4
+25-07-2014,New York Mets,Milwaukee Brewers,47.06,0.33,0.4,0.5,56.31,0.33,0.6,0.5
+26-07-2014,New York Mets,Milwaukee Brewers,47.57,0.0,0.4,0.4,55.77,0.33,0.6,0.6
+27-07-2014,New York Mets,Milwaukee Brewers,47.12,0.33,0.4,0.4,56.19,0.0,0.4,0.5
+05-08-2014,San Francisco Giants,Milwaukee Brewers,54.87,0.33,0.4,0.3,54.46,0.0,0.4,0.3
+06-08-2014,San Francisco Giants,Milwaukee Brewers,54.39,0.33,0.4,0.4,54.87,0.0,0.2,0.3
+07-08-2014,San Francisco Giants,Milwaukee Brewers,54.78,0.0,0.4,0.4,54.39,0.33,0.2,0.3
+08-08-2014,Los Angeles Dodgers,Milwaukee Brewers,56.9,0.33,0.4,0.5,54.78,0.0,0.2,0.3
+09-08-2014,Los Angeles Dodgers,Milwaukee Brewers,56.41,0.33,0.6,0.5,55.17,0.33,0.4,0.4
+10-08-2014,Los Angeles Dodgers,Milwaukee Brewers,55.93,0.0,0.4,0.4,55.56,0.33,0.4,0.5
+19-08-2014,Toronto Blue Jays,Milwaukee Brewers,51.2,0.33,0.2,0.3,56.0,0.33,0.6,0.5
+20-08-2014,Toronto Blue Jays,Milwaukee Brewers,50.79,0.0,0.2,0.3,56.35,0.33,0.6,0.5
+22-08-2014,Pittsburgh Pirates,Milwaukee Brewers,51.18,0.0,0.0,0.1,55.91,0.33,0.6,0.6
+23-08-2014,Pittsburgh Pirates,Milwaukee Brewers,51.56,0.33,0.2,0.1,55.47,0.0,0.4,0.5
+24-08-2014,Pittsburgh Pirates,Milwaukee Brewers,51.94,0.33,0.4,0.2,55.04,0.0,0.2,0.5
+04-09-2014,St. Louis Cardinals,Milwaukee Brewers,54.68,0.33,0.6,0.4,52.52,0.0,0.0,0.1
+05-09-2014,St. Louis Cardinals,Milwaukee Brewers,55.0,0.33,0.6,0.5,52.14,0.0,0.0,0.0
+06-09-2014,St. Louis Cardinals,Milwaukee Brewers,54.61,0.33,0.6,0.6,52.48,0.0,0.0,0.0
+07-09-2014,St. Louis Cardinals,Milwaukee Brewers,54.93,0.0,0.4,0.6,52.11,0.33,0.2,0.1
+08-09-2014,Miami Marlins,Milwaukee Brewers,48.94,0.0,0.2,0.3,51.75,0.0,0.2,0.1
+09-09-2014,Miami Marlins,Milwaukee Brewers,49.3,0.33,0.4,0.4,51.39,0.0,0.2,0.1
+10-09-2014,Miami Marlins,Milwaukee Brewers,49.65,0.33,0.4,0.4,51.03,0.0,0.0,0.1
+11-09-2014,Miami Marlins,Milwaukee Brewers,49.31,0.33,0.6,0.5,51.37,0.0,0.0,0.1
+12-09-2014,Cincinnati Reds,Milwaukee Brewers,47.62,0.33,0.4,0.3,51.7,0.33,0.2,0.2
+13-09-2014,Cincinnati Reds,Milwaukee Brewers,47.3,0.33,0.6,0.4,52.03,0.33,0.4,0.3
+14-09-2014,Cincinnati Reds,Milwaukee Brewers,47.65,0.0,0.4,0.4,51.68,0.33,0.6,0.4
+26-09-2014,Chicago Cubs,Milwaukee Brewers,44.65,0.33,0.2,0.4,50.94,0.33,0.2,0.3
+27-09-2014,Chicago Cubs,Milwaukee Brewers,45.0,0.33,0.4,0.4,50.62,0.0,0.2,0.2
+28-09-2014,Chicago Cubs,Milwaukee Brewers,44.72,0.33,0.6,0.4,50.93,0.0,0.2,0.2
+07-04-2014,Oakland Athletics,Minnesota Twins,50.0,0.0,0.2,nan,50.0,0.33,0.4,nan
+09-04-2014,Oakland Athletics,Minnesota Twins,57.14,0.33,0.4,nan,42.86,0.33,0.4,nan
+10-04-2014,Oakland Athletics,Minnesota Twins,62.5,0.33,0.4,nan,37.5,0.0,0.4,nan
+11-04-2014,Kansas City Royals,Minnesota Twins,50.0,0.0,0.2,nan,33.33,0.0,0.2,0.3
+12-04-2014,Kansas City Royals,Minnesota Twins,44.44,0.33,0.4,0.4,40.0,0.0,0.0,0.3
+13-04-2014,Kansas City Royals,Minnesota Twins,40.0,0.0,0.2,0.4,45.45,0.33,0.2,0.4
+15-04-2014,Toronto Blue Jays,Minnesota Twins,53.85,0.0,0.2,0.4,50.0,0.33,0.4,0.4
+25-04-2014,Detroit Tigers,Minnesota Twins,57.89,0.0,0.2,0.4,52.38,0.33,0.4,0.4
+26-04-2014,Detroit Tigers,Minnesota Twins,60.0,0.33,0.4,0.5,50.0,0.33,0.4,0.5
+30-04-2014,Los Angeles Dodgers,Minnesota Twins,53.85,0.33,0.2,0.4,52.17,0.0,0.4,0.4
+02-05-2014,Baltimore Orioles,Minnesota Twins,53.85,0.33,0.4,0.5,46.15,0.0,0.2,0.4
+03-05-2014,Baltimore Orioles,Minnesota Twins,55.56,0.33,0.4,0.5,44.44,0.0,0.0,0.3
+04-05-2014,Baltimore Orioles,Minnesota Twins,53.57,0.33,0.6,0.6,46.43,0.0,0.0,0.3
+13-05-2014,Boston Red Sox,Minnesota Twins,51.35,0.33,0.4,0.5,47.22,0.0,0.2,0.4
+14-05-2014,Boston Red Sox,Minnesota Twins,50.0,0.33,0.4,0.6,48.65,0.33,0.4,0.4
+15-05-2014,Boston Red Sox,Minnesota Twins,51.28,0.0,0.4,0.5,47.37,0.33,0.4,0.4
+16-05-2014,Seattle Mariners,Minnesota Twins,50.0,0.0,0.2,0.4,48.72,0.0,0.4,0.3
+17-05-2014,Seattle Mariners,Minnesota Twins,48.78,0.0,0.2,0.3,50.0,0.33,0.4,0.4
+18-05-2014,Seattle Mariners,Minnesota Twins,47.62,0.0,0.0,0.3,51.22,0.33,0.4,0.5
+26-05-2014,Texas Rangers,Minnesota Twins,50.0,0.33,0.4,0.4,48.94,0.0,0.2,0.5
+27-05-2014,Texas Rangers,Minnesota Twins,50.98,0.33,0.4,0.5,47.92,0.0,0.0,0.4
+28-05-2014,Texas Rangers,Minnesota Twins,50.0,0.33,0.6,0.6,48.98,0.0,0.0,0.3
+29-05-2014,Texas Rangers,Minnesota Twins,50.94,0.0,0.4,0.5,48.0,0.33,0.2,0.3
+04-06-2014,Milwaukee Brewers,Minnesota Twins,59.32,0.33,0.4,0.6,48.21,0.0,0.2,0.3
+05-06-2014,Milwaukee Brewers,Minnesota Twins,58.33,0.0,0.4,0.5,49.12,0.33,0.4,0.4
+06-06-2014,Houston Astros,Minnesota Twins,42.62,0.0,0.2,0.5,48.28,0.33,0.4,0.4
+07-06-2014,Houston Astros,Minnesota Twins,43.55,0.33,0.4,0.5,47.46,0.0,0.4,0.4
+08-06-2014,Houston Astros,Minnesota Twins,42.86,0.33,0.4,0.5,48.33,0.0,0.2,0.4
+19-06-2014,Chicago White Sox,Minnesota Twins,48.61,0.33,0.2,0.3,45.71,0.0,0.0,0.3
+20-06-2014,Chicago White Sox,Minnesota Twins,47.95,0.33,0.4,0.4,46.48,0.0,0.0,0.3
+21-06-2014,Chicago White Sox,Minnesota Twins,47.3,0.0,0.4,0.3,47.22,0.33,0.2,0.3
+22-06-2014,Chicago White Sox,Minnesota Twins,46.67,0.0,0.2,0.2,47.95,0.33,0.4,0.3
+30-06-2014,Kansas City Royals,Minnesota Twins,51.85,0.0,0.2,0.2,46.25,0.0,0.0,0.3
+01-07-2014,Kansas City Royals,Minnesota Twins,52.44,0.33,0.4,0.3,45.68,0.33,0.2,0.3
+02-07-2014,Kansas City Royals,Minnesota Twins,51.81,0.33,0.4,0.4,46.34,0.0,0.2,0.2
+03-07-2014,New York Yankees,Minnesota Twins,49.4,0.0,0.0,0.2,45.78,0.33,0.4,0.2
+04-07-2014,New York Yankees,Minnesota Twins,50.0,0.0,0.0,0.2,45.24,0.0,0.2,0.2
+05-07-2014,New York Yankees,Minnesota Twins,50.59,0.33,0.2,0.3,44.71,0.0,0.2,0.2
+06-07-2014,New York Yankees,Minnesota Twins,50.0,0.33,0.4,0.3,45.35,0.0,0.0,0.2
+18-07-2014,Tampa Bay Rays,Minnesota Twins,45.36,0.33,0.2,0.5,46.81,0.33,0.4,0.5
+19-07-2014,Tampa Bay Rays,Minnesota Twins,45.92,0.33,0.4,0.5,46.32,0.33,0.4,0.5
+20-07-2014,Tampa Bay Rays,Minnesota Twins,46.46,0.33,0.6,0.5,45.83,0.0,0.4,0.5
+21-07-2014,Cleveland Indians,Minnesota Twins,51.02,0.33,0.6,0.6,45.36,0.0,0.2,0.5
+22-07-2014,Cleveland Indians,Minnesota Twins,50.51,0.0,0.4,0.6,45.92,0.0,0.0,0.4
+23-07-2014,Cleveland Indians,Minnesota Twins,51.0,0.0,0.2,0.5,45.45,0.33,0.2,0.4
+24-07-2014,Chicago White Sox,Minnesota Twins,47.06,0.0,0.2,0.4,46.0,0.0,0.2,0.3
+25-07-2014,Chicago White Sox,Minnesota Twins,47.57,0.0,0.2,0.4,45.54,0.33,0.4,0.4
+26-07-2014,Chicago White Sox,Minnesota Twins,48.08,0.33,0.2,0.4,45.1,0.0,0.2,0.3
+27-07-2014,Chicago White Sox,Minnesota Twins,48.57,0.33,0.4,0.5,44.66,0.0,0.2,0.2
+05-08-2014,San Diego Padres,Minnesota Twins,45.95,0.33,0.4,0.4,45.45,0.33,0.2,0.3
+06-08-2014,San Diego Padres,Minnesota Twins,45.54,0.33,0.6,0.5,45.95,0.33,0.4,0.4
+15-08-2014,Kansas City Royals,Minnesota Twins,55.0,0.33,0.4,0.7,45.38,0.0,0.4,0.3
+16-08-2014,Kansas City Royals,Minnesota Twins,55.37,0.33,0.4,0.7,45.0,0.33,0.4,0.3
+17-08-2014,Kansas City Royals,Minnesota Twins,54.92,0.33,0.6,0.7,45.45,0.0,0.2,0.3
+18-08-2014,Kansas City Royals,Minnesota Twins,55.28,0.0,0.4,0.6,45.08,0.33,0.4,0.4
+19-08-2014,Cleveland Indians,Minnesota Twins,50.41,0.33,0.4,0.5,44.72,0.0,0.2,0.4
+20-08-2014,Cleveland Indians,Minnesota Twins,50.81,0.0,0.4,0.5,44.35,0.0,0.2,0.4
+21-08-2014,Cleveland Indians,Minnesota Twins,51.2,0.33,0.4,0.6,44.0,0.0,0.0,0.3
+22-08-2014,Detroit Tigers,Minnesota Twins,54.4,0.33,0.4,0.5,44.44,0.0,0.0,0.2
+24-08-2014,Detroit Tigers,Minnesota Twins,53.91,0.0,0.0,0.3,44.96,0.33,0.6,0.4
+02-09-2014,Chicago White Sox,Minnesota Twins,45.26,0.0,0.2,0.2,43.8,0.0,0.0,0.1
+03-09-2014,Chicago White Sox,Minnesota Twins,45.65,0.33,0.4,0.3,43.48,0.33,0.2,0.2
+04-09-2014,Los Angeles Angels of Anaheim,Minnesota Twins,60.14,0.0,0.4,0.6,43.88,0.0,0.2,0.2
+05-09-2014,Los Angeles Angels of Anaheim,Minnesota Twins,60.43,0.0,0.2,0.6,43.57,0.33,0.4,0.3
+06-09-2014,Los Angeles Angels of Anaheim,Minnesota Twins,60.71,0.33,0.2,0.6,43.26,0.0,0.2,0.3
+07-09-2014,Los Angeles Angels of Anaheim,Minnesota Twins,60.99,0.33,0.4,0.6,42.96,0.0,0.2,0.2
+15-09-2014,Detroit Tigers,Minnesota Twins,55.7,0.33,0.4,0.5,42.28,0.0,0.0,0.1
+16-09-2014,Detroit Tigers,Minnesota Twins,56.0,0.33,0.6,0.6,42.0,0.33,0.2,0.2
+17-09-2014,Detroit Tigers,Minnesota Twins,55.63,0.33,0.6,0.7,42.38,0.0,0.2,0.2
+19-09-2014,Cleveland Indians,Minnesota Twins,52.29,0.33,0.4,0.4,42.76,0.33,0.4,0.3
+20-09-2014,Cleveland Indians,Minnesota Twins,51.95,0.33,0.6,0.4,43.14,0.33,0.4,0.3
+21-09-2014,Cleveland Indians,Minnesota Twins,52.26,0.0,0.4,0.3,42.86,0.33,0.6,0.4
+22-09-2014,Arizona Diamondbacks,Minnesota Twins,39.74,0.0,0.0,0.3,42.58,0.0,0.4,0.4
+23-09-2014,Arizona Diamondbacks,Minnesota Twins,40.13,0.0,0.0,0.2,42.31,0.0,0.2,0.4
+24-09-2014,Arizona Diamondbacks,Minnesota Twins,39.87,0.33,0.2,0.2,42.68,0.0,0.0,0.4
+07-04-2014,Baltimore Orioles,New York Yankees,33.33,0.0,0.0,nan,50.0,0.0,0.4,nan
+08-04-2014,Baltimore Orioles,New York Yankees,28.57,0.33,0.2,nan,57.14,0.33,0.4,nan
+09-04-2014,Baltimore Orioles,New York Yankees,37.5,0.0,0.2,nan,50.0,0.33,0.4,nan
+10-04-2014,Boston Red Sox,New York Yankees,44.44,0.0,0.2,0.3,44.44,0.0,0.4,0.4
+11-04-2014,Boston Red Sox,New York Yankees,40.0,0.33,0.4,0.4,50.0,0.0,0.2,0.4
+12-04-2014,Boston Red Sox,New York Yankees,45.45,0.0,0.2,0.3,45.45,0.33,0.2,0.5
+13-04-2014,Boston Red Sox,New York Yankees,41.67,0.33,0.4,0.3,50.0,0.0,0.2,0.4
+25-04-2014,Los Angeles Angels of Anaheim,New York Yankees,47.62,0.33,0.4,0.4,59.09,0.0,0.4,0.5
+26-04-2014,Los Angeles Angels of Anaheim,New York Yankees,50.0,0.0,0.4,0.4,56.52,0.33,0.4,0.5
+27-04-2014,Los Angeles Angels of Anaheim,New York Yankees,47.83,0.33,0.4,0.5,58.33,0.0,0.2,0.4
+29-04-2014,Seattle Mariners,New York Yankees,41.67,0.0,0.4,0.2,60.0,0.33,0.4,0.4
+01-05-2014,Seattle Mariners,New York Yankees,44.0,0.33,0.4,0.3,57.69,0.33,0.4,0.5
+02-05-2014,Tampa Bay Rays,New York Yankees,44.83,0.33,0.2,0.2,55.56,0.0,0.4,0.5
+03-05-2014,Tampa Bay Rays,New York Yankees,46.67,0.33,0.4,0.3,53.57,0.0,0.2,0.4
+04-05-2014,Tampa Bay Rays,New York Yankees,45.16,0.33,0.6,0.4,55.17,0.0,0.0,0.3
+12-05-2014,New York Mets,New York Yankees,47.22,0.0,0.0,0.1,52.78,0.0,0.4,0.4
+13-05-2014,New York Mets,New York Yankees,48.65,0.33,0.2,0.2,51.35,0.0,0.2,0.4
+17-05-2014,Pittsburgh Pirates,New York Yankees,42.5,0.33,0.2,0.5,52.5,0.33,0.2,0.4
+30-05-2014,Minnesota Twins,New York Yankees,47.06,0.0,0.2,0.3,53.85,0.0,0.4,0.4
+31-05-2014,Minnesota Twins,New York Yankees,48.08,0.0,0.2,0.2,52.83,0.33,0.4,0.5
+01-06-2014,Minnesota Twins,New York Yankees,47.17,0.33,0.2,0.2,53.7,0.0,0.2,0.4
+02-06-2014,Seattle Mariners,New York Yankees,50.0,0.33,0.2,0.3,52.73,0.33,0.4,0.5
+03-06-2014,Oakland Athletics,New York Yankees,61.4,0.33,0.4,0.4,51.79,0.0,0.2,0.5
+04-06-2014,Oakland Athletics,New York Yankees,62.07,0.33,0.6,0.5,50.88,0.0,0.2,0.4
+05-06-2014,Oakland Athletics,New York Yankees,62.71,0.33,0.6,0.6,50.0,0.0,0.0,0.3
+17-06-2014,Toronto Blue Jays,New York Yankees,57.75,0.0,0.2,0.2,51.47,0.0,0.4,0.5
+18-06-2014,Toronto Blue Jays,New York Yankees,56.94,0.33,0.4,0.3,52.17,0.0,0.2,0.4
+19-06-2014,Toronto Blue Jays,New York Yankees,56.16,0.0,0.2,0.3,52.86,0.33,0.2,0.5
+20-06-2014,Baltimore Orioles,New York Yankees,52.11,0.33,0.2,0.4,53.52,0.33,0.4,0.6
+21-06-2014,Baltimore Orioles,New York Yankees,51.39,0.33,0.4,0.5,54.17,0.33,0.6,0.6
+22-06-2014,Baltimore Orioles,New York Yankees,52.05,0.0,0.4,0.4,53.42,0.33,0.6,0.6
+27-06-2014,Boston Red Sox,New York Yankees,45.57,0.0,0.2,0.3,51.95,0.0,0.0,0.4
+28-06-2014,Boston Red Sox,New York Yankees,45.0,0.33,0.2,0.3,52.56,0.33,0.2,0.4
+29-06-2014,Boston Red Sox,New York Yankees,45.68,0.0,0.2,0.2,51.9,0.33,0.4,0.4
+30-06-2014,Tampa Bay Rays,New York Yankees,41.67,0.33,0.4,0.5,51.25,0.0,0.4,0.3
+01-07-2014,Tampa Bay Rays,New York Yankees,42.35,0.33,0.4,0.5,50.62,0.0,0.2,0.2
+02-07-2014,Tampa Bay Rays,New York Yankees,43.02,0.33,0.6,0.5,50.0,0.0,0.0,0.2
+18-07-2014,Cincinnati Reds,New York Yankees,53.68,0.0,0.2,0.6,50.0,0.33,0.2,0.4
+19-07-2014,Cincinnati Reds,New York Yankees,53.12,0.33,0.4,0.6,50.53,0.0,0.2,0.4
+20-07-2014,Cincinnati Reds,New York Yankees,52.58,0.0,0.2,0.5,51.04,0.33,0.4,0.4
+21-07-2014,Texas Rangers,New York Yankees,39.8,0.0,0.2,0.1,51.55,0.33,0.4,0.4
+22-07-2014,Texas Rangers,New York Yankees,40.4,0.0,0.2,0.1,51.02,0.33,0.6,0.5
+23-07-2014,Texas Rangers,New York Yankees,40.0,0.33,0.2,0.2,51.52,0.0,0.4,0.4
+24-07-2014,Texas Rangers,New York Yankees,39.6,0.0,0.2,0.2,52.0,0.33,0.4,0.5
+25-07-2014,Toronto Blue Jays,New York Yankees,52.43,0.33,0.4,0.4,52.48,0.33,0.4,0.6
+26-07-2014,Toronto Blue Jays,New York Yankees,51.92,0.33,0.6,0.5,52.94,0.33,0.6,0.6
+27-07-2014,Toronto Blue Jays,New York Yankees,52.38,0.0,0.4,0.5,52.43,0.33,0.6,0.7
+04-08-2014,Detroit Tigers,New York Yankees,56.48,0.33,0.4,0.3,51.82,0.33,0.2,0.3
+05-08-2014,Detroit Tigers,New York Yankees,55.96,0.33,0.6,0.4,52.25,0.33,0.4,0.3
+06-08-2014,Detroit Tigers,New York Yankees,56.36,0.0,0.4,0.4,51.79,0.33,0.6,0.4
+07-08-2014,Detroit Tigers,New York Yankees,55.86,0.33,0.4,0.5,52.21,0.0,0.4,0.4
+08-08-2014,Cleveland Indians,New York Yankees,49.57,0.0,0.2,0.5,52.63,0.33,0.4,0.5
+09-08-2014,Cleveland Indians,New York Yankees,49.14,0.0,0.0,0.4,53.04,0.33,0.4,0.5
+10-08-2014,Cleveland Indians,New York Yankees,49.57,0.0,0.0,0.4,52.59,0.33,0.6,0.6
+19-08-2014,Houston Astros,New York Yankees,41.6,0.0,0.2,0.3,51.64,0.33,0.2,0.3
+20-08-2014,Houston Astros,New York Yankees,42.06,0.33,0.4,0.3,51.22,0.33,0.4,0.3
+21-08-2014,Houston Astros,New York Yankees,42.52,0.33,0.4,0.4,50.81,0.0,0.4,0.2
+22-08-2014,Chicago White Sox,New York Yankees,46.46,0.0,0.2,0.3,51.2,0.0,0.2,0.2
+23-08-2014,Chicago White Sox,New York Yankees,46.09,0.0,0.0,0.3,51.59,0.33,0.2,0.3
+24-08-2014,Chicago White Sox,New York Yankees,45.74,0.0,0.0,0.2,51.97,0.33,0.4,0.4
+02-09-2014,Boston Red Sox,New York Yankees,43.8,0.33,0.4,0.4,51.85,0.0,0.2,0.5
+03-09-2014,Boston Red Sox,New York Yankees,44.2,0.0,0.2,0.4,51.47,0.0,0.2,0.4
+04-09-2014,Boston Red Sox,New York Yankees,43.88,0.33,0.4,0.5,51.82,0.0,0.0,0.3
+05-09-2014,Kansas City Royals,New York Yankees,55.4,0.33,0.4,0.4,52.17,0.33,0.2,0.3
+06-09-2014,Kansas City Royals,New York Yankees,55.71,0.33,0.6,0.4,51.8,0.33,0.4,0.4
+07-09-2014,Kansas City Royals,New York Yankees,55.32,0.33,0.6,0.4,52.14,0.0,0.4,0.3
+09-09-2014,Tampa Bay Rays,New York Yankees,47.92,0.33,0.4,0.4,51.77,0.33,0.4,0.4
+10-09-2014,Tampa Bay Rays,New York Yankees,48.28,0.0,0.4,0.3,51.41,0.0,0.2,0.3
+11-09-2014,Tampa Bay Rays,New York Yankees,47.95,0.33,0.4,0.4,51.75,0.0,0.2,0.3
+18-09-2014,Toronto Blue Jays,New York Yankees,50.99,0.0,0.0,0.4,50.99,0.0,0.0,0.3
+19-09-2014,Toronto Blue Jays,New York Yankees,50.66,0.0,0.0,0.3,51.32,0.33,0.2,0.3
+20-09-2014,Toronto Blue Jays,New York Yankees,50.33,0.0,0.0,0.2,51.63,0.33,0.4,0.3
+21-09-2014,Toronto Blue Jays,New York Yankees,50.65,0.0,0.0,0.1,51.3,0.33,0.6,0.4
+22-09-2014,Baltimore Orioles,New York Yankees,60.0,0.33,0.4,0.6,51.61,0.0,0.4,0.4
+23-09-2014,Baltimore Orioles,New York Yankees,59.62,0.0,0.2,0.5,51.92,0.33,0.4,0.4
+24-09-2014,Baltimore Orioles,New York Yankees,59.87,0.0,0.2,0.5,51.59,0.33,0.4,0.5
+25-09-2014,Baltimore Orioles,New York Yankees,60.13,0.33,0.2,0.5,51.27,0.0,0.4,0.5
+31-03-2014,Washington Nationals,New York Mets,0,0.33,0.4,0.6,0,0.33,0.2,0.5
+02-04-2014,Washington Nationals,New York Mets,100.0,nan,nan,nan,0.0,nan,nan,nan
+03-04-2014,Washington Nationals,New York Mets,100.0,0.33,nan,nan,0.0,0.0,nan,nan
+04-04-2014,Cincinnati Reds,New York Mets,33.33,0.33,nan,nan,0.0,0.0,nan,nan
+05-04-2014,Cincinnati Reds,New York Mets,25.0,0.0,0.2,nan,25.0,0.0,0.0,nan
+06-04-2014,Cincinnati Reds,New York Mets,20.0,0.0,0.2,nan,40.0,0.33,0.2,nan
+18-04-2014,Atlanta Braves,New York Mets,66.67,0.33,0.6,0.6,53.33,0.33,0.4,0.5
+19-04-2014,Atlanta Braves,New York Mets,68.75,0.0,0.4,0.6,50.0,0.33,0.6,0.5
+20-04-2014,Atlanta Braves,New York Mets,70.59,0.33,0.4,0.6,47.06,0.0,0.4,0.5
+21-04-2014,St. Louis Cardinals,New York Mets,57.89,0.33,0.4,0.6,50.0,0.0,0.2,0.4
+22-04-2014,St. Louis Cardinals,New York Mets,55.0,0.0,0.2,0.5,52.63,0.33,0.2,0.5
+23-04-2014,St. Louis Cardinals,New York Mets,57.14,0.0,0.2,0.4,50.0,0.33,0.4,0.5
+24-04-2014,St. Louis Cardinals,New York Mets,54.55,0.33,0.2,0.4,52.38,0.0,0.4,0.5
+25-04-2014,Miami Marlins,New York Mets,45.45,0.33,0.4,0.5,54.55,0.33,0.4,0.5
+26-04-2014,Miami Marlins,New York Mets,43.48,0.0,0.2,0.5,56.52,0.33,0.4,0.5
+27-04-2014,Miami Marlins,New York Mets,45.83,0.0,0.2,0.4,54.17,0.33,0.6,0.5
+09-05-2014,Philadelphia Phillies,New York Mets,45.45,0.0,0.0,0.3,48.48,0.0,0.2,0.3
+10-05-2014,Philadelphia Phillies,New York Mets,47.06,0.0,0.0,0.2,47.06,0.0,0.0,0.2
+11-05-2014,Philadelphia Phillies,New York Mets,48.57,0.33,0.2,0.3,45.71,0.0,0.0,0.1
+14-05-2014,New York Yankees,New York Mets,50.0,0.0,0.0,0.3,50.0,0.33,0.4,0.3
+15-05-2014,New York Yankees,New York Mets,51.28,0.0,0.0,0.3,48.72,0.33,0.6,0.3
+20-05-2014,Los Angeles Dodgers,New York Mets,51.11,0.0,0.2,0.4,46.51,0.33,0.2,0.4
+21-05-2014,Los Angeles Dodgers,New York Mets,52.17,0.0,0.2,0.4,45.45,0.0,0.2,0.4
+22-05-2014,Los Angeles Dodgers,New York Mets,53.19,0.33,0.2,0.4,44.44,0.0,0.2,0.3
+24-05-2014,Arizona Diamondbacks,New York Mets,36.73,0.0,0.2,0.3,45.65,0.0,0.0,0.2
+26-05-2014,Pittsburgh Pirates,New York Mets,44.9,0.33,0.6,0.5,44.9,0.0,0.2,0.2
+27-05-2014,Pittsburgh Pirates,New York Mets,46.0,0.0,0.4,0.5,44.0,0.33,0.2,0.3
+28-05-2014,Pittsburgh Pirates,New York Mets,45.1,0.33,0.4,0.6,45.1,0.0,0.2,0.2
+10-06-2014,Milwaukee Brewers,New York Mets,59.38,0.33,0.4,0.4,44.44,0.0,0.0,0.3
+11-06-2014,Milwaukee Brewers,New York Mets,58.46,0.33,0.4,0.5,45.31,0.0,0.0,0.2
+12-06-2014,Milwaukee Brewers,New York Mets,59.09,0.0,0.4,0.4,44.62,0.33,0.2,0.2
+13-06-2014,San Diego Padres,New York Mets,42.42,0.0,0.0,0.2,43.94,0.0,0.2,0.1
+14-06-2014,San Diego Padres,New York Mets,41.79,0.0,0.0,0.2,44.78,0.0,0.2,0.1
+15-06-2014,San Diego Padres,New York Mets,42.65,0.0,0.0,0.2,44.12,0.33,0.2,0.2
+24-06-2014,Oakland Athletics,New York Mets,61.84,0.33,0.6,0.7,46.05,0.33,0.4,0.4
+25-06-2014,Oakland Athletics,New York Mets,61.04,0.0,0.4,0.6,46.75,0.33,0.4,0.5
+04-07-2014,Texas Rangers,New York Mets,43.53,0.0,0.0,0.2,43.53,0.0,0.0,0.2
+05-07-2014,Texas Rangers,New York Mets,43.02,0.0,0.0,0.2,44.19,0.0,0.0,0.1
+06-07-2014,Texas Rangers,New York Mets,43.68,0.0,0.0,0.2,43.68,0.33,0.2,0.2
+07-07-2014,Atlanta Braves,New York Mets,55.68,0.33,0.6,0.8,44.32,0.0,0.2,0.2
+08-07-2014,Atlanta Braves,New York Mets,55.06,0.0,0.4,0.7,44.94,0.33,0.4,0.3
+09-07-2014,Atlanta Braves,New York Mets,54.44,0.0,0.2,0.6,45.56,0.33,0.4,0.3
+10-07-2014,Atlanta Braves,New York Mets,53.85,0.0,0.0,0.5,46.15,0.33,0.6,0.4
+11-07-2014,Miami Marlins,New York Mets,48.35,0.33,0.4,0.5,45.65,0.33,0.6,0.5
+12-07-2014,Miami Marlins,New York Mets,47.83,0.0,0.2,0.4,46.24,0.0,0.4,0.5
+13-07-2014,Miami Marlins,New York Mets,47.31,0.0,0.2,0.3,46.81,0.33,0.4,0.6
+28-07-2014,Philadelphia Phillies,New York Mets,43.81,0.0,0.4,0.3,47.62,0.0,0.2,0.3
+29-07-2014,Philadelphia Phillies,New York Mets,43.4,0.33,0.4,0.3,48.11,0.33,0.4,0.4
+30-07-2014,Philadelphia Phillies,New York Mets,43.93,0.0,0.2,0.3,47.66,0.33,0.4,0.5
+01-08-2014,San Francisco Giants,New York Mets,54.13,0.0,0.0,0.2,48.15,0.0,0.4,0.5
+02-08-2014,San Francisco Giants,New York Mets,54.55,0.33,0.2,0.2,47.71,0.33,0.4,0.5
+03-08-2014,San Francisco Giants,New York Mets,54.05,0.33,0.4,0.2,48.18,0.0,0.2,0.4
+04-08-2014,San Francisco Giants,New York Mets,54.46,0.0,0.4,0.2,47.75,0.33,0.4,0.5
+12-08-2014,Washington Nationals,New York Mets,54.31,0.33,0.4,0.5,47.9,0.0,0.4,0.3
+13-08-2014,Washington Nationals,New York Mets,54.7,0.0,0.2,0.4,47.5,0.33,0.4,0.4
+14-08-2014,Washington Nationals,New York Mets,55.08,0.33,0.4,0.4,47.11,0.0,0.2,0.4
+15-08-2014,Chicago Cubs,New York Mets,43.33,0.33,0.4,0.4,46.72,0.0,0.2,0.3
+16-08-2014,Chicago Cubs,New York Mets,42.98,0.0,0.4,0.4,47.15,0.0,0.0,0.3
+17-08-2014,Chicago Cubs,New York Mets,42.62,0.0,0.2,0.3,47.58,0.33,0.2,0.4
+18-08-2014,Chicago Cubs,New York Mets,43.09,0.0,0.0,0.3,47.2,0.33,0.4,0.4
+26-08-2014,Atlanta Braves,New York Mets,51.91,0.0,0.4,0.6,46.56,0.0,0.2,0.3
+27-08-2014,Atlanta Braves,New York Mets,51.52,0.0,0.2,0.5,46.97,0.33,0.2,0.3
+28-08-2014,Atlanta Braves,New York Mets,51.88,0.0,0.0,0.4,46.62,0.33,0.4,0.3
+29-08-2014,Philadelphia Phillies,New York Mets,45.86,0.33,0.6,0.6,46.27,0.0,0.4,0.3
+30-08-2014,Philadelphia Phillies,New York Mets,45.52,0.33,0.6,0.6,46.67,0.0,0.2,0.3
+31-08-2014,Philadelphia Phillies,New York Mets,45.93,0.0,0.4,0.6,46.32,0.33,0.2,0.4
+08-09-2014,Colorado Rockies,New York Mets,41.26,0.33,0.6,0.5,47.55,0.0,0.4,0.5
+09-09-2014,Colorado Rockies,New York Mets,40.97,0.33,0.6,0.6,47.92,0.33,0.4,0.5
+10-09-2014,Colorado Rockies,New York Mets,40.69,0.0,0.4,0.5,48.28,0.33,0.4,0.6
+11-09-2014,Washington Nationals,New York Mets,56.94,0.33,0.6,0.5,48.63,0.33,0.6,0.6
+12-09-2014,Washington Nationals,New York Mets,57.24,0.0,0.4,0.4,48.3,0.33,0.6,0.7
+13-09-2014,Washington Nationals,New York Mets,56.85,0.33,0.4,0.5,48.65,0.0,0.4,0.6
+14-09-2014,Washington Nationals,New York Mets,57.14,0.0,0.2,0.4,48.32,0.33,0.4,0.6
+15-09-2014,Miami Marlins,New York Mets,48.65,0.0,0.0,0.3,48.0,0.0,0.2,0.5
+16-09-2014,Miami Marlins,New York Mets,48.99,0.33,0.2,0.4,47.68,0.0,0.2,0.5
+17-09-2014,Miami Marlins,New York Mets,48.67,0.33,0.4,0.4,48.03,0.0,0.0,0.4
+26-09-2014,Houston Astros,New York Mets,43.4,0.0,0.2,0.2,48.43,0.33,0.4,0.5
+27-09-2014,Houston Astros,New York Mets,43.75,0.0,0.0,0.2,48.12,0.0,0.2,0.5
+28-09-2014,Houston Astros,New York Mets,43.48,0.33,0.2,0.3,48.45,0.0,0.2,0.4
+31-03-2014,Cleveland Indians,Oakland Athletics,0,0.0,0.4,0.4,0,0.0,0.2,0.3
+03-04-2014,Seattle Mariners,Oakland Athletics,100.0,0.33,nan,nan,33.33,0.33,nan,nan
+05-04-2014,Seattle Mariners,Oakland Athletics,75.0,0.33,0.6,nan,50.0,0.0,0.2,nan
+06-04-2014,Seattle Mariners,Oakland Athletics,80.0,0.0,0.4,nan,40.0,0.33,0.4,nan
+18-04-2014,Houston Astros,Oakland Athletics,31.25,0.0,0.0,0.2,66.67,0.33,0.6,0.7
+19-04-2014,Houston Astros,Oakland Athletics,29.41,0.0,0.0,0.2,68.75,0.0,0.4,0.6
+20-04-2014,Houston Astros,Oakland Athletics,27.78,0.0,0.0,0.2,70.59,0.33,0.4,0.6
+21-04-2014,Texas Rangers,Oakland Athletics,57.89,0.33,0.6,0.6,72.22,0.33,0.4,0.6
+22-04-2014,Texas Rangers,Oakland Athletics,60.0,0.0,0.4,0.6,68.42,0.33,0.6,0.7
+23-04-2014,Texas Rangers,Oakland Athletics,61.9,0.33,0.4,0.6,65.0,0.0,0.4,0.6
+05-05-2014,Seattle Mariners,Oakland Athletics,48.28,0.33,0.4,0.6,61.29,0.0,0.2,0.4
+06-05-2014,Seattle Mariners,Oakland Athletics,50.0,0.33,0.4,0.6,59.38,0.33,0.2,0.4
+09-05-2014,Washington Nationals,Oakland Athletics,55.88,0.0,0.2,0.4,57.14,0.0,0.0,0.3
+10-05-2014,Washington Nationals,Oakland Athletics,54.29,0.33,0.4,0.5,58.33,0.33,0.2,0.3
+11-05-2014,Washington Nationals,Oakland Athletics,52.78,0.0,0.2,0.4,59.46,0.33,0.4,0.3
+12-05-2014,Chicago White Sox,Oakland Athletics,48.72,0.0,0.2,0.5,60.53,0.33,0.6,0.4
+13-05-2014,Chicago White Sox,Oakland Athletics,47.5,0.0,0.2,0.5,61.54,0.33,0.6,0.5
+14-05-2014,Chicago White Sox,Oakland Athletics,46.34,0.0,0.0,0.4,62.5,0.33,0.6,0.5
+26-05-2014,Detroit Tigers,Oakland Athletics,60.87,0.0,0.2,0.3,60.0,0.0,0.0,0.5
+27-05-2014,Detroit Tigers,Oakland Athletics,59.57,0.0,0.2,0.2,60.78,0.0,0.0,0.4
+28-05-2014,Detroit Tigers,Oakland Athletics,60.42,0.0,0.0,0.1,59.62,0.33,0.2,0.4
+29-05-2014,Detroit Tigers,Oakland Athletics,59.18,0.33,0.2,0.2,60.38,0.0,0.2,0.3
+30-05-2014,Los Angeles Angels of Anaheim,Oakland Athletics,56.6,0.0,0.2,0.5,59.26,0.33,0.4,0.3
+31-05-2014,Los Angeles Angels of Anaheim,Oakland Athletics,55.56,0.33,0.4,0.5,60.0,0.0,0.2,0.2
+01-06-2014,Los Angeles Angels of Anaheim,Oakland Athletics,54.55,0.0,0.2,0.4,60.71,0.33,0.4,0.3
+13-06-2014,New York Yankees,Oakland Athletics,52.31,0.33,0.4,0.4,60.61,0.0,0.2,0.4
+14-06-2014,New York Yankees,Oakland Athletics,53.03,0.33,0.6,0.5,59.7,0.33,0.2,0.4
+15-06-2014,New York Yankees,Oakland Athletics,52.24,0.33,0.6,0.6,60.29,0.0,0.2,0.3
+16-06-2014,Texas Rangers,Oakland Athletics,49.28,0.33,0.6,0.4,60.87,0.33,0.4,0.4
+17-06-2014,Texas Rangers,Oakland Athletics,50.0,0.0,0.4,0.3,60.0,0.33,0.4,0.4
+18-06-2014,Texas Rangers,Oakland Athletics,49.3,0.33,0.4,0.4,60.56,0.0,0.4,0.4
+19-06-2014,Boston Red Sox,Oakland Athletics,47.22,0.33,0.4,0.5,61.11,0.33,0.4,0.4
+20-06-2014,Boston Red Sox,Oakland Athletics,46.58,0.33,0.6,0.5,61.64,0.33,0.4,0.5
+21-06-2014,Boston Red Sox,Oakland Athletics,45.95,0.0,0.4,0.5,62.16,0.33,0.6,0.6
+22-06-2014,Boston Red Sox,Oakland Athletics,45.33,0.0,0.2,0.4,62.67,0.33,0.6,0.6
+03-07-2014,Toronto Blue Jays,Oakland Athletics,54.65,0.33,0.2,0.4,60.71,0.0,0.2,0.4
+04-07-2014,Toronto Blue Jays,Oakland Athletics,54.02,0.33,0.4,0.4,61.18,0.0,0.0,0.4
+05-07-2014,Toronto Blue Jays,Oakland Athletics,53.41,0.0,0.4,0.3,61.63,0.33,0.2,0.5
+06-07-2014,Toronto Blue Jays,Oakland Athletics,52.81,0.0,0.2,0.3,62.07,0.33,0.4,0.5
+07-07-2014,San Francisco Giants,Oakland Athletics,56.18,0.33,0.2,0.2,62.5,0.33,0.6,0.5
+08-07-2014,San Francisco Giants,Oakland Athletics,55.56,0.33,0.4,0.3,62.92,0.33,0.6,0.5
+18-07-2014,Baltimore Orioles,Oakland Athletics,55.32,0.0,0.4,0.5,62.11,0.0,0.2,0.5
+19-07-2014,Baltimore Orioles,Oakland Athletics,54.74,0.33,0.4,0.6,62.5,0.33,0.2,0.5
+20-07-2014,Baltimore Orioles,Oakland Athletics,55.21,0.0,0.2,0.5,61.86,0.33,0.4,0.5
+22-07-2014,Houston Astros,Oakland Athletics,41.41,0.0,0.0,0.4,62.24,0.0,0.4,0.4
+23-07-2014,Houston Astros,Oakland Athletics,42.0,0.33,0.2,0.4,61.62,0.33,0.4,0.4
+24-07-2014,Houston Astros,Oakland Athletics,41.58,0.33,0.4,0.4,62.0,0.0,0.2,0.4
+01-08-2014,Kansas City Royals,Oakland Athletics,51.4,0.33,0.2,0.6,61.68,0.33,0.4,0.5
+02-08-2014,Kansas City Royals,Oakland Athletics,51.85,0.33,0.4,0.6,61.11,0.0,0.2,0.5
+03-08-2014,Kansas City Royals,Oakland Athletics,51.38,0.33,0.6,0.6,61.47,0.0,0.2,0.4
+04-08-2014,Tampa Bay Rays,Oakland Athletics,48.65,0.33,0.2,0.5,60.91,0.33,0.2,0.4
+05-08-2014,Tampa Bay Rays,Oakland Athletics,48.21,0.0,0.2,0.4,61.26,0.0,0.2,0.4
+06-08-2014,Tampa Bay Rays,Oakland Athletics,47.79,0.0,0.2,0.3,61.61,0.33,0.4,0.4
+07-08-2014,Minnesota Twins,Oakland Athletics,45.54,0.33,0.6,0.5,61.06,0.33,0.4,0.4
+08-08-2014,Minnesota Twins,Oakland Athletics,45.13,0.0,0.4,0.4,61.4,0.0,0.4,0.4
+09-08-2014,Minnesota Twins,Oakland Athletics,44.74,0.0,0.2,0.3,61.74,0.33,0.4,0.4
+10-08-2014,Minnesota Twins,Oakland Athletics,44.35,0.0,0.0,0.3,62.07,0.33,0.4,0.5
+19-08-2014,New York Mets,Oakland Athletics,46.83,0.0,0.4,0.3,58.87,0.0,0.0,0.2
+20-08-2014,New York Mets,Oakland Athletics,46.46,0.0,0.2,0.3,59.2,0.0,0.0,0.1
+22-08-2014,Los Angeles Angels of Anaheim,Oakland Athletics,60.32,0.33,0.6,0.7,58.73,0.33,0.2,0.2
+23-08-2014,Los Angeles Angels of Anaheim,Oakland Athletics,59.84,0.33,0.6,0.7,59.06,0.0,0.2,0.2
+24-08-2014,Los Angeles Angels of Anaheim,Oakland Athletics,59.38,0.0,0.4,0.6,59.38,0.33,0.4,0.2
+01-09-2014,Seattle Mariners,Oakland Athletics,54.07,0.0,0.0,0.4,57.35,0.0,0.0,0.3
+02-09-2014,Seattle Mariners,Oakland Athletics,53.68,0.33,0.2,0.4,57.66,0.0,0.0,0.2
+03-09-2014,Seattle Mariners,Oakland Athletics,54.01,0.0,0.2,0.3,57.25,0.33,0.2,0.3
+05-09-2014,Houston Astros,Oakland Athletics,43.57,0.33,0.6,0.5,56.83,0.0,0.2,0.2
+06-09-2014,Houston Astros,Oakland Athletics,43.97,0.33,0.6,0.6,56.43,0.0,0.2,0.2
+07-09-2014,Houston Astros,Oakland Athletics,43.66,0.33,0.6,0.6,56.74,0.0,0.0,0.1
+16-09-2014,Texas Rangers,Oakland Athletics,38.26,0.33,0.4,0.3,55.7,0.33,0.2,0.3
+17-09-2014,Texas Rangers,Oakland Athletics,38.67,0.33,0.6,0.4,55.33,0.33,0.4,0.3
+18-09-2014,Texas Rangers,Oakland Athletics,39.07,0.33,0.6,0.5,54.97,0.0,0.4,0.3
+19-09-2014,Philadelphia Phillies,Oakland Athletics,45.75,0.33,0.2,0.3,54.61,0.0,0.2,0.3
+20-09-2014,Philadelphia Phillies,Oakland Athletics,45.45,0.0,0.2,0.3,54.9,0.0,0.0,0.2
+21-09-2014,Philadelphia Phillies,Oakland Athletics,45.81,0.0,0.2,0.3,54.55,0.33,0.2,0.3
+22-09-2014,Los Angeles Angels of Anaheim,Oakland Athletics,61.54,0.33,0.2,0.4,54.84,0.0,0.2,0.3
+23-09-2014,Los Angeles Angels of Anaheim,Oakland Athletics,61.15,0.0,0.2,0.3,55.13,0.33,0.4,0.4
+24-09-2014,Los Angeles Angels of Anaheim,Oakland Athletics,61.39,0.0,0.2,0.3,54.78,0.33,0.4,0.4
+08-04-2014,Milwaukee Brewers,Philadelphia Phillies,66.67,0.33,0.4,nan,50.0,0.33,0.4,nan
+09-04-2014,Milwaukee Brewers,Philadelphia Phillies,71.43,0.33,0.6,nan,42.86,0.0,0.4,nan
+10-04-2014,Milwaukee Brewers,Philadelphia Phillies,75.0,0.33,0.6,nan,37.5,0.0,0.2,nan
+11-04-2014,Miami Marlins,Philadelphia Phillies,50.0,0.0,0.0,0.4,33.33,0.0,0.0,0.3
+12-04-2014,Miami Marlins,Philadelphia Phillies,45.45,0.0,0.0,0.3,40.0,0.0,0.0,0.2
+13-04-2014,Miami Marlins,Philadelphia Phillies,41.67,0.0,0.0,0.3,45.45,0.33,0.2,0.3
+14-04-2014,Atlanta Braves,Philadelphia Phillies,66.67,0.33,0.4,0.5,50.0,0.33,0.4,0.4
+16-04-2014,Atlanta Braves,Philadelphia Phillies,69.23,0.33,0.6,0.5,46.15,0.33,0.6,0.4
+17-04-2014,Atlanta Braves,Philadelphia Phillies,71.43,0.33,0.6,0.5,42.86,0.0,0.4,0.3
+29-04-2014,New York Mets,Philadelphia Phillies,56.0,0.0,0.4,0.5,52.0,0.33,0.4,0.5
+02-05-2014,Washington Nationals,Philadelphia Phillies,57.14,0.33,0.4,0.4,50.0,0.33,0.4,0.6
+03-05-2014,Washington Nationals,Philadelphia Phillies,58.62,0.33,0.4,0.5,48.15,0.0,0.4,0.5
+04-05-2014,Washington Nationals,Philadelphia Phillies,56.67,0.33,0.6,0.6,50.0,0.0,0.2,0.4
+05-05-2014,Toronto Blue Jays,Philadelphia Phillies,45.16,0.0,0.2,0.2,51.72,0.33,0.2,0.4
+06-05-2014,Toronto Blue Jays,Philadelphia Phillies,46.88,0.33,0.2,0.3,50.0,0.33,0.4,0.5
+13-05-2014,Los Angeles Angels of Anaheim,Philadelphia Phillies,51.35,0.33,0.6,0.5,47.22,0.33,0.4,0.4
+14-05-2014,Los Angeles Angels of Anaheim,Philadelphia Phillies,52.63,0.0,0.4,0.4,45.95,0.0,0.4,0.3
+16-05-2014,Cincinnati Reds,Philadelphia Phillies,46.15,0.33,0.4,0.4,44.74,0.0,0.2,0.2
+17-05-2014,Cincinnati Reds,Philadelphia Phillies,47.5,0.0,0.2,0.3,43.59,0.0,0.0,0.2
+18-05-2014,Cincinnati Reds,Philadelphia Phillies,46.34,0.33,0.4,0.4,45.0,0.0,0.0,0.2
+23-05-2014,Los Angeles Dodgers,Philadelphia Phillies,52.08,0.33,0.4,0.5,45.45,0.0,0.4,0.3
+24-05-2014,Los Angeles Dodgers,Philadelphia Phillies,53.06,0.0,0.4,0.4,44.44,0.0,0.2,0.3
+25-05-2014,Los Angeles Dodgers,Philadelphia Phillies,52.0,0.33,0.4,0.4,45.65,0.0,0.0,0.3
+26-05-2014,Colorado Rockies,Philadelphia Phillies,52.94,0.33,0.2,0.4,44.68,0.33,0.2,0.4
+27-05-2014,Colorado Rockies,Philadelphia Phillies,51.92,0.0,0.2,0.3,45.83,0.0,0.2,0.4
+28-05-2014,Colorado Rockies,Philadelphia Phillies,52.83,0.0,0.2,0.3,44.9,0.33,0.4,0.4
+29-05-2014,New York Mets,Philadelphia Phillies,46.15,0.33,0.4,0.3,46.0,0.0,0.2,0.3
+30-05-2014,New York Mets,Philadelphia Phillies,47.17,0.33,0.4,0.4,45.1,0.33,0.4,0.3
+31-05-2014,New York Mets,Philadelphia Phillies,46.3,0.33,0.6,0.5,46.15,0.0,0.2,0.3
+01-06-2014,New York Mets,Philadelphia Phillies,47.27,0.0,0.4,0.4,45.28,0.33,0.4,0.4
+02-06-2014,New York Mets,Philadelphia Phillies,48.21,0.33,0.4,0.5,44.44,0.0,0.2,0.4
+10-06-2014,San Diego Padres,Philadelphia Phillies,44.44,0.33,0.4,0.4,40.98,0.0,0.2,0.1
+11-06-2014,San Diego Padres,Philadelphia Phillies,43.75,0.0,0.2,0.3,41.94,0.0,0.2,0.1
+12-06-2014,San Diego Padres,Philadelphia Phillies,43.08,0.0,0.2,0.2,42.86,0.33,0.2,0.2
+13-06-2014,Chicago Cubs,Philadelphia Phillies,40.62,0.0,0.2,0.5,43.75,0.33,0.4,0.3
+14-06-2014,Chicago Cubs,Philadelphia Phillies,41.54,0.0,0.2,0.4,43.08,0.33,0.6,0.4
+15-06-2014,Chicago Cubs,Philadelphia Phillies,40.91,0.33,0.2,0.4,43.94,0.0,0.4,0.4
+23-06-2014,Miami Marlins,Philadelphia Phillies,49.33,0.0,0.2,0.3,45.95,0.0,0.4,0.6
+24-06-2014,Miami Marlins,Philadelphia Phillies,50.0,0.0,0.2,0.3,45.33,0.0,0.2,0.5
+25-06-2014,Miami Marlins,Philadelphia Phillies,49.35,0.33,0.2,0.3,46.05,0.0,0.0,0.5
+26-06-2014,Miami Marlins,Philadelphia Phillies,50.0,0.0,0.2,0.3,45.45,0.33,0.2,0.5
+27-06-2014,Atlanta Braves,Philadelphia Phillies,51.28,0.33,0.4,0.4,46.15,0.0,0.2,0.4
+29-06-2014,Atlanta Braves,Philadelphia Phillies,53.09,0.33,0.4,0.5,44.44,0.0,0.2,0.2
+11-07-2014,Washington Nationals,Philadelphia Phillies,54.44,0.33,0.4,0.6,44.57,0.33,0.6,0.4
+12-07-2014,Washington Nationals,Philadelphia Phillies,53.85,0.0,0.2,0.5,45.16,0.33,0.6,0.5
+13-07-2014,Washington Nationals,Philadelphia Phillies,54.35,0.0,0.2,0.4,44.68,0.33,0.6,0.5
+21-07-2014,San Francisco Giants,Philadelphia Phillies,55.56,0.33,0.6,0.5,43.88,0.33,0.2,0.5
+22-07-2014,San Francisco Giants,Philadelphia Phillies,56.0,0.0,0.4,0.5,43.43,0.0,0.2,0.4
+23-07-2014,San Francisco Giants,Philadelphia Phillies,56.44,0.33,0.4,0.5,43.0,0.0,0.2,0.3
+24-07-2014,San Francisco Giants,Philadelphia Phillies,56.86,0.33,0.4,0.6,42.57,0.0,0.0,0.2
+25-07-2014,Arizona Diamondbacks,Philadelphia Phillies,43.14,0.33,0.4,0.5,43.14,0.0,0.0,0.1
+26-07-2014,Arizona Diamondbacks,Philadelphia Phillies,42.72,0.0,0.2,0.5,43.69,0.33,0.2,0.2
+27-07-2014,Arizona Diamondbacks,Philadelphia Phillies,43.27,0.0,0.2,0.4,43.27,0.33,0.4,0.3
+05-08-2014,Houston Astros,Philadelphia Phillies,41.96,0.33,0.4,0.4,43.75,0.0,0.4,0.4
+06-08-2014,Houston Astros,Philadelphia Phillies,41.59,0.33,0.6,0.5,44.25,0.0,0.2,0.4
+07-08-2014,Houston Astros,Philadelphia Phillies,41.23,0.0,0.4,0.5,44.74,0.33,0.2,0.4
+08-08-2014,New York Mets,Philadelphia Phillies,46.96,0.0,0.2,0.3,45.22,0.33,0.4,0.5
+09-08-2014,New York Mets,Philadelphia Phillies,47.41,0.0,0.2,0.3,44.83,0.33,0.6,0.5
+10-08-2014,New York Mets,Philadelphia Phillies,47.86,0.33,0.2,0.3,44.44,0.0,0.4,0.5
+11-08-2014,New York Mets,Philadelphia Phillies,47.46,0.33,0.4,0.4,44.92,0.0,0.2,0.4
+18-08-2014,Seattle Mariners,Philadelphia Phillies,54.47,0.0,0.4,0.6,43.55,0.0,0.2,0.2
+19-08-2014,Seattle Mariners,Philadelphia Phillies,54.03,0.33,0.4,0.6,44.0,0.0,0.2,0.2
+20-08-2014,Seattle Mariners,Philadelphia Phillies,54.4,0.0,0.2,0.6,43.65,0.33,0.2,0.3
+22-08-2014,St. Louis Cardinals,Philadelphia Phillies,54.76,0.33,0.6,0.6,44.09,0.0,0.2,0.2
+23-08-2014,St. Louis Cardinals,Philadelphia Phillies,54.33,0.33,0.6,0.7,44.53,0.33,0.4,0.3
+24-08-2014,St. Louis Cardinals,Philadelphia Phillies,54.69,0.0,0.4,0.6,44.19,0.33,0.4,0.4
+25-08-2014,Washington Nationals,Philadelphia Phillies,58.14,0.33,0.4,0.7,44.62,0.0,0.4,0.4
+26-08-2014,Washington Nationals,Philadelphia Phillies,57.69,0.33,0.4,0.7,45.04,0.33,0.4,0.4
+27-08-2014,Washington Nationals,Philadelphia Phillies,57.25,0.0,0.4,0.6,45.45,0.33,0.4,0.5
+08-09-2014,Pittsburgh Pirates,Philadelphia Phillies,52.11,0.33,0.4,0.4,46.48,0.33,0.4,0.5
+09-09-2014,Pittsburgh Pirates,Philadelphia Phillies,52.45,0.33,0.6,0.4,46.15,0.0,0.4,0.5
+10-09-2014,Pittsburgh Pirates,Philadelphia Phillies,52.08,0.33,0.6,0.4,46.53,0.0,0.2,0.4
+11-09-2014,Pittsburgh Pirates,Philadelphia Phillies,52.41,0.0,0.4,0.4,46.21,0.33,0.2,0.5
+12-09-2014,Miami Marlins,Philadelphia Phillies,48.97,0.0,0.4,0.4,45.89,0.0,0.2,0.4
+13-09-2014,Miami Marlins,Philadelphia Phillies,48.63,0.0,0.2,0.4,46.26,0.0,0.2,0.3
+14-09-2014,Miami Marlins,Philadelphia Phillies,48.3,0.0,0.0,0.4,46.62,0.33,0.2,0.4
+26-09-2014,Atlanta Braves,Philadelphia Phillies,48.43,0.33,0.2,0.2,45.28,0.33,0.2,0.3
+27-09-2014,Atlanta Braves,Philadelphia Phillies,48.12,0.0,0.2,0.2,45.62,0.0,0.2,0.3
+28-09-2014,Atlanta Braves,Philadelphia Phillies,48.45,0.0,0.2,0.1,45.34,0.33,0.4,0.3
+31-03-2014,Chicago Cubs,Pittsburgh Pirates,0,0.0,0.4,0.4,0,0.0,0.4,0.5
+02-04-2014,Chicago Cubs,Pittsburgh Pirates,0.0,nan,nan,nan,100.0,nan,nan,nan
+03-04-2014,Chicago Cubs,Pittsburgh Pirates,0.0,0.0,nan,nan,100.0,0.33,nan,nan
+04-04-2014,St. Louis Cardinals,Pittsburgh Pirates,66.67,0.0,nan,nan,66.67,0.33,nan,nan
+05-04-2014,St. Louis Cardinals,Pittsburgh Pirates,50.0,0.33,0.4,nan,75.0,0.0,0.4,nan
+06-04-2014,St. Louis Cardinals,Pittsburgh Pirates,60.0,0.0,0.2,nan,60.0,0.33,0.4,nan
+17-04-2014,Milwaukee Brewers,Pittsburgh Pirates,73.33,0.0,0.2,0.6,46.67,0.0,0.2,0.3
+18-04-2014,Milwaukee Brewers,Pittsburgh Pirates,68.75,0.33,0.2,0.6,50.0,0.0,0.2,0.2
+19-04-2014,Milwaukee Brewers,Pittsburgh Pirates,70.59,0.0,0.2,0.5,47.06,0.33,0.2,0.3
+20-04-2014,Milwaukee Brewers,Pittsburgh Pirates,72.22,0.33,0.4,0.5,44.44,0.0,0.2,0.2
+21-04-2014,Cincinnati Reds,Pittsburgh Pirates,44.44,0.0,0.4,0.4,42.11,0.0,0.2,0.2
+22-04-2014,Cincinnati Reds,Pittsburgh Pirates,42.11,0.33,0.4,0.5,45.0,0.0,0.0,0.2
+23-04-2014,Cincinnati Reds,Pittsburgh Pirates,45.0,0.0,0.2,0.5,42.86,0.33,0.2,0.3
+24-04-2014,Cincinnati Reds,Pittsburgh Pirates,47.62,0.33,0.4,0.5,40.91,0.0,0.2,0.2
+02-05-2014,Toronto Blue Jays,Pittsburgh Pirates,46.43,0.0,0.2,0.2,35.71,0.0,0.2,0.2
+03-05-2014,Toronto Blue Jays,Pittsburgh Pirates,44.83,0.33,0.2,0.2,37.93,0.0,0.0,0.1
+04-05-2014,Toronto Blue Jays,Pittsburgh Pirates,43.33,0.0,0.2,0.2,40.0,0.33,0.2,0.2
+05-05-2014,San Francisco Giants,Pittsburgh Pirates,64.52,0.33,0.6,0.7,38.71,0.33,0.4,0.3
+06-05-2014,San Francisco Giants,Pittsburgh Pirates,65.62,0.33,0.6,0.7,37.5,0.0,0.4,0.3
+07-05-2014,San Francisco Giants,Pittsburgh Pirates,63.64,0.33,0.6,0.7,39.39,0.0,0.2,0.3
+09-05-2014,St. Louis Cardinals,Pittsburgh Pirates,51.43,0.0,0.4,0.3,41.18,0.33,0.2,0.3
+10-05-2014,St. Louis Cardinals,Pittsburgh Pirates,50.0,0.33,0.4,0.4,42.86,0.33,0.4,0.4
+11-05-2014,St. Louis Cardinals,Pittsburgh Pirates,48.65,0.0,0.2,0.4,44.44,0.33,0.6,0.5
+20-05-2014,Baltimore Orioles,Pittsburgh Pirates,52.38,0.0,0.4,0.3,41.86,0.0,0.0,0.3
+21-05-2014,Baltimore Orioles,Pittsburgh Pirates,53.49,0.0,0.2,0.2,40.91,0.33,0.2,0.3
+22-05-2014,Washington Nationals,Pittsburgh Pirates,52.17,0.33,0.4,0.5,42.22,0.0,0.2,0.2
+23-05-2014,Washington Nationals,Pittsburgh Pirates,51.06,0.0,0.2,0.4,43.48,0.33,0.4,0.3
+24-05-2014,Washington Nationals,Pittsburgh Pirates,50.0,0.0,0.2,0.4,44.68,0.33,0.4,0.4
+25-05-2014,Washington Nationals,Pittsburgh Pirates,48.98,0.0,0.0,0.3,45.83,0.33,0.6,0.4
+06-06-2014,Milwaukee Brewers,Pittsburgh Pirates,59.02,0.0,0.2,0.5,47.46,0.33,0.6,0.5
+07-06-2014,Milwaukee Brewers,Pittsburgh Pirates,58.06,0.33,0.2,0.5,48.33,0.0,0.4,0.5
+08-06-2014,Milwaukee Brewers,Pittsburgh Pirates,58.73,0.0,0.2,0.4,47.54,0.33,0.4,0.6
+09-06-2014,Chicago Cubs,Pittsburgh Pirates,41.67,0.33,0.6,0.6,46.77,0.0,0.2,0.5
+10-06-2014,Chicago Cubs,Pittsburgh Pirates,40.98,0.0,0.4,0.6,47.62,0.0,0.2,0.4
+11-06-2014,Chicago Cubs,Pittsburgh Pirates,41.94,0.0,0.2,0.5,46.88,0.33,0.2,0.5
+12-06-2014,Chicago Cubs,Pittsburgh Pirates,41.27,0.33,0.2,0.6,47.69,0.0,0.2,0.4
+17-06-2014,Cincinnati Reds,Pittsburgh Pirates,48.53,0.0,0.4,0.5,49.28,0.33,0.6,0.5
+18-06-2014,Cincinnati Reds,Pittsburgh Pirates,49.28,0.33,0.4,0.5,48.57,0.0,0.4,0.5
+19-06-2014,Cincinnati Reds,Pittsburgh Pirates,50.0,0.33,0.4,0.5,47.89,0.0,0.2,0.5
+26-06-2014,New York Mets,Pittsburgh Pirates,46.15,0.33,0.6,0.5,50.0,0.33,0.6,0.5
+27-06-2014,New York Mets,Pittsburgh Pirates,45.57,0.0,0.4,0.5,50.63,0.0,0.4,0.5
+28-06-2014,New York Mets,Pittsburgh Pirates,45.0,0.0,0.2,0.5,51.25,0.33,0.4,0.6
+29-06-2014,New York Mets,Pittsburgh Pirates,45.68,0.0,0.0,0.4,50.62,0.33,0.4,0.6
+01-07-2014,Arizona Diamondbacks,Pittsburgh Pirates,41.67,0.33,0.4,0.4,51.22,0.0,0.4,0.6
+02-07-2014,Arizona Diamondbacks,Pittsburgh Pirates,41.18,0.0,0.4,0.4,51.81,0.33,0.4,0.6
+03-07-2014,Arizona Diamondbacks,Pittsburgh Pirates,40.7,0.0,0.2,0.3,52.38,0.33,0.4,0.6
+04-07-2014,Philadelphia Phillies,Pittsburgh Pirates,43.53,0.0,0.0,0.1,51.76,0.33,0.6,0.6
+05-07-2014,Philadelphia Phillies,Pittsburgh Pirates,43.02,0.33,0.2,0.2,52.33,0.0,0.4,0.5
+06-07-2014,Philadelphia Phillies,Pittsburgh Pirates,42.53,0.0,0.2,0.1,52.87,0.33,0.4,0.6
+18-07-2014,Colorado Rockies,Pittsburgh Pirates,41.67,0.0,0.4,0.4,51.58,0.33,0.4,0.4
+19-07-2014,Colorado Rockies,Pittsburgh Pirates,41.24,0.0,0.2,0.4,52.08,0.0,0.2,0.3
+20-07-2014,Colorado Rockies,Pittsburgh Pirates,40.82,0.0,0.0,0.3,52.58,0.33,0.4,0.3
+21-07-2014,Los Angeles Dodgers,Pittsburgh Pirates,55.0,0.0,0.2,0.3,53.06,0.33,0.4,0.4
+22-07-2014,Los Angeles Dodgers,Pittsburgh Pirates,55.45,0.33,0.2,0.4,52.53,0.33,0.6,0.5
+23-07-2014,Los Angeles Dodgers,Pittsburgh Pirates,54.9,0.33,0.4,0.5,53.0,0.0,0.4,0.5
+05-08-2014,Miami Marlins,Pittsburgh Pirates,48.65,0.33,0.2,0.5,53.15,0.33,0.4,0.5
+06-08-2014,Miami Marlins,Pittsburgh Pirates,49.11,0.0,0.2,0.4,52.68,0.0,0.4,0.5
+07-08-2014,Miami Marlins,Pittsburgh Pirates,48.67,0.33,0.4,0.4,53.1,0.0,0.2,0.4
+08-08-2014,San Diego Padres,Pittsburgh Pirates,46.02,0.0,0.4,0.5,53.51,0.33,0.2,0.4
+09-08-2014,San Diego Padres,Pittsburgh Pirates,45.61,0.33,0.4,0.6,53.91,0.33,0.4,0.4
+10-08-2014,San Diego Padres,Pittsburgh Pirates,46.09,0.0,0.2,0.5,53.45,0.33,0.6,0.5
+11-08-2014,Detroit Tigers,Pittsburgh Pirates,54.78,0.0,0.2,0.4,52.99,0.0,0.4,0.5
+12-08-2014,Detroit Tigers,Pittsburgh Pirates,54.31,0.0,0.2,0.3,53.39,0.0,0.2,0.4
+18-08-2014,Atlanta Braves,Pittsburgh Pirates,51.61,0.33,0.4,0.4,51.61,0.0,0.0,0.2
+19-08-2014,Atlanta Braves,Pittsburgh Pirates,52.0,0.33,0.6,0.5,51.2,0.0,0.0,0.2
+20-08-2014,Atlanta Braves,Pittsburgh Pirates,52.38,0.33,0.6,0.5,50.79,0.0,0.0,0.2
+25-08-2014,St. Louis Cardinals,Pittsburgh Pirates,54.26,0.33,0.4,0.6,51.54,0.33,0.6,0.3
+26-08-2014,St. Louis Cardinals,Pittsburgh Pirates,54.62,0.0,0.2,0.5,51.15,0.0,0.4,0.3
+27-08-2014,St. Louis Cardinals,Pittsburgh Pirates,54.2,0.33,0.4,0.6,51.52,0.0,0.2,0.3
+29-08-2014,Cincinnati Reds,Pittsburgh Pirates,48.51,0.33,0.4,0.3,51.88,0.33,0.2,0.4
+30-08-2014,Cincinnati Reds,Pittsburgh Pirates,48.15,0.33,0.4,0.4,52.24,0.33,0.4,0.5
+31-08-2014,Cincinnati Reds,Pittsburgh Pirates,47.79,0.0,0.4,0.4,52.59,0.33,0.6,0.6
+12-09-2014,Chicago Cubs,Pittsburgh Pirates,43.84,0.0,0.0,0.3,52.74,0.33,0.4,0.5
+13-09-2014,Chicago Cubs,Pittsburgh Pirates,43.54,0.0,0.0,0.2,53.06,0.33,0.4,0.6
+14-09-2014,Chicago Cubs,Pittsburgh Pirates,43.92,0.0,0.0,0.1,52.7,0.33,0.6,0.7
+16-09-2014,Boston Red Sox,Pittsburgh Pirates,44.0,0.0,0.4,0.3,53.02,0.0,0.4,0.6
+17-09-2014,Boston Red Sox,Pittsburgh Pirates,43.71,0.33,0.4,0.3,53.33,0.33,0.4,0.6
+18-09-2014,Boston Red Sox,Pittsburgh Pirates,43.42,0.0,0.2,0.3,53.64,0.33,0.4,0.6
+19-09-2014,Milwaukee Brewers,Pittsburgh Pirates,51.63,0.0,0.4,0.5,53.95,0.33,0.6,0.6
+20-09-2014,Milwaukee Brewers,Pittsburgh Pirates,51.3,0.0,0.2,0.5,54.25,0.33,0.6,0.7
+21-09-2014,Milwaukee Brewers,Pittsburgh Pirates,51.61,0.0,0.0,0.4,53.9,0.33,0.6,0.7
+30-03-2014,Los Angeles Dodgers,San Diego Padres,100.0,0.33,nan,nan,0,0.0,0.2,0.5
+01-04-2014,Los Angeles Dodgers,San Diego Padres,66.67,0.33,nan,nan,100.0,nan,nan,nan
+02-04-2014,Los Angeles Dodgers,San Diego Padres,75.0,0.0,0.4,nan,50.0,0.33,nan,nan
+11-04-2014,Detroit Tigers,San Diego Padres,71.43,0.0,0.2,nan,33.33,0.0,0.2,0.2
+12-04-2014,Detroit Tigers,San Diego Padres,62.5,0.33,0.2,nan,40.0,0.33,0.2,0.2
+13-04-2014,Detroit Tigers,San Diego Padres,66.67,0.0,0.2,0.5,36.36,0.33,0.4,0.3
+14-04-2014,Colorado Rockies,San Diego Padres,46.15,0.33,0.4,0.5,41.67,0.0,0.4,0.3
+15-04-2014,Colorado Rockies,San Diego Padres,42.86,0.0,0.2,0.4,46.15,0.33,0.4,0.4
+16-04-2014,Colorado Rockies,San Diego Padres,46.67,0.0,0.2,0.3,42.86,0.33,0.4,0.5
+17-04-2014,Colorado Rockies,San Diego Padres,43.75,0.33,0.2,0.4,46.67,0.0,0.4,0.4
+18-04-2014,San Francisco Giants,San Diego Padres,62.5,0.33,0.6,0.5,43.75,0.33,0.4,0.5
+19-04-2014,San Francisco Giants,San Diego Padres,58.82,0.0,0.4,0.4,47.06,0.0,0.2,0.5
+20-04-2014,San Francisco Giants,San Diego Padres,55.56,0.0,0.2,0.4,50.0,0.33,0.4,0.5
+02-05-2014,Arizona Diamondbacks,San Diego Padres,29.03,0.0,0.0,0.3,44.83,0.0,0.4,0.4
+03-05-2014,Arizona Diamondbacks,San Diego Padres,31.25,0.33,0.2,0.4,43.33,0.0,0.2,0.3
+04-05-2014,Arizona Diamondbacks,San Diego Padres,33.33,0.33,0.4,0.4,41.94,0.0,0.0,0.3
+05-05-2014,Kansas City Royals,San Diego Padres,46.67,0.0,0.0,0.4,43.75,0.0,0.0,0.2
+06-05-2014,Kansas City Royals,San Diego Padres,45.16,0.0,0.0,0.3,45.45,0.33,0.2,0.3
+07-05-2014,Kansas City Royals,San Diego Padres,46.88,0.0,0.0,0.3,44.12,0.33,0.4,0.4
+08-05-2014,Miami Marlins,San Diego Padres,55.88,0.33,0.6,0.7,42.86,0.0,0.4,0.3
+09-05-2014,Miami Marlins,San Diego Padres,57.14,0.33,0.6,0.7,41.67,0.0,0.2,0.2
+10-05-2014,Miami Marlins,San Diego Padres,55.56,0.33,0.6,0.7,43.24,0.0,0.0,0.2
+11-05-2014,Miami Marlins,San Diego Padres,54.05,0.0,0.4,0.6,44.74,0.33,0.2,0.3
+20-05-2014,Minnesota Twins,San Diego Padres,50.0,0.33,0.6,0.6,46.67,0.33,0.4,0.6
+21-05-2014,Minnesota Twins,San Diego Padres,51.16,0.0,0.4,0.5,45.65,0.0,0.2,0.5
+22-05-2014,Chicago Cubs,San Diego Padres,36.36,0.33,0.6,0.4,44.68,0.0,0.2,0.4
+23-05-2014,Chicago Cubs,San Diego Padres,37.78,0.0,0.4,0.4,43.75,0.0,0.0,0.3
+24-05-2014,Chicago Cubs,San Diego Padres,36.96,0.33,0.4,0.4,44.9,0.0,0.0,0.2
+25-05-2014,Chicago Cubs,San Diego Padres,38.3,0.0,0.2,0.4,44.0,0.33,0.2,0.3
+02-06-2014,Pittsburgh Pirates,San Diego Padres,46.43,0.0,0.4,0.4,45.61,0.33,0.4,0.5
+03-06-2014,Pittsburgh Pirates,San Diego Padres,47.37,0.33,0.4,0.4,44.83,0.0,0.4,0.4
+04-06-2014,Pittsburgh Pirates,San Diego Padres,48.28,0.33,0.4,0.5,44.07,0.0,0.2,0.4
+06-06-2014,Washington Nationals,San Diego Padres,51.72,0.33,0.4,0.5,45.0,0.0,0.0,0.3
+07-06-2014,Washington Nationals,San Diego Padres,52.54,0.33,0.6,0.5,44.26,0.33,0.2,0.4
+08-06-2014,Washington Nationals,San Diego Padres,51.67,0.33,0.6,0.6,45.16,0.0,0.2,0.3
+18-06-2014,Seattle Mariners,San Diego Padres,52.11,0.33,0.4,0.3,40.85,0.0,0.2,0.1
+19-06-2014,Seattle Mariners,San Diego Padres,51.39,0.33,0.6,0.3,41.67,0.0,0.0,0.1
+20-06-2014,Los Angeles Dodgers,San Diego Padres,54.05,0.33,0.4,0.5,42.47,0.33,0.2,0.2
+21-06-2014,Los Angeles Dodgers,San Diego Padres,53.33,0.33,0.6,0.5,43.24,0.33,0.4,0.3
+22-06-2014,Los Angeles Dodgers,San Diego Padres,53.95,0.0,0.4,0.5,42.67,0.33,0.6,0.4
+27-06-2014,Arizona Diamondbacks,San Diego Padres,40.74,0.33,0.2,0.3,43.04,0.33,0.4,0.5
+28-06-2014,Arizona Diamondbacks,San Diego Padres,41.46,0.0,0.2,0.3,42.5,0.0,0.4,0.5
+29-06-2014,Arizona Diamondbacks,San Diego Padres,42.17,0.33,0.4,0.4,41.98,0.0,0.2,0.4
+30-06-2014,Cincinnati Reds,San Diego Padres,53.09,0.33,0.6,0.7,42.68,0.0,0.0,0.3
+01-07-2014,Cincinnati Reds,San Diego Padres,52.44,0.33,0.6,0.7,43.37,0.33,0.2,0.3
+02-07-2014,Cincinnati Reds,San Diego Padres,51.81,0.0,0.4,0.6,44.05,0.33,0.4,0.4
+04-07-2014,San Francisco Giants,San Diego Padres,55.81,0.0,0.2,0.2,44.71,0.33,0.6,0.5
+05-07-2014,San Francisco Giants,San Diego Padres,55.17,0.0,0.2,0.2,45.35,0.33,0.6,0.5
+06-07-2014,San Francisco Giants,San Diego Padres,55.68,0.0,0.0,0.1,44.83,0.33,0.6,0.5
+18-07-2014,New York Mets,San Diego Padres,47.37,0.33,0.4,0.6,43.16,0.0,0.2,0.2
+19-07-2014,New York Mets,San Diego Padres,47.92,0.33,0.6,0.7,42.71,0.0,0.2,0.2
+20-07-2014,New York Mets,San Diego Padres,47.42,0.33,0.6,0.7,43.3,0.0,0.0,0.2
+29-07-2014,St. Louis Cardinals,San Diego Padres,53.85,0.33,0.2,0.3,43.81,0.0,0.2,0.5
+30-07-2014,St. Louis Cardinals,San Diego Padres,53.33,0.33,0.4,0.4,44.34,0.0,0.0,0.4
+31-07-2014,St. Louis Cardinals,San Diego Padres,52.83,0.0,0.4,0.3,44.86,0.33,0.2,0.4
+01-08-2014,Atlanta Braves,San Diego Padres,53.21,0.0,0.2,0.4,44.44,0.33,0.4,0.5
+02-08-2014,Atlanta Braves,San Diego Padres,52.73,0.0,0.0,0.3,44.95,0.0,0.4,0.4
+03-08-2014,Atlanta Braves,San Diego Padres,52.25,0.0,0.0,0.3,45.45,0.33,0.4,0.4
+11-08-2014,Colorado Rockies,San Diego Padres,38.98,0.0,0.0,0.1,46.55,0.33,0.4,0.5
+12-08-2014,Colorado Rockies,San Diego Padres,38.66,0.33,0.2,0.2,47.01,0.33,0.4,0.6
+13-08-2014,Colorado Rockies,San Diego Padres,38.33,0.0,0.2,0.2,47.46,0.33,0.6,0.6
+25-08-2014,Milwaukee Brewers,San Diego Padres,55.38,0.0,0.0,0.5,46.51,0.0,0.0,0.2
+26-08-2014,Milwaukee Brewers,San Diego Padres,55.73,0.33,0.2,0.5,46.15,0.33,0.2,0.3
+27-08-2014,Milwaukee Brewers,San Diego Padres,55.3,0.33,0.4,0.5,46.56,0.0,0.2,0.2
+29-08-2014,Los Angeles Dodgers,San Diego Padres,56.72,0.33,0.4,0.5,46.97,0.33,0.4,0.3
+30-08-2014,Los Angeles Dodgers,San Diego Padres,56.3,0.33,0.4,0.6,47.37,0.33,0.4,0.4
+31-08-2014,Los Angeles Dodgers,San Diego Padres,55.88,0.0,0.4,0.5,47.76,0.33,0.6,0.4
+01-09-2014,Arizona Diamondbacks,San Diego Padres,41.91,0.0,0.2,0.3,47.41,0.33,0.6,0.5
+02-09-2014,Arizona Diamondbacks,San Diego Padres,41.61,0.33,0.4,0.4,47.79,0.0,0.4,0.5
+03-09-2014,Arizona Diamondbacks,San Diego Padres,41.3,0.0,0.2,0.3,48.18,0.33,0.4,0.6
+04-09-2014,Arizona Diamondbacks,San Diego Padres,41.73,0.0,0.2,0.2,47.83,0.33,0.4,0.6
+15-09-2014,Philadelphia Phillies,San Diego Padres,46.31,0.33,0.4,0.4,45.95,0.0,0.2,0.2
+16-09-2014,Philadelphia Phillies,San Diego Padres,46.0,0.0,0.4,0.3,46.31,0.0,0.2,0.2
+17-09-2014,Philadelphia Phillies,San Diego Padres,45.7,0.0,0.2,0.3,46.67,0.33,0.2,0.3
+18-09-2014,Philadelphia Phillies,San Diego Padres,46.05,0.0,0.0,0.3,46.36,0.33,0.4,0.4
+19-09-2014,San Francisco Giants,San Diego Padres,55.26,0.33,0.2,0.5,46.71,0.0,0.4,0.4
+20-09-2014,San Francisco Giants,San Diego Padres,54.9,0.33,0.4,0.5,47.06,0.33,0.4,0.4
+21-09-2014,San Francisco Giants,San Diego Padres,54.55,0.0,0.4,0.4,47.4,0.33,0.4,0.5
+22-09-2014,Colorado Rockies,San Diego Padres,41.67,0.33,0.6,0.5,47.74,0.33,0.6,0.5
+23-09-2014,Colorado Rockies,San Diego Padres,41.4,0.33,0.6,0.6,48.08,0.33,0.6,0.6
+24-09-2014,Colorado Rockies,San Diego Padres,41.77,0.0,0.4,0.6,47.77,0.33,0.6,0.7
+08-04-2014,Los Angeles Angels of Anaheim,Seattle Mariners,42.86,0.0,0.4,nan,66.67,0.33,0.4,nan
+09-04-2014,Los Angeles Angels of Anaheim,Seattle Mariners,37.5,0.33,0.4,nan,71.43,0.0,0.2,nan
+11-04-2014,Oakland Athletics,Seattle Mariners,66.67,0.33,0.6,0.5,62.5,0.33,0.4,nan
+12-04-2014,Oakland Athletics,Seattle Mariners,60.0,0.33,0.6,0.6,66.67,0.0,0.2,0.5
+13-04-2014,Oakland Athletics,Seattle Mariners,63.64,0.0,0.4,0.5,60.0,0.33,0.4,0.5
+21-04-2014,Houston Astros,Seattle Mariners,26.32,0.0,0.0,0.1,38.89,0.0,0.0,0.1
+22-04-2014,Houston Astros,Seattle Mariners,30.0,0.0,0.0,0.1,36.84,0.0,0.0,0.1
+23-04-2014,Houston Astros,Seattle Mariners,33.33,0.33,0.2,0.1,35.0,0.0,0.0,0.1
+25-04-2014,Texas Rangers,Seattle Mariners,63.64,0.33,0.4,0.7,38.1,0.0,0.0,0.0
+26-04-2014,Texas Rangers,Seattle Mariners,60.87,0.33,0.6,0.7,40.91,0.33,0.2,0.1
+27-04-2014,Texas Rangers,Seattle Mariners,62.5,0.0,0.4,0.6,39.13,0.33,0.4,0.2
+08-05-2014,Kansas City Royals,Seattle Mariners,48.48,0.33,0.2,0.3,51.52,0.33,0.6,0.7
+09-05-2014,Kansas City Royals,Seattle Mariners,47.06,0.33,0.4,0.3,52.94,0.0,0.4,0.6
+10-05-2014,Kansas City Royals,Seattle Mariners,48.57,0.0,0.4,0.2,51.43,0.33,0.4,0.6
+11-05-2014,Kansas City Royals,Seattle Mariners,47.22,0.33,0.4,0.3,52.78,0.0,0.2,0.6
+12-05-2014,Tampa Bay Rays,Seattle Mariners,42.11,0.33,0.2,0.3,51.35,0.33,0.4,0.6
+13-05-2014,Tampa Bay Rays,Seattle Mariners,41.03,0.0,0.2,0.2,52.63,0.0,0.2,0.5
+14-05-2014,Tampa Bay Rays,Seattle Mariners,42.5,0.0,0.2,0.2,51.28,0.33,0.4,0.5
+22-05-2014,Houston Astros,Seattle Mariners,36.17,0.0,0.4,0.5,48.89,0.33,0.4,0.3
+23-05-2014,Houston Astros,Seattle Mariners,35.42,0.0,0.2,0.5,50.0,0.0,0.4,0.3
+24-05-2014,Houston Astros,Seattle Mariners,34.69,0.0,0.0,0.4,51.06,0.33,0.4,0.3
+25-05-2014,Houston Astros,Seattle Mariners,36.0,0.0,0.0,0.3,50.0,0.33,0.4,0.4
+26-05-2014,Los Angeles Angels of Anaheim,Seattle Mariners,57.14,0.0,0.4,0.5,48.98,0.0,0.4,0.4
+27-05-2014,Los Angeles Angels of Anaheim,Seattle Mariners,56.0,0.33,0.4,0.6,50.0,0.0,0.2,0.4
+28-05-2014,Los Angeles Angels of Anaheim,Seattle Mariners,56.86,0.0,0.2,0.5,49.02,0.33,0.2,0.5
+29-05-2014,Los Angeles Angels of Anaheim,Seattle Mariners,55.77,0.33,0.4,0.5,50.0,0.0,0.2,0.4
+30-05-2014,Detroit Tigers,Seattle Mariners,60.0,0.0,0.2,0.2,49.06,0.33,0.4,0.4
+31-05-2014,Detroit Tigers,Seattle Mariners,60.78,0.33,0.4,0.3,48.15,0.0,0.2,0.4
+01-06-2014,Detroit Tigers,Seattle Mariners,59.62,0.33,0.4,0.4,49.09,0.0,0.2,0.3
+10-06-2014,New York Yankees,Seattle Mariners,50.0,0.0,0.4,0.3,53.97,0.33,0.4,0.7
+11-06-2014,New York Yankees,Seattle Mariners,50.79,0.0,0.2,0.2,53.12,0.33,0.6,0.7
+12-06-2014,New York Yankees,Seattle Mariners,51.56,0.33,0.2,0.3,52.31,0.0,0.4,0.6
+13-06-2014,Texas Rangers,Seattle Mariners,48.48,0.0,0.0,0.2,51.52,0.0,0.2,0.5
+14-06-2014,Texas Rangers,Seattle Mariners,49.25,0.33,0.2,0.3,50.75,0.0,0.0,0.4
+15-06-2014,Texas Rangers,Seattle Mariners,50.0,0.33,0.4,0.4,50.0,0.0,0.0,0.3
+16-06-2014,San Diego Padres,Seattle Mariners,42.03,0.33,0.2,0.2,50.72,0.0,0.0,0.3
+17-06-2014,San Diego Padres,Seattle Mariners,41.43,0.0,0.2,0.2,51.43,0.33,0.2,0.3
+23-06-2014,Boston Red Sox,Seattle Mariners,46.05,0.0,0.0,0.3,52.63,0.33,0.4,0.5
+24-06-2014,Boston Red Sox,Seattle Mariners,45.45,0.33,0.2,0.4,53.25,0.33,0.6,0.6
+25-06-2014,Boston Red Sox,Seattle Mariners,44.87,0.0,0.2,0.4,53.85,0.33,0.6,0.6
+27-06-2014,Cleveland Indians,Seattle Mariners,48.72,0.0,0.0,0.3,53.16,0.33,0.6,0.6
+28-06-2014,Cleveland Indians,Seattle Mariners,48.1,0.33,0.2,0.3,53.75,0.0,0.4,0.5
+29-06-2014,Cleveland Indians,Seattle Mariners,48.75,0.0,0.2,0.2,53.09,0.33,0.4,0.6
+07-07-2014,Minnesota Twins,Seattle Mariners,44.83,0.33,0.2,0.3,54.55,0.33,0.4,0.6
+08-07-2014,Minnesota Twins,Seattle Mariners,44.32,0.0,0.2,0.3,55.06,0.0,0.2,0.5
+09-07-2014,Minnesota Twins,Seattle Mariners,44.94,0.0,0.2,0.2,54.44,0.33,0.4,0.6
+10-07-2014,Minnesota Twins,Seattle Mariners,45.56,0.33,0.2,0.3,53.85,0.0,0.2,0.5
+11-07-2014,Oakland Athletics,Seattle Mariners,63.04,0.0,0.4,0.6,53.26,0.0,0.2,0.4
+12-07-2014,Oakland Athletics,Seattle Mariners,62.37,0.33,0.4,0.7,53.76,0.0,0.0,0.3
+13-07-2014,Oakland Athletics,Seattle Mariners,61.7,0.0,0.2,0.6,54.26,0.33,0.2,0.3
+21-07-2014,New York Mets,Seattle Mariners,46.94,0.0,0.4,0.6,53.06,0.33,0.2,0.3
+22-07-2014,New York Mets,Seattle Mariners,46.46,0.0,0.2,0.5,53.54,0.0,0.2,0.3
+23-07-2014,New York Mets,Seattle Mariners,47.0,0.0,0.0,0.4,53.0,0.33,0.4,0.4
+24-07-2014,Baltimore Orioles,Seattle Mariners,55.0,0.33,0.4,0.5,52.48,0.0,0.2,0.4
+25-07-2014,Baltimore Orioles,Seattle Mariners,55.45,0.0,0.4,0.4,51.96,0.0,0.2,0.3
+26-07-2014,Baltimore Orioles,Seattle Mariners,55.88,0.33,0.4,0.5,51.46,0.0,0.0,0.2
+27-07-2014,Baltimore Orioles,Seattle Mariners,55.34,0.33,0.4,0.5,51.92,0.0,0.0,0.2
+05-08-2014,Atlanta Braves,Seattle Mariners,51.79,0.0,0.0,0.3,51.35,0.33,0.4,0.4
+06-08-2014,Atlanta Braves,Seattle Mariners,51.33,0.0,0.0,0.2,51.79,0.0,0.2,0.4
+07-08-2014,Chicago White Sox,Seattle Mariners,47.83,0.0,0.2,0.4,52.21,0.33,0.4,0.4
+08-08-2014,Chicago White Sox,Seattle Mariners,47.41,0.0,0.2,0.3,52.63,0.33,0.4,0.5
+09-08-2014,Chicago White Sox,Seattle Mariners,47.01,0.0,0.0,0.3,53.04,0.33,0.6,0.5
+10-08-2014,Chicago White Sox,Seattle Mariners,47.46,0.0,0.0,0.2,52.59,0.33,0.6,0.6
+11-08-2014,Toronto Blue Jays,Seattle Mariners,52.94,0.33,0.2,0.2,52.99,0.0,0.4,0.5
+12-08-2014,Toronto Blue Jays,Seattle Mariners,52.5,0.33,0.4,0.3,53.39,0.33,0.4,0.6
+13-08-2014,Toronto Blue Jays,Seattle Mariners,52.07,0.0,0.4,0.3,53.78,0.33,0.4,0.6
+25-08-2014,Texas Rangers,Seattle Mariners,38.76,0.0,0.2,0.2,55.04,0.33,0.4,0.5
+26-08-2014,Texas Rangers,Seattle Mariners,39.23,0.33,0.2,0.3,54.62,0.33,0.6,0.5
+27-08-2014,Texas Rangers,Seattle Mariners,38.93,0.33,0.4,0.4,54.96,0.0,0.4,0.5
+29-08-2014,Washington Nationals,Seattle Mariners,56.82,0.0,0.2,0.5,54.55,0.33,0.4,0.5
+30-08-2014,Washington Nationals,Seattle Mariners,57.14,0.0,0.0,0.4,54.14,0.0,0.2,0.5
+31-08-2014,Washington Nationals,Seattle Mariners,57.46,0.33,0.2,0.4,53.73,0.0,0.2,0.4
+08-09-2014,Houston Astros,Seattle Mariners,44.06,0.0,0.4,0.6,54.93,0.33,0.6,0.6
+09-09-2014,Houston Astros,Seattle Mariners,43.75,0.33,0.4,0.6,55.24,0.0,0.4,0.6
+10-09-2014,Houston Astros,Seattle Mariners,44.14,0.0,0.2,0.6,54.86,0.33,0.4,0.6
+12-09-2014,Oakland Athletics,Seattle Mariners,55.48,0.0,0.2,0.2,54.48,0.0,0.2,0.6
+13-09-2014,Oakland Athletics,Seattle Mariners,55.1,0.0,0.2,0.2,54.79,0.0,0.2,0.5
+14-09-2014,Oakland Athletics,Seattle Mariners,55.41,0.0,0.0,0.2,54.42,0.33,0.2,0.5
+26-09-2014,Los Angeles Angels of Anaheim,Seattle Mariners,61.64,0.33,0.2,0.3,52.83,0.0,0.0,0.2
+27-09-2014,Los Angeles Angels of Anaheim,Seattle Mariners,61.25,0.33,0.4,0.4,53.12,0.33,0.2,0.3
+28-09-2014,Los Angeles Angels of Anaheim,Seattle Mariners,60.87,0.0,0.4,0.3,53.42,0.33,0.4,0.3
+08-04-2014,Arizona Diamondbacks,San Francisco Giants,22.22,0.0,0.0,0.1,71.43,0.33,0.6,nan
+09-04-2014,Arizona Diamondbacks,San Francisco Giants,20.0,0.33,0.2,0.2,75.0,0.0,0.4,nan
+10-04-2014,Arizona Diamondbacks,San Francisco Giants,27.27,0.0,0.2,0.2,66.67,0.33,0.4,0.6
+11-04-2014,Colorado Rockies,San Francisco Giants,50.0,0.0,0.2,0.4,60.0,0.0,0.2,0.5
+12-04-2014,Colorado Rockies,San Francisco Giants,45.45,0.33,0.4,0.5,63.64,0.0,0.2,0.5
+13-04-2014,Colorado Rockies,San Francisco Giants,50.0,0.0,0.2,0.4,58.33,0.33,0.2,0.5
+15-04-2014,Los Angeles Dodgers,San Francisco Giants,69.23,0.33,0.4,0.5,61.54,0.0,0.2,0.4
+16-04-2014,Los Angeles Dodgers,San Francisco Giants,64.29,0.33,0.6,0.5,64.29,0.33,0.4,0.4
+17-04-2014,Los Angeles Dodgers,San Francisco Giants,60.0,0.0,0.4,0.5,66.67,0.33,0.4,0.4
+25-04-2014,Cleveland Indians,San Francisco Giants,50.0,0.33,0.4,0.4,54.55,0.0,0.2,0.3
+26-04-2014,Cleveland Indians,San Francisco Giants,47.83,0.33,0.4,0.4,56.52,0.33,0.2,0.3
+27-04-2014,Cleveland Indians,San Francisco Giants,45.83,0.0,0.4,0.4,58.33,0.33,0.4,0.3
+28-04-2014,San Diego Padres,San Francisco Giants,46.15,0.0,0.2,0.3,60.0,0.33,0.6,0.4
+29-04-2014,San Diego Padres,San Francisco Giants,48.15,0.33,0.2,0.3,57.69,0.33,0.6,0.5
+30-04-2014,San Diego Padres,San Francisco Giants,46.43,0.33,0.4,0.4,59.26,0.0,0.4,0.5
+12-05-2014,Atlanta Braves,San Francisco Giants,58.33,0.33,0.4,0.3,63.16,0.0,0.4,0.5
+13-05-2014,Atlanta Braves,San Francisco Giants,56.76,0.33,0.6,0.4,64.1,0.33,0.4,0.5
+14-05-2014,Atlanta Braves,San Francisco Giants,57.89,0.0,0.4,0.4,62.5,0.33,0.4,0.5
+15-05-2014,Miami Marlins,San Francisco Giants,51.22,0.0,0.0,0.3,63.41,0.0,0.4,0.4
+16-05-2014,Miami Marlins,San Francisco Giants,50.0,0.33,0.2,0.3,64.29,0.33,0.4,0.5
+17-05-2014,Miami Marlins,San Francisco Giants,51.16,0.0,0.2,0.2,62.79,0.33,0.4,0.6
+18-05-2014,Miami Marlins,San Francisco Giants,52.27,0.33,0.4,0.2,61.36,0.0,0.4,0.5
+23-05-2014,Minnesota Twins,San Francisco Giants,52.27,0.33,0.4,0.6,62.5,0.33,0.4,0.4
+24-05-2014,Minnesota Twins,San Francisco Giants,51.11,0.33,0.4,0.6,63.27,0.33,0.4,0.5
+25-05-2014,Minnesota Twins,San Francisco Giants,50.0,0.0,0.4,0.5,64.0,0.33,0.6,0.5
+26-05-2014,Chicago Cubs,San Francisco Giants,37.5,0.33,0.4,0.5,64.71,0.33,0.6,0.5
+27-05-2014,Chicago Cubs,San Francisco Giants,38.78,0.0,0.2,0.5,63.46,0.33,0.6,0.6
+28-05-2014,Chicago Cubs,San Francisco Giants,38.0,0.33,0.4,0.5,64.15,0.0,0.4,0.6
+06-06-2014,New York Mets,San Francisco Giants,46.67,0.0,0.2,0.5,65.57,0.33,0.4,0.6
+07-06-2014,New York Mets,San Francisco Giants,45.9,0.0,0.0,0.4,66.13,0.33,0.4,0.6
+08-06-2014,New York Mets,San Francisco Giants,45.16,0.0,0.0,0.3,66.67,0.33,0.6,0.6
+09-06-2014,Washington Nationals,San Francisco Giants,52.46,0.0,0.4,0.6,67.19,0.33,0.6,0.6
+10-06-2014,Washington Nationals,San Francisco Giants,53.23,0.33,0.4,0.6,66.15,0.33,0.6,0.6
+11-06-2014,Washington Nationals,San Francisco Giants,53.97,0.33,0.4,0.6,65.15,0.0,0.4,0.6
+12-06-2014,Washington Nationals,San Francisco Giants,54.69,0.33,0.6,0.7,64.18,0.0,0.2,0.5
+13-06-2014,Colorado Rockies,San Francisco Giants,46.27,0.33,0.2,0.2,64.71,0.0,0.0,0.5
+14-06-2014,Colorado Rockies,San Francisco Giants,47.06,0.33,0.4,0.3,63.77,0.33,0.2,0.5
+15-06-2014,Colorado Rockies,San Francisco Giants,47.83,0.33,0.6,0.4,62.86,0.0,0.2,0.4
+23-06-2014,San Diego Padres,San Francisco Giants,42.11,0.0,0.4,0.4,60.53,0.33,0.2,0.2
+24-06-2014,San Diego Padres,San Francisco Giants,42.86,0.0,0.2,0.3,59.74,0.33,0.4,0.2
+25-06-2014,San Diego Padres,San Francisco Giants,43.59,0.33,0.2,0.4,58.97,0.0,0.4,0.2
+26-06-2014,Cincinnati Reds,San Francisco Giants,50.65,0.0,0.4,0.5,59.49,0.0,0.2,0.2
+27-06-2014,Cincinnati Reds,San Francisco Giants,51.28,0.33,0.4,0.5,58.75,0.33,0.2,0.3
+28-06-2014,Cincinnati Reds,San Francisco Giants,51.9,0.33,0.4,0.5,58.02,0.0,0.2,0.3
+29-06-2014,Cincinnati Reds,San Francisco Giants,52.5,0.33,0.6,0.6,57.32,0.0,0.2,0.3
+01-07-2014,St. Louis Cardinals,San Francisco Giants,53.01,0.0,0.2,0.5,56.63,0.0,0.0,0.3
+02-07-2014,St. Louis Cardinals,San Francisco Giants,52.38,0.0,0.2,0.4,57.14,0.0,0.0,0.2
+03-07-2014,St. Louis Cardinals,San Francisco Giants,52.94,0.0,0.0,0.3,56.47,0.33,0.2,0.2
+09-07-2014,Oakland Athletics,San Francisco Giants,63.33,0.33,0.6,0.5,54.95,0.0,0.4,0.3
+10-07-2014,Oakland Athletics,San Francisco Giants,62.64,0.33,0.6,0.6,55.43,0.0,0.2,0.3
+11-07-2014,Arizona Diamondbacks,San Francisco Giants,41.94,0.0,0.4,0.3,54.84,0.33,0.2,0.3
+12-07-2014,Arizona Diamondbacks,San Francisco Giants,41.49,0.33,0.4,0.4,55.32,0.0,0.2,0.3
+13-07-2014,Arizona Diamondbacks,San Francisco Giants,42.11,0.0,0.2,0.4,54.74,0.33,0.4,0.4
+25-07-2014,Los Angeles Dodgers,San Francisco Giants,54.37,0.0,0.4,0.4,56.31,0.33,0.6,0.6
+26-07-2014,Los Angeles Dodgers,San Francisco Giants,54.81,0.0,0.2,0.4,55.77,0.0,0.4,0.6
+27-07-2014,Los Angeles Dodgers,San Francisco Giants,55.24,0.33,0.2,0.4,55.24,0.0,0.2,0.5
+28-07-2014,Pittsburgh Pirates,San Francisco Giants,52.88,0.0,0.2,0.5,54.72,0.0,0.0,0.4
+29-07-2014,Pittsburgh Pirates,San Francisco Giants,53.33,0.33,0.2,0.5,54.21,0.0,0.0,0.3
+30-07-2014,Pittsburgh Pirates,San Francisco Giants,53.77,0.33,0.4,0.5,53.7,0.0,0.0,0.3
+12-08-2014,Chicago White Sox,San Francisco Giants,47.06,0.33,0.2,0.2,52.94,0.0,0.0,0.3
+13-08-2014,Chicago White Sox,San Francisco Giants,47.5,0.0,0.2,0.2,52.5,0.0,0.0,0.3
+15-08-2014,Philadelphia Phillies,San Francisco Giants,43.8,0.0,0.2,0.4,52.89,0.0,0.0,0.2
+16-08-2014,Philadelphia Phillies,San Francisco Giants,44.26,0.0,0.0,0.3,52.46,0.33,0.2,0.2
+17-08-2014,Philadelphia Phillies,San Francisco Giants,43.9,0.33,0.2,0.3,52.85,0.0,0.2,0.2
+25-08-2014,Colorado Rockies,San Francisco Giants,40.0,0.33,0.4,0.5,53.08,0.0,0.4,0.5
+26-08-2014,Colorado Rockies,San Francisco Giants,40.46,0.33,0.4,0.5,52.67,0.0,0.2,0.5
+27-08-2014,Colorado Rockies,San Francisco Giants,40.15,0.33,0.6,0.6,53.03,0.0,0.0,0.4
+28-08-2014,Colorado Rockies,San Francisco Giants,39.85,0.0,0.4,0.5,53.38,0.33,0.2,0.4
+29-08-2014,Milwaukee Brewers,San Francisco Giants,54.89,0.0,0.4,0.4,53.73,0.33,0.4,0.5
+30-08-2014,Milwaukee Brewers,San Francisco Giants,54.48,0.0,0.2,0.3,54.07,0.33,0.6,0.5
+31-08-2014,Milwaukee Brewers,San Francisco Giants,54.07,0.0,0.0,0.2,54.41,0.33,0.6,0.5
+09-09-2014,Arizona Diamondbacks,San Francisco Giants,41.26,0.0,0.2,0.3,54.55,0.33,0.4,0.6
+10-09-2014,Arizona Diamondbacks,San Francisco Giants,40.97,0.0,0.0,0.3,54.86,0.0,0.4,0.5
+11-09-2014,Arizona Diamondbacks,San Francisco Giants,40.69,0.0,0.0,0.2,55.17,0.33,0.4,0.5
+12-09-2014,Los Angeles Dodgers,San Francisco Giants,56.85,0.0,0.4,0.5,55.48,0.33,0.4,0.5
+13-09-2014,Los Angeles Dodgers,San Francisco Giants,56.46,0.33,0.4,0.6,55.78,0.33,0.6,0.6
+14-09-2014,Los Angeles Dodgers,San Francisco Giants,56.76,0.0,0.2,0.5,55.41,0.33,0.6,0.6
+25-09-2014,San Diego Padres,San Francisco Giants,48.1,0.0,0.4,0.6,53.8,0.0,0.2,0.3
+26-09-2014,San Diego Padres,San Francisco Giants,47.8,0.33,0.4,0.6,54.09,0.0,0.2,0.3
+27-09-2014,San Diego Padres,San Francisco Giants,48.12,0.0,0.2,0.6,53.75,0.33,0.2,0.3
+28-09-2014,San Diego Padres,San Francisco Giants,47.83,0.33,0.4,0.6,54.04,0.0,0.2,0.2
+07-04-2014,Cincinnati Reds,St. Louis Cardinals,33.33,0.0,0.0,nan,50.0,0.33,0.4,nan
+08-04-2014,Cincinnati Reds,St. Louis Cardinals,28.57,0.33,0.2,nan,57.14,0.0,0.2,nan
+09-04-2014,Cincinnati Reds,St. Louis Cardinals,25.0,0.0,0.2,nan,62.5,0.33,0.4,nan
+11-04-2014,Chicago Cubs,St. Louis Cardinals,33.33,0.33,0.4,0.3,55.56,0.33,0.4,0.5
+12-04-2014,Chicago Cubs,St. Louis Cardinals,40.0,0.0,0.2,0.3,50.0,0.0,0.4,0.4
+13-04-2014,Chicago Cubs,St. Louis Cardinals,36.36,0.33,0.4,0.4,54.55,0.0,0.2,0.4
+25-04-2014,Pittsburgh Pirates,St. Louis Cardinals,39.13,0.0,0.2,0.2,52.17,0.0,0.2,0.3
+26-04-2014,Pittsburgh Pirates,St. Louis Cardinals,37.5,0.0,0.0,0.2,54.17,0.0,0.2,0.3
+27-04-2014,Pittsburgh Pirates,St. Louis Cardinals,40.0,0.0,0.0,0.1,52.0,0.33,0.2,0.3
+28-04-2014,Milwaukee Brewers,St. Louis Cardinals,72.0,0.33,0.6,0.7,53.85,0.0,0.2,0.3
+29-04-2014,Milwaukee Brewers,St. Louis Cardinals,73.08,0.0,0.4,0.6,51.85,0.33,0.4,0.3
+30-04-2014,Milwaukee Brewers,St. Louis Cardinals,74.07,0.33,0.4,0.6,50.0,0.0,0.2,0.3
+12-05-2014,Chicago Cubs,St. Louis Cardinals,33.33,0.0,0.2,0.2,50.0,0.0,0.2,0.3
+13-05-2014,Chicago Cubs,St. Louis Cardinals,35.14,0.0,0.0,0.1,48.72,0.33,0.2,0.4
+15-05-2014,Chicago Cubs,St. Louis Cardinals,34.21,0.33,0.2,0.2,50.0,0.0,0.2,0.4
+16-05-2014,Atlanta Braves,St. Louis Cardinals,56.41,0.33,0.4,0.5,51.22,0.33,0.4,0.4
+17-05-2014,Atlanta Braves,St. Louis Cardinals,55.0,0.0,0.2,0.5,52.38,0.33,0.4,0.4
+18-05-2014,Atlanta Braves,St. Louis Cardinals,53.66,0.0,0.2,0.4,53.49,0.33,0.6,0.5
+20-05-2014,Arizona Diamondbacks,St. Louis Cardinals,39.13,0.33,0.2,0.4,52.27,0.33,0.6,0.5
+21-05-2014,Arizona Diamondbacks,St. Louis Cardinals,38.3,0.33,0.4,0.5,53.33,0.0,0.4,0.5
+22-05-2014,Arizona Diamondbacks,St. Louis Cardinals,37.5,0.0,0.4,0.4,54.35,0.33,0.4,0.6
+26-05-2014,New York Yankees,St. Louis Cardinals,53.06,0.33,0.2,0.4,56.0,0.33,0.4,0.6
+27-05-2014,New York Yankees,St. Louis Cardinals,54.0,0.33,0.4,0.4,54.9,0.33,0.4,0.6
+28-05-2014,New York Yankees,St. Louis Cardinals,52.94,0.33,0.6,0.4,55.77,0.0,0.4,0.5
+29-05-2014,San Francisco Giants,St. Louis Cardinals,64.81,0.33,0.4,0.6,54.72,0.33,0.4,0.6
+30-05-2014,San Francisco Giants,St. Louis Cardinals,65.45,0.33,0.4,0.7,53.7,0.0,0.2,0.5
+31-05-2014,San Francisco Giants,St. Louis Cardinals,66.07,0.33,0.6,0.7,52.73,0.0,0.2,0.4
+01-06-2014,San Francisco Giants,St. Louis Cardinals,64.91,0.33,0.6,0.7,53.57,0.0,0.0,0.3
+02-06-2014,Kansas City Royals,St. Louis Cardinals,46.43,0.0,0.4,0.3,52.63,0.33,0.2,0.4
+03-06-2014,Kansas City Royals,St. Louis Cardinals,47.37,0.0,0.2,0.2,51.72,0.0,0.2,0.3
+13-06-2014,Washington Nationals,St. Louis Cardinals,53.85,0.33,0.6,0.7,51.52,0.33,0.6,0.4
+14-06-2014,Washington Nationals,St. Louis Cardinals,53.03,0.0,0.4,0.6,52.24,0.0,0.4,0.4
+15-06-2014,Washington Nationals,St. Louis Cardinals,52.24,0.0,0.2,0.5,52.94,0.33,0.4,0.5
+16-06-2014,New York Mets,St. Louis Cardinals,44.93,0.0,0.2,0.2,53.62,0.33,0.4,0.5
+17-06-2014,New York Mets,St. Louis Cardinals,44.29,0.33,0.4,0.3,54.29,0.33,0.6,0.6
+18-06-2014,New York Mets,St. Louis Cardinals,43.66,0.0,0.2,0.3,54.93,0.33,0.6,0.7
+19-06-2014,Philadelphia Phillies,St. Louis Cardinals,45.71,0.33,0.4,0.6,54.17,0.33,0.6,0.7
+20-06-2014,Philadelphia Phillies,St. Louis Cardinals,46.48,0.33,0.6,0.6,53.42,0.0,0.4,0.6
+21-06-2014,Philadelphia Phillies,St. Louis Cardinals,47.22,0.33,0.6,0.6,52.7,0.0,0.2,0.5
+22-06-2014,Philadelphia Phillies,St. Louis Cardinals,46.58,0.33,0.6,0.6,53.33,0.0,0.0,0.5
+04-07-2014,Miami Marlins,St. Louis Cardinals,48.24,0.33,0.4,0.3,53.49,0.33,0.2,0.3
+05-07-2014,Miami Marlins,St. Louis Cardinals,47.67,0.0,0.4,0.3,54.02,0.33,0.4,0.4
+06-07-2014,Miami Marlins,St. Louis Cardinals,48.28,0.0,0.2,0.2,53.41,0.33,0.6,0.4
+07-07-2014,Pittsburgh Pirates,St. Louis Cardinals,53.41,0.33,0.4,0.6,52.81,0.0,0.4,0.4
+08-07-2014,Pittsburgh Pirates,St. Louis Cardinals,52.81,0.33,0.6,0.6,53.33,0.0,0.2,0.3
+09-07-2014,Pittsburgh Pirates,St. Louis Cardinals,52.22,0.0,0.4,0.6,53.85,0.33,0.2,0.4
+10-07-2014,Pittsburgh Pirates,St. Louis Cardinals,51.65,0.0,0.2,0.5,54.35,0.33,0.4,0.5
+18-07-2014,Los Angeles Dodgers,St. Louis Cardinals,55.67,0.33,0.4,0.4,54.17,0.33,0.4,0.5
+19-07-2014,Los Angeles Dodgers,St. Louis Cardinals,55.1,0.33,0.4,0.4,54.64,0.0,0.4,0.5
+20-07-2014,Los Angeles Dodgers,St. Louis Cardinals,54.55,0.0,0.4,0.4,55.1,0.33,0.4,0.6
+22-07-2014,Tampa Bay Rays,St. Louis Cardinals,47.0,0.33,0.6,0.5,54.55,0.33,0.4,0.6
+23-07-2014,Tampa Bay Rays,St. Louis Cardinals,47.52,0.33,0.6,0.6,54.0,0.0,0.4,0.5
+01-08-2014,Milwaukee Brewers,St. Louis Cardinals,55.05,0.0,0.0,0.4,53.27,0.0,0.2,0.2
+02-08-2014,Milwaukee Brewers,St. Louis Cardinals,55.45,0.33,0.2,0.4,52.78,0.33,0.2,0.3
+03-08-2014,Milwaukee Brewers,St. Louis Cardinals,54.95,0.33,0.4,0.4,53.21,0.0,0.2,0.3
+05-08-2014,Boston Red Sox,St. Louis Cardinals,44.14,0.0,0.2,0.2,53.64,0.33,0.4,0.4
+06-08-2014,Boston Red Sox,St. Louis Cardinals,43.75,0.0,0.2,0.2,54.05,0.33,0.4,0.5
+07-08-2014,Boston Red Sox,St. Louis Cardinals,44.25,0.0,0.0,0.2,53.57,0.33,0.6,0.5
+14-08-2014,San Diego Padres,St. Louis Cardinals,47.9,0.33,0.6,0.6,52.94,0.0,0.2,0.3
+15-08-2014,San Diego Padres,St. Louis Cardinals,47.5,0.33,0.6,0.6,53.33,0.33,0.2,0.3
+16-08-2014,San Diego Padres,St. Louis Cardinals,47.11,0.0,0.4,0.6,53.72,0.33,0.4,0.4
+17-08-2014,San Diego Padres,St. Louis Cardinals,47.54,0.0,0.2,0.5,53.28,0.33,0.6,0.4
+18-08-2014,Cincinnati Reds,St. Louis Cardinals,49.19,0.0,0.2,0.2,53.66,0.0,0.4,0.4
+19-08-2014,Cincinnati Reds,St. Louis Cardinals,48.8,0.0,0.2,0.2,54.03,0.33,0.4,0.5
+20-08-2014,Cincinnati Reds,St. Louis Cardinals,48.41,0.0,0.0,0.2,54.4,0.33,0.4,0.5
+29-08-2014,Chicago Cubs,St. Louis Cardinals,44.36,0.0,0.4,0.5,53.79,0.0,0.2,0.5
+31-08-2014,Chicago Cubs,St. Louis Cardinals,44.85,0.33,0.4,0.6,53.33,0.0,0.0,0.2
+01-09-2014,Pittsburgh Pirates,St. Louis Cardinals,52.21,0.33,0.6,0.6,53.68,0.33,0.2,0.3
+02-09-2014,Pittsburgh Pirates,St. Louis Cardinals,51.82,0.0,0.4,0.5,54.01,0.33,0.4,0.3
+03-09-2014,Pittsburgh Pirates,St. Louis Cardinals,51.45,0.0,0.2,0.4,54.35,0.33,0.6,0.4
+12-09-2014,Colorado Rockies,St. Louis Cardinals,40.41,0.0,0.2,0.5,54.42,0.0,0.2,0.5
+13-09-2014,Colorado Rockies,St. Louis Cardinals,40.14,0.0,0.0,0.4,54.73,0.0,0.0,0.4
+14-09-2014,Colorado Rockies,St. Louis Cardinals,39.86,0.0,0.0,0.4,55.03,0.33,0.2,0.4
+16-09-2014,Milwaukee Brewers,St. Louis Cardinals,52.0,0.0,0.4,0.3,55.33,0.33,0.4,0.5
+17-09-2014,Milwaukee Brewers,St. Louis Cardinals,52.32,0.33,0.4,0.4,54.97,0.33,0.6,0.5
+18-09-2014,Milwaukee Brewers,St. Louis Cardinals,51.97,0.33,0.4,0.5,55.26,0.0,0.4,0.4
+19-09-2014,Cincinnati Reds,St. Louis Cardinals,46.41,0.0,0.0,0.4,55.56,0.33,0.4,0.4
+20-09-2014,Cincinnati Reds,St. Louis Cardinals,46.1,0.0,0.0,0.3,55.84,0.33,0.4,0.5
+21-09-2014,Cincinnati Reds,St. Louis Cardinals,45.81,0.0,0.0,0.2,56.13,0.33,0.6,0.6
+31-03-2014,Toronto Blue Jays,Tampa Bay Rays,0,0.33,0.4,0.6,0,0.33,0.2,0.3
+01-04-2014,Toronto Blue Jays,Tampa Bay Rays,0.0,nan,nan,nan,100.0,nan,nan,nan
+02-04-2014,Toronto Blue Jays,Tampa Bay Rays,50.0,0.0,nan,nan,50.0,0.33,nan,nan
+03-04-2014,Toronto Blue Jays,Tampa Bay Rays,66.67,0.33,nan,nan,33.33,0.0,nan,nan
+04-04-2014,Texas Rangers,Tampa Bay Rays,66.67,0.33,nan,nan,50.0,0.0,0.2,nan
+05-04-2014,Texas Rangers,Tampa Bay Rays,50.0,0.33,0.4,nan,60.0,0.33,0.2,nan
+06-04-2014,Texas Rangers,Tampa Bay Rays,40.0,0.0,0.4,nan,66.67,0.33,0.4,nan
+17-04-2014,New York Yankees,Tampa Bay Rays,60.0,0.33,0.6,0.5,46.67,0.0,0.2,0.3
+18-04-2014,New York Yankees,Tampa Bay Rays,62.5,0.33,0.6,0.5,43.75,0.0,0.0,0.3
+19-04-2014,New York Yankees,Tampa Bay Rays,58.82,0.33,0.6,0.6,47.06,0.0,0.0,0.3
+20-04-2014,New York Yankees,Tampa Bay Rays,55.56,0.0,0.4,0.6,50.0,0.33,0.2,0.3
+22-04-2014,Minnesota Twins,Tampa Bay Rays,50.0,0.0,0.2,0.5,47.37,0.33,0.4,0.4
+23-04-2014,Minnesota Twins,Tampa Bay Rays,47.37,0.33,0.2,0.5,50.0,0.0,0.4,0.3
+24-04-2014,Minnesota Twins,Tampa Bay Rays,50.0,0.0,0.2,0.4,47.62,0.33,0.4,0.3
+06-05-2014,Baltimore Orioles,Tampa Bay Rays,51.72,0.0,0.4,0.5,46.88,0.0,0.4,0.4
+07-05-2014,Baltimore Orioles,Tampa Bay Rays,53.33,0.0,0.2,0.4,45.45,0.33,0.4,0.4
+08-05-2014,Baltimore Orioles,Tampa Bay Rays,54.84,0.33,0.2,0.5,44.12,0.0,0.2,0.4
+09-05-2014,Cleveland Indians,Tampa Bay Rays,45.71,0.33,0.4,0.4,42.86,0.0,0.2,0.4
+10-05-2014,Cleveland Indians,Tampa Bay Rays,47.22,0.33,0.6,0.5,41.67,0.0,0.0,0.4
+11-05-2014,Cleveland Indians,Tampa Bay Rays,45.95,0.33,0.6,0.6,43.24,0.0,0.0,0.3
+20-05-2014,Oakland Athletics,Tampa Bay Rays,63.64,0.33,0.4,0.7,42.22,0.0,0.2,0.4
+21-05-2014,Oakland Athletics,Tampa Bay Rays,64.44,0.33,0.6,0.7,41.3,0.0,0.2,0.3
+22-05-2014,Oakland Athletics,Tampa Bay Rays,65.22,0.33,0.6,0.7,40.43,0.0,0.0,0.3
+23-05-2014,Boston Red Sox,Tampa Bay Rays,43.48,0.0,0.0,0.1,41.67,0.0,0.0,0.3
+24-05-2014,Boston Red Sox,Tampa Bay Rays,42.55,0.0,0.0,0.1,42.86,0.33,0.2,0.3
+25-05-2014,Boston Red Sox,Tampa Bay Rays,41.67,0.0,0.0,0.0,44.0,0.33,0.4,0.3
+04-06-2014,Miami Marlins,Tampa Bay Rays,51.72,0.33,0.2,0.4,38.98,0.0,0.0,0.1
+05-06-2014,Miami Marlins,Tampa Bay Rays,52.54,0.33,0.4,0.4,38.33,0.0,0.0,0.0
+06-06-2014,Seattle Mariners,Tampa Bay Rays,52.54,0.33,0.6,0.5,37.7,0.0,0.0,0.0
+07-06-2014,Seattle Mariners,Tampa Bay Rays,51.67,0.33,0.6,0.6,38.71,0.0,0.0,0.0
+08-06-2014,Seattle Mariners,Tampa Bay Rays,52.46,0.0,0.4,0.5,38.1,0.33,0.2,0.1
+09-06-2014,Seattle Mariners,Tampa Bay Rays,53.23,0.33,0.4,0.6,37.5,0.0,0.2,0.1
+10-06-2014,St. Louis Cardinals,Tampa Bay Rays,51.56,0.33,0.2,0.3,36.92,0.0,0.2,0.1
+11-06-2014,St. Louis Cardinals,Tampa Bay Rays,52.31,0.33,0.4,0.3,36.36,0.0,0.0,0.1
+16-06-2014,Baltimore Orioles,Tampa Bay Rays,51.47,0.33,0.4,0.5,38.57,0.0,0.4,0.3
+17-06-2014,Baltimore Orioles,Tampa Bay Rays,50.72,0.0,0.2,0.4,39.44,0.33,0.4,0.3
+18-06-2014,Baltimore Orioles,Tampa Bay Rays,51.43,0.0,0.2,0.4,38.89,0.33,0.4,0.4
+19-06-2014,Houston Astros,Tampa Bay Rays,43.84,0.0,0.2,0.4,38.36,0.0,0.4,0.4
+20-06-2014,Houston Astros,Tampa Bay Rays,43.24,0.0,0.0,0.3,39.19,0.0,0.2,0.4
+21-06-2014,Houston Astros,Tampa Bay Rays,44.0,0.0,0.0,0.3,38.67,0.33,0.2,0.5
+22-06-2014,Houston Astros,Tampa Bay Rays,43.42,0.33,0.2,0.3,39.47,0.0,0.2,0.4
+23-06-2014,Pittsburgh Pirates,Tampa Bay Rays,49.33,0.33,0.4,0.4,40.26,0.33,0.4,0.4
+24-06-2014,Pittsburgh Pirates,Tampa Bay Rays,50.0,0.33,0.4,0.4,39.74,0.33,0.4,0.5
+25-06-2014,Pittsburgh Pirates,Tampa Bay Rays,50.65,0.33,0.6,0.4,39.24,0.0,0.4,0.4
+07-07-2014,Kansas City Royals,Tampa Bay Rays,51.72,0.0,0.4,0.5,45.05,0.33,0.4,0.7
+08-07-2014,Kansas City Royals,Tampa Bay Rays,52.27,0.0,0.2,0.4,44.57,0.33,0.6,0.7
+09-07-2014,Kansas City Royals,Tampa Bay Rays,51.69,0.33,0.2,0.5,45.16,0.0,0.4,0.6
+11-07-2014,Toronto Blue Jays,Tampa Bay Rays,51.61,0.33,0.2,0.3,44.68,0.33,0.4,0.6
+12-07-2014,Toronto Blue Jays,Tampa Bay Rays,52.13,0.0,0.2,0.2,44.21,0.0,0.2,0.5
+13-07-2014,Toronto Blue Jays,Tampa Bay Rays,51.58,0.33,0.4,0.2,44.79,0.0,0.2,0.4
+25-07-2014,Boston Red Sox,Tampa Bay Rays,46.08,0.0,0.2,0.5,48.04,0.33,0.6,0.6
+26-07-2014,Boston Red Sox,Tampa Bay Rays,45.63,0.0,0.0,0.5,48.54,0.33,0.6,0.7
+27-07-2014,Boston Red Sox,Tampa Bay Rays,45.19,0.0,0.0,0.4,49.04,0.33,0.6,0.8
+28-07-2014,Milwaukee Brewers,Tampa Bay Rays,55.66,0.33,0.4,0.5,48.57,0.33,0.6,0.8
+29-07-2014,Milwaukee Brewers,Tampa Bay Rays,55.14,0.0,0.2,0.5,49.06,0.0,0.4,0.7
+30-07-2014,Milwaukee Brewers,Tampa Bay Rays,54.63,0.0,0.2,0.5,49.53,0.33,0.4,0.7
+01-08-2014,Los Angeles Angels of Anaheim,Tampa Bay Rays,59.81,0.0,0.2,0.4,49.07,0.33,0.4,0.7
+02-08-2014,Los Angeles Angels of Anaheim,Tampa Bay Rays,60.19,0.33,0.2,0.5,48.62,0.0,0.4,0.6
+03-08-2014,Los Angeles Angels of Anaheim,Tampa Bay Rays,59.63,0.33,0.4,0.5,49.09,0.0,0.2,0.5
+15-08-2014,New York Yankees,Tampa Bay Rays,51.26,0.0,0.0,0.4,49.59,0.33,0.4,0.5
+16-08-2014,New York Yankees,Tampa Bay Rays,50.83,0.0,0.0,0.3,50.0,0.33,0.4,0.6
+17-08-2014,New York Yankees,Tampa Bay Rays,51.24,0.0,0.0,0.3,49.59,0.33,0.6,0.6
+19-08-2014,Detroit Tigers,Tampa Bay Rays,54.1,0.33,0.4,0.3,49.19,0.0,0.4,0.5
+20-08-2014,Detroit Tigers,Tampa Bay Rays,54.47,0.0,0.2,0.3,48.8,0.0,0.2,0.4
+21-08-2014,Detroit Tigers,Tampa Bay Rays,54.84,0.33,0.4,0.4,48.41,0.0,0.0,0.4
+29-08-2014,Boston Red Sox,Tampa Bay Rays,43.61,0.33,0.4,0.2,48.51,0.33,0.2,0.4
+30-08-2014,Boston Red Sox,Tampa Bay Rays,44.03,0.0,0.4,0.2,48.15,0.0,0.2,0.4
+31-08-2014,Boston Red Sox,Tampa Bay Rays,43.7,0.33,0.4,0.3,48.53,0.0,0.2,0.3
+01-09-2014,Boston Red Sox,Tampa Bay Rays,44.12,0.0,0.2,0.3,48.18,0.33,0.2,0.3
+02-09-2014,Toronto Blue Jays,Tampa Bay Rays,50.74,0.33,0.4,0.3,48.55,0.0,0.2,0.3
+03-09-2014,Toronto Blue Jays,Tampa Bay Rays,51.09,0.33,0.4,0.4,48.2,0.33,0.4,0.3
+04-09-2014,Toronto Blue Jays,Tampa Bay Rays,51.45,0.33,0.6,0.4,47.86,0.0,0.2,0.3
+05-09-2014,Baltimore Orioles,Tampa Bay Rays,58.99,0.33,0.4,0.6,47.52,0.0,0.2,0.3
+06-09-2014,Baltimore Orioles,Tampa Bay Rays,58.57,0.33,0.6,0.7,47.89,0.0,0.0,0.2
+07-09-2014,Baltimore Orioles,Tampa Bay Rays,58.16,0.0,0.4,0.6,48.25,0.33,0.2,0.3
+15-09-2014,New York Yankees,Tampa Bay Rays,51.35,0.33,0.2,0.4,48.0,0.0,0.2,0.4
+16-09-2014,New York Yankees,Tampa Bay Rays,51.01,0.0,0.2,0.3,48.34,0.33,0.4,0.4
+17-09-2014,New York Yankees,Tampa Bay Rays,50.67,0.0,0.2,0.3,48.68,0.33,0.4,0.4
+19-09-2014,Chicago White Sox,Tampa Bay Rays,45.39,0.33,0.2,0.5,48.37,0.33,0.6,0.5
+20-09-2014,Chicago White Sox,Tampa Bay Rays,45.75,0.0,0.2,0.5,48.05,0.0,0.4,0.4
+21-09-2014,Chicago White Sox,Tampa Bay Rays,45.45,0.33,0.4,0.5,48.39,0.0,0.2,0.4
+31-03-2014,Philadelphia Phillies,Texas Rangers,0,0.0,0.2,0.3,0,0.33,0.4,0.6
+01-04-2014,Philadelphia Phillies,Texas Rangers,100.0,nan,nan,nan,0.0,nan,nan,nan
+02-04-2014,Philadelphia Phillies,Texas Rangers,50.0,0.33,nan,nan,50.0,0.0,nan,nan
+11-04-2014,Houston Astros,Texas Rangers,40.0,0.0,0.0,0.2,44.44,0.33,0.4,0.4
+12-04-2014,Houston Astros,Texas Rangers,36.36,0.33,0.2,0.2,50.0,0.0,0.2,0.4
+13-04-2014,Houston Astros,Texas Rangers,41.67,0.0,0.2,0.2,45.45,0.33,0.4,0.4
+14-04-2014,Seattle Mariners,Texas Rangers,54.55,0.0,0.2,0.4,50.0,0.0,0.2,0.3
+15-04-2014,Seattle Mariners,Texas Rangers,58.33,0.0,0.2,0.3,46.15,0.33,0.4,0.4
+16-04-2014,Seattle Mariners,Texas Rangers,53.85,0.33,0.2,0.4,50.0,0.0,0.2,0.4
+17-04-2014,Seattle Mariners,Texas Rangers,50.0,0.0,0.2,0.3,53.33,0.33,0.4,0.4
+18-04-2014,Chicago White Sox,Texas Rangers,50.0,0.0,0.4,0.5,56.25,0.33,0.4,0.5
+19-04-2014,Chicago White Sox,Texas Rangers,47.06,0.0,0.2,0.4,58.82,0.33,0.6,0.5
+20-04-2014,Chicago White Sox,Texas Rangers,44.44,0.0,0.0,0.4,61.11,0.33,0.6,0.6
+28-04-2014,Oakland Athletics,Texas Rangers,60.0,0.0,0.4,0.4,60.0,0.33,0.4,0.6
+29-04-2014,Oakland Athletics,Texas Rangers,61.54,0.0,0.2,0.3,57.69,0.0,0.2,0.5
+30-04-2014,Oakland Athletics,Texas Rangers,62.96,0.33,0.2,0.3,55.56,0.0,0.2,0.4
+07-05-2014,Colorado Rockies,Texas Rangers,60.0,0.33,0.4,0.6,51.52,0.0,0.2,0.2
+08-05-2014,Colorado Rockies,Texas Rangers,61.11,0.33,0.4,0.6,50.0,0.0,0.2,0.2
+09-05-2014,Boston Red Sox,Texas Rangers,50.0,0.33,0.4,0.4,51.43,0.0,0.0,0.2
+10-05-2014,Boston Red Sox,Texas Rangers,48.57,0.33,0.4,0.5,52.78,0.33,0.2,0.3
+11-05-2014,Boston Red Sox,Texas Rangers,50.0,0.0,0.4,0.4,51.35,0.33,0.4,0.4
+16-05-2014,Toronto Blue Jays,Texas Rangers,50.0,0.0,0.4,0.4,48.78,0.0,0.2,0.3
+17-05-2014,Toronto Blue Jays,Texas Rangers,51.16,0.33,0.4,0.4,47.62,0.0,0.2,0.3
+18-05-2014,Toronto Blue Jays,Texas Rangers,52.27,0.33,0.4,0.4,46.51,0.0,0.0,0.3
+20-05-2014,Seattle Mariners,Texas Rangers,48.84,0.0,0.0,0.2,47.73,0.0,0.0,0.2
+21-05-2014,Seattle Mariners,Texas Rangers,50.0,0.33,0.2,0.3,46.67,0.33,0.2,0.2
+03-06-2014,Baltimore Orioles,Texas Rangers,50.91,0.33,0.2,0.3,50.88,0.0,0.2,0.5
+04-06-2014,Baltimore Orioles,Texas Rangers,51.79,0.33,0.4,0.4,50.0,0.33,0.2,0.5
+05-06-2014,Baltimore Orioles,Texas Rangers,52.63,0.33,0.6,0.4,49.15,0.0,0.2,0.4
+06-06-2014,Cleveland Indians,Texas Rangers,50.0,0.33,0.6,0.5,50.0,0.0,0.2,0.3
+07-06-2014,Cleveland Indians,Texas Rangers,49.18,0.33,0.6,0.6,50.82,0.33,0.2,0.4
+08-06-2014,Cleveland Indians,Texas Rangers,50.0,0.0,0.4,0.6,50.0,0.33,0.4,0.4
+09-06-2014,Cleveland Indians,Texas Rangers,50.79,0.33,0.4,0.7,49.21,0.0,0.4,0.3
+10-06-2014,Miami Marlins,Texas Rangers,52.38,0.0,0.2,0.4,48.44,0.0,0.2,0.3
+11-06-2014,Miami Marlins,Texas Rangers,53.12,0.33,0.2,0.5,47.69,0.0,0.0,0.3
+24-06-2014,Detroit Tigers,Texas Rangers,55.56,0.33,0.6,0.5,46.67,0.0,0.0,0.3
+25-06-2014,Detroit Tigers,Texas Rangers,56.16,0.33,0.6,0.5,46.05,0.0,0.0,0.2
+26-06-2014,Detroit Tigers,Texas Rangers,56.76,0.33,0.6,0.5,45.45,0.0,0.0,0.1
+27-06-2014,Minnesota Twins,Texas Rangers,46.75,0.0,0.2,0.4,44.87,0.0,0.0,0.1
+28-06-2014,Minnesota Twins,Texas Rangers,46.15,0.0,0.0,0.4,45.57,0.0,0.0,0.0
+29-06-2014,Minnesota Twins,Texas Rangers,45.57,0.0,0.0,0.4,46.25,0.33,0.2,0.1
+07-07-2014,Houston Astros,Texas Rangers,40.0,0.0,0.0,0.1,43.18,0.33,0.2,0.2
+08-07-2014,Houston Astros,Texas Rangers,40.66,0.0,0.0,0.1,42.7,0.0,0.2,0.1
+09-07-2014,Houston Astros,Texas Rangers,41.3,0.33,0.2,0.1,42.22,0.0,0.2,0.1
+10-07-2014,Los Angeles Angels of Anaheim,Texas Rangers,58.89,0.0,0.4,0.6,41.76,0.0,0.0,0.1
+11-07-2014,Los Angeles Angels of Anaheim,Texas Rangers,59.34,0.33,0.4,0.6,41.3,0.0,0.0,0.1
+12-07-2014,Los Angeles Angels of Anaheim,Texas Rangers,59.78,0.33,0.4,0.7,40.86,0.0,0.0,0.1
+13-07-2014,Los Angeles Angels of Anaheim,Texas Rangers,60.22,0.33,0.6,0.7,40.43,0.0,0.0,0.1
+25-07-2014,Oakland Athletics,Texas Rangers,62.38,0.33,0.4,0.4,39.22,0.0,0.2,0.2
+26-07-2014,Oakland Athletics,Texas Rangers,61.76,0.33,0.4,0.5,39.81,0.0,0.0,0.2
+27-07-2014,Oakland Athletics,Texas Rangers,62.14,0.0,0.4,0.5,39.42,0.33,0.2,0.3
+28-07-2014,New York Yankees,Texas Rangers,51.92,0.0,0.4,0.6,39.05,0.0,0.2,0.2
+29-07-2014,New York Yankees,Texas Rangers,51.43,0.0,0.2,0.5,39.62,0.0,0.2,0.2
+30-07-2014,New York Yankees,Texas Rangers,51.89,0.0,0.0,0.4,39.25,0.33,0.2,0.3
+11-08-2014,Tampa Bay Rays,Texas Rangers,48.72,0.33,0.6,0.4,39.32,0.0,0.2,0.2
+12-08-2014,Tampa Bay Rays,Texas Rangers,49.15,0.0,0.4,0.4,38.98,0.33,0.2,0.3
+13-08-2014,Tampa Bay Rays,Texas Rangers,48.74,0.33,0.4,0.4,39.5,0.0,0.2,0.3
+14-08-2014,Tampa Bay Rays,Texas Rangers,49.17,0.0,0.2,0.4,39.17,0.33,0.4,0.4
+15-08-2014,Los Angeles Angels of Anaheim,Texas Rangers,58.82,0.33,0.4,0.3,38.84,0.0,0.2,0.4
+16-08-2014,Los Angeles Angels of Anaheim,Texas Rangers,59.17,0.33,0.4,0.3,38.52,0.0,0.2,0.3
+17-08-2014,Los Angeles Angels of Anaheim,Texas Rangers,59.5,0.33,0.6,0.4,38.21,0.0,0.0,0.2
+22-08-2014,Kansas City Royals,Texas Rangers,55.56,0.33,0.6,0.6,38.89,0.0,0.2,0.2
+23-08-2014,Kansas City Royals,Texas Rangers,55.91,0.0,0.4,0.6,38.58,0.33,0.4,0.3
+24-08-2014,Kansas City Royals,Texas Rangers,56.25,0.33,0.4,0.6,38.28,0.0,0.2,0.2
+04-09-2014,Seattle Mariners,Texas Rangers,54.35,0.33,0.4,0.3,38.13,0.0,0.0,0.2
+05-09-2014,Seattle Mariners,Texas Rangers,54.68,0.33,0.4,0.4,37.86,0.0,0.0,0.2
+06-09-2014,Seattle Mariners,Texas Rangers,55.0,0.33,0.6,0.4,37.59,0.0,0.0,0.1
+07-09-2014,Seattle Mariners,Texas Rangers,55.32,0.33,0.6,0.5,37.32,0.0,0.0,0.1
+09-09-2014,Los Angeles Angels of Anaheim,Texas Rangers,61.54,0.33,0.6,0.6,37.76,0.0,0.0,0.0
+10-09-2014,Los Angeles Angels of Anaheim,Texas Rangers,61.81,0.33,0.6,0.6,37.5,0.33,0.2,0.1
+11-09-2014,Los Angeles Angels of Anaheim,Texas Rangers,62.07,0.33,0.6,0.6,37.24,0.0,0.2,0.1
+12-09-2014,Atlanta Braves,Texas Rangers,51.37,0.0,0.0,0.2,36.99,0.0,0.2,0.1
+13-09-2014,Atlanta Braves,Texas Rangers,51.02,0.33,0.2,0.3,37.41,0.0,0.0,0.1
+14-09-2014,Atlanta Braves,Texas Rangers,50.68,0.0,0.2,0.3,37.84,0.33,0.2,0.2
+22-09-2014,Houston Astros,Texas Rangers,44.23,0.33,0.2,0.3,40.0,0.0,0.4,0.7
+23-09-2014,Houston Astros,Texas Rangers,43.95,0.33,0.4,0.4,40.38,0.33,0.4,0.7
+24-09-2014,Houston Astros,Texas Rangers,43.67,0.0,0.4,0.3,40.76,0.33,0.4,0.7
+25-09-2014,Oakland Athletics,Texas Rangers,54.43,0.0,0.4,0.3,41.14,0.33,0.6,0.7
+26-09-2014,Oakland Athletics,Texas Rangers,54.09,0.0,0.2,0.3,41.51,0.33,0.6,0.7
+27-09-2014,Oakland Athletics,Texas Rangers,54.37,0.0,0.0,0.3,41.25,0.33,0.6,0.7
+28-09-2014,Oakland Athletics,Texas Rangers,54.04,0.33,0.2,0.4,41.61,0.0,0.4,0.6
+04-04-2014,New York Yankees,Toronto Blue Jays,33.33,0.0,nan,nan,50.0,0.33,0.4,nan
+05-04-2014,New York Yankees,Toronto Blue Jays,50.0,0.33,0.2,nan,40.0,0.0,0.4,nan
+06-04-2014,New York Yankees,Toronto Blue Jays,40.0,0.33,0.4,nan,50.0,0.0,0.2,nan
+08-04-2014,Houston Astros,Toronto Blue Jays,42.86,0.33,0.2,nan,42.86,0.33,0.2,nan
+09-04-2014,Houston Astros,Toronto Blue Jays,37.5,0.0,0.2,nan,50.0,0.0,0.2,nan
+10-04-2014,Houston Astros,Toronto Blue Jays,33.33,0.0,0.2,0.3,55.56,0.33,0.4,0.4
+22-04-2014,Baltimore Orioles,Toronto Blue Jays,50.0,0.0,0.2,0.4,52.63,0.33,0.4,0.5
+23-04-2014,Baltimore Orioles,Toronto Blue Jays,47.37,0.33,0.2,0.5,55.0,0.0,0.4,0.4
+24-04-2014,Baltimore Orioles,Toronto Blue Jays,50.0,0.0,0.2,0.4,52.38,0.33,0.4,0.5
+25-04-2014,Boston Red Sox,Toronto Blue Jays,43.48,0.33,0.2,0.5,50.0,0.0,0.2,0.4
+26-04-2014,Boston Red Sox,Toronto Blue Jays,45.83,0.0,0.2,0.4,47.83,0.0,0.2,0.3
+27-04-2014,Boston Red Sox,Toronto Blue Jays,48.0,0.33,0.4,0.4,45.83,0.0,0.0,0.3
+07-05-2014,Philadelphia Phillies,Toronto Blue Jays,48.39,0.0,0.4,0.4,48.48,0.33,0.4,0.4
+08-05-2014,Philadelphia Phillies,Toronto Blue Jays,46.88,0.0,0.2,0.4,50.0,0.33,0.6,0.4
+09-05-2014,Los Angeles Angels of Anaheim,Toronto Blue Jays,48.48,0.0,0.2,0.5,51.43,0.33,0.6,0.5
+10-05-2014,Los Angeles Angels of Anaheim,Toronto Blue Jays,50.0,0.0,0.2,0.4,50.0,0.33,0.6,0.6
+11-05-2014,Los Angeles Angels of Anaheim,Toronto Blue Jays,51.43,0.33,0.2,0.4,48.65,0.0,0.4,0.5
+12-05-2014,Los Angeles Angels of Anaheim,Toronto Blue Jays,52.78,0.33,0.4,0.4,47.37,0.0,0.2,0.5
+13-05-2014,Cleveland Indians,Toronto Blue Jays,47.37,0.0,0.4,0.5,48.72,0.0,0.0,0.5
+14-05-2014,Cleveland Indians,Toronto Blue Jays,46.15,0.33,0.4,0.5,50.0,0.33,0.2,0.5
+15-05-2014,Cleveland Indians,Toronto Blue Jays,47.5,0.0,0.2,0.5,48.78,0.33,0.4,0.5
+23-05-2014,Oakland Athletics,Toronto Blue Jays,63.83,0.33,0.6,0.7,54.17,0.33,0.4,0.6
+24-05-2014,Oakland Athletics,Toronto Blue Jays,62.5,0.0,0.4,0.6,55.1,0.33,0.6,0.6
+25-05-2014,Oakland Athletics,Toronto Blue Jays,61.22,0.0,0.2,0.5,56.0,0.33,0.6,0.7
+26-05-2014,Tampa Bay Rays,Toronto Blue Jays,45.1,0.33,0.6,0.4,56.86,0.33,0.6,0.7
+27-05-2014,Tampa Bay Rays,Toronto Blue Jays,44.23,0.33,0.6,0.4,57.69,0.33,0.6,0.7
+28-05-2014,Tampa Bay Rays,Toronto Blue Jays,43.4,0.0,0.4,0.4,58.49,0.33,0.6,0.7
+29-05-2014,Kansas City Royals,Toronto Blue Jays,46.15,0.0,0.0,0.2,59.26,0.33,0.6,0.8
+30-05-2014,Kansas City Royals,Toronto Blue Jays,47.17,0.0,0.0,0.2,58.18,0.33,0.6,0.8
+31-05-2014,Kansas City Royals,Toronto Blue Jays,48.15,0.33,0.2,0.3,57.14,0.0,0.4,0.7
+01-06-2014,Kansas City Royals,Toronto Blue Jays,47.27,0.33,0.4,0.3,57.89,0.0,0.2,0.6
+06-06-2014,St. Louis Cardinals,Toronto Blue Jays,50.82,0.33,0.2,0.2,60.66,0.33,0.6,0.6
+07-06-2014,St. Louis Cardinals,Toronto Blue Jays,50.0,0.0,0.2,0.2,61.29,0.33,0.6,0.6
+08-06-2014,St. Louis Cardinals,Toronto Blue Jays,50.79,0.0,0.2,0.2,60.32,0.33,0.6,0.6
+09-06-2014,Minnesota Twins,Toronto Blue Jays,47.54,0.33,0.2,0.4,59.38,0.0,0.4,0.6
+10-06-2014,Minnesota Twins,Toronto Blue Jays,46.77,0.0,0.2,0.4,60.0,0.0,0.2,0.6
+11-06-2014,Minnesota Twins,Toronto Blue Jays,47.62,0.0,0.2,0.3,59.09,0.33,0.2,0.6
+23-06-2014,New York Yankees,Toronto Blue Jays,52.7,0.0,0.4,0.5,54.55,0.0,0.2,0.3
+24-06-2014,New York Yankees,Toronto Blue Jays,52.0,0.0,0.2,0.4,55.13,0.0,0.2,0.2
+25-06-2014,New York Yankees,Toronto Blue Jays,51.32,0.0,0.0,0.4,55.7,0.33,0.2,0.3
+26-06-2014,Chicago White Sox,Toronto Blue Jays,45.57,0.33,0.2,0.3,55.0,0.33,0.4,0.3
+27-06-2014,Chicago White Sox,Toronto Blue Jays,45.0,0.0,0.2,0.2,55.56,0.0,0.4,0.3
+28-06-2014,Chicago White Sox,Toronto Blue Jays,45.68,0.0,0.2,0.1,54.88,0.33,0.4,0.4
+29-06-2014,Chicago White Sox,Toronto Blue Jays,46.34,0.33,0.2,0.2,54.22,0.0,0.2,0.4
+01-07-2014,Milwaukee Brewers,Toronto Blue Jays,60.71,0.33,0.6,0.6,53.57,0.0,0.2,0.3
+02-07-2014,Milwaukee Brewers,Toronto Blue Jays,60.0,0.0,0.4,0.5,54.12,0.0,0.0,0.3
+18-07-2014,Texas Rangers,Toronto Blue Jays,40.0,0.0,0.0,0.1,51.04,0.0,0.2,0.2
+19-07-2014,Texas Rangers,Toronto Blue Jays,40.62,0.0,0.0,0.0,50.52,0.0,0.2,0.2
+20-07-2014,Texas Rangers,Toronto Blue Jays,40.21,0.33,0.2,0.1,51.02,0.0,0.0,0.2
+21-07-2014,Boston Red Sox,Toronto Blue Jays,46.94,0.33,0.6,0.6,51.52,0.33,0.2,0.3
+22-07-2014,Boston Red Sox,Toronto Blue Jays,47.47,0.33,0.6,0.7,51.0,0.33,0.4,0.4
+23-07-2014,Boston Red Sox,Toronto Blue Jays,47.0,0.33,0.6,0.7,51.49,0.0,0.4,0.3
+24-07-2014,Boston Red Sox,Toronto Blue Jays,46.53,0.0,0.4,0.6,51.96,0.33,0.4,0.4
+05-08-2014,Baltimore Orioles,Toronto Blue Jays,56.76,0.33,0.4,0.5,53.1,0.0,0.2,0.6
+06-08-2014,Baltimore Orioles,Toronto Blue Jays,57.14,0.33,0.4,0.6,52.63,0.0,0.0,0.5
+07-08-2014,Baltimore Orioles,Toronto Blue Jays,56.64,0.33,0.6,0.6,53.04,0.0,0.0,0.4
+08-08-2014,Detroit Tigers,Toronto Blue Jays,55.36,0.0,0.2,0.5,52.59,0.33,0.2,0.4
+09-08-2014,Detroit Tigers,Toronto Blue Jays,55.75,0.0,0.2,0.4,52.14,0.0,0.2,0.3
+10-08-2014,Detroit Tigers,Toronto Blue Jays,55.26,0.33,0.2,0.5,52.54,0.0,0.2,0.2
+22-08-2014,Tampa Bay Rays,Toronto Blue Jays,48.82,0.0,0.0,0.3,51.18,0.0,0.2,0.2
+23-08-2014,Tampa Bay Rays,Toronto Blue Jays,49.22,0.33,0.2,0.4,50.78,0.33,0.2,0.2
+24-08-2014,Tampa Bay Rays,Toronto Blue Jays,48.84,0.33,0.4,0.4,51.16,0.0,0.2,0.2
+25-08-2014,Boston Red Sox,Toronto Blue Jays,43.08,0.0,0.0,0.1,50.77,0.33,0.4,0.3
+26-08-2014,Boston Red Sox,Toronto Blue Jays,43.51,0.0,0.0,0.0,50.38,0.0,0.2,0.3
+27-08-2014,Boston Red Sox,Toronto Blue Jays,43.94,0.33,0.2,0.1,50.0,0.0,0.2,0.3
+29-08-2014,New York Yankees,Toronto Blue Jays,52.27,0.33,0.4,0.6,50.38,0.0,0.0,0.2
+30-08-2014,New York Yankees,Toronto Blue Jays,52.63,0.0,0.2,0.6,50.0,0.33,0.2,0.3
+31-08-2014,New York Yankees,Toronto Blue Jays,52.24,0.33,0.4,0.6,50.37,0.0,0.2,0.3
+08-09-2014,Chicago Cubs,Toronto Blue Jays,44.76,0.0,0.2,0.4,51.41,0.0,0.2,0.5
+09-09-2014,Chicago Cubs,Toronto Blue Jays,44.44,0.0,0.0,0.3,51.75,0.33,0.2,0.6
+10-09-2014,Chicago Cubs,Toronto Blue Jays,44.14,0.0,0.0,0.3,52.08,0.33,0.4,0.6
+12-09-2014,Tampa Bay Rays,Toronto Blue Jays,47.62,0.0,0.2,0.3,52.41,0.33,0.6,0.6
+13-09-2014,Tampa Bay Rays,Toronto Blue Jays,47.97,0.0,0.2,0.3,52.05,0.33,0.6,0.6
+14-09-2014,Tampa Bay Rays,Toronto Blue Jays,47.65,0.33,0.2,0.4,52.38,0.0,0.4,0.5
+22-09-2014,Seattle Mariners,Toronto Blue Jays,53.55,0.0,0.4,0.3,50.32,0.33,0.2,0.2
+23-09-2014,Seattle Mariners,Toronto Blue Jays,53.21,0.0,0.2,0.3,50.64,0.0,0.2,0.1
+24-09-2014,Seattle Mariners,Toronto Blue Jays,52.87,0.0,0.0,0.3,50.96,0.33,0.4,0.2
+25-09-2014,Seattle Mariners,Toronto Blue Jays,52.53,0.0,0.0,0.3,51.27,0.33,0.4,0.3
+26-09-2014,Baltimore Orioles,Toronto Blue Jays,59.75,0.33,0.4,0.5,50.94,0.33,0.6,0.4
+27-09-2014,Baltimore Orioles,Toronto Blue Jays,59.38,0.0,0.4,0.4,51.25,0.0,0.4,0.4
+28-09-2014,Baltimore Orioles,Toronto Blue Jays,59.01,0.0,0.2,0.3,51.55,0.33,0.4,0.5
+04-04-2014,Atlanta Braves,Washington Nationals,66.67,0.33,nan,nan,100.0,0.33,nan,nan
+05-04-2014,Atlanta Braves,Washington Nationals,75.0,0.33,0.4,nan,75.0,0.33,0.6,nan
+06-04-2014,Atlanta Braves,Washington Nationals,80.0,0.33,0.6,nan,60.0,0.0,0.4,nan
+08-04-2014,Miami Marlins,Washington Nationals,71.43,0.33,0.6,nan,66.67,0.0,0.2,nan
+09-04-2014,Miami Marlins,Washington Nationals,62.5,0.0,0.4,nan,71.43,0.33,0.2,nan
+10-04-2014,Miami Marlins,Washington Nationals,55.56,0.0,0.2,0.5,75.0,0.33,0.4,nan
+17-04-2014,St. Louis Cardinals,Washington Nationals,60.0,0.33,0.6,0.6,60.0,0.0,0.2,0.4
+18-04-2014,St. Louis Cardinals,Washington Nationals,62.5,0.0,0.4,0.5,56.25,0.33,0.4,0.4
+19-04-2014,St. Louis Cardinals,Washington Nationals,58.82,0.33,0.4,0.5,58.82,0.0,0.2,0.3
+20-04-2014,St. Louis Cardinals,Washington Nationals,61.11,0.0,0.2,0.5,55.56,0.33,0.4,0.3
+21-04-2014,Los Angeles Angels of Anaheim,Washington Nationals,44.44,0.0,0.4,0.4,57.89,0.0,0.2,0.3
+22-04-2014,Los Angeles Angels of Anaheim,Washington Nationals,47.37,0.0,0.2,0.3,55.0,0.33,0.4,0.4
+23-04-2014,Los Angeles Angels of Anaheim,Washington Nationals,50.0,0.33,0.2,0.4,52.38,0.0,0.2,0.4
+24-04-2014,San Diego Padres,Washington Nationals,45.45,0.33,0.2,0.4,54.55,0.0,0.2,0.3
+25-04-2014,San Diego Padres,Washington Nationals,47.83,0.0,0.2,0.4,52.17,0.33,0.2,0.4
+26-04-2014,San Diego Padres,Washington Nationals,45.83,0.33,0.4,0.4,54.17,0.0,0.2,0.3
+27-04-2014,San Diego Padres,Washington Nationals,44.0,0.0,0.2,0.4,56.0,0.33,0.4,0.4
+05-05-2014,Los Angeles Dodgers,Washington Nationals,56.25,0.33,0.4,0.5,54.84,0.0,0.4,0.5
+06-05-2014,Los Angeles Dodgers,Washington Nationals,54.55,0.0,0.2,0.5,56.25,0.0,0.2,0.5
+07-05-2014,Los Angeles Dodgers,Washington Nationals,55.88,0.0,0.2,0.4,54.55,0.33,0.2,0.5
+16-05-2014,New York Mets,Washington Nationals,47.5,0.0,0.4,0.3,52.5,0.0,0.2,0.3
+17-05-2014,New York Mets,Washington Nationals,46.34,0.0,0.2,0.3,53.66,0.33,0.4,0.3
+18-05-2014,New York Mets,Washington Nationals,47.62,0.0,0.0,0.3,52.38,0.33,0.4,0.4
+19-05-2014,Cincinnati Reds,Washington Nationals,45.24,0.0,0.2,0.4,53.49,0.0,0.4,0.3
+20-05-2014,Cincinnati Reds,Washington Nationals,46.51,0.0,0.2,0.3,52.27,0.33,0.4,0.4
+21-05-2014,Cincinnati Reds,Washington Nationals,45.45,0.33,0.2,0.4,53.33,0.0,0.2,0.4
+26-05-2014,Miami Marlins,Washington Nationals,50.98,0.33,0.4,0.5,50.0,0.0,0.0,0.2
+28-05-2014,Miami Marlins,Washington Nationals,51.92,0.0,0.2,0.4,49.02,0.33,0.2,0.3
+30-05-2014,Texas Rangers,Washington Nationals,51.85,0.33,0.4,0.6,48.08,0.0,0.2,0.2
+31-05-2014,Texas Rangers,Washington Nationals,50.91,0.33,0.4,0.6,49.06,0.0,0.2,0.2
+01-06-2014,Texas Rangers,Washington Nationals,50.0,0.0,0.4,0.5,50.0,0.33,0.2,0.2
+03-06-2014,Philadelphia Phillies,Washington Nationals,43.64,0.0,0.2,0.3,49.09,0.33,0.4,0.3
+04-06-2014,Philadelphia Phillies,Washington Nationals,42.86,0.0,0.0,0.3,50.0,0.0,0.4,0.3
+05-06-2014,Philadelphia Phillies,Washington Nationals,42.11,0.0,0.0,0.2,50.88,0.33,0.4,0.4
+17-06-2014,Houston Astros,Washington Nationals,45.07,0.33,0.4,0.5,51.47,0.0,0.0,0.4
+18-06-2014,Houston Astros,Washington Nationals,44.44,0.0,0.2,0.5,52.17,0.0,0.0,0.4
+19-06-2014,Atlanta Braves,Washington Nationals,50.7,0.0,0.2,0.3,52.86,0.33,0.2,0.4
+20-06-2014,Atlanta Braves,Washington Nationals,51.39,0.0,0.0,0.2,52.11,0.33,0.4,0.4
+21-06-2014,Atlanta Braves,Washington Nationals,52.05,0.33,0.2,0.3,51.39,0.0,0.4,0.3
+22-06-2014,Atlanta Braves,Washington Nationals,51.35,0.33,0.4,0.4,52.05,0.0,0.2,0.2
+30-06-2014,Colorado Rockies,Washington Nationals,43.37,0.0,0.0,0.1,53.09,0.33,0.2,0.5
+01-07-2014,Colorado Rockies,Washington Nationals,42.86,0.33,0.2,0.2,53.66,0.33,0.4,0.5
+02-07-2014,Colorado Rockies,Washington Nationals,42.35,0.0,0.2,0.2,54.22,0.33,0.6,0.5
+04-07-2014,Chicago Cubs,Washington Nationals,44.58,0.33,0.4,0.5,54.76,0.33,0.6,0.5
+05-07-2014,Chicago Cubs,Washington Nationals,45.24,0.33,0.6,0.5,54.12,0.33,0.6,0.5
+06-07-2014,Chicago Cubs,Washington Nationals,44.71,0.33,0.6,0.6,54.65,0.0,0.4,0.5
+07-07-2014,Baltimore Orioles,Washington Nationals,54.55,0.33,0.4,0.5,55.17,0.33,0.4,0.6
+18-07-2014,Milwaukee Brewers,Washington Nationals,55.21,0.0,0.0,0.1,54.84,0.33,0.2,0.4
+19-07-2014,Milwaukee Brewers,Washington Nationals,55.67,0.33,0.2,0.1,54.26,0.33,0.4,0.5
+20-07-2014,Milwaukee Brewers,Washington Nationals,55.1,0.33,0.4,0.2,54.74,0.0,0.4,0.4
+31-07-2014,Philadelphia Phillies,Washington Nationals,43.52,0.33,0.4,0.4,55.24,0.0,0.2,0.4
+01-08-2014,Philadelphia Phillies,Washington Nationals,44.04,0.0,0.2,0.4,54.72,0.33,0.2,0.4
+02-08-2014,Philadelphia Phillies,Washington Nationals,44.55,0.33,0.4,0.5,54.21,0.0,0.2,0.3
+03-08-2014,Philadelphia Phillies,Washington Nationals,44.14,0.33,0.4,0.5,54.63,0.0,0.2,0.3
+04-08-2014,Baltimore Orioles,Washington Nationals,56.36,0.0,0.2,0.5,55.05,0.33,0.2,0.3
+05-08-2014,New York Mets,Washington Nationals,47.32,0.0,0.2,0.4,54.55,0.33,0.4,0.4
+06-08-2014,New York Mets,Washington Nationals,47.79,0.0,0.2,0.4,54.05,0.0,0.4,0.3
+07-08-2014,New York Mets,Washington Nationals,47.37,0.33,0.2,0.4,54.46,0.0,0.2,0.3
+15-08-2014,Pittsburgh Pirates,Washington Nationals,52.89,0.0,0.4,0.5,55.46,0.33,0.4,0.5
+16-08-2014,Pittsburgh Pirates,Washington Nationals,52.46,0.0,0.2,0.4,55.83,0.33,0.6,0.6
+17-08-2014,Pittsburgh Pirates,Washington Nationals,52.03,0.0,0.0,0.3,56.2,0.33,0.6,0.6
+18-08-2014,Arizona Diamondbacks,Washington Nationals,42.74,0.0,0.2,0.4,56.56,0.33,0.6,0.6
+19-08-2014,Arizona Diamondbacks,Washington Nationals,42.4,0.0,0.2,0.3,56.91,0.33,0.6,0.7
+20-08-2014,Arizona Diamondbacks,Washington Nationals,42.06,0.0,0.0,0.2,57.26,0.33,0.6,0.7
+21-08-2014,Arizona Diamondbacks,Washington Nationals,41.73,0.0,0.0,0.2,57.6,0.33,0.6,0.8
+22-08-2014,San Francisco Giants,Washington Nationals,53.54,0.33,0.4,0.4,57.94,0.33,0.6,0.8
+23-08-2014,San Francisco Giants,Washington Nationals,53.91,0.33,0.4,0.5,57.48,0.33,0.6,0.8
+24-08-2014,San Francisco Giants,Washington Nationals,53.49,0.33,0.6,0.6,57.81,0.0,0.4,0.7
+05-09-2014,Philadelphia Phillies,Washington Nationals,46.04,0.33,0.4,0.6,57.25,0.0,0.2,0.3
+06-09-2014,Philadelphia Phillies,Washington Nationals,46.43,0.0,0.4,0.5,56.83,0.33,0.4,0.4
+07-09-2014,Philadelphia Phillies,Washington Nationals,46.81,0.33,0.4,0.5,56.43,0.0,0.2,0.4
+08-09-2014,Atlanta Braves,Washington Nationals,51.75,0.33,0.4,0.4,56.74,0.0,0.2,0.4
+09-09-2014,Atlanta Braves,Washington Nationals,51.39,0.0,0.2,0.3,57.04,0.33,0.2,0.4
+10-09-2014,Atlanta Braves,Washington Nationals,51.03,0.0,0.2,0.3,57.34,0.33,0.4,0.4
+23-09-2014,New York Mets,Washington Nationals,48.72,0.33,0.4,0.4,58.71,0.33,0.6,0.7
+27-09-2014,Miami Marlins,Washington Nationals,48.12,0.0,0.2,0.2,58.75,0.33,0.4,0.7
+28-09-2014,Miami Marlins,Washington Nationals,47.83,0.33,0.4,0.3,59.01,0.0,0.4,0.6
