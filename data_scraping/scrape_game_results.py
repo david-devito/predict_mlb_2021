@@ -23,7 +23,7 @@ spcharReplace = {'í':'i',
 
 section = 'winpct' #lineups, recwOBA, winpct, weather, recFIP
 
-year = '2012'
+year = '2011'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
