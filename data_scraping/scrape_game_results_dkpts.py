@@ -40,12 +40,12 @@ with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' 
     statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     statswriter.writerow(outputHeaders)
 
-for hometeami in ['ARI']:#homeTeams:
+for hometeami in homeTeams:
     print(hometeami)
     # Loop through each day within every month of regular season
-    for monthi in ['07']:#monthsWithGames:
+    for monthi in monthsWithGames:
         print(monthi)
-        for dayi in [30]:#list(range(0,32)):
+        for dayi in list(range(0,32)):
             # Try statement will fail if no game exists for that particular day
             try:
                 # Add a 0 before day if it's a single digit
