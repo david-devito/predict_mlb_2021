@@ -28,3 +28,31 @@ def combine_df(year):
     # Remove playoff games
     curDF = curDF[curDF['month'] != 10]
     return curDF
+
+def combine_df_hitterdkpts(year):
+    curDF = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_lineups.csv', sep=',')
+    
+    curDF['year'] = curDF['Date'].apply(lambda x: int(x[-4:]))
+    curDF['month'] = curDF['Date'].apply(lambda x: int(x[3:5]))
+    
+    dkpts = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_hitters_dkpts.csv', sep=',')
+    curDF = pd.merge(curDF, dkpts,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
+    
+    parkFactors = pd.read_csv('input/parkFactors/parkFactors.csv', sep=',')
+    curDF = pd.merge(curDF, parkFactors,  how='left', left_on=['year','HomeTeam'], right_on = ['ParkYear','Park'])
+    
+    #recwOBA = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recwOBA.csv', sep=',')
+    #curDF = pd.merge(curDF, recwOBA,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
+    #recFIP = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recFIP.csv', sep=',')
+    #curDF = pd.merge(curDF, recFIP,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
+    #weather = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_weather.csv', sep=',')
+    #curDF = pd.merge(curDF, weather,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
+    
+
+    # Remove playoff games
+    curDF = curDF[curDF['month'] != 10]
+    return curDF

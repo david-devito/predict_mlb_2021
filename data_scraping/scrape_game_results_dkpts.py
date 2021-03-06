@@ -29,15 +29,16 @@ else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
-
+homeTeams = ['HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
+             'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam']
 if section == 'hitters':
     outputHeaders.extend(['Batter','DKPts','BattingOrder','HomeOrAway'])
 elif section == 'pitchers':pass
-with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
-    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    statswriter.writerow(outputHeaders)
+#with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
+#    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+#    statswriter.writerow(outputHeaders)
 
 for hometeami in homeTeams:
     print(hometeami)
@@ -92,9 +93,9 @@ for hometeami in homeTeams:
                     ## GET STARTING PLAYER STATS FROM PREVIOUS N NUMBER OF GAMES
                     numGames = 3
                     awayStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_1"' in n),"lxml").select('#lineups_1')[0].select('a')
-                    awayStarterLinks = [x['href'].split('/')[-1].split('.')[0] for x in awayStarterLinks]
+                    awayStarterLinks = ['.'.join(x['href'].split('/')[-1].split('.')[:-1]) for x in awayStarterLinks]
                     homeStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_2"' in n),"lxml").select('#lineups_2')[0].select('a')
-                    homeStarterLinks = [x['href'].split('/')[-1].split('.')[0] for x in homeStarterLinks]
+                    homeStarterLinks = ['.'.join(x['href'].split('/')[-1].split('.')[:-1]) for x in homeStarterLinks]
                     
                     hitter_dkpts = []
                     for curPlayer in awayStarterLinks[0:9] + homeStarterLinks[0:9]:
