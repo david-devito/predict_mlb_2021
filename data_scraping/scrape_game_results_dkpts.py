@@ -23,22 +23,20 @@ spcharReplace = {'í':'i',
 
 section = 'hitters' #lineups, recwOBA, winpct, weather, recFIP
 
-year = '2018'
+year = '2017'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
-             'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
-homeTeams = ['HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam']
 if section == 'hitters':
     outputHeaders.extend(['Batter','DKPts','BattingOrder','HomeOrAway'])
 elif section == 'pitchers':pass
-#with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
-#    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-#    statswriter.writerow(outputHeaders)
+with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
+    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    statswriter.writerow(outputHeaders)
 
 for hometeami in homeTeams:
     print(hometeami)

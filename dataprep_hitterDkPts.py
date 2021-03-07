@@ -12,6 +12,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 # sklearn functions
 from sklearn.preprocessing import MinMaxScaler, KBinsDiscretizer
+from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 from imblearn.over_sampling import SMOTE,SMOTENC
@@ -37,11 +38,16 @@ for yeari in range(2019,2021):
 statsDF = statsDF[~statsDF['Batter'].isna()].copy()
 # Convert month variable to string because relationship between months and pts might not be linear
 statsDF['month'] = statsDF['month'].astype(str)
-
 # Convert certain numerical columns to strings when you want them to be treated as categorical
 #statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
 
-'''
+# Calculate difference in WinPct
+statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
+statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
+statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
+statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
+
+
 ## LOAD STATISTICS
 # Load Batting Stats
 #print('Loading Batting Stats...')
@@ -51,7 +57,7 @@ batStatsCols.extend([53,62,66])
 #batStatsCols.extend(list(range(290,312)))
 for yeari in range(2018,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
-    
+'''
 
 #print('Loading Pitching Stats...')
 pitching = dict()
@@ -60,47 +66,39 @@ pitchStatsCols.extend([62,109,217,221,240,284])#start at 326
 for yeari in range(2009,2019):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 
-
-# Create dictionaries to store Modes, Means, and SDs for testing data
-modeTestingList = dict()
-lowOutlierTestingList = dict()
-highOutlierTestingList = dict()
-
+'''
+'''
 # BATTING STATS
-# List of batters that you'd like included in the analysis
-#batterList = ['A_1','A_2','A_3','A_4','A_5','A_6','A_7','A_8','A_9','H_1','H_2','H_3','H_4','H_5','H_6','H_7','H_8','H_9']
-batterList = ['A_1','A_2','A_3']
-#batterList = ['A_1','A_2','A_3','A_4','A_5','H_1','H_2','H_3','H_4','H_5']
 # Compile list of statistics by removing irrelevant column names from column list
 battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
 
 
 # Create columns in stats DataFrame that include each corresponding players stats from current and past years
-relevantBatStats = relevant_statLists.batterStatList()
+#relevantBatStats = relevant_statLists.batterStatList()
 # Loop through each year, batter and statistic
 for yeari in ['prevY']:
-    for bati in batterList:
+    for bati in ['Batter']:
         print(bati)
         for stati in battingStatsColumns:
-            if stati + '_' + bati + '_' + yeari in relevantBatStats:
-                print(stati)
-                # Create a column that contains the statistical value associated with each corresponding hitter
-                statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
-                # Replace any outliers with the mode from that column
-                curMean = np.mean(statsDF[stati + '_' + bati + '_' + yeari])
-                curSTD = np.std(statsDF[stati + '_' + bati + '_' + yeari])
-                lowOutlier = curMean - (3*curSTD)
-                highOutlier = curMean + (3*curSTD)
-                statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] < lowOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
-                statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] > highOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
-                # Fill any NaN values with the mode from that column
-                statsDF[stati + '_' + bati + '_' + yeari].fillna(statsDF[stati + '_' + bati + '_' + yeari].mode()[0], inplace=True)
-                # Save Mode for Future Testing
-                #modeTestingList[stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
-                # Save Low and High Outlier Values for Future Testing
-                #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
-                #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
-
+            #if stati + '_' + bati + '_' + yeari in relevantBatStats:
+            #print(stati)
+            # Create a column that contains the statistical value associated with each corresponding hitter
+            statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
+            # Replace any outliers with the mode from that column
+            curMean = np.mean(statsDF[stati + '_' + bati + '_' + yeari])
+            curSTD = np.std(statsDF[stati + '_' + bati + '_' + yeari])
+            lowOutlier = curMean - (3*curSTD)
+            highOutlier = curMean + (3*curSTD)
+            statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] < lowOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
+            statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] > highOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
+            # Fill any NaN values with the mode from that column
+            statsDF[stati + '_' + bati + '_' + yeari].fillna(statsDF[stati + '_' + bati + '_' + yeari].mode()[0], inplace=True)
+            # Save Mode for Future Testing
+            #modeTestingList[stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
+            # Save Low and High Outlier Values for Future Testing
+            #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
+            #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
+'''
 # Combine stats across hitters
 #X = statsDF.columns[['prevY' in x for x in statsDF.columns]]
 #for yeari in ['prevY']:
@@ -117,7 +115,7 @@ for yeari in ['prevY']:
 #statsDF = statsDF.drop(['GB%_H_avg_prevY','GB%_A_avg_prevY'],axis=1)
 
 
-
+'''
 # Recent wOBA Stats
 statsDF['H_recwOBA_1-3'] = statsDF.apply(lambda x: (x['H_1_recwOBA'] + x['H_2_recwOBA'] + x['H_3_recwOBA'])/3, axis=1)
 statsDF['H_recwOBA_4-6'] = statsDF.apply(lambda x: (x['H_4_recwOBA'] + x['H_5_recwOBA'] + x['H_6_recwOBA'])/3, axis=1)
@@ -171,7 +169,7 @@ statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY'
 
 #statsDF['recFIP_Diff'] = statsDF.apply(lambda x: x['H_SP_recFIP'] - x['A_SP_recFIP'], axis=1)
 
-
+'''
 # WEATHER
 
 statsDF['windSpeed'] = statsDF['windSpeed'].apply(lambda x: '10+' if x >= 10 else ('0' if x == 0 else '>0 + <10'))
@@ -183,11 +181,7 @@ statsDF['windSpeedAndDir'] = statsDF.apply(lambda x: x['windSpeed'] + ' ' + x['w
 statsDF['precipitation'] = statsDF['precipitation'].fillna('NaN')
 statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: 'Rain' if 'Drizzle' in x else x)
 
-# Save Modes, Means, and SDs for testing data
-#pickle.dump(modeTestingList, open('modes.pkl', 'wb'))
-#pickle.dump(lowOutlierTestingList, open('lowOutliers.pkl', 'wb'))
-#pickle.dump(highOutlierTestingList, open('highOutliers.pkl', 'wb'))
-'''
+
 # REMOVE COLUMNS WITH NA VALUES
 #statsDF = statsDF.dropna(axis=0, how='any').copy()
 
@@ -200,25 +194,28 @@ statsDF[labelCol] = pd.Categorical(pd.factorize(statsDF[labelCol])[0])
 # Get the label values as a numpy array
 labels = np.array(statsDF[labelCol])
 
-'''
+
 # Classify all numeric data into bins
 nonStatsColumns = [x for x in statsDF.columns if 'prevY' not in x]
 for coli in nonStatsColumns:
-    if ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year','kfold']:
+    if ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
         #statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
         #statsDF[coli] = statsDF[coli].astype(str)
         statsDF[coli].fillna(statsDF[coli].mode()[0], inplace=True)
-'''
+
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = []
-useful_features.extend(['BattingOrder','HomeOrAway','month'])
+useful_features = [x for x in statsDF.columns if 'prevY' in x]
+useful_features.extend([x for x in statsDF.columns if 'recFIP' in x])
+useful_features.extend([x for x in statsDF.columns if 'WinPct_Diff' in x])
+useful_features.extend(['BattingOrder','HomeOrAway'])
 useful_features.extend(['Park_RunsFactor','Park_HRFactor','Park_HFactor','Park_2BFactor','Park_3BFactor','Park_BBFactor'])
-#useful_features = [x for x in statsDF.columns if 'prevY' in x]
+useful_features.extend(['temperature','windSpeedAndDir','precipitation'])
+useful_features.extend(['AwayOdds','HomeOdds','OverUnder'])
 #useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
 #useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
 #useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
-#useful_features.extend(['temperature','windSpeedAndDir','precipitation'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
 # Create Full Features DF
@@ -258,7 +255,7 @@ test_features = scaler.transform(test_features)
 # Fit the model
 # Train on all data
 rf = assorted_funcs.random_forest_reg(train_features, train_labels)
-#rf = assorted_funcs.gbtclassifier(train_features, train_labels)
+#rf = LinearRegression().fit(train_features, train_labels)
 
 # Make predictions
 predictions = rf.predict(test_features)
@@ -268,7 +265,7 @@ predictions = rf.predict(test_features)
 resCor = np.corrcoef(predictions,test_labels)
 
 
-
+'''
 # Feature Importances
 importances = rf.feature_importances_
 std = np.std([tree.feature_importances_ for tree in rf.estimators_],
@@ -281,22 +278,12 @@ print("Feature ranking:")
 for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
-
+'''
     
 
 
-m, b = np.polyfit(predictions, test_labels, 1)
-plt.plot(predictions, test_labels, 'o')
-plt.plot(predictions, m*predictions + b)
+m, b = np.polyfit(test_labels, predictions, 1)
+plt.plot(test_labels, predictions, 'o')
+plt.plot(test_labels, m*test_labels + b)
 
 plt.show()
-
-
-
-
-
-
-
-
-
-

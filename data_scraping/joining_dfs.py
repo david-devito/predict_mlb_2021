@@ -38,19 +38,24 @@ def combine_df_hitterdkpts(year):
     dkpts = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_hitters_dkpts.csv', sep=',')
     curDF = pd.merge(curDF, dkpts,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
-    
     parkFactors = pd.read_csv('input/parkFactors/parkFactors.csv', sep=',')
     curDF = pd.merge(curDF, parkFactors,  how='left', left_on=['year','HomeTeam'], right_on = ['ParkYear','Park'])
+    
+    winpct = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_winpct.csv', sep=',')
+    curDF = pd.merge(curDF, winpct,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
     
     #recwOBA = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recwOBA.csv', sep=',')
     #curDF = pd.merge(curDF, recwOBA,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
-    #recFIP = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recFIP.csv', sep=',')
-    #curDF = pd.merge(curDF, recFIP,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    recFIP = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recFIP.csv', sep=',')
+    curDF = pd.merge(curDF, recFIP,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
-    #weather = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_weather.csv', sep=',')
-    #curDF = pd.merge(curDF, weather,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    weather = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_weather.csv', sep=',')
+    curDF = pd.merge(curDF, weather,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
+    vegas = pd.read_csv('input/vegasOdds/vegasOdds_' + str(year) + '.csv', sep=',')
+    curDF = pd.merge(curDF, vegas,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
 
     # Remove playoff games
