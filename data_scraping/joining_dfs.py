@@ -45,8 +45,8 @@ def combine_df_hitterdkpts(year):
     curDF = pd.merge(curDF, winpct,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
     
-    #recwOBA = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recwOBA.csv', sep=',')
-    #curDF = pd.merge(curDF, recwOBA,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    recwOBA = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recwOBA.csv', sep=',')
+    curDF = pd.merge(curDF, recwOBA,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
     recFIP = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_recFIP.csv', sep=',')
     curDF = pd.merge(curDF, recFIP,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])

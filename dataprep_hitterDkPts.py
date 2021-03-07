@@ -27,7 +27,7 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2018,2021):
+for yeari in range(2019,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
@@ -44,10 +44,12 @@ statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_
 statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
 statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
 
-# Add Columns defining hitters before and after current batter in the batting order
+# Add Columns defining hitters before and after current hitter in the batting order
 statsDF = assorted_funcs.battingOrderVars(statsDF)
 
-sys.exit()
+# Add Columns defining recwOBA of current hitter and hitter before and after current hitter in the batting order
+statsDF = assorted_funcs.getrecwOBA(statsDF)
+
 ## LOAD STATISTICS
 # Load Batting Stats
 #print('Loading Batting Stats...')
@@ -92,7 +94,7 @@ for yeari in ['prevY']:
             statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] < lowOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
             statsDF.at[statsDF[stati + '_' + bati + '_' + yeari] > highOutlier, stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
             # Fill any NaN values with the mode from that column
-            statsDF[stati + '_' + bati + '_' + yeari].fillna(statsDF[stati + '_' + bati + '_' + yeari].mode()[0], inplace=True)
+            statsDF[stati + '_' + bati + '_' + yeari].fillna(statsDF[stati + '_' + bati + '_' + yeari].mean(), inplace=True)
             # Save Mode for Future Testing
             #modeTestingList[stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
             # Save Low and High Outlier Values for Future Testing
@@ -153,7 +155,7 @@ for yeari in ['prevY']:
             statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] < lowOutlier, stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
             statsDF.at[statsDF[stati + '_' + pitchi + '_' + yeari] > highOutlier, stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
             # Fill any NaN values with the mode from that column
-            statsDF[stati + '_' + pitchi + '_' + yeari].fillna(statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0], inplace=True)
+            statsDF[stati + '_' + pitchi + '_' + yeari].fillna(statsDF[stati + '_' + pitchi + '_' + yeari].mean(), inplace=True)
             # Save Mode for Future Testing
             #modeTestingList[stati + '_' + pitchi + '_' + yeari] = statsDF[stati + '_' + pitchi + '_' + yeari].mode()[0]
             # Save Low and High Outlier Values for Future Testing
@@ -172,14 +174,14 @@ statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY'
 '''
 # WEATHER
 
-statsDF['windSpeed'] = statsDF['windSpeed'].apply(lambda x: '10+' if x >= 10 else ('0' if x == 0 else '>0 + <10'))
-statsDF['windDirection'] = statsDF['windDirection'].fillna('NaN')
-statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'NoWind' if x == 'NoWind' else ('unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('crosswind' if 'from' in x else x)))))
-statsDF['windSpeedAndDir'] = statsDF.apply(lambda x: x['windSpeed'] + ' ' + x['windDirection'], axis=1)
+#statsDF['windSpeed'] = statsDF['windSpeed'].apply(lambda x: '10+' if x >= 10 else ('0' if x == 0 else '>0 + <10'))
+#statsDF['windDirection'] = statsDF['windDirection'].fillna('NaN')
+#statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'NoWind' if x == 'NoWind' else ('unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('crosswind' if 'from' in x else x)))))
+#statsDF['windSpeedAndDir'] = statsDF.apply(lambda x: x['windSpeed'] + ' ' + x['windDirection'], axis=1)
 
 #statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('NoWind' if 'NoWind' in x else 'crosswind'))))
-statsDF['precipitation'] = statsDF['precipitation'].fillna('NaN')
-statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: 'Rain' if 'Drizzle' in x else x)
+#statsDF['precipitation'] = statsDF['precipitation'].fillna('NaN')
+#statsDF['precipitation'] = statsDF['precipitation'].apply(lambda x: 'Rain' if 'Drizzle' in x else x)
 
 
 # REMOVE COLUMNS WITH NA VALUES
@@ -213,9 +215,7 @@ useful_features.extend(['BattingOrder','HomeOrAway'])
 useful_features.extend(['Park_RunsFactor','Park_HRFactor','Park_HFactor','Park_2BFactor','Park_3BFactor','Park_BBFactor'])
 useful_features.extend(['temperature'])
 useful_features.extend(['HomeOdds','OverUnder'])
-#useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
-#useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
-#useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
+useful_features.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
 # Create Full Features DF
