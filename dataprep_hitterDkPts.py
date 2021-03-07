@@ -24,13 +24,10 @@ from create_kfolds import create_kfolds
 from joining_dfs import combine_df_hitterdkpts
 import relevant_statLists
 
-
-#for curBatStati in list(range(6,45)):
-
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2019,2021):
+for yeari in range(2018,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
@@ -47,7 +44,10 @@ statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_
 statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
 statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
 
+# Add Columns defining hitters before and after current batter in the batting order
+statsDF = assorted_funcs.battingOrderVars(statsDF)
 
+sys.exit()
 ## LOAD STATISTICS
 # Load Batting Stats
 #print('Loading Batting Stats...')
@@ -67,7 +67,7 @@ for yeari in range(2009,2019):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 
 '''
-'''
+
 # BATTING STATS
 # Compile list of statistics by removing irrelevant column names from column list
 battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
@@ -77,7 +77,7 @@ battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].c
 #relevantBatStats = relevant_statLists.batterStatList()
 # Loop through each year, batter and statistic
 for yeari in ['prevY']:
-    for bati in ['Batter']:
+    for bati in ['Batter','Batter-1','Batter+1']:
         print(bati)
         for stati in battingStatsColumns:
             #if stati + '_' + bati + '_' + yeari in relevantBatStats:
@@ -98,7 +98,7 @@ for yeari in ['prevY']:
             # Save Low and High Outlier Values for Future Testing
             #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
             #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
-'''
+
 # Combine stats across hitters
 #X = statsDF.columns[['prevY' in x for x in statsDF.columns]]
 #for yeari in ['prevY']:
@@ -201,7 +201,7 @@ for coli in nonStatsColumns:
     if ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
         #statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
         #statsDF[coli] = statsDF[coli].astype(str)
-        statsDF[coli].fillna(statsDF[coli].mode()[0], inplace=True)
+        statsDF[coli].fillna(statsDF[coli].mean(), inplace=True)
 
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
@@ -211,8 +211,8 @@ useful_features.extend([x for x in statsDF.columns if 'recFIP' in x])
 useful_features.extend([x for x in statsDF.columns if 'WinPct_Diff' in x])
 useful_features.extend(['BattingOrder','HomeOrAway'])
 useful_features.extend(['Park_RunsFactor','Park_HRFactor','Park_HFactor','Park_2BFactor','Park_3BFactor','Park_BBFactor'])
-useful_features.extend(['temperature','windSpeedAndDir','precipitation'])
-useful_features.extend(['AwayOdds','HomeOdds','OverUnder'])
+useful_features.extend(['temperature'])
+useful_features.extend(['HomeOdds','OverUnder'])
 #useful_features.extend([x for x in statsDF.columns if ('WinPct_Diff' in x)])
 #useful_features.extend([x for x in statsDF.columns if ('recwOBA_' in x)])
 #useful_features.extend([x for x in statsDF.columns if ('recFIP' in x)])
@@ -265,7 +265,7 @@ predictions = rf.predict(test_features)
 resCor = np.corrcoef(predictions,test_labels)
 
 
-'''
+
 # Feature Importances
 importances = rf.feature_importances_
 std = np.std([tree.feature_importances_ for tree in rf.estimators_],
@@ -278,7 +278,7 @@ print("Feature ranking:")
 for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
-'''
+
     
 
 

@@ -124,3 +124,21 @@ def random_forest_reg(
 
     regr.fit(X_train, y_train)
     return regr
+
+def battingOrderVars(df):
+    oneBefore = {1:9,2:1,3:2,4:3,5:4,6:5,7:6,8:7,9:8}
+    df['Batter-1'] = df.apply(lambda x: x[x['HomeOrAway'][0] + '_' + str(int(oneBefore[x['BattingOrder']]))],axis=1)
+    oneAfter = {1:2,2:3,3:4,4:5,5:6,6:7,7:8,8:9,9:1}
+    df['Batter+1'] = df.apply(lambda x: x[x['HomeOrAway'][0] + '_' + str(int(oneAfter[x['BattingOrder']]))],axis=1)
+    
+    
+    return df
+    
+    
+    
+    
+
+
+
+
+
