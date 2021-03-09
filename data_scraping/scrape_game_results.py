@@ -21,12 +21,15 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'winpct' #lineups, recwOBA, winpct, weather, recFIP
+section = 'recwOBA' #lineups, recwOBA, winpct, weather, recFIP
 
-year = '2011'
+year = '2017'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
+             'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
+             'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
+homeTeams = ['ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
 if year == '2020': weatherTable = "div_3390179539"
@@ -48,9 +51,9 @@ elif section == 'winpct':
     outputHeaders.extend(['A_SeaWinPct','A_last3WinPct','A_last5WinPct','A_last10WinPct','H_SeaWinPct','H_last3WinPct','H_last5WinPct','H_last10WinPct',])
 elif section == 'weather':
     outputHeaders.extend(['temperature','windSpeed','windDirection','precipitation'])
-with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '.csv', 'w', newline='') as csvfile:
-    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    statswriter.writerow(outputHeaders)
+#with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '.csv', 'w', newline='') as csvfile:
+#    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+#    statswriter.writerow(outputHeaders)
 
 for hometeami in homeTeams:
     print(hometeami)

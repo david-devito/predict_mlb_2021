@@ -12,7 +12,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 # sklearn functions
 from sklearn.preprocessing import MinMaxScaler, KBinsDiscretizer
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression, Ridge
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 from imblearn.over_sampling import SMOTE,SMOTENC
@@ -27,7 +27,7 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2019,2021):
+for yeari in range(2018,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
@@ -55,9 +55,9 @@ statsDF = assorted_funcs.getrecwOBA(statsDF)
 #print('Loading Batting Stats...')
 batting = dict()
 batStatsCols = [5]
-batStatsCols.extend([53,62,66])
+batStatsCols.extend([52])#,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105])
 #batStatsCols.extend(list(range(290,312)))
-for yeari in range(2018,2020):
+for yeari in range(2017,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 '''
 
@@ -79,11 +79,12 @@ battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].c
 #relevantBatStats = relevant_statLists.batterStatList()
 # Loop through each year, batter and statistic
 for yeari in ['prevY']:
-    for bati in ['Batter','Batter-1','Batter+1']:
+    #for bati in ['Batter','Batter-1','Batter+1']:
+    for bati in ['Batter']:
         print(bati)
         for stati in battingStatsColumns:
             #if stati + '_' + bati + '_' + yeari in relevantBatStats:
-            #print(stati)
+            print(stati)
             # Create a column that contains the statistical value associated with each corresponding hitter
             statsDF[stati + '_' + bati + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(batting, x, bati, stati, yeari),axis=1)
             # Replace any outliers with the mode from that column
@@ -100,6 +101,12 @@ for yeari in ['prevY']:
             # Save Low and High Outlier Values for Future Testing
             #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
             #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
+
+for curCol in [x for x in statsDF.columns if 'Batter_prevY' in x]:
+    curCorr = round(np.corrcoef(statsDF[curCol],statsDF['DKPts'])[0][1],2)
+    print(curCol + ' - ' + str(curCorr))
+
+#sys.exit()
 
 # Combine stats across hitters
 #X = statsDF.columns[['prevY' in x for x in statsDF.columns]]
@@ -244,7 +251,7 @@ pd.set_option('display.max_columns', 500)
 '''
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
-train_features, test_features, train_labels, test_labels = train_test_split(np.array(featuresDF), labels, test_size = 0.10)
+train_features, test_features, train_labels, test_labels = train_test_split(np.array(featuresDF), labels, test_size = 0.1)
 
 # Scale Training Features
 scaler = MinMaxScaler()
@@ -256,6 +263,7 @@ test_features = scaler.transform(test_features)
 # Train on all data
 rf = assorted_funcs.random_forest_reg(train_features, train_labels)
 #rf = LinearRegression().fit(train_features, train_labels)
+#rf = Ridge(alpha=0.5).fit(train_features, train_labels)
 
 # Make predictions
 predictions = rf.predict(test_features)
@@ -265,7 +273,7 @@ predictions = rf.predict(test_features)
 resCor = np.corrcoef(predictions,test_labels)
 
 
-
+'''
 # Feature Importances
 importances = rf.feature_importances_
 std = np.std([tree.feature_importances_ for tree in rf.estimators_],
@@ -278,7 +286,7 @@ print("Feature ranking:")
 for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
-
+'''
     
 
 

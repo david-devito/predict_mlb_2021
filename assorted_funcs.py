@@ -3,7 +3,7 @@
 
 import numpy as np
 from scipy.stats import ks_2samp
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, RandomForestRegressor
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, RandomForestRegressor, GradientBoostingRegressor
 
 # Function to check if player name is part of dataframe index
 def isPlayerInDF(df, player):
@@ -18,7 +18,7 @@ def isPlayerInDF(df, player):
 def populatePlayerStats(df, gamei, position, stat, year):
     if year == 'prevY':
         statYear = gamei['year'] - 1
-    else:
+    elif year == 'twoPrevY':
         statYear = gamei['year'] - 2
     
     try:
@@ -105,11 +105,11 @@ def gbtclassifier(
 def random_forest_reg(
     X_train, 
     y_train,
-    n_estimators=750,
-    min_samples_split=2, 
+    n_estimators=100,
+    min_samples_split=6, 
     max_leaf_nodes=None, 
     max_features='auto', 
-    max_depth=8, 
+    max_depth=20, 
     bootstrap=True
     ):
     # making the RandomForestRegressor paramteres changable for hyperparameter optimization
@@ -124,6 +124,30 @@ def random_forest_reg(
 
     regr.fit(X_train, y_train)
     return regr
+
+def gbtregressor(
+    X_train, 
+    y_train,
+    n_estimators=100,
+    min_samples_split=2, 
+    max_leaf_nodes=None, 
+    max_features='auto', 
+    max_depth=4
+    ):
+    # making the RandomForestRegressor paramteres changable for hyperparameter optimization
+    regr = GradientBoostingRegressor(
+        n_estimators = n_estimators, 
+        min_samples_split=min_samples_split, 
+        max_leaf_nodes=max_leaf_nodes,
+        max_features=max_features,
+        max_depth=max_depth
+        )
+
+    regr.fit(X_train, y_train)
+    return regr
+
+
+
 
 def battingOrderVars(df):
     oneBefore = {1:9,2:1,3:2,4:3,5:4,6:5,7:6,8:7,9:8}
