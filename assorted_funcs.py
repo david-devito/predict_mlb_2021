@@ -106,10 +106,10 @@ def random_forest_reg(
     X_train, 
     y_train,
     n_estimators=100,
-    min_samples_split=6, 
+    min_samples_split=8, 
     max_leaf_nodes=None, 
     max_features='auto', 
-    max_depth=20, 
+    max_depth=14, 
     bootstrap=True
     ):
     # making the RandomForestRegressor paramteres changable for hyperparameter optimization
@@ -128,11 +128,11 @@ def random_forest_reg(
 def gbtregressor(
     X_train, 
     y_train,
-    n_estimators=100,
-    min_samples_split=2, 
+    n_estimators=500,
+    min_samples_split=6, 
     max_leaf_nodes=None, 
     max_features='auto', 
-    max_depth=4
+    max_depth=14
     ):
     # making the RandomForestRegressor paramteres changable for hyperparameter optimization
     regr = GradientBoostingRegressor(

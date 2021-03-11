@@ -23,14 +23,13 @@ spcharReplace = {'í':'i',
 
 section = 'recwOBA' #lineups, recwOBA, winpct, weather, recFIP
 
-year = '2017'
+year = '2015'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
-homeTeams = ['ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
-             'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
+homeTeams = ['OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
 if year == '2020': weatherTable = "div_3390179539"
 else: weatherTable = "div_2016723098"

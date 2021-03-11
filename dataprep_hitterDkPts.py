@@ -27,7 +27,7 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2018,2021):
+for yeari in range(2017,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
@@ -57,7 +57,7 @@ batting = dict()
 batStatsCols = [5]
 batStatsCols.extend([52])#,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105])
 #batStatsCols.extend(list(range(290,312)))
-for yeari in range(2017,2020):
+for yeari in range(2016,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
 '''
 
@@ -261,7 +261,8 @@ test_features = scaler.transform(test_features)
 
 # Fit the model
 # Train on all data
-rf = assorted_funcs.random_forest_reg(train_features, train_labels)
+#rf = assorted_funcs.random_forest_reg(train_features, train_labels)
+rf = assorted_funcs.gbtregressor(train_features, train_labels)
 #rf = LinearRegression().fit(train_features, train_labels)
 #rf = Ridge(alpha=0.5).fit(train_features, train_labels)
 
@@ -295,3 +296,12 @@ plt.plot(test_labels, predictions, 'o')
 plt.plot(test_labels, m*test_labels + b)
 
 plt.show()
+
+
+# Plot average prediction by test_value
+pred_DF = pd.DataFrame()
+pred_DF['predictions'] = predictions
+pred_DF['test_labels'] = test_labels
+pred_DF.groupby('test_labels').mean().rolling(5).mean().plot.line()
+
+
