@@ -55,7 +55,7 @@ statsDF = assorted_funcs.getrecwOBA(statsDF)
 #print('Loading Batting Stats...')
 batting = dict()
 batStatsCols = [5]
-batStatsCols.extend([6,7,8,9,10,11,12,13,14,15,16,17,18,19,20])
+batStatsCols.extend([51,61,62])
 #batStatsCols.extend(list(range(290,312)))
 for yeari in range(2016,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
@@ -102,7 +102,7 @@ for yeari in ['prevY']:
             #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
             #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
 
-for curCol in [x for x in statsDF.columns if 'Batter_prevY' in x]:
+for curCol in [x for x in statsDF.columns if 'Batter-1_prevY' in x]:
     curCorr = round(np.corrcoef(statsDF[curCol],statsDF['DKPts'])[0][1],2)
     print(curCol + ' - ' + str(curCorr))
 pd.set_option('display.max_columns', 50)

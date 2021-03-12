@@ -21,25 +21,24 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'hitters' #lineups, recwOBA, winpct, weather, recFIP
+section = 'hitters_hand' #hitters, hitters_hand
 
-year = '2016'
+year = '2020'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
-             'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
-             'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
-homeTeams = ['CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam']
 if section == 'hitters':
     outputHeaders.extend(['Batter','DKPts','BattingOrder','HomeOrAway'])
+elif section == 'hitters_hand':
+    outputHeaders.extend(['Batter','BatterHand'])
 elif section == 'pitchers':pass
-#with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
-#    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-#    statswriter.writerow(outputHeaders)
+with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
+    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    statswriter.writerow(outputHeaders)
 
 for hometeami in homeTeams:
     print(hometeami)
@@ -68,7 +67,7 @@ for hometeami in homeTeams:
                 awayTeam, homeTeam = [teamNames[0], teamNames[1]]
                 
                 
-                if (section == 'hitters') | (section == 'pitchers'):
+                if (section == 'hitters') | (section == 'hitters_hand') | (section == 'pitchers'):
                     ## STARTING LINEUPS
                     def getStarters(num):
                         starters = soup.find(text=lambda n: isinstance(n, Comment) and 'id="' + num + '"' in n)
@@ -90,7 +89,7 @@ for hometeami in homeTeams:
                         awaySP = awaySP.replace(repi,spcharReplace[repi])
                         homeSP = homeSP.replace(repi,spcharReplace[repi])
                 
-                if section == 'hitters':
+                if (section == 'hitters') | (section == 'hitters_hand'):
                     ## GET STARTING PLAYER STATS FROM PREVIOUS N NUMBER OF GAMES
                     numGames = 3
                     awayStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_1"' in n),"lxml").select('#lineups_1')[0].select('a')
@@ -98,26 +97,38 @@ for hometeami in homeTeams:
                     homeStarterLinks = BeautifulSoup(soup.find(text=lambda n: isinstance(n, Comment) and 'id="lineups_2"' in n),"lxml").select('#lineups_2')[0].select('a')
                     homeStarterLinks = ['.'.join(x['href'].split('/')[-1].split('.')[:-1]) for x in homeStarterLinks]
                     
-                    hitter_dkpts = []
-                    for curPlayer in awayStarterLinks[0:9] + homeStarterLinks[0:9]:
-                        url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=b&year=" + year
-                        r = requests.get(url, headers=BSheaders)
-                        soup = BeautifulSoup(r.content, "lxml")
-                        dates = [x.text for x in soup.find_all("td", {"data-stat": "date_game"})]
-                        curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
-                        
-                        statDict = dict()
-                        def recentStat(statDict,curStat):
-                            X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
-                            X = ['0' if x == '' else x for x in X]
-                            statDict[curStat] = float(X[dates.index(curDate)])
-                            return statDict
-                        
-                        for curStat in ['H','2B','3B','HR','RBI','R','IBB','BB','HBP','SB','AB']: 
-                            statDict = recentStat(statDict,curStat)
-                        statDict['1B'] = statDict['H'] - statDict['2B'] - statDict['3B'] - statDict['HR']
-                        hitter_dkpts.append((statDict['1B']*3) + (statDict['2B']*5) + (statDict['3B']*8) + (statDict['HR']*10) + (statDict['RBI']*2) + (statDict['R']*2) + (statDict['IBB']*2) + (statDict['BB']*2) + (statDict['HBP']*2) + (statDict['SB']*5))
-                
+                    if section == 'hitters':
+                        hitter_dkpts = []
+                        for curPlayer in awayStarterLinks[0:9] + homeStarterLinks[0:9]:
+                            url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=b&year=" + year
+                            r = requests.get(url, headers=BSheaders)
+                            soup = BeautifulSoup(r.content, "lxml")
+                            dates = [x.text for x in soup.find_all("td", {"data-stat": "date_game"})]
+                            curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
+                            
+                            statDict = dict()
+                            def recentStat(statDict,curStat):
+                                X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
+                                X = ['0' if x == '' else x for x in X]
+                                statDict[curStat] = float(X[dates.index(curDate)])
+                                return statDict
+                            
+                            for curStat in ['H','2B','3B','HR','RBI','R','IBB','BB','HBP','SB','AB']: 
+                                statDict = recentStat(statDict,curStat)
+                            statDict['1B'] = statDict['H'] - statDict['2B'] - statDict['3B'] - statDict['HR']
+                            hitter_dkpts.append((statDict['1B']*3) + (statDict['2B']*5) + (statDict['3B']*8) + (statDict['HR']*10) + (statDict['RBI']*2) + (statDict['R']*2) + (statDict['IBB']*2) + (statDict['BB']*2) + (statDict['HBP']*2) + (statDict['SB']*5))
+                    elif section == 'hitters_hand':
+                        hitter_hand = []
+                        for curPlayer in awayStarterLinks[0:9] + homeStarterLinks[0:9]:
+                            try:
+                                url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=b&year=" + year
+                                r = requests.get(url, headers=BSheaders)
+                                soup = BeautifulSoup(r.content, "lxml")
+                                curHitterHand = soup.find_all("div", {"itemtype": "https://schema.org/Person"})[0].find_all("p")[1].text.split(':')[1][1]
+                            except:
+                                curHitterHand = np.nan
+                            hitter_hand.append(curHitterHand)
+                            
                 if section == 'recFIP':
                     ## GET STARTING PITCHER STATS FROM PREVIOUS N NUMBER OF GAMES
                     numGames = 3
@@ -156,9 +167,12 @@ for hometeami in homeTeams:
                 ## WRITE TO CSV
                 homeOrAway = ['Away']*9 + ['Home']*9
                 battingOrder = list(range(1,10))*2
-                if section == 'hitters':
+                if (section == 'hitters') | (section == 'hitters_hand'):
                     for ix, curPlayer in enumerate(awayStarters[0:9] + homeStarters[0:9]):
-                        dataToWrite = [date,awayTeam,homeTeam,curPlayer,hitter_dkpts[ix],battingOrder[ix],homeOrAway[ix]]
+                        if section == 'hitters':
+                            dataToWrite = [date,awayTeam,homeTeam,curPlayer,hitter_dkpts[ix],battingOrder[ix],homeOrAway[ix]]
+                        elif section == 'hitters_hand':
+                            dataToWrite = [date,awayTeam,homeTeam,curPlayer,hitter_hand[ix]]
                         
                         with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'a', newline='') as csvfile:
                             statswriter = csv.writer(csvfile, delimiter=',',
