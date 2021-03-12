@@ -55,7 +55,7 @@ statsDF = assorted_funcs.getrecwOBA(statsDF)
 #print('Loading Batting Stats...')
 batting = dict()
 batStatsCols = [5]
-batStatsCols.extend([52])#,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105])
+batStatsCols.extend([6,7,8,9,10,11,12,13,14,15,16,17,18,19,20])
 #batStatsCols.extend(list(range(290,312)))
 for yeari in range(2016,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
@@ -80,7 +80,7 @@ battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].c
 # Loop through each year, batter and statistic
 for yeari in ['prevY']:
     #for bati in ['Batter','Batter-1','Batter+1']:
-    for bati in ['Batter']:
+    for bati in ['Batter-1']:#,'Batter-1','Batter+1']:
         print(bati)
         for stati in battingStatsColumns:
             #if stati + '_' + bati + '_' + yeari in relevantBatStats:
@@ -105,8 +105,8 @@ for yeari in ['prevY']:
 for curCol in [x for x in statsDF.columns if 'Batter_prevY' in x]:
     curCorr = round(np.corrcoef(statsDF[curCol],statsDF['DKPts'])[0][1],2)
     print(curCol + ' - ' + str(curCorr))
-
-#sys.exit()
+pd.set_option('display.max_columns', 50)
+sys.exit()
 
 # Combine stats across hitters
 #X = statsDF.columns[['prevY' in x for x in statsDF.columns]]
@@ -302,6 +302,6 @@ plt.show()
 pred_DF = pd.DataFrame()
 pred_DF['predictions'] = predictions
 pred_DF['test_labels'] = test_labels
-pred_DF.groupby('test_labels').mean().rolling(5).mean().plot.line()
+pred_DF.groupby('test_labels').mean().rolling(5).median().plot.line()
 
 

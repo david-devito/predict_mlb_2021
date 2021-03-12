@@ -4,3 +4,11 @@ def batterStatList():
         ]
     
     return relevantBatStats
+
+
+def batterStatList_dkpts():
+    relevantBatStats = [
+        
+        ]
+    
+    return relevantBatStats
