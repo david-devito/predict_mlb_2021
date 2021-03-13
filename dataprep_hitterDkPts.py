@@ -27,10 +27,10 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2019,2021):
+for yeari in range(2018,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
-
+#sys.exit()
 # Remove lines in DF with NaN in Batter column - usually playoff games
 statsDF = statsDF[~statsDF['Batter'].isna()].copy()
 # Convert month variable to string because relationship between months and pts might not be linear
@@ -51,7 +51,7 @@ statsDF = assorted_funcs.battingOrderVars(statsDF)
 statsDF = assorted_funcs.getrecwOBA(statsDF)
 
 # Get Handedness Matchup between Hitter and Opposing Pitcher
-statsDF = assorted_funcs.handednessFeatures(statsDF)
+#statsDF = assorted_funcs.handednessFeatures(statsDF)
 
 ## LOAD STATISTICS
 # Load Batting Stats
@@ -221,12 +221,15 @@ useful_features = []
 useful_features = [x for x in statsDF.columns if 'prevY' in x]
 useful_features.extend([x for x in statsDF.columns if 'recFIP' in x])
 useful_features.extend([x for x in statsDF.columns if 'WinPct_Diff' in x])
-useful_features.extend(['BattingOrder','HomeOrAway'])
+useful_features.extend(['BattingOrder'])
 useful_features.extend(['Park_RunsFactor','Park_HRFactor','Park_HFactor','Park_2BFactor','Park_3BFactor','Park_BBFactor'])
 useful_features.extend(['temperature'])
+#useful_features.extend(['HomeOrAway'])
 useful_features.extend(['HomeOdds','OverUnder'])
 useful_features.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
-useful_features.extend(['BatterHand','HandMatchup'])
+#useful_features.extend(['BatterHand','HandMatchup'])
+useful_features.extend(['BABIP_zips','ISO_zips'])
+useful_features.extend(['OP_BABIP_zips','OP_ERA-_zips'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
 # Create Full Features DF
