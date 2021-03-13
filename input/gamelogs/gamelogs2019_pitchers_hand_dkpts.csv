@@ -1,0 +1,2401 @@
+Date,AwayTeam,HomeTeam,A_SP_Hand,H_SP_Hand
+04-04-2019,Texas Rangers,Los Angeles Angels,R,R
+05-04-2019,Texas Rangers,Los Angeles Angels,R,R
+06-04-2019,Texas Rangers,Los Angeles Angels,L,L
+07-04-2019,Texas Rangers,Los Angeles Angels,R,R
+08-04-2019,Milwaukee Brewers,Los Angeles Angels,R,R
+09-04-2019,Milwaukee Brewers,Los Angeles Angels,R,R
+10-04-2019,Milwaukee Brewers,Los Angeles Angels,R,R
+18-04-2019,Seattle Mariners,Los Angeles Angels,R,R
+19-04-2019,Seattle Mariners,Los Angeles Angels,L,R
+20-04-2019,Seattle Mariners,Los Angeles Angels,L,R
+21-04-2019,Seattle Mariners,Los Angeles Angels,R,R
+22-04-2019,New York Yankees,Los Angeles Angels,L,R
+23-04-2019,New York Yankees,Los Angeles Angels,R,R
+24-04-2019,New York Yankees,Los Angeles Angels,nan,R
+25-04-2019,New York Yankees,Los Angeles Angels,R,R
+30-04-2019,Toronto Blue Jays,Los Angeles Angels,R,R
+01-05-2019,Toronto Blue Jays,Los Angeles Angels,R,R
+02-05-2019,Toronto Blue Jays,Los Angeles Angels,R,L
+04-05-2019,Houston Astros,Los Angeles Angels,L,R
+05-05-2019,Houston Astros,Los Angeles Angels,R,R
+17-05-2019,Kansas City Royals,Los Angeles Angels,R,R
+18-05-2019,Kansas City Royals,Los Angeles Angels,R,R
+19-05-2019,Kansas City Royals,Los Angeles Angels,L,L
+20-05-2019,Minnesota Twins,Los Angeles Angels,R,R
+21-05-2019,Minnesota Twins,Los Angeles Angels,R,R
+23-05-2019,Minnesota Twins,Los Angeles Angels,L,R
+24-05-2019,Texas Rangers,Los Angeles Angels,L,R
+25-05-2019,Texas Rangers,Los Angeles Angels,L,L
+26-05-2019,Texas Rangers,Los Angeles Angels,R,L
+04-06-2019,Oakland Athletics,Los Angeles Angels,R,R
+05-06-2019,Oakland Athletics,Los Angeles Angels,R,R
+06-06-2019,Oakland Athletics,Los Angeles Angels,R,L
+07-06-2019,Seattle Mariners,Los Angeles Angels,L,L
+08-06-2019,Seattle Mariners,Los Angeles Angels,L,R
+09-06-2019,Seattle Mariners,Los Angeles Angels,R,L
+10-06-2019,Los Angeles Dodgers,Los Angeles Angels,L,R
+11-06-2019,Los Angeles Dodgers,Los Angeles Angels,R,R
+25-06-2019,Cincinnati Reds,Los Angeles Angels,R,L
+26-06-2019,Cincinnati Reds,Los Angeles Angels,R,R
+27-06-2019,Oakland Athletics,Los Angeles Angels,R,R
+28-06-2019,Oakland Athletics,Los Angeles Angels,R,R
+29-06-2019,Oakland Athletics,Los Angeles Angels,L,L
+30-06-2019,Oakland Athletics,Los Angeles Angels,R,L
+12-07-2019,Seattle Mariners,Los Angeles Angels,R,R
+13-07-2019,Seattle Mariners,Los Angeles Angels,L,R
+14-07-2019,Seattle Mariners,Los Angeles Angels,L,L
+15-07-2019,Houston Astros,Los Angeles Angels,R,R
+16-07-2019,Houston Astros,Los Angeles Angels,R,L
+17-07-2019,Houston Astros,Los Angeles Angels,R,R
+18-07-2019,Houston Astros,Los Angeles Angels,L,R
+25-07-2019,Baltimore Orioles,Los Angeles Angels,R,L
+26-07-2019,Baltimore Orioles,Los Angeles Angels,R,R
+27-07-2019,Baltimore Orioles,Los Angeles Angels,R,L
+28-07-2019,Baltimore Orioles,Los Angeles Angels,R,R
+29-07-2019,Detroit Tigers,Los Angeles Angels,R,R
+30-07-2019,Detroit Tigers,Los Angeles Angels,R,R
+31-07-2019,Detroit Tigers,Los Angeles Angels,L,L
+12-08-2019,Pittsburgh Pirates,Los Angeles Angels,R,L
+13-08-2019,Pittsburgh Pirates,Los Angeles Angels,R,R
+14-08-2019,Pittsburgh Pirates,Los Angeles Angels,R,L
+15-08-2019,Chicago White Sox,Los Angeles Angels,R,L
+16-08-2019,Chicago White Sox,Los Angeles Angels,R,L
+17-08-2019,Chicago White Sox,Los Angeles Angels,L,R
+18-08-2019,Chicago White Sox,Los Angeles Angels,R,R
+27-08-2019,Texas Rangers,Los Angeles Angels,L,L
+28-08-2019,Texas Rangers,Los Angeles Angels,R,L
+30-08-2019,Boston Red Sox,Los Angeles Angels,R,L
+31-08-2019,Boston Red Sox,Los Angeles Angels,L,L
+01-09-2019,Boston Red Sox,Los Angeles Angels,L,L
+09-09-2019,Cleveland Indians,Los Angeles Angels,R,L
+10-09-2019,Cleveland Indians,Los Angeles Angels,R,L
+11-09-2019,Cleveland Indians,Los Angeles Angels,R,L
+13-09-2019,Tampa Bay Rays,Los Angeles Angels,R,L
+14-09-2019,Tampa Bay Rays,Los Angeles Angels,R,R
+15-09-2019,Tampa Bay Rays,Los Angeles Angels,L,L
+24-09-2019,Oakland Athletics,Los Angeles Angels,R,L
+25-09-2019,Oakland Athletics,Los Angeles Angels,R,L
+26-09-2019,Houston Astros,Los Angeles Angels,L,R
+27-09-2019,Houston Astros,Los Angeles Angels,R,L
+28-09-2019,Houston Astros,Los Angeles Angels,R,L
+29-09-2019,Houston Astros,Los Angeles Angels,R,L
+05-04-2019,Boston Red Sox,Arizona Diamondbacks,R,R
+06-04-2019,Boston Red Sox,Arizona Diamondbacks,L,R
+07-04-2019,Boston Red Sox,Arizona Diamondbacks,R,R
+09-04-2019,Texas Rangers,Arizona Diamondbacks,L,R
+10-04-2019,Texas Rangers,Arizona Diamondbacks,R,L
+11-04-2019,San Diego Padres,Arizona Diamondbacks,R,R
+12-04-2019,San Diego Padres,Arizona Diamondbacks,R,R
+13-04-2019,San Diego Padres,Arizona Diamondbacks,L,R
+14-04-2019,San Diego Padres,Arizona Diamondbacks,L,R
+26-04-2019,Chicago Cubs,Arizona Diamondbacks,R,L
+27-04-2019,Chicago Cubs,Arizona Diamondbacks,R,R
+28-04-2019,Chicago Cubs,Arizona Diamondbacks,L,R
+30-04-2019,New York Yankees,Arizona Diamondbacks,nan,R
+01-05-2019,New York Yankees,Arizona Diamondbacks,R,R
+09-05-2019,Atlanta Braves,Arizona Diamondbacks,R,R
+10-05-2019,Atlanta Braves,Arizona Diamondbacks,R,R
+11-05-2019,Atlanta Braves,Arizona Diamondbacks,R,R
+12-05-2019,Atlanta Braves,Arizona Diamondbacks,L,R
+13-05-2019,Pittsburgh Pirates,Arizona Diamondbacks,R,L
+14-05-2019,Pittsburgh Pirates,Arizona Diamondbacks,R,R
+15-05-2019,Pittsburgh Pirates,Arizona Diamondbacks,R,R
+17-05-2019,San Francisco Giants,Arizona Diamondbacks,R,R
+18-05-2019,San Francisco Giants,Arizona Diamondbacks,L,R
+19-05-2019,San Francisco Giants,Arizona Diamondbacks,L,L
+31-05-2019,New York Mets,Arizona Diamondbacks,R,R
+01-06-2019,New York Mets,Arizona Diamondbacks,R,R
+02-06-2019,New York Mets,Arizona Diamondbacks,L,R
+03-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,R,L
+04-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+05-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+18-06-2019,Colorado Rockies,Arizona Diamondbacks,R,R
+19-06-2019,Colorado Rockies,Arizona Diamondbacks,R,R
+20-06-2019,Colorado Rockies,Arizona Diamondbacks,R,L
+21-06-2019,San Francisco Giants,Arizona Diamondbacks,R,R
+22-06-2019,San Francisco Giants,Arizona Diamondbacks,R,R
+23-06-2019,San Francisco Giants,Arizona Diamondbacks,R,R
+24-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+25-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,R,L
+26-06-2019,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+05-07-2019,Colorado Rockies,Arizona Diamondbacks,R,R
+06-07-2019,Colorado Rockies,Arizona Diamondbacks,R,L
+07-07-2019,Colorado Rockies,Arizona Diamondbacks,R,L
+18-07-2019,Milwaukee Brewers,Arizona Diamondbacks,R,R
+19-07-2019,Milwaukee Brewers,Arizona Diamondbacks,R,R
+20-07-2019,Milwaukee Brewers,Arizona Diamondbacks,L,R
+21-07-2019,Milwaukee Brewers,Arizona Diamondbacks,R,L
+22-07-2019,Baltimore Orioles,Arizona Diamondbacks,R,L
+23-07-2019,Baltimore Orioles,Arizona Diamondbacks,R,R
+24-07-2019,Baltimore Orioles,Arizona Diamondbacks,L,R
+02-08-2019,Washington Nationals,Arizona Diamondbacks,R,L
+03-08-2019,Washington Nationals,Arizona Diamondbacks,R,L
+04-08-2019,Washington Nationals,Arizona Diamondbacks,L,R
+05-08-2019,Philadelphia Phillies,Arizona Diamondbacks,R,R
+06-08-2019,Philadelphia Phillies,Arizona Diamondbacks,R,R
+07-08-2019,Philadelphia Phillies,Arizona Diamondbacks,L,R
+15-08-2019,San Francisco Giants,Arizona Diamondbacks,R,L
+16-08-2019,San Francisco Giants,Arizona Diamondbacks,R,R
+17-08-2019,San Francisco Giants,Arizona Diamondbacks,R,R
+18-08-2019,San Francisco Giants,Arizona Diamondbacks,L,R
+19-08-2019,Colorado Rockies,Arizona Diamondbacks,R,R
+20-08-2019,Colorado Rockies,Arizona Diamondbacks,L,L
+21-08-2019,Colorado Rockies,Arizona Diamondbacks,R,R
+29-08-2019,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+30-08-2019,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+31-08-2019,Los Angeles Dodgers,Arizona Diamondbacks,L,L
+01-09-2019,Los Angeles Dodgers,Arizona Diamondbacks,R,L
+02-09-2019,San Diego Padres,Arizona Diamondbacks,R,R
+03-09-2019,San Diego Padres,Arizona Diamondbacks,R,R
+04-09-2019,San Diego Padres,Arizona Diamondbacks,R,R
+13-09-2019,Cincinnati Reds,Arizona Diamondbacks,R,R
+14-09-2019,Cincinnati Reds,Arizona Diamondbacks,R,R
+15-09-2019,Cincinnati Reds,Arizona Diamondbacks,R,R
+16-09-2019,Miami Marlins,Arizona Diamondbacks,R,L
+17-09-2019,Miami Marlins,Arizona Diamondbacks,L,L
+18-09-2019,Miami Marlins,Arizona Diamondbacks,R,R
+23-09-2019,St. Louis Cardinals,Arizona Diamondbacks,R,L
+24-09-2019,St. Louis Cardinals,Arizona Diamondbacks,R,R
+25-09-2019,St. Louis Cardinals,Arizona Diamondbacks,R,R
+27-09-2019,San Diego Padres,Arizona Diamondbacks,L,R
+28-09-2019,San Diego Padres,Arizona Diamondbacks,R,L
+29-09-2019,San Diego Padres,Arizona Diamondbacks,R,R
+01-04-2019,Chicago Cubs,Atlanta Braves,R,L
+03-04-2019,Chicago Cubs,Atlanta Braves,L,R
+04-04-2019,Chicago Cubs,Atlanta Braves,R,L
+05-04-2019,Miami Marlins,Atlanta Braves,R,R
+06-04-2019,Miami Marlins,Atlanta Braves,R,R
+07-04-2019,Miami Marlins,Atlanta Braves,L,L
+11-04-2019,New York Mets,Atlanta Braves,L,R
+12-04-2019,New York Mets,Atlanta Braves,R,R
+13-04-2019,New York Mets,Atlanta Braves,L,L
+14-04-2019,New York Mets,Atlanta Braves,R,R
+16-04-2019,Arizona Diamondbacks,Atlanta Braves,L,L
+17-04-2019,Arizona Diamondbacks,Atlanta Braves,R,R
+18-04-2019,Arizona Diamondbacks,Atlanta Braves,R,R
+26-04-2019,Colorado Rockies,Atlanta Braves,R,L
+27-04-2019,Colorado Rockies,Atlanta Braves,R,R
+28-04-2019,Colorado Rockies,Atlanta Braves,L,R
+29-04-2019,San Diego Padres,Atlanta Braves,L,R
+30-04-2019,San Diego Padres,Atlanta Braves,R,R
+01-05-2019,San Diego Padres,Atlanta Braves,R,L
+02-05-2019,San Diego Padres,Atlanta Braves,L,R
+14-05-2019,St. Louis Cardinals,Atlanta Braves,R,R
+15-05-2019,St. Louis Cardinals,Atlanta Braves,R,R
+16-05-2019,St. Louis Cardinals,Atlanta Braves,R,R
+17-05-2019,Milwaukee Brewers,Atlanta Braves,R,L
+18-05-2019,Milwaukee Brewers,Atlanta Braves,R,R
+19-05-2019,Milwaukee Brewers,Atlanta Braves,R,R
+28-05-2019,Washington Nationals,Atlanta Braves,R,L
+29-05-2019,Washington Nationals,Atlanta Braves,R,R
+31-05-2019,Detroit Tigers,Atlanta Braves,R,R
+01-06-2019,Detroit Tigers,Atlanta Braves,L,R
+02-06-2019,Detroit Tigers,Atlanta Braves,L,R
+10-06-2019,Pittsburgh Pirates,Atlanta Braves,R,R
+11-06-2019,Pittsburgh Pirates,Atlanta Braves,R,R
+12-06-2019,Pittsburgh Pirates,Atlanta Braves,R,R
+13-06-2019,Pittsburgh Pirates,Atlanta Braves,R,R
+14-06-2019,Philadelphia Phillies,Atlanta Braves,R,L
+15-06-2019,Philadelphia Phillies,Atlanta Braves,R,L
+16-06-2019,Philadelphia Phillies,Atlanta Braves,R,R
+17-06-2019,New York Mets,Atlanta Braves,R,R
+18-06-2019,New York Mets,Atlanta Braves,R,R
+19-06-2019,New York Mets,Atlanta Braves,L,L
+02-07-2019,Philadelphia Phillies,Atlanta Braves,R,L
+03-07-2019,Philadelphia Phillies,Atlanta Braves,R,R
+04-07-2019,Philadelphia Phillies,Atlanta Braves,R,R
+05-07-2019,Miami Marlins,Atlanta Braves,R,R
+06-07-2019,Miami Marlins,Atlanta Braves,L,L
+07-07-2019,Miami Marlins,Atlanta Braves,R,L
+18-07-2019,Washington Nationals,Atlanta Braves,R,R
+19-07-2019,Washington Nationals,Atlanta Braves,L,R
+20-07-2019,Washington Nationals,Atlanta Braves,R,R
+21-07-2019,Washington Nationals,Atlanta Braves,R,R
+23-07-2019,Kansas City Royals,Atlanta Braves,L,L
+24-07-2019,Kansas City Royals,Atlanta Braves,R,R
+01-08-2019,Cincinnati Reds,Atlanta Braves,R,L
+02-08-2019,Cincinnati Reds,Atlanta Braves,L,R
+03-08-2019,Cincinnati Reds,Atlanta Braves,R,L
+04-08-2019,Cincinnati Reds,Atlanta Braves,R,R
+13-08-2019,New York Mets,Atlanta Braves,R,L
+14-08-2019,New York Mets,Atlanta Braves,L,L
+15-08-2019,New York Mets,Atlanta Braves,R,R
+16-08-2019,Los Angeles Dodgers,Atlanta Braves,R,R
+17-08-2019,Los Angeles Dodgers,Atlanta Braves,L,R
+18-08-2019,Los Angeles Dodgers,Atlanta Braves,R,L
+20-08-2019,Miami Marlins,Atlanta Braves,R,L
+21-08-2019,Miami Marlins,Atlanta Braves,L,R
+22-08-2019,Miami Marlins,Atlanta Braves,R,R
+30-08-2019,Chicago White Sox,Atlanta Braves,R,L
+31-08-2019,Chicago White Sox,Atlanta Braves,R,L
+01-09-2019,Chicago White Sox,Atlanta Braves,R,R
+02-09-2019,Toronto Blue Jays,Atlanta Braves,R,R
+03-09-2019,Toronto Blue Jays,Atlanta Braves,R,R
+05-09-2019,Washington Nationals,Atlanta Braves,R,L
+06-09-2019,Washington Nationals,Atlanta Braves,L,L
+07-09-2019,Washington Nationals,Atlanta Braves,R,R
+08-09-2019,Washington Nationals,Atlanta Braves,R,R
+17-09-2019,Philadelphia Phillies,Atlanta Braves,R,L
+18-09-2019,Philadelphia Phillies,Atlanta Braves,R,R
+19-09-2019,Philadelphia Phillies,Atlanta Braves,R,R
+20-09-2019,San Francisco Giants,Atlanta Braves,R,R
+21-09-2019,San Francisco Giants,Atlanta Braves,R,L
+22-09-2019,San Francisco Giants,Atlanta Braves,R,L
+03-10-2019,St. Louis Cardinals,Atlanta Braves,R,L
+04-10-2019,St. Louis Cardinals,Atlanta Braves,R,R
+09-10-2019,St. Louis Cardinals,Atlanta Braves,R,R
+04-04-2019,New York Yankees,Baltimore Orioles,L,R
+06-04-2019,New York Yankees,Baltimore Orioles,L,R
+07-04-2019,New York Yankees,Baltimore Orioles,R,R
+08-04-2019,Oakland Athletics,Baltimore Orioles,R,R
+09-04-2019,Oakland Athletics,Baltimore Orioles,L,L
+10-04-2019,Oakland Athletics,Baltimore Orioles,R,R
+11-04-2019,Oakland Athletics,Baltimore Orioles,R,R
+21-04-2019,Minnesota Twins,Baltimore Orioles,R,R
+22-04-2019,Chicago White Sox,Baltimore Orioles,L,R
+23-04-2019,Chicago White Sox,Baltimore Orioles,R,R
+24-04-2019,Chicago White Sox,Baltimore Orioles,R,L
+03-05-2019,Tampa Bay Rays,Baltimore Orioles,R,R
+04-05-2019,Tampa Bay Rays,Baltimore Orioles,R,R
+06-05-2019,Boston Red Sox,Baltimore Orioles,R,L
+07-05-2019,Boston Red Sox,Baltimore Orioles,R,R
+08-05-2019,Boston Red Sox,Baltimore Orioles,L,R
+10-05-2019,Los Angeles Angels,Baltimore Orioles,R,R
+11-05-2019,Los Angeles Angels,Baltimore Orioles,R,R
+12-05-2019,Los Angeles Angels,Baltimore Orioles,R,L
+20-05-2019,New York Yankees,Baltimore Orioles,L,R
+21-05-2019,New York Yankees,Baltimore Orioles,R,R
+22-05-2019,New York Yankees,Baltimore Orioles,nan,R
+23-05-2019,New York Yankees,Baltimore Orioles,R,R
+27-05-2019,Detroit Tigers,Baltimore Orioles,L,R
+28-05-2019,Detroit Tigers,Baltimore Orioles,L,R
+29-05-2019,Detroit Tigers,Baltimore Orioles,L,L
+31-05-2019,San Francisco Giants,Baltimore Orioles,L,R
+01-06-2019,San Francisco Giants,Baltimore Orioles,R,R
+02-06-2019,San Francisco Giants,Baltimore Orioles,R,R
+11-06-2019,Toronto Blue Jays,Baltimore Orioles,R,L
+12-06-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+13-06-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+14-06-2019,Boston Red Sox,Baltimore Orioles,L,R
+15-06-2019,Boston Red Sox,Baltimore Orioles,L,R
+16-06-2019,Boston Red Sox,Baltimore Orioles,L,L
+25-06-2019,San Diego Padres,Baltimore Orioles,L,R
+26-06-2019,San Diego Padres,Baltimore Orioles,L,R
+28-06-2019,Cleveland Indians,Baltimore Orioles,R,L
+29-06-2019,Cleveland Indians,Baltimore Orioles,R,R
+30-06-2019,Cleveland Indians,Baltimore Orioles,R,R
+12-07-2019,Tampa Bay Rays,Baltimore Orioles,R,R
+14-07-2019,Tampa Bay Rays,Baltimore Orioles,R,R
+16-07-2019,Washington Nationals,Baltimore Orioles,R,R
+17-07-2019,Washington Nationals,Baltimore Orioles,R,R
+19-07-2019,Boston Red Sox,Baltimore Orioles,L,L
+20-07-2019,Boston Red Sox,Baltimore Orioles,R,R
+21-07-2019,Boston Red Sox,Baltimore Orioles,R,R
+01-08-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+02-08-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+03-08-2019,Toronto Blue Jays,Baltimore Orioles,L,R
+04-08-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+05-08-2019,New York Yankees,Baltimore Orioles,R,R
+06-08-2019,New York Yankees,Baltimore Orioles,R,R
+07-08-2019,New York Yankees,Baltimore Orioles,L,L
+09-08-2019,Houston Astros,Baltimore Orioles,L,R
+10-08-2019,Houston Astros,Baltimore Orioles,R,R
+11-08-2019,Houston Astros,Baltimore Orioles,R,R
+19-08-2019,Kansas City Royals,Baltimore Orioles,R,L
+20-08-2019,Kansas City Royals,Baltimore Orioles,R,R
+21-08-2019,Kansas City Royals,Baltimore Orioles,L,R
+22-08-2019,Tampa Bay Rays,Baltimore Orioles,L,R
+23-08-2019,Tampa Bay Rays,Baltimore Orioles,R,L
+24-08-2019,Tampa Bay Rays,Baltimore Orioles,L,L
+25-08-2019,Tampa Bay Rays,Baltimore Orioles,R,R
+05-09-2019,Texas Rangers,Baltimore Orioles,L,L
+06-09-2019,Texas Rangers,Baltimore Orioles,L,R
+07-09-2019,Texas Rangers,Baltimore Orioles,R,R
+08-09-2019,Texas Rangers,Baltimore Orioles,L,R
+10-09-2019,Los Angeles Dodgers,Baltimore Orioles,R,L
+11-09-2019,Los Angeles Dodgers,Baltimore Orioles,R,L
+12-09-2019,Los Angeles Dodgers,Baltimore Orioles,L,R
+17-09-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+18-09-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+19-09-2019,Toronto Blue Jays,Baltimore Orioles,R,R
+20-09-2019,Seattle Mariners,Baltimore Orioles,R,L
+21-09-2019,Seattle Mariners,Baltimore Orioles,L,R
+22-09-2019,Seattle Mariners,Baltimore Orioles,L,L
+09-04-2019,Toronto Blue Jays,Boston Red Sox,R,L
+11-04-2019,Toronto Blue Jays,Boston Red Sox,R,R
+12-04-2019,Baltimore Orioles,Boston Red Sox,R,L
+13-04-2019,Baltimore Orioles,Boston Red Sox,R,R
+14-04-2019,Baltimore Orioles,Boston Red Sox,L,L
+15-04-2019,Baltimore Orioles,Boston Red Sox,R,R
+24-04-2019,Detroit Tigers,Boston Red Sox,R,L
+25-04-2019,Detroit Tigers,Boston Red Sox,R,R
+27-04-2019,Tampa Bay Rays,Boston Red Sox,R,L
+28-04-2019,Tampa Bay Rays,Boston Red Sox,R,L
+29-04-2019,Oakland Athletics,Boston Red Sox,R,L
+30-04-2019,Oakland Athletics,Boston Red Sox,R,R
+01-05-2019,Oakland Athletics,Boston Red Sox,R,R
+10-05-2019,Seattle Mariners,Boston Red Sox,R,L
+11-05-2019,Seattle Mariners,Boston Red Sox,R,R
+12-05-2019,Seattle Mariners,Boston Red Sox,L,R
+14-05-2019,Colorado Rockies,Boston Red Sox,L,L
+15-05-2019,Colorado Rockies,Boston Red Sox,R,L
+17-05-2019,Houston Astros,Boston Red Sox,R,R
+18-05-2019,Houston Astros,Boston Red Sox,R,R
+19-05-2019,Houston Astros,Boston Red Sox,L,L
+27-05-2019,Cleveland Indians,Boston Red Sox,R,R
+28-05-2019,Cleveland Indians,Boston Red Sox,R,L
+29-05-2019,Cleveland Indians,Boston Red Sox,R,R
+07-06-2019,Tampa Bay Rays,Boston Red Sox,R,R
+09-06-2019,Tampa Bay Rays,Boston Red Sox,L,L
+10-06-2019,Texas Rangers,Boston Red Sox,L,L
+11-06-2019,Texas Rangers,Boston Red Sox,R,L
+12-06-2019,Texas Rangers,Boston Red Sox,R,R
+13-06-2019,Texas Rangers,Boston Red Sox,R,L
+21-06-2019,Toronto Blue Jays,Boston Red Sox,R,L
+22-06-2019,Toronto Blue Jays,Boston Red Sox,R,L
+23-06-2019,Toronto Blue Jays,Boston Red Sox,R,R
+24-06-2019,Chicago White Sox,Boston Red Sox,R,L
+25-06-2019,Chicago White Sox,Boston Red Sox,R,L
+26-06-2019,Chicago White Sox,Boston Red Sox,R,L
+29-06-2019,New York Yankees,Boston Red Sox,R,R
+30-06-2019,New York Yankees,Boston Red Sox,L,L
+12-07-2019,Los Angeles Dodgers,Boston Red Sox,R,L
+13-07-2019,Los Angeles Dodgers,Boston Red Sox,R,L
+14-07-2019,Los Angeles Dodgers,Boston Red Sox,L,L
+15-07-2019,Toronto Blue Jays,Boston Red Sox,R,R
+16-07-2019,Toronto Blue Jays,Boston Red Sox,R,R
+17-07-2019,Toronto Blue Jays,Boston Red Sox,R,L
+18-07-2019,Toronto Blue Jays,Boston Red Sox,L,L
+25-07-2019,New York Yankees,Boston Red Sox,R,R
+26-07-2019,New York Yankees,Boston Red Sox,L,R
+27-07-2019,New York Yankees,Boston Red Sox,nan,L
+28-07-2019,New York Yankees,Boston Red Sox,R,L
+30-07-2019,Tampa Bay Rays,Boston Red Sox,R,L
+31-07-2019,Tampa Bay Rays,Boston Red Sox,R,R
+01-08-2019,Tampa Bay Rays,Boston Red Sox,L,R
+05-08-2019,Kansas City Royals,Boston Red Sox,L,R
+06-08-2019,Kansas City Royals,Boston Red Sox,R,R
+07-08-2019,Kansas City Royals,Boston Red Sox,R,L
+08-08-2019,Los Angeles Angels,Boston Red Sox,L,L
+09-08-2019,Los Angeles Angels,Boston Red Sox,R,L
+10-08-2019,Los Angeles Angels,Boston Red Sox,L,R
+11-08-2019,Los Angeles Angels,Boston Red Sox,L,R
+16-08-2019,Baltimore Orioles,Boston Red Sox,R,R
+17-08-2019,Baltimore Orioles,Boston Red Sox,R,L
+18-08-2019,Baltimore Orioles,Boston Red Sox,L,R
+20-08-2019,Philadelphia Phillies,Boston Red Sox,R,L
+21-08-2019,Philadelphia Phillies,Boston Red Sox,L,R
+03-09-2019,Minnesota Twins,Boston Red Sox,R,R
+04-09-2019,Minnesota Twins,Boston Red Sox,R,L
+05-09-2019,Minnesota Twins,Boston Red Sox,L,R
+06-09-2019,New York Yankees,Boston Red Sox,R,R
+07-09-2019,New York Yankees,Boston Red Sox,L,R
+08-09-2019,New York Yankees,Boston Red Sox,R,R
+09-09-2019,New York Yankees,Boston Red Sox,L,L
+17-09-2019,San Francisco Giants,Boston Red Sox,R,R
+18-09-2019,San Francisco Giants,Boston Red Sox,R,R
+19-09-2019,San Francisco Giants,Boston Red Sox,L,L
+27-09-2019,Baltimore Orioles,Boston Red Sox,R,R
+28-09-2019,Baltimore Orioles,Boston Red Sox,L,R
+29-09-2019,Baltimore Orioles,Boston Red Sox,R,L
+05-04-2019,Seattle Mariners,Chicago White Sox,L,R
+06-04-2019,Seattle Mariners,Chicago White Sox,R,R
+07-04-2019,Seattle Mariners,Chicago White Sox,L,R
+08-04-2019,Tampa Bay Rays,Chicago White Sox,L,L
+09-04-2019,Tampa Bay Rays,Chicago White Sox,R,R
+10-04-2019,Tampa Bay Rays,Chicago White Sox,R,R
+15-04-2019,Kansas City Royals,Chicago White Sox,R,R
+16-04-2019,Kansas City Royals,Chicago White Sox,R,R
+17-04-2019,Kansas City Royals,Chicago White Sox,R,R
+26-04-2019,Detroit Tigers,Chicago White Sox,L,L
+28-04-2019,Detroit Tigers,Chicago White Sox,L,R
+29-04-2019,Baltimore Orioles,Chicago White Sox,L,L
+02-05-2019,Boston Red Sox,Chicago White Sox,L,R
+03-05-2019,Boston Red Sox,Chicago White Sox,L,R
+04-05-2019,Boston Red Sox,Chicago White Sox,L,L
+05-05-2019,Boston Red Sox,Chicago White Sox,R,R
+13-05-2019,Cleveland Indians,Chicago White Sox,R,R
+14-05-2019,Cleveland Indians,Chicago White Sox,R,L
+16-05-2019,Toronto Blue Jays,Chicago White Sox,R,R
+17-05-2019,Toronto Blue Jays,Chicago White Sox,R,R
+18-05-2019,Toronto Blue Jays,Chicago White Sox,L,R
+19-05-2019,Toronto Blue Jays,Chicago White Sox,R,R
+27-05-2019,Kansas City Royals,Chicago White Sox,R,R
+28-05-2019,Kansas City Royals,Chicago White Sox,R,R
+29-05-2019,Kansas City Royals,Chicago White Sox,R,R
+30-05-2019,Cleveland Indians,Chicago White Sox,R,L
+31-05-2019,Cleveland Indians,Chicago White Sox,R,R
+01-06-2019,Cleveland Indians,Chicago White Sox,R,R
+02-06-2019,Cleveland Indians,Chicago White Sox,R,R
+10-06-2019,Washington Nationals,Chicago White Sox,R,R
+11-06-2019,Washington Nationals,Chicago White Sox,L,L
+13-06-2019,New York Yankees,Chicago White Sox,L,R
+14-06-2019,New York Yankees,Chicago White Sox,nan,R
+15-06-2019,New York Yankees,Chicago White Sox,R,R
+16-06-2019,New York Yankees,Chicago White Sox,L,R
+28-06-2019,Minnesota Twins,Chicago White Sox,R,L
+29-06-2019,Minnesota Twins,Chicago White Sox,R,R
+30-06-2019,Minnesota Twins,Chicago White Sox,L,R
+04-07-2019,Detroit Tigers,Chicago White Sox,L,R
+06-07-2019,Chicago Cubs,Chicago White Sox,L,R
+07-07-2019,Chicago Cubs,Chicago White Sox,R,R
+22-07-2019,Miami Marlins,Chicago White Sox,R,R
+23-07-2019,Miami Marlins,Chicago White Sox,L,R
+24-07-2019,Miami Marlins,Chicago White Sox,R,R
+25-07-2019,Minnesota Twins,Chicago White Sox,R,R
+26-07-2019,Minnesota Twins,Chicago White Sox,R,R
+27-07-2019,Minnesota Twins,Chicago White Sox,L,R
+28-07-2019,Minnesota Twins,Chicago White Sox,R,R
+30-07-2019,New York Mets,Chicago White Sox,R,R
+31-07-2019,New York Mets,Chicago White Sox,R,R
+01-08-2019,New York Mets,Chicago White Sox,R,R
+09-08-2019,Oakland Athletics,Chicago White Sox,R,L
+10-08-2019,Oakland Athletics,Chicago White Sox,R,R
+11-08-2019,Oakland Athletics,Chicago White Sox,R,R
+14-08-2019,Houston Astros,Chicago White Sox,L,L
+22-08-2019,Texas Rangers,Chicago White Sox,R,L
+23-08-2019,Texas Rangers,Chicago White Sox,R,R
+24-08-2019,Texas Rangers,Chicago White Sox,L,R
+25-08-2019,Texas Rangers,Chicago White Sox,L,R
+27-08-2019,Minnesota Twins,Chicago White Sox,R,R
+28-08-2019,Minnesota Twins,Chicago White Sox,R,L
+29-08-2019,Minnesota Twins,Chicago White Sox,R,R
+06-09-2019,Los Angeles Angels,Chicago White Sox,L,R
+07-09-2019,Los Angeles Angels,Chicago White Sox,L,R
+08-09-2019,Los Angeles Angels,Chicago White Sox,R,R
+10-09-2019,Kansas City Royals,Chicago White Sox,R,R
+11-09-2019,Kansas City Royals,Chicago White Sox,R,R
+12-09-2019,Kansas City Royals,Chicago White Sox,R,R
+24-09-2019,Cleveland Indians,Chicago White Sox,R,R
+25-09-2019,Cleveland Indians,Chicago White Sox,R,L
+26-09-2019,Cleveland Indians,Chicago White Sox,R,R
+29-09-2019,Detroit Tigers,Chicago White Sox,R,L
+08-04-2019,Pittsburgh Pirates,Chicago Cubs,R,L
+10-04-2019,Pittsburgh Pirates,Chicago Cubs,R,R
+11-04-2019,Pittsburgh Pirates,Chicago Cubs,R,L
+12-04-2019,Los Angeles Angels,Chicago Cubs,L,L
+13-04-2019,Los Angeles Angels,Chicago Cubs,R,R
+19-04-2019,Arizona Diamondbacks,Chicago Cubs,R,R
+20-04-2019,Arizona Diamondbacks,Chicago Cubs,R,R
+21-04-2019,Arizona Diamondbacks,Chicago Cubs,L,R
+23-04-2019,Los Angeles Dodgers,Chicago Cubs,R,L
+24-04-2019,Los Angeles Dodgers,Chicago Cubs,R,L
+25-04-2019,Los Angeles Dodgers,Chicago Cubs,R,L
+03-05-2019,St. Louis Cardinals,Chicago Cubs,R,R
+04-05-2019,St. Louis Cardinals,Chicago Cubs,R,R
+05-05-2019,St. Louis Cardinals,Chicago Cubs,R,L
+06-05-2019,Miami Marlins,Chicago Cubs,R,L
+07-05-2019,Miami Marlins,Chicago Cubs,L,L
+08-05-2019,Miami Marlins,Chicago Cubs,R,R
+09-05-2019,Miami Marlins,Chicago Cubs,R,R
+10-05-2019,Milwaukee Brewers,Chicago Cubs,L,L
+11-05-2019,Milwaukee Brewers,Chicago Cubs,R,L
+12-05-2019,Milwaukee Brewers,Chicago Cubs,R,L
+20-05-2019,Philadelphia Phillies,Chicago Cubs,R,R
+21-05-2019,Philadelphia Phillies,Chicago Cubs,R,L
+22-05-2019,Philadelphia Phillies,Chicago Cubs,L,L
+23-05-2019,Philadelphia Phillies,Chicago Cubs,R,L
+24-05-2019,Cincinnati Reds,Chicago Cubs,R,R
+25-05-2019,Cincinnati Reds,Chicago Cubs,R,R
+26-05-2019,Cincinnati Reds,Chicago Cubs,R,L
+03-06-2019,Los Angeles Angels,Chicago Cubs,R,L
+04-06-2019,Colorado Rockies,Chicago Cubs,R,R
+05-06-2019,Colorado Rockies,Chicago Cubs,R,R
+06-06-2019,Colorado Rockies,Chicago Cubs,R,L
+07-06-2019,St. Louis Cardinals,Chicago Cubs,R,L
+08-06-2019,St. Louis Cardinals,Chicago Cubs,R,L
+09-06-2019,St. Louis Cardinals,Chicago Cubs,R,R
+18-06-2019,Chicago White Sox,Chicago Cubs,R,L
+19-06-2019,Chicago White Sox,Chicago Cubs,R,L
+20-06-2019,New York Mets,Chicago Cubs,R,R
+21-06-2019,New York Mets,Chicago Cubs,L,R
+22-06-2019,New York Mets,Chicago Cubs,R,L
+23-06-2019,New York Mets,Chicago Cubs,R,L
+24-06-2019,Atlanta Braves,Chicago Cubs,R,L
+25-06-2019,Atlanta Braves,Chicago Cubs,L,R
+26-06-2019,Atlanta Braves,Chicago Cubs,L,R
+27-06-2019,Atlanta Braves,Chicago Cubs,R,R
+12-07-2019,Pittsburgh Pirates,Chicago Cubs,R,R
+13-07-2019,Pittsburgh Pirates,Chicago Cubs,R,L
+14-07-2019,Pittsburgh Pirates,Chicago Cubs,R,L
+15-07-2019,Cincinnati Reds,Chicago Cubs,R,R
+16-07-2019,Cincinnati Reds,Chicago Cubs,R,R
+17-07-2019,Cincinnati Reds,Chicago Cubs,R,R
+19-07-2019,San Diego Padres,Chicago Cubs,L,L
+20-07-2019,San Diego Padres,Chicago Cubs,L,L
+21-07-2019,San Diego Padres,Chicago Cubs,L,R
+02-08-2019,Milwaukee Brewers,Chicago Cubs,R,L
+03-08-2019,Milwaukee Brewers,Chicago Cubs,L,L
+04-08-2019,Milwaukee Brewers,Chicago Cubs,R,R
+05-08-2019,Oakland Athletics,Chicago Cubs,R,R
+06-08-2019,Oakland Athletics,Chicago Cubs,L,L
+07-08-2019,Oakland Athletics,Chicago Cubs,R,L
+20-08-2019,San Francisco Giants,Chicago Cubs,R,L
+21-08-2019,San Francisco Giants,Chicago Cubs,R,R
+22-08-2019,San Francisco Giants,Chicago Cubs,R,R
+23-08-2019,Washington Nationals,Chicago Cubs,R,L
+24-08-2019,Washington Nationals,Chicago Cubs,R,L
+25-08-2019,Washington Nationals,Chicago Cubs,R,L
+30-08-2019,Milwaukee Brewers,Chicago Cubs,R,L
+31-08-2019,Milwaukee Brewers,Chicago Cubs,R,L
+01-09-2019,Milwaukee Brewers,Chicago Cubs,L,R
+02-09-2019,Seattle Mariners,Chicago Cubs,L,R
+03-09-2019,Seattle Mariners,Chicago Cubs,R,L
+13-09-2019,Pittsburgh Pirates,Chicago Cubs,L,L
+14-09-2019,Pittsburgh Pirates,Chicago Cubs,R,R
+15-09-2019,Pittsburgh Pirates,Chicago Cubs,R,L
+16-09-2019,Cincinnati Reds,Chicago Cubs,R,L
+17-09-2019,Cincinnati Reds,Chicago Cubs,R,R
+18-09-2019,Cincinnati Reds,Chicago Cubs,R,L
+19-09-2019,St. Louis Cardinals,Chicago Cubs,R,R
+20-09-2019,St. Louis Cardinals,Chicago Cubs,R,R
+21-09-2019,St. Louis Cardinals,Chicago Cubs,R,L
+22-09-2019,St. Louis Cardinals,Chicago Cubs,R,R
+28-03-2019,Pittsburgh Pirates,Cincinnati Reds,R,R
+31-03-2019,Pittsburgh Pirates,Cincinnati Reds,R,R
+01-04-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+02-04-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+03-04-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+09-04-2019,Miami Marlins,Cincinnati Reds,R,R
+10-04-2019,Miami Marlins,Cincinnati Reds,R,R
+11-04-2019,Miami Marlins,Cincinnati Reds,R,R
+13-04-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+14-04-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+23-04-2019,Atlanta Braves,Cincinnati Reds,R,R
+24-04-2019,Atlanta Braves,Cincinnati Reds,R,R
+25-04-2019,Atlanta Braves,Cincinnati Reds,R,R
+03-05-2019,San Francisco Giants,Cincinnati Reds,R,R
+04-05-2019,San Francisco Giants,Cincinnati Reds,R,R
+05-05-2019,San Francisco Giants,Cincinnati Reds,R,R
+06-05-2019,San Francisco Giants,Cincinnati Reds,L,R
+14-05-2019,Chicago Cubs,Cincinnati Reds,R,R
+15-05-2019,Chicago Cubs,Cincinnati Reds,R,R
+16-05-2019,Chicago Cubs,Cincinnati Reds,L,R
+17-05-2019,Los Angeles Dodgers,Cincinnati Reds,L,R
+18-05-2019,Los Angeles Dodgers,Cincinnati Reds,R,R
+19-05-2019,Los Angeles Dodgers,Cincinnati Reds,L,R
+28-05-2019,Pittsburgh Pirates,Cincinnati Reds,R,R
+29-05-2019,Pittsburgh Pirates,Cincinnati Reds,L,R
+31-05-2019,Washington Nationals,Cincinnati Reds,L,R
+01-06-2019,Washington Nationals,Cincinnati Reds,R,R
+02-06-2019,Washington Nationals,Cincinnati Reds,R,R
+14-06-2019,Texas Rangers,Cincinnati Reds,R,R
+15-06-2019,Texas Rangers,Cincinnati Reds,L,R
+16-06-2019,Texas Rangers,Cincinnati Reds,R,R
+17-06-2019,Houston Astros,Cincinnati Reds,L,R
+18-06-2019,Houston Astros,Cincinnati Reds,R,R
+19-06-2019,Houston Astros,Cincinnati Reds,R,R
+28-06-2019,Chicago Cubs,Cincinnati Reds,L,R
+29-06-2019,Chicago Cubs,Cincinnati Reds,L,R
+30-06-2019,Chicago Cubs,Cincinnati Reds,L,R
+01-07-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+02-07-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+03-07-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+04-07-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+06-07-2019,Cleveland Indians,Cincinnati Reds,R,R
+07-07-2019,Cleveland Indians,Cincinnati Reds,R,R
+18-07-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+19-07-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+20-07-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+21-07-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+26-07-2019,Colorado Rockies,Cincinnati Reds,R,R
+27-07-2019,Colorado Rockies,Cincinnati Reds,R,R
+28-07-2019,Colorado Rockies,Cincinnati Reds,R,L
+29-07-2019,Pittsburgh Pirates,Cincinnati Reds,R,R
+30-07-2019,Pittsburgh Pirates,Cincinnati Reds,R,R
+31-07-2019,Pittsburgh Pirates,Cincinnati Reds,R,R
+05-08-2019,Los Angeles Angels,Cincinnati Reds,R,R
+06-08-2019,Los Angeles Angels,Cincinnati Reds,L,R
+08-08-2019,Chicago Cubs,Cincinnati Reds,L,L
+09-08-2019,Chicago Cubs,Cincinnati Reds,R,R
+10-08-2019,Chicago Cubs,Cincinnati Reds,R,R
+11-08-2019,Chicago Cubs,Cincinnati Reds,L,R
+15-08-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+16-08-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+17-08-2019,St. Louis Cardinals,Cincinnati Reds,R,R
+18-08-2019,St. Louis Cardinals,Cincinnati Reds,R,L
+19-08-2019,San Diego Padres,Cincinnati Reds,L,R
+20-08-2019,San Diego Padres,Cincinnati Reds,R,R
+21-08-2019,San Diego Padres,Cincinnati Reds,L,R
+02-09-2019,Philadelphia Phillies,Cincinnati Reds,L,R
+03-09-2019,Philadelphia Phillies,Cincinnati Reds,R,R
+04-09-2019,Philadelphia Phillies,Cincinnati Reds,R,R
+05-09-2019,Philadelphia Phillies,Cincinnati Reds,L,R
+06-09-2019,Arizona Diamondbacks,Cincinnati Reds,L,R
+07-09-2019,Arizona Diamondbacks,Cincinnati Reds,L,R
+08-09-2019,Arizona Diamondbacks,Cincinnati Reds,R,R
+20-09-2019,New York Mets,Cincinnati Reds,R,R
+21-09-2019,New York Mets,Cincinnati Reds,R,R
+22-09-2019,New York Mets,Cincinnati Reds,R,R
+24-09-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+25-09-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+26-09-2019,Milwaukee Brewers,Cincinnati Reds,R,R
+01-04-2019,Chicago White Sox,Cleveland Indians,R,R
+03-04-2019,Chicago White Sox,Cleveland Indians,L,R
+04-04-2019,Toronto Blue Jays,Cleveland Indians,R,R
+05-04-2019,Toronto Blue Jays,Cleveland Indians,R,R
+06-04-2019,Toronto Blue Jays,Cleveland Indians,L,R
+07-04-2019,Toronto Blue Jays,Cleveland Indians,R,R
+21-04-2019,Atlanta Braves,Cleveland Indians,L,R
+23-04-2019,Miami Marlins,Cleveland Indians,R,R
+24-04-2019,Miami Marlins,Cleveland Indians,R,R
+03-05-2019,Seattle Mariners,Cleveland Indians,L,R
+04-05-2019,Seattle Mariners,Cleveland Indians,R,R
+05-05-2019,Seattle Mariners,Cleveland Indians,R,R
+06-05-2019,Chicago White Sox,Cleveland Indians,R,R
+07-05-2019,Chicago White Sox,Cleveland Indians,R,R
+08-05-2019,Chicago White Sox,Cleveland Indians,R,R
+09-05-2019,Chicago White Sox,Cleveland Indians,L,R
+16-05-2019,Baltimore Orioles,Cleveland Indians,R,R
+17-05-2019,Baltimore Orioles,Cleveland Indians,R,R
+18-05-2019,Baltimore Orioles,Cleveland Indians,L,R
+19-05-2019,Baltimore Orioles,Cleveland Indians,R,R
+20-05-2019,Oakland Athletics,Cleveland Indians,L,R
+21-05-2019,Oakland Athletics,Cleveland Indians,R,R
+22-05-2019,Oakland Athletics,Cleveland Indians,R,R
+23-05-2019,Tampa Bay Rays,Cleveland Indians,L,R
+24-05-2019,Tampa Bay Rays,Cleveland Indians,L,R
+25-05-2019,Tampa Bay Rays,Cleveland Indians,R,R
+26-05-2019,Tampa Bay Rays,Cleveland Indians,R,R
+04-06-2019,Minnesota Twins,Cleveland Indians,L,R
+05-06-2019,Minnesota Twins,Cleveland Indians,L,R
+06-06-2019,Minnesota Twins,Cleveland Indians,R,R
+07-06-2019,New York Yankees,Cleveland Indians,R,R
+08-06-2019,New York Yankees,Cleveland Indians,nan,R
+09-06-2019,New York Yankees,Cleveland Indians,R,R
+11-06-2019,Cincinnati Reds,Cleveland Indians,R,R
+12-06-2019,Cincinnati Reds,Cleveland Indians,R,R
+21-06-2019,Detroit Tigers,Cleveland Indians,L,R
+22-06-2019,Detroit Tigers,Cleveland Indians,R,R
+23-06-2019,Detroit Tigers,Cleveland Indians,L,R
+24-06-2019,Kansas City Royals,Cleveland Indians,R,R
+25-06-2019,Kansas City Royals,Cleveland Indians,R,R
+26-06-2019,Kansas City Royals,Cleveland Indians,R,R
+12-07-2019,Minnesota Twins,Cleveland Indians,R,R
+13-07-2019,Minnesota Twins,Cleveland Indians,R,R
+14-07-2019,Minnesota Twins,Cleveland Indians,R,R
+15-07-2019,Detroit Tigers,Cleveland Indians,L,R
+16-07-2019,Detroit Tigers,Cleveland Indians,L,R
+17-07-2019,Detroit Tigers,Cleveland Indians,R,R
+18-07-2019,Detroit Tigers,Cleveland Indians,L,R
+19-07-2019,Kansas City Royals,Cleveland Indians,L,R
+20-07-2019,Kansas City Royals,Cleveland Indians,R,R
+21-07-2019,Kansas City Royals,Cleveland Indians,R,R
+30-07-2019,Houston Astros,Cleveland Indians,R,R
+31-07-2019,Houston Astros,Cleveland Indians,R,R
+01-08-2019,Houston Astros,Cleveland Indians,R,R
+02-08-2019,Los Angeles Angels,Cleveland Indians,R,R
+03-08-2019,Los Angeles Angels,Cleveland Indians,R,R
+04-08-2019,Los Angeles Angels,Cleveland Indians,R,R
+05-08-2019,Texas Rangers,Cleveland Indians,L,R
+12-08-2019,Boston Red Sox,Cleveland Indians,L,R
+13-08-2019,Boston Red Sox,Cleveland Indians,L,R
+14-08-2019,Boston Red Sox,Cleveland Indians,L,R
+23-08-2019,Kansas City Royals,Cleveland Indians,R,R
+24-08-2019,Kansas City Royals,Cleveland Indians,R,R
+25-08-2019,Kansas City Royals,Cleveland Indians,L,R
+02-09-2019,Chicago White Sox,Cleveland Indians,L,R
+03-09-2019,Chicago White Sox,Cleveland Indians,R,R
+04-09-2019,Chicago White Sox,Cleveland Indians,R,R
+05-09-2019,Chicago White Sox,Cleveland Indians,R,R
+15-09-2019,Minnesota Twins,Cleveland Indians,R,R
+17-09-2019,Detroit Tigers,Cleveland Indians,R,R
+18-09-2019,Detroit Tigers,Cleveland Indians,R,R
+19-09-2019,Detroit Tigers,Cleveland Indians,L,R
+20-09-2019,Philadelphia Phillies,Cleveland Indians,L,R
+21-09-2019,Philadelphia Phillies,Cleveland Indians,L,R
+22-09-2019,Philadelphia Phillies,Cleveland Indians,R,R
+05-04-2019,Los Angeles Dodgers,Colorado Rockies,R,L
+06-04-2019,Los Angeles Dodgers,Colorado Rockies,R,R
+07-04-2019,Los Angeles Dodgers,Colorado Rockies,L,R
+08-04-2019,Atlanta Braves,Colorado Rockies,R,L
+09-04-2019,Atlanta Braves,Colorado Rockies,L,R
+18-04-2019,Philadelphia Phillies,Colorado Rockies,R,L
+19-04-2019,Philadelphia Phillies,Colorado Rockies,R,R
+20-04-2019,Philadelphia Phillies,Colorado Rockies,R,R
+21-04-2019,Philadelphia Phillies,Colorado Rockies,R,R
+22-04-2019,Washington Nationals,Colorado Rockies,R,L
+23-04-2019,Washington Nationals,Colorado Rockies,L,R
+24-04-2019,Washington Nationals,Colorado Rockies,R,R
+03-05-2019,Arizona Diamondbacks,Colorado Rockies,L,L
+04-05-2019,Arizona Diamondbacks,Colorado Rockies,R,L
+05-05-2019,Arizona Diamondbacks,Colorado Rockies,R,R
+07-05-2019,San Francisco Giants,Colorado Rockies,L,R
+09-05-2019,San Francisco Giants,Colorado Rockies,L,L
+10-05-2019,San Diego Padres,Colorado Rockies,L,R
+11-05-2019,San Diego Padres,Colorado Rockies,L,R
+12-05-2019,San Diego Padres,Colorado Rockies,L,R
+24-05-2019,Baltimore Orioles,Colorado Rockies,L,R
+25-05-2019,Baltimore Orioles,Colorado Rockies,R,L
+26-05-2019,Baltimore Orioles,Colorado Rockies,R,R
+27-05-2019,Arizona Diamondbacks,Colorado Rockies,R,R
+28-05-2019,Arizona Diamondbacks,Colorado Rockies,R,R
+29-05-2019,Arizona Diamondbacks,Colorado Rockies,L,R
+30-05-2019,Arizona Diamondbacks,Colorado Rockies,R,L
+31-05-2019,Toronto Blue Jays,Colorado Rockies,R,R
+01-06-2019,Toronto Blue Jays,Colorado Rockies,R,R
+02-06-2019,Toronto Blue Jays,Colorado Rockies,R,R
+10-06-2019,Chicago Cubs,Colorado Rockies,R,R
+11-06-2019,Chicago Cubs,Colorado Rockies,L,R
+12-06-2019,Chicago Cubs,Colorado Rockies,L,R
+13-06-2019,San Diego Padres,Colorado Rockies,L,R
+14-06-2019,San Diego Padres,Colorado Rockies,R,R
+15-06-2019,San Diego Padres,Colorado Rockies,L,R
+16-06-2019,San Diego Padres,Colorado Rockies,L,R
+27-06-2019,Los Angeles Dodgers,Colorado Rockies,R,R
+28-06-2019,Los Angeles Dodgers,Colorado Rockies,L,R
+29-06-2019,Los Angeles Dodgers,Colorado Rockies,L,R
+30-06-2019,Los Angeles Dodgers,Colorado Rockies,R,R
+02-07-2019,Houston Astros,Colorado Rockies,R,R
+03-07-2019,Houston Astros,Colorado Rockies,L,R
+12-07-2019,Cincinnati Reds,Colorado Rockies,R,R
+13-07-2019,Cincinnati Reds,Colorado Rockies,R,L
+14-07-2019,Cincinnati Reds,Colorado Rockies,R,R
+16-07-2019,San Francisco Giants,Colorado Rockies,L,R
+17-07-2019,San Francisco Giants,Colorado Rockies,R,R
+29-07-2019,Los Angeles Dodgers,Colorado Rockies,R,R
+30-07-2019,Los Angeles Dodgers,Colorado Rockies,L,L
+31-07-2019,Los Angeles Dodgers,Colorado Rockies,L,R
+02-08-2019,San Francisco Giants,Colorado Rockies,R,R
+03-08-2019,San Francisco Giants,Colorado Rockies,L,R
+04-08-2019,San Francisco Giants,Colorado Rockies,R,L
+12-08-2019,Arizona Diamondbacks,Colorado Rockies,R,R
+13-08-2019,Arizona Diamondbacks,Colorado Rockies,R,R
+14-08-2019,Arizona Diamondbacks,Colorado Rockies,L,L
+16-08-2019,Miami Marlins,Colorado Rockies,R,R
+17-08-2019,Miami Marlins,Colorado Rockies,R,R
+18-08-2019,Miami Marlins,Colorado Rockies,R,R
+26-08-2019,Atlanta Braves,Colorado Rockies,R,R
+27-08-2019,Boston Red Sox,Colorado Rockies,R,R
+28-08-2019,Boston Red Sox,Colorado Rockies,L,R
+29-08-2019,Pittsburgh Pirates,Colorado Rockies,R,R
+30-08-2019,Pittsburgh Pirates,Colorado Rockies,R,R
+31-08-2019,Pittsburgh Pirates,Colorado Rockies,R,R
+01-09-2019,Pittsburgh Pirates,Colorado Rockies,L,R
+10-09-2019,St. Louis Cardinals,Colorado Rockies,R,R
+11-09-2019,St. Louis Cardinals,Colorado Rockies,R,R
+12-09-2019,St. Louis Cardinals,Colorado Rockies,R,R
+13-09-2019,San Diego Padres,Colorado Rockies,L,R
+14-09-2019,San Diego Padres,Colorado Rockies,L,R
+15-09-2019,San Diego Padres,Colorado Rockies,R,R
+16-09-2019,New York Mets,Colorado Rockies,L,R
+17-09-2019,New York Mets,Colorado Rockies,R,R
+18-09-2019,New York Mets,Colorado Rockies,R,R
+27-09-2019,Milwaukee Brewers,Colorado Rockies,R,R
+28-09-2019,Milwaukee Brewers,Colorado Rockies,L,R
+29-09-2019,Milwaukee Brewers,Colorado Rockies,R,R
+04-04-2019,Kansas City Royals,Detroit Tigers,R,R
+06-04-2019,Kansas City Royals,Detroit Tigers,R,L
+07-04-2019,Kansas City Royals,Detroit Tigers,R,R
+09-04-2019,Cleveland Indians,Detroit Tigers,R,R
+10-04-2019,Cleveland Indians,Detroit Tigers,R,L
+11-04-2019,Cleveland Indians,Detroit Tigers,R,R
+16-04-2019,Pittsburgh Pirates,Detroit Tigers,R,L
+17-04-2019,Pittsburgh Pirates,Detroit Tigers,R,R
+18-04-2019,Chicago White Sox,Detroit Tigers,R,R
+19-04-2019,Chicago White Sox,Detroit Tigers,L,R
+21-04-2019,Chicago White Sox,Detroit Tigers,R,L
+03-05-2019,Kansas City Royals,Detroit Tigers,R,L
+04-05-2019,Kansas City Royals,Detroit Tigers,R,R
+05-05-2019,Kansas City Royals,Detroit Tigers,R,R
+07-05-2019,Los Angeles Angels,Detroit Tigers,R,L
+08-05-2019,Los Angeles Angels,Detroit Tigers,L,L
+09-05-2019,Los Angeles Angels,Detroit Tigers,R,L
+13-05-2019,Houston Astros,Detroit Tigers,R,L
+14-05-2019,Houston Astros,Detroit Tigers,L,L
+15-05-2019,Houston Astros,Detroit Tigers,R,L
+16-05-2019,Oakland Athletics,Detroit Tigers,R,R
+17-05-2019,Oakland Athletics,Detroit Tigers,R,L
+18-05-2019,Oakland Athletics,Detroit Tigers,R,L
+19-05-2019,Oakland Athletics,Detroit Tigers,R,L
+21-05-2019,Miami Marlins,Detroit Tigers,L,R
+22-05-2019,Miami Marlins,Detroit Tigers,R,L
+23-05-2019,Miami Marlins,Detroit Tigers,R,L
+04-06-2019,Tampa Bay Rays,Detroit Tigers,L,L
+05-06-2019,Tampa Bay Rays,Detroit Tigers,R,R
+06-06-2019,Tampa Bay Rays,Detroit Tigers,R,L
+07-06-2019,Minnesota Twins,Detroit Tigers,R,L
+08-06-2019,Minnesota Twins,Detroit Tigers,R,R
+09-06-2019,Minnesota Twins,Detroit Tigers,R,L
+14-06-2019,Cleveland Indians,Detroit Tigers,R,L
+15-06-2019,Cleveland Indians,Detroit Tigers,R,L
+16-06-2019,Cleveland Indians,Detroit Tigers,R,R
+25-06-2019,Texas Rangers,Detroit Tigers,R,R
+26-06-2019,Texas Rangers,Detroit Tigers,L,L
+27-06-2019,Texas Rangers,Detroit Tigers,R,R
+28-06-2019,Washington Nationals,Detroit Tigers,R,L
+29-06-2019,Washington Nationals,Detroit Tigers,R,L
+30-06-2019,Washington Nationals,Detroit Tigers,R,R
+05-07-2019,Boston Red Sox,Detroit Tigers,L,L
+06-07-2019,Boston Red Sox,Detroit Tigers,R,R
+07-07-2019,Boston Red Sox,Detroit Tigers,L,L
+19-07-2019,Toronto Blue Jays,Detroit Tigers,R,R
+20-07-2019,Toronto Blue Jays,Detroit Tigers,R,L
+21-07-2019,Toronto Blue Jays,Detroit Tigers,R,L
+23-07-2019,Philadelphia Phillies,Detroit Tigers,R,L
+24-07-2019,Philadelphia Phillies,Detroit Tigers,R,R
+05-08-2019,Chicago White Sox,Detroit Tigers,R,R
+07-08-2019,Chicago White Sox,Detroit Tigers,R,L
+08-08-2019,Kansas City Royals,Detroit Tigers,R,L
+09-08-2019,Kansas City Royals,Detroit Tigers,R,R
+10-08-2019,Kansas City Royals,Detroit Tigers,L,R
+11-08-2019,Kansas City Royals,Detroit Tigers,R,L
+13-08-2019,Seattle Mariners,Detroit Tigers,L,L
+14-08-2019,Seattle Mariners,Detroit Tigers,L,R
+15-08-2019,Seattle Mariners,Detroit Tigers,R,R
+27-08-2019,Cleveland Indians,Detroit Tigers,R,R
+28-08-2019,Cleveland Indians,Detroit Tigers,R,R
+29-08-2019,Cleveland Indians,Detroit Tigers,R,L
+30-08-2019,Minnesota Twins,Detroit Tigers,R,R
+31-08-2019,Minnesota Twins,Detroit Tigers,L,L
+01-09-2019,Minnesota Twins,Detroit Tigers,R,R
+02-09-2019,Minnesota Twins,Detroit Tigers,R,R
+10-09-2019,New York Yankees,Detroit Tigers,L,R
+13-09-2019,Baltimore Orioles,Detroit Tigers,R,R
+14-09-2019,Baltimore Orioles,Detroit Tigers,R,L
+15-09-2019,Baltimore Orioles,Detroit Tigers,R,R
+16-09-2019,Baltimore Orioles,Detroit Tigers,L,L
+20-09-2019,Chicago White Sox,Detroit Tigers,R,R
+21-09-2019,Chicago White Sox,Detroit Tigers,R,L
+22-09-2019,Chicago White Sox,Detroit Tigers,R,L
+24-09-2019,Minnesota Twins,Detroit Tigers,R,R
+25-09-2019,Minnesota Twins,Detroit Tigers,R,L
+26-09-2019,Minnesota Twins,Detroit Tigers,L,R
+05-04-2019,Oakland Athletics,Houston Astros,R,R
+06-04-2019,Oakland Athletics,Houston Astros,R,L
+07-04-2019,Oakland Athletics,Houston Astros,R,R
+08-04-2019,New York Yankees,Houston Astros,R,R
+09-04-2019,New York Yankees,Houston Astros,R,R
+10-04-2019,New York Yankees,Houston Astros,L,R
+22-04-2019,Minnesota Twins,Houston Astros,R,R
+23-04-2019,Minnesota Twins,Houston Astros,R,L
+24-04-2019,Minnesota Twins,Houston Astros,R,R
+25-04-2019,Cleveland Indians,Houston Astros,R,R
+26-04-2019,Cleveland Indians,Houston Astros,R,R
+27-04-2019,Cleveland Indians,Houston Astros,R,R
+28-04-2019,Cleveland Indians,Houston Astros,R,L
+06-05-2019,Kansas City Royals,Houston Astros,R,R
+07-05-2019,Kansas City Royals,Houston Astros,L,R
+08-05-2019,Kansas City Royals,Houston Astros,R,R
+09-05-2019,Texas Rangers,Houston Astros,L,L
+10-05-2019,Texas Rangers,Houston Astros,R,R
+11-05-2019,Texas Rangers,Houston Astros,R,R
+12-05-2019,Texas Rangers,Houston Astros,R,R
+20-05-2019,Chicago White Sox,Houston Astros,R,R
+21-05-2019,Chicago White Sox,Houston Astros,R,R
+22-05-2019,Chicago White Sox,Houston Astros,R,R
+23-05-2019,Chicago White Sox,Houston Astros,R,R
+24-05-2019,Boston Red Sox,Houston Astros,L,L
+25-05-2019,Boston Red Sox,Houston Astros,L,R
+26-05-2019,Boston Red Sox,Houston Astros,L,R
+27-05-2019,Chicago Cubs,Houston Astros,L,R
+28-05-2019,Chicago Cubs,Houston Astros,L,R
+29-05-2019,Chicago Cubs,Houston Astros,R,L
+07-06-2019,Baltimore Orioles,Houston Astros,R,R
+08-06-2019,Baltimore Orioles,Houston Astros,R,L
+09-06-2019,Baltimore Orioles,Houston Astros,R,L
+11-06-2019,Milwaukee Brewers,Houston Astros,R,R
+12-06-2019,Milwaukee Brewers,Houston Astros,R,R
+14-06-2019,Toronto Blue Jays,Houston Astros,R,R
+15-06-2019,Toronto Blue Jays,Houston Astros,L,L
+16-06-2019,Toronto Blue Jays,Houston Astros,R,R
+25-06-2019,Pittsburgh Pirates,Houston Astros,R,R
+26-06-2019,Pittsburgh Pirates,Houston Astros,R,L
+27-06-2019,Pittsburgh Pirates,Houston Astros,R,R
+28-06-2019,Seattle Mariners,Houston Astros,R,L
+29-06-2019,Seattle Mariners,Houston Astros,L,R
+30-06-2019,Seattle Mariners,Houston Astros,L,R
+05-07-2019,Los Angeles Angels,Houston Astros,R,R
+06-07-2019,Los Angeles Angels,Houston Astros,L,R
+07-07-2019,Los Angeles Angels,Houston Astros,L,R
+19-07-2019,Texas Rangers,Houston Astros,L,R
+20-07-2019,Texas Rangers,Houston Astros,R,R
+21-07-2019,Texas Rangers,Houston Astros,R,R
+22-07-2019,Oakland Athletics,Houston Astros,R,R
+23-07-2019,Oakland Athletics,Houston Astros,R,L
+24-07-2019,Oakland Athletics,Houston Astros,R,R
+02-08-2019,Seattle Mariners,Houston Astros,L,L
+03-08-2019,Seattle Mariners,Houston Astros,L,R
+04-08-2019,Seattle Mariners,Houston Astros,R,R
+06-08-2019,Colorado Rockies,Houston Astros,R,R
+07-08-2019,Colorado Rockies,Houston Astros,R,R
+19-08-2019,Detroit Tigers,Houston Astros,R,L
+20-08-2019,Detroit Tigers,Houston Astros,R,R
+21-08-2019,Detroit Tigers,Houston Astros,L,R
+22-08-2019,Detroit Tigers,Houston Astros,R,R
+23-08-2019,Los Angeles Angels,Houston Astros,L,R
+24-08-2019,Los Angeles Angels,Houston Astros,L,L
+25-08-2019,Los Angeles Angels,Houston Astros,R,L
+27-08-2019,Tampa Bay Rays,Houston Astros,R,R
+28-08-2019,Tampa Bay Rays,Houston Astros,L,R
+29-08-2019,Tampa Bay Rays,Houston Astros,R,R
+05-09-2019,Seattle Mariners,Houston Astros,L,L
+06-09-2019,Seattle Mariners,Houston Astros,R,L
+07-09-2019,Seattle Mariners,Houston Astros,L,R
+08-09-2019,Seattle Mariners,Houston Astros,R,R
+09-09-2019,Oakland Athletics,Houston Astros,R,R
+10-09-2019,Oakland Athletics,Houston Astros,R,L
+11-09-2019,Oakland Athletics,Houston Astros,L,R
+12-09-2019,Oakland Athletics,Houston Astros,R,R
+17-09-2019,Texas Rangers,Houston Astros,R,R
+18-09-2019,Texas Rangers,Houston Astros,L,R
+20-09-2019,Los Angeles Angels,Houston Astros,R,R
+21-09-2019,Los Angeles Angels,Houston Astros,L,L
+22-09-2019,Los Angeles Angels,Houston Astros,R,R
+04-10-2019,Tampa Bay Rays,Houston Astros,R,R
+05-10-2019,Tampa Bay Rays,Houston Astros,L,R
+10-10-2019,Tampa Bay Rays,Houston Astros,R,R
+12-10-2019,New York Yankees,Houston Astros,R,R
+13-10-2019,New York Yankees,Houston Astros,L,R
+19-10-2019,New York Yankees,Houston Astros,R,R
+22-10-2019,Washington Nationals,Houston Astros,R,R
+23-10-2019,Washington Nationals,Houston Astros,R,R
+29-10-2019,Washington Nationals,Houston Astros,R,R
+30-10-2019,Washington Nationals,Houston Astros,R,R
+28-03-2019,Chicago White Sox,Kansas City Royals,L,R
+30-03-2019,Chicago White Sox,Kansas City Royals,R,R
+31-03-2019,Chicago White Sox,Kansas City Royals,R,R
+02-04-2019,Minnesota Twins,Kansas City Royals,R,R
+03-04-2019,Minnesota Twins,Kansas City Royals,R,R
+08-04-2019,Seattle Mariners,Kansas City Royals,R,R
+09-04-2019,Seattle Mariners,Kansas City Royals,L,R
+10-04-2019,Seattle Mariners,Kansas City Royals,L,R
+11-04-2019,Seattle Mariners,Kansas City Royals,R,R
+12-04-2019,Cleveland Indians,Kansas City Royals,R,R
+13-04-2019,Cleveland Indians,Kansas City Royals,R,R
+14-04-2019,Cleveland Indians,Kansas City Royals,R,R
+26-04-2019,Los Angeles Angels,Kansas City Royals,L,L
+27-04-2019,Los Angeles Angels,Kansas City Royals,R,R
+28-04-2019,Los Angeles Angels,Kansas City Royals,R,R
+29-04-2019,Tampa Bay Rays,Kansas City Royals,R,R
+02-05-2019,Tampa Bay Rays,Kansas City Royals,R,L
+10-05-2019,Philadelphia Phillies,Kansas City Royals,R,R
+11-05-2019,Philadelphia Phillies,Kansas City Royals,R,R
+12-05-2019,Philadelphia Phillies,Kansas City Royals,L,R
+14-05-2019,Texas Rangers,Kansas City Royals,R,L
+15-05-2019,Texas Rangers,Kansas City Royals,L,R
+16-05-2019,Texas Rangers,Kansas City Royals,R,R
+26-05-2019,New York Yankees,Kansas City Royals,R,L
+04-06-2019,Boston Red Sox,Kansas City Royals,L,R
+05-06-2019,Boston Red Sox,Kansas City Royals,L,R
+06-06-2019,Boston Red Sox,Kansas City Royals,R,L
+07-06-2019,Chicago White Sox,Kansas City Royals,R,R
+08-06-2019,Chicago White Sox,Kansas City Royals,R,R
+09-06-2019,Chicago White Sox,Kansas City Royals,R,R
+11-06-2019,Detroit Tigers,Kansas City Royals,R,R
+12-06-2019,Detroit Tigers,Kansas City Royals,L,L
+13-06-2019,Detroit Tigers,Kansas City Royals,L,R
+20-06-2019,Minnesota Twins,Kansas City Royals,R,R
+21-06-2019,Minnesota Twins,Kansas City Royals,L,R
+22-06-2019,Minnesota Twins,Kansas City Royals,R,L
+23-06-2019,Minnesota Twins,Kansas City Royals,R,R
+02-07-2019,Cleveland Indians,Kansas City Royals,R,R
+03-07-2019,Cleveland Indians,Kansas City Royals,R,L
+04-07-2019,Cleveland Indians,Kansas City Royals,R,R
+12-07-2019,Detroit Tigers,Kansas City Royals,R,L
+13-07-2019,Detroit Tigers,Kansas City Royals,L,R
+14-07-2019,Detroit Tigers,Kansas City Royals,R,L
+15-07-2019,Chicago White Sox,Kansas City Royals,R,R
+16-07-2019,Chicago White Sox,Kansas City Royals,R,R
+17-07-2019,Chicago White Sox,Kansas City Royals,R,L
+18-07-2019,Chicago White Sox,Kansas City Royals,L,R
+25-07-2019,Cleveland Indians,Kansas City Royals,R,L
+26-07-2019,Cleveland Indians,Kansas City Royals,R,R
+27-07-2019,Cleveland Indians,Kansas City Royals,R,R
+28-07-2019,Cleveland Indians,Kansas City Royals,R,L
+29-07-2019,Toronto Blue Jays,Kansas City Royals,L,R
+30-07-2019,Toronto Blue Jays,Kansas City Royals,R,L
+31-07-2019,Toronto Blue Jays,Kansas City Royals,R,R
+13-08-2019,St. Louis Cardinals,Kansas City Royals,R,R
+14-08-2019,St. Louis Cardinals,Kansas City Royals,R,R
+16-08-2019,New York Mets,Kansas City Royals,R,L
+17-08-2019,New York Mets,Kansas City Royals,R,R
+18-08-2019,New York Mets,Kansas City Royals,R,R
+26-08-2019,Oakland Athletics,Kansas City Royals,R,R
+27-08-2019,Oakland Athletics,Kansas City Royals,R,L
+28-08-2019,Oakland Athletics,Kansas City Royals,R,R
+29-08-2019,Oakland Athletics,Kansas City Royals,R,R
+30-08-2019,Baltimore Orioles,Kansas City Royals,L,L
+31-08-2019,Baltimore Orioles,Kansas City Royals,R,R
+01-09-2019,Baltimore Orioles,Kansas City Royals,R,L
+03-09-2019,Detroit Tigers,Kansas City Royals,L,L
+04-09-2019,Detroit Tigers,Kansas City Royals,R,R
+05-09-2019,Detroit Tigers,Kansas City Royals,L,R
+13-09-2019,Houston Astros,Kansas City Royals,R,L
+14-09-2019,Houston Astros,Kansas City Royals,R,L
+15-09-2019,Houston Astros,Kansas City Royals,L,R
+24-09-2019,Atlanta Braves,Kansas City Royals,R,L
+25-09-2019,Atlanta Braves,Kansas City Royals,R,L
+27-09-2019,Minnesota Twins,Kansas City Royals,R,L
+28-09-2019,Minnesota Twins,Kansas City Royals,R,R
+29-09-2019,Minnesota Twins,Kansas City Royals,L,R
+28-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,R,L
+29-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,L,R
+30-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,R,R
+31-03-2019,Arizona Diamondbacks,Los Angeles Dodgers,R,R
+01-04-2019,San Francisco Giants,Los Angeles Dodgers,L,L
+02-04-2019,San Francisco Giants,Los Angeles Dodgers,L,L
+03-04-2019,San Francisco Giants,Los Angeles Dodgers,L,R
+12-04-2019,Milwaukee Brewers,Los Angeles Dodgers,R,L
+13-04-2019,Milwaukee Brewers,Los Angeles Dodgers,R,L
+14-04-2019,Milwaukee Brewers,Los Angeles Dodgers,R,R
+15-04-2019,Cincinnati Reds,Los Angeles Dodgers,R,L
+16-04-2019,Cincinnati Reds,Los Angeles Dodgers,R,R
+17-04-2019,Cincinnati Reds,Los Angeles Dodgers,R,R
+26-04-2019,Pittsburgh Pirates,Los Angeles Dodgers,R,L
+27-04-2019,Pittsburgh Pirates,Los Angeles Dodgers,R,L
+28-04-2019,Pittsburgh Pirates,Los Angeles Dodgers,R,L
+06-05-2019,Atlanta Braves,Los Angeles Dodgers,R,R
+07-05-2019,Atlanta Braves,Los Angeles Dodgers,L,L
+08-05-2019,Atlanta Braves,Los Angeles Dodgers,R,L
+09-05-2019,Washington Nationals,Los Angeles Dodgers,L,L
+10-05-2019,Washington Nationals,Los Angeles Dodgers,R,R
+11-05-2019,Washington Nationals,Los Angeles Dodgers,R,R
+12-05-2019,Washington Nationals,Los Angeles Dodgers,R,L
+14-05-2019,San Diego Padres,Los Angeles Dodgers,R,L
+15-05-2019,San Diego Padres,Los Angeles Dodgers,L,R
+27-05-2019,New York Mets,Los Angeles Dodgers,R,L
+28-05-2019,New York Mets,Los Angeles Dodgers,L,L
+29-05-2019,New York Mets,Los Angeles Dodgers,R,R
+30-05-2019,New York Mets,Los Angeles Dodgers,L,L
+31-05-2019,Philadelphia Phillies,Los Angeles Dodgers,R,R
+01-06-2019,Philadelphia Phillies,Los Angeles Dodgers,L,L
+02-06-2019,Philadelphia Phillies,Los Angeles Dodgers,R,L
+13-06-2019,Chicago Cubs,Los Angeles Dodgers,L,L
+14-06-2019,Chicago Cubs,Los Angeles Dodgers,R,L
+15-06-2019,Chicago Cubs,Los Angeles Dodgers,R,R
+16-06-2019,Chicago Cubs,Los Angeles Dodgers,L,L
+17-06-2019,San Francisco Giants,Los Angeles Dodgers,R,R
+18-06-2019,San Francisco Giants,Los Angeles Dodgers,R,L
+19-06-2019,San Francisco Giants,Los Angeles Dodgers,L,L
+20-06-2019,San Francisco Giants,Los Angeles Dodgers,L,L
+21-06-2019,Colorado Rockies,Los Angeles Dodgers,R,R
+22-06-2019,Colorado Rockies,Los Angeles Dodgers,R,L
+23-06-2019,Colorado Rockies,Los Angeles Dodgers,R,R
+02-07-2019,Arizona Diamondbacks,Los Angeles Dodgers,R,R
+03-07-2019,Arizona Diamondbacks,Los Angeles Dodgers,R,R
+04-07-2019,San Diego Padres,Los Angeles Dodgers,R,L
+05-07-2019,San Diego Padres,Los Angeles Dodgers,L,L
+06-07-2019,San Diego Padres,Los Angeles Dodgers,R,R
+07-07-2019,San Diego Padres,Los Angeles Dodgers,L,R
+19-07-2019,Miami Marlins,Los Angeles Dodgers,R,L
+20-07-2019,Miami Marlins,Los Angeles Dodgers,R,L
+21-07-2019,Miami Marlins,Los Angeles Dodgers,R,R
+23-07-2019,Los Angeles Angels,Los Angeles Dodgers,R,R
+24-07-2019,Los Angeles Angels,Los Angeles Dodgers,R,R
+01-08-2019,San Diego Padres,Los Angeles Dodgers,L,L
+02-08-2019,San Diego Padres,Los Angeles Dodgers,L,R
+03-08-2019,San Diego Padres,Los Angeles Dodgers,R,R
+04-08-2019,San Diego Padres,Los Angeles Dodgers,R,R
+05-08-2019,St. Louis Cardinals,Los Angeles Dodgers,R,R
+06-08-2019,St. Louis Cardinals,Los Angeles Dodgers,R,L
+07-08-2019,St. Louis Cardinals,Los Angeles Dodgers,R,R
+09-08-2019,Arizona Diamondbacks,Los Angeles Dodgers,L,R
+10-08-2019,Arizona Diamondbacks,Los Angeles Dodgers,L,R
+11-08-2019,Arizona Diamondbacks,Los Angeles Dodgers,R,L
+20-08-2019,Toronto Blue Jays,Los Angeles Dodgers,L,L
+21-08-2019,Toronto Blue Jays,Los Angeles Dodgers,R,R
+22-08-2019,Toronto Blue Jays,Los Angeles Dodgers,R,R
+23-08-2019,New York Yankees,Los Angeles Dodgers,L,L
+24-08-2019,New York Yankees,Los Angeles Dodgers,nan,R
+25-08-2019,New York Yankees,Los Angeles Dodgers,R,L
+02-09-2019,Colorado Rockies,Los Angeles Dodgers,R,R
+03-09-2019,Colorado Rockies,Los Angeles Dodgers,R,L
+04-09-2019,Colorado Rockies,Los Angeles Dodgers,R,L
+06-09-2019,San Francisco Giants,Los Angeles Dodgers,R,L
+07-09-2019,San Francisco Giants,Los Angeles Dodgers,R,R
+08-09-2019,San Francisco Giants,Los Angeles Dodgers,R,L
+17-09-2019,Tampa Bay Rays,Los Angeles Dodgers,L,L
+18-09-2019,Tampa Bay Rays,Los Angeles Dodgers,L,R
+20-09-2019,Colorado Rockies,Los Angeles Dodgers,R,L
+21-09-2019,Colorado Rockies,Los Angeles Dodgers,L,R
+22-09-2019,Colorado Rockies,Los Angeles Dodgers,R,L
+03-10-2019,Washington Nationals,Los Angeles Dodgers,L,R
+04-10-2019,Washington Nationals,Los Angeles Dodgers,R,L
+09-10-2019,Washington Nationals,Los Angeles Dodgers,R,R
+28-03-2019,Colorado Rockies,Miami Marlins,L,R
+29-03-2019,Colorado Rockies,Miami Marlins,R,R
+30-03-2019,Colorado Rockies,Miami Marlins,L,R
+31-03-2019,Colorado Rockies,Miami Marlins,R,R
+01-04-2019,New York Mets,Miami Marlins,L,L
+02-04-2019,New York Mets,Miami Marlins,L,R
+03-04-2019,New York Mets,Miami Marlins,R,R
+12-04-2019,Philadelphia Phillies,Miami Marlins,R,R
+13-04-2019,Philadelphia Phillies,Miami Marlins,R,L
+14-04-2019,Philadelphia Phillies,Miami Marlins,R,R
+15-04-2019,Chicago Cubs,Miami Marlins,R,R
+16-04-2019,Chicago Cubs,Miami Marlins,L,R
+17-04-2019,Chicago Cubs,Miami Marlins,L,R
+19-04-2019,Washington Nationals,Miami Marlins,R,L
+20-04-2019,Washington Nationals,Miami Marlins,R,R
+21-04-2019,Washington Nationals,Miami Marlins,R,R
+30-04-2019,Cleveland Indians,Miami Marlins,R,R
+01-05-2019,Cleveland Indians,Miami Marlins,R,L
+03-05-2019,Atlanta Braves,Miami Marlins,R,R
+04-05-2019,Atlanta Braves,Miami Marlins,R,R
+05-05-2019,Atlanta Braves,Miami Marlins,R,R
+14-05-2019,Tampa Bay Rays,Miami Marlins,R,L
+15-05-2019,Tampa Bay Rays,Miami Marlins,R,R
+17-05-2019,New York Mets,Miami Marlins,R,R
+18-05-2019,New York Mets,Miami Marlins,L,R
+19-05-2019,New York Mets,Miami Marlins,R,R
+28-05-2019,San Francisco Giants,Miami Marlins,R,R
+29-05-2019,San Francisco Giants,Miami Marlins,L,R
+30-05-2019,San Francisco Giants,Miami Marlins,R,R
+07-06-2019,Atlanta Braves,Miami Marlins,R,R
+08-06-2019,Atlanta Braves,Miami Marlins,R,R
+09-06-2019,Atlanta Braves,Miami Marlins,L,R
+10-06-2019,St. Louis Cardinals,Miami Marlins,R,R
+11-06-2019,St. Louis Cardinals,Miami Marlins,R,R
+12-06-2019,St. Louis Cardinals,Miami Marlins,R,R
+14-06-2019,Pittsburgh Pirates,Miami Marlins,L,R
+15-06-2019,Pittsburgh Pirates,Miami Marlins,R,R
+16-06-2019,Pittsburgh Pirates,Miami Marlins,R,R
+25-06-2019,Washington Nationals,Miami Marlins,R,R
+26-06-2019,Washington Nationals,Miami Marlins,L,R
+27-06-2019,Washington Nationals,Miami Marlins,R,R
+28-06-2019,Philadelphia Phillies,Miami Marlins,R,R
+29-06-2019,Philadelphia Phillies,Miami Marlins,R,R
+30-06-2019,Philadelphia Phillies,Miami Marlins,R,R
+12-07-2019,New York Mets,Miami Marlins,L,L
+13-07-2019,New York Mets,Miami Marlins,R,R
+14-07-2019,New York Mets,Miami Marlins,R,R
+16-07-2019,San Diego Padres,Miami Marlins,L,R
+17-07-2019,San Diego Padres,Miami Marlins,R,R
+18-07-2019,San Diego Padres,Miami Marlins,R,L
+26-07-2019,Arizona Diamondbacks,Miami Marlins,R,R
+27-07-2019,Arizona Diamondbacks,Miami Marlins,L,R
+28-07-2019,Arizona Diamondbacks,Miami Marlins,L,R
+29-07-2019,Arizona Diamondbacks,Miami Marlins,R,L
+30-07-2019,Minnesota Twins,Miami Marlins,R,R
+31-07-2019,Minnesota Twins,Miami Marlins,R,R
+01-08-2019,Minnesota Twins,Miami Marlins,R,R
+08-08-2019,Atlanta Braves,Miami Marlins,L,R
+09-08-2019,Atlanta Braves,Miami Marlins,R,L
+10-08-2019,Atlanta Braves,Miami Marlins,R,R
+11-08-2019,Atlanta Braves,Miami Marlins,R,R
+13-08-2019,Los Angeles Dodgers,Miami Marlins,R,R
+14-08-2019,Los Angeles Dodgers,Miami Marlins,L,R
+15-08-2019,Los Angeles Dodgers,Miami Marlins,R,L
+23-08-2019,Philadelphia Phillies,Miami Marlins,R,R
+24-08-2019,Philadelphia Phillies,Miami Marlins,R,R
+25-08-2019,Philadelphia Phillies,Miami Marlins,R,R
+26-08-2019,Cincinnati Reds,Miami Marlins,R,R
+27-08-2019,Cincinnati Reds,Miami Marlins,R,L
+28-08-2019,Cincinnati Reds,Miami Marlins,R,R
+29-08-2019,Cincinnati Reds,Miami Marlins,L,R
+06-09-2019,Kansas City Royals,Miami Marlins,R,R
+07-09-2019,Kansas City Royals,Miami Marlins,L,L
+08-09-2019,Kansas City Royals,Miami Marlins,L,R
+09-09-2019,Milwaukee Brewers,Miami Marlins,R,R
+10-09-2019,Milwaukee Brewers,Miami Marlins,R,R
+11-09-2019,Milwaukee Brewers,Miami Marlins,R,R
+12-09-2019,Milwaukee Brewers,Miami Marlins,L,L
+20-09-2019,Washington Nationals,Miami Marlins,R,R
+21-09-2019,Washington Nationals,Miami Marlins,R,R
+22-09-2019,Washington Nationals,Miami Marlins,R,R
+28-03-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+29-03-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+30-03-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+31-03-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+05-04-2019,Chicago Cubs,Milwaukee Brewers,L,R
+06-04-2019,Chicago Cubs,Milwaukee Brewers,L,R
+07-04-2019,Chicago Cubs,Milwaukee Brewers,R,R
+15-04-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+16-04-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+17-04-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+18-04-2019,Los Angeles Dodgers,Milwaukee Brewers,L,R
+19-04-2019,Los Angeles Dodgers,Milwaukee Brewers,R,R
+20-04-2019,Los Angeles Dodgers,Milwaukee Brewers,L,R
+21-04-2019,Los Angeles Dodgers,Milwaukee Brewers,L,R
+29-04-2019,Colorado Rockies,Milwaukee Brewers,L,R
+30-04-2019,Colorado Rockies,Milwaukee Brewers,R,R
+01-05-2019,Colorado Rockies,Milwaukee Brewers,R,R
+02-05-2019,Colorado Rockies,Milwaukee Brewers,R,R
+03-05-2019,New York Mets,Milwaukee Brewers,L,R
+04-05-2019,New York Mets,Milwaukee Brewers,R,L
+05-05-2019,New York Mets,Milwaukee Brewers,L,R
+06-05-2019,Washington Nationals,Milwaukee Brewers,R,R
+07-05-2019,Washington Nationals,Milwaukee Brewers,R,R
+08-05-2019,Washington Nationals,Milwaukee Brewers,R,R
+21-05-2019,Cincinnati Reds,Milwaukee Brewers,R,L
+22-05-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+24-05-2019,Philadelphia Phillies,Milwaukee Brewers,R,R
+25-05-2019,Philadelphia Phillies,Milwaukee Brewers,R,R
+26-05-2019,Philadelphia Phillies,Milwaukee Brewers,R,R
+04-06-2019,Miami Marlins,Milwaukee Brewers,R,R
+05-06-2019,Miami Marlins,Milwaukee Brewers,R,R
+06-06-2019,Miami Marlins,Milwaukee Brewers,L,R
+07-06-2019,Pittsburgh Pirates,Milwaukee Brewers,R,R
+08-06-2019,Pittsburgh Pirates,Milwaukee Brewers,R,R
+09-06-2019,Pittsburgh Pirates,Milwaukee Brewers,L,R
+20-06-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+21-06-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+22-06-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+23-06-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+25-06-2019,Seattle Mariners,Milwaukee Brewers,L,R
+26-06-2019,Seattle Mariners,Milwaukee Brewers,R,R
+27-06-2019,Seattle Mariners,Milwaukee Brewers,R,R
+28-06-2019,Pittsburgh Pirates,Milwaukee Brewers,R,R
+29-06-2019,Pittsburgh Pirates,Milwaukee Brewers,R,R
+30-06-2019,Pittsburgh Pirates,Milwaukee Brewers,L,R
+12-07-2019,San Francisco Giants,Milwaukee Brewers,R,R
+13-07-2019,San Francisco Giants,Milwaukee Brewers,L,R
+14-07-2019,San Francisco Giants,Milwaukee Brewers,R,R
+15-07-2019,Atlanta Braves,Milwaukee Brewers,L,R
+16-07-2019,Atlanta Braves,Milwaukee Brewers,R,R
+17-07-2019,Atlanta Braves,Milwaukee Brewers,L,R
+22-07-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+23-07-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+24-07-2019,Cincinnati Reds,Milwaukee Brewers,R,R
+26-07-2019,Chicago Cubs,Milwaukee Brewers,R,L
+27-07-2019,Chicago Cubs,Milwaukee Brewers,L,R
+28-07-2019,Chicago Cubs,Milwaukee Brewers,L,R
+09-08-2019,Texas Rangers,Milwaukee Brewers,L,L
+10-08-2019,Texas Rangers,Milwaukee Brewers,R,R
+11-08-2019,Texas Rangers,Milwaukee Brewers,L,R
+13-08-2019,Minnesota Twins,Milwaukee Brewers,L,R
+14-08-2019,Minnesota Twins,Milwaukee Brewers,R,L
+23-08-2019,Arizona Diamondbacks,Milwaukee Brewers,R,R
+24-08-2019,Arizona Diamondbacks,Milwaukee Brewers,R,R
+25-08-2019,Arizona Diamondbacks,Milwaukee Brewers,L,R
+26-08-2019,St. Louis Cardinals,Milwaukee Brewers,R,L
+27-08-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+28-08-2019,St. Louis Cardinals,Milwaukee Brewers,R,R
+02-09-2019,Houston Astros,Milwaukee Brewers,R,R
+03-09-2019,Houston Astros,Milwaukee Brewers,R,R
+05-09-2019,Chicago Cubs,Milwaukee Brewers,L,R
+06-09-2019,Chicago Cubs,Milwaukee Brewers,L,R
+07-09-2019,Chicago Cubs,Milwaukee Brewers,R,L
+08-09-2019,Chicago Cubs,Milwaukee Brewers,L,R
+16-09-2019,San Diego Padres,Milwaukee Brewers,R,R
+17-09-2019,San Diego Padres,Milwaukee Brewers,R,R
+18-09-2019,San Diego Padres,Milwaukee Brewers,R,R
+19-09-2019,San Diego Padres,Milwaukee Brewers,L,R
+20-09-2019,Pittsburgh Pirates,Milwaukee Brewers,L,R
+21-09-2019,Pittsburgh Pirates,Milwaukee Brewers,R,R
+22-09-2019,Pittsburgh Pirates,Milwaukee Brewers,R,R
+28-03-2019,Cleveland Indians,Minnesota Twins,R,R
+30-03-2019,Cleveland Indians,Minnesota Twins,R,R
+31-03-2019,Cleveland Indians,Minnesota Twins,R,R
+13-04-2019,Detroit Tigers,Minnesota Twins,R,R
+14-04-2019,Detroit Tigers,Minnesota Twins,R,R
+15-04-2019,Toronto Blue Jays,Minnesota Twins,R,L
+16-04-2019,Toronto Blue Jays,Minnesota Twins,R,R
+17-04-2019,Toronto Blue Jays,Minnesota Twins,R,R
+18-04-2019,Toronto Blue Jays,Minnesota Twins,R,R
+26-04-2019,Baltimore Orioles,Minnesota Twins,R,L
+27-04-2019,Baltimore Orioles,Minnesota Twins,R,R
+28-04-2019,Baltimore Orioles,Minnesota Twins,R,R
+29-04-2019,Houston Astros,Minnesota Twins,R,R
+30-04-2019,Houston Astros,Minnesota Twins,R,R
+01-05-2019,Houston Astros,Minnesota Twins,R,L
+02-05-2019,Houston Astros,Minnesota Twins,R,R
+10-05-2019,Detroit Tigers,Minnesota Twins,R,R
+12-05-2019,Detroit Tigers,Minnesota Twins,L,L
+13-05-2019,Los Angeles Angels,Minnesota Twins,L,R
+14-05-2019,Los Angeles Angels,Minnesota Twins,R,R
+15-05-2019,Los Angeles Angels,Minnesota Twins,R,R
+24-05-2019,Chicago White Sox,Minnesota Twins,R,R
+25-05-2019,Chicago White Sox,Minnesota Twins,L,R
+26-05-2019,Chicago White Sox,Minnesota Twins,R,R
+27-05-2019,Milwaukee Brewers,Minnesota Twins,L,R
+28-05-2019,Milwaukee Brewers,Minnesota Twins,R,L
+11-06-2019,Seattle Mariners,Minnesota Twins,R,L
+12-06-2019,Seattle Mariners,Minnesota Twins,R,R
+13-06-2019,Seattle Mariners,Minnesota Twins,L,R
+14-06-2019,Kansas City Royals,Minnesota Twins,R,R
+15-06-2019,Kansas City Royals,Minnesota Twins,R,R
+16-06-2019,Kansas City Royals,Minnesota Twins,R,L
+17-06-2019,Boston Red Sox,Minnesota Twins,R,R
+18-06-2019,Boston Red Sox,Minnesota Twins,L,R
+19-06-2019,Boston Red Sox,Minnesota Twins,L,R
+25-06-2019,Tampa Bay Rays,Minnesota Twins,L,R
+26-06-2019,Tampa Bay Rays,Minnesota Twins,R,R
+27-06-2019,Tampa Bay Rays,Minnesota Twins,R,L
+05-07-2019,Texas Rangers,Minnesota Twins,R,L
+06-07-2019,Texas Rangers,Minnesota Twins,R,R
+07-07-2019,Texas Rangers,Minnesota Twins,R,R
+16-07-2019,New York Mets,Minnesota Twins,L,R
+17-07-2019,New York Mets,Minnesota Twins,L,L
+18-07-2019,Oakland Athletics,Minnesota Twins,R,R
+19-07-2019,Oakland Athletics,Minnesota Twins,R,R
+20-07-2019,Oakland Athletics,Minnesota Twins,L,R
+21-07-2019,Oakland Athletics,Minnesota Twins,R,R
+22-07-2019,New York Yankees,Minnesota Twins,nan,L
+23-07-2019,New York Yankees,Minnesota Twins,R,R
+24-07-2019,New York Yankees,Minnesota Twins,L,R
+02-08-2019,Kansas City Royals,Minnesota Twins,R,L
+03-08-2019,Kansas City Royals,Minnesota Twins,L,R
+04-08-2019,Kansas City Royals,Minnesota Twins,R,L
+05-08-2019,Atlanta Braves,Minnesota Twins,R,R
+06-08-2019,Atlanta Braves,Minnesota Twins,R,R
+07-08-2019,Atlanta Braves,Minnesota Twins,L,L
+08-08-2019,Cleveland Indians,Minnesota Twins,R,R
+09-08-2019,Cleveland Indians,Minnesota Twins,R,L
+10-08-2019,Cleveland Indians,Minnesota Twins,R,R
+11-08-2019,Cleveland Indians,Minnesota Twins,R,R
+19-08-2019,Chicago White Sox,Minnesota Twins,R,R
+20-08-2019,Chicago White Sox,Minnesota Twins,R,R
+21-08-2019,Chicago White Sox,Minnesota Twins,R,R
+23-08-2019,Detroit Tigers,Minnesota Twins,R,R
+24-08-2019,Detroit Tigers,Minnesota Twins,R,R
+25-08-2019,Detroit Tigers,Minnesota Twins,L,L
+06-09-2019,Cleveland Indians,Minnesota Twins,R,R
+07-09-2019,Cleveland Indians,Minnesota Twins,R,R
+08-09-2019,Cleveland Indians,Minnesota Twins,R,R
+10-09-2019,Washington Nationals,Minnesota Twins,R,R
+11-09-2019,Washington Nationals,Minnesota Twins,R,L
+12-09-2019,Washington Nationals,Minnesota Twins,L,R
+16-09-2019,Chicago White Sox,Minnesota Twins,R,R
+17-09-2019,Chicago White Sox,Minnesota Twins,L,L
+18-09-2019,Chicago White Sox,Minnesota Twins,R,R
+19-09-2019,Kansas City Royals,Minnesota Twins,L,R
+20-09-2019,Kansas City Royals,Minnesota Twins,L,R
+21-09-2019,Kansas City Royals,Minnesota Twins,R,R
+22-09-2019,Kansas City Royals,Minnesota Twins,R,L
+07-10-2019,New York Yankees,Minnesota Twins,R,R
+28-03-2019,Baltimore Orioles,New York Yankees,R,R
+30-03-2019,Baltimore Orioles,New York Yankees,R,L
+31-03-2019,Baltimore Orioles,New York Yankees,R,L
+01-04-2019,Detroit Tigers,New York Yankees,R,R
+02-04-2019,Detroit Tigers,New York Yankees,R,R
+03-04-2019,Detroit Tigers,New York Yankees,L,R
+12-04-2019,Chicago White Sox,New York Yankees,R,L
+13-04-2019,Chicago White Sox,New York Yankees,R,nan
+14-04-2019,Chicago White Sox,New York Yankees,L,R
+16-04-2019,Boston Red Sox,New York Yankees,L,L
+17-04-2019,Boston Red Sox,New York Yankees,R,L
+18-04-2019,Kansas City Royals,New York Yankees,R,R
+19-04-2019,Kansas City Royals,New York Yankees,R,nan
+20-04-2019,Kansas City Royals,New York Yankees,R,R
+21-04-2019,Kansas City Royals,New York Yankees,R,L
+03-05-2019,Minnesota Twins,New York Yankees,R,L
+04-05-2019,Minnesota Twins,New York Yankees,R,L
+05-05-2019,Minnesota Twins,New York Yankees,R,R
+06-05-2019,Seattle Mariners,New York Yankees,R,nan
+07-05-2019,Seattle Mariners,New York Yankees,L,R
+08-05-2019,Seattle Mariners,New York Yankees,L,R
+09-05-2019,Seattle Mariners,New York Yankees,R,L
+17-05-2019,Tampa Bay Rays,New York Yankees,R,nan
+18-05-2019,Tampa Bay Rays,New York Yankees,L,R
+19-05-2019,Tampa Bay Rays,New York Yankees,R,R
+27-05-2019,San Diego Padres,New York Yankees,L,R
+28-05-2019,San Diego Padres,New York Yankees,L,R
+29-05-2019,San Diego Padres,New York Yankees,R,L
+31-05-2019,Boston Red Sox,New York Yankees,L,L
+01-06-2019,Boston Red Sox,New York Yankees,R,R
+02-06-2019,Boston Red Sox,New York Yankees,L,nan
+17-06-2019,Tampa Bay Rays,New York Yankees,R,R
+18-06-2019,Tampa Bay Rays,New York Yankees,R,L
+19-06-2019,Tampa Bay Rays,New York Yankees,L,nan
+20-06-2019,Houston Astros,New York Yankees,L,R
+21-06-2019,Houston Astros,New York Yankees,R,L
+22-06-2019,Houston Astros,New York Yankees,L,R
+23-06-2019,Houston Astros,New York Yankees,R,L
+24-06-2019,Toronto Blue Jays,New York Yankees,R,nan
+25-06-2019,Toronto Blue Jays,New York Yankees,L,R
+26-06-2019,Toronto Blue Jays,New York Yankees,R,L
+12-07-2019,Toronto Blue Jays,New York Yankees,R,R
+13-07-2019,Toronto Blue Jays,New York Yankees,L,L
+14-07-2019,Toronto Blue Jays,New York Yankees,R,R
+15-07-2019,Tampa Bay Rays,New York Yankees,L,L
+16-07-2019,Tampa Bay Rays,New York Yankees,R,nan
+19-07-2019,Colorado Rockies,New York Yankees,L,L
+20-07-2019,Colorado Rockies,New York Yankees,R,R
+21-07-2019,Colorado Rockies,New York Yankees,R,L
+30-07-2019,Arizona Diamondbacks,New York Yankees,R,L
+31-07-2019,Arizona Diamondbacks,New York Yankees,R,R
+02-08-2019,Boston Red Sox,New York Yankees,L,L
+04-08-2019,Boston Red Sox,New York Yankees,L,L
+13-08-2019,Baltimore Orioles,New York Yankees,L,R
+14-08-2019,Baltimore Orioles,New York Yankees,R,L
+15-08-2019,Cleveland Indians,New York Yankees,R,R
+16-08-2019,Cleveland Indians,New York Yankees,R,R
+17-08-2019,Cleveland Indians,New York Yankees,R,L
+18-08-2019,Cleveland Indians,New York Yankees,R,nan
+30-08-2019,Oakland Athletics,New York Yankees,L,nan
+31-08-2019,Oakland Athletics,New York Yankees,R,R
+01-09-2019,Oakland Athletics,New York Yankees,L,L
+02-09-2019,Texas Rangers,New York Yankees,L,R
+03-09-2019,Texas Rangers,New York Yankees,R,L
+04-09-2019,Texas Rangers,New York Yankees,R,R
+17-09-2019,Los Angeles Angels,New York Yankees,R,R
+18-09-2019,Los Angeles Angels,New York Yankees,L,nan
+19-09-2019,Los Angeles Angels,New York Yankees,L,R
+20-09-2019,Toronto Blue Jays,New York Yankees,R,L
+21-09-2019,Toronto Blue Jays,New York Yankees,R,L
+22-09-2019,Toronto Blue Jays,New York Yankees,R,R
+04-10-2019,Minnesota Twins,New York Yankees,R,L
+05-10-2019,Minnesota Twins,New York Yankees,R,R
+15-10-2019,Houston Astros,New York Yankees,R,R
+17-10-2019,Houston Astros,New York Yankees,R,R
+18-10-2019,Houston Astros,New York Yankees,R,L
+04-04-2019,Washington Nationals,New York Mets,R,R
+06-04-2019,Washington Nationals,New York Mets,L,L
+07-04-2019,Washington Nationals,New York Mets,R,R
+09-04-2019,Minnesota Twins,New York Mets,R,R
+10-04-2019,Minnesota Twins,New York Mets,R,R
+22-04-2019,Philadelphia Phillies,New York Mets,R,L
+23-04-2019,Philadelphia Phillies,New York Mets,R,R
+24-04-2019,Philadelphia Phillies,New York Mets,R,L
+26-04-2019,Milwaukee Brewers,New York Mets,R,R
+27-04-2019,Milwaukee Brewers,New York Mets,R,R
+28-04-2019,Milwaukee Brewers,New York Mets,L,L
+29-04-2019,Cincinnati Reds,New York Mets,R,R
+30-04-2019,Cincinnati Reds,New York Mets,R,L
+01-05-2019,Cincinnati Reds,New York Mets,R,R
+02-05-2019,Cincinnati Reds,New York Mets,R,R
+10-05-2019,Miami Marlins,New York Mets,R,R
+11-05-2019,Miami Marlins,New York Mets,R,R
+20-05-2019,Washington Nationals,New York Mets,L,R
+21-05-2019,Washington Nationals,New York Mets,R,R
+22-05-2019,Washington Nationals,New York Mets,R,R
+23-05-2019,Washington Nationals,New York Mets,R,L
+24-05-2019,Detroit Tigers,New York Mets,L,R
+25-05-2019,Detroit Tigers,New York Mets,L,L
+26-05-2019,Detroit Tigers,New York Mets,R,R
+04-06-2019,San Francisco Giants,New York Mets,L,R
+05-06-2019,San Francisco Giants,New York Mets,R,L
+06-06-2019,San Francisco Giants,New York Mets,R,R
+07-06-2019,Colorado Rockies,New York Mets,R,R
+08-06-2019,Colorado Rockies,New York Mets,R,L
+09-06-2019,Colorado Rockies,New York Mets,R,R
+13-06-2019,St. Louis Cardinals,New York Mets,R,R
+14-06-2019,St. Louis Cardinals,New York Mets,R,L
+15-06-2019,St. Louis Cardinals,New York Mets,R,R
+16-06-2019,St. Louis Cardinals,New York Mets,R,L
+28-06-2019,Atlanta Braves,New York Mets,R,R
+29-06-2019,Atlanta Braves,New York Mets,R,L
+30-06-2019,Atlanta Braves,New York Mets,L,R
+02-07-2019,New York Yankees,New York Mets,L,R
+03-07-2019,New York Yankees,New York Mets,R,L
+05-07-2019,Philadelphia Phillies,New York Mets,R,R
+06-07-2019,Philadelphia Phillies,New York Mets,R,R
+07-07-2019,Philadelphia Phillies,New York Mets,R,R
+23-07-2019,San Diego Padres,New York Mets,R,L
+24-07-2019,San Diego Padres,New York Mets,R,R
+25-07-2019,San Diego Padres,New York Mets,L,R
+26-07-2019,Pittsburgh Pirates,New York Mets,R,R
+27-07-2019,Pittsburgh Pirates,New York Mets,R,L
+28-07-2019,Pittsburgh Pirates,New York Mets,R,L
+06-08-2019,Miami Marlins,New York Mets,R,R
+07-08-2019,Miami Marlins,New York Mets,R,L
+09-08-2019,Washington Nationals,New York Mets,R,R
+10-08-2019,Washington Nationals,New York Mets,L,R
+11-08-2019,Washington Nationals,New York Mets,R,R
+20-08-2019,Cleveland Indians,New York Mets,R,L
+21-08-2019,Cleveland Indians,New York Mets,R,R
+22-08-2019,Cleveland Indians,New York Mets,R,R
+23-08-2019,Atlanta Braves,New York Mets,R,R
+24-08-2019,Atlanta Braves,New York Mets,L,R
+25-08-2019,Atlanta Braves,New York Mets,L,L
+27-08-2019,Chicago Cubs,New York Mets,R,R
+28-08-2019,Chicago Cubs,New York Mets,R,R
+29-08-2019,Chicago Cubs,New York Mets,L,R
+06-09-2019,Philadelphia Phillies,New York Mets,R,L
+07-09-2019,Philadelphia Phillies,New York Mets,L,R
+08-09-2019,Philadelphia Phillies,New York Mets,R,R
+09-09-2019,Arizona Diamondbacks,New York Mets,R,R
+10-09-2019,Arizona Diamondbacks,New York Mets,R,R
+11-09-2019,Arizona Diamondbacks,New York Mets,L,L
+12-09-2019,Arizona Diamondbacks,New York Mets,L,R
+13-09-2019,Los Angeles Dodgers,New York Mets,L,R
+14-09-2019,Los Angeles Dodgers,New York Mets,L,R
+15-09-2019,Los Angeles Dodgers,New York Mets,R,R
+23-09-2019,Miami Marlins,New York Mets,L,L
+24-09-2019,Miami Marlins,New York Mets,R,R
+25-09-2019,Miami Marlins,New York Mets,R,R
+26-09-2019,Miami Marlins,New York Mets,R,R
+27-09-2019,Atlanta Braves,New York Mets,L,R
+28-09-2019,Atlanta Braves,New York Mets,R,L
+29-09-2019,Atlanta Braves,New York Mets,R,R
+20-03-2019,Seattle Mariners,Oakland Athletics,L,R
+21-03-2019,Seattle Mariners,Oakland Athletics,L,R
+28-03-2019,Los Angeles Angels,Oakland Athletics,R,R
+29-03-2019,Los Angeles Angels,Oakland Athletics,R,R
+30-03-2019,Los Angeles Angels,Oakland Athletics,R,L
+31-03-2019,Los Angeles Angels,Oakland Athletics,L,R
+01-04-2019,Boston Red Sox,Oakland Athletics,L,R
+02-04-2019,Boston Red Sox,Oakland Athletics,L,R
+03-04-2019,Boston Red Sox,Oakland Athletics,R,R
+04-04-2019,Boston Red Sox,Oakland Athletics,L,L
+16-04-2019,Houston Astros,Oakland Athletics,R,R
+17-04-2019,Houston Astros,Oakland Athletics,L,R
+19-04-2019,Toronto Blue Jays,Oakland Athletics,R,R
+20-04-2019,Toronto Blue Jays,Oakland Athletics,R,R
+21-04-2019,Toronto Blue Jays,Oakland Athletics,R,L
+22-04-2019,Texas Rangers,Oakland Athletics,L,R
+23-04-2019,Texas Rangers,Oakland Athletics,R,R
+24-04-2019,Texas Rangers,Oakland Athletics,R,R
+07-05-2019,Cincinnati Reds,Oakland Athletics,R,R
+08-05-2019,Cincinnati Reds,Oakland Athletics,R,L
+09-05-2019,Cincinnati Reds,Oakland Athletics,R,R
+10-05-2019,Cleveland Indians,Oakland Athletics,R,R
+11-05-2019,Cleveland Indians,Oakland Athletics,R,R
+12-05-2019,Cleveland Indians,Oakland Athletics,R,R
+24-05-2019,Seattle Mariners,Oakland Athletics,L,R
+25-05-2019,Seattle Mariners,Oakland Athletics,L,R
+26-05-2019,Seattle Mariners,Oakland Athletics,R,L
+27-05-2019,Los Angeles Angels,Oakland Athletics,R,R
+28-05-2019,Los Angeles Angels,Oakland Athletics,R,R
+29-05-2019,Los Angeles Angels,Oakland Athletics,R,R
+31-05-2019,Houston Astros,Oakland Athletics,R,R
+01-06-2019,Houston Astros,Oakland Athletics,R,L
+02-06-2019,Houston Astros,Oakland Athletics,R,R
+14-06-2019,Seattle Mariners,Oakland Athletics,L,R
+15-06-2019,Seattle Mariners,Oakland Athletics,R,R
+16-06-2019,Seattle Mariners,Oakland Athletics,R,R
+17-06-2019,Baltimore Orioles,Oakland Athletics,R,R
+18-06-2019,Baltimore Orioles,Oakland Athletics,R,L
+19-06-2019,Baltimore Orioles,Oakland Athletics,R,R
+20-06-2019,Tampa Bay Rays,Oakland Athletics,R,R
+21-06-2019,Tampa Bay Rays,Oakland Athletics,R,R
+22-06-2019,Tampa Bay Rays,Oakland Athletics,R,R
+23-06-2019,Tampa Bay Rays,Oakland Athletics,R,L
+02-07-2019,Minnesota Twins,Oakland Athletics,R,R
+03-07-2019,Minnesota Twins,Oakland Athletics,R,R
+04-07-2019,Minnesota Twins,Oakland Athletics,R,R
+12-07-2019,Chicago White Sox,Oakland Athletics,R,R
+13-07-2019,Chicago White Sox,Oakland Athletics,R,R
+14-07-2019,Chicago White Sox,Oakland Athletics,R,L
+16-07-2019,Seattle Mariners,Oakland Athletics,L,R
+17-07-2019,Seattle Mariners,Oakland Athletics,R,R
+25-07-2019,Texas Rangers,Oakland Athletics,R,L
+26-07-2019,Texas Rangers,Oakland Athletics,R,R
+27-07-2019,Texas Rangers,Oakland Athletics,R,R
+28-07-2019,Texas Rangers,Oakland Athletics,R,R
+30-07-2019,Milwaukee Brewers,Oakland Athletics,R,R
+31-07-2019,Milwaukee Brewers,Oakland Athletics,R,L
+01-08-2019,Milwaukee Brewers,Oakland Athletics,R,R
+03-08-2019,St. Louis Cardinals,Oakland Athletics,R,R
+04-08-2019,St. Louis Cardinals,Oakland Athletics,R,R
+15-08-2019,Houston Astros,Oakland Athletics,R,R
+16-08-2019,Houston Astros,Oakland Athletics,R,R
+17-08-2019,Houston Astros,Oakland Athletics,R,R
+18-08-2019,Houston Astros,Oakland Athletics,R,L
+20-08-2019,New York Yankees,Oakland Athletics,R,R
+21-08-2019,New York Yankees,Oakland Athletics,L,R
+22-08-2019,New York Yankees,Oakland Athletics,R,R
+24-08-2019,San Francisco Giants,Oakland Athletics,L,R
+25-08-2019,San Francisco Giants,Oakland Athletics,R,L
+03-09-2019,Los Angeles Angels,Oakland Athletics,R,R
+04-09-2019,Los Angeles Angels,Oakland Athletics,L,R
+05-09-2019,Los Angeles Angels,Oakland Athletics,R,L
+06-09-2019,Detroit Tigers,Oakland Athletics,R,R
+07-09-2019,Detroit Tigers,Oakland Athletics,R,R
+08-09-2019,Detroit Tigers,Oakland Athletics,L,L
+16-09-2019,Kansas City Royals,Oakland Athletics,R,R
+17-09-2019,Kansas City Royals,Oakland Athletics,R,L
+18-09-2019,Kansas City Royals,Oakland Athletics,L,R
+20-09-2019,Texas Rangers,Oakland Athletics,L,R
+21-09-2019,Texas Rangers,Oakland Athletics,L,L
+22-09-2019,Texas Rangers,Oakland Athletics,R,R
+02-10-2019,Tampa Bay Rays,Oakland Athletics,R,L
+28-03-2019,Atlanta Braves,Philadelphia Phillies,R,R
+30-03-2019,Atlanta Braves,Philadelphia Phillies,R,R
+31-03-2019,Atlanta Braves,Philadelphia Phillies,R,R
+05-04-2019,Minnesota Twins,Philadelphia Phillies,R,R
+06-04-2019,Minnesota Twins,Philadelphia Phillies,R,R
+07-04-2019,Minnesota Twins,Philadelphia Phillies,R,R
+08-04-2019,Washington Nationals,Philadelphia Phillies,R,R
+09-04-2019,Washington Nationals,Philadelphia Phillies,R,R
+10-04-2019,Washington Nationals,Philadelphia Phillies,R,R
+15-04-2019,New York Mets,Philadelphia Phillies,R,R
+16-04-2019,New York Mets,Philadelphia Phillies,L,R
+17-04-2019,New York Mets,Philadelphia Phillies,R,R
+25-04-2019,Miami Marlins,Philadelphia Phillies,L,R
+26-04-2019,Miami Marlins,Philadelphia Phillies,R,R
+27-04-2019,Miami Marlins,Philadelphia Phillies,R,R
+28-04-2019,Miami Marlins,Philadelphia Phillies,R,R
+30-04-2019,Detroit Tigers,Philadelphia Phillies,R,R
+01-05-2019,Detroit Tigers,Philadelphia Phillies,L,R
+03-05-2019,Washington Nationals,Philadelphia Phillies,R,R
+04-05-2019,Washington Nationals,Philadelphia Phillies,L,R
+05-05-2019,Washington Nationals,Philadelphia Phillies,R,R
+13-05-2019,Milwaukee Brewers,Philadelphia Phillies,R,R
+14-05-2019,Milwaukee Brewers,Philadelphia Phillies,R,R
+15-05-2019,Milwaukee Brewers,Philadelphia Phillies,L,R
+16-05-2019,Milwaukee Brewers,Philadelphia Phillies,R,R
+17-05-2019,Colorado Rockies,Philadelphia Phillies,R,L
+18-05-2019,Colorado Rockies,Philadelphia Phillies,R,R
+19-05-2019,Colorado Rockies,Philadelphia Phillies,L,R
+28-05-2019,St. Louis Cardinals,Philadelphia Phillies,R,R
+29-05-2019,St. Louis Cardinals,Philadelphia Phillies,L,R
+30-05-2019,St. Louis Cardinals,Philadelphia Phillies,R,R
+07-06-2019,Cincinnati Reds,Philadelphia Phillies,R,R
+08-06-2019,Cincinnati Reds,Philadelphia Phillies,R,R
+09-06-2019,Cincinnati Reds,Philadelphia Phillies,R,R
+10-06-2019,Arizona Diamondbacks,Philadelphia Phillies,R,R
+11-06-2019,Arizona Diamondbacks,Philadelphia Phillies,R,R
+12-06-2019,Arizona Diamondbacks,Philadelphia Phillies,R,R
+21-06-2019,Miami Marlins,Philadelphia Phillies,R,R
+22-06-2019,Miami Marlins,Philadelphia Phillies,R,R
+23-06-2019,Miami Marlins,Philadelphia Phillies,R,R
+24-06-2019,New York Mets,Philadelphia Phillies,L,R
+25-06-2019,New York Mets,Philadelphia Phillies,R,R
+26-06-2019,New York Mets,Philadelphia Phillies,L,R
+27-06-2019,New York Mets,Philadelphia Phillies,R,R
+12-07-2019,Washington Nationals,Philadelphia Phillies,R,R
+13-07-2019,Washington Nationals,Philadelphia Phillies,L,R
+14-07-2019,Washington Nationals,Philadelphia Phillies,R,R
+15-07-2019,Los Angeles Dodgers,Philadelphia Phillies,L,R
+16-07-2019,Los Angeles Dodgers,Philadelphia Phillies,R,R
+17-07-2019,Los Angeles Dodgers,Philadelphia Phillies,R,R
+18-07-2019,Los Angeles Dodgers,Philadelphia Phillies,R,R
+26-07-2019,Atlanta Braves,Philadelphia Phillies,R,R
+27-07-2019,Atlanta Braves,Philadelphia Phillies,L,R
+28-07-2019,Atlanta Braves,Philadelphia Phillies,R,R
+30-07-2019,San Francisco Giants,Philadelphia Phillies,R,L
+31-07-2019,San Francisco Giants,Philadelphia Phillies,R,R
+01-08-2019,San Francisco Giants,Philadelphia Phillies,R,R
+02-08-2019,Chicago White Sox,Philadelphia Phillies,R,L
+03-08-2019,Chicago White Sox,Philadelphia Phillies,L,R
+04-08-2019,Chicago White Sox,Philadelphia Phillies,R,L
+13-08-2019,Chicago Cubs,Philadelphia Phillies,L,L
+14-08-2019,Chicago Cubs,Philadelphia Phillies,L,R
+15-08-2019,Chicago Cubs,Philadelphia Phillies,R,L
+16-08-2019,San Diego Padres,Philadelphia Phillies,R,R
+17-08-2019,San Diego Padres,Philadelphia Phillies,R,R
+18-08-2019,San Diego Padres,Philadelphia Phillies,L,L
+26-08-2019,Pittsburgh Pirates,Philadelphia Phillies,R,L
+27-08-2019,Pittsburgh Pirates,Philadelphia Phillies,L,L
+28-08-2019,Pittsburgh Pirates,Philadelphia Phillies,R,R
+30-08-2019,New York Mets,Philadelphia Phillies,R,R
+31-08-2019,New York Mets,Philadelphia Phillies,L,L
+01-09-2019,New York Mets,Philadelphia Phillies,R,R
+09-09-2019,Atlanta Braves,Philadelphia Phillies,R,R
+10-09-2019,Atlanta Braves,Philadelphia Phillies,L,L
+11-09-2019,Atlanta Braves,Philadelphia Phillies,L,R
+12-09-2019,Atlanta Braves,Philadelphia Phillies,R,L
+14-09-2019,Boston Red Sox,Philadelphia Phillies,L,R
+15-09-2019,Boston Red Sox,Philadelphia Phillies,R,L
+27-09-2019,Miami Marlins,Philadelphia Phillies,R,R
+28-09-2019,Miami Marlins,Philadelphia Phillies,L,R
+29-09-2019,Miami Marlins,Philadelphia Phillies,R,R
+01-04-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+03-04-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+04-04-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+05-04-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+06-04-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+07-04-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+19-04-2019,San Francisco Giants,Pittsburgh Pirates,L,R
+20-04-2019,San Francisco Giants,Pittsburgh Pirates,L,R
+21-04-2019,San Francisco Giants,Pittsburgh Pirates,R,R
+22-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,R,R
+23-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,R,R
+24-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,R,R
+25-04-2019,Arizona Diamondbacks,Pittsburgh Pirates,R,R
+03-05-2019,Oakland Athletics,Pittsburgh Pirates,L,R
+04-05-2019,Oakland Athletics,Pittsburgh Pirates,R,R
+05-05-2019,Oakland Athletics,Pittsburgh Pirates,R,R
+07-05-2019,Texas Rangers,Pittsburgh Pirates,R,L
+08-05-2019,Texas Rangers,Pittsburgh Pirates,R,R
+21-05-2019,Colorado Rockies,Pittsburgh Pirates,R,R
+22-05-2019,Colorado Rockies,Pittsburgh Pirates,R,R
+23-05-2019,Colorado Rockies,Pittsburgh Pirates,R,R
+24-05-2019,Los Angeles Dodgers,Pittsburgh Pirates,R,R
+25-05-2019,Los Angeles Dodgers,Pittsburgh Pirates,L,R
+26-05-2019,Los Angeles Dodgers,Pittsburgh Pirates,R,R
+30-05-2019,Milwaukee Brewers,Pittsburgh Pirates,R,R
+31-05-2019,Milwaukee Brewers,Pittsburgh Pirates,R,R
+01-06-2019,Milwaukee Brewers,Pittsburgh Pirates,R,R
+02-06-2019,Milwaukee Brewers,Pittsburgh Pirates,R,R
+04-06-2019,Atlanta Braves,Pittsburgh Pirates,L,L
+05-06-2019,Atlanta Braves,Pittsburgh Pirates,R,R
+06-06-2019,Atlanta Braves,Pittsburgh Pirates,R,R
+18-06-2019,Detroit Tigers,Pittsburgh Pirates,L,R
+19-06-2019,Detroit Tigers,Pittsburgh Pirates,R,R
+21-06-2019,San Diego Padres,Pittsburgh Pirates,L,R
+22-06-2019,San Diego Padres,Pittsburgh Pirates,R,R
+23-06-2019,San Diego Padres,Pittsburgh Pirates,L,L
+01-07-2019,Chicago Cubs,Pittsburgh Pirates,R,R
+02-07-2019,Chicago Cubs,Pittsburgh Pirates,R,R
+03-07-2019,Chicago Cubs,Pittsburgh Pirates,R,R
+04-07-2019,Chicago Cubs,Pittsburgh Pirates,L,R
+05-07-2019,Milwaukee Brewers,Pittsburgh Pirates,R,L
+06-07-2019,Milwaukee Brewers,Pittsburgh Pirates,R,R
+07-07-2019,Milwaukee Brewers,Pittsburgh Pirates,R,R
+19-07-2019,Philadelphia Phillies,Pittsburgh Pirates,R,R
+20-07-2019,Philadelphia Phillies,Pittsburgh Pirates,R,R
+21-07-2019,Philadelphia Phillies,Pittsburgh Pirates,L,R
+22-07-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+23-07-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+24-07-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+25-07-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+02-08-2019,New York Mets,Pittsburgh Pirates,L,R
+03-08-2019,New York Mets,Pittsburgh Pirates,R,R
+04-08-2019,New York Mets,Pittsburgh Pirates,R,R
+05-08-2019,Milwaukee Brewers,Pittsburgh Pirates,R,R
+06-08-2019,Milwaukee Brewers,Pittsburgh Pirates,R,L
+07-08-2019,Milwaukee Brewers,Pittsburgh Pirates,L,R
+16-08-2019,Chicago Cubs,Pittsburgh Pirates,R,R
+17-08-2019,Chicago Cubs,Pittsburgh Pirates,L,L
+18-08-2019,Chicago Cubs,Pittsburgh Pirates,L,R
+19-08-2019,Washington Nationals,Pittsburgh Pirates,R,R
+20-08-2019,Washington Nationals,Pittsburgh Pirates,R,R
+21-08-2019,Washington Nationals,Pittsburgh Pirates,L,R
+22-08-2019,Washington Nationals,Pittsburgh Pirates,R,L
+23-08-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+24-08-2019,Cincinnati Reds,Pittsburgh Pirates,L,R
+25-08-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+03-09-2019,Miami Marlins,Pittsburgh Pirates,R,R
+04-09-2019,Miami Marlins,Pittsburgh Pirates,R,R
+05-09-2019,Miami Marlins,Pittsburgh Pirates,R,R
+06-09-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+07-09-2019,St. Louis Cardinals,Pittsburgh Pirates,R,L
+08-09-2019,St. Louis Cardinals,Pittsburgh Pirates,R,R
+17-09-2019,Seattle Mariners,Pittsburgh Pirates,L,R
+18-09-2019,Seattle Mariners,Pittsburgh Pirates,R,R
+19-09-2019,Seattle Mariners,Pittsburgh Pirates,L,R
+24-09-2019,Chicago Cubs,Pittsburgh Pirates,R,R
+25-09-2019,Chicago Cubs,Pittsburgh Pirates,L,R
+26-09-2019,Chicago Cubs,Pittsburgh Pirates,L,R
+27-09-2019,Cincinnati Reds,Pittsburgh Pirates,R,L
+28-09-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+29-09-2019,Cincinnati Reds,Pittsburgh Pirates,R,R
+28-03-2019,San Francisco Giants,San Diego Padres,L,L
+29-03-2019,San Francisco Giants,San Diego Padres,L,L
+30-03-2019,San Francisco Giants,San Diego Padres,R,L
+31-03-2019,San Francisco Giants,San Diego Padres,R,R
+01-04-2019,Arizona Diamondbacks,San Diego Padres,R,L
+02-04-2019,Arizona Diamondbacks,San Diego Padres,R,L
+03-04-2019,Arizona Diamondbacks,San Diego Padres,L,L
+15-04-2019,Colorado Rockies,San Diego Padres,R,L
+16-04-2019,Colorado Rockies,San Diego Padres,R,L
+18-04-2019,Cincinnati Reds,San Diego Padres,R,R
+19-04-2019,Cincinnati Reds,San Diego Padres,R,L
+20-04-2019,Cincinnati Reds,San Diego Padres,R,L
+21-04-2019,Cincinnati Reds,San Diego Padres,R,L
+23-04-2019,Seattle Mariners,San Diego Padres,R,L
+24-04-2019,Seattle Mariners,San Diego Padres,R,R
+03-05-2019,Los Angeles Dodgers,San Diego Padres,L,L
+04-05-2019,Los Angeles Dodgers,San Diego Padres,L,L
+05-05-2019,Los Angeles Dodgers,San Diego Padres,R,L
+06-05-2019,New York Mets,San Diego Padres,R,R
+07-05-2019,New York Mets,San Diego Padres,R,R
+08-05-2019,New York Mets,San Diego Padres,R,L
+16-05-2019,Pittsburgh Pirates,San Diego Padres,R,L
+17-05-2019,Pittsburgh Pirates,San Diego Padres,R,L
+18-05-2019,Pittsburgh Pirates,San Diego Padres,R,L
+19-05-2019,Pittsburgh Pirates,San Diego Padres,R,R
+20-05-2019,Arizona Diamondbacks,San Diego Padres,R,R
+21-05-2019,Arizona Diamondbacks,San Diego Padres,R,L
+22-05-2019,Arizona Diamondbacks,San Diego Padres,R,L
+31-05-2019,Miami Marlins,San Diego Padres,L,L
+01-06-2019,Miami Marlins,San Diego Padres,R,L
+02-06-2019,Miami Marlins,San Diego Padres,R,L
+03-06-2019,Philadelphia Phillies,San Diego Padres,R,L
+04-06-2019,Philadelphia Phillies,San Diego Padres,R,R
+05-06-2019,Philadelphia Phillies,San Diego Padres,R,R
+06-06-2019,Washington Nationals,San Diego Padres,L,L
+07-06-2019,Washington Nationals,San Diego Padres,R,L
+08-06-2019,Washington Nationals,San Diego Padres,R,L
+09-06-2019,Washington Nationals,San Diego Padres,R,R
+17-06-2019,Milwaukee Brewers,San Diego Padres,R,L
+18-06-2019,Milwaukee Brewers,San Diego Padres,R,L
+19-06-2019,Milwaukee Brewers,San Diego Padres,R,L
+28-06-2019,St. Louis Cardinals,San Diego Padres,R,L
+29-06-2019,St. Louis Cardinals,San Diego Padres,R,R
+30-06-2019,St. Louis Cardinals,San Diego Padres,R,L
+01-07-2019,San Francisco Giants,San Diego Padres,R,L
+02-07-2019,San Francisco Giants,San Diego Padres,R,L
+03-07-2019,San Francisco Giants,San Diego Padres,R,R
+12-07-2019,Atlanta Braves,San Diego Padres,L,R
+13-07-2019,Atlanta Braves,San Diego Padres,R,L
+14-07-2019,Atlanta Braves,San Diego Padres,R,R
+26-07-2019,San Francisco Giants,San Diego Padres,R,L
+27-07-2019,San Francisco Giants,San Diego Padres,R,R
+28-07-2019,San Francisco Giants,San Diego Padres,L,L
+29-07-2019,Baltimore Orioles,San Diego Padres,R,R
+30-07-2019,Baltimore Orioles,San Diego Padres,R,R
+08-08-2019,Colorado Rockies,San Diego Padres,R,L
+09-08-2019,Colorado Rockies,San Diego Padres,L,R
+10-08-2019,Colorado Rockies,San Diego Padres,R,R
+11-08-2019,Colorado Rockies,San Diego Padres,R,R
+12-08-2019,Tampa Bay Rays,San Diego Padres,R,L
+13-08-2019,Tampa Bay Rays,San Diego Padres,L,L
+14-08-2019,Tampa Bay Rays,San Diego Padres,L,R
+23-08-2019,Boston Red Sox,San Diego Padres,L,R
+24-08-2019,Boston Red Sox,San Diego Padres,R,R
+25-08-2019,Boston Red Sox,San Diego Padres,L,L
+26-08-2019,Los Angeles Dodgers,San Diego Padres,R,L
+27-08-2019,Los Angeles Dodgers,San Diego Padres,R,R
+28-08-2019,Los Angeles Dodgers,San Diego Padres,R,R
+06-09-2019,Colorado Rockies,San Diego Padres,R,R
+07-09-2019,Colorado Rockies,San Diego Padres,R,L
+08-09-2019,Colorado Rockies,San Diego Padres,R,L
+09-09-2019,Chicago Cubs,San Diego Padres,R,R
+10-09-2019,Chicago Cubs,San Diego Padres,L,R
+11-09-2019,Chicago Cubs,San Diego Padres,L,R
+12-09-2019,Chicago Cubs,San Diego Padres,R,R
+20-09-2019,Arizona Diamondbacks,San Diego Padres,R,L
+21-09-2019,Arizona Diamondbacks,San Diego Padres,R,R
+22-09-2019,Arizona Diamondbacks,San Diego Padres,L,R
+24-09-2019,Los Angeles Dodgers,San Diego Padres,L,R
+25-09-2019,Los Angeles Dodgers,San Diego Padres,R,R
+26-09-2019,Los Angeles Dodgers,San Diego Padres,L,L
+28-03-2019,Boston Red Sox,Seattle Mariners,L,L
+29-03-2019,Boston Red Sox,Seattle Mariners,R,L
+30-03-2019,Boston Red Sox,Seattle Mariners,L,R
+31-03-2019,Boston Red Sox,Seattle Mariners,R,L
+01-04-2019,Los Angeles Angels,Seattle Mariners,R,R
+02-04-2019,Los Angeles Angels,Seattle Mariners,R,L
+12-04-2019,Houston Astros,Seattle Mariners,L,L
+13-04-2019,Houston Astros,Seattle Mariners,R,R
+14-04-2019,Houston Astros,Seattle Mariners,R,L
+15-04-2019,Cleveland Indians,Seattle Mariners,R,L
+16-04-2019,Cleveland Indians,Seattle Mariners,R,R
+17-04-2019,Cleveland Indians,Seattle Mariners,R,R
+25-04-2019,Texas Rangers,Seattle Mariners,L,L
+26-04-2019,Texas Rangers,Seattle Mariners,R,L
+27-04-2019,Texas Rangers,Seattle Mariners,L,R
+28-04-2019,Texas Rangers,Seattle Mariners,R,R
+30-04-2019,Chicago Cubs,Seattle Mariners,L,R
+01-05-2019,Chicago Cubs,Seattle Mariners,L,L
+13-05-2019,Oakland Athletics,Seattle Mariners,R,L
+14-05-2019,Oakland Athletics,Seattle Mariners,L,R
+16-05-2019,Minnesota Twins,Seattle Mariners,R,R
+17-05-2019,Minnesota Twins,Seattle Mariners,L,L
+18-05-2019,Minnesota Twins,Seattle Mariners,R,L
+19-05-2019,Minnesota Twins,Seattle Mariners,R,L
+27-05-2019,Texas Rangers,Seattle Mariners,R,L
+28-05-2019,Texas Rangers,Seattle Mariners,R,L
+29-05-2019,Texas Rangers,Seattle Mariners,R,L
+30-05-2019,Los Angeles Angels,Seattle Mariners,R,L
+31-05-2019,Los Angeles Angels,Seattle Mariners,L,R
+01-06-2019,Los Angeles Angels,Seattle Mariners,L,L
+02-06-2019,Los Angeles Angels,Seattle Mariners,L,L
+03-06-2019,Houston Astros,Seattle Mariners,R,R
+04-06-2019,Houston Astros,Seattle Mariners,L,R
+05-06-2019,Houston Astros,Seattle Mariners,R,R
+06-06-2019,Houston Astros,Seattle Mariners,R,R
+17-06-2019,Kansas City Royals,Seattle Mariners,L,R
+18-06-2019,Kansas City Royals,Seattle Mariners,R,L
+19-06-2019,Kansas City Royals,Seattle Mariners,R,L
+20-06-2019,Baltimore Orioles,Seattle Mariners,R,R
+21-06-2019,Baltimore Orioles,Seattle Mariners,L,R
+22-06-2019,Baltimore Orioles,Seattle Mariners,R,L
+23-06-2019,Baltimore Orioles,Seattle Mariners,R,L
+02-07-2019,St. Louis Cardinals,Seattle Mariners,R,R
+03-07-2019,St. Louis Cardinals,Seattle Mariners,R,R
+04-07-2019,St. Louis Cardinals,Seattle Mariners,R,R
+05-07-2019,Oakland Athletics,Seattle Mariners,L,L
+06-07-2019,Oakland Athletics,Seattle Mariners,R,L
+07-07-2019,Oakland Athletics,Seattle Mariners,R,R
+19-07-2019,Los Angeles Angels,Seattle Mariners,R,R
+20-07-2019,Los Angeles Angels,Seattle Mariners,R,R
+21-07-2019,Los Angeles Angels,Seattle Mariners,L,L
+22-07-2019,Texas Rangers,Seattle Mariners,R,L
+23-07-2019,Texas Rangers,Seattle Mariners,L,L
+24-07-2019,Texas Rangers,Seattle Mariners,L,R
+25-07-2019,Detroit Tigers,Seattle Mariners,R,R
+26-07-2019,Detroit Tigers,Seattle Mariners,L,L
+27-07-2019,Detroit Tigers,Seattle Mariners,L,L
+28-07-2019,Detroit Tigers,Seattle Mariners,L,R
+06-08-2019,San Diego Padres,Seattle Mariners,R,R
+07-08-2019,San Diego Padres,Seattle Mariners,L,L
+09-08-2019,Tampa Bay Rays,Seattle Mariners,L,L
+10-08-2019,Tampa Bay Rays,Seattle Mariners,R,R
+11-08-2019,Tampa Bay Rays,Seattle Mariners,L,R
+23-08-2019,Toronto Blue Jays,Seattle Mariners,R,L
+24-08-2019,Toronto Blue Jays,Seattle Mariners,R,R
+25-08-2019,Toronto Blue Jays,Seattle Mariners,R,L
+26-08-2019,New York Yankees,Seattle Mariners,L,R
+27-08-2019,New York Yankees,Seattle Mariners,R,L
+28-08-2019,New York Yankees,Seattle Mariners,L,L
+10-09-2019,Cincinnati Reds,Seattle Mariners,R,L
+11-09-2019,Cincinnati Reds,Seattle Mariners,R,L
+12-09-2019,Cincinnati Reds,Seattle Mariners,R,R
+13-09-2019,Chicago White Sox,Seattle Mariners,R,L
+14-09-2019,Chicago White Sox,Seattle Mariners,R,R
+15-09-2019,Chicago White Sox,Seattle Mariners,R,L
+24-09-2019,Houston Astros,Seattle Mariners,R,R
+25-09-2019,Houston Astros,Seattle Mariners,R,L
+26-09-2019,Oakland Athletics,Seattle Mariners,L,R
+27-09-2019,Oakland Athletics,Seattle Mariners,R,L
+28-09-2019,Oakland Athletics,Seattle Mariners,L,L
+29-09-2019,Oakland Athletics,Seattle Mariners,R,R
+05-04-2019,Tampa Bay Rays,San Francisco Giants,R,R
+06-04-2019,Tampa Bay Rays,San Francisco Giants,R,R
+07-04-2019,Tampa Bay Rays,San Francisco Giants,R,L
+08-04-2019,San Diego Padres,San Francisco Giants,L,L
+09-04-2019,San Diego Padres,San Francisco Giants,L,L
+10-04-2019,San Diego Padres,San Francisco Giants,L,R
+11-04-2019,Colorado Rockies,San Francisco Giants,R,R
+12-04-2019,Colorado Rockies,San Francisco Giants,R,L
+13-04-2019,Colorado Rockies,San Francisco Giants,L,L
+14-04-2019,Colorado Rockies,San Francisco Giants,R,L
+26-04-2019,New York Yankees,San Francisco Giants,L,L
+27-04-2019,New York Yankees,San Francisco Giants,L,L
+28-04-2019,New York Yankees,San Francisco Giants,R,R
+29-04-2019,Los Angeles Dodgers,San Francisco Giants,R,R
+30-04-2019,Los Angeles Dodgers,San Francisco Giants,R,L
+01-05-2019,Los Angeles Dodgers,San Francisco Giants,L,L
+10-05-2019,Cincinnati Reds,San Francisco Giants,R,R
+11-05-2019,Cincinnati Reds,San Francisco Giants,R,R
+12-05-2019,Cincinnati Reds,San Francisco Giants,R,L
+14-05-2019,Toronto Blue Jays,San Francisco Giants,R,R
+15-05-2019,Toronto Blue Jays,San Francisco Giants,R,R
+20-05-2019,Atlanta Braves,San Francisco Giants,R,L
+21-05-2019,Atlanta Braves,San Francisco Giants,R,R
+22-05-2019,Atlanta Braves,San Francisco Giants,L,R
+23-05-2019,Atlanta Braves,San Francisco Giants,R,L
+24-05-2019,Arizona Diamondbacks,San Francisco Giants,L,L
+25-05-2019,Arizona Diamondbacks,San Francisco Giants,R,L
+26-05-2019,Arizona Diamondbacks,San Francisco Giants,R,R
+07-06-2019,Los Angeles Dodgers,San Francisco Giants,L,L
+08-06-2019,Los Angeles Dodgers,San Francisco Giants,L,R
+09-06-2019,Los Angeles Dodgers,San Francisco Giants,R,L
+11-06-2019,San Diego Padres,San Francisco Giants,R,R
+12-06-2019,San Diego Padres,San Francisco Giants,L,R
+14-06-2019,Milwaukee Brewers,San Francisco Giants,R,L
+15-06-2019,Milwaukee Brewers,San Francisco Giants,R,L
+16-06-2019,Milwaukee Brewers,San Francisco Giants,R,R
+24-06-2019,Colorado Rockies,San Francisco Giants,R,L
+25-06-2019,Colorado Rockies,San Francisco Giants,R,L
+26-06-2019,Colorado Rockies,San Francisco Giants,R,R
+27-06-2019,Arizona Diamondbacks,San Francisco Giants,L,R
+28-06-2019,Arizona Diamondbacks,San Francisco Giants,R,R
+29-06-2019,Arizona Diamondbacks,San Francisco Giants,R,L
+30-06-2019,Arizona Diamondbacks,San Francisco Giants,L,L
+05-07-2019,St. Louis Cardinals,San Francisco Giants,R,L
+06-07-2019,St. Louis Cardinals,San Francisco Giants,R,L
+07-07-2019,St. Louis Cardinals,San Francisco Giants,R,R
+18-07-2019,New York Mets,San Francisco Giants,R,L
+19-07-2019,New York Mets,San Francisco Giants,R,R
+20-07-2019,New York Mets,San Francisco Giants,R,R
+21-07-2019,New York Mets,San Francisco Giants,L,L
+22-07-2019,Chicago Cubs,San Francisco Giants,R,R
+23-07-2019,Chicago Cubs,San Francisco Giants,R,L
+24-07-2019,Chicago Cubs,San Francisco Giants,R,R
+05-08-2019,Washington Nationals,San Francisco Giants,R,R
+06-08-2019,Washington Nationals,San Francisco Giants,R,L
+07-08-2019,Washington Nationals,San Francisco Giants,R,R
+08-08-2019,Philadelphia Phillies,San Francisco Giants,R,L
+09-08-2019,Philadelphia Phillies,San Francisco Giants,L,R
+10-08-2019,Philadelphia Phillies,San Francisco Giants,R,R
+11-08-2019,Philadelphia Phillies,San Francisco Giants,R,L
+13-08-2019,Oakland Athletics,San Francisco Giants,L,L
+14-08-2019,Oakland Athletics,San Francisco Giants,R,R
+26-08-2019,Arizona Diamondbacks,San Francisco Giants,L,R
+27-08-2019,Arizona Diamondbacks,San Francisco Giants,R,R
+29-08-2019,San Diego Padres,San Francisco Giants,R,R
+30-08-2019,San Diego Padres,San Francisco Giants,R,L
+31-08-2019,San Diego Padres,San Francisco Giants,L,R
+01-09-2019,San Diego Padres,San Francisco Giants,L,R
+09-09-2019,Pittsburgh Pirates,San Francisco Giants,R,L
+10-09-2019,Pittsburgh Pirates,San Francisco Giants,R,R
+11-09-2019,Pittsburgh Pirates,San Francisco Giants,R,R
+12-09-2019,Pittsburgh Pirates,San Francisco Giants,R,R
+13-09-2019,Miami Marlins,San Francisco Giants,R,R
+14-09-2019,Miami Marlins,San Francisco Giants,R,L
+15-09-2019,Miami Marlins,San Francisco Giants,R,R
+24-09-2019,Colorado Rockies,San Francisco Giants,R,L
+25-09-2019,Colorado Rockies,San Francisco Giants,R,R
+26-09-2019,Colorado Rockies,San Francisco Giants,L,R
+27-09-2019,Los Angeles Dodgers,San Francisco Giants,R,R
+28-09-2019,Los Angeles Dodgers,San Francisco Giants,L,R
+29-09-2019,Los Angeles Dodgers,San Francisco Giants,L,R
+05-04-2019,San Diego Padres,St. Louis Cardinals,L,R
+06-04-2019,San Diego Padres,St. Louis Cardinals,R,R
+07-04-2019,San Diego Padres,St. Louis Cardinals,L,R
+08-04-2019,Los Angeles Dodgers,St. Louis Cardinals,L,R
+09-04-2019,Los Angeles Dodgers,St. Louis Cardinals,R,R
+10-04-2019,Los Angeles Dodgers,St. Louis Cardinals,R,R
+11-04-2019,Los Angeles Dodgers,St. Louis Cardinals,R,R
+19-04-2019,New York Mets,St. Louis Cardinals,L,R
+20-04-2019,New York Mets,St. Louis Cardinals,R,R
+21-04-2019,New York Mets,St. Louis Cardinals,R,R
+22-04-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+23-04-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+24-04-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+26-04-2019,Cincinnati Reds,St. Louis Cardinals,R,R
+27-04-2019,Cincinnati Reds,St. Louis Cardinals,R,R
+28-04-2019,Cincinnati Reds,St. Louis Cardinals,R,R
+06-05-2019,Philadelphia Phillies,St. Louis Cardinals,R,R
+07-05-2019,Philadelphia Phillies,St. Louis Cardinals,R,R
+08-05-2019,Philadelphia Phillies,St. Louis Cardinals,R,R
+09-05-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+10-05-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+11-05-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+12-05-2019,Pittsburgh Pirates,St. Louis Cardinals,L,R
+24-05-2019,Atlanta Braves,St. Louis Cardinals,R,R
+25-05-2019,Atlanta Braves,St. Louis Cardinals,R,R
+26-05-2019,Atlanta Braves,St. Louis Cardinals,R,R
+31-05-2019,Chicago Cubs,St. Louis Cardinals,R,R
+01-06-2019,Chicago Cubs,St. Louis Cardinals,L,R
+02-06-2019,Chicago Cubs,St. Louis Cardinals,L,R
+04-06-2019,Cincinnati Reds,St. Louis Cardinals,R,L
+06-06-2019,Cincinnati Reds,St. Louis Cardinals,R,R
+17-06-2019,Miami Marlins,St. Louis Cardinals,R,R
+18-06-2019,Miami Marlins,St. Louis Cardinals,R,R
+19-06-2019,Miami Marlins,St. Louis Cardinals,R,R
+20-06-2019,Miami Marlins,St. Louis Cardinals,R,R
+21-06-2019,Los Angeles Angels,St. Louis Cardinals,R,R
+22-06-2019,Los Angeles Angels,St. Louis Cardinals,R,R
+23-06-2019,Los Angeles Angels,St. Louis Cardinals,L,R
+25-06-2019,Oakland Athletics,St. Louis Cardinals,R,R
+26-06-2019,Oakland Athletics,St. Louis Cardinals,R,R
+12-07-2019,Arizona Diamondbacks,St. Louis Cardinals,L,R
+13-07-2019,Arizona Diamondbacks,St. Louis Cardinals,R,R
+14-07-2019,Arizona Diamondbacks,St. Louis Cardinals,R,R
+15-07-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+16-07-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+17-07-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+26-07-2019,Houston Astros,St. Louis Cardinals,R,R
+27-07-2019,Houston Astros,St. Louis Cardinals,R,R
+28-07-2019,Houston Astros,St. Louis Cardinals,L,R
+30-07-2019,Chicago Cubs,St. Louis Cardinals,R,R
+31-07-2019,Chicago Cubs,St. Louis Cardinals,R,R
+01-08-2019,Chicago Cubs,St. Louis Cardinals,L,R
+09-08-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+10-08-2019,Pittsburgh Pirates,St. Louis Cardinals,R,R
+11-08-2019,Pittsburgh Pirates,St. Louis Cardinals,L,R
+19-08-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+20-08-2019,Milwaukee Brewers,St. Louis Cardinals,L,R
+21-08-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+22-08-2019,Colorado Rockies,St. Louis Cardinals,R,R
+23-08-2019,Colorado Rockies,St. Louis Cardinals,R,R
+24-08-2019,Colorado Rockies,St. Louis Cardinals,R,R
+25-08-2019,Colorado Rockies,St. Louis Cardinals,R,R
+02-09-2019,San Francisco Giants,St. Louis Cardinals,R,R
+03-09-2019,San Francisco Giants,St. Louis Cardinals,R,R
+04-09-2019,San Francisco Giants,St. Louis Cardinals,L,R
+05-09-2019,San Francisco Giants,St. Louis Cardinals,R,R
+13-09-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+14-09-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+15-09-2019,Milwaukee Brewers,St. Louis Cardinals,R,R
+16-09-2019,Washington Nationals,St. Louis Cardinals,R,R
+17-09-2019,Washington Nationals,St. Louis Cardinals,L,R
+18-09-2019,Washington Nationals,St. Louis Cardinals,R,R
+27-09-2019,Chicago Cubs,St. Louis Cardinals,R,R
+28-09-2019,Chicago Cubs,St. Louis Cardinals,L,R
+29-09-2019,Chicago Cubs,St. Louis Cardinals,L,R
+06-10-2019,Atlanta Braves,St. Louis Cardinals,R,R
+07-10-2019,Atlanta Braves,St. Louis Cardinals,L,R
+11-10-2019,Washington Nationals,St. Louis Cardinals,R,R
+12-10-2019,Washington Nationals,St. Louis Cardinals,R,R
+28-03-2019,Houston Astros,Tampa Bay Rays,R,L
+29-03-2019,Houston Astros,Tampa Bay Rays,R,R
+30-03-2019,Houston Astros,Tampa Bay Rays,R,R
+31-03-2019,Houston Astros,Tampa Bay Rays,L,R
+01-04-2019,Colorado Rockies,Tampa Bay Rays,R,R
+02-04-2019,Colorado Rockies,Tampa Bay Rays,L,L
+03-04-2019,Colorado Rockies,Tampa Bay Rays,R,R
+16-04-2019,Baltimore Orioles,Tampa Bay Rays,R,R
+17-04-2019,Baltimore Orioles,Tampa Bay Rays,R,R
+18-04-2019,Baltimore Orioles,Tampa Bay Rays,R,R
+19-04-2019,Boston Red Sox,Tampa Bay Rays,L,R
+20-04-2019,Boston Red Sox,Tampa Bay Rays,R,R
+21-04-2019,Boston Red Sox,Tampa Bay Rays,L,R
+22-04-2019,Kansas City Royals,Tampa Bay Rays,R,R
+23-04-2019,Kansas City Royals,Tampa Bay Rays,R,R
+24-04-2019,Kansas City Royals,Tampa Bay Rays,R,L
+06-05-2019,Arizona Diamondbacks,Tampa Bay Rays,R,L
+07-05-2019,Arizona Diamondbacks,Tampa Bay Rays,R,R
+08-05-2019,Arizona Diamondbacks,Tampa Bay Rays,L,R
+10-05-2019,New York Yankees,Tampa Bay Rays,R,R
+11-05-2019,New York Yankees,Tampa Bay Rays,nan,R
+12-05-2019,New York Yankees,Tampa Bay Rays,R,L
+21-05-2019,Los Angeles Dodgers,Tampa Bay Rays,L,R
+22-05-2019,Los Angeles Dodgers,Tampa Bay Rays,L,R
+27-05-2019,Toronto Blue Jays,Tampa Bay Rays,R,R
+28-05-2019,Toronto Blue Jays,Tampa Bay Rays,L,R
+29-05-2019,Toronto Blue Jays,Tampa Bay Rays,R,L
+30-05-2019,Minnesota Twins,Tampa Bay Rays,L,R
+31-05-2019,Minnesota Twins,Tampa Bay Rays,R,R
+01-06-2019,Minnesota Twins,Tampa Bay Rays,R,R
+02-06-2019,Minnesota Twins,Tampa Bay Rays,R,L
+10-06-2019,Oakland Athletics,Tampa Bay Rays,R,R
+11-06-2019,Oakland Athletics,Tampa Bay Rays,R,R
+12-06-2019,Oakland Athletics,Tampa Bay Rays,L,R
+13-06-2019,Los Angeles Angels,Tampa Bay Rays,L,L
+14-06-2019,Los Angeles Angels,Tampa Bay Rays,L,L
+15-06-2019,Los Angeles Angels,Tampa Bay Rays,L,R
+16-06-2019,Los Angeles Angels,Tampa Bay Rays,R,R
+28-06-2019,Texas Rangers,Tampa Bay Rays,R,R
+29-06-2019,Texas Rangers,Tampa Bay Rays,R,L
+30-06-2019,Texas Rangers,Tampa Bay Rays,R,L
+01-07-2019,Baltimore Orioles,Tampa Bay Rays,R,R
+02-07-2019,Baltimore Orioles,Tampa Bay Rays,R,R
+03-07-2019,Baltimore Orioles,Tampa Bay Rays,L,R
+04-07-2019,New York Yankees,Tampa Bay Rays,L,R
+05-07-2019,New York Yankees,Tampa Bay Rays,R,L
+06-07-2019,New York Yankees,Tampa Bay Rays,nan,L
+07-07-2019,New York Yankees,Tampa Bay Rays,L,R
+19-07-2019,Chicago White Sox,Tampa Bay Rays,R,L
+20-07-2019,Chicago White Sox,Tampa Bay Rays,R,L
+21-07-2019,Chicago White Sox,Tampa Bay Rays,R,L
+22-07-2019,Boston Red Sox,Tampa Bay Rays,L,L
+23-07-2019,Boston Red Sox,Tampa Bay Rays,L,R
+24-07-2019,Boston Red Sox,Tampa Bay Rays,L,R
+03-08-2019,Miami Marlins,Tampa Bay Rays,R,R
+04-08-2019,Miami Marlins,Tampa Bay Rays,L,R
+05-08-2019,Toronto Blue Jays,Tampa Bay Rays,R,R
+06-08-2019,Toronto Blue Jays,Tampa Bay Rays,R,R
+07-08-2019,Toronto Blue Jays,Tampa Bay Rays,R,L
+16-08-2019,Detroit Tigers,Tampa Bay Rays,L,R
+17-08-2019,Detroit Tigers,Tampa Bay Rays,R,L
+18-08-2019,Detroit Tigers,Tampa Bay Rays,L,R
+19-08-2019,Seattle Mariners,Tampa Bay Rays,L,L
+20-08-2019,Seattle Mariners,Tampa Bay Rays,R,R
+21-08-2019,Seattle Mariners,Tampa Bay Rays,R,R
+30-08-2019,Cleveland Indians,Tampa Bay Rays,R,R
+31-08-2019,Cleveland Indians,Tampa Bay Rays,R,R
+01-09-2019,Cleveland Indians,Tampa Bay Rays,R,R
+02-09-2019,Baltimore Orioles,Tampa Bay Rays,R,L
+05-09-2019,Toronto Blue Jays,Tampa Bay Rays,R,R
+06-09-2019,Toronto Blue Jays,Tampa Bay Rays,R,L
+07-09-2019,Toronto Blue Jays,Tampa Bay Rays,L,R
+08-09-2019,Toronto Blue Jays,Tampa Bay Rays,R,R
+20-09-2019,Boston Red Sox,Tampa Bay Rays,R,R
+21-09-2019,Boston Red Sox,Tampa Bay Rays,R,R
+22-09-2019,Boston Red Sox,Tampa Bay Rays,R,L
+23-09-2019,Boston Red Sox,Tampa Bay Rays,R,L
+24-09-2019,New York Yankees,Tampa Bay Rays,L,R
+25-09-2019,New York Yankees,Tampa Bay Rays,R,R
+07-10-2019,Houston Astros,Tampa Bay Rays,R,R
+08-10-2019,Houston Astros,Tampa Bay Rays,R,R
+28-03-2019,Chicago Cubs,Texas Rangers,L,L
+30-03-2019,Chicago Cubs,Texas Rangers,R,R
+31-03-2019,Chicago Cubs,Texas Rangers,L,R
+01-04-2019,Houston Astros,Texas Rangers,R,L
+02-04-2019,Houston Astros,Texas Rangers,R,R
+03-04-2019,Houston Astros,Texas Rangers,R,L
+12-04-2019,Oakland Athletics,Texas Rangers,R,L
+14-04-2019,Oakland Athletics,Texas Rangers,L,R
+15-04-2019,Los Angeles Angels,Texas Rangers,R,R
+16-04-2019,Los Angeles Angels,Texas Rangers,R,L
+17-04-2019,Los Angeles Angels,Texas Rangers,R,R
+19-04-2019,Houston Astros,Texas Rangers,R,L
+20-04-2019,Houston Astros,Texas Rangers,R,R
+21-04-2019,Houston Astros,Texas Rangers,R,R
+30-04-2019,Pittsburgh Pirates,Texas Rangers,R,R
+01-05-2019,Pittsburgh Pirates,Texas Rangers,R,R
+03-05-2019,Toronto Blue Jays,Texas Rangers,R,L
+04-05-2019,Toronto Blue Jays,Texas Rangers,L,R
+05-05-2019,Toronto Blue Jays,Texas Rangers,R,L
+17-05-2019,St. Louis Cardinals,Texas Rangers,R,R
+18-05-2019,St. Louis Cardinals,Texas Rangers,R,R
+19-05-2019,St. Louis Cardinals,Texas Rangers,R,L
+20-05-2019,Seattle Mariners,Texas Rangers,R,L
+21-05-2019,Seattle Mariners,Texas Rangers,L,R
+22-05-2019,Seattle Mariners,Texas Rangers,L,R
+30-05-2019,Kansas City Royals,Texas Rangers,R,L
+31-05-2019,Kansas City Royals,Texas Rangers,L,R
+01-06-2019,Kansas City Royals,Texas Rangers,R,R
+02-06-2019,Kansas City Royals,Texas Rangers,R,R
+04-06-2019,Baltimore Orioles,Texas Rangers,R,L
+05-06-2019,Baltimore Orioles,Texas Rangers,L,L
+06-06-2019,Baltimore Orioles,Texas Rangers,R,R
+07-06-2019,Oakland Athletics,Texas Rangers,L,R
+09-06-2019,Oakland Athletics,Texas Rangers,R,L
+17-06-2019,Cleveland Indians,Texas Rangers,R,R
+18-06-2019,Cleveland Indians,Texas Rangers,R,R
+19-06-2019,Cleveland Indians,Texas Rangers,R,L
+20-06-2019,Cleveland Indians,Texas Rangers,R,L
+21-06-2019,Chicago White Sox,Texas Rangers,R,R
+22-06-2019,Chicago White Sox,Texas Rangers,R,R
+23-06-2019,Chicago White Sox,Texas Rangers,R,R
+02-07-2019,Los Angeles Angels,Texas Rangers,L,L
+03-07-2019,Los Angeles Angels,Texas Rangers,R,R
+04-07-2019,Los Angeles Angels,Texas Rangers,R,R
+11-07-2019,Houston Astros,Texas Rangers,L,R
+12-07-2019,Houston Astros,Texas Rangers,R,R
+13-07-2019,Houston Astros,Texas Rangers,L,L
+14-07-2019,Houston Astros,Texas Rangers,R,R
+16-07-2019,Arizona Diamondbacks,Texas Rangers,L,R
+17-07-2019,Arizona Diamondbacks,Texas Rangers,L,R
+30-07-2019,Seattle Mariners,Texas Rangers,R,R
+31-07-2019,Seattle Mariners,Texas Rangers,L,L
+02-08-2019,Detroit Tigers,Texas Rangers,L,R
+03-08-2019,Detroit Tigers,Texas Rangers,L,R
+04-08-2019,Detroit Tigers,Texas Rangers,R,R
+15-08-2019,Minnesota Twins,Texas Rangers,R,R
+16-08-2019,Minnesota Twins,Texas Rangers,R,L
+17-08-2019,Minnesota Twins,Texas Rangers,R,R
+18-08-2019,Minnesota Twins,Texas Rangers,L,R
+19-08-2019,Los Angeles Angels,Texas Rangers,L,L
+21-08-2019,Los Angeles Angels,Texas Rangers,L,L
+29-08-2019,Seattle Mariners,Texas Rangers,R,R
+30-08-2019,Seattle Mariners,Texas Rangers,L,L
+31-08-2019,Seattle Mariners,Texas Rangers,L,L
+01-09-2019,Seattle Mariners,Texas Rangers,L,L
+10-09-2019,Tampa Bay Rays,Texas Rangers,L,R
+11-09-2019,Tampa Bay Rays,Texas Rangers,R,R
+12-09-2019,Tampa Bay Rays,Texas Rangers,L,L
+13-09-2019,Oakland Athletics,Texas Rangers,R,L
+14-09-2019,Oakland Athletics,Texas Rangers,R,L
+15-09-2019,Oakland Athletics,Texas Rangers,L,R
+24-09-2019,Boston Red Sox,Texas Rangers,L,R
+25-09-2019,Boston Red Sox,Texas Rangers,R,L
+26-09-2019,Boston Red Sox,Texas Rangers,R,L
+27-09-2019,New York Yankees,Texas Rangers,L,L
+28-09-2019,New York Yankees,Texas Rangers,R,R
+29-09-2019,New York Yankees,Texas Rangers,R,R
+28-03-2019,Detroit Tigers,Toronto Blue Jays,R,R
+29-03-2019,Detroit Tigers,Toronto Blue Jays,L,R
+30-03-2019,Detroit Tigers,Toronto Blue Jays,R,R
+31-03-2019,Detroit Tigers,Toronto Blue Jays,L,R
+01-04-2019,Baltimore Orioles,Toronto Blue Jays,R,R
+02-04-2019,Baltimore Orioles,Toronto Blue Jays,R,R
+03-04-2019,Baltimore Orioles,Toronto Blue Jays,R,R
+12-04-2019,Tampa Bay Rays,Toronto Blue Jays,R,R
+13-04-2019,Tampa Bay Rays,Toronto Blue Jays,L,R
+14-04-2019,Tampa Bay Rays,Toronto Blue Jays,R,R
+23-04-2019,San Francisco Giants,Toronto Blue Jays,R,R
+24-04-2019,San Francisco Giants,Toronto Blue Jays,L,R
+26-04-2019,Oakland Athletics,Toronto Blue Jays,R,R
+27-04-2019,Oakland Athletics,Toronto Blue Jays,L,R
+28-04-2019,Oakland Athletics,Toronto Blue Jays,R,R
+06-05-2019,Minnesota Twins,Toronto Blue Jays,L,R
+07-05-2019,Minnesota Twins,Toronto Blue Jays,R,R
+08-05-2019,Minnesota Twins,Toronto Blue Jays,R,R
+10-05-2019,Chicago White Sox,Toronto Blue Jays,R,R
+11-05-2019,Chicago White Sox,Toronto Blue Jays,R,R
+12-05-2019,Chicago White Sox,Toronto Blue Jays,R,R
+20-05-2019,Boston Red Sox,Toronto Blue Jays,L,R
+21-05-2019,Boston Red Sox,Toronto Blue Jays,L,R
+22-05-2019,Boston Red Sox,Toronto Blue Jays,R,R
+23-05-2019,Boston Red Sox,Toronto Blue Jays,R,L
+24-05-2019,San Diego Padres,Toronto Blue Jays,L,R
+25-05-2019,San Diego Padres,Toronto Blue Jays,R,R
+26-05-2019,San Diego Padres,Toronto Blue Jays,L,R
+04-06-2019,New York Yankees,Toronto Blue Jays,R,L
+05-06-2019,New York Yankees,Toronto Blue Jays,L,R
+06-06-2019,New York Yankees,Toronto Blue Jays,L,R
+07-06-2019,Arizona Diamondbacks,Toronto Blue Jays,R,R
+08-06-2019,Arizona Diamondbacks,Toronto Blue Jays,R,R
+09-06-2019,Arizona Diamondbacks,Toronto Blue Jays,L,L
+17-06-2019,Los Angeles Angels,Toronto Blue Jays,R,R
+18-06-2019,Los Angeles Angels,Toronto Blue Jays,L,R
+19-06-2019,Los Angeles Angels,Toronto Blue Jays,L,R
+20-06-2019,Los Angeles Angels,Toronto Blue Jays,L,L
+28-06-2019,Kansas City Royals,Toronto Blue Jays,L,R
+29-06-2019,Kansas City Royals,Toronto Blue Jays,R,R
+30-06-2019,Kansas City Royals,Toronto Blue Jays,R,R
+01-07-2019,Kansas City Royals,Toronto Blue Jays,R,L
+02-07-2019,Boston Red Sox,Toronto Blue Jays,L,R
+03-07-2019,Boston Red Sox,Toronto Blue Jays,L,R
+04-07-2019,Boston Red Sox,Toronto Blue Jays,R,R
+05-07-2019,Baltimore Orioles,Toronto Blue Jays,R,R
+06-07-2019,Baltimore Orioles,Toronto Blue Jays,R,L
+07-07-2019,Baltimore Orioles,Toronto Blue Jays,R,R
+22-07-2019,Cleveland Indians,Toronto Blue Jays,R,L
+23-07-2019,Cleveland Indians,Toronto Blue Jays,R,R
+24-07-2019,Cleveland Indians,Toronto Blue Jays,R,R
+26-07-2019,Tampa Bay Rays,Toronto Blue Jays,R,R
+27-07-2019,Tampa Bay Rays,Toronto Blue Jays,R,L
+28-07-2019,Tampa Bay Rays,Toronto Blue Jays,R,R
+08-08-2019,New York Yankees,Toronto Blue Jays,R,L
+09-08-2019,New York Yankees,Toronto Blue Jays,L,R
+10-08-2019,New York Yankees,Toronto Blue Jays,R,R
+11-08-2019,New York Yankees,Toronto Blue Jays,R,R
+12-08-2019,Texas Rangers,Toronto Blue Jays,R,R
+13-08-2019,Texas Rangers,Toronto Blue Jays,R,R
+14-08-2019,Texas Rangers,Toronto Blue Jays,L,R
+16-08-2019,Seattle Mariners,Toronto Blue Jays,R,R
+17-08-2019,Seattle Mariners,Toronto Blue Jays,R,R
+18-08-2019,Seattle Mariners,Toronto Blue Jays,L,R
+27-08-2019,Atlanta Braves,Toronto Blue Jays,R,R
+28-08-2019,Atlanta Braves,Toronto Blue Jays,R,R
+30-08-2019,Houston Astros,Toronto Blue Jays,L,R
+31-08-2019,Houston Astros,Toronto Blue Jays,L,R
+01-09-2019,Houston Astros,Toronto Blue Jays,R,R
+10-09-2019,Boston Red Sox,Toronto Blue Jays,R,R
+11-09-2019,Boston Red Sox,Toronto Blue Jays,L,R
+12-09-2019,Boston Red Sox,Toronto Blue Jays,R,R
+13-09-2019,New York Yankees,Toronto Blue Jays,R,L
+14-09-2019,New York Yankees,Toronto Blue Jays,L,R
+15-09-2019,New York Yankees,Toronto Blue Jays,R,R
+23-09-2019,Baltimore Orioles,Toronto Blue Jays,R,R
+24-09-2019,Baltimore Orioles,Toronto Blue Jays,R,L
+25-09-2019,Baltimore Orioles,Toronto Blue Jays,R,R
+27-09-2019,Tampa Bay Rays,Toronto Blue Jays,R,R
+28-09-2019,Tampa Bay Rays,Toronto Blue Jays,L,R
+29-09-2019,Tampa Bay Rays,Toronto Blue Jays,L,R
+28-03-2019,New York Mets,Washington Nationals,R,R
+30-03-2019,New York Mets,Washington Nationals,R,R
+31-03-2019,New York Mets,Washington Nationals,R,L
+02-04-2019,Philadelphia Phillies,Washington Nationals,R,R
+03-04-2019,Philadelphia Phillies,Washington Nationals,R,R
+12-04-2019,Pittsburgh Pirates,Washington Nationals,R,L
+13-04-2019,Pittsburgh Pirates,Washington Nationals,R,R
+14-04-2019,Pittsburgh Pirates,Washington Nationals,R,R
+16-04-2019,San Francisco Giants,Washington Nationals,R,R
+17-04-2019,San Francisco Giants,Washington Nationals,R,R
+18-04-2019,San Francisco Giants,Washington Nationals,L,L
+26-04-2019,San Diego Padres,Washington Nationals,L,R
+27-04-2019,San Diego Padres,Washington Nationals,L,R
+28-04-2019,San Diego Padres,Washington Nationals,L,R
+29-04-2019,St. Louis Cardinals,Washington Nationals,R,L
+30-04-2019,St. Louis Cardinals,Washington Nationals,R,R
+01-05-2019,St. Louis Cardinals,Washington Nationals,R,R
+02-05-2019,St. Louis Cardinals,Washington Nationals,R,R
+14-05-2019,New York Mets,Washington Nationals,R,R
+15-05-2019,New York Mets,Washington Nationals,R,L
+16-05-2019,New York Mets,Washington Nationals,R,R
+17-05-2019,Chicago Cubs,Washington Nationals,L,R
+18-05-2019,Chicago Cubs,Washington Nationals,L,R
+19-05-2019,Chicago Cubs,Washington Nationals,R,R
+24-05-2019,Miami Marlins,Washington Nationals,R,R
+25-05-2019,Miami Marlins,Washington Nationals,R,L
+26-05-2019,Miami Marlins,Washington Nationals,L,R
+27-05-2019,Miami Marlins,Washington Nationals,R,R
+04-06-2019,Chicago White Sox,Washington Nationals,R,R
+05-06-2019,Chicago White Sox,Washington Nationals,R,R
+13-06-2019,Arizona Diamondbacks,Washington Nationals,R,R
+14-06-2019,Arizona Diamondbacks,Washington Nationals,L,R
+15-06-2019,Arizona Diamondbacks,Washington Nationals,R,R
+16-06-2019,Arizona Diamondbacks,Washington Nationals,R,R
+20-06-2019,Philadelphia Phillies,Washington Nationals,R,R
+21-06-2019,Atlanta Braves,Washington Nationals,L,R
+22-06-2019,Atlanta Braves,Washington Nationals,R,R
+23-06-2019,Atlanta Braves,Washington Nationals,R,R
+02-07-2019,Miami Marlins,Washington Nationals,R,L
+03-07-2019,Miami Marlins,Washington Nationals,R,R
+04-07-2019,Miami Marlins,Washington Nationals,R,R
+05-07-2019,Kansas City Royals,Washington Nationals,R,R
+06-07-2019,Kansas City Royals,Washington Nationals,R,R
+07-07-2019,Kansas City Royals,Washington Nationals,R,L
+23-07-2019,Colorado Rockies,Washington Nationals,R,R
+25-07-2019,Colorado Rockies,Washington Nationals,R,R
+26-07-2019,Los Angeles Dodgers,Washington Nationals,L,R
+27-07-2019,Los Angeles Dodgers,Washington Nationals,L,L
+28-07-2019,Los Angeles Dodgers,Washington Nationals,R,R
+29-07-2019,Atlanta Braves,Washington Nationals,L,L
+30-07-2019,Atlanta Braves,Washington Nationals,R,R
+31-07-2019,Atlanta Braves,Washington Nationals,R,R
+12-08-2019,Cincinnati Reds,Washington Nationals,R,R
+13-08-2019,Cincinnati Reds,Washington Nationals,L,R
+14-08-2019,Cincinnati Reds,Washington Nationals,R,R
+16-08-2019,Milwaukee Brewers,Washington Nationals,R,L
+17-08-2019,Milwaukee Brewers,Washington Nationals,R,R
+18-08-2019,Milwaukee Brewers,Washington Nationals,R,R
+27-08-2019,Baltimore Orioles,Washington Nationals,R,L
+28-08-2019,Baltimore Orioles,Washington Nationals,R,R
+30-08-2019,Miami Marlins,Washington Nationals,R,R
+31-08-2019,Miami Marlins,Washington Nationals,R,R
+01-09-2019,Miami Marlins,Washington Nationals,L,L
+02-09-2019,New York Mets,Washington Nationals,R,R
+03-09-2019,New York Mets,Washington Nationals,R,R
+04-09-2019,New York Mets,Washington Nationals,R,R
+13-09-2019,Atlanta Braves,Washington Nationals,R,R
+14-09-2019,Atlanta Braves,Washington Nationals,R,R
+15-09-2019,Atlanta Braves,Washington Nationals,L,R
+23-09-2019,Philadelphia Phillies,Washington Nationals,R,L
+25-09-2019,Philadelphia Phillies,Washington Nationals,L,R
+26-09-2019,Philadelphia Phillies,Washington Nationals,L,R
+27-09-2019,Cleveland Indians,Washington Nationals,R,R
+28-09-2019,Cleveland Indians,Washington Nationals,R,L
+29-09-2019,Cleveland Indians,Washington Nationals,R,R
+01-10-2019,Milwaukee Brewers,Washington Nationals,R,R
+06-10-2019,Los Angeles Dodgers,Washington Nationals,L,R
+07-10-2019,Los Angeles Dodgers,Washington Nationals,L,R
+14-10-2019,St. Louis Cardinals,Washington Nationals,R,R
+15-10-2019,St. Louis Cardinals,Washington Nationals,R,L
+25-10-2019,Houston Astros,Washington Nationals,R,R
+26-10-2019,Houston Astros,Washington Nationals,R,L
+27-10-2019,Houston Astros,Washington Nationals,R,R

@@ -21,14 +21,15 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'hitters_hand' #hitters, hitters_hand
+section = 'hitters_hand' #hitters, hitters_hand, pitchers, pitchers_hand
 
-year = '2020'
+year = '2018'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
 else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
+homeTeams = ['PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam']
 if section == 'hitters':
@@ -36,9 +37,11 @@ if section == 'hitters':
 elif section == 'hitters_hand':
     outputHeaders.extend(['Batter','BatterHand'])
 elif section == 'pitchers':pass
-with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
-    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    statswriter.writerow(outputHeaders)
+elif section == 'pitchers_hand':
+    outputHeaders.extend(['A_SP_Hand','H_SP_Hand'])
+#with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
+#    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+#    statswriter.writerow(outputHeaders)
 
 for hometeami in homeTeams:
     print(hometeami)
@@ -129,7 +132,7 @@ for hometeami in homeTeams:
                                 curHitterHand = np.nan
                             hitter_hand.append(curHitterHand)
                             
-                if section == 'recFIP':
+                if (section == 'pitchers') | (section == 'pitchers_hand'):
                     ## GET STARTING PITCHER STATS FROM PREVIOUS N NUMBER OF GAMES
                     numGames = 3
                     awaySP_link = soup.find(text=lambda n: isinstance(n, Comment) and 'id="div_' + awayTeam.replace(' ','').replace('.','') + 'pitching"' in n)
@@ -139,30 +142,19 @@ for hometeami in homeTeams:
                     homeSP_link = BeautifulSoup(homeSP_link, "lxml")
                     homeSP_link = homeSP_link.select('#div_' + homeTeam.replace(' ','').replace('.','') + 'pitching')[0].select('a')[0]['href'].split('/')[3].split('.')[0]
                     
-                    recent_FIP = []
-                    for curPlayer in [awaySP_link,homeSP_link]:
-                        url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=p&year=" + year
-                        r = requests.get(url, headers=BSheaders)
-                        soup = BeautifulSoup(r.content, "lxml")
-                        dates = [re.sub('\xa0', ' ', x.text).split('(')[0] for x in soup.find_all("td", {"data-stat": "date_game"})]
-                        curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
-                        
-                        statDict = dict()
-                        def recentStat(statDict,curStat):
-                            X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
-                            X = ['0' if x == '' else x for x in X]
-                            if dates.index(curDate)-(numGames+1) < 0:
-                                statDict[curStat] = np.nan
-                            else:
-                                statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames):dates.index(curDate)]])
-                            return statDict
-                        
-                        for curStat in ['HR','BB','HBP','SO','IP']:
-                            statDict = recentStat(statDict,curStat)
-                        statDict['IP'] = (modf(float(statDict['IP']))[0] * 3) + statDict['IP']
-                        if statDict['IP'] == 0: recent_FIP.append(np.nan)
-                        else: recent_FIP.append(((13 * statDict['HR']) + (3*(statDict['BB'] + statDict['HBP'])) - (2*statDict['SO'])) /  
-                                                (statDict['IP'] + 3.214))
+                    if section == 'pitchers':pass
+                    elif section == 'pitchers_hand':
+                        pitcher_hand = []
+                        for curPlayer in [awaySP_link,homeSP_link]:
+                            try:
+                                url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=b&year=" + year
+                                r = requests.get(url, headers=BSheaders)
+                                soup = BeautifulSoup(r.content, "lxml")
+                                curPitcherHand = soup.find_all("div", {"itemtype": "https://schema.org/Person"})[0].find_all("p")[1].text.split(':')[2][1]
+                            except:
+                                curPitcherHand = np.nan
+                            pitcher_hand.append(curPitcherHand)
+                
                 
                 ## WRITE TO CSV
                 homeOrAway = ['Away']*9 + ['Home']*9
@@ -178,6 +170,13 @@ for hometeami in homeTeams:
                             statswriter = csv.writer(csvfile, delimiter=',',
                                                      quotechar='|', quoting=csv.QUOTE_MINIMAL)
                             statswriter.writerow(dataToWrite)
-                elif section == 'pitchers':pass
+                elif (section == 'pitchers') | (section == 'pitchers_hand'):
+                    if section == 'pitchers_hand':
+                        dataToWrite = [date,awayTeam,homeTeam,pitcher_hand[0],pitcher_hand[1]]
+                    
+                    with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'a', newline='') as csvfile:
+                        statswriter = csv.writer(csvfile, delimiter=',',
+                                                 quotechar='|', quoting=csv.QUOTE_MINIMAL)
+                        statswriter.writerow(dataToWrite)
 
             except:pass

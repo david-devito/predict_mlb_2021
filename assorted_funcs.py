@@ -172,7 +172,23 @@ def getrecwOBA(df):
     return df
     
     
-
+def handednessFeatures(df):
+    def handmatchup(x):
+        if x['HomeOrAway'] == 'Away':
+            if x['BatterHand'] == x['H_SP_Hand']:
+                HandMatchup = 'Same'
+            else:
+                HandMatchup = 'Opposite'
+        elif x['HomeOrAway'] == 'Home':
+            if x['BatterHand'] == x['A_SP_Hand']:
+                HandMatchup = 'Same'
+            else:
+                HandMatchup = 'Opposite'
+        return HandMatchup
+    
+    df['HandMatchup'] = df.apply(lambda x: handmatchup(x), axis=1)
+    
+    return df
 
 
 

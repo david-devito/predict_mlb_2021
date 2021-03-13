@@ -27,7 +27,7 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2017,2021):
+for yeari in range(2019,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
@@ -49,6 +49,9 @@ statsDF = assorted_funcs.battingOrderVars(statsDF)
 
 # Add Columns defining recwOBA of current hitter and hitter before and after current hitter in the batting order
 statsDF = assorted_funcs.getrecwOBA(statsDF)
+
+# Get Handedness Matchup between Hitter and Opposing Pitcher
+statsDF = assorted_funcs.handednessFeatures(statsDF)
 
 ## LOAD STATISTICS
 # Load Batting Stats
@@ -74,7 +77,7 @@ for yeari in range(2009,2019):
 # Compile list of statistics by removing irrelevant column names from column list
 battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
 
-
+'''
 # Create columns in stats DataFrame that include each corresponding players stats from current and past years
 #relevantBatStats = relevant_statLists.batterStatList()
 # Loop through each year, batter and statistic
@@ -107,7 +110,7 @@ for curCol in [x for x in statsDF.columns if 'Batter-1_prevY' in x]:
     print(curCol + ' - ' + str(curCorr))
 pd.set_option('display.max_columns', 50)
 sys.exit()
-
+'''
 # Combine stats across hitters
 #X = statsDF.columns[['prevY' in x for x in statsDF.columns]]
 #for yeari in ['prevY']:
@@ -223,6 +226,7 @@ useful_features.extend(['Park_RunsFactor','Park_HRFactor','Park_HFactor','Park_2
 useful_features.extend(['temperature'])
 useful_features.extend(['HomeOdds','OverUnder'])
 useful_features.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
+useful_features.extend(['BatterHand','HandMatchup'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
 # Create Full Features DF
@@ -261,8 +265,8 @@ test_features = scaler.transform(test_features)
 
 # Fit the model
 # Train on all data
-#rf = assorted_funcs.random_forest_reg(train_features, train_labels)
-rf = assorted_funcs.gbtregressor(train_features, train_labels)
+rf = assorted_funcs.random_forest_reg(train_features, train_labels)
+#rf = assorted_funcs.gbtregressor(train_features, train_labels)
 #rf = LinearRegression().fit(train_features, train_labels)
 #rf = Ridge(alpha=0.5).fit(train_features, train_labels)
 
@@ -274,7 +278,7 @@ predictions = rf.predict(test_features)
 resCor = np.corrcoef(predictions,test_labels)
 
 
-'''
+
 # Feature Importances
 importances = rf.feature_importances_
 std = np.std([tree.feature_importances_ for tree in rf.estimators_],
@@ -287,7 +291,7 @@ print("Feature ranking:")
 for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
-'''
+
     
 
 

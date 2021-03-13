@@ -1,0 +1,844 @@
+Date,AwayTeam,HomeTeam,A_SP_Hand,H_SP_Hand
+28-07-2020,Seattle Mariners,Los Angeles Angels,L,L
+29-07-2020,Seattle Mariners,Los Angeles Angels,R,L
+30-07-2020,Seattle Mariners,Los Angeles Angels,L,R
+31-07-2020,Houston Astros,Los Angeles Angels,R,R
+01-08-2020,Houston Astros,Los Angeles Angels,R,R
+02-08-2020,Houston Astros,Los Angeles Angels,R,R
+10-08-2020,Oakland Athletics,Los Angeles Angels,L,R
+11-08-2020,Oakland Athletics,Los Angeles Angels,R,R
+12-08-2020,Oakland Athletics,Los Angeles Angels,R,R
+14-08-2020,Los Angeles Dodgers,Los Angeles Angels,L,L
+15-08-2020,Los Angeles Dodgers,Los Angeles Angels,R,L
+16-08-2020,Los Angeles Dodgers,Los Angeles Angels,R,R
+17-08-2020,San Francisco Giants,Los Angeles Angels,L,R
+18-08-2020,San Francisco Giants,Los Angeles Angels,R,R
+28-08-2020,Seattle Mariners,Los Angeles Angels,L,L
+29-08-2020,Seattle Mariners,Los Angeles Angels,L,R
+30-08-2020,Seattle Mariners,Los Angeles Angels,R,R
+31-08-2020,Seattle Mariners,Los Angeles Angels,L,R
+02-09-2020,San Diego Padres,Los Angeles Angels,R,R
+03-09-2020,San Diego Padres,Los Angeles Angels,R,L
+04-09-2020,Houston Astros,Los Angeles Angels,R,R
+06-09-2020,Houston Astros,Los Angeles Angels,L,R
+15-09-2020,Arizona Diamondbacks,Los Angeles Angels,L,R
+16-09-2020,Arizona Diamondbacks,Los Angeles Angels,L,R
+17-09-2020,Arizona Diamondbacks,Los Angeles Angels,L,R
+18-09-2020,Texas Rangers,Los Angeles Angels,R,R
+19-09-2020,Texas Rangers,Los Angeles Angels,R,L
+20-09-2020,Texas Rangers,Los Angeles Angels,R,R
+21-09-2020,Texas Rangers,Los Angeles Angels,R,R
+30-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,R,L
+31-07-2020,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+01-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+02-08-2020,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+04-08-2020,Houston Astros,Arizona Diamondbacks,R,L
+05-08-2020,Houston Astros,Arizona Diamondbacks,R,L
+06-08-2020,Houston Astros,Arizona Diamondbacks,R,R
+14-08-2020,San Diego Padres,Arizona Diamondbacks,R,R
+15-08-2020,San Diego Padres,Arizona Diamondbacks,R,L
+16-08-2020,San Diego Padres,Arizona Diamondbacks,R,L
+17-08-2020,Oakland Athletics,Arizona Diamondbacks,R,R
+18-08-2020,Oakland Athletics,Arizona Diamondbacks,R,R
+24-08-2020,Colorado Rockies,Arizona Diamondbacks,R,R
+25-08-2020,Colorado Rockies,Arizona Diamondbacks,R,L
+26-08-2020,Colorado Rockies,Arizona Diamondbacks,R,L
+28-08-2020,San Francisco Giants,Arizona Diamondbacks,L,R
+29-08-2020,San Francisco Giants,Arizona Diamondbacks,R,R
+30-08-2020,San Francisco Giants,Arizona Diamondbacks,R,R
+08-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+09-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+10-09-2020,Los Angeles Dodgers,Arizona Diamondbacks,R,L
+11-09-2020,Seattle Mariners,Arizona Diamondbacks,L,L
+12-09-2020,Seattle Mariners,Arizona Diamondbacks,L,R
+13-09-2020,Seattle Mariners,Arizona Diamondbacks,R,R
+22-09-2020,Texas Rangers,Arizona Diamondbacks,R,L
+23-09-2020,Texas Rangers,Arizona Diamondbacks,L,L
+26-09-2020,Colorado Rockies,Arizona Diamondbacks,R,R
+27-09-2020,Colorado Rockies,Arizona Diamondbacks,L,L
+29-07-2020,Tampa Bay Rays,Atlanta Braves,R,R
+30-07-2020,Tampa Bay Rays,Atlanta Braves,L,L
+31-07-2020,New York Mets,Atlanta Braves,R,L
+01-08-2020,New York Mets,Atlanta Braves,R,R
+02-08-2020,New York Mets,Atlanta Braves,L,R
+03-08-2020,New York Mets,Atlanta Braves,R,R
+04-08-2020,Toronto Blue Jays,Atlanta Braves,R,L
+05-08-2020,Toronto Blue Jays,Atlanta Braves,L,L
+06-08-2020,Toronto Blue Jays,Atlanta Braves,R,R
+17-08-2020,Washington Nationals,Atlanta Braves,R,R
+18-08-2020,Washington Nationals,Atlanta Braves,R,R
+21-08-2020,Philadelphia Phillies,Atlanta Braves,R,L
+22-08-2020,Philadelphia Phillies,Atlanta Braves,R,L
+23-08-2020,Philadelphia Phillies,Atlanta Braves,R,R
+05-09-2020,Washington Nationals,Atlanta Braves,R,L
+06-09-2020,Washington Nationals,Atlanta Braves,L,R
+07-09-2020,Miami Marlins,Atlanta Braves,R,R
+08-09-2020,Miami Marlins,Atlanta Braves,R,R
+09-09-2020,Miami Marlins,Atlanta Braves,R,L
+21-09-2020,Miami Marlins,Atlanta Braves,L,R
+22-09-2020,Miami Marlins,Atlanta Braves,R,R
+23-09-2020,Miami Marlins,Atlanta Braves,R,L
+24-09-2020,Miami Marlins,Atlanta Braves,R,R
+25-09-2020,Boston Red Sox,Atlanta Braves,R,R
+26-09-2020,Boston Red Sox,Atlanta Braves,R,L
+27-09-2020,Boston Red Sox,Atlanta Braves,R,R
+30-09-2020,Cincinnati Reds,Atlanta Braves,R,L
+01-10-2020,Cincinnati Reds,Atlanta Braves,R,R
+06-10-2020,Miami Marlins,Atlanta Braves,R,L
+07-10-2020,Miami Marlins,Atlanta Braves,R,R
+14-10-2020,Los Angeles Dodgers,Atlanta Braves,L,R
+15-10-2020,Los Angeles Dodgers,Atlanta Braves,L,R
+16-10-2020,Los Angeles Dodgers,Atlanta Braves,R,L
+29-07-2020,New York Yankees,Baltimore Orioles,R,R
+30-07-2020,New York Yankees,Baltimore Orioles,L,L
+31-07-2020,Tampa Bay Rays,Baltimore Orioles,L,R
+01-08-2020,Tampa Bay Rays,Baltimore Orioles,R,L
+02-08-2020,Tampa Bay Rays,Baltimore Orioles,R,L
+04-08-2020,Miami Marlins,Baltimore Orioles,R,L
+06-08-2020,Miami Marlins,Baltimore Orioles,R,L
+14-08-2020,Washington Nationals,Baltimore Orioles,R,L
+15-08-2020,Washington Nationals,Baltimore Orioles,L,R
+16-08-2020,Washington Nationals,Baltimore Orioles,R,L
+17-08-2020,Toronto Blue Jays,Baltimore Orioles,L,R
+18-08-2020,Toronto Blue Jays,Baltimore Orioles,R,L
+19-08-2020,Toronto Blue Jays,Baltimore Orioles,R,L
+20-08-2020,Boston Red Sox,Baltimore Orioles,R,R
+21-08-2020,Boston Red Sox,Baltimore Orioles,R,L
+22-08-2020,Boston Red Sox,Baltimore Orioles,L,R
+23-08-2020,Boston Red Sox,Baltimore Orioles,R,L
+01-09-2020,New York Mets,Baltimore Orioles,R,R
+02-09-2020,New York Mets,Baltimore Orioles,R,L
+05-09-2020,New York Yankees,Baltimore Orioles,R,L
+06-09-2020,New York Yankees,Baltimore Orioles,R,R
+14-09-2020,Atlanta Braves,Baltimore Orioles,R,R
+15-09-2020,Atlanta Braves,Baltimore Orioles,R,R
+16-09-2020,Atlanta Braves,Baltimore Orioles,L,L
+18-09-2020,Tampa Bay Rays,Baltimore Orioles,R,R
+19-09-2020,Tampa Bay Rays,Baltimore Orioles,R,R
+20-09-2020,Tampa Bay Rays,Baltimore Orioles,L,L
+24-07-2020,Baltimore Orioles,Boston Red Sox,L,R
+25-07-2020,Baltimore Orioles,Boston Red Sox,R,L
+26-07-2020,Baltimore Orioles,Boston Red Sox,L,R
+27-07-2020,New York Mets,Boston Red Sox,R,L
+28-07-2020,New York Mets,Boston Red Sox,L,L
+07-08-2020,Toronto Blue Jays,Boston Red Sox,R,R
+08-08-2020,Toronto Blue Jays,Boston Red Sox,R,R
+09-08-2020,Toronto Blue Jays,Boston Red Sox,R,R
+10-08-2020,Tampa Bay Rays,Boston Red Sox,L,R
+11-08-2020,Tampa Bay Rays,Boston Red Sox,R,L
+12-08-2020,Tampa Bay Rays,Boston Red Sox,L,R
+13-08-2020,Tampa Bay Rays,Boston Red Sox,R,L
+18-08-2020,Philadelphia Phillies,Boston Red Sox,R,R
+19-08-2020,Philadelphia Phillies,Boston Red Sox,R,L
+28-08-2020,Washington Nationals,Boston Red Sox,R,L
+29-08-2020,Washington Nationals,Boston Red Sox,R,R
+30-08-2020,Washington Nationals,Boston Red Sox,R,R
+31-08-2020,Atlanta Braves,Boston Red Sox,L,R
+01-09-2020,Atlanta Braves,Boston Red Sox,R,R
+02-09-2020,Atlanta Braves,Boston Red Sox,L,R
+03-09-2020,Toronto Blue Jays,Boston Red Sox,R,L
+05-09-2020,Toronto Blue Jays,Boston Red Sox,R,R
+06-09-2020,Toronto Blue Jays,Boston Red Sox,L,R
+18-09-2020,New York Yankees,Boston Red Sox,L,L
+19-09-2020,New York Yankees,Boston Red Sox,L,R
+20-09-2020,New York Yankees,Boston Red Sox,R,R
+22-09-2020,Baltimore Orioles,Boston Red Sox,L,R
+23-09-2020,Baltimore Orioles,Boston Red Sox,R,R
+24-09-2020,Baltimore Orioles,Boston Red Sox,R,L
+24-07-2020,Minnesota Twins,Chicago White Sox,R,R
+25-07-2020,Minnesota Twins,Chicago White Sox,R,L
+26-07-2020,Minnesota Twins,Chicago White Sox,R,R
+05-08-2020,Milwaukee Brewers,Chicago White Sox,R,L
+06-08-2020,Milwaukee Brewers,Chicago White Sox,R,L
+07-08-2020,Cleveland Indians,Chicago White Sox,R,R
+08-08-2020,Cleveland Indians,Chicago White Sox,R,R
+09-08-2020,Cleveland Indians,Chicago White Sox,R,R
+16-08-2020,St. Louis Cardinals,Chicago White Sox,R,L
+17-08-2020,Detroit Tigers,Chicago White Sox,L,L
+18-08-2020,Detroit Tigers,Chicago White Sox,L,R
+19-08-2020,Detroit Tigers,Chicago White Sox,R,R
+20-08-2020,Detroit Tigers,Chicago White Sox,R,R
+25-08-2020,Pittsburgh Pirates,Chicago White Sox,L,R
+26-08-2020,Pittsburgh Pirates,Chicago White Sox,R,L
+28-08-2020,Kansas City Royals,Chicago White Sox,L,R
+29-08-2020,Kansas City Royals,Chicago White Sox,R,R
+30-08-2020,Kansas City Royals,Chicago White Sox,L,R
+11-09-2020,Detroit Tigers,Chicago White Sox,R,R
+12-09-2020,Detroit Tigers,Chicago White Sox,R,R
+13-09-2020,Detroit Tigers,Chicago White Sox,R,R
+14-09-2020,Minnesota Twins,Chicago White Sox,R,R
+15-09-2020,Minnesota Twins,Chicago White Sox,R,R
+16-09-2020,Minnesota Twins,Chicago White Sox,R,R
+17-09-2020,Minnesota Twins,Chicago White Sox,R,R
+25-09-2020,Chicago Cubs,Chicago White Sox,R,R
+26-09-2020,Chicago Cubs,Chicago White Sox,L,R
+27-09-2020,Chicago Cubs,Chicago White Sox,R,R
+24-07-2020,Milwaukee Brewers,Chicago Cubs,R,R
+25-07-2020,Milwaukee Brewers,Chicago Cubs,R,R
+26-07-2020,Milwaukee Brewers,Chicago Cubs,R,R
+31-07-2020,Pittsburgh Pirates,Chicago Cubs,R,R
+01-08-2020,Pittsburgh Pirates,Chicago Cubs,R,R
+02-08-2020,Pittsburgh Pirates,Chicago Cubs,L,L
+03-08-2020,Kansas City Royals,Chicago Cubs,L,R
+04-08-2020,Kansas City Royals,Chicago Cubs,R,R
+13-08-2020,Milwaukee Brewers,Chicago Cubs,L,R
+14-08-2020,Milwaukee Brewers,Chicago Cubs,R,R
+15-08-2020,Milwaukee Brewers,Chicago Cubs,R,R
+16-08-2020,Milwaukee Brewers,Chicago Cubs,R,L
+18-08-2020,St. Louis Cardinals,Chicago Cubs,R,R
+21-08-2020,Chicago White Sox,Chicago Cubs,L,L
+22-08-2020,Chicago White Sox,Chicago Cubs,R,R
+23-08-2020,Chicago White Sox,Chicago Cubs,R,R
+04-09-2020,St. Louis Cardinals,Chicago Cubs,R,R
+06-09-2020,St. Louis Cardinals,Chicago Cubs,R,L
+07-09-2020,St. Louis Cardinals,Chicago Cubs,R,R
+08-09-2020,Cincinnati Reds,Chicago Cubs,R,R
+09-09-2020,Cincinnati Reds,Chicago Cubs,R,R
+10-09-2020,Cincinnati Reds,Chicago Cubs,R,R
+15-09-2020,Cleveland Indians,Chicago Cubs,R,R
+16-09-2020,Cleveland Indians,Chicago Cubs,R,L
+18-09-2020,Minnesota Twins,Chicago Cubs,L,R
+19-09-2020,Minnesota Twins,Chicago Cubs,R,R
+20-09-2020,Minnesota Twins,Chicago Cubs,R,R
+30-09-2020,Miami Marlins,Chicago Cubs,R,R
+02-10-2020,Miami Marlins,Chicago Cubs,R,R
+24-07-2020,Detroit Tigers,Cincinnati Reds,L,R
+25-07-2020,Detroit Tigers,Cincinnati Reds,R,R
+26-07-2020,Detroit Tigers,Cincinnati Reds,R,R
+27-07-2020,Chicago Cubs,Cincinnati Reds,L,L
+28-07-2020,Chicago Cubs,Cincinnati Reds,R,R
+29-07-2020,Chicago Cubs,Cincinnati Reds,R,R
+03-08-2020,Cleveland Indians,Cincinnati Reds,R,R
+04-08-2020,Cleveland Indians,Cincinnati Reds,R,R
+11-08-2020,Kansas City Royals,Cincinnati Reds,L,R
+12-08-2020,Kansas City Royals,Cincinnati Reds,R,L
+13-08-2020,Pittsburgh Pirates,Cincinnati Reds,R,R
+14-08-2020,Pittsburgh Pirates,Cincinnati Reds,R,R
+28-08-2020,Chicago Cubs,Cincinnati Reds,R,R
+30-08-2020,Chicago Cubs,Cincinnati Reds,R,R
+31-08-2020,St. Louis Cardinals,Cincinnati Reds,R,R
+01-09-2020,St. Louis Cardinals,Cincinnati Reds,L,R
+02-09-2020,St. Louis Cardinals,Cincinnati Reds,R,R
+15-09-2020,Pittsburgh Pirates,Cincinnati Reds,R,R
+16-09-2020,Pittsburgh Pirates,Cincinnati Reds,R,R
+18-09-2020,Chicago White Sox,Cincinnati Reds,R,R
+19-09-2020,Chicago White Sox,Cincinnati Reds,L,R
+20-09-2020,Chicago White Sox,Cincinnati Reds,R,R
+21-09-2020,Milwaukee Brewers,Cincinnati Reds,R,R
+22-09-2020,Milwaukee Brewers,Cincinnati Reds,L,R
+23-09-2020,Milwaukee Brewers,Cincinnati Reds,R,R
+24-07-2020,Kansas City Royals,Cleveland Indians,L,R
+25-07-2020,Kansas City Royals,Cleveland Indians,R,R
+26-07-2020,Kansas City Royals,Cleveland Indians,R,R
+29-07-2020,Chicago White Sox,Cleveland Indians,R,R
+05-08-2020,Cincinnati Reds,Cleveland Indians,R,R
+06-08-2020,Cincinnati Reds,Cleveland Indians,R,R
+11-08-2020,Chicago Cubs,Cleveland Indians,L,R
+12-08-2020,Chicago Cubs,Cleveland Indians,R,R
+21-08-2020,Detroit Tigers,Cleveland Indians,R,R
+22-08-2020,Detroit Tigers,Cleveland Indians,L,R
+23-08-2020,Detroit Tigers,Cleveland Indians,L,R
+24-08-2020,Minnesota Twins,Cleveland Indians,R,R
+25-08-2020,Minnesota Twins,Cleveland Indians,L,R
+26-08-2020,Minnesota Twins,Cleveland Indians,R,R
+04-09-2020,Milwaukee Brewers,Cleveland Indians,R,R
+05-09-2020,Milwaukee Brewers,Cleveland Indians,R,R
+06-09-2020,Milwaukee Brewers,Cleveland Indians,L,R
+07-09-2020,Kansas City Royals,Cleveland Indians,R,R
+08-09-2020,Kansas City Royals,Cleveland Indians,R,R
+09-09-2020,Kansas City Royals,Cleveland Indians,L,R
+10-09-2020,Kansas City Royals,Cleveland Indians,R,R
+21-09-2020,Chicago White Sox,Cleveland Indians,R,R
+22-09-2020,Chicago White Sox,Cleveland Indians,R,R
+23-09-2020,Chicago White Sox,Cleveland Indians,R,R
+24-09-2020,Chicago White Sox,Cleveland Indians,L,R
+25-09-2020,Pittsburgh Pirates,Cleveland Indians,R,R
+26-09-2020,Pittsburgh Pirates,Cleveland Indians,R,R
+27-09-2020,Pittsburgh Pirates,Cleveland Indians,R,R
+29-09-2020,New York Yankees,Cleveland Indians,R,R
+30-09-2020,New York Yankees,Cleveland Indians,R,R
+31-07-2020,San Diego Padres,Colorado Rockies,R,R
+01-08-2020,San Diego Padres,Colorado Rockies,L,L
+02-08-2020,San Diego Padres,Colorado Rockies,R,R
+03-08-2020,San Francisco Giants,Colorado Rockies,R,R
+04-08-2020,San Francisco Giants,Colorado Rockies,R,R
+05-08-2020,San Francisco Giants,Colorado Rockies,R,R
+06-08-2020,San Francisco Giants,Colorado Rockies,L,L
+10-08-2020,Arizona Diamondbacks,Colorado Rockies,L,R
+11-08-2020,Arizona Diamondbacks,Colorado Rockies,R,L
+12-08-2020,Arizona Diamondbacks,Colorado Rockies,R,R
+14-08-2020,Texas Rangers,Colorado Rockies,R,R
+15-08-2020,Texas Rangers,Colorado Rockies,R,R
+16-08-2020,Texas Rangers,Colorado Rockies,L,R
+19-08-2020,Houston Astros,Colorado Rockies,L,R
+20-08-2020,Houston Astros,Colorado Rockies,R,R
+28-08-2020,San Diego Padres,Colorado Rockies,R,L
+29-08-2020,San Diego Padres,Colorado Rockies,R,R
+30-08-2020,San Diego Padres,Colorado Rockies,R,R
+31-08-2020,San Diego Padres,Colorado Rockies,R,R
+01-09-2020,San Francisco Giants,Colorado Rockies,R,R
+02-09-2020,San Francisco Giants,Colorado Rockies,R,L
+11-09-2020,Los Angeles Angels,Colorado Rockies,R,R
+12-09-2020,Los Angeles Angels,Colorado Rockies,R,L
+13-09-2020,Los Angeles Angels,Colorado Rockies,L,R
+15-09-2020,Oakland Athletics,Colorado Rockies,L,R
+16-09-2020,Oakland Athletics,Colorado Rockies,R,R
+17-09-2020,Los Angeles Dodgers,Colorado Rockies,L,L
+18-09-2020,Los Angeles Dodgers,Colorado Rockies,L,R
+19-09-2020,Los Angeles Dodgers,Colorado Rockies,L,R
+20-09-2020,Los Angeles Dodgers,Colorado Rockies,R,R
+27-07-2020,Kansas City Royals,Detroit Tigers,L,R
+28-07-2020,Kansas City Royals,Detroit Tigers,R,R
+29-07-2020,Kansas City Royals,Detroit Tigers,L,L
+30-07-2020,Kansas City Royals,Detroit Tigers,R,R
+31-07-2020,Cincinnati Reds,Detroit Tigers,R,R
+10-08-2020,Chicago White Sox,Detroit Tigers,L,R
+11-08-2020,Chicago White Sox,Detroit Tigers,L,L
+12-08-2020,Chicago White Sox,Detroit Tigers,R,L
+14-08-2020,Cleveland Indians,Detroit Tigers,R,R
+15-08-2020,Cleveland Indians,Detroit Tigers,R,R
+16-08-2020,Cleveland Indians,Detroit Tigers,R,R
+24-08-2020,Chicago Cubs,Detroit Tigers,R,R
+25-08-2020,Chicago Cubs,Detroit Tigers,R,R
+26-08-2020,Chicago Cubs,Detroit Tigers,L,R
+30-08-2020,Minnesota Twins,Detroit Tigers,R,R
+08-09-2020,Milwaukee Brewers,Detroit Tigers,R,R
+09-09-2020,Milwaukee Brewers,Detroit Tigers,R,L
+15-09-2020,Kansas City Royals,Detroit Tigers,R,L
+16-09-2020,Kansas City Royals,Detroit Tigers,R,L
+17-09-2020,Cleveland Indians,Detroit Tigers,R,R
+18-09-2020,Cleveland Indians,Detroit Tigers,R,R
+19-09-2020,Cleveland Indians,Detroit Tigers,R,R
+20-09-2020,Cleveland Indians,Detroit Tigers,R,L
+24-07-2020,Seattle Mariners,Houston Astros,L,R
+25-07-2020,Seattle Mariners,Houston Astros,R,R
+26-07-2020,Seattle Mariners,Houston Astros,L,R
+27-07-2020,Seattle Mariners,Houston Astros,R,R
+28-07-2020,Los Angeles Dodgers,Houston Astros,R,L
+29-07-2020,Los Angeles Dodgers,Houston Astros,R,R
+10-08-2020,San Francisco Giants,Houston Astros,R,R
+11-08-2020,San Francisco Giants,Houston Astros,L,R
+12-08-2020,San Francisco Giants,Houston Astros,R,R
+14-08-2020,Seattle Mariners,Houston Astros,L,L
+15-08-2020,Seattle Mariners,Houston Astros,L,R
+16-08-2020,Seattle Mariners,Houston Astros,L,R
+17-08-2020,Colorado Rockies,Houston Astros,L,R
+18-08-2020,Colorado Rockies,Houston Astros,R,R
+24-08-2020,Los Angeles Angels,Houston Astros,L,L
+01-09-2020,Texas Rangers,Houston Astros,R,L
+02-09-2020,Texas Rangers,Houston Astros,L,R
+03-09-2020,Texas Rangers,Houston Astros,R,R
+15-09-2020,Texas Rangers,Houston Astros,R,R
+16-09-2020,Texas Rangers,Houston Astros,R,R
+17-09-2020,Texas Rangers,Houston Astros,R,L
+18-09-2020,Arizona Diamondbacks,Houston Astros,R,R
+19-09-2020,Arizona Diamondbacks,Houston Astros,R,R
+20-09-2020,Arizona Diamondbacks,Houston Astros,L,R
+07-10-2020,Oakland Athletics,Houston Astros,L,R
+08-10-2020,Oakland Athletics,Houston Astros,R,R
+13-10-2020,Tampa Bay Rays,Houston Astros,L,R
+14-10-2020,Tampa Bay Rays,Houston Astros,R,R
+15-10-2020,Tampa Bay Rays,Houston Astros,R,R
+31-07-2020,Chicago White Sox,Kansas City Royals,L,L
+01-08-2020,Chicago White Sox,Kansas City Royals,L,R
+02-08-2020,Chicago White Sox,Kansas City Royals,R,R
+05-08-2020,Chicago Cubs,Kansas City Royals,R,L
+06-08-2020,Chicago Cubs,Kansas City Royals,R,R
+07-08-2020,Minnesota Twins,Kansas City Royals,L,R
+08-08-2020,Minnesota Twins,Kansas City Royals,R,L
+09-08-2020,Minnesota Twins,Kansas City Royals,R,R
+21-08-2020,Minnesota Twins,Kansas City Royals,R,L
+22-08-2020,Minnesota Twins,Kansas City Royals,R,R
+23-08-2020,Minnesota Twins,Kansas City Royals,R,L
+31-08-2020,Cleveland Indians,Kansas City Royals,R,R
+01-09-2020,Cleveland Indians,Kansas City Royals,R,R
+02-09-2020,Cleveland Indians,Kansas City Royals,R,R
+03-09-2020,Chicago White Sox,Kansas City Royals,R,L
+04-09-2020,Chicago White Sox,Kansas City Royals,R,R
+05-09-2020,Chicago White Sox,Kansas City Royals,R,L
+06-09-2020,Chicago White Sox,Kansas City Royals,L,R
+11-09-2020,Pittsburgh Pirates,Kansas City Royals,L,L
+12-09-2020,Pittsburgh Pirates,Kansas City Royals,R,R
+13-09-2020,Pittsburgh Pirates,Kansas City Royals,R,R
+21-09-2020,St. Louis Cardinals,Kansas City Royals,R,R
+22-09-2020,St. Louis Cardinals,Kansas City Royals,L,R
+23-09-2020,St. Louis Cardinals,Kansas City Royals,R,L
+24-09-2020,Detroit Tigers,Kansas City Royals,R,L
+25-09-2020,Detroit Tigers,Kansas City Royals,R,R
+26-09-2020,Detroit Tigers,Kansas City Royals,L,R
+27-09-2020,Detroit Tigers,Kansas City Royals,R,R
+23-07-2020,San Francisco Giants,Los Angeles Dodgers,R,R
+24-07-2020,San Francisco Giants,Los Angeles Dodgers,L,R
+25-07-2020,San Francisco Giants,Los Angeles Dodgers,R,L
+26-07-2020,San Francisco Giants,Los Angeles Dodgers,L,L
+07-08-2020,San Francisco Giants,Los Angeles Dodgers,R,L
+08-08-2020,San Francisco Giants,Los Angeles Dodgers,R,L
+09-08-2020,San Francisco Giants,Los Angeles Dodgers,R,R
+10-08-2020,San Diego Padres,Los Angeles Dodgers,R,R
+11-08-2020,San Diego Padres,Los Angeles Dodgers,R,R
+12-08-2020,San Diego Padres,Los Angeles Dodgers,R,R
+13-08-2020,San Diego Padres,Los Angeles Dodgers,R,L
+17-08-2020,Seattle Mariners,Los Angeles Dodgers,R,R
+18-08-2020,Seattle Mariners,Los Angeles Dodgers,L,R
+21-08-2020,Colorado Rockies,Los Angeles Dodgers,R,R
+22-08-2020,Colorado Rockies,Los Angeles Dodgers,L,R
+23-08-2020,Colorado Rockies,Los Angeles Dodgers,R,R
+01-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,L,L
+02-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,R,R
+03-09-2020,Arizona Diamondbacks,Los Angeles Dodgers,R,L
+04-09-2020,Colorado Rockies,Los Angeles Dodgers,R,R
+05-09-2020,Colorado Rockies,Los Angeles Dodgers,R,R
+06-09-2020,Colorado Rockies,Los Angeles Dodgers,R,L
+12-09-2020,Houston Astros,Los Angeles Dodgers,L,L
+13-09-2020,Houston Astros,Los Angeles Dodgers,R,R
+22-09-2020,Oakland Athletics,Los Angeles Dodgers,R,R
+23-09-2020,Oakland Athletics,Los Angeles Dodgers,L,R
+24-09-2020,Oakland Athletics,Los Angeles Dodgers,R,R
+25-09-2020,Los Angeles Angels,Los Angeles Dodgers,L,L
+26-09-2020,Los Angeles Angels,Los Angeles Dodgers,R,R
+27-09-2020,Los Angeles Angels,Los Angeles Dodgers,L,L
+30-09-2020,Milwaukee Brewers,Los Angeles Dodgers,L,R
+01-10-2020,Milwaukee Brewers,Los Angeles Dodgers,R,L
+06-10-2020,San Diego Padres,Los Angeles Dodgers,R,R
+07-10-2020,San Diego Padres,Los Angeles Dodgers,R,L
+12-10-2020,Atlanta Braves,Los Angeles Dodgers,L,R
+13-10-2020,Atlanta Braves,Los Angeles Dodgers,R,R
+17-10-2020,Atlanta Braves,Los Angeles Dodgers,L,R
+18-10-2020,Atlanta Braves,Los Angeles Dodgers,R,R
+20-10-2020,Tampa Bay Rays,Los Angeles Dodgers,R,L
+21-10-2020,Tampa Bay Rays,Los Angeles Dodgers,L,R
+27-10-2020,Tampa Bay Rays,Los Angeles Dodgers,L,R
+14-08-2020,Atlanta Braves,Miami Marlins,R,R
+15-08-2020,Atlanta Braves,Miami Marlins,L,L
+16-08-2020,Atlanta Braves,Miami Marlins,L,R
+17-08-2020,New York Mets,Miami Marlins,R,R
+18-08-2020,New York Mets,Miami Marlins,R,R
+19-08-2020,New York Mets,Miami Marlins,R,R
+28-08-2020,Tampa Bay Rays,Miami Marlins,L,R
+29-08-2020,Tampa Bay Rays,Miami Marlins,L,R
+30-08-2020,Tampa Bay Rays,Miami Marlins,L,R
+01-09-2020,Toronto Blue Jays,Miami Marlins,R,R
+02-09-2020,Toronto Blue Jays,Miami Marlins,L,R
+10-09-2020,Philadelphia Phillies,Miami Marlins,R,R
+12-09-2020,Philadelphia Phillies,Miami Marlins,R,R
+14-09-2020,Philadelphia Phillies,Miami Marlins,R,R
+15-09-2020,Boston Red Sox,Miami Marlins,R,R
+16-09-2020,Boston Red Sox,Miami Marlins,L,L
+17-09-2020,Boston Red Sox,Miami Marlins,R,R
+19-09-2020,Washington Nationals,Miami Marlins,L,R
+08-10-2020,Atlanta Braves,Miami Marlins,R,R
+03-08-2020,Chicago White Sox,Milwaukee Brewers,L,L
+04-08-2020,Chicago White Sox,Milwaukee Brewers,R,R
+07-08-2020,Cincinnati Reds,Milwaukee Brewers,R,L
+08-08-2020,Cincinnati Reds,Milwaukee Brewers,R,L
+09-08-2020,Cincinnati Reds,Milwaukee Brewers,R,R
+10-08-2020,Minnesota Twins,Milwaukee Brewers,R,R
+11-08-2020,Minnesota Twins,Milwaukee Brewers,R,R
+12-08-2020,Minnesota Twins,Milwaukee Brewers,R,L
+24-08-2020,Cincinnati Reds,Milwaukee Brewers,R,L
+25-08-2020,Cincinnati Reds,Milwaukee Brewers,R,R
+28-08-2020,Pittsburgh Pirates,Milwaukee Brewers,L,R
+29-08-2020,Pittsburgh Pirates,Milwaukee Brewers,R,L
+30-08-2020,Pittsburgh Pirates,Milwaukee Brewers,L,R
+31-08-2020,Pittsburgh Pirates,Milwaukee Brewers,R,L
+01-09-2020,Detroit Tigers,Milwaukee Brewers,R,R
+02-09-2020,Detroit Tigers,Milwaukee Brewers,R,R
+11-09-2020,Chicago Cubs,Milwaukee Brewers,L,R
+12-09-2020,Chicago Cubs,Milwaukee Brewers,R,L
+13-09-2020,Chicago Cubs,Milwaukee Brewers,R,R
+15-09-2020,St. Louis Cardinals,Milwaukee Brewers,R,L
+18-09-2020,Kansas City Royals,Milwaukee Brewers,L,R
+19-09-2020,Kansas City Royals,Milwaukee Brewers,L,R
+20-09-2020,Kansas City Royals,Milwaukee Brewers,R,R
+28-07-2020,St. Louis Cardinals,Minnesota Twins,R,R
+29-07-2020,St. Louis Cardinals,Minnesota Twins,R,L
+30-07-2020,Cleveland Indians,Minnesota Twins,R,R
+31-07-2020,Cleveland Indians,Minnesota Twins,R,R
+01-08-2020,Cleveland Indians,Minnesota Twins,R,R
+02-08-2020,Cleveland Indians,Minnesota Twins,R,R
+03-08-2020,Pittsburgh Pirates,Minnesota Twins,L,L
+04-08-2020,Pittsburgh Pirates,Minnesota Twins,R,R
+16-08-2020,Kansas City Royals,Minnesota Twins,R,R
+17-08-2020,Kansas City Royals,Minnesota Twins,L,R
+18-08-2020,Milwaukee Brewers,Minnesota Twins,R,R
+19-08-2020,Milwaukee Brewers,Minnesota Twins,L,L
+20-08-2020,Milwaukee Brewers,Minnesota Twins,R,R
+31-08-2020,Chicago White Sox,Minnesota Twins,R,L
+01-09-2020,Chicago White Sox,Minnesota Twins,L,R
+02-09-2020,Chicago White Sox,Minnesota Twins,R,R
+05-09-2020,Detroit Tigers,Minnesota Twins,L,R
+06-09-2020,Detroit Tigers,Minnesota Twins,R,L
+07-09-2020,Detroit Tigers,Minnesota Twins,R,R
+11-09-2020,Cleveland Indians,Minnesota Twins,R,R
+12-09-2020,Cleveland Indians,Minnesota Twins,R,L
+13-09-2020,Cleveland Indians,Minnesota Twins,R,R
+22-09-2020,Detroit Tigers,Minnesota Twins,L,R
+23-09-2020,Detroit Tigers,Minnesota Twins,R,R
+25-09-2020,Cincinnati Reds,Minnesota Twins,R,R
+26-09-2020,Cincinnati Reds,Minnesota Twins,R,R
+27-09-2020,Cincinnati Reds,Minnesota Twins,R,L
+29-09-2020,Houston Astros,Minnesota Twins,R,R
+30-09-2020,Houston Astros,Minnesota Twins,R,R
+31-07-2020,Boston Red Sox,New York Yankees,R,L
+01-08-2020,Boston Red Sox,New York Yankees,R,R
+02-08-2020,Boston Red Sox,New York Yankees,R,L
+03-08-2020,Philadelphia Phillies,New York Yankees,R,R
+11-08-2020,Atlanta Braves,New York Yankees,R,L
+12-08-2020,Atlanta Braves,New York Yankees,R,R
+14-08-2020,Boston Red Sox,New York Yankees,R,R
+15-08-2020,Boston Red Sox,New York Yankees,R,L
+16-08-2020,Boston Red Sox,New York Yankees,R,L
+17-08-2020,Boston Red Sox,New York Yankees,L,L
+18-08-2020,Tampa Bay Rays,New York Yankees,L,R
+19-08-2020,Tampa Bay Rays,New York Yankees,R,R
+20-08-2020,Tampa Bay Rays,New York Yankees,R,L
+29-08-2020,New York Mets,New York Yankees,R,L
+31-08-2020,Tampa Bay Rays,New York Yankees,R,R
+01-09-2020,Tampa Bay Rays,New York Yankees,R,R
+02-09-2020,Tampa Bay Rays,New York Yankees,R,L
+12-09-2020,Baltimore Orioles,New York Yankees,R,L
+13-09-2020,Baltimore Orioles,New York Yankees,L,L
+15-09-2020,Toronto Blue Jays,New York Yankees,R,R
+16-09-2020,Toronto Blue Jays,New York Yankees,R,R
+17-09-2020,Toronto Blue Jays,New York Yankees,R,R
+25-09-2020,Miami Marlins,New York Yankees,R,L
+26-09-2020,Miami Marlins,New York Yankees,L,R
+27-09-2020,Miami Marlins,New York Yankees,R,R
+07-10-2020,Tampa Bay Rays,New York Yankees,R,R
+08-10-2020,Tampa Bay Rays,New York Yankees,R,L
+24-07-2020,Atlanta Braves,New York Mets,R,R
+25-07-2020,Atlanta Braves,New York Mets,L,L
+26-07-2020,Atlanta Braves,New York Mets,L,R
+29-07-2020,Boston Red Sox,New York Mets,R,R
+30-07-2020,Boston Red Sox,New York Mets,L,L
+07-08-2020,Miami Marlins,New York Mets,R,R
+08-08-2020,Miami Marlins,New York Mets,L,L
+09-08-2020,Miami Marlins,New York Mets,R,R
+10-08-2020,Washington Nationals,New York Mets,L,L
+11-08-2020,Washington Nationals,New York Mets,R,R
+12-08-2020,Washington Nationals,New York Mets,R,R
+13-08-2020,Washington Nationals,New York Mets,R,L
+26-08-2020,Miami Marlins,New York Mets,R,R
+31-08-2020,Miami Marlins,New York Mets,L,R
+03-09-2020,New York Yankees,New York Mets,L,R
+04-09-2020,Philadelphia Phillies,New York Mets,R,R
+05-09-2020,Philadelphia Phillies,New York Mets,R,R
+06-09-2020,Philadelphia Phillies,New York Mets,R,R
+07-09-2020,Philadelphia Phillies,New York Mets,R,L
+08-09-2020,Baltimore Orioles,New York Mets,L,R
+09-09-2020,Baltimore Orioles,New York Mets,R,R
+18-09-2020,Atlanta Braves,New York Mets,L,L
+19-09-2020,Atlanta Braves,New York Mets,R,L
+20-09-2020,Atlanta Braves,New York Mets,R,R
+21-09-2020,Tampa Bay Rays,New York Mets,R,R
+22-09-2020,Tampa Bay Rays,New York Mets,L,R
+23-09-2020,Tampa Bay Rays,New York Mets,R,R
+24-07-2020,Los Angeles Angels,Oakland Athletics,L,R
+25-07-2020,Los Angeles Angels,Oakland Athletics,R,L
+26-07-2020,Los Angeles Angels,Oakland Athletics,R,R
+27-07-2020,Los Angeles Angels,Oakland Athletics,R,R
+28-07-2020,Colorado Rockies,Oakland Athletics,R,R
+29-07-2020,Colorado Rockies,Oakland Athletics,R,R
+04-08-2020,Texas Rangers,Oakland Athletics,R,L
+05-08-2020,Texas Rangers,Oakland Athletics,R,L
+06-08-2020,Texas Rangers,Oakland Athletics,L,R
+07-08-2020,Houston Astros,Oakland Athletics,R,R
+08-08-2020,Houston Astros,Oakland Athletics,L,R
+09-08-2020,Houston Astros,Oakland Athletics,R,L
+19-08-2020,Arizona Diamondbacks,Oakland Athletics,R,L
+20-08-2020,Arizona Diamondbacks,Oakland Athletics,L,L
+21-08-2020,Los Angeles Angels,Oakland Athletics,L,R
+22-08-2020,Los Angeles Angels,Oakland Athletics,R,R
+23-08-2020,Los Angeles Angels,Oakland Athletics,R,R
+04-09-2020,San Diego Padres,Oakland Athletics,R,L
+05-09-2020,San Diego Padres,Oakland Athletics,R,L
+06-09-2020,San Diego Padres,Oakland Athletics,R,R
+07-09-2020,Houston Astros,Oakland Athletics,R,R
+09-09-2020,Houston Astros,Oakland Athletics,R,L
+10-09-2020,Houston Astros,Oakland Athletics,R,L
+18-09-2020,San Francisco Giants,Oakland Athletics,R,R
+19-09-2020,San Francisco Giants,Oakland Athletics,R,L
+20-09-2020,San Francisco Giants,Oakland Athletics,L,L
+25-09-2020,Seattle Mariners,Oakland Athletics,L,R
+27-09-2020,Seattle Mariners,Oakland Athletics,L,R
+29-09-2020,Chicago White Sox,Oakland Athletics,R,L
+30-09-2020,Chicago White Sox,Oakland Athletics,L,R
+01-10-2020,Chicago White Sox,Oakland Athletics,R,R
+05-10-2020,Houston Astros,Oakland Athletics,R,R
+06-10-2020,Houston Astros,Oakland Athletics,L,L
+24-07-2020,Miami Marlins,Philadelphia Phillies,R,R
+25-07-2020,Miami Marlins,Philadelphia Phillies,L,R
+26-07-2020,Miami Marlins,Philadelphia Phillies,R,R
+06-08-2020,New York Yankees,Philadelphia Phillies,L,R
+08-08-2020,Atlanta Braves,Philadelphia Phillies,R,R
+10-08-2020,Atlanta Braves,Philadelphia Phillies,L,R
+11-08-2020,Baltimore Orioles,Philadelphia Phillies,R,R
+12-08-2020,Baltimore Orioles,Philadelphia Phillies,L,R
+13-08-2020,Baltimore Orioles,Philadelphia Phillies,R,R
+14-08-2020,New York Mets,Philadelphia Phillies,R,R
+15-08-2020,New York Mets,Philadelphia Phillies,L,R
+16-08-2020,New York Mets,Philadelphia Phillies,R,R
+28-08-2020,Atlanta Braves,Philadelphia Phillies,L,R
+29-08-2020,Atlanta Braves,Philadelphia Phillies,R,R
+30-08-2020,Atlanta Braves,Philadelphia Phillies,L,R
+31-08-2020,Washington Nationals,Philadelphia Phillies,R,R
+01-09-2020,Washington Nationals,Philadelphia Phillies,L,R
+02-09-2020,Washington Nationals,Philadelphia Phillies,R,R
+03-09-2020,Washington Nationals,Philadelphia Phillies,R,R
+15-09-2020,New York Mets,Philadelphia Phillies,R,R
+16-09-2020,New York Mets,Philadelphia Phillies,R,R
+17-09-2020,New York Mets,Philadelphia Phillies,R,R
+19-09-2020,Toronto Blue Jays,Philadelphia Phillies,L,R
+20-09-2020,Toronto Blue Jays,Philadelphia Phillies,R,R
+27-07-2020,Milwaukee Brewers,Pittsburgh Pirates,R,L
+28-07-2020,Milwaukee Brewers,Pittsburgh Pirates,R,L
+29-07-2020,Milwaukee Brewers,Pittsburgh Pirates,R,R
+05-08-2020,Minnesota Twins,Pittsburgh Pirates,R,R
+06-08-2020,Minnesota Twins,Pittsburgh Pirates,R,R
+07-08-2020,Detroit Tigers,Pittsburgh Pirates,L,R
+08-08-2020,Detroit Tigers,Pittsburgh Pirates,R,L
+09-08-2020,Detroit Tigers,Pittsburgh Pirates,R,L
+18-08-2020,Cleveland Indians,Pittsburgh Pirates,R,R
+19-08-2020,Cleveland Indians,Pittsburgh Pirates,R,L
+20-08-2020,Cleveland Indians,Pittsburgh Pirates,R,R
+21-08-2020,Milwaukee Brewers,Pittsburgh Pirates,R,R
+22-08-2020,Milwaukee Brewers,Pittsburgh Pirates,R,L
+23-08-2020,Milwaukee Brewers,Pittsburgh Pirates,R,R
+01-09-2020,Chicago Cubs,Pittsburgh Pirates,L,R
+02-09-2020,Chicago Cubs,Pittsburgh Pirates,R,R
+03-09-2020,Chicago Cubs,Pittsburgh Pirates,R,R
+05-09-2020,Cincinnati Reds,Pittsburgh Pirates,R,R
+06-09-2020,Cincinnati Reds,Pittsburgh Pirates,R,R
+08-09-2020,Chicago White Sox,Pittsburgh Pirates,R,R
+09-09-2020,Chicago White Sox,Pittsburgh Pirates,R,R
+17-09-2020,St. Louis Cardinals,Pittsburgh Pirates,R,L
+19-09-2020,St. Louis Cardinals,Pittsburgh Pirates,L,R
+20-09-2020,St. Louis Cardinals,Pittsburgh Pirates,R,R
+21-09-2020,Chicago Cubs,Pittsburgh Pirates,L,R
+22-09-2020,Chicago Cubs,Pittsburgh Pirates,L,L
+23-09-2020,Chicago Cubs,Pittsburgh Pirates,R,R
+24-09-2020,Chicago Cubs,Pittsburgh Pirates,R,R
+24-07-2020,Arizona Diamondbacks,San Diego Padres,L,R
+25-07-2020,Arizona Diamondbacks,San Diego Padres,L,R
+26-07-2020,Arizona Diamondbacks,San Diego Padres,R,R
+27-07-2020,Arizona Diamondbacks,San Diego Padres,R,L
+03-08-2020,Los Angeles Dodgers,San Diego Padres,R,R
+04-08-2020,Los Angeles Dodgers,San Diego Padres,R,R
+05-08-2020,Los Angeles Dodgers,San Diego Padres,R,R
+07-08-2020,Arizona Diamondbacks,San Diego Padres,R,R
+08-08-2020,Arizona Diamondbacks,San Diego Padres,R,R
+09-08-2020,Arizona Diamondbacks,San Diego Padres,L,R
+19-08-2020,Texas Rangers,San Diego Padres,R,R
+20-08-2020,Texas Rangers,San Diego Padres,R,R
+21-08-2020,Houston Astros,San Diego Padres,R,R
+22-08-2020,Houston Astros,San Diego Padres,R,R
+23-08-2020,Houston Astros,San Diego Padres,R,L
+25-08-2020,Seattle Mariners,San Diego Padres,L,R
+07-09-2020,Colorado Rockies,San Diego Padres,L,R
+08-09-2020,Colorado Rockies,San Diego Padres,R,R
+09-09-2020,Colorado Rockies,San Diego Padres,R,R
+10-09-2020,San Francisco Giants,San Diego Padres,R,R
+14-09-2020,Los Angeles Dodgers,San Diego Padres,L,R
+15-09-2020,Los Angeles Dodgers,San Diego Padres,R,R
+16-09-2020,Los Angeles Dodgers,San Diego Padres,R,L
+18-09-2020,Seattle Mariners,San Diego Padres,L,R
+19-09-2020,Seattle Mariners,San Diego Padres,L,R
+20-09-2020,Seattle Mariners,San Diego Padres,R,R
+22-09-2020,Los Angeles Angels,San Diego Padres,R,R
+23-09-2020,Los Angeles Angels,San Diego Padres,R,R
+30-09-2020,St. Louis Cardinals,San Diego Padres,L,R
+01-10-2020,St. Louis Cardinals,San Diego Padres,R,R
+02-10-2020,St. Louis Cardinals,San Diego Padres,R,R
+08-10-2020,Los Angeles Dodgers,San Diego Padres,R,L
+31-07-2020,Oakland Athletics,Seattle Mariners,L,R
+01-08-2020,Oakland Athletics,Seattle Mariners,R,L
+02-08-2020,Oakland Athletics,Seattle Mariners,R,R
+03-08-2020,Oakland Athletics,Seattle Mariners,R,L
+04-08-2020,Los Angeles Angels,Seattle Mariners,L,R
+05-08-2020,Los Angeles Angels,Seattle Mariners,R,L
+06-08-2020,Los Angeles Angels,Seattle Mariners,R,R
+07-08-2020,Colorado Rockies,Seattle Mariners,R,L
+08-08-2020,Colorado Rockies,Seattle Mariners,R,L
+09-08-2020,Colorado Rockies,Seattle Mariners,R,L
+19-08-2020,Los Angeles Dodgers,Seattle Mariners,L,R
+20-08-2020,Los Angeles Dodgers,Seattle Mariners,L,L
+21-08-2020,Texas Rangers,Seattle Mariners,L,L
+22-08-2020,Texas Rangers,Seattle Mariners,R,L
+23-08-2020,Texas Rangers,Seattle Mariners,L,R
+04-09-2020,Texas Rangers,Seattle Mariners,R,L
+05-09-2020,Texas Rangers,Seattle Mariners,R,L
+06-09-2020,Texas Rangers,Seattle Mariners,R,R
+07-09-2020,Texas Rangers,Seattle Mariners,L,L
+16-09-2020,San Francisco Giants,Seattle Mariners,L,R
+18-09-2020,San Diego Padres,Seattle Mariners,R,L
+19-09-2020,San Diego Padres,Seattle Mariners,R,L
+20-09-2020,San Diego Padres,Seattle Mariners,R,R
+21-09-2020,Houston Astros,Seattle Mariners,R,L
+22-09-2020,Houston Astros,Seattle Mariners,L,R
+23-09-2020,Houston Astros,Seattle Mariners,R,L
+28-07-2020,San Diego Padres,San Francisco Giants,R,R
+29-07-2020,San Diego Padres,San Francisco Giants,R,R
+30-07-2020,San Diego Padres,San Francisco Giants,R,R
+31-07-2020,Texas Rangers,San Francisco Giants,L,R
+01-08-2020,Texas Rangers,San Francisco Giants,R,L
+02-08-2020,Texas Rangers,San Francisco Giants,L,R
+14-08-2020,Oakland Athletics,San Francisco Giants,L,R
+15-08-2020,Oakland Athletics,San Francisco Giants,L,R
+16-08-2020,Oakland Athletics,San Francisco Giants,R,R
+19-08-2020,Los Angeles Angels,San Francisco Giants,L,R
+20-08-2020,Los Angeles Angels,San Francisco Giants,L,R
+21-08-2020,Arizona Diamondbacks,San Francisco Giants,L,R
+22-08-2020,Arizona Diamondbacks,San Francisco Giants,R,L
+23-08-2020,Arizona Diamondbacks,San Francisco Giants,R,R
+25-08-2020,Los Angeles Dodgers,San Francisco Giants,L,R
+04-09-2020,Arizona Diamondbacks,San Francisco Giants,R,L
+05-09-2020,Arizona Diamondbacks,San Francisco Giants,L,R
+06-09-2020,Arizona Diamondbacks,San Francisco Giants,L,R
+07-09-2020,Arizona Diamondbacks,San Francisco Giants,R,R
+08-09-2020,Seattle Mariners,San Francisco Giants,R,R
+09-09-2020,Seattle Mariners,San Francisco Giants,L,L
+16-09-2020,Seattle Mariners,San Francisco Giants,R,L
+17-09-2020,Seattle Mariners,San Francisco Giants,L,L
+21-09-2020,Colorado Rockies,San Francisco Giants,R,R
+22-09-2020,Colorado Rockies,San Francisco Giants,L,L
+23-09-2020,Colorado Rockies,San Francisco Giants,R,L
+24-09-2020,Colorado Rockies,San Francisco Giants,R,R
+26-09-2020,San Diego Padres,San Francisco Giants,R,R
+27-09-2020,San Diego Padres,San Francisco Giants,L,L
+24-07-2020,Pittsburgh Pirates,St. Louis Cardinals,R,R
+25-07-2020,Pittsburgh Pirates,St. Louis Cardinals,R,R
+26-07-2020,Pittsburgh Pirates,St. Louis Cardinals,R,R
+20-08-2020,Cincinnati Reds,St. Louis Cardinals,R,R
+21-08-2020,Cincinnati Reds,St. Louis Cardinals,R,R
+22-08-2020,Cincinnati Reds,St. Louis Cardinals,L,L
+23-08-2020,Cincinnati Reds,St. Louis Cardinals,R,R
+24-08-2020,Kansas City Royals,St. Louis Cardinals,R,R
+25-08-2020,Kansas City Royals,St. Louis Cardinals,R,R
+26-08-2020,Kansas City Royals,St. Louis Cardinals,R,R
+28-08-2020,Cleveland Indians,St. Louis Cardinals,R,R
+29-08-2020,Cleveland Indians,St. Louis Cardinals,R,R
+30-08-2020,Cleveland Indians,St. Louis Cardinals,R,R
+11-09-2020,Cincinnati Reds,St. Louis Cardinals,R,R
+12-09-2020,Cincinnati Reds,St. Louis Cardinals,R,R
+13-09-2020,Cincinnati Reds,St. Louis Cardinals,R,R
+24-09-2020,Milwaukee Brewers,St. Louis Cardinals,R,L
+26-09-2020,Milwaukee Brewers,St. Louis Cardinals,R,R
+27-09-2020,Milwaukee Brewers,St. Louis Cardinals,L,L
+24-07-2020,Toronto Blue Jays,Tampa Bay Rays,L,R
+25-07-2020,Toronto Blue Jays,Tampa Bay Rays,R,L
+26-07-2020,Toronto Blue Jays,Tampa Bay Rays,R,L
+27-07-2020,Atlanta Braves,Tampa Bay Rays,R,R
+28-07-2020,Atlanta Braves,Tampa Bay Rays,R,R
+04-08-2020,Boston Red Sox,Tampa Bay Rays,R,R
+05-08-2020,Boston Red Sox,Tampa Bay Rays,L,L
+07-08-2020,New York Yankees,Tampa Bay Rays,R,L
+09-08-2020,New York Yankees,Tampa Bay Rays,L,R
+21-08-2020,Toronto Blue Jays,Tampa Bay Rays,R,L
+22-08-2020,Toronto Blue Jays,Tampa Bay Rays,L,R
+23-08-2020,Toronto Blue Jays,Tampa Bay Rays,R,L
+24-08-2020,Toronto Blue Jays,Tampa Bay Rays,R,L
+25-08-2020,Baltimore Orioles,Tampa Bay Rays,L,R
+26-08-2020,Baltimore Orioles,Tampa Bay Rays,R,R
+04-09-2020,Miami Marlins,Tampa Bay Rays,R,L
+05-09-2020,Miami Marlins,Tampa Bay Rays,R,L
+06-09-2020,Miami Marlins,Tampa Bay Rays,L,R
+10-09-2020,Boston Red Sox,Tampa Bay Rays,L,L
+11-09-2020,Boston Red Sox,Tampa Bay Rays,R,L
+12-09-2020,Boston Red Sox,Tampa Bay Rays,R,R
+13-09-2020,Boston Red Sox,Tampa Bay Rays,L,R
+15-09-2020,Washington Nationals,Tampa Bay Rays,R,R
+16-09-2020,Washington Nationals,Tampa Bay Rays,R,R
+25-09-2020,Philadelphia Phillies,Tampa Bay Rays,R,R
+26-09-2020,Philadelphia Phillies,Tampa Bay Rays,R,R
+27-09-2020,Philadelphia Phillies,Tampa Bay Rays,R,L
+29-09-2020,Toronto Blue Jays,Tampa Bay Rays,R,L
+30-09-2020,Toronto Blue Jays,Tampa Bay Rays,L,R
+05-10-2020,New York Yankees,Tampa Bay Rays,R,L
+06-10-2020,New York Yankees,Tampa Bay Rays,R,R
+09-10-2020,New York Yankees,Tampa Bay Rays,R,R
+11-10-2020,Houston Astros,Tampa Bay Rays,L,L
+12-10-2020,Houston Astros,Tampa Bay Rays,R,R
+16-10-2020,Houston Astros,Tampa Bay Rays,L,L
+17-10-2020,Houston Astros,Tampa Bay Rays,R,R
+23-10-2020,Los Angeles Dodgers,Tampa Bay Rays,R,R
+24-10-2020,Los Angeles Dodgers,Tampa Bay Rays,L,L
+25-10-2020,Los Angeles Dodgers,Tampa Bay Rays,L,R
+24-07-2020,Colorado Rockies,Texas Rangers,R,R
+25-07-2020,Colorado Rockies,Texas Rangers,R,L
+26-07-2020,Colorado Rockies,Texas Rangers,L,R
+28-07-2020,Arizona Diamondbacks,Texas Rangers,R,R
+29-07-2020,Arizona Diamondbacks,Texas Rangers,L,R
+07-08-2020,Los Angeles Angels,Texas Rangers,R,R
+08-08-2020,Los Angeles Angels,Texas Rangers,L,L
+09-08-2020,Los Angeles Angels,Texas Rangers,L,R
+10-08-2020,Seattle Mariners,Texas Rangers,R,R
+11-08-2020,Seattle Mariners,Texas Rangers,L,L
+12-08-2020,Seattle Mariners,Texas Rangers,R,R
+17-08-2020,San Diego Padres,Texas Rangers,R,R
+18-08-2020,San Diego Padres,Texas Rangers,L,L
+24-08-2020,Oakland Athletics,Texas Rangers,L,R
+25-08-2020,Oakland Athletics,Texas Rangers,L,R
+26-08-2020,Oakland Athletics,Texas Rangers,R,L
+28-08-2020,Los Angeles Dodgers,Texas Rangers,R,L
+29-08-2020,Los Angeles Dodgers,Texas Rangers,R,R
+30-08-2020,Los Angeles Dodgers,Texas Rangers,R,R
+08-09-2020,Los Angeles Angels,Texas Rangers,L,R
+09-09-2020,Los Angeles Angels,Texas Rangers,R,R
+10-09-2020,Los Angeles Angels,Texas Rangers,R,R
+11-09-2020,Oakland Athletics,Texas Rangers,R,R
+13-09-2020,Oakland Athletics,Texas Rangers,R,R
+24-09-2020,Houston Astros,Texas Rangers,R,R
+25-09-2020,Houston Astros,Texas Rangers,R,R
+26-09-2020,Houston Astros,Texas Rangers,R,R
+27-09-2020,Houston Astros,Texas Rangers,R,R
+11-08-2020,Miami Marlins,Toronto Blue Jays,R,L
+12-08-2020,Miami Marlins,Toronto Blue Jays,R,R
+14-08-2020,Tampa Bay Rays,Toronto Blue Jays,R,R
+15-08-2020,Tampa Bay Rays,Toronto Blue Jays,L,R
+16-08-2020,Tampa Bay Rays,Toronto Blue Jays,R,R
+25-08-2020,Boston Red Sox,Toronto Blue Jays,L,R
+26-08-2020,Boston Red Sox,Toronto Blue Jays,R,R
+28-08-2020,Baltimore Orioles,Toronto Blue Jays,L,L
+29-08-2020,Baltimore Orioles,Toronto Blue Jays,R,R
+30-08-2020,Baltimore Orioles,Toronto Blue Jays,R,R
+31-08-2020,Baltimore Orioles,Toronto Blue Jays,L,R
+07-09-2020,New York Yankees,Toronto Blue Jays,L,L
+08-09-2020,New York Yankees,Toronto Blue Jays,L,R
+09-09-2020,New York Yankees,Toronto Blue Jays,R,R
+11-09-2020,New York Mets,Toronto Blue Jays,R,R
+12-09-2020,New York Mets,Toronto Blue Jays,R,L
+13-09-2020,New York Mets,Toronto Blue Jays,L,L
+21-09-2020,New York Yankees,Toronto Blue Jays,R,R
+22-09-2020,New York Yankees,Toronto Blue Jays,R,R
+23-09-2020,New York Yankees,Toronto Blue Jays,R,L
+24-09-2020,New York Yankees,Toronto Blue Jays,L,L
+25-09-2020,Baltimore Orioles,Toronto Blue Jays,R,R
+26-09-2020,Baltimore Orioles,Toronto Blue Jays,L,R
+27-09-2020,Baltimore Orioles,Toronto Blue Jays,L,R
+23-07-2020,New York Yankees,Washington Nationals,R,R
+25-07-2020,New York Yankees,Washington Nationals,L,R
+26-07-2020,New York Yankees,Washington Nationals,R,L
+27-07-2020,Toronto Blue Jays,Washington Nationals,R,R
+28-07-2020,Toronto Blue Jays,Washington Nationals,R,R
+29-07-2020,Toronto Blue Jays,Washington Nationals,R,R
+30-07-2020,Toronto Blue Jays,Washington Nationals,L,R
+04-08-2020,New York Mets,Washington Nationals,L,L
+05-08-2020,New York Mets,Washington Nationals,R,R
+07-08-2020,Baltimore Orioles,Washington Nationals,L,R
+08-08-2020,Baltimore Orioles,Washington Nationals,R,R
+09-08-2020,Baltimore Orioles,Washington Nationals,R,R
+21-08-2020,Miami Marlins,Washington Nationals,R,L
+23-08-2020,Miami Marlins,Washington Nationals,R,R
+24-08-2020,Miami Marlins,Washington Nationals,R,R
+25-08-2020,Philadelphia Phillies,Washington Nationals,R,R
+26-08-2020,Philadelphia Phillies,Washington Nationals,R,L
+07-09-2020,Tampa Bay Rays,Washington Nationals,R,R
+08-09-2020,Tampa Bay Rays,Washington Nationals,L,R
+10-09-2020,Atlanta Braves,Washington Nationals,L,R
+11-09-2020,Atlanta Braves,Washington Nationals,R,R
+12-09-2020,Atlanta Braves,Washington Nationals,R,L
+13-09-2020,Atlanta Braves,Washington Nationals,R,R
+21-09-2020,Philadelphia Phillies,Washington Nationals,R,R
+23-09-2020,Philadelphia Phillies,Washington Nationals,R,R
+24-09-2020,New York Mets,Washington Nationals,L,L
+27-09-2020,New York Mets,Washington Nationals,R,R

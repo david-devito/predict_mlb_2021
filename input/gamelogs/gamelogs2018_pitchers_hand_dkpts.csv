@@ -1,0 +1,2397 @@
+Date,AwayTeam,HomeTeam,A_SP_Hand,H_SP_Hand
+02-04-2018,Cleveland Indians,Los Angeles Angels,R,R
+03-04-2018,Cleveland Indians,Los Angeles Angels,R,R
+04-04-2018,Cleveland Indians,Los Angeles Angels,R,L
+06-04-2018,Oakland Athletics,Los Angeles Angels,R,R
+07-04-2018,Oakland Athletics,Los Angeles Angels,R,R
+08-04-2018,Oakland Athletics,Los Angeles Angels,R,R
+17-04-2018,Boston Red Sox,Los Angeles Angels,L,R
+18-04-2018,Boston Red Sox,Los Angeles Angels,R,L
+19-04-2018,Boston Red Sox,Los Angeles Angels,L,R
+20-04-2018,San Francisco Giants,Los Angeles Angels,R,L
+21-04-2018,San Francisco Giants,Los Angeles Angels,L,R
+22-04-2018,San Francisco Giants,Los Angeles Angels,R,R
+27-04-2018,New York Yankees,Los Angeles Angels,R,L
+28-04-2018,New York Yankees,Los Angeles Angels,R,R
+29-04-2018,New York Yankees,Los Angeles Angels,nan,L
+01-05-2018,Baltimore Orioles,Los Angeles Angels,R,R
+02-05-2018,Baltimore Orioles,Los Angeles Angels,R,L
+03-05-2018,Baltimore Orioles,Los Angeles Angels,R,R
+10-05-2018,Minnesota Twins,Los Angeles Angels,R,R
+11-05-2018,Minnesota Twins,Los Angeles Angels,R,L
+12-05-2018,Minnesota Twins,Los Angeles Angels,R,R
+13-05-2018,Minnesota Twins,Los Angeles Angels,R,R
+14-05-2018,Houston Astros,Los Angeles Angels,R,L
+15-05-2018,Houston Astros,Los Angeles Angels,R,R
+16-05-2018,Houston Astros,Los Angeles Angels,R,R
+17-05-2018,Tampa Bay Rays,Los Angeles Angels,R,L
+18-05-2018,Tampa Bay Rays,Los Angeles Angels,L,R
+19-05-2018,Tampa Bay Rays,Los Angeles Angels,R,L
+20-05-2018,Tampa Bay Rays,Los Angeles Angels,R,R
+01-06-2018,Texas Rangers,Los Angeles Angels,R,R
+02-06-2018,Texas Rangers,Los Angeles Angels,L,R
+03-06-2018,Texas Rangers,Los Angeles Angels,R,L
+04-06-2018,Kansas City Royals,Los Angeles Angels,L,R
+05-06-2018,Kansas City Royals,Los Angeles Angels,R,L
+06-06-2018,Kansas City Royals,Los Angeles Angels,R,R
+18-06-2018,Arizona Diamondbacks,Los Angeles Angels,R,R
+19-06-2018,Arizona Diamondbacks,Los Angeles Angels,R,R
+21-06-2018,Toronto Blue Jays,Los Angeles Angels,R,L
+22-06-2018,Toronto Blue Jays,Los Angeles Angels,R,L
+23-06-2018,Toronto Blue Jays,Los Angeles Angels,R,R
+24-06-2018,Toronto Blue Jays,Los Angeles Angels,R,R
+06-07-2018,Los Angeles Dodgers,Los Angeles Angels,R,R
+07-07-2018,Los Angeles Dodgers,Los Angeles Angels,R,R
+08-07-2018,Los Angeles Dodgers,Los Angeles Angels,L,L
+10-07-2018,Seattle Mariners,Los Angeles Angels,R,R
+11-07-2018,Seattle Mariners,Los Angeles Angels,L,R
+12-07-2018,Seattle Mariners,Los Angeles Angels,L,L
+20-07-2018,Houston Astros,Los Angeles Angels,L,L
+21-07-2018,Houston Astros,Los Angeles Angels,R,R
+22-07-2018,Houston Astros,Los Angeles Angels,R,L
+23-07-2018,Chicago White Sox,Los Angeles Angels,R,R
+24-07-2018,Chicago White Sox,Los Angeles Angels,L,R
+25-07-2018,Chicago White Sox,Los Angeles Angels,R,L
+26-07-2018,Chicago White Sox,Los Angeles Angels,R,R
+27-07-2018,Seattle Mariners,Los Angeles Angels,L,L
+28-07-2018,Seattle Mariners,Los Angeles Angels,R,R
+29-07-2018,Seattle Mariners,Los Angeles Angels,L,R
+06-08-2018,Detroit Tigers,Los Angeles Angels,L,R
+07-08-2018,Detroit Tigers,Los Angeles Angels,R,L
+08-08-2018,Detroit Tigers,Los Angeles Angels,L,R
+10-08-2018,Oakland Athletics,Los Angeles Angels,L,R
+11-08-2018,Oakland Athletics,Los Angeles Angels,R,L
+12-08-2018,Oakland Athletics,Los Angeles Angels,R,R
+24-08-2018,Houston Astros,Los Angeles Angels,L,L
+25-08-2018,Houston Astros,Los Angeles Angels,R,R
+26-08-2018,Houston Astros,Los Angeles Angels,L,R
+27-08-2018,Colorado Rockies,Los Angeles Angels,R,R
+28-08-2018,Colorado Rockies,Los Angeles Angels,L,R
+10-09-2018,Texas Rangers,Los Angeles Angels,L,R
+11-09-2018,Texas Rangers,Los Angeles Angels,R,R
+12-09-2018,Texas Rangers,Los Angeles Angels,R,R
+13-09-2018,Seattle Mariners,Los Angeles Angels,R,R
+14-09-2018,Seattle Mariners,Los Angeles Angels,L,R
+15-09-2018,Seattle Mariners,Los Angeles Angels,R,L
+16-09-2018,Seattle Mariners,Los Angeles Angels,L,R
+24-09-2018,Texas Rangers,Los Angeles Angels,R,R
+25-09-2018,Texas Rangers,Los Angeles Angels,R,R
+26-09-2018,Texas Rangers,Los Angeles Angels,L,L
+28-09-2018,Oakland Athletics,Los Angeles Angels,R,R
+29-09-2018,Oakland Athletics,Los Angeles Angels,R,L
+30-09-2018,Oakland Athletics,Los Angeles Angels,L,R
+29-03-2018,Colorado Rockies,Arizona Diamondbacks,R,L
+30-03-2018,Colorado Rockies,Arizona Diamondbacks,L,L
+31-03-2018,Colorado Rockies,Arizona Diamondbacks,R,R
+02-04-2018,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+03-04-2018,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+04-04-2018,Los Angeles Dodgers,Arizona Diamondbacks,L,L
+17-04-2018,San Francisco Giants,Arizona Diamondbacks,R,L
+18-04-2018,San Francisco Giants,Arizona Diamondbacks,R,L
+19-04-2018,San Francisco Giants,Arizona Diamondbacks,L,R
+20-04-2018,San Diego Padres,Arizona Diamondbacks,R,R
+21-04-2018,San Diego Padres,Arizona Diamondbacks,L,R
+22-04-2018,San Diego Padres,Arizona Diamondbacks,L,L
+30-04-2018,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+01-05-2018,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+02-05-2018,Los Angeles Dodgers,Arizona Diamondbacks,L,R
+03-05-2018,Los Angeles Dodgers,Arizona Diamondbacks,L,L
+04-05-2018,Houston Astros,Arizona Diamondbacks,R,R
+05-05-2018,Houston Astros,Arizona Diamondbacks,R,R
+06-05-2018,Houston Astros,Arizona Diamondbacks,R,R
+10-05-2018,Washington Nationals,Arizona Diamondbacks,R,R
+11-05-2018,Washington Nationals,Arizona Diamondbacks,R,R
+12-05-2018,Washington Nationals,Arizona Diamondbacks,R,R
+13-05-2018,Washington Nationals,Arizona Diamondbacks,R,R
+14-05-2018,Milwaukee Brewers,Arizona Diamondbacks,R,L
+15-05-2018,Milwaukee Brewers,Arizona Diamondbacks,R,R
+16-05-2018,Milwaukee Brewers,Arizona Diamondbacks,R,R
+28-05-2018,Cincinnati Reds,Arizona Diamondbacks,R,R
+29-05-2018,Cincinnati Reds,Arizona Diamondbacks,R,R
+30-05-2018,Cincinnati Reds,Arizona Diamondbacks,R,L
+01-06-2018,Miami Marlins,Arizona Diamondbacks,R,R
+02-06-2018,Miami Marlins,Arizona Diamondbacks,L,R
+03-06-2018,Miami Marlins,Arizona Diamondbacks,R,R
+11-06-2018,Pittsburgh Pirates,Arizona Diamondbacks,R,L
+12-06-2018,Pittsburgh Pirates,Arizona Diamondbacks,R,R
+13-06-2018,Pittsburgh Pirates,Arizona Diamondbacks,R,R
+14-06-2018,New York Mets,Arizona Diamondbacks,L,R
+15-06-2018,New York Mets,Arizona Diamondbacks,R,R
+16-06-2018,New York Mets,Arizona Diamondbacks,L,L
+17-06-2018,New York Mets,Arizona Diamondbacks,R,R
+29-06-2018,San Francisco Giants,Arizona Diamondbacks,L,L
+30-06-2018,San Francisco Giants,Arizona Diamondbacks,R,R
+01-07-2018,San Francisco Giants,Arizona Diamondbacks,L,R
+02-07-2018,St. Louis Cardinals,Arizona Diamondbacks,R,L
+03-07-2018,St. Louis Cardinals,Arizona Diamondbacks,R,R
+04-07-2018,St. Louis Cardinals,Arizona Diamondbacks,R,L
+05-07-2018,San Diego Padres,Arizona Diamondbacks,L,R
+06-07-2018,San Diego Padres,Arizona Diamondbacks,L,R
+07-07-2018,San Diego Padres,Arizona Diamondbacks,R,L
+08-07-2018,San Diego Padres,Arizona Diamondbacks,L,R
+20-07-2018,Colorado Rockies,Arizona Diamondbacks,R,L
+21-07-2018,Colorado Rockies,Arizona Diamondbacks,L,R
+22-07-2018,Colorado Rockies,Arizona Diamondbacks,R,R
+30-07-2018,Texas Rangers,Arizona Diamondbacks,L,L
+31-07-2018,Texas Rangers,Arizona Diamondbacks,R,R
+02-08-2018,San Francisco Giants,Arizona Diamondbacks,L,R
+03-08-2018,San Francisco Giants,Arizona Diamondbacks,R,L
+04-08-2018,San Francisco Giants,Arizona Diamondbacks,L,R
+05-08-2018,San Francisco Giants,Arizona Diamondbacks,L,L
+06-08-2018,Philadelphia Phillies,Arizona Diamondbacks,R,R
+07-08-2018,Philadelphia Phillies,Arizona Diamondbacks,R,R
+08-08-2018,Philadelphia Phillies,Arizona Diamondbacks,R,L
+21-08-2018,Los Angeles Angels,Arizona Diamondbacks,R,L
+22-08-2018,Los Angeles Angels,Arizona Diamondbacks,R,R
+24-08-2018,Seattle Mariners,Arizona Diamondbacks,R,R
+25-08-2018,Seattle Mariners,Arizona Diamondbacks,L,L
+26-08-2018,Seattle Mariners,Arizona Diamondbacks,R,R
+03-09-2018,San Diego Padres,Arizona Diamondbacks,R,R
+04-09-2018,San Diego Padres,Arizona Diamondbacks,L,L
+06-09-2018,Atlanta Braves,Arizona Diamondbacks,R,R
+07-09-2018,Atlanta Braves,Arizona Diamondbacks,R,L
+08-09-2018,Atlanta Braves,Arizona Diamondbacks,R,R
+09-09-2018,Atlanta Braves,Arizona Diamondbacks,R,L
+17-09-2018,Chicago Cubs,Arizona Diamondbacks,R,L
+18-09-2018,Chicago Cubs,Arizona Diamondbacks,L,R
+19-09-2018,Chicago Cubs,Arizona Diamondbacks,L,L
+21-09-2018,Colorado Rockies,Arizona Diamondbacks,R,R
+22-09-2018,Colorado Rockies,Arizona Diamondbacks,R,L
+23-09-2018,Colorado Rockies,Arizona Diamondbacks,L,R
+24-09-2018,Los Angeles Dodgers,Arizona Diamondbacks,L,L
+25-09-2018,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+26-09-2018,Los Angeles Dodgers,Arizona Diamondbacks,R,R
+29-03-2018,Philadelphia Phillies,Atlanta Braves,R,R
+30-03-2018,Philadelphia Phillies,Atlanta Braves,R,R
+31-03-2018,Philadelphia Phillies,Atlanta Braves,R,R
+02-04-2018,Washington Nationals,Atlanta Braves,R,L
+03-04-2018,Washington Nationals,Atlanta Braves,R,R
+04-04-2018,Washington Nationals,Atlanta Braves,R,R
+16-04-2018,Philadelphia Phillies,Atlanta Braves,R,R
+17-04-2018,Philadelphia Phillies,Atlanta Braves,R,R
+18-04-2018,Philadelphia Phillies,Atlanta Braves,R,R
+19-04-2018,New York Mets,Atlanta Braves,R,R
+20-04-2018,New York Mets,Atlanta Braves,R,L
+21-04-2018,New York Mets,Atlanta Braves,R,R
+04-05-2018,San Francisco Giants,Atlanta Braves,R,R
+05-05-2018,San Francisco Giants,Atlanta Braves,L,R
+06-05-2018,San Francisco Giants,Atlanta Braves,L,R
+15-05-2018,Chicago Cubs,Atlanta Braves,R,R
+16-05-2018,Chicago Cubs,Atlanta Braves,R,R
+18-05-2018,Miami Marlins,Atlanta Braves,R,R
+19-05-2018,Miami Marlins,Atlanta Braves,R,L
+20-05-2018,Miami Marlins,Atlanta Braves,L,R
+29-05-2018,New York Mets,Atlanta Braves,L,R
+30-05-2018,New York Mets,Atlanta Braves,L,R
+31-05-2018,Washington Nationals,Atlanta Braves,R,L
+01-06-2018,Washington Nationals,Atlanta Braves,R,R
+02-06-2018,Washington Nationals,Atlanta Braves,L,R
+03-06-2018,Washington Nationals,Atlanta Braves,R,R
+12-06-2018,New York Mets,Atlanta Braves,R,R
+13-06-2018,New York Mets,Atlanta Braves,R,R
+14-06-2018,San Diego Padres,Atlanta Braves,R,R
+15-06-2018,San Diego Padres,Atlanta Braves,L,R
+16-06-2018,San Diego Padres,Atlanta Braves,R,L
+17-06-2018,San Diego Padres,Atlanta Braves,L,R
+22-06-2018,Baltimore Orioles,Atlanta Braves,R,L
+23-06-2018,Baltimore Orioles,Atlanta Braves,R,R
+24-06-2018,Baltimore Orioles,Atlanta Braves,R,R
+25-06-2018,Cincinnati Reds,Atlanta Braves,R,R
+26-06-2018,Cincinnati Reds,Atlanta Braves,R,R
+27-06-2018,Cincinnati Reds,Atlanta Braves,R,L
+10-07-2018,Toronto Blue Jays,Atlanta Braves,R,R
+11-07-2018,Toronto Blue Jays,Atlanta Braves,R,R
+13-07-2018,Arizona Diamondbacks,Atlanta Braves,R,R
+14-07-2018,Arizona Diamondbacks,Atlanta Braves,R,L
+15-07-2018,Arizona Diamondbacks,Atlanta Braves,L,R
+26-07-2018,Los Angeles Dodgers,Atlanta Braves,L,R
+27-07-2018,Los Angeles Dodgers,Atlanta Braves,L,R
+28-07-2018,Los Angeles Dodgers,Atlanta Braves,L,L
+29-07-2018,Los Angeles Dodgers,Atlanta Braves,R,L
+30-07-2018,Miami Marlins,Atlanta Braves,L,R
+31-07-2018,Miami Marlins,Atlanta Braves,R,L
+10-08-2018,Milwaukee Brewers,Atlanta Braves,R,R
+11-08-2018,Milwaukee Brewers,Atlanta Braves,L,R
+12-08-2018,Milwaukee Brewers,Atlanta Braves,R,L
+14-08-2018,Miami Marlins,Atlanta Braves,R,R
+15-08-2018,Miami Marlins,Atlanta Braves,R,R
+16-08-2018,Colorado Rockies,Atlanta Braves,R,R
+17-08-2018,Colorado Rockies,Atlanta Braves,L,L
+18-08-2018,Colorado Rockies,Atlanta Braves,R,R
+19-08-2018,Colorado Rockies,Atlanta Braves,R,R
+28-08-2018,Tampa Bay Rays,Atlanta Braves,R,R
+29-08-2018,Tampa Bay Rays,Atlanta Braves,R,L
+30-08-2018,Chicago Cubs,Atlanta Braves,L,R
+31-08-2018,Pittsburgh Pirates,Atlanta Braves,R,R
+01-09-2018,Pittsburgh Pirates,Atlanta Braves,R,R
+02-09-2018,Pittsburgh Pirates,Atlanta Braves,R,R
+03-09-2018,Boston Red Sox,Atlanta Braves,R,R
+04-09-2018,Boston Red Sox,Atlanta Braves,R,L
+05-09-2018,Boston Red Sox,Atlanta Braves,R,R
+14-09-2018,Washington Nationals,Atlanta Braves,R,R
+15-09-2018,Washington Nationals,Atlanta Braves,R,R
+16-09-2018,Washington Nationals,Atlanta Braves,R,L
+17-09-2018,St. Louis Cardinals,Atlanta Braves,R,R
+18-09-2018,St. Louis Cardinals,Atlanta Braves,L,R
+19-09-2018,St. Louis Cardinals,Atlanta Braves,R,R
+20-09-2018,Philadelphia Phillies,Atlanta Braves,R,R
+21-09-2018,Philadelphia Phillies,Atlanta Braves,R,R
+22-09-2018,Philadelphia Phillies,Atlanta Braves,R,R
+23-09-2018,Philadelphia Phillies,Atlanta Braves,R,R
+07-10-2018,Los Angeles Dodgers,Atlanta Braves,R,L
+08-10-2018,Los Angeles Dodgers,Atlanta Braves,L,R
+29-03-2018,Minnesota Twins,Baltimore Orioles,R,R
+31-03-2018,Minnesota Twins,Baltimore Orioles,R,R
+01-04-2018,Minnesota Twins,Baltimore Orioles,R,R
+09-04-2018,Toronto Blue Jays,Baltimore Orioles,L,R
+10-04-2018,Toronto Blue Jays,Baltimore Orioles,R,R
+11-04-2018,Toronto Blue Jays,Baltimore Orioles,R,R
+20-04-2018,Cleveland Indians,Baltimore Orioles,R,R
+21-04-2018,Cleveland Indians,Baltimore Orioles,R,R
+22-04-2018,Cleveland Indians,Baltimore Orioles,R,R
+23-04-2018,Cleveland Indians,Baltimore Orioles,R,R
+25-04-2018,Tampa Bay Rays,Baltimore Orioles,R,R
+26-04-2018,Tampa Bay Rays,Baltimore Orioles,R,R
+27-04-2018,Detroit Tigers,Baltimore Orioles,R,R
+28-04-2018,Detroit Tigers,Baltimore Orioles,L,R
+29-04-2018,Detroit Tigers,Baltimore Orioles,L,R
+08-05-2018,Kansas City Royals,Baltimore Orioles,L,R
+09-05-2018,Kansas City Royals,Baltimore Orioles,L,R
+10-05-2018,Kansas City Royals,Baltimore Orioles,R,R
+11-05-2018,Tampa Bay Rays,Baltimore Orioles,R,R
+13-05-2018,Tampa Bay Rays,Baltimore Orioles,L,R
+16-05-2018,Philadelphia Phillies,Baltimore Orioles,R,R
+28-05-2018,Washington Nationals,Baltimore Orioles,L,R
+29-05-2018,Washington Nationals,Baltimore Orioles,R,R
+30-05-2018,Washington Nationals,Baltimore Orioles,R,R
+01-06-2018,New York Yankees,Baltimore Orioles,R,R
+02-06-2018,New York Yankees,Baltimore Orioles,R,R
+11-06-2018,Boston Red Sox,Baltimore Orioles,R,R
+12-06-2018,Boston Red Sox,Baltimore Orioles,L,R
+13-06-2018,Boston Red Sox,Baltimore Orioles,L,R
+15-06-2018,Miami Marlins,Baltimore Orioles,R,R
+16-06-2018,Miami Marlins,Baltimore Orioles,L,R
+17-06-2018,Miami Marlins,Baltimore Orioles,R,R
+25-06-2018,Seattle Mariners,Baltimore Orioles,R,R
+26-06-2018,Seattle Mariners,Baltimore Orioles,L,R
+27-06-2018,Seattle Mariners,Baltimore Orioles,L,R
+28-06-2018,Seattle Mariners,Baltimore Orioles,R,R
+29-06-2018,Los Angeles Angels,Baltimore Orioles,R,R
+30-06-2018,Los Angeles Angels,Baltimore Orioles,L,R
+01-07-2018,Los Angeles Angels,Baltimore Orioles,R,R
+10-07-2018,New York Yankees,Baltimore Orioles,R,R
+11-07-2018,New York Yankees,Baltimore Orioles,R,R
+12-07-2018,Philadelphia Phillies,Baltimore Orioles,R,R
+13-07-2018,Texas Rangers,Baltimore Orioles,L,R
+14-07-2018,Texas Rangers,Baltimore Orioles,L,R
+15-07-2018,Texas Rangers,Baltimore Orioles,L,R
+23-07-2018,Boston Red Sox,Baltimore Orioles,R,R
+24-07-2018,Boston Red Sox,Baltimore Orioles,L,R
+26-07-2018,Tampa Bay Rays,Baltimore Orioles,R,R
+27-07-2018,Tampa Bay Rays,Baltimore Orioles,R,R
+28-07-2018,Tampa Bay Rays,Baltimore Orioles,R,R
+29-07-2018,Tampa Bay Rays,Baltimore Orioles,R,R
+10-08-2018,Boston Red Sox,Baltimore Orioles,R,R
+12-08-2018,Boston Red Sox,Baltimore Orioles,L,R
+14-08-2018,New York Mets,Baltimore Orioles,L,R
+15-08-2018,New York Mets,Baltimore Orioles,R,R
+24-08-2018,New York Yankees,Baltimore Orioles,nan,R
+26-08-2018,New York Yankees,Baltimore Orioles,R,R
+27-08-2018,Toronto Blue Jays,Baltimore Orioles,R,R
+28-08-2018,Toronto Blue Jays,Baltimore Orioles,L,L
+29-08-2018,Toronto Blue Jays,Baltimore Orioles,L,R
+11-09-2018,Oakland Athletics,Baltimore Orioles,R,R
+12-09-2018,Oakland Athletics,Baltimore Orioles,R,R
+13-09-2018,Oakland Athletics,Baltimore Orioles,L,R
+14-09-2018,Chicago White Sox,Baltimore Orioles,R,R
+15-09-2018,Chicago White Sox,Baltimore Orioles,R,R
+16-09-2018,Chicago White Sox,Baltimore Orioles,R,R
+17-09-2018,Toronto Blue Jays,Baltimore Orioles,L,R
+18-09-2018,Toronto Blue Jays,Baltimore Orioles,R,R
+19-09-2018,Toronto Blue Jays,Baltimore Orioles,R,R
+28-09-2018,Houston Astros,Baltimore Orioles,R,R
+30-09-2018,Houston Astros,Baltimore Orioles,R,R
+05-04-2018,Tampa Bay Rays,Boston Red Sox,R,L
+07-04-2018,Tampa Bay Rays,Boston Red Sox,R,R
+08-04-2018,Tampa Bay Rays,Boston Red Sox,R,L
+10-04-2018,New York Yankees,Boston Red Sox,R,L
+11-04-2018,New York Yankees,Boston Red Sox,R,L
+12-04-2018,New York Yankees,Boston Red Sox,R,R
+13-04-2018,Baltimore Orioles,Boston Red Sox,R,L
+14-04-2018,Baltimore Orioles,Boston Red Sox,R,R
+15-04-2018,Baltimore Orioles,Boston Red Sox,R,L
+27-04-2018,Tampa Bay Rays,Boston Red Sox,L,L
+28-04-2018,Tampa Bay Rays,Boston Red Sox,R,L
+29-04-2018,Tampa Bay Rays,Boston Red Sox,R,R
+30-04-2018,Kansas City Royals,Boston Red Sox,R,L
+01-05-2018,Kansas City Royals,Boston Red Sox,R,L
+02-05-2018,Kansas City Royals,Boston Red Sox,L,L
+14-05-2018,Oakland Athletics,Boston Red Sox,L,R
+15-05-2018,Oakland Athletics,Boston Red Sox,R,L
+16-05-2018,Oakland Athletics,Boston Red Sox,R,L
+17-05-2018,Baltimore Orioles,Boston Red Sox,R,L
+18-05-2018,Baltimore Orioles,Boston Red Sox,R,L
+19-05-2018,Baltimore Orioles,Boston Red Sox,R,R
+20-05-2018,Baltimore Orioles,Boston Red Sox,R,L
+25-05-2018,Atlanta Braves,Boston Red Sox,R,L
+26-05-2018,Atlanta Braves,Boston Red Sox,L,L
+27-05-2018,Atlanta Braves,Boston Red Sox,R,L
+28-05-2018,Toronto Blue Jays,Boston Red Sox,R,L
+29-05-2018,Toronto Blue Jays,Boston Red Sox,R,R
+30-05-2018,Toronto Blue Jays,Boston Red Sox,R,L
+05-06-2018,Detroit Tigers,Boston Red Sox,R,R
+06-06-2018,Detroit Tigers,Boston Red Sox,L,L
+07-06-2018,Detroit Tigers,Boston Red Sox,L,L
+08-06-2018,Chicago White Sox,Boston Red Sox,R,L
+09-06-2018,Chicago White Sox,Boston Red Sox,L,L
+10-06-2018,Chicago White Sox,Boston Red Sox,R,R
+22-06-2018,Seattle Mariners,Boston Red Sox,L,R
+23-06-2018,Seattle Mariners,Boston Red Sox,R,L
+24-06-2018,Seattle Mariners,Boston Red Sox,L,L
+26-06-2018,Los Angeles Angels,Boston Red Sox,L,L
+27-06-2018,Los Angeles Angels,Boston Red Sox,L,R
+28-06-2018,Los Angeles Angels,Boston Red Sox,R,L
+09-07-2018,Texas Rangers,Boston Red Sox,L,L
+10-07-2018,Texas Rangers,Boston Red Sox,R,R
+11-07-2018,Texas Rangers,Boston Red Sox,R,L
+12-07-2018,Toronto Blue Jays,Boston Red Sox,L,L
+13-07-2018,Toronto Blue Jays,Boston Red Sox,L,R
+14-07-2018,Toronto Blue Jays,Boston Red Sox,R,L
+15-07-2018,Toronto Blue Jays,Boston Red Sox,R,L
+26-07-2018,Minnesota Twins,Boston Red Sox,R,L
+27-07-2018,Minnesota Twins,Boston Red Sox,R,L
+28-07-2018,Minnesota Twins,Boston Red Sox,R,R
+29-07-2018,Minnesota Twins,Boston Red Sox,R,R
+30-07-2018,Philadelphia Phillies,Boston Red Sox,R,L
+31-07-2018,Philadelphia Phillies,Boston Red Sox,R,L
+02-08-2018,New York Yankees,Boston Red Sox,nan,L
+03-08-2018,New York Yankees,Boston Red Sox,R,R
+04-08-2018,New York Yankees,Boston Red Sox,R,R
+05-08-2018,New York Yankees,Boston Red Sox,R,L
+17-08-2018,Tampa Bay Rays,Boston Red Sox,R,L
+18-08-2018,Tampa Bay Rays,Boston Red Sox,R,L
+19-08-2018,Tampa Bay Rays,Boston Red Sox,R,R
+20-08-2018,Cleveland Indians,Boston Red Sox,R,R
+21-08-2018,Cleveland Indians,Boston Red Sox,R,R
+22-08-2018,Cleveland Indians,Boston Red Sox,R,L
+23-08-2018,Cleveland Indians,Boston Red Sox,R,L
+28-08-2018,Miami Marlins,Boston Red Sox,R,L
+29-08-2018,Miami Marlins,Boston Red Sox,R,L
+07-09-2018,Houston Astros,Boston Red Sox,R,L
+08-09-2018,Houston Astros,Boston Red Sox,R,L
+09-09-2018,Houston Astros,Boston Red Sox,L,R
+11-09-2018,Toronto Blue Jays,Boston Red Sox,L,L
+12-09-2018,Toronto Blue Jays,Boston Red Sox,R,L
+13-09-2018,Toronto Blue Jays,Boston Red Sox,R,L
+14-09-2018,New York Mets,Boston Red Sox,R,R
+15-09-2018,New York Mets,Boston Red Sox,R,R
+16-09-2018,New York Mets,Boston Red Sox,R,L
+24-09-2018,Baltimore Orioles,Boston Red Sox,R,R
+28-09-2018,New York Yankees,Boston Red Sox,L,L
+29-09-2018,New York Yankees,Boston Red Sox,R,R
+30-09-2018,New York Yankees,Boston Red Sox,R,R
+05-10-2018,New York Yankees,Boston Red Sox,L,L
+06-10-2018,New York Yankees,Boston Red Sox,R,L
+13-10-2018,Houston Astros,Boston Red Sox,R,L
+14-10-2018,Houston Astros,Boston Red Sox,R,L
+23-10-2018,Los Angeles Dodgers,Boston Red Sox,L,L
+24-10-2018,Los Angeles Dodgers,Boston Red Sox,L,L
+05-04-2018,Detroit Tigers,Chicago White Sox,R,R
+07-04-2018,Detroit Tigers,Chicago White Sox,R,R
+08-04-2018,Detroit Tigers,Chicago White Sox,R,R
+09-04-2018,Tampa Bay Rays,Chicago White Sox,R,R
+10-04-2018,Tampa Bay Rays,Chicago White Sox,L,R
+11-04-2018,Tampa Bay Rays,Chicago White Sox,R,R
+20-04-2018,Houston Astros,Chicago White Sox,R,R
+21-04-2018,Houston Astros,Chicago White Sox,L,R
+22-04-2018,Houston Astros,Chicago White Sox,R,R
+23-04-2018,Seattle Mariners,Chicago White Sox,R,R
+24-04-2018,Seattle Mariners,Chicago White Sox,L,R
+25-04-2018,Seattle Mariners,Chicago White Sox,R,R
+03-05-2018,Minnesota Twins,Chicago White Sox,R,R
+04-05-2018,Minnesota Twins,Chicago White Sox,R,R
+05-05-2018,Minnesota Twins,Chicago White Sox,R,L
+06-05-2018,Minnesota Twins,Chicago White Sox,R,R
+08-05-2018,Pittsburgh Pirates,Chicago White Sox,R,R
+09-05-2018,Pittsburgh Pirates,Chicago White Sox,R,R
+17-05-2018,Texas Rangers,Chicago White Sox,R,R
+18-05-2018,Texas Rangers,Chicago White Sox,L,R
+19-05-2018,Texas Rangers,Chicago White Sox,R,R
+20-05-2018,Texas Rangers,Chicago White Sox,L,R
+21-05-2018,Baltimore Orioles,Chicago White Sox,R,L
+22-05-2018,Baltimore Orioles,Chicago White Sox,R,R
+23-05-2018,Baltimore Orioles,Chicago White Sox,R,R
+24-05-2018,Baltimore Orioles,Chicago White Sox,R,R
+01-06-2018,Milwaukee Brewers,Chicago White Sox,R,L
+02-06-2018,Milwaukee Brewers,Chicago White Sox,R,R
+03-06-2018,Milwaukee Brewers,Chicago White Sox,L,R
+11-06-2018,Cleveland Indians,Chicago White Sox,R,R
+12-06-2018,Cleveland Indians,Chicago White Sox,R,R
+13-06-2018,Cleveland Indians,Chicago White Sox,R,R
+14-06-2018,Cleveland Indians,Chicago White Sox,R,L
+15-06-2018,Detroit Tigers,Chicago White Sox,R,R
+16-06-2018,Detroit Tigers,Chicago White Sox,R,R
+17-06-2018,Detroit Tigers,Chicago White Sox,L,R
+23-06-2018,Oakland Athletics,Chicago White Sox,R,R
+24-06-2018,Oakland Athletics,Chicago White Sox,R,L
+26-06-2018,Minnesota Twins,Chicago White Sox,R,R
+27-06-2018,Minnesota Twins,Chicago White Sox,R,R
+28-06-2018,Minnesota Twins,Chicago White Sox,R,R
+10-07-2018,St. Louis Cardinals,Chicago White Sox,R,R
+11-07-2018,St. Louis Cardinals,Chicago White Sox,R,L
+13-07-2018,Kansas City Royals,Chicago White Sox,R,R
+14-07-2018,Kansas City Royals,Chicago White Sox,L,R
+15-07-2018,Kansas City Royals,Chicago White Sox,R,R
+27-07-2018,Toronto Blue Jays,Chicago White Sox,R,R
+28-07-2018,Toronto Blue Jays,Chicago White Sox,R,R
+29-07-2018,Toronto Blue Jays,Chicago White Sox,L,L
+31-07-2018,Kansas City Royals,Chicago White Sox,L,R
+01-08-2018,Kansas City Royals,Chicago White Sox,R,R
+02-08-2018,Kansas City Royals,Chicago White Sox,R,R
+06-08-2018,New York Yankees,Chicago White Sox,R,R
+07-08-2018,New York Yankees,Chicago White Sox,nan,R
+08-08-2018,New York Yankees,Chicago White Sox,R,R
+10-08-2018,Cleveland Indians,Chicago White Sox,R,L
+11-08-2018,Cleveland Indians,Chicago White Sox,R,R
+12-08-2018,Cleveland Indians,Chicago White Sox,R,R
+17-08-2018,Kansas City Royals,Chicago White Sox,R,R
+18-08-2018,Kansas City Royals,Chicago White Sox,R,R
+19-08-2018,Kansas City Royals,Chicago White Sox,R,R
+21-08-2018,Minnesota Twins,Chicago White Sox,R,R
+22-08-2018,Minnesota Twins,Chicago White Sox,R,L
+30-08-2018,Boston Red Sox,Chicago White Sox,R,R
+31-08-2018,Boston Red Sox,Chicago White Sox,R,R
+01-09-2018,Boston Red Sox,Chicago White Sox,L,L
+02-09-2018,Boston Red Sox,Chicago White Sox,L,R
+03-09-2018,Detroit Tigers,Chicago White Sox,R,R
+04-09-2018,Detroit Tigers,Chicago White Sox,L,R
+05-09-2018,Detroit Tigers,Chicago White Sox,R,R
+07-09-2018,Los Angeles Angels,Chicago White Sox,R,L
+08-09-2018,Los Angeles Angels,Chicago White Sox,R,R
+09-09-2018,Los Angeles Angels,Chicago White Sox,L,R
+21-09-2018,Chicago Cubs,Chicago White Sox,L,R
+22-09-2018,Chicago Cubs,Chicago White Sox,L,R
+23-09-2018,Chicago Cubs,Chicago White Sox,R,L
+24-09-2018,Cleveland Indians,Chicago White Sox,R,R
+25-09-2018,Cleveland Indians,Chicago White Sox,R,R
+26-09-2018,Cleveland Indians,Chicago White Sox,R,L
+10-04-2018,Pittsburgh Pirates,Chicago Cubs,R,R
+11-04-2018,Pittsburgh Pirates,Chicago Cubs,L,L
+12-04-2018,Pittsburgh Pirates,Chicago Cubs,R,R
+13-04-2018,Atlanta Braves,Chicago Cubs,R,R
+14-04-2018,Atlanta Braves,Chicago Cubs,L,L
+17-04-2018,St. Louis Cardinals,Chicago Cubs,R,R
+19-04-2018,St. Louis Cardinals,Chicago Cubs,R,L
+26-04-2018,Milwaukee Brewers,Chicago Cubs,R,R
+27-04-2018,Milwaukee Brewers,Chicago Cubs,L,R
+28-04-2018,Milwaukee Brewers,Chicago Cubs,R,L
+29-04-2018,Milwaukee Brewers,Chicago Cubs,R,R
+30-04-2018,Colorado Rockies,Chicago Cubs,L,L
+01-05-2018,Colorado Rockies,Chicago Cubs,R,R
+02-05-2018,Colorado Rockies,Chicago Cubs,L,R
+07-05-2018,Miami Marlins,Chicago Cubs,L,R
+08-05-2018,Miami Marlins,Chicago Cubs,R,R
+09-05-2018,Miami Marlins,Chicago Cubs,L,L
+11-05-2018,Chicago White Sox,Chicago Cubs,R,R
+12-05-2018,Chicago White Sox,Chicago Cubs,R,L
+13-05-2018,Chicago White Sox,Chicago Cubs,R,R
+14-05-2018,Atlanta Braves,Chicago Cubs,R,L
+22-05-2018,Cleveland Indians,Chicago Cubs,R,R
+23-05-2018,Cleveland Indians,Chicago Cubs,R,L
+25-05-2018,San Francisco Giants,Chicago Cubs,L,R
+26-05-2018,San Francisco Giants,Chicago Cubs,R,L
+27-05-2018,San Francisco Giants,Chicago Cubs,L,R
+05-06-2018,Philadelphia Phillies,Chicago Cubs,R,R
+06-06-2018,Philadelphia Phillies,Chicago Cubs,R,L
+07-06-2018,Philadelphia Phillies,Chicago Cubs,R,R
+08-06-2018,Pittsburgh Pirates,Chicago Cubs,R,L
+09-06-2018,Pittsburgh Pirates,Chicago Cubs,R,L
+10-06-2018,Pittsburgh Pirates,Chicago Cubs,R,R
+20-06-2018,Los Angeles Dodgers,Chicago Cubs,R,L
+29-06-2018,Minnesota Twins,Chicago Cubs,R,L
+30-06-2018,Minnesota Twins,Chicago Cubs,L,R
+01-07-2018,Minnesota Twins,Chicago Cubs,R,L
+03-07-2018,Detroit Tigers,Chicago Cubs,R,R
+04-07-2018,Detroit Tigers,Chicago Cubs,L,L
+06-07-2018,Cincinnati Reds,Chicago Cubs,R,L
+07-07-2018,Cincinnati Reds,Chicago Cubs,R,R
+08-07-2018,Cincinnati Reds,Chicago Cubs,R,L
+19-07-2018,St. Louis Cardinals,Chicago Cubs,R,R
+20-07-2018,St. Louis Cardinals,Chicago Cubs,R,L
+22-07-2018,St. Louis Cardinals,Chicago Cubs,R,L
+23-07-2018,Arizona Diamondbacks,Chicago Cubs,L,R
+24-07-2018,Arizona Diamondbacks,Chicago Cubs,R,R
+25-07-2018,Arizona Diamondbacks,Chicago Cubs,L,L
+26-07-2018,Arizona Diamondbacks,Chicago Cubs,R,R
+02-08-2018,San Diego Padres,Chicago Cubs,L,L
+03-08-2018,San Diego Padres,Chicago Cubs,R,L
+04-08-2018,San Diego Padres,Chicago Cubs,R,R
+05-08-2018,San Diego Padres,Chicago Cubs,L,L
+10-08-2018,Washington Nationals,Chicago Cubs,R,R
+11-08-2018,Washington Nationals,Chicago Cubs,R,L
+12-08-2018,Washington Nationals,Chicago Cubs,R,L
+14-08-2018,Milwaukee Brewers,Chicago Cubs,R,L
+15-08-2018,Milwaukee Brewers,Chicago Cubs,R,R
+23-08-2018,Cincinnati Reds,Chicago Cubs,R,L
+24-08-2018,Cincinnati Reds,Chicago Cubs,R,R
+25-08-2018,Cincinnati Reds,Chicago Cubs,R,L
+26-08-2018,Cincinnati Reds,Chicago Cubs,R,R
+27-08-2018,New York Mets,Chicago Cubs,R,L
+28-08-2018,New York Mets,Chicago Cubs,R,L
+29-08-2018,New York Mets,Chicago Cubs,L,R
+10-09-2018,Milwaukee Brewers,Chicago Cubs,L,L
+11-09-2018,Milwaukee Brewers,Chicago Cubs,R,L
+12-09-2018,Milwaukee Brewers,Chicago Cubs,R,R
+14-09-2018,Cincinnati Reds,Chicago Cubs,R,L
+15-09-2018,Cincinnati Reds,Chicago Cubs,L,L
+16-09-2018,Cincinnati Reds,Chicago Cubs,R,L
+24-09-2018,Pittsburgh Pirates,Chicago Cubs,R,L
+25-09-2018,Pittsburgh Pirates,Chicago Cubs,R,L
+26-09-2018,Pittsburgh Pirates,Chicago Cubs,R,L
+27-09-2018,Pittsburgh Pirates,Chicago Cubs,R,L
+28-09-2018,St. Louis Cardinals,Chicago Cubs,R,R
+29-09-2018,St. Louis Cardinals,Chicago Cubs,R,L
+30-09-2018,St. Louis Cardinals,Chicago Cubs,R,L
+01-10-2018,Milwaukee Brewers,Chicago Cubs,R,L
+02-10-2018,Colorado Rockies,Chicago Cubs,L,L
+30-03-2018,Washington Nationals,Cincinnati Reds,R,R
+31-03-2018,Washington Nationals,Cincinnati Reds,R,R
+01-04-2018,Washington Nationals,Cincinnati Reds,L,R
+02-04-2018,Chicago Cubs,Cincinnati Reds,R,R
+12-04-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+13-04-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+14-04-2018,St. Louis Cardinals,Cincinnati Reds,R,L
+15-04-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+23-04-2018,Atlanta Braves,Cincinnati Reds,R,R
+24-04-2018,Atlanta Braves,Cincinnati Reds,R,R
+25-04-2018,Atlanta Braves,Cincinnati Reds,R,L
+26-04-2018,Atlanta Braves,Cincinnati Reds,L,R
+30-04-2018,Milwaukee Brewers,Cincinnati Reds,R,L
+01-05-2018,Milwaukee Brewers,Cincinnati Reds,R,R
+02-05-2018,Milwaukee Brewers,Cincinnati Reds,L,R
+04-05-2018,Miami Marlins,Cincinnati Reds,L,R
+05-05-2018,Miami Marlins,Cincinnati Reds,L,R
+06-05-2018,Miami Marlins,Cincinnati Reds,R,L
+07-05-2018,New York Mets,Cincinnati Reds,L,R
+08-05-2018,New York Mets,Cincinnati Reds,L,R
+09-05-2018,New York Mets,Cincinnati Reds,R,R
+18-05-2018,Chicago Cubs,Cincinnati Reds,L,R
+20-05-2018,Chicago Cubs,Cincinnati Reds,R,R
+22-05-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+23-05-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+24-05-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+05-06-2018,Colorado Rockies,Cincinnati Reds,L,R
+06-06-2018,Colorado Rockies,Cincinnati Reds,R,R
+07-06-2018,Colorado Rockies,Cincinnati Reds,L,R
+08-06-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+09-06-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+10-06-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+19-06-2018,Detroit Tigers,Cincinnati Reds,L,R
+20-06-2018,Detroit Tigers,Cincinnati Reds,R,R
+21-06-2018,Chicago Cubs,Cincinnati Reds,R,R
+22-06-2018,Chicago Cubs,Cincinnati Reds,L,R
+23-06-2018,Chicago Cubs,Cincinnati Reds,R,R
+24-06-2018,Chicago Cubs,Cincinnati Reds,L,R
+28-06-2018,Milwaukee Brewers,Cincinnati Reds,R,R
+29-06-2018,Milwaukee Brewers,Cincinnati Reds,R,R
+30-06-2018,Milwaukee Brewers,Cincinnati Reds,R,R
+01-07-2018,Milwaukee Brewers,Cincinnati Reds,R,R
+02-07-2018,Chicago White Sox,Cincinnati Reds,R,R
+03-07-2018,Chicago White Sox,Cincinnati Reds,R,R
+04-07-2018,Chicago White Sox,Cincinnati Reds,R,R
+20-07-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+21-07-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+22-07-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+23-07-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+24-07-2018,St. Louis Cardinals,Cincinnati Reds,L,R
+25-07-2018,St. Louis Cardinals,Cincinnati Reds,R,R
+26-07-2018,Philadelphia Phillies,Cincinnati Reds,L,R
+27-07-2018,Philadelphia Phillies,Cincinnati Reds,R,R
+28-07-2018,Philadelphia Phillies,Cincinnati Reds,R,R
+29-07-2018,Philadelphia Phillies,Cincinnati Reds,R,R
+10-08-2018,Arizona Diamondbacks,Cincinnati Reds,R,R
+11-08-2018,Arizona Diamondbacks,Cincinnati Reds,L,R
+12-08-2018,Arizona Diamondbacks,Cincinnati Reds,R,R
+13-08-2018,Cleveland Indians,Cincinnati Reds,R,R
+14-08-2018,Cleveland Indians,Cincinnati Reds,R,R
+15-08-2018,Cleveland Indians,Cincinnati Reds,R,R
+17-08-2018,San Francisco Giants,Cincinnati Reds,R,R
+18-08-2018,San Francisco Giants,Cincinnati Reds,L,R
+19-08-2018,San Francisco Giants,Cincinnati Reds,L,R
+28-08-2018,Milwaukee Brewers,Cincinnati Reds,R,R
+29-08-2018,Milwaukee Brewers,Cincinnati Reds,R,R
+30-08-2018,Milwaukee Brewers,Cincinnati Reds,L,L
+06-09-2018,San Diego Padres,Cincinnati Reds,L,R
+07-09-2018,San Diego Padres,Cincinnati Reds,R,R
+08-09-2018,San Diego Padres,Cincinnati Reds,L,R
+09-09-2018,San Diego Padres,Cincinnati Reds,R,R
+10-09-2018,Los Angeles Dodgers,Cincinnati Reds,L,L
+11-09-2018,Los Angeles Dodgers,Cincinnati Reds,L,R
+12-09-2018,Los Angeles Dodgers,Cincinnati Reds,R,R
+25-09-2018,Kansas City Royals,Cincinnati Reds,L,R
+26-09-2018,Kansas City Royals,Cincinnati Reds,R,L
+28-09-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+29-09-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+30-09-2018,Pittsburgh Pirates,Cincinnati Reds,R,R
+06-04-2018,Kansas City Royals,Cleveland Indians,L,R
+07-04-2018,Kansas City Royals,Cleveland Indians,R,R
+08-04-2018,Kansas City Royals,Cleveland Indians,R,R
+09-04-2018,Detroit Tigers,Cleveland Indians,L,R
+10-04-2018,Detroit Tigers,Cleveland Indians,L,R
+11-04-2018,Detroit Tigers,Cleveland Indians,R,R
+12-04-2018,Detroit Tigers,Cleveland Indians,R,R
+13-04-2018,Toronto Blue Jays,Cleveland Indians,R,R
+24-04-2018,Chicago Cubs,Cleveland Indians,R,R
+25-04-2018,Chicago Cubs,Cleveland Indians,L,R
+26-04-2018,Seattle Mariners,Cleveland Indians,L,R
+27-04-2018,Seattle Mariners,Cleveland Indians,R,R
+28-04-2018,Seattle Mariners,Cleveland Indians,R,R
+29-04-2018,Seattle Mariners,Cleveland Indians,L,R
+30-04-2018,Texas Rangers,Cleveland Indians,L,R
+01-05-2018,Texas Rangers,Cleveland Indians,R,R
+02-05-2018,Texas Rangers,Cleveland Indians,L,R
+11-05-2018,Kansas City Royals,Cleveland Indians,R,R
+12-05-2018,Kansas City Royals,Cleveland Indians,R,R
+13-05-2018,Kansas City Royals,Cleveland Indians,L,R
+24-05-2018,Houston Astros,Cleveland Indians,R,R
+25-05-2018,Houston Astros,Cleveland Indians,L,R
+26-05-2018,Houston Astros,Cleveland Indians,R,R
+27-05-2018,Houston Astros,Cleveland Indians,R,R
+28-05-2018,Chicago White Sox,Cleveland Indians,R,R
+29-05-2018,Chicago White Sox,Cleveland Indians,R,R
+30-05-2018,Chicago White Sox,Cleveland Indians,R,R
+05-06-2018,Milwaukee Brewers,Cleveland Indians,R,R
+06-06-2018,Milwaukee Brewers,Cleveland Indians,R,R
+15-06-2018,Minnesota Twins,Cleveland Indians,R,R
+16-06-2018,Minnesota Twins,Cleveland Indians,R,R
+17-06-2018,Minnesota Twins,Cleveland Indians,R,R
+18-06-2018,Chicago White Sox,Cleveland Indians,R,R
+19-06-2018,Chicago White Sox,Cleveland Indians,L,R
+20-06-2018,Chicago White Sox,Cleveland Indians,R,R
+22-06-2018,Detroit Tigers,Cleveland Indians,R,R
+23-06-2018,Detroit Tigers,Cleveland Indians,L,R
+24-06-2018,Detroit Tigers,Cleveland Indians,L,R
+06-07-2018,Oakland Athletics,Cleveland Indians,R,R
+07-07-2018,Oakland Athletics,Cleveland Indians,R,R
+08-07-2018,Oakland Athletics,Cleveland Indians,L,R
+09-07-2018,Cincinnati Reds,Cleveland Indians,R,R
+10-07-2018,Cincinnati Reds,Cleveland Indians,R,R
+11-07-2018,Cincinnati Reds,Cleveland Indians,R,R
+12-07-2018,New York Yankees,Cleveland Indians,R,R
+13-07-2018,New York Yankees,Cleveland Indians,R,R
+14-07-2018,New York Yankees,Cleveland Indians,nan,R
+15-07-2018,New York Yankees,Cleveland Indians,R,R
+23-07-2018,Pittsburgh Pirates,Cleveland Indians,R,R
+24-07-2018,Pittsburgh Pirates,Cleveland Indians,R,R
+25-07-2018,Pittsburgh Pirates,Cleveland Indians,R,R
+03-08-2018,Los Angeles Angels,Cleveland Indians,R,R
+04-08-2018,Los Angeles Angels,Cleveland Indians,R,R
+05-08-2018,Los Angeles Angels,Cleveland Indians,R,R
+06-08-2018,Minnesota Twins,Cleveland Indians,R,R
+07-08-2018,Minnesota Twins,Cleveland Indians,L,R
+08-08-2018,Minnesota Twins,Cleveland Indians,R,R
+09-08-2018,Minnesota Twins,Cleveland Indians,R,R
+17-08-2018,Baltimore Orioles,Cleveland Indians,R,R
+18-08-2018,Baltimore Orioles,Cleveland Indians,R,R
+19-08-2018,Baltimore Orioles,Cleveland Indians,R,R
+28-08-2018,Minnesota Twins,Cleveland Indians,R,R
+29-08-2018,Minnesota Twins,Cleveland Indians,R,R
+30-08-2018,Minnesota Twins,Cleveland Indians,R,R
+31-08-2018,Tampa Bay Rays,Cleveland Indians,R,R
+01-09-2018,Tampa Bay Rays,Cleveland Indians,L,R
+02-09-2018,Tampa Bay Rays,Cleveland Indians,R,R
+03-09-2018,Kansas City Royals,Cleveland Indians,R,R
+04-09-2018,Kansas City Royals,Cleveland Indians,L,R
+05-09-2018,Kansas City Royals,Cleveland Indians,R,R
+14-09-2018,Detroit Tigers,Cleveland Indians,L,R
+15-09-2018,Detroit Tigers,Cleveland Indians,R,R
+16-09-2018,Detroit Tigers,Cleveland Indians,L,R
+18-09-2018,Chicago White Sox,Cleveland Indians,L,R
+19-09-2018,Chicago White Sox,Cleveland Indians,R,R
+20-09-2018,Chicago White Sox,Cleveland Indians,R,R
+21-09-2018,Boston Red Sox,Cleveland Indians,L,R
+22-09-2018,Boston Red Sox,Cleveland Indians,R,R
+23-09-2018,Boston Red Sox,Cleveland Indians,R,R
+08-10-2018,Houston Astros,Cleveland Indians,L,R
+06-04-2018,Atlanta Braves,Colorado Rockies,R,R
+07-04-2018,Atlanta Braves,Colorado Rockies,R,R
+08-04-2018,Atlanta Braves,Colorado Rockies,L,L
+09-04-2018,San Diego Padres,Colorado Rockies,L,R
+10-04-2018,San Diego Padres,Colorado Rockies,L,L
+11-04-2018,San Diego Padres,Colorado Rockies,R,R
+20-04-2018,Chicago Cubs,Colorado Rockies,R,R
+21-04-2018,Chicago Cubs,Colorado Rockies,R,L
+22-04-2018,Chicago Cubs,Colorado Rockies,L,R
+23-04-2018,San Diego Padres,Colorado Rockies,R,R
+24-04-2018,San Diego Padres,Colorado Rockies,L,L
+25-04-2018,San Diego Padres,Colorado Rockies,R,R
+08-05-2018,Los Angeles Angels,Colorado Rockies,L,R
+09-05-2018,Los Angeles Angels,Colorado Rockies,R,L
+10-05-2018,Milwaukee Brewers,Colorado Rockies,R,R
+11-05-2018,Milwaukee Brewers,Colorado Rockies,R,R
+12-05-2018,Milwaukee Brewers,Colorado Rockies,L,L
+13-05-2018,Milwaukee Brewers,Colorado Rockies,R,R
+25-05-2018,Cincinnati Reds,Colorado Rockies,R,R
+26-05-2018,Cincinnati Reds,Colorado Rockies,R,L
+27-05-2018,Cincinnati Reds,Colorado Rockies,R,R
+28-05-2018,San Francisco Giants,Colorado Rockies,L,R
+29-05-2018,San Francisco Giants,Colorado Rockies,R,L
+30-05-2018,San Francisco Giants,Colorado Rockies,L,R
+01-06-2018,Los Angeles Dodgers,Colorado Rockies,L,L
+02-06-2018,Los Angeles Dodgers,Colorado Rockies,R,R
+03-06-2018,Los Angeles Dodgers,Colorado Rockies,L,R
+08-06-2018,Arizona Diamondbacks,Colorado Rockies,R,R
+09-06-2018,Arizona Diamondbacks,Colorado Rockies,R,R
+10-06-2018,Arizona Diamondbacks,Colorado Rockies,R,L
+18-06-2018,New York Mets,Colorado Rockies,R,L
+19-06-2018,New York Mets,Colorado Rockies,L,R
+20-06-2018,New York Mets,Colorado Rockies,R,R
+21-06-2018,New York Mets,Colorado Rockies,L,L
+22-06-2018,Miami Marlins,Colorado Rockies,L,R
+23-06-2018,Miami Marlins,Colorado Rockies,R,L
+24-06-2018,Miami Marlins,Colorado Rockies,L,R
+02-07-2018,San Francisco Giants,Colorado Rockies,L,L
+03-07-2018,San Francisco Giants,Colorado Rockies,R,R
+04-07-2018,San Francisco Giants,Colorado Rockies,L,L
+10-07-2018,Arizona Diamondbacks,Colorado Rockies,L,L
+11-07-2018,Arizona Diamondbacks,Colorado Rockies,R,R
+12-07-2018,Arizona Diamondbacks,Colorado Rockies,L,L
+13-07-2018,Seattle Mariners,Colorado Rockies,R,R
+14-07-2018,Seattle Mariners,Colorado Rockies,L,R
+15-07-2018,Seattle Mariners,Colorado Rockies,R,L
+24-07-2018,Houston Astros,Colorado Rockies,R,L
+25-07-2018,Houston Astros,Colorado Rockies,R,R
+27-07-2018,Oakland Athletics,Colorado Rockies,L,L
+28-07-2018,Oakland Athletics,Colorado Rockies,L,R
+29-07-2018,Oakland Athletics,Colorado Rockies,R,R
+06-08-2018,Pittsburgh Pirates,Colorado Rockies,R,L
+07-08-2018,Pittsburgh Pirates,Colorado Rockies,R,R
+08-08-2018,Pittsburgh Pirates,Colorado Rockies,R,R
+09-08-2018,Los Angeles Dodgers,Colorado Rockies,R,L
+10-08-2018,Los Angeles Dodgers,Colorado Rockies,R,R
+11-08-2018,Los Angeles Dodgers,Colorado Rockies,R,L
+12-08-2018,Los Angeles Dodgers,Colorado Rockies,L,R
+21-08-2018,San Diego Padres,Colorado Rockies,L,L
+22-08-2018,San Diego Padres,Colorado Rockies,R,R
+23-08-2018,San Diego Padres,Colorado Rockies,L,L
+24-08-2018,St. Louis Cardinals,Colorado Rockies,R,R
+25-08-2018,St. Louis Cardinals,Colorado Rockies,R,R
+26-08-2018,St. Louis Cardinals,Colorado Rockies,L,L
+03-09-2018,San Francisco Giants,Colorado Rockies,L,L
+04-09-2018,San Francisco Giants,Colorado Rockies,R,R
+05-09-2018,San Francisco Giants,Colorado Rockies,L,R
+07-09-2018,Los Angeles Dodgers,Colorado Rockies,L,R
+08-09-2018,Los Angeles Dodgers,Colorado Rockies,R,L
+09-09-2018,Los Angeles Dodgers,Colorado Rockies,L,L
+10-09-2018,Arizona Diamondbacks,Colorado Rockies,R,R
+11-09-2018,Arizona Diamondbacks,Colorado Rockies,R,R
+12-09-2018,Arizona Diamondbacks,Colorado Rockies,L,R
+13-09-2018,Arizona Diamondbacks,Colorado Rockies,R,L
+24-09-2018,Philadelphia Phillies,Colorado Rockies,R,R
+25-09-2018,Philadelphia Phillies,Colorado Rockies,R,R
+26-09-2018,Philadelphia Phillies,Colorado Rockies,R,R
+27-09-2018,Philadelphia Phillies,Colorado Rockies,R,R
+28-09-2018,Washington Nationals,Colorado Rockies,R,L
+29-09-2018,Washington Nationals,Colorado Rockies,R,R
+30-09-2018,Washington Nationals,Colorado Rockies,R,L
+07-10-2018,Milwaukee Brewers,Colorado Rockies,L,R
+30-03-2018,Pittsburgh Pirates,Detroit Tigers,R,R
+02-04-2018,Kansas City Royals,Detroit Tigers,R,L
+03-04-2018,Kansas City Royals,Detroit Tigers,R,L
+13-04-2018,New York Yankees,Detroit Tigers,L,R
+17-04-2018,Baltimore Orioles,Detroit Tigers,R,L
+18-04-2018,Baltimore Orioles,Detroit Tigers,R,L
+19-04-2018,Baltimore Orioles,Detroit Tigers,R,R
+21-04-2018,Kansas City Royals,Detroit Tigers,L,R
+22-04-2018,Kansas City Royals,Detroit Tigers,L,L
+30-04-2018,Tampa Bay Rays,Detroit Tigers,R,R
+01-05-2018,Tampa Bay Rays,Detroit Tigers,R,L
+02-05-2018,Tampa Bay Rays,Detroit Tigers,L,R
+13-05-2018,Seattle Mariners,Detroit Tigers,L,L
+14-05-2018,Cleveland Indians,Detroit Tigers,R,R
+15-05-2018,Cleveland Indians,Detroit Tigers,R,L
+16-05-2018,Cleveland Indians,Detroit Tigers,R,L
+25-05-2018,Chicago White Sox,Detroit Tigers,R,R
+26-05-2018,Chicago White Sox,Detroit Tigers,L,L
+27-05-2018,Chicago White Sox,Detroit Tigers,R,L
+28-05-2018,Los Angeles Angels,Detroit Tigers,L,L
+29-05-2018,Los Angeles Angels,Detroit Tigers,R,R
+30-05-2018,Los Angeles Angels,Detroit Tigers,R,R
+31-05-2018,Los Angeles Angels,Detroit Tigers,L,L
+01-06-2018,Toronto Blue Jays,Detroit Tigers,L,L
+02-06-2018,Toronto Blue Jays,Detroit Tigers,L,L
+03-06-2018,Toronto Blue Jays,Detroit Tigers,R,R
+08-06-2018,Cleveland Indians,Detroit Tigers,R,R
+09-06-2018,Cleveland Indians,Detroit Tigers,R,R
+10-06-2018,Cleveland Indians,Detroit Tigers,R,R
+12-06-2018,Minnesota Twins,Detroit Tigers,R,L
+13-06-2018,Minnesota Twins,Detroit Tigers,R,L
+14-06-2018,Minnesota Twins,Detroit Tigers,R,R
+25-06-2018,Oakland Athletics,Detroit Tigers,R,R
+26-06-2018,Oakland Athletics,Detroit Tigers,R,L
+27-06-2018,Oakland Athletics,Detroit Tigers,R,R
+28-06-2018,Oakland Athletics,Detroit Tigers,L,R
+05-07-2018,Texas Rangers,Detroit Tigers,R,L
+06-07-2018,Texas Rangers,Detroit Tigers,R,R
+07-07-2018,Texas Rangers,Detroit Tigers,L,R
+08-07-2018,Texas Rangers,Detroit Tigers,R,R
+20-07-2018,Boston Red Sox,Detroit Tigers,L,L
+21-07-2018,Boston Red Sox,Detroit Tigers,L,R
+22-07-2018,Boston Red Sox,Detroit Tigers,L,L
+27-07-2018,Cleveland Indians,Detroit Tigers,R,R
+28-07-2018,Cleveland Indians,Detroit Tigers,R,L
+29-07-2018,Cleveland Indians,Detroit Tigers,R,R
+31-07-2018,Cincinnati Reds,Detroit Tigers,R,L
+01-08-2018,Cincinnati Reds,Detroit Tigers,R,R
+10-08-2018,Minnesota Twins,Detroit Tigers,R,R
+11-08-2018,Minnesota Twins,Detroit Tigers,R,L
+12-08-2018,Minnesota Twins,Detroit Tigers,R,L
+13-08-2018,Chicago White Sox,Detroit Tigers,R,R
+14-08-2018,Chicago White Sox,Detroit Tigers,R,L
+15-08-2018,Chicago White Sox,Detroit Tigers,L,R
+21-08-2018,Chicago Cubs,Detroit Tigers,R,R
+22-08-2018,Chicago Cubs,Detroit Tigers,L,L
+23-08-2018,Chicago White Sox,Detroit Tigers,R,L
+24-08-2018,Chicago White Sox,Detroit Tigers,R,R
+25-08-2018,Chicago White Sox,Detroit Tigers,R,L
+26-08-2018,Chicago White Sox,Detroit Tigers,R,R
+07-09-2018,St. Louis Cardinals,Detroit Tigers,L,L
+08-09-2018,St. Louis Cardinals,Detroit Tigers,R,L
+09-09-2018,St. Louis Cardinals,Detroit Tigers,R,R
+10-09-2018,Houston Astros,Detroit Tigers,R,L
+11-09-2018,Houston Astros,Detroit Tigers,L,R
+12-09-2018,Houston Astros,Detroit Tigers,R,L
+17-09-2018,Minnesota Twins,Detroit Tigers,L,R
+18-09-2018,Minnesota Twins,Detroit Tigers,R,L
+19-09-2018,Minnesota Twins,Detroit Tigers,L,R
+20-09-2018,Kansas City Royals,Detroit Tigers,R,L
+21-09-2018,Kansas City Royals,Detroit Tigers,R,L
+22-09-2018,Kansas City Royals,Detroit Tigers,R,R
+23-09-2018,Kansas City Royals,Detroit Tigers,R,L
+02-04-2018,Baltimore Orioles,Houston Astros,R,R
+03-04-2018,Baltimore Orioles,Houston Astros,R,R
+04-04-2018,Baltimore Orioles,Houston Astros,R,L
+06-04-2018,San Diego Padres,Houston Astros,R,R
+07-04-2018,San Diego Padres,Houston Astros,R,R
+08-04-2018,San Diego Padres,Houston Astros,R,R
+13-04-2018,Texas Rangers,Houston Astros,L,R
+14-04-2018,Texas Rangers,Houston Astros,L,R
+15-04-2018,Texas Rangers,Houston Astros,R,R
+23-04-2018,Los Angeles Angels,Houston Astros,L,R
+24-04-2018,Los Angeles Angels,Houston Astros,R,R
+25-04-2018,Los Angeles Angels,Houston Astros,R,R
+27-04-2018,Oakland Athletics,Houston Astros,L,L
+28-04-2018,Oakland Athletics,Houston Astros,R,R
+29-04-2018,Oakland Athletics,Houston Astros,R,R
+30-04-2018,New York Yankees,Houston Astros,R,R
+01-05-2018,New York Yankees,Houston Astros,L,R
+02-05-2018,New York Yankees,Houston Astros,R,L
+03-05-2018,New York Yankees,Houston Astros,R,R
+11-05-2018,Texas Rangers,Houston Astros,L,R
+12-05-2018,Texas Rangers,Houston Astros,R,R
+13-05-2018,Texas Rangers,Houston Astros,L,L
+18-05-2018,Cleveland Indians,Houston Astros,R,R
+19-05-2018,Cleveland Indians,Houston Astros,R,L
+20-05-2018,Cleveland Indians,Houston Astros,R,R
+22-05-2018,San Francisco Giants,Houston Astros,L,R
+23-05-2018,San Francisco Giants,Houston Astros,R,R
+31-05-2018,Boston Red Sox,Houston Astros,L,R
+01-06-2018,Boston Red Sox,Houston Astros,L,R
+02-06-2018,Boston Red Sox,Houston Astros,L,R
+03-06-2018,Boston Red Sox,Houston Astros,R,R
+05-06-2018,Seattle Mariners,Houston Astros,L,L
+06-06-2018,Seattle Mariners,Houston Astros,L,R
+18-06-2018,Tampa Bay Rays,Houston Astros,R,R
+19-06-2018,Tampa Bay Rays,Houston Astros,L,R
+20-06-2018,Tampa Bay Rays,Houston Astros,R,R
+22-06-2018,Kansas City Royals,Houston Astros,L,L
+23-06-2018,Kansas City Royals,Houston Astros,R,R
+24-06-2018,Kansas City Royals,Houston Astros,R,R
+25-06-2018,Toronto Blue Jays,Houston Astros,L,R
+26-06-2018,Toronto Blue Jays,Houston Astros,L,R
+27-06-2018,Toronto Blue Jays,Houston Astros,R,L
+05-07-2018,Chicago White Sox,Houston Astros,L,R
+06-07-2018,Chicago White Sox,Houston Astros,R,R
+07-07-2018,Chicago White Sox,Houston Astros,R,R
+08-07-2018,Chicago White Sox,Houston Astros,R,L
+09-07-2018,Oakland Athletics,Houston Astros,R,R
+10-07-2018,Oakland Athletics,Houston Astros,L,R
+11-07-2018,Oakland Athletics,Houston Astros,R,R
+12-07-2018,Oakland Athletics,Houston Astros,R,R
+13-07-2018,Detroit Tigers,Houston Astros,R,L
+14-07-2018,Detroit Tigers,Houston Astros,R,R
+15-07-2018,Detroit Tigers,Houston Astros,L,R
+27-07-2018,Texas Rangers,Houston Astros,R,L
+28-07-2018,Texas Rangers,Houston Astros,R,R
+29-07-2018,Texas Rangers,Houston Astros,L,R
+09-08-2018,Seattle Mariners,Houston Astros,L,R
+10-08-2018,Seattle Mariners,Houston Astros,R,R
+11-08-2018,Seattle Mariners,Houston Astros,L,R
+12-08-2018,Seattle Mariners,Houston Astros,R,L
+14-08-2018,Colorado Rockies,Houston Astros,R,R
+15-08-2018,Colorado Rockies,Houston Astros,L,R
+27-08-2018,Oakland Athletics,Houston Astros,L,R
+28-08-2018,Oakland Athletics,Houston Astros,R,R
+29-08-2018,Oakland Athletics,Houston Astros,R,L
+30-08-2018,Los Angeles Angels,Houston Astros,L,R
+31-08-2018,Los Angeles Angels,Houston Astros,R,L
+01-09-2018,Los Angeles Angels,Houston Astros,R,R
+02-09-2018,Los Angeles Angels,Houston Astros,R,R
+03-09-2018,Minnesota Twins,Houston Astros,R,L
+04-09-2018,Minnesota Twins,Houston Astros,R,R
+05-09-2018,Minnesota Twins,Houston Astros,R,L
+14-09-2018,Arizona Diamondbacks,Houston Astros,L,L
+15-09-2018,Arizona Diamondbacks,Houston Astros,R,R
+16-09-2018,Arizona Diamondbacks,Houston Astros,R,R
+17-09-2018,Seattle Mariners,Houston Astros,L,L
+18-09-2018,Seattle Mariners,Houston Astros,R,R
+19-09-2018,Seattle Mariners,Houston Astros,R,L
+21-09-2018,Los Angeles Angels,Houston Astros,L,R
+22-09-2018,Los Angeles Angels,Houston Astros,R,R
+23-09-2018,Los Angeles Angels,Houston Astros,L,R
+05-10-2018,Cleveland Indians,Houston Astros,R,R
+06-10-2018,Cleveland Indians,Houston Astros,R,R
+16-10-2018,Boston Red Sox,Houston Astros,R,L
+17-10-2018,Boston Red Sox,Houston Astros,R,R
+18-10-2018,Boston Red Sox,Houston Astros,L,R
+29-03-2018,Chicago White Sox,Kansas City Royals,R,L
+31-03-2018,Chicago White Sox,Kansas City Royals,R,R
+09-04-2018,Seattle Mariners,Kansas City Royals,L,R
+10-04-2018,Seattle Mariners,Kansas City Royals,R,L
+11-04-2018,Seattle Mariners,Kansas City Royals,L,L
+12-04-2018,Los Angeles Angels,Kansas City Royals,R,R
+13-04-2018,Los Angeles Angels,Kansas City Royals,L,R
+14-04-2018,Los Angeles Angels,Kansas City Royals,R,R
+24-04-2018,Milwaukee Brewers,Kansas City Royals,R,R
+25-04-2018,Milwaukee Brewers,Kansas City Royals,R,R
+26-04-2018,Chicago White Sox,Kansas City Royals,R,R
+27-04-2018,Chicago White Sox,Kansas City Royals,R,L
+29-04-2018,Chicago White Sox,Kansas City Royals,L,R
+03-05-2018,Detroit Tigers,Kansas City Royals,R,L
+04-05-2018,Detroit Tigers,Kansas City Royals,L,R
+05-05-2018,Detroit Tigers,Kansas City Royals,R,R
+06-05-2018,Detroit Tigers,Kansas City Royals,L,R
+14-05-2018,Tampa Bay Rays,Kansas City Royals,L,L
+15-05-2018,Tampa Bay Rays,Kansas City Royals,L,R
+16-05-2018,Tampa Bay Rays,Kansas City Royals,R,R
+18-05-2018,New York Yankees,Kansas City Royals,nan,R
+19-05-2018,New York Yankees,Kansas City Royals,R,L
+20-05-2018,New York Yankees,Kansas City Royals,R,L
+28-05-2018,Minnesota Twins,Kansas City Royals,R,R
+29-05-2018,Minnesota Twins,Kansas City Royals,R,L
+30-05-2018,Minnesota Twins,Kansas City Royals,R,R
+01-06-2018,Oakland Athletics,Kansas City Royals,R,R
+02-06-2018,Oakland Athletics,Kansas City Royals,R,R
+03-06-2018,Oakland Athletics,Kansas City Royals,R,R
+12-06-2018,Cincinnati Reds,Kansas City Royals,R,R
+13-06-2018,Cincinnati Reds,Kansas City Royals,R,R
+15-06-2018,Houston Astros,Kansas City Royals,R,R
+16-06-2018,Houston Astros,Kansas City Royals,L,L
+17-06-2018,Houston Astros,Kansas City Royals,R,R
+18-06-2018,Texas Rangers,Kansas City Royals,R,R
+19-06-2018,Texas Rangers,Kansas City Royals,L,R
+20-06-2018,Texas Rangers,Kansas City Royals,R,R
+25-06-2018,Los Angeles Angels,Kansas City Royals,L,R
+02-07-2018,Cleveland Indians,Kansas City Royals,R,R
+03-07-2018,Cleveland Indians,Kansas City Royals,R,L
+04-07-2018,Cleveland Indians,Kansas City Royals,R,R
+06-07-2018,Boston Red Sox,Kansas City Royals,L,R
+07-07-2018,Boston Red Sox,Kansas City Royals,L,R
+08-07-2018,Boston Red Sox,Kansas City Royals,R,R
+20-07-2018,Minnesota Twins,Kansas City Royals,R,L
+21-07-2018,Minnesota Twins,Kansas City Royals,R,R
+22-07-2018,Minnesota Twins,Kansas City Royals,R,R
+23-07-2018,Detroit Tigers,Kansas City Royals,L,R
+24-07-2018,Detroit Tigers,Kansas City Royals,R,R
+25-07-2018,Detroit Tigers,Kansas City Royals,L,L
+06-08-2018,Chicago Cubs,Kansas City Royals,L,R
+07-08-2018,Chicago Cubs,Kansas City Royals,L,R
+08-08-2018,Chicago Cubs,Kansas City Royals,L,R
+10-08-2018,St. Louis Cardinals,Kansas City Royals,L,R
+11-08-2018,St. Louis Cardinals,Kansas City Royals,R,L
+12-08-2018,St. Louis Cardinals,Kansas City Royals,R,R
+13-08-2018,Toronto Blue Jays,Kansas City Royals,R,R
+14-08-2018,Toronto Blue Jays,Kansas City Royals,L,R
+15-08-2018,Toronto Blue Jays,Kansas City Royals,R,R
+16-08-2018,Toronto Blue Jays,Kansas City Royals,R,R
+24-08-2018,Cleveland Indians,Kansas City Royals,R,R
+25-08-2018,Cleveland Indians,Kansas City Royals,R,R
+26-08-2018,Cleveland Indians,Kansas City Royals,R,R
+28-08-2018,Detroit Tigers,Kansas City Royals,L,R
+29-08-2018,Detroit Tigers,Kansas City Royals,R,L
+31-08-2018,Baltimore Orioles,Kansas City Royals,R,R
+01-09-2018,Baltimore Orioles,Kansas City Royals,R,R
+02-09-2018,Baltimore Orioles,Kansas City Royals,R,R
+10-09-2018,Chicago White Sox,Kansas City Royals,R,R
+11-09-2018,Chicago White Sox,Kansas City Royals,R,R
+12-09-2018,Chicago White Sox,Kansas City Royals,L,L
+13-09-2018,Minnesota Twins,Kansas City Royals,L,R
+14-09-2018,Minnesota Twins,Kansas City Royals,R,R
+15-09-2018,Minnesota Twins,Kansas City Royals,R,R
+16-09-2018,Minnesota Twins,Kansas City Royals,R,R
+27-09-2018,Cleveland Indians,Kansas City Royals,R,R
+28-09-2018,Cleveland Indians,Kansas City Royals,R,R
+29-09-2018,Cleveland Indians,Kansas City Royals,R,R
+30-09-2018,Cleveland Indians,Kansas City Royals,R,L
+29-03-2018,San Francisco Giants,Los Angeles Dodgers,L,L
+30-03-2018,San Francisco Giants,Los Angeles Dodgers,R,L
+31-03-2018,San Francisco Giants,Los Angeles Dodgers,L,R
+01-04-2018,San Francisco Giants,Los Angeles Dodgers,R,L
+10-04-2018,Oakland Athletics,Los Angeles Dodgers,L,L
+11-04-2018,Oakland Athletics,Los Angeles Dodgers,R,L
+13-04-2018,Arizona Diamondbacks,Los Angeles Dodgers,R,R
+14-04-2018,Arizona Diamondbacks,Los Angeles Dodgers,R,L
+15-04-2018,Arizona Diamondbacks,Los Angeles Dodgers,R,L
+20-04-2018,Washington Nationals,Los Angeles Dodgers,R,L
+21-04-2018,Washington Nationals,Los Angeles Dodgers,R,L
+22-04-2018,Washington Nationals,Los Angeles Dodgers,R,L
+23-04-2018,Miami Marlins,Los Angeles Dodgers,L,R
+24-04-2018,Miami Marlins,Los Angeles Dodgers,L,R
+25-04-2018,Miami Marlins,Los Angeles Dodgers,R,L
+08-05-2018,Arizona Diamondbacks,Los Angeles Dodgers,R,L
+09-05-2018,Arizona Diamondbacks,Los Angeles Dodgers,L,L
+10-05-2018,Cincinnati Reds,Los Angeles Dodgers,R,R
+11-05-2018,Cincinnati Reds,Los Angeles Dodgers,R,R
+12-05-2018,Cincinnati Reds,Los Angeles Dodgers,R,R
+13-05-2018,Cincinnati Reds,Los Angeles Dodgers,R,L
+21-05-2018,Colorado Rockies,Los Angeles Dodgers,R,R
+22-05-2018,Colorado Rockies,Los Angeles Dodgers,R,R
+23-05-2018,Colorado Rockies,Los Angeles Dodgers,L,R
+25-05-2018,San Diego Padres,Los Angeles Dodgers,L,R
+26-05-2018,San Diego Padres,Los Angeles Dodgers,R,L
+27-05-2018,San Diego Padres,Los Angeles Dodgers,L,R
+28-05-2018,Philadelphia Phillies,Los Angeles Dodgers,R,R
+29-05-2018,Philadelphia Phillies,Los Angeles Dodgers,R,R
+30-05-2018,Philadelphia Phillies,Los Angeles Dodgers,R,R
+31-05-2018,Philadelphia Phillies,Los Angeles Dodgers,R,L
+08-06-2018,Atlanta Braves,Los Angeles Dodgers,R,R
+09-06-2018,Atlanta Braves,Los Angeles Dodgers,R,L
+10-06-2018,Atlanta Braves,Los Angeles Dodgers,L,R
+12-06-2018,Texas Rangers,Los Angeles Dodgers,R,L
+13-06-2018,Texas Rangers,Los Angeles Dodgers,L,R
+15-06-2018,San Francisco Giants,Los Angeles Dodgers,L,R
+16-06-2018,San Francisco Giants,Los Angeles Dodgers,L,L
+17-06-2018,San Francisco Giants,Los Angeles Dodgers,R,L
+25-06-2018,Chicago Cubs,Los Angeles Dodgers,R,R
+26-06-2018,Chicago Cubs,Los Angeles Dodgers,L,R
+27-06-2018,Chicago Cubs,Los Angeles Dodgers,R,L
+28-06-2018,Chicago Cubs,Los Angeles Dodgers,L,L
+29-06-2018,Colorado Rockies,Los Angeles Dodgers,L,L
+30-06-2018,Colorado Rockies,Los Angeles Dodgers,R,R
+01-07-2018,Colorado Rockies,Los Angeles Dodgers,R,R
+02-07-2018,Pittsburgh Pirates,Los Angeles Dodgers,R,L
+03-07-2018,Pittsburgh Pirates,Los Angeles Dodgers,R,L
+04-07-2018,Pittsburgh Pirates,Los Angeles Dodgers,R,L
+13-07-2018,Los Angeles Angels,Los Angeles Dodgers,R,R
+14-07-2018,Los Angeles Angels,Los Angeles Dodgers,L,L
+15-07-2018,Los Angeles Angels,Los Angeles Dodgers,R,L
+30-07-2018,Milwaukee Brewers,Los Angeles Dodgers,R,R
+31-07-2018,Milwaukee Brewers,Los Angeles Dodgers,L,R
+01-08-2018,Milwaukee Brewers,Los Angeles Dodgers,R,L
+02-08-2018,Milwaukee Brewers,Los Angeles Dodgers,R,L
+03-08-2018,Houston Astros,Los Angeles Dodgers,R,L
+04-08-2018,Houston Astros,Los Angeles Dodgers,R,R
+05-08-2018,Houston Astros,Los Angeles Dodgers,R,R
+13-08-2018,San Francisco Giants,Los Angeles Dodgers,L,L
+14-08-2018,San Francisco Giants,Los Angeles Dodgers,L,L
+15-08-2018,San Francisco Giants,Los Angeles Dodgers,L,L
+20-08-2018,St. Louis Cardinals,Los Angeles Dodgers,L,L
+21-08-2018,St. Louis Cardinals,Los Angeles Dodgers,R,L
+22-08-2018,St. Louis Cardinals,Los Angeles Dodgers,R,R
+24-08-2018,San Diego Padres,Los Angeles Dodgers,L,L
+25-08-2018,San Diego Padres,Los Angeles Dodgers,R,L
+26-08-2018,San Diego Padres,Los Angeles Dodgers,L,L
+30-08-2018,Arizona Diamondbacks,Los Angeles Dodgers,L,L
+31-08-2018,Arizona Diamondbacks,Los Angeles Dodgers,R,L
+01-09-2018,Arizona Diamondbacks,Los Angeles Dodgers,L,L
+02-09-2018,Arizona Diamondbacks,Los Angeles Dodgers,R,R
+03-09-2018,New York Mets,Los Angeles Dodgers,R,L
+04-09-2018,New York Mets,Los Angeles Dodgers,L,L
+05-09-2018,New York Mets,Los Angeles Dodgers,R,L
+17-09-2018,Colorado Rockies,Los Angeles Dodgers,R,L
+18-09-2018,Colorado Rockies,Los Angeles Dodgers,L,L
+19-09-2018,Colorado Rockies,Los Angeles Dodgers,L,R
+21-09-2018,San Diego Padres,Los Angeles Dodgers,L,R
+22-09-2018,San Diego Padres,Los Angeles Dodgers,R,L
+23-09-2018,San Diego Padres,Los Angeles Dodgers,L,L
+01-10-2018,Colorado Rockies,Los Angeles Dodgers,R,R
+04-10-2018,Atlanta Braves,Los Angeles Dodgers,R,L
+05-10-2018,Atlanta Braves,Los Angeles Dodgers,R,L
+15-10-2018,Milwaukee Brewers,Los Angeles Dodgers,R,R
+16-10-2018,Milwaukee Brewers,Los Angeles Dodgers,L,L
+17-10-2018,Milwaukee Brewers,Los Angeles Dodgers,L,L
+26-10-2018,Boston Red Sox,Los Angeles Dodgers,R,R
+27-10-2018,Boston Red Sox,Los Angeles Dodgers,L,L
+28-10-2018,Boston Red Sox,Los Angeles Dodgers,L,L
+29-03-2018,Chicago Cubs,Miami Marlins,L,R
+30-03-2018,Chicago Cubs,Miami Marlins,R,L
+31-03-2018,Chicago Cubs,Miami Marlins,R,R
+01-04-2018,Chicago Cubs,Miami Marlins,L,L
+02-04-2018,Boston Red Sox,Miami Marlins,L,R
+03-04-2018,Boston Red Sox,Miami Marlins,L,R
+09-04-2018,New York Mets,Miami Marlins,R,R
+10-04-2018,New York Mets,Miami Marlins,R,L
+11-04-2018,New York Mets,Miami Marlins,R,L
+13-04-2018,Pittsburgh Pirates,Miami Marlins,R,L
+14-04-2018,Pittsburgh Pirates,Miami Marlins,R,R
+15-04-2018,Pittsburgh Pirates,Miami Marlins,R,R
+27-04-2018,Colorado Rockies,Miami Marlins,L,R
+28-04-2018,Colorado Rockies,Miami Marlins,R,L
+29-04-2018,Colorado Rockies,Miami Marlins,R,L
+30-04-2018,Philadelphia Phillies,Miami Marlins,R,R
+01-05-2018,Philadelphia Phillies,Miami Marlins,R,L
+02-05-2018,Philadelphia Phillies,Miami Marlins,R,R
+10-05-2018,Atlanta Braves,Miami Marlins,R,L
+11-05-2018,Atlanta Braves,Miami Marlins,R,R
+12-05-2018,Atlanta Braves,Miami Marlins,R,L
+13-05-2018,Atlanta Braves,Miami Marlins,L,R
+15-05-2018,Los Angeles Dodgers,Miami Marlins,L,L
+16-05-2018,Los Angeles Dodgers,Miami Marlins,R,R
+17-05-2018,Los Angeles Dodgers,Miami Marlins,R,L
+25-05-2018,Washington Nationals,Miami Marlins,R,R
+26-05-2018,Washington Nationals,Miami Marlins,R,L
+27-05-2018,Washington Nationals,Miami Marlins,R,R
+08-06-2018,San Diego Padres,Miami Marlins,L,L
+09-06-2018,San Diego Padres,Miami Marlins,R,R
+10-06-2018,San Diego Padres,Miami Marlins,L,R
+11-06-2018,San Francisco Giants,Miami Marlins,L,L
+12-06-2018,San Francisco Giants,Miami Marlins,R,R
+13-06-2018,San Francisco Giants,Miami Marlins,L,L
+14-06-2018,San Francisco Giants,Miami Marlins,R,R
+25-06-2018,Arizona Diamondbacks,Miami Marlins,R,R
+26-06-2018,Arizona Diamondbacks,Miami Marlins,R,R
+27-06-2018,Arizona Diamondbacks,Miami Marlins,L,L
+28-06-2018,Arizona Diamondbacks,Miami Marlins,R,R
+29-06-2018,New York Mets,Miami Marlins,R,R
+30-06-2018,New York Mets,Miami Marlins,R,R
+01-07-2018,New York Mets,Miami Marlins,L,R
+02-07-2018,Tampa Bay Rays,Miami Marlins,R,L
+03-07-2018,Tampa Bay Rays,Miami Marlins,L,R
+04-07-2018,Tampa Bay Rays,Miami Marlins,R,R
+09-07-2018,Milwaukee Brewers,Miami Marlins,R,R
+10-07-2018,Milwaukee Brewers,Miami Marlins,R,R
+11-07-2018,Milwaukee Brewers,Miami Marlins,R,R
+13-07-2018,Philadelphia Phillies,Miami Marlins,R,L
+14-07-2018,Philadelphia Phillies,Miami Marlins,R,R
+15-07-2018,Philadelphia Phillies,Miami Marlins,R,R
+23-07-2018,Atlanta Braves,Miami Marlins,L,R
+24-07-2018,Atlanta Braves,Miami Marlins,R,L
+26-07-2018,Washington Nationals,Miami Marlins,L,R
+27-07-2018,Washington Nationals,Miami Marlins,R,R
+28-07-2018,Washington Nationals,Miami Marlins,L,R
+29-07-2018,Washington Nationals,Miami Marlins,R,R
+06-08-2018,St. Louis Cardinals,Miami Marlins,R,L
+07-08-2018,St. Louis Cardinals,Miami Marlins,R,R
+08-08-2018,St. Louis Cardinals,Miami Marlins,R,R
+10-08-2018,New York Mets,Miami Marlins,R,R
+11-08-2018,New York Mets,Miami Marlins,R,R
+12-08-2018,New York Mets,Miami Marlins,R,L
+21-08-2018,New York Yankees,Miami Marlins,R,R
+22-08-2018,New York Yankees,Miami Marlins,R,R
+23-08-2018,Atlanta Braves,Miami Marlins,L,R
+24-08-2018,Atlanta Braves,Miami Marlins,R,R
+25-08-2018,Atlanta Braves,Miami Marlins,R,L
+26-08-2018,Atlanta Braves,Miami Marlins,R,R
+31-08-2018,Toronto Blue Jays,Miami Marlins,R,R
+01-09-2018,Toronto Blue Jays,Miami Marlins,R,L
+02-09-2018,Toronto Blue Jays,Miami Marlins,R,R
+03-09-2018,Philadelphia Phillies,Miami Marlins,R,R
+04-09-2018,Philadelphia Phillies,Miami Marlins,R,R
+05-09-2018,Philadelphia Phillies,Miami Marlins,R,R
+17-09-2018,Washington Nationals,Miami Marlins,R,R
+18-09-2018,Washington Nationals,Miami Marlins,R,R
+20-09-2018,Cincinnati Reds,Miami Marlins,L,R
+21-09-2018,Cincinnati Reds,Miami Marlins,R,L
+22-09-2018,Cincinnati Reds,Miami Marlins,R,R
+23-09-2018,Cincinnati Reds,Miami Marlins,R,R
+02-04-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+03-04-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+04-04-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+05-04-2018,Chicago Cubs,Milwaukee Brewers,L,L
+06-04-2018,Chicago Cubs,Milwaukee Brewers,R,R
+07-04-2018,Chicago Cubs,Milwaukee Brewers,R,R
+08-04-2018,Chicago Cubs,Milwaukee Brewers,L,R
+16-04-2018,Cincinnati Reds,Milwaukee Brewers,R,L
+17-04-2018,Cincinnati Reds,Milwaukee Brewers,R,R
+18-04-2018,Cincinnati Reds,Milwaukee Brewers,R,R
+19-04-2018,Miami Marlins,Milwaukee Brewers,L,R
+20-04-2018,Miami Marlins,Milwaukee Brewers,R,R
+21-04-2018,Miami Marlins,Milwaukee Brewers,R,L
+22-04-2018,Miami Marlins,Milwaukee Brewers,L,R
+04-05-2018,Pittsburgh Pirates,Milwaukee Brewers,R,R
+05-05-2018,Pittsburgh Pirates,Milwaukee Brewers,R,R
+06-05-2018,Pittsburgh Pirates,Milwaukee Brewers,R,R
+08-05-2018,Cleveland Indians,Milwaukee Brewers,R,L
+09-05-2018,Cleveland Indians,Milwaukee Brewers,R,R
+21-05-2018,Arizona Diamondbacks,Milwaukee Brewers,R,R
+22-05-2018,Arizona Diamondbacks,Milwaukee Brewers,R,R
+23-05-2018,Arizona Diamondbacks,Milwaukee Brewers,R,L
+24-05-2018,New York Mets,Milwaukee Brewers,L,R
+25-05-2018,New York Mets,Milwaukee Brewers,R,R
+26-05-2018,New York Mets,Milwaukee Brewers,L,R
+27-05-2018,New York Mets,Milwaukee Brewers,R,R
+28-05-2018,St. Louis Cardinals,Milwaukee Brewers,R,L
+29-05-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+30-05-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+11-06-2018,Chicago Cubs,Milwaukee Brewers,L,R
+12-06-2018,Chicago Cubs,Milwaukee Brewers,R,R
+13-06-2018,Chicago Cubs,Milwaukee Brewers,L,R
+15-06-2018,Philadelphia Phillies,Milwaukee Brewers,R,L
+16-06-2018,Philadelphia Phillies,Milwaukee Brewers,R,R
+17-06-2018,Philadelphia Phillies,Milwaukee Brewers,R,R
+21-06-2018,St. Louis Cardinals,Milwaukee Brewers,R,L
+22-06-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+23-06-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+24-06-2018,St. Louis Cardinals,Milwaukee Brewers,R,R
+26-06-2018,Kansas City Royals,Milwaukee Brewers,R,R
+27-06-2018,Kansas City Royals,Milwaukee Brewers,L,L
+02-07-2018,Minnesota Twins,Milwaukee Brewers,R,L
+03-07-2018,Minnesota Twins,Milwaukee Brewers,R,R
+04-07-2018,Minnesota Twins,Milwaukee Brewers,R,R
+05-07-2018,Atlanta Braves,Milwaukee Brewers,L,R
+06-07-2018,Atlanta Braves,Milwaukee Brewers,R,R
+07-07-2018,Atlanta Braves,Milwaukee Brewers,R,R
+08-07-2018,Atlanta Braves,Milwaukee Brewers,L,R
+20-07-2018,Los Angeles Dodgers,Milwaukee Brewers,L,L
+21-07-2018,Los Angeles Dodgers,Milwaukee Brewers,L,R
+22-07-2018,Los Angeles Dodgers,Milwaukee Brewers,L,L
+23-07-2018,Washington Nationals,Milwaukee Brewers,L,R
+24-07-2018,Washington Nationals,Milwaukee Brewers,R,R
+25-07-2018,Washington Nationals,Milwaukee Brewers,R,R
+03-08-2018,Colorado Rockies,Milwaukee Brewers,R,R
+04-08-2018,Colorado Rockies,Milwaukee Brewers,L,R
+05-08-2018,Colorado Rockies,Milwaukee Brewers,R,L
+07-08-2018,San Diego Padres,Milwaukee Brewers,L,R
+08-08-2018,San Diego Padres,Milwaukee Brewers,R,R
+09-08-2018,San Diego Padres,Milwaukee Brewers,L,R
+20-08-2018,Cincinnati Reds,Milwaukee Brewers,R,R
+21-08-2018,Cincinnati Reds,Milwaukee Brewers,R,R
+22-08-2018,Cincinnati Reds,Milwaukee Brewers,R,R
+24-08-2018,Pittsburgh Pirates,Milwaukee Brewers,R,L
+25-08-2018,Pittsburgh Pirates,Milwaukee Brewers,R,R
+26-08-2018,Pittsburgh Pirates,Milwaukee Brewers,R,R
+03-09-2018,Chicago Cubs,Milwaukee Brewers,L,R
+04-09-2018,Chicago Cubs,Milwaukee Brewers,L,L
+05-09-2018,Chicago Cubs,Milwaukee Brewers,L,R
+07-09-2018,San Francisco Giants,Milwaukee Brewers,L,R
+08-09-2018,San Francisco Giants,Milwaukee Brewers,R,L
+09-09-2018,San Francisco Giants,Milwaukee Brewers,L,R
+14-09-2018,Pittsburgh Pirates,Milwaukee Brewers,R,L
+15-09-2018,Pittsburgh Pirates,Milwaukee Brewers,R,R
+16-09-2018,Pittsburgh Pirates,Milwaukee Brewers,R,R
+17-09-2018,Cincinnati Reds,Milwaukee Brewers,R,L
+18-09-2018,Cincinnati Reds,Milwaukee Brewers,R,R
+19-09-2018,Cincinnati Reds,Milwaukee Brewers,R,L
+28-09-2018,Detroit Tigers,Milwaukee Brewers,R,R
+29-09-2018,Detroit Tigers,Milwaukee Brewers,L,L
+30-09-2018,Detroit Tigers,Milwaukee Brewers,R,L
+04-10-2018,Colorado Rockies,Milwaukee Brewers,R,R
+05-10-2018,Colorado Rockies,Milwaukee Brewers,L,R
+12-10-2018,Los Angeles Dodgers,Milwaukee Brewers,L,L
+13-10-2018,Los Angeles Dodgers,Milwaukee Brewers,L,L
+19-10-2018,Los Angeles Dodgers,Milwaukee Brewers,L,L
+20-10-2018,Los Angeles Dodgers,Milwaukee Brewers,R,R
+05-04-2018,Seattle Mariners,Minnesota Twins,L,R
+07-04-2018,Seattle Mariners,Minnesota Twins,R,R
+09-04-2018,Houston Astros,Minnesota Twins,R,R
+10-04-2018,Houston Astros,Minnesota Twins,L,R
+11-04-2018,Houston Astros,Minnesota Twins,R,R
+12-04-2018,Chicago White Sox,Minnesota Twins,R,R
+17-04-2018,Cleveland Indians,Minnesota Twins,R,R
+18-04-2018,Cleveland Indians,Minnesota Twins,R,R
+27-04-2018,Cincinnati Reds,Minnesota Twins,R,R
+28-04-2018,Cincinnati Reds,Minnesota Twins,R,R
+29-04-2018,Cincinnati Reds,Minnesota Twins,R,R
+30-04-2018,Toronto Blue Jays,Minnesota Twins,R,R
+01-05-2018,Toronto Blue Jays,Minnesota Twins,R,R
+02-05-2018,Toronto Blue Jays,Minnesota Twins,R,R
+14-05-2018,Seattle Mariners,Minnesota Twins,L,R
+15-05-2018,St. Louis Cardinals,Minnesota Twins,R,R
+16-05-2018,St. Louis Cardinals,Minnesota Twins,R,R
+18-05-2018,Milwaukee Brewers,Minnesota Twins,L,R
+19-05-2018,Milwaukee Brewers,Minnesota Twins,R,R
+20-05-2018,Milwaukee Brewers,Minnesota Twins,R,R
+21-05-2018,Detroit Tigers,Minnesota Twins,L,R
+22-05-2018,Detroit Tigers,Minnesota Twins,L,R
+23-05-2018,Detroit Tigers,Minnesota Twins,R,R
+31-05-2018,Cleveland Indians,Minnesota Twins,R,R
+01-06-2018,Cleveland Indians,Minnesota Twins,R,R
+02-06-2018,Cleveland Indians,Minnesota Twins,R,R
+03-06-2018,Cleveland Indians,Minnesota Twins,R,R
+06-06-2018,Chicago White Sox,Minnesota Twins,L,R
+07-06-2018,Chicago White Sox,Minnesota Twins,R,R
+08-06-2018,Los Angeles Angels,Minnesota Twins,R,R
+09-06-2018,Los Angeles Angels,Minnesota Twins,L,R
+10-06-2018,Los Angeles Angels,Minnesota Twins,R,R
+19-06-2018,Boston Red Sox,Minnesota Twins,L,R
+20-06-2018,Boston Red Sox,Minnesota Twins,L,R
+21-06-2018,Boston Red Sox,Minnesota Twins,R,R
+22-06-2018,Texas Rangers,Minnesota Twins,L,R
+23-06-2018,Texas Rangers,Minnesota Twins,R,R
+24-06-2018,Texas Rangers,Minnesota Twins,R,R
+05-07-2018,Baltimore Orioles,Minnesota Twins,R,R
+06-07-2018,Baltimore Orioles,Minnesota Twins,R,R
+07-07-2018,Baltimore Orioles,Minnesota Twins,R,R
+08-07-2018,Baltimore Orioles,Minnesota Twins,R,R
+09-07-2018,Kansas City Royals,Minnesota Twins,L,R
+10-07-2018,Kansas City Royals,Minnesota Twins,R,R
+11-07-2018,Kansas City Royals,Minnesota Twins,R,R
+12-07-2018,Tampa Bay Rays,Minnesota Twins,L,R
+13-07-2018,Tampa Bay Rays,Minnesota Twins,R,R
+14-07-2018,Tampa Bay Rays,Minnesota Twins,R,R
+15-07-2018,Tampa Bay Rays,Minnesota Twins,R,R
+30-07-2018,Cleveland Indians,Minnesota Twins,R,R
+31-07-2018,Cleveland Indians,Minnesota Twins,R,R
+01-08-2018,Cleveland Indians,Minnesota Twins,R,L
+03-08-2018,Kansas City Royals,Minnesota Twins,R,R
+04-08-2018,Kansas City Royals,Minnesota Twins,R,R
+05-08-2018,Kansas City Royals,Minnesota Twins,L,R
+14-08-2018,Pittsburgh Pirates,Minnesota Twins,R,R
+15-08-2018,Pittsburgh Pirates,Minnesota Twins,R,R
+16-08-2018,Detroit Tigers,Minnesota Twins,L,R
+17-08-2018,Detroit Tigers,Minnesota Twins,L,R
+18-08-2018,Detroit Tigers,Minnesota Twins,L,R
+19-08-2018,Detroit Tigers,Minnesota Twins,R,R
+20-08-2018,Chicago White Sox,Minnesota Twins,R,L
+23-08-2018,Oakland Athletics,Minnesota Twins,R,R
+24-08-2018,Oakland Athletics,Minnesota Twins,L,R
+25-08-2018,Oakland Athletics,Minnesota Twins,R,L
+26-08-2018,Oakland Athletics,Minnesota Twins,R,R
+07-09-2018,Kansas City Royals,Minnesota Twins,R,L
+08-09-2018,Kansas City Royals,Minnesota Twins,R,R
+09-09-2018,Kansas City Royals,Minnesota Twins,R,R
+10-09-2018,New York Yankees,Minnesota Twins,L,R
+11-09-2018,New York Yankees,Minnesota Twins,R,R
+12-09-2018,New York Yankees,Minnesota Twins,R,R
+25-09-2018,Detroit Tigers,Minnesota Twins,R,L
+26-09-2018,Detroit Tigers,Minnesota Twins,L,R
+27-09-2018,Detroit Tigers,Minnesota Twins,L,L
+29-09-2018,Chicago White Sox,Minnesota Twins,L,R
+30-09-2018,Chicago White Sox,Minnesota Twins,R,R
+03-04-2018,Tampa Bay Rays,New York Yankees,R,L
+04-04-2018,Tampa Bay Rays,New York Yankees,L,R
+05-04-2018,Baltimore Orioles,New York Yankees,R,R
+06-04-2018,Baltimore Orioles,New York Yankees,R,nan
+07-04-2018,Baltimore Orioles,New York Yankees,R,R
+08-04-2018,Baltimore Orioles,New York Yankees,R,L
+16-04-2018,Miami Marlins,New York Yankees,L,R
+17-04-2018,Miami Marlins,New York Yankees,L,R
+19-04-2018,Toronto Blue Jays,New York Yankees,R,nan
+20-04-2018,Toronto Blue Jays,New York Yankees,R,R
+21-04-2018,Toronto Blue Jays,New York Yankees,R,L
+22-04-2018,Toronto Blue Jays,New York Yankees,L,R
+23-04-2018,Minnesota Twins,New York Yankees,R,R
+24-04-2018,Minnesota Twins,New York Yankees,R,nan
+25-04-2018,Minnesota Twins,New York Yankees,R,R
+26-04-2018,Minnesota Twins,New York Yankees,R,L
+04-05-2018,Cleveland Indians,New York Yankees,R,nan
+05-05-2018,Cleveland Indians,New York Yankees,R,R
+06-05-2018,Cleveland Indians,New York Yankees,R,R
+08-05-2018,Boston Red Sox,New York Yankees,L,R
+09-05-2018,Boston Red Sox,New York Yankees,R,R
+10-05-2018,Boston Red Sox,New York Yankees,L,nan
+11-05-2018,Oakland Athletics,New York Yankees,R,R
+12-05-2018,Oakland Athletics,New York Yankees,R,R
+13-05-2018,Oakland Athletics,New York Yankees,L,R
+25-05-2018,Los Angeles Angels,New York Yankees,L,R
+26-05-2018,Los Angeles Angels,New York Yankees,R,R
+27-05-2018,Los Angeles Angels,New York Yankees,R,R
+28-05-2018,Houston Astros,New York Yankees,R,R
+29-05-2018,Houston Astros,New York Yankees,R,nan
+30-05-2018,Houston Astros,New York Yankees,L,R
+12-06-2018,Washington Nationals,New York Yankees,R,nan
+13-06-2018,Washington Nationals,New York Yankees,R,R
+14-06-2018,Tampa Bay Rays,New York Yankees,L,R
+15-06-2018,Tampa Bay Rays,New York Yankees,R,R
+16-06-2018,Tampa Bay Rays,New York Yankees,R,R
+17-06-2018,Tampa Bay Rays,New York Yankees,R,nan
+19-06-2018,Seattle Mariners,New York Yankees,L,R
+20-06-2018,Seattle Mariners,New York Yankees,R,R
+21-06-2018,Seattle Mariners,New York Yankees,L,R
+29-06-2018,Boston Red Sox,New York Yankees,L,nan
+30-06-2018,Boston Red Sox,New York Yankees,L,R
+01-07-2018,Boston Red Sox,New York Yankees,L,R
+02-07-2018,Atlanta Braves,New York Yankees,R,R
+03-07-2018,Atlanta Braves,New York Yankees,L,R
+04-07-2018,Atlanta Braves,New York Yankees,R,nan
+20-07-2018,New York Mets,New York Yankees,R,R
+21-07-2018,New York Mets,New York Yankees,L,R
+26-07-2018,Kansas City Royals,New York Yankees,R,R
+29-07-2018,Kansas City Royals,New York Yankees,R,L
+31-07-2018,Baltimore Orioles,New York Yankees,R,R
+01-08-2018,Baltimore Orioles,New York Yankees,R,R
+09-08-2018,Texas Rangers,New York Yankees,R,L
+10-08-2018,Texas Rangers,New York Yankees,L,R
+11-08-2018,Texas Rangers,New York Yankees,R,R
+12-08-2018,Texas Rangers,New York Yankees,L,nan
+13-08-2018,New York Mets,New York Yankees,R,R
+14-08-2018,Tampa Bay Rays,New York Yankees,R,L
+15-08-2018,Tampa Bay Rays,New York Yankees,R,R
+16-08-2018,Tampa Bay Rays,New York Yankees,L,R
+17-08-2018,Toronto Blue Jays,New York Yankees,R,R
+18-08-2018,Toronto Blue Jays,New York Yankees,R,R
+19-08-2018,Toronto Blue Jays,New York Yankees,L,L
+27-08-2018,Chicago White Sox,New York Yankees,L,R
+28-08-2018,Chicago White Sox,New York Yankees,R,R
+29-08-2018,Chicago White Sox,New York Yankees,R,nan
+30-08-2018,Detroit Tigers,New York Yankees,L,L
+31-08-2018,Detroit Tigers,New York Yankees,R,R
+01-09-2018,Detroit Tigers,New York Yankees,L,R
+02-09-2018,Detroit Tigers,New York Yankees,L,R
+14-09-2018,Toronto Blue Jays,New York Yankees,R,R
+15-09-2018,Toronto Blue Jays,New York Yankees,R,nan
+16-09-2018,Toronto Blue Jays,New York Yankees,L,R
+18-09-2018,Boston Red Sox,New York Yankees,R,L
+19-09-2018,Boston Red Sox,New York Yankees,L,R
+20-09-2018,Boston Red Sox,New York Yankees,L,R
+21-09-2018,Baltimore Orioles,New York Yankees,R,nan
+22-09-2018,Baltimore Orioles,New York Yankees,R,R
+23-09-2018,Baltimore Orioles,New York Yankees,R,L
+03-10-2018,Oakland Athletics,New York Yankees,R,R
+08-10-2018,Boston Red Sox,New York Yankees,R,R
+09-10-2018,Boston Red Sox,New York Yankees,R,nan
+29-03-2018,St. Louis Cardinals,New York Mets,R,R
+31-03-2018,St. Louis Cardinals,New York Mets,R,R
+01-04-2018,St. Louis Cardinals,New York Mets,R,L
+03-04-2018,Philadelphia Phillies,New York Mets,R,R
+04-04-2018,Philadelphia Phillies,New York Mets,R,R
+13-04-2018,Milwaukee Brewers,New York Mets,R,L
+14-04-2018,Milwaukee Brewers,New York Mets,R,R
+15-04-2018,Milwaukee Brewers,New York Mets,R,R
+16-04-2018,Washington Nationals,New York Mets,R,R
+17-04-2018,Washington Nationals,New York Mets,L,R
+18-04-2018,Washington Nationals,New York Mets,R,L
+01-05-2018,Atlanta Braves,New York Mets,R,R
+02-05-2018,Atlanta Braves,New York Mets,L,R
+03-05-2018,Atlanta Braves,New York Mets,R,L
+04-05-2018,Colorado Rockies,New York Mets,R,R
+05-05-2018,Colorado Rockies,New York Mets,R,L
+06-05-2018,Colorado Rockies,New York Mets,L,R
+15-05-2018,Toronto Blue Jays,New York Mets,L,R
+16-05-2018,Toronto Blue Jays,New York Mets,L,R
+18-05-2018,Arizona Diamondbacks,New York Mets,R,R
+19-05-2018,Arizona Diamondbacks,New York Mets,L,L
+20-05-2018,Arizona Diamondbacks,New York Mets,R,R
+21-05-2018,Miami Marlins,New York Mets,R,L
+22-05-2018,Miami Marlins,New York Mets,L,R
+23-05-2018,Miami Marlins,New York Mets,R,R
+31-05-2018,Chicago Cubs,New York Mets,L,R
+01-06-2018,Chicago Cubs,New York Mets,R,R
+02-06-2018,Chicago Cubs,New York Mets,L,R
+03-06-2018,Chicago Cubs,New York Mets,L,L
+05-06-2018,Baltimore Orioles,New York Mets,R,L
+06-06-2018,Baltimore Orioles,New York Mets,R,R
+08-06-2018,New York Yankees,New York Mets,R,R
+09-06-2018,New York Yankees,New York Mets,R,L
+10-06-2018,New York Yankees,New York Mets,R,R
+22-06-2018,Los Angeles Dodgers,New York Mets,L,R
+23-06-2018,Los Angeles Dodgers,New York Mets,L,R
+24-06-2018,Los Angeles Dodgers,New York Mets,L,L
+25-06-2018,Pittsburgh Pirates,New York Mets,R,R
+26-06-2018,Pittsburgh Pirates,New York Mets,R,L
+27-06-2018,Pittsburgh Pirates,New York Mets,R,R
+06-07-2018,Tampa Bay Rays,New York Mets,R,R
+07-07-2018,Tampa Bay Rays,New York Mets,L,L
+08-07-2018,Tampa Bay Rays,New York Mets,R,R
+10-07-2018,Philadelphia Phillies,New York Mets,R,R
+11-07-2018,Philadelphia Phillies,New York Mets,R,R
+12-07-2018,Washington Nationals,New York Mets,R,L
+13-07-2018,Washington Nationals,New York Mets,R,R
+14-07-2018,Washington Nationals,New York Mets,R,R
+15-07-2018,Washington Nationals,New York Mets,R,R
+23-07-2018,San Diego Padres,New York Mets,L,R
+24-07-2018,San Diego Padres,New York Mets,L,R
+25-07-2018,San Diego Padres,New York Mets,L,R
+02-08-2018,Atlanta Braves,New York Mets,R,L
+03-08-2018,Atlanta Braves,New York Mets,R,R
+04-08-2018,Atlanta Braves,New York Mets,R,R
+05-08-2018,Atlanta Braves,New York Mets,R,R
+06-08-2018,Cincinnati Reds,New York Mets,R,R
+07-08-2018,Cincinnati Reds,New York Mets,R,L
+08-08-2018,Cincinnati Reds,New York Mets,R,R
+20-08-2018,San Francisco Giants,New York Mets,L,R
+21-08-2018,San Francisco Giants,New York Mets,R,L
+22-08-2018,San Francisco Giants,New York Mets,R,R
+23-08-2018,San Francisco Giants,New York Mets,L,R
+24-08-2018,Washington Nationals,New York Mets,L,L
+25-08-2018,Washington Nationals,New York Mets,R,R
+26-08-2018,Washington Nationals,New York Mets,R,L
+07-09-2018,Philadelphia Phillies,New York Mets,R,L
+08-09-2018,Philadelphia Phillies,New York Mets,R,R
+09-09-2018,Philadelphia Phillies,New York Mets,R,R
+11-09-2018,Miami Marlins,New York Mets,R,R
+12-09-2018,Miami Marlins,New York Mets,R,R
+25-09-2018,Atlanta Braves,New York Mets,R,R
+26-09-2018,Atlanta Braves,New York Mets,L,R
+27-09-2018,Atlanta Braves,New York Mets,R,L
+28-09-2018,Miami Marlins,New York Mets,R,R
+29-09-2018,Miami Marlins,New York Mets,R,L
+30-09-2018,Miami Marlins,New York Mets,R,R
+29-03-2018,Los Angeles Angels,Oakland Athletics,R,R
+30-03-2018,Los Angeles Angels,Oakland Athletics,L,L
+31-03-2018,Los Angeles Angels,Oakland Athletics,R,R
+01-04-2018,Los Angeles Angels,Oakland Athletics,R,R
+02-04-2018,Texas Rangers,Oakland Athletics,R,R
+03-04-2018,Texas Rangers,Oakland Athletics,L,R
+04-04-2018,Texas Rangers,Oakland Athletics,R,L
+05-04-2018,Texas Rangers,Oakland Athletics,L,R
+16-04-2018,Chicago White Sox,Oakland Athletics,R,R
+17-04-2018,Chicago White Sox,Oakland Athletics,R,R
+18-04-2018,Chicago White Sox,Oakland Athletics,R,R
+20-04-2018,Boston Red Sox,Oakland Athletics,L,R
+21-04-2018,Boston Red Sox,Oakland Athletics,L,L
+22-04-2018,Boston Red Sox,Oakland Athletics,L,R
+04-05-2018,Baltimore Orioles,Oakland Athletics,R,R
+05-05-2018,Baltimore Orioles,Oakland Athletics,R,R
+06-05-2018,Baltimore Orioles,Oakland Athletics,R,R
+07-05-2018,Houston Astros,Oakland Athletics,L,L
+08-05-2018,Houston Astros,Oakland Athletics,R,L
+09-05-2018,Houston Astros,Oakland Athletics,R,R
+22-05-2018,Seattle Mariners,Oakland Athletics,R,R
+23-05-2018,Seattle Mariners,Oakland Athletics,L,R
+24-05-2018,Seattle Mariners,Oakland Athletics,R,R
+25-05-2018,Arizona Diamondbacks,Oakland Athletics,L,L
+26-05-2018,Arizona Diamondbacks,Oakland Athletics,R,R
+27-05-2018,Arizona Diamondbacks,Oakland Athletics,R,R
+28-05-2018,Tampa Bay Rays,Oakland Athletics,R,R
+29-05-2018,Tampa Bay Rays,Oakland Athletics,L,R
+30-05-2018,Tampa Bay Rays,Oakland Athletics,R,L
+31-05-2018,Tampa Bay Rays,Oakland Athletics,R,R
+07-06-2018,Kansas City Royals,Oakland Athletics,R,R
+08-06-2018,Kansas City Royals,Oakland Athletics,R,R
+09-06-2018,Kansas City Royals,Oakland Athletics,L,R
+10-06-2018,Kansas City Royals,Oakland Athletics,R,L
+12-06-2018,Houston Astros,Oakland Athletics,R,R
+13-06-2018,Houston Astros,Oakland Athletics,R,R
+14-06-2018,Houston Astros,Oakland Athletics,R,R
+15-06-2018,Los Angeles Angels,Oakland Athletics,L,R
+16-06-2018,Los Angeles Angels,Oakland Athletics,L,L
+17-06-2018,Los Angeles Angels,Oakland Athletics,L,R
+29-06-2018,Cleveland Indians,Oakland Athletics,R,R
+30-06-2018,Cleveland Indians,Oakland Athletics,R,R
+01-07-2018,Cleveland Indians,Oakland Athletics,R,R
+03-07-2018,San Diego Padres,Oakland Athletics,L,R
+04-07-2018,San Diego Padres,Oakland Athletics,R,L
+20-07-2018,San Francisco Giants,Oakland Athletics,R,R
+21-07-2018,San Francisco Giants,Oakland Athletics,L,R
+22-07-2018,San Francisco Giants,Oakland Athletics,R,L
+30-07-2018,Toronto Blue Jays,Oakland Athletics,R,R
+31-07-2018,Toronto Blue Jays,Oakland Athletics,R,R
+01-08-2018,Toronto Blue Jays,Oakland Athletics,R,L
+03-08-2018,Detroit Tigers,Oakland Athletics,L,L
+04-08-2018,Detroit Tigers,Oakland Athletics,R,R
+05-08-2018,Detroit Tigers,Oakland Athletics,L,R
+07-08-2018,Los Angeles Dodgers,Oakland Athletics,L,L
+08-08-2018,Los Angeles Dodgers,Oakland Athletics,L,R
+13-08-2018,Seattle Mariners,Oakland Athletics,L,L
+14-08-2018,Seattle Mariners,Oakland Athletics,L,R
+15-08-2018,Seattle Mariners,Oakland Athletics,R,L
+17-08-2018,Houston Astros,Oakland Athletics,R,R
+18-08-2018,Houston Astros,Oakland Athletics,L,R
+19-08-2018,Houston Astros,Oakland Athletics,R,L
+20-08-2018,Texas Rangers,Oakland Athletics,R,R
+21-08-2018,Texas Rangers,Oakland Athletics,R,L
+22-08-2018,Texas Rangers,Oakland Athletics,L,R
+30-08-2018,Seattle Mariners,Oakland Athletics,L,R
+31-08-2018,Seattle Mariners,Oakland Athletics,R,R
+01-09-2018,Seattle Mariners,Oakland Athletics,L,R
+02-09-2018,Seattle Mariners,Oakland Athletics,R,R
+03-09-2018,New York Yankees,Oakland Athletics,nan,R
+04-09-2018,New York Yankees,Oakland Athletics,L,R
+05-09-2018,New York Yankees,Oakland Athletics,R,R
+07-09-2018,Texas Rangers,Oakland Athletics,R,R
+08-09-2018,Texas Rangers,Oakland Athletics,L,R
+09-09-2018,Texas Rangers,Oakland Athletics,L,R
+18-09-2018,Los Angeles Angels,Oakland Athletics,L,R
+19-09-2018,Los Angeles Angels,Oakland Athletics,R,L
+20-09-2018,Los Angeles Angels,Oakland Athletics,R,R
+21-09-2018,Minnesota Twins,Oakland Athletics,R,R
+22-09-2018,Minnesota Twins,Oakland Athletics,R,R
+23-09-2018,Minnesota Twins,Oakland Athletics,R,R
+05-04-2018,Miami Marlins,Philadelphia Phillies,L,R
+07-04-2018,Miami Marlins,Philadelphia Phillies,L,R
+08-04-2018,Miami Marlins,Philadelphia Phillies,R,R
+09-04-2018,Cincinnati Reds,Philadelphia Phillies,L,R
+10-04-2018,Cincinnati Reds,Philadelphia Phillies,R,R
+11-04-2018,Cincinnati Reds,Philadelphia Phillies,R,R
+19-04-2018,Pittsburgh Pirates,Philadelphia Phillies,R,R
+20-04-2018,Pittsburgh Pirates,Philadelphia Phillies,R,R
+21-04-2018,Pittsburgh Pirates,Philadelphia Phillies,L,R
+22-04-2018,Pittsburgh Pirates,Philadelphia Phillies,R,R
+24-04-2018,Arizona Diamondbacks,Philadelphia Phillies,L,R
+25-04-2018,Arizona Diamondbacks,Philadelphia Phillies,R,R
+26-04-2018,Arizona Diamondbacks,Philadelphia Phillies,R,R
+27-04-2018,Atlanta Braves,Philadelphia Phillies,R,R
+28-04-2018,Atlanta Braves,Philadelphia Phillies,R,R
+29-04-2018,Atlanta Braves,Philadelphia Phillies,R,R
+07-05-2018,San Francisco Giants,Philadelphia Phillies,R,R
+08-05-2018,San Francisco Giants,Philadelphia Phillies,L,R
+09-05-2018,San Francisco Giants,Philadelphia Phillies,R,R
+10-05-2018,San Francisco Giants,Philadelphia Phillies,L,R
+11-05-2018,New York Mets,Philadelphia Phillies,L,R
+13-05-2018,New York Mets,Philadelphia Phillies,R,R
+21-05-2018,Atlanta Braves,Philadelphia Phillies,R,R
+22-05-2018,Atlanta Braves,Philadelphia Phillies,R,R
+23-05-2018,Atlanta Braves,Philadelphia Phillies,L,R
+25-05-2018,Toronto Blue Jays,Philadelphia Phillies,R,R
+26-05-2018,Toronto Blue Jays,Philadelphia Phillies,L,R
+27-05-2018,Toronto Blue Jays,Philadelphia Phillies,L,R
+08-06-2018,Milwaukee Brewers,Philadelphia Phillies,R,R
+09-06-2018,Milwaukee Brewers,Philadelphia Phillies,L,R
+10-06-2018,Milwaukee Brewers,Philadelphia Phillies,R,R
+12-06-2018,Colorado Rockies,Philadelphia Phillies,R,R
+13-06-2018,Colorado Rockies,Philadelphia Phillies,L,R
+14-06-2018,Colorado Rockies,Philadelphia Phillies,R,R
+18-06-2018,St. Louis Cardinals,Philadelphia Phillies,R,R
+19-06-2018,St. Louis Cardinals,Philadelphia Phillies,R,R
+20-06-2018,St. Louis Cardinals,Philadelphia Phillies,R,R
+25-06-2018,New York Yankees,Philadelphia Phillies,R,R
+26-06-2018,New York Yankees,Philadelphia Phillies,R,R
+27-06-2018,New York Yankees,Philadelphia Phillies,R,R
+28-06-2018,Washington Nationals,Philadelphia Phillies,R,R
+29-06-2018,Washington Nationals,Philadelphia Phillies,R,R
+30-06-2018,Washington Nationals,Philadelphia Phillies,R,R
+01-07-2018,Washington Nationals,Philadelphia Phillies,L,R
+03-07-2018,Baltimore Orioles,Philadelphia Phillies,R,R
+04-07-2018,Baltimore Orioles,Philadelphia Phillies,R,R
+20-07-2018,San Diego Padres,Philadelphia Phillies,L,R
+23-07-2018,Los Angeles Dodgers,Philadelphia Phillies,R,R
+24-07-2018,Los Angeles Dodgers,Philadelphia Phillies,R,R
+25-07-2018,Los Angeles Dodgers,Philadelphia Phillies,R,R
+02-08-2018,Miami Marlins,Philadelphia Phillies,R,R
+03-08-2018,Miami Marlins,Philadelphia Phillies,R,R
+04-08-2018,Miami Marlins,Philadelphia Phillies,R,R
+05-08-2018,Miami Marlins,Philadelphia Phillies,R,R
+14-08-2018,Boston Red Sox,Philadelphia Phillies,R,R
+15-08-2018,Boston Red Sox,Philadelphia Phillies,R,R
+17-08-2018,New York Mets,Philadelphia Phillies,R,R
+18-08-2018,New York Mets,Philadelphia Phillies,R,R
+19-08-2018,New York Mets,Philadelphia Phillies,L,R
+27-08-2018,Washington Nationals,Philadelphia Phillies,R,R
+28-08-2018,Washington Nationals,Philadelphia Phillies,R,R
+29-08-2018,Washington Nationals,Philadelphia Phillies,L,R
+31-08-2018,Chicago Cubs,Philadelphia Phillies,L,R
+01-09-2018,Chicago Cubs,Philadelphia Phillies,R,R
+02-09-2018,Chicago Cubs,Philadelphia Phillies,L,R
+12-09-2018,Washington Nationals,Philadelphia Phillies,R,R
+14-09-2018,Miami Marlins,Philadelphia Phillies,L,R
+15-09-2018,Miami Marlins,Philadelphia Phillies,L,R
+16-09-2018,Miami Marlins,Philadelphia Phillies,R,R
+17-09-2018,New York Mets,Philadelphia Phillies,R,R
+18-09-2018,New York Mets,Philadelphia Phillies,L,R
+19-09-2018,New York Mets,Philadelphia Phillies,R,R
+28-09-2018,Atlanta Braves,Philadelphia Phillies,R,R
+29-09-2018,Atlanta Braves,Philadelphia Phillies,R,R
+30-09-2018,Atlanta Braves,Philadelphia Phillies,R,L
+02-04-2018,Minnesota Twins,Pittsburgh Pirates,R,R
+04-04-2018,Minnesota Twins,Pittsburgh Pirates,R,R
+05-04-2018,Cincinnati Reds,Pittsburgh Pirates,R,L
+06-04-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+07-04-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+08-04-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+16-04-2018,Colorado Rockies,Pittsburgh Pirates,R,L
+17-04-2018,Colorado Rockies,Pittsburgh Pirates,R,R
+18-04-2018,Colorado Rockies,Pittsburgh Pirates,L,R
+26-04-2018,Detroit Tigers,Pittsburgh Pirates,R,R
+27-04-2018,St. Louis Cardinals,Pittsburgh Pirates,R,L
+28-04-2018,St. Louis Cardinals,Pittsburgh Pirates,R,R
+29-04-2018,St. Louis Cardinals,Pittsburgh Pirates,R,R
+11-05-2018,San Francisco Giants,Pittsburgh Pirates,L,R
+12-05-2018,San Francisco Giants,Pittsburgh Pirates,R,R
+13-05-2018,San Francisco Giants,Pittsburgh Pirates,L,R
+15-05-2018,Chicago White Sox,Pittsburgh Pirates,R,R
+16-05-2018,Chicago White Sox,Pittsburgh Pirates,L,R
+17-05-2018,San Diego Padres,Pittsburgh Pirates,L,R
+18-05-2018,San Diego Padres,Pittsburgh Pirates,R,R
+19-05-2018,San Diego Padres,Pittsburgh Pirates,L,R
+20-05-2018,San Diego Padres,Pittsburgh Pirates,R,R
+25-05-2018,St. Louis Cardinals,Pittsburgh Pirates,R,R
+26-05-2018,St. Louis Cardinals,Pittsburgh Pirates,R,R
+27-05-2018,St. Louis Cardinals,Pittsburgh Pirates,R,R
+28-05-2018,Chicago Cubs,Pittsburgh Pirates,L,R
+29-05-2018,Chicago Cubs,Pittsburgh Pirates,L,R
+30-05-2018,Chicago Cubs,Pittsburgh Pirates,R,R
+05-06-2018,Los Angeles Dodgers,Pittsburgh Pirates,R,R
+06-06-2018,Los Angeles Dodgers,Pittsburgh Pirates,L,R
+07-06-2018,Los Angeles Dodgers,Pittsburgh Pirates,R,R
+15-06-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+16-06-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+17-06-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+18-06-2018,Milwaukee Brewers,Pittsburgh Pirates,R,R
+19-06-2018,Milwaukee Brewers,Pittsburgh Pirates,R,R
+21-06-2018,Arizona Diamondbacks,Pittsburgh Pirates,R,R
+22-06-2018,Arizona Diamondbacks,Pittsburgh Pirates,L,R
+23-06-2018,Arizona Diamondbacks,Pittsburgh Pirates,R,R
+24-06-2018,Arizona Diamondbacks,Pittsburgh Pirates,R,R
+06-07-2018,Philadelphia Phillies,Pittsburgh Pirates,R,R
+07-07-2018,Philadelphia Phillies,Pittsburgh Pirates,R,R
+08-07-2018,Philadelphia Phillies,Pittsburgh Pirates,R,R
+09-07-2018,Washington Nationals,Pittsburgh Pirates,R,R
+10-07-2018,Washington Nationals,Pittsburgh Pirates,R,R
+11-07-2018,Washington Nationals,Pittsburgh Pirates,L,R
+12-07-2018,Milwaukee Brewers,Pittsburgh Pirates,L,R
+13-07-2018,Milwaukee Brewers,Pittsburgh Pirates,R,R
+15-07-2018,Milwaukee Brewers,Pittsburgh Pirates,R,R
+26-07-2018,New York Mets,Pittsburgh Pirates,L,R
+27-07-2018,New York Mets,Pittsburgh Pirates,L,R
+28-07-2018,New York Mets,Pittsburgh Pirates,R,R
+29-07-2018,New York Mets,Pittsburgh Pirates,R,R
+31-07-2018,Chicago Cubs,Pittsburgh Pirates,L,R
+01-08-2018,Chicago Cubs,Pittsburgh Pirates,L,R
+03-08-2018,St. Louis Cardinals,Pittsburgh Pirates,R,R
+04-08-2018,St. Louis Cardinals,Pittsburgh Pirates,L,R
+05-08-2018,St. Louis Cardinals,Pittsburgh Pirates,R,R
+16-08-2018,Chicago Cubs,Pittsburgh Pirates,L,R
+17-08-2018,Chicago Cubs,Pittsburgh Pirates,L,R
+18-08-2018,Chicago Cubs,Pittsburgh Pirates,R,R
+19-08-2018,Chicago Cubs,Pittsburgh Pirates,L,R
+20-08-2018,Atlanta Braves,Pittsburgh Pirates,R,R
+21-08-2018,Atlanta Braves,Pittsburgh Pirates,R,R
+22-08-2018,Atlanta Braves,Pittsburgh Pirates,R,R
+03-09-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+04-09-2018,Cincinnati Reds,Pittsburgh Pirates,L,R
+05-09-2018,Cincinnati Reds,Pittsburgh Pirates,R,R
+07-09-2018,Miami Marlins,Pittsburgh Pirates,R,R
+08-09-2018,Miami Marlins,Pittsburgh Pirates,L,R
+17-09-2018,Kansas City Royals,Pittsburgh Pirates,R,R
+18-09-2018,Kansas City Royals,Pittsburgh Pirates,L,R
+19-09-2018,Kansas City Royals,Pittsburgh Pirates,R,R
+21-09-2018,Milwaukee Brewers,Pittsburgh Pirates,R,R
+22-09-2018,Milwaukee Brewers,Pittsburgh Pirates,R,R
+23-09-2018,Milwaukee Brewers,Pittsburgh Pirates,L,R
+29-03-2018,Milwaukee Brewers,San Diego Padres,R,L
+30-03-2018,Milwaukee Brewers,San Diego Padres,R,L
+31-03-2018,Milwaukee Brewers,San Diego Padres,L,R
+02-04-2018,Colorado Rockies,San Diego Padres,R,R
+03-04-2018,Colorado Rockies,San Diego Padres,L,R
+04-04-2018,Colorado Rockies,San Diego Padres,R,L
+05-04-2018,Colorado Rockies,San Diego Padres,L,L
+12-04-2018,San Francisco Giants,San Diego Padres,R,R
+13-04-2018,San Francisco Giants,San Diego Padres,L,R
+14-04-2018,San Francisco Giants,San Diego Padres,L,L
+15-04-2018,San Francisco Giants,San Diego Padres,R,L
+16-04-2018,Los Angeles Dodgers,San Diego Padres,L,L
+17-04-2018,Los Angeles Dodgers,San Diego Padres,L,R
+18-04-2018,Los Angeles Dodgers,San Diego Padres,R,R
+27-04-2018,New York Mets,San Diego Padres,R,L
+28-04-2018,New York Mets,San Diego Padres,L,L
+29-04-2018,New York Mets,San Diego Padres,R,R
+04-05-2018,Los Angeles Dodgers,San Diego Padres,R,L
+05-05-2018,Los Angeles Dodgers,San Diego Padres,R,R
+06-05-2018,Los Angeles Dodgers,San Diego Padres,R,L
+07-05-2018,Washington Nationals,San Diego Padres,R,R
+08-05-2018,Washington Nationals,San Diego Padres,R,L
+09-05-2018,Washington Nationals,San Diego Padres,L,L
+10-05-2018,St. Louis Cardinals,San Diego Padres,R,R
+11-05-2018,St. Louis Cardinals,San Diego Padres,R,L
+12-05-2018,St. Louis Cardinals,San Diego Padres,R,R
+13-05-2018,St. Louis Cardinals,San Diego Padres,R,L
+14-05-2018,Colorado Rockies,San Diego Padres,L,L
+15-05-2018,Colorado Rockies,San Diego Padres,R,R
+28-05-2018,Miami Marlins,San Diego Padres,L,L
+29-05-2018,Miami Marlins,San Diego Padres,R,R
+30-05-2018,Miami Marlins,San Diego Padres,R,L
+31-05-2018,Miami Marlins,San Diego Padres,L,R
+01-06-2018,Cincinnati Reds,San Diego Padres,R,R
+02-06-2018,Cincinnati Reds,San Diego Padres,R,L
+03-06-2018,Cincinnati Reds,San Diego Padres,R,R
+04-06-2018,Atlanta Braves,San Diego Padres,R,L
+05-06-2018,Atlanta Braves,San Diego Padres,L,R
+06-06-2018,Atlanta Braves,San Diego Padres,R,L
+19-06-2018,Oakland Athletics,San Diego Padres,R,L
+20-06-2018,Oakland Athletics,San Diego Padres,R,L
+29-06-2018,Pittsburgh Pirates,San Diego Padres,R,L
+30-06-2018,Pittsburgh Pirates,San Diego Padres,R,L
+01-07-2018,Pittsburgh Pirates,San Diego Padres,R,R
+09-07-2018,Los Angeles Dodgers,San Diego Padres,L,R
+10-07-2018,Los Angeles Dodgers,San Diego Padres,L,L
+11-07-2018,Los Angeles Dodgers,San Diego Padres,R,L
+12-07-2018,Los Angeles Dodgers,San Diego Padres,R,R
+13-07-2018,Chicago Cubs,San Diego Padres,R,L
+14-07-2018,Chicago Cubs,San Diego Padres,R,R
+15-07-2018,Chicago Cubs,San Diego Padres,L,L
+27-07-2018,Arizona Diamondbacks,San Diego Padres,R,R
+28-07-2018,Arizona Diamondbacks,San Diego Padres,L,R
+29-07-2018,Arizona Diamondbacks,San Diego Padres,R,L
+30-07-2018,San Francisco Giants,San Diego Padres,L,L
+31-07-2018,San Francisco Giants,San Diego Padres,R,L
+10-08-2018,Philadelphia Phillies,San Diego Padres,R,R
+11-08-2018,Philadelphia Phillies,San Diego Padres,R,R
+12-08-2018,Philadelphia Phillies,San Diego Padres,R,L
+13-08-2018,Los Angeles Angels,San Diego Padres,L,L
+14-08-2018,Los Angeles Angels,San Diego Padres,R,R
+15-08-2018,Los Angeles Angels,San Diego Padres,R,L
+16-08-2018,Arizona Diamondbacks,San Diego Padres,R,R
+17-08-2018,Arizona Diamondbacks,San Diego Padres,L,L
+18-08-2018,Arizona Diamondbacks,San Diego Padres,R,L
+19-08-2018,Arizona Diamondbacks,San Diego Padres,R,R
+28-08-2018,Seattle Mariners,San Diego Padres,R,R
+29-08-2018,Seattle Mariners,San Diego Padres,R,L
+30-08-2018,Colorado Rockies,San Diego Padres,R,L
+31-08-2018,Colorado Rockies,San Diego Padres,R,R
+01-09-2018,Colorado Rockies,San Diego Padres,R,L
+02-09-2018,Colorado Rockies,San Diego Padres,L,R
+14-09-2018,Texas Rangers,San Diego Padres,R,L
+15-09-2018,Texas Rangers,San Diego Padres,L,L
+16-09-2018,Texas Rangers,San Diego Padres,L,R
+17-09-2018,San Francisco Giants,San Diego Padres,L,R
+18-09-2018,San Francisco Giants,San Diego Padres,L,L
+19-09-2018,San Francisco Giants,San Diego Padres,R,L
+28-09-2018,Arizona Diamondbacks,San Diego Padres,L,L
+29-09-2018,Arizona Diamondbacks,San Diego Padres,R,R
+30-09-2018,Arizona Diamondbacks,San Diego Padres,L,L
+29-03-2018,Cleveland Indians,Seattle Mariners,R,R
+31-03-2018,Cleveland Indians,Seattle Mariners,R,L
+01-04-2018,Cleveland Indians,Seattle Mariners,R,R
+13-04-2018,Oakland Athletics,Seattle Mariners,R,R
+14-04-2018,Oakland Athletics,Seattle Mariners,R,L
+15-04-2018,Oakland Athletics,Seattle Mariners,L,R
+16-04-2018,Houston Astros,Seattle Mariners,L,L
+17-04-2018,Houston Astros,Seattle Mariners,R,L
+18-04-2018,Houston Astros,Seattle Mariners,R,R
+19-04-2018,Houston Astros,Seattle Mariners,R,L
+01-05-2018,Oakland Athletics,Seattle Mariners,R,R
+02-05-2018,Oakland Athletics,Seattle Mariners,L,L
+03-05-2018,Oakland Athletics,Seattle Mariners,L,L
+04-05-2018,Los Angeles Angels,Seattle Mariners,R,R
+05-05-2018,Los Angeles Angels,Seattle Mariners,L,L
+06-05-2018,Los Angeles Angels,Seattle Mariners,R,R
+15-05-2018,Texas Rangers,Seattle Mariners,L,R
+16-05-2018,Texas Rangers,Seattle Mariners,R,R
+17-05-2018,Detroit Tigers,Seattle Mariners,L,L
+18-05-2018,Detroit Tigers,Seattle Mariners,R,R
+19-05-2018,Detroit Tigers,Seattle Mariners,R,L
+20-05-2018,Detroit Tigers,Seattle Mariners,L,L
+25-05-2018,Minnesota Twins,Seattle Mariners,R,L
+26-05-2018,Minnesota Twins,Seattle Mariners,R,L
+27-05-2018,Minnesota Twins,Seattle Mariners,R,R
+28-05-2018,Texas Rangers,Seattle Mariners,R,L
+29-05-2018,Texas Rangers,Seattle Mariners,R,R
+30-05-2018,Texas Rangers,Seattle Mariners,L,L
+31-05-2018,Texas Rangers,Seattle Mariners,L,L
+01-06-2018,Tampa Bay Rays,Seattle Mariners,R,R
+02-06-2018,Tampa Bay Rays,Seattle Mariners,R,L
+03-06-2018,Tampa Bay Rays,Seattle Mariners,L,R
+11-06-2018,Los Angeles Angels,Seattle Mariners,L,L
+12-06-2018,Los Angeles Angels,Seattle Mariners,R,R
+13-06-2018,Los Angeles Angels,Seattle Mariners,R,L
+14-06-2018,Boston Red Sox,Seattle Mariners,L,R
+15-06-2018,Boston Red Sox,Seattle Mariners,R,L
+16-06-2018,Boston Red Sox,Seattle Mariners,R,L
+17-06-2018,Boston Red Sox,Seattle Mariners,L,R
+29-06-2018,Kansas City Royals,Seattle Mariners,R,L
+30-06-2018,Kansas City Royals,Seattle Mariners,R,R
+01-07-2018,Kansas City Royals,Seattle Mariners,R,L
+03-07-2018,Los Angeles Angels,Seattle Mariners,L,L
+04-07-2018,Los Angeles Angels,Seattle Mariners,R,R
+05-07-2018,Los Angeles Angels,Seattle Mariners,R,L
+06-07-2018,Colorado Rockies,Seattle Mariners,R,R
+07-07-2018,Colorado Rockies,Seattle Mariners,L,L
+08-07-2018,Colorado Rockies,Seattle Mariners,R,L
+20-07-2018,Chicago White Sox,Seattle Mariners,R,L
+21-07-2018,Chicago White Sox,Seattle Mariners,R,R
+22-07-2018,Chicago White Sox,Seattle Mariners,R,L
+24-07-2018,San Francisco Giants,Seattle Mariners,L,L
+25-07-2018,San Francisco Giants,Seattle Mariners,L,R
+30-07-2018,Houston Astros,Seattle Mariners,R,L
+31-07-2018,Houston Astros,Seattle Mariners,R,R
+01-08-2018,Houston Astros,Seattle Mariners,L,L
+02-08-2018,Toronto Blue Jays,Seattle Mariners,R,R
+03-08-2018,Toronto Blue Jays,Seattle Mariners,L,L
+04-08-2018,Toronto Blue Jays,Seattle Mariners,R,L
+05-08-2018,Toronto Blue Jays,Seattle Mariners,R,R
+17-08-2018,Los Angeles Dodgers,Seattle Mariners,R,L
+18-08-2018,Los Angeles Dodgers,Seattle Mariners,L,R
+19-08-2018,Los Angeles Dodgers,Seattle Mariners,L,L
+20-08-2018,Houston Astros,Seattle Mariners,R,R
+21-08-2018,Houston Astros,Seattle Mariners,R,R
+22-08-2018,Houston Astros,Seattle Mariners,R,L
+03-09-2018,Baltimore Orioles,Seattle Mariners,L,R
+04-09-2018,Baltimore Orioles,Seattle Mariners,R,L
+05-09-2018,Baltimore Orioles,Seattle Mariners,R,R
+07-09-2018,New York Yankees,Seattle Mariners,R,L
+08-09-2018,New York Yankees,Seattle Mariners,R,R
+09-09-2018,New York Yankees,Seattle Mariners,nan,R
+11-09-2018,San Diego Padres,Seattle Mariners,R,L
+12-09-2018,San Diego Padres,Seattle Mariners,L,L
+24-09-2018,Oakland Athletics,Seattle Mariners,R,L
+25-09-2018,Oakland Athletics,Seattle Mariners,L,R
+26-09-2018,Oakland Athletics,Seattle Mariners,R,R
+27-09-2018,Texas Rangers,Seattle Mariners,R,L
+28-09-2018,Texas Rangers,Seattle Mariners,L,L
+29-09-2018,Texas Rangers,Seattle Mariners,R,L
+30-09-2018,Texas Rangers,Seattle Mariners,R,L
+03-04-2018,Seattle Mariners,San Francisco Giants,L,L
+04-04-2018,Seattle Mariners,San Francisco Giants,R,R
+07-04-2018,Los Angeles Dodgers,San Francisco Giants,L,R
+08-04-2018,Los Angeles Dodgers,San Francisco Giants,L,L
+09-04-2018,Arizona Diamondbacks,San Francisco Giants,R,L
+10-04-2018,Arizona Diamondbacks,San Francisco Giants,L,R
+11-04-2018,Arizona Diamondbacks,San Francisco Giants,L,L
+23-04-2018,Washington Nationals,San Francisco Giants,L,R
+24-04-2018,Washington Nationals,San Francisco Giants,R,L
+25-04-2018,Washington Nationals,San Francisco Giants,R,R
+27-04-2018,Los Angeles Dodgers,San Francisco Giants,L,L
+29-04-2018,Los Angeles Dodgers,San Francisco Giants,R,L
+30-04-2018,San Diego Padres,San Francisco Giants,L,R
+01-05-2018,San Diego Padres,San Francisco Giants,R,L
+02-05-2018,San Diego Padres,San Francisco Giants,L,L
+14-05-2018,Cincinnati Reds,San Francisco Giants,R,R
+15-05-2018,Cincinnati Reds,San Francisco Giants,R,L
+16-05-2018,Cincinnati Reds,San Francisco Giants,R,L
+17-05-2018,Colorado Rockies,San Francisco Giants,R,R
+18-05-2018,Colorado Rockies,San Francisco Giants,L,L
+19-05-2018,Colorado Rockies,San Francisco Giants,R,R
+20-05-2018,Colorado Rockies,San Francisco Giants,L,L
+01-06-2018,Philadelphia Phillies,San Francisco Giants,R,R
+02-06-2018,Philadelphia Phillies,San Francisco Giants,R,L
+03-06-2018,Philadelphia Phillies,San Francisco Giants,R,R
+04-06-2018,Arizona Diamondbacks,San Francisco Giants,R,L
+05-06-2018,Arizona Diamondbacks,San Francisco Giants,L,L
+06-06-2018,Arizona Diamondbacks,San Francisco Giants,R,R
+18-06-2018,Miami Marlins,San Francisco Giants,L,L
+19-06-2018,Miami Marlins,San Francisco Giants,R,R
+20-06-2018,Miami Marlins,San Francisco Giants,R,L
+21-06-2018,San Diego Padres,San Francisco Giants,R,L
+22-06-2018,San Diego Padres,San Francisco Giants,L,R
+23-06-2018,San Diego Padres,San Francisco Giants,R,L
+24-06-2018,San Diego Padres,San Francisco Giants,L,R
+26-06-2018,Colorado Rockies,San Francisco Giants,R,L
+27-06-2018,Colorado Rockies,San Francisco Giants,L,L
+28-06-2018,Colorado Rockies,San Francisco Giants,R,R
+05-07-2018,St. Louis Cardinals,San Francisco Giants,R,R
+06-07-2018,St. Louis Cardinals,San Francisco Giants,R,R
+07-07-2018,St. Louis Cardinals,San Francisco Giants,R,R
+08-07-2018,St. Louis Cardinals,San Francisco Giants,R,L
+09-07-2018,Chicago Cubs,San Francisco Giants,R,L
+10-07-2018,Chicago Cubs,San Francisco Giants,L,L
+11-07-2018,Chicago Cubs,San Francisco Giants,L,R
+13-07-2018,Oakland Athletics,San Francisco Giants,R,L
+14-07-2018,Oakland Athletics,San Francisco Giants,L,R
+15-07-2018,Oakland Athletics,San Francisco Giants,L,L
+26-07-2018,Milwaukee Brewers,San Francisco Giants,L,R
+27-07-2018,Milwaukee Brewers,San Francisco Giants,R,L
+28-07-2018,Milwaukee Brewers,San Francisco Giants,R,R
+29-07-2018,Milwaukee Brewers,San Francisco Giants,R,L
+06-08-2018,Houston Astros,San Francisco Giants,R,R
+07-08-2018,Houston Astros,San Francisco Giants,L,L
+09-08-2018,Pittsburgh Pirates,San Francisco Giants,R,L
+10-08-2018,Pittsburgh Pirates,San Francisco Giants,R,L
+11-08-2018,Pittsburgh Pirates,San Francisco Giants,R,L
+12-08-2018,Pittsburgh Pirates,San Francisco Giants,R,R
+24-08-2018,Texas Rangers,San Francisco Giants,R,R
+25-08-2018,Texas Rangers,San Francisco Giants,L,L
+26-08-2018,Texas Rangers,San Francisco Giants,R,L
+27-08-2018,Arizona Diamondbacks,San Francisco Giants,L,R
+28-08-2018,Arizona Diamondbacks,San Francisco Giants,R,L
+29-08-2018,Arizona Diamondbacks,San Francisco Giants,R,R
+31-08-2018,New York Mets,San Francisco Giants,R,L
+01-09-2018,New York Mets,San Francisco Giants,L,L
+02-09-2018,New York Mets,San Francisco Giants,R,R
+10-09-2018,Atlanta Braves,San Francisco Giants,L,R
+11-09-2018,Atlanta Braves,San Francisco Giants,R,L
+12-09-2018,Atlanta Braves,San Francisco Giants,R,L
+14-09-2018,Colorado Rockies,San Francisco Giants,L,R
+15-09-2018,Colorado Rockies,San Francisco Giants,R,L
+16-09-2018,Colorado Rockies,San Francisco Giants,R,R
+24-09-2018,San Diego Padres,San Francisco Giants,R,L
+25-09-2018,San Diego Padres,San Francisco Giants,L,R
+26-09-2018,San Diego Padres,San Francisco Giants,R,R
+28-09-2018,Los Angeles Dodgers,San Francisco Giants,L,L
+29-09-2018,Los Angeles Dodgers,San Francisco Giants,L,R
+30-09-2018,Los Angeles Dodgers,San Francisco Giants,L,L
+05-04-2018,Arizona Diamondbacks,St. Louis Cardinals,L,R
+07-04-2018,Arizona Diamondbacks,St. Louis Cardinals,R,R
+08-04-2018,Arizona Diamondbacks,St. Louis Cardinals,R,R
+09-04-2018,Milwaukee Brewers,St. Louis Cardinals,R,R
+10-04-2018,Milwaukee Brewers,St. Louis Cardinals,L,R
+11-04-2018,Milwaukee Brewers,St. Louis Cardinals,R,R
+20-04-2018,Cincinnati Reds,St. Louis Cardinals,L,R
+21-04-2018,Cincinnati Reds,St. Louis Cardinals,R,R
+22-04-2018,Cincinnati Reds,St. Louis Cardinals,R,R
+24-04-2018,New York Mets,St. Louis Cardinals,R,R
+25-04-2018,New York Mets,St. Louis Cardinals,L,R
+26-04-2018,New York Mets,St. Louis Cardinals,R,R
+01-05-2018,Chicago White Sox,St. Louis Cardinals,R,R
+02-05-2018,Chicago White Sox,St. Louis Cardinals,R,R
+04-05-2018,Chicago Cubs,St. Louis Cardinals,L,R
+05-05-2018,Chicago Cubs,St. Louis Cardinals,R,R
+06-05-2018,Chicago Cubs,St. Louis Cardinals,L,R
+07-05-2018,Minnesota Twins,St. Louis Cardinals,R,R
+08-05-2018,Minnesota Twins,St. Louis Cardinals,R,R
+17-05-2018,Philadelphia Phillies,St. Louis Cardinals,R,R
+18-05-2018,Philadelphia Phillies,St. Louis Cardinals,R,R
+19-05-2018,Philadelphia Phillies,St. Louis Cardinals,R,R
+20-05-2018,Philadelphia Phillies,St. Louis Cardinals,R,R
+21-05-2018,Kansas City Royals,St. Louis Cardinals,R,R
+22-05-2018,Kansas City Royals,St. Louis Cardinals,R,R
+23-05-2018,Kansas City Royals,St. Louis Cardinals,R,R
+31-05-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+01-06-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+02-06-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+03-06-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+05-06-2018,Miami Marlins,St. Louis Cardinals,R,R
+06-06-2018,Miami Marlins,St. Louis Cardinals,L,R
+07-06-2018,Miami Marlins,St. Louis Cardinals,R,R
+11-06-2018,San Diego Padres,St. Louis Cardinals,R,R
+12-06-2018,San Diego Padres,St. Louis Cardinals,L,R
+13-06-2018,San Diego Padres,St. Louis Cardinals,L,R
+15-06-2018,Chicago Cubs,St. Louis Cardinals,L,R
+16-06-2018,Chicago Cubs,St. Louis Cardinals,R,R
+17-06-2018,Chicago Cubs,St. Louis Cardinals,L,R
+25-06-2018,Cleveland Indians,St. Louis Cardinals,R,R
+26-06-2018,Cleveland Indians,St. Louis Cardinals,R,R
+27-06-2018,Cleveland Indians,St. Louis Cardinals,R,R
+29-06-2018,Atlanta Braves,St. Louis Cardinals,R,R
+30-06-2018,Atlanta Braves,St. Louis Cardinals,L,R
+01-07-2018,Atlanta Braves,St. Louis Cardinals,R,R
+13-07-2018,Cincinnati Reds,St. Louis Cardinals,R,R
+14-07-2018,Cincinnati Reds,St. Louis Cardinals,R,R
+15-07-2018,Cincinnati Reds,St. Louis Cardinals,R,R
+27-07-2018,Chicago Cubs,St. Louis Cardinals,L,R
+28-07-2018,Chicago Cubs,St. Louis Cardinals,L,R
+29-07-2018,Chicago Cubs,St. Louis Cardinals,R,R
+30-07-2018,Colorado Rockies,St. Louis Cardinals,L,R
+31-07-2018,Colorado Rockies,St. Louis Cardinals,R,R
+01-08-2018,Colorado Rockies,St. Louis Cardinals,L,R
+02-08-2018,Colorado Rockies,St. Louis Cardinals,R,R
+13-08-2018,Washington Nationals,St. Louis Cardinals,L,R
+14-08-2018,Washington Nationals,St. Louis Cardinals,L,R
+15-08-2018,Washington Nationals,St. Louis Cardinals,R,L
+16-08-2018,Washington Nationals,St. Louis Cardinals,R,R
+17-08-2018,Milwaukee Brewers,St. Louis Cardinals,R,R
+18-08-2018,Milwaukee Brewers,St. Louis Cardinals,L,R
+19-08-2018,Milwaukee Brewers,St. Louis Cardinals,R,R
+28-08-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+29-08-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+30-08-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+31-08-2018,Cincinnati Reds,St. Louis Cardinals,R,L
+01-09-2018,Cincinnati Reds,St. Louis Cardinals,R,R
+02-09-2018,Cincinnati Reds,St. Louis Cardinals,R,R
+10-09-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+11-09-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+12-09-2018,Pittsburgh Pirates,St. Louis Cardinals,R,R
+13-09-2018,Los Angeles Dodgers,St. Louis Cardinals,L,L
+14-09-2018,Los Angeles Dodgers,St. Louis Cardinals,R,R
+15-09-2018,Los Angeles Dodgers,St. Louis Cardinals,L,R
+16-09-2018,Los Angeles Dodgers,St. Louis Cardinals,R,R
+21-09-2018,San Francisco Giants,St. Louis Cardinals,L,R
+22-09-2018,San Francisco Giants,St. Louis Cardinals,R,R
+23-09-2018,San Francisco Giants,St. Louis Cardinals,L,R
+24-09-2018,Milwaukee Brewers,St. Louis Cardinals,L,R
+25-09-2018,Milwaukee Brewers,St. Louis Cardinals,L,L
+26-09-2018,Milwaukee Brewers,St. Louis Cardinals,R,R
+29-03-2018,Boston Red Sox,Tampa Bay Rays,L,R
+30-03-2018,Boston Red Sox,Tampa Bay Rays,L,L
+31-03-2018,Boston Red Sox,Tampa Bay Rays,R,R
+01-04-2018,Boston Red Sox,Tampa Bay Rays,R,R
+13-04-2018,Philadelphia Phillies,Tampa Bay Rays,R,R
+14-04-2018,Philadelphia Phillies,Tampa Bay Rays,R,R
+15-04-2018,Philadelphia Phillies,Tampa Bay Rays,R,L
+16-04-2018,Texas Rangers,Tampa Bay Rays,L,L
+17-04-2018,Texas Rangers,Tampa Bay Rays,L,R
+18-04-2018,Texas Rangers,Tampa Bay Rays,L,R
+20-04-2018,Minnesota Twins,Tampa Bay Rays,R,R
+21-04-2018,Minnesota Twins,Tampa Bay Rays,R,L
+22-04-2018,Minnesota Twins,Tampa Bay Rays,R,R
+04-05-2018,Toronto Blue Jays,Tampa Bay Rays,L,R
+05-05-2018,Toronto Blue Jays,Tampa Bay Rays,R,R
+06-05-2018,Toronto Blue Jays,Tampa Bay Rays,R,R
+08-05-2018,Atlanta Braves,Tampa Bay Rays,L,L
+09-05-2018,Atlanta Braves,Tampa Bay Rays,R,L
+22-05-2018,Boston Red Sox,Tampa Bay Rays,L,R
+23-05-2018,Boston Red Sox,Tampa Bay Rays,L,R
+24-05-2018,Boston Red Sox,Tampa Bay Rays,R,L
+25-05-2018,Baltimore Orioles,Tampa Bay Rays,R,R
+26-05-2018,Baltimore Orioles,Tampa Bay Rays,R,R
+27-05-2018,Baltimore Orioles,Tampa Bay Rays,R,R
+07-06-2018,Seattle Mariners,Tampa Bay Rays,R,R
+08-06-2018,Seattle Mariners,Tampa Bay Rays,L,R
+09-06-2018,Seattle Mariners,Tampa Bay Rays,R,L
+10-06-2018,Seattle Mariners,Tampa Bay Rays,L,R
+11-06-2018,Toronto Blue Jays,Tampa Bay Rays,R,L
+12-06-2018,Toronto Blue Jays,Tampa Bay Rays,L,R
+13-06-2018,Toronto Blue Jays,Tampa Bay Rays,L,R
+22-06-2018,New York Yankees,Tampa Bay Rays,nan,R
+23-06-2018,New York Yankees,Tampa Bay Rays,R,R
+24-06-2018,New York Yankees,Tampa Bay Rays,R,R
+25-06-2018,Washington Nationals,Tampa Bay Rays,L,L
+26-06-2018,Washington Nationals,Tampa Bay Rays,R,R
+28-06-2018,Houston Astros,Tampa Bay Rays,R,R
+29-06-2018,Houston Astros,Tampa Bay Rays,R,R
+30-06-2018,Houston Astros,Tampa Bay Rays,R,R
+01-07-2018,Houston Astros,Tampa Bay Rays,R,L
+09-07-2018,Detroit Tigers,Tampa Bay Rays,L,R
+10-07-2018,Detroit Tigers,Tampa Bay Rays,L,R
+11-07-2018,Detroit Tigers,Tampa Bay Rays,R,R
+20-07-2018,Miami Marlins,Tampa Bay Rays,R,R
+21-07-2018,Miami Marlins,Tampa Bay Rays,R,R
+22-07-2018,Miami Marlins,Tampa Bay Rays,R,R
+23-07-2018,New York Yankees,Tampa Bay Rays,R,R
+24-07-2018,New York Yankees,Tampa Bay Rays,R,R
+25-07-2018,New York Yankees,Tampa Bay Rays,R,R
+31-07-2018,Los Angeles Angels,Tampa Bay Rays,L,R
+01-08-2018,Los Angeles Angels,Tampa Bay Rays,R,R
+02-08-2018,Los Angeles Angels,Tampa Bay Rays,L,R
+03-08-2018,Chicago White Sox,Tampa Bay Rays,R,R
+04-08-2018,Chicago White Sox,Tampa Bay Rays,L,L
+05-08-2018,Chicago White Sox,Tampa Bay Rays,R,R
+07-08-2018,Baltimore Orioles,Tampa Bay Rays,R,R
+08-08-2018,Baltimore Orioles,Tampa Bay Rays,R,R
+09-08-2018,Baltimore Orioles,Tampa Bay Rays,R,R
+20-08-2018,Kansas City Royals,Tampa Bay Rays,R,R
+21-08-2018,Kansas City Royals,Tampa Bay Rays,R,L
+22-08-2018,Kansas City Royals,Tampa Bay Rays,R,R
+23-08-2018,Kansas City Royals,Tampa Bay Rays,L,R
+24-08-2018,Boston Red Sox,Tampa Bay Rays,R,R
+25-08-2018,Boston Red Sox,Tampa Bay Rays,R,L
+26-08-2018,Boston Red Sox,Tampa Bay Rays,R,L
+07-09-2018,Baltimore Orioles,Tampa Bay Rays,R,L
+08-09-2018,Baltimore Orioles,Tampa Bay Rays,R,R
+09-09-2018,Baltimore Orioles,Tampa Bay Rays,L,R
+10-09-2018,Cleveland Indians,Tampa Bay Rays,R,R
+11-09-2018,Cleveland Indians,Tampa Bay Rays,R,R
+12-09-2018,Cleveland Indians,Tampa Bay Rays,R,L
+14-09-2018,Oakland Athletics,Tampa Bay Rays,R,R
+15-09-2018,Oakland Athletics,Tampa Bay Rays,R,R
+16-09-2018,Oakland Athletics,Tampa Bay Rays,R,R
+24-09-2018,New York Yankees,Tampa Bay Rays,R,R
+25-09-2018,New York Yankees,Tampa Bay Rays,R,R
+26-09-2018,New York Yankees,Tampa Bay Rays,R,R
+27-09-2018,New York Yankees,Tampa Bay Rays,nan,R
+28-09-2018,Toronto Blue Jays,Tampa Bay Rays,L,R
+29-09-2018,Toronto Blue Jays,Tampa Bay Rays,L,L
+30-09-2018,Toronto Blue Jays,Tampa Bay Rays,R,R
+29-03-2018,Houston Astros,Texas Rangers,R,L
+30-03-2018,Houston Astros,Texas Rangers,L,R
+31-03-2018,Houston Astros,Texas Rangers,R,L
+01-04-2018,Houston Astros,Texas Rangers,R,L
+06-04-2018,Toronto Blue Jays,Texas Rangers,R,L
+07-04-2018,Toronto Blue Jays,Texas Rangers,R,L
+08-04-2018,Toronto Blue Jays,Texas Rangers,L,L
+09-04-2018,Los Angeles Angels,Texas Rangers,R,R
+10-04-2018,Los Angeles Angels,Texas Rangers,L,L
+11-04-2018,Los Angeles Angels,Texas Rangers,R,L
+20-04-2018,Seattle Mariners,Texas Rangers,R,L
+21-04-2018,Seattle Mariners,Texas Rangers,L,R
+22-04-2018,Seattle Mariners,Texas Rangers,R,L
+23-04-2018,Oakland Athletics,Texas Rangers,R,L
+24-04-2018,Oakland Athletics,Texas Rangers,R,L
+25-04-2018,Oakland Athletics,Texas Rangers,R,R
+03-05-2018,Boston Red Sox,Texas Rangers,L,L
+04-05-2018,Boston Red Sox,Texas Rangers,R,R
+05-05-2018,Boston Red Sox,Texas Rangers,L,L
+06-05-2018,Boston Red Sox,Texas Rangers,L,R
+07-05-2018,Detroit Tigers,Texas Rangers,R,L
+08-05-2018,Detroit Tigers,Texas Rangers,R,L
+09-05-2018,Detroit Tigers,Texas Rangers,L,R
+21-05-2018,New York Yankees,Texas Rangers,R,R
+22-05-2018,New York Yankees,Texas Rangers,R,L
+23-05-2018,New York Yankees,Texas Rangers,nan,R
+24-05-2018,Kansas City Royals,Texas Rangers,L,R
+25-05-2018,Kansas City Royals,Texas Rangers,L,L
+26-05-2018,Kansas City Royals,Texas Rangers,R,R
+27-05-2018,Kansas City Royals,Texas Rangers,R,L
+05-06-2018,Oakland Athletics,Texas Rangers,L,L
+06-06-2018,Oakland Athletics,Texas Rangers,R,R
+07-06-2018,Houston Astros,Texas Rangers,R,L
+08-06-2018,Houston Astros,Texas Rangers,R,R
+09-06-2018,Houston Astros,Texas Rangers,R,L
+10-06-2018,Houston Astros,Texas Rangers,L,L
+15-06-2018,Colorado Rockies,Texas Rangers,R,L
+16-06-2018,Colorado Rockies,Texas Rangers,L,L
+17-06-2018,Colorado Rockies,Texas Rangers,R,R
+25-06-2018,San Diego Padres,Texas Rangers,L,L
+26-06-2018,San Diego Padres,Texas Rangers,R,R
+27-06-2018,San Diego Padres,Texas Rangers,L,L
+29-06-2018,Chicago White Sox,Texas Rangers,R,R
+30-06-2018,Chicago White Sox,Texas Rangers,L,R
+01-07-2018,Chicago White Sox,Texas Rangers,R,L
+03-07-2018,Houston Astros,Texas Rangers,L,R
+04-07-2018,Houston Astros,Texas Rangers,R,L
+20-07-2018,Cleveland Indians,Texas Rangers,R,L
+21-07-2018,Cleveland Indians,Texas Rangers,R,R
+22-07-2018,Cleveland Indians,Texas Rangers,R,R
+23-07-2018,Oakland Athletics,Texas Rangers,L,L
+24-07-2018,Oakland Athletics,Texas Rangers,R,L
+25-07-2018,Oakland Athletics,Texas Rangers,R,L
+26-07-2018,Oakland Athletics,Texas Rangers,R,R
+02-08-2018,Baltimore Orioles,Texas Rangers,R,R
+03-08-2018,Baltimore Orioles,Texas Rangers,R,R
+04-08-2018,Baltimore Orioles,Texas Rangers,R,L
+05-08-2018,Baltimore Orioles,Texas Rangers,R,R
+06-08-2018,Seattle Mariners,Texas Rangers,L,L
+07-08-2018,Seattle Mariners,Texas Rangers,R,R
+08-08-2018,Seattle Mariners,Texas Rangers,L,R
+13-08-2018,Arizona Diamondbacks,Texas Rangers,R,R
+14-08-2018,Arizona Diamondbacks,Texas Rangers,L,R
+16-08-2018,Los Angeles Angels,Texas Rangers,R,R
+17-08-2018,Los Angeles Angels,Texas Rangers,R,R
+18-08-2018,Los Angeles Angels,Texas Rangers,L,L
+19-08-2018,Los Angeles Angels,Texas Rangers,R,R
+28-08-2018,Los Angeles Dodgers,Texas Rangers,R,R
+29-08-2018,Los Angeles Dodgers,Texas Rangers,L,L
+31-08-2018,Minnesota Twins,Texas Rangers,L,R
+01-09-2018,Minnesota Twins,Texas Rangers,R,R
+02-09-2018,Minnesota Twins,Texas Rangers,L,L
+03-09-2018,Los Angeles Angels,Texas Rangers,R,L
+04-09-2018,Los Angeles Angels,Texas Rangers,L,L
+05-09-2018,Los Angeles Angels,Texas Rangers,R,R
+17-09-2018,Tampa Bay Rays,Texas Rangers,R,R
+18-09-2018,Tampa Bay Rays,Texas Rangers,L,R
+19-09-2018,Tampa Bay Rays,Texas Rangers,R,L
+21-09-2018,Seattle Mariners,Texas Rangers,R,R
+22-09-2018,Seattle Mariners,Texas Rangers,L,L
+23-09-2018,Seattle Mariners,Texas Rangers,L,L
+29-03-2018,New York Yankees,Toronto Blue Jays,R,L
+30-03-2018,New York Yankees,Toronto Blue Jays,R,R
+31-03-2018,New York Yankees,Toronto Blue Jays,nan,R
+01-04-2018,New York Yankees,Toronto Blue Jays,R,R
+02-04-2018,Chicago White Sox,Toronto Blue Jays,R,L
+03-04-2018,Chicago White Sox,Toronto Blue Jays,R,L
+04-04-2018,Chicago White Sox,Toronto Blue Jays,R,R
+18-04-2018,Kansas City Royals,Toronto Blue Jays,R,L
+24-04-2018,Boston Red Sox,Toronto Blue Jays,R,L
+25-04-2018,Boston Red Sox,Toronto Blue Jays,L,R
+26-04-2018,Boston Red Sox,Toronto Blue Jays,L,R
+27-04-2018,Texas Rangers,Toronto Blue Jays,L,R
+28-04-2018,Texas Rangers,Toronto Blue Jays,R,L
+29-04-2018,Texas Rangers,Toronto Blue Jays,L,L
+08-05-2018,Seattle Mariners,Toronto Blue Jays,L,R
+09-05-2018,Seattle Mariners,Toronto Blue Jays,L,L
+10-05-2018,Seattle Mariners,Toronto Blue Jays,R,L
+11-05-2018,Boston Red Sox,Toronto Blue Jays,L,R
+12-05-2018,Boston Red Sox,Toronto Blue Jays,L,R
+13-05-2018,Boston Red Sox,Toronto Blue Jays,L,R
+17-05-2018,Oakland Athletics,Toronto Blue Jays,R,R
+18-05-2018,Oakland Athletics,Toronto Blue Jays,L,R
+19-05-2018,Oakland Athletics,Toronto Blue Jays,L,R
+20-05-2018,Oakland Athletics,Toronto Blue Jays,R,R
+22-05-2018,Los Angeles Angels,Toronto Blue Jays,R,L
+23-05-2018,Los Angeles Angels,Toronto Blue Jays,L,R
+24-05-2018,Los Angeles Angels,Toronto Blue Jays,R,R
+05-06-2018,New York Yankees,Toronto Blue Jays,nan,R
+06-06-2018,New York Yankees,Toronto Blue Jays,R,R
+07-06-2018,Baltimore Orioles,Toronto Blue Jays,R,L
+08-06-2018,Baltimore Orioles,Toronto Blue Jays,R,L
+09-06-2018,Baltimore Orioles,Toronto Blue Jays,R,R
+10-06-2018,Baltimore Orioles,Toronto Blue Jays,R,R
+15-06-2018,Washington Nationals,Toronto Blue Jays,L,R
+16-06-2018,Washington Nationals,Toronto Blue Jays,R,R
+17-06-2018,Washington Nationals,Toronto Blue Jays,R,R
+19-06-2018,Atlanta Braves,Toronto Blue Jays,R,L
+20-06-2018,Atlanta Braves,Toronto Blue Jays,R,L
+29-06-2018,Detroit Tigers,Toronto Blue Jays,L,R
+30-06-2018,Detroit Tigers,Toronto Blue Jays,L,R
+01-07-2018,Detroit Tigers,Toronto Blue Jays,R,L
+02-07-2018,Detroit Tigers,Toronto Blue Jays,R,L
+03-07-2018,New York Mets,Toronto Blue Jays,R,R
+04-07-2018,New York Mets,Toronto Blue Jays,R,R
+06-07-2018,New York Yankees,Toronto Blue Jays,R,R
+07-07-2018,New York Yankees,Toronto Blue Jays,R,L
+08-07-2018,New York Yankees,Toronto Blue Jays,R,L
+20-07-2018,Baltimore Orioles,Toronto Blue Jays,R,R
+21-07-2018,Baltimore Orioles,Toronto Blue Jays,R,R
+22-07-2018,Baltimore Orioles,Toronto Blue Jays,R,L
+23-07-2018,Minnesota Twins,Toronto Blue Jays,L,R
+24-07-2018,Minnesota Twins,Toronto Blue Jays,R,L
+25-07-2018,Minnesota Twins,Toronto Blue Jays,R,R
+07-08-2018,Boston Red Sox,Toronto Blue Jays,L,R
+08-08-2018,Boston Red Sox,Toronto Blue Jays,L,R
+09-08-2018,Boston Red Sox,Toronto Blue Jays,R,L
+10-08-2018,Tampa Bay Rays,Toronto Blue Jays,L,R
+11-08-2018,Tampa Bay Rays,Toronto Blue Jays,R,R
+12-08-2018,Tampa Bay Rays,Toronto Blue Jays,R,R
+20-08-2018,Baltimore Orioles,Toronto Blue Jays,R,R
+21-08-2018,Baltimore Orioles,Toronto Blue Jays,R,R
+22-08-2018,Baltimore Orioles,Toronto Blue Jays,R,L
+24-08-2018,Philadelphia Phillies,Toronto Blue Jays,R,L
+25-08-2018,Philadelphia Phillies,Toronto Blue Jays,R,R
+26-08-2018,Philadelphia Phillies,Toronto Blue Jays,R,R
+03-09-2018,Tampa Bay Rays,Toronto Blue Jays,R,R
+04-09-2018,Tampa Bay Rays,Toronto Blue Jays,R,L
+05-09-2018,Tampa Bay Rays,Toronto Blue Jays,R,R
+06-09-2018,Cleveland Indians,Toronto Blue Jays,R,R
+07-09-2018,Cleveland Indians,Toronto Blue Jays,R,R
+08-09-2018,Cleveland Indians,Toronto Blue Jays,R,R
+09-09-2018,Cleveland Indians,Toronto Blue Jays,R,L
+20-09-2018,Tampa Bay Rays,Toronto Blue Jays,R,R
+21-09-2018,Tampa Bay Rays,Toronto Blue Jays,R,R
+22-09-2018,Tampa Bay Rays,Toronto Blue Jays,R,L
+23-09-2018,Tampa Bay Rays,Toronto Blue Jays,L,L
+24-09-2018,Houston Astros,Toronto Blue Jays,L,R
+25-09-2018,Houston Astros,Toronto Blue Jays,R,R
+26-09-2018,Houston Astros,Toronto Blue Jays,R,R
+05-04-2018,New York Mets,Washington Nationals,R,R
+07-04-2018,New York Mets,Washington Nationals,L,L
+08-04-2018,New York Mets,Washington Nationals,R,R
+09-04-2018,Atlanta Braves,Washington Nationals,R,R
+10-04-2018,Atlanta Braves,Washington Nationals,R,R
+11-04-2018,Atlanta Braves,Washington Nationals,R,R
+12-04-2018,Colorado Rockies,Washington Nationals,R,L
+13-04-2018,Colorado Rockies,Washington Nationals,L,R
+14-04-2018,Colorado Rockies,Washington Nationals,R,R
+15-04-2018,Colorado Rockies,Washington Nationals,L,R
+27-04-2018,Arizona Diamondbacks,Washington Nationals,R,R
+28-04-2018,Arizona Diamondbacks,Washington Nationals,L,R
+29-04-2018,Arizona Diamondbacks,Washington Nationals,L,L
+30-04-2018,Pittsburgh Pirates,Washington Nationals,R,R
+01-05-2018,Pittsburgh Pirates,Washington Nationals,R,R
+02-05-2018,Pittsburgh Pirates,Washington Nationals,R,R
+03-05-2018,Pittsburgh Pirates,Washington Nationals,R,R
+04-05-2018,Philadelphia Phillies,Washington Nationals,R,L
+05-05-2018,Philadelphia Phillies,Washington Nationals,R,R
+06-05-2018,Philadelphia Phillies,Washington Nationals,R,R
+15-05-2018,New York Yankees,Washington Nationals,R,L
+20-05-2018,Los Angeles Dodgers,Washington Nationals,L,R
+21-05-2018,San Diego Padres,Washington Nationals,L,L
+22-05-2018,San Diego Padres,Washington Nationals,L,R
+23-05-2018,San Diego Padres,Washington Nationals,R,R
+05-06-2018,Tampa Bay Rays,Washington Nationals,R,R
+06-06-2018,Tampa Bay Rays,Washington Nationals,L,R
+08-06-2018,San Francisco Giants,Washington Nationals,L,R
+09-06-2018,San Francisco Giants,Washington Nationals,R,L
+10-06-2018,San Francisco Giants,Washington Nationals,L,R
+18-06-2018,New York Yankees,Washington Nationals,R,R
+19-06-2018,Baltimore Orioles,Washington Nationals,R,R
+20-06-2018,Baltimore Orioles,Washington Nationals,R,L
+21-06-2018,Baltimore Orioles,Washington Nationals,R,R
+22-06-2018,Philadelphia Phillies,Washington Nationals,R,R
+23-06-2018,Philadelphia Phillies,Washington Nationals,R,R
+24-06-2018,Philadelphia Phillies,Washington Nationals,R,R
+02-07-2018,Boston Red Sox,Washington Nationals,R,R
+03-07-2018,Boston Red Sox,Washington Nationals,L,R
+04-07-2018,Boston Red Sox,Washington Nationals,L,R
+05-07-2018,Miami Marlins,Washington Nationals,R,R
+06-07-2018,Miami Marlins,Washington Nationals,R,L
+07-07-2018,Miami Marlins,Washington Nationals,L,R
+08-07-2018,Miami Marlins,Washington Nationals,R,R
+20-07-2018,Atlanta Braves,Washington Nationals,R,R
+22-07-2018,Atlanta Braves,Washington Nationals,R,R
+31-07-2018,New York Mets,Washington Nationals,L,R
+01-08-2018,New York Mets,Washington Nationals,R,L
+02-08-2018,Cincinnati Reds,Washington Nationals,R,R
+05-08-2018,Cincinnati Reds,Washington Nationals,R,R
+08-08-2018,Atlanta Braves,Washington Nationals,R,L
+09-08-2018,Atlanta Braves,Washington Nationals,R,L
+17-08-2018,Miami Marlins,Washington Nationals,R,R
+18-08-2018,Miami Marlins,Washington Nationals,L,R
+19-08-2018,Miami Marlins,Washington Nationals,R,L
+21-08-2018,Philadelphia Phillies,Washington Nationals,R,R
+22-08-2018,Philadelphia Phillies,Washington Nationals,R,R
+23-08-2018,Philadelphia Phillies,Washington Nationals,R,R
+31-08-2018,Milwaukee Brewers,Washington Nationals,R,R
+01-09-2018,Milwaukee Brewers,Washington Nationals,R,R
+02-09-2018,Milwaukee Brewers,Washington Nationals,R,R
+03-09-2018,St. Louis Cardinals,Washington Nationals,R,R
+04-09-2018,St. Louis Cardinals,Washington Nationals,R,R
+05-09-2018,St. Louis Cardinals,Washington Nationals,R,R
+06-09-2018,Chicago Cubs,Washington Nationals,R,R
+13-09-2018,Chicago Cubs,Washington Nationals,L,R
+20-09-2018,New York Mets,Washington Nationals,L,R
+21-09-2018,New York Mets,Washington Nationals,R,R
+22-09-2018,New York Mets,Washington Nationals,R,R
+23-09-2018,New York Mets,Washington Nationals,L,R
+24-09-2018,Miami Marlins,Washington Nationals,R,R
+25-09-2018,Miami Marlins,Washington Nationals,R,R
+26-09-2018,Miami Marlins,Washington Nationals,L,R

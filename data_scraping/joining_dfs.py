@@ -57,6 +57,14 @@ def combine_df_hitterdkpts(year):
     vegas = pd.read_csv('input/vegasOdds/vegasOdds_' + str(year) + '.csv', sep=',')
     curDF = pd.merge(curDF, vegas,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
+    batterHand = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_hitters_hand_dkpts.csv', sep=',')
+    curDF = pd.merge(curDF, batterHand,  how='left', left_on=['Date','AwayTeam','HomeTeam','Batter'], right_on = ['Date','AwayTeam','HomeTeam','Batter'])
+    
+    pitcherHand = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_pitchers_hand_dkpts.csv', sep=',')
+    curDF = pd.merge(curDF, pitcherHand,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    
+    
+    
 
     # Remove playoff games
     curDF = curDF[curDF['month'] != 10]
