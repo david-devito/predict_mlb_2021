@@ -27,7 +27,7 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2020,2021):
+for yeari in range(2018,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 #sys.exit()
@@ -39,19 +39,31 @@ statsDF['month'] = statsDF['month'].astype(str)
 #statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
 
 # Calculate difference in WinPct
-#statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
-#statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
-#statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
-#statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
+statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
+statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
+statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
+statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
 
 # Add Columns defining hitters before and after current hitter in the batting order
-#statsDF = assorted_funcs.battingOrderVars(statsDF)
+statsDF = assorted_funcs.battingOrderVars(statsDF)
 
 # Add Columns defining recwOBA of current hitter and hitter before and after current hitter in the batting order
-#statsDF = assorted_funcs.getrecwOBA(statsDF)
+statsDF = assorted_funcs.getrecwOBA(statsDF)
 
 # Get Handedness Matchup between Hitter and Opposing Pitcher
-#statsDF = assorted_funcs.handednessFeatures(statsDF)
+statsDF = assorted_funcs.handednessFeatures(statsDF)
+
+# Create Park Factors Columns adjusted for Batter's Actual Handedness
+# Correct switch hitters
+statsDF['BatterHand'] = statsDF.apply(lambda x: 'L' if ((x['BatterHand'] == 'B') & (x['O_SP_Hand'] == 'R')) else ('R' if ((x['BatterHand'] == 'B') & (x['O_SP_Hand'] == 'L')) else x['BatterHand']), axis=1)
+# Get Park Factors based on Batter's Handedness
+for curStat in ['1B','2B','3B','HR']:
+    statsDF['ParkAdj_' + curStat] = statsDF.apply(lambda x: x['Park_' + curStat + '_L'] if x['BatterHand'] == 'L' else x['Park_' + curStat + '_R'], axis=1)
+
+
+
+
+
 '''
 ## LOAD STATISTICS
 # Load Batting Stats
@@ -72,14 +84,14 @@ for yeari in range(2019,2021):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 
 '''
-
+'''
 #print('Loading Fielding Stats...')
 fielding = dict()
 fieldStatsCols = [6]
-fieldStatsCols.extend([13,14,15,16,17,18,19,20])
+fieldStatsCols.extend([43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59])
 for yeari in range(2016,2021):
     fielding[yeari] = get_mlb_playerstats.load_fielding_data(yeari,fieldStatsCols)
-
+'''
 
 # BATTING STATS
 # Compile list of statistics by removing irrelevant column names from column list
@@ -191,7 +203,7 @@ statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY'
 
 '''
 
-
+'''
 # FIELDING STATS
 
 # Get names of opposing fielding players
@@ -240,10 +252,8 @@ for curCol in [x for x in statsDF.columns if '_O_avg' in x]:
     print(curCol + ' - ' + str(curCorr))
 pd.set_option('display.max_columns', 50)
 sys.exit()
+'''
 
-
-
-sys.exit()
 
 # WEATHER
 
@@ -285,7 +295,7 @@ useful_features = [x for x in statsDF.columns if 'prevY' in x]
 useful_features.extend([x for x in statsDF.columns if 'recFIP' in x])
 useful_features.extend([x for x in statsDF.columns if 'WinPct_Diff' in x])
 useful_features.extend(['BattingOrder'])
-useful_features.extend(['Park_RunsFactor','Park_HRFactor','Park_HFactor','Park_2BFactor','Park_3BFactor','Park_BBFactor'])
+useful_features.extend([x for x in statsDF.columns if 'ParkAdj' in x])
 useful_features.extend(['temperature'])
 #useful_features.extend(['HomeOrAway'])
 useful_features.extend(['HomeOdds','OverUnder'])
@@ -332,7 +342,7 @@ test_features = scaler.transform(test_features)
 # Fit the model
 # Train on all data
 rf = assorted_funcs.random_forest_reg(train_features, train_labels)
-#rf = assorted_funcs.gbtregressor(train_features, train_labels)
+rf = assorted_funcs.gbtregressor(train_features, train_labels)
 #rf = LinearRegression().fit(train_features, train_labels)
 #rf = Ridge(alpha=0.5).fit(train_features, train_labels)
 
@@ -344,7 +354,7 @@ predictions = rf.predict(test_features)
 resCor = np.corrcoef(predictions,test_labels)
 
 
-
+'''
 # Feature Importances
 importances = rf.feature_importances_
 std = np.std([tree.feature_importances_ for tree in rf.estimators_],
@@ -357,7 +367,7 @@ print("Feature ranking:")
 for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
-
+'''
     
 
 

@@ -186,6 +186,7 @@ def handednessFeatures(df):
                 HandMatchup = 'Opposite'
         return HandMatchup
     
+    df['O_SP_Hand'] = df.apply(lambda x: x['A_SP_Hand'] if x['HomeOrAway'] == 'Home' else x['H_SP_Hand'], axis=1)
     df['HandMatchup'] = df.apply(lambda x: handmatchup(x), axis=1)
     
     return df

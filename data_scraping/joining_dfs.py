@@ -42,8 +42,8 @@ def combine_df_hitterdkpts(year):
     curDF['OppoPitcher'] = curDF.apply(lambda x: x['AwaySP'] if x['HomeOrAway'] == 'Home' else x['HomeSP'], axis=1)
     
     
-    parkFactors = pd.read_csv('input/parkFactors/parkFactors.csv', sep=',')
-    curDF = pd.merge(curDF, parkFactors,  how='left', left_on=['year','HomeTeam'], right_on = ['ParkYear','Park'])
+    parkFactors = pd.read_csv('input/parkFactors/parkFactorsByHand_' + str(year) + '.csv', sep=',')
+    curDF = pd.merge(curDF, parkFactors,  how='left', left_on=['HomeTeam'], right_on = ['Team'])
     
     winpct = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_winpct.csv', sep=',')
     curDF = pd.merge(curDF, winpct,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
@@ -61,11 +61,11 @@ def combine_df_hitterdkpts(year):
     vegas = pd.read_csv('input/vegasOdds/vegasOdds_' + str(year) + '.csv', sep=',')
     curDF = pd.merge(curDF, vegas,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
-    #batterHand = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_hitters_hand_dkpts.csv', sep=',')
-    #curDF = pd.merge(curDF, batterHand,  how='left', left_on=['Date','AwayTeam','HomeTeam','Batter'], right_on = ['Date','AwayTeam','HomeTeam','Batter'])
+    batterHand = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_hitters_hand_dkpts.csv', sep=',')
+    curDF = pd.merge(curDF, batterHand,  how='left', left_on=['Date','AwayTeam','HomeTeam','Batter'], right_on = ['Date','AwayTeam','HomeTeam','Batter'])
     
-    #pitcherHand = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_pitchers_hand_dkpts.csv', sep=',')
-    #curDF = pd.merge(curDF, pitcherHand,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
+    pitcherHand = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_pitchers_hand_dkpts.csv', sep=',')
+    curDF = pd.merge(curDF, pitcherHand,  how='left', left_on=['Date','AwayTeam','HomeTeam'], right_on = ['Date','AwayTeam','HomeTeam'])
     
     zips_h = pd.read_csv('input/projections/zips/zips_hitters_' + str(year) + '.csv', sep=',')
     curDF = pd.merge(curDF, zips_h,  how='left', left_on=['Batter'], right_on = ['Player'])
