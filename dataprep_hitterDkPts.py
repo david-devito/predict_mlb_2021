@@ -27,7 +27,7 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2018,2021):
+for yeari in range(2020,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 #sys.exit()
@@ -39,20 +39,20 @@ statsDF['month'] = statsDF['month'].astype(str)
 #statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
 
 # Calculate difference in WinPct
-statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
-statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
-statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
-statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
+#statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
+#statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
+#statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
+#statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
 
 # Add Columns defining hitters before and after current hitter in the batting order
-statsDF = assorted_funcs.battingOrderVars(statsDF)
+#statsDF = assorted_funcs.battingOrderVars(statsDF)
 
 # Add Columns defining recwOBA of current hitter and hitter before and after current hitter in the batting order
-statsDF = assorted_funcs.getrecwOBA(statsDF)
+#statsDF = assorted_funcs.getrecwOBA(statsDF)
 
 # Get Handedness Matchup between Hitter and Opposing Pitcher
 #statsDF = assorted_funcs.handednessFeatures(statsDF)
-
+'''
 ## LOAD STATISTICS
 # Load Batting Stats
 #print('Loading Batting Stats...')
@@ -62,20 +62,28 @@ batStatsCols.extend([51,61,62])
 #batStatsCols.extend(list(range(290,312)))
 for yeari in range(2016,2020):
     batting[yeari] = get_mlb_playerstats.load_hitting_data(yeari,batStatsCols)
-'''
+
 
 #print('Loading Pitching Stats...')
 pitching = dict()
 pitchStatsCols = [13]
 pitchStatsCols.extend([62,109,217,221,240,284])#start at 326
-for yeari in range(2009,2019):
+for yeari in range(2019,2021):
     pitching[yeari] = get_mlb_playerstats.load_pitching_data(yeari,pitchStatsCols)
 
 '''
 
+#print('Loading Fielding Stats...')
+fielding = dict()
+fieldStatsCols = [6]
+fieldStatsCols.extend([13,14,15,16,17,18,19,20])
+for yeari in range(2016,2021):
+    fielding[yeari] = get_mlb_playerstats.load_fielding_data(yeari,fieldStatsCols)
+
+
 # BATTING STATS
 # Compile list of statistics by removing irrelevant column names from column list
-battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
+#battingStatsColumns = [ elem for elem in list(batting[list(batting.keys())[0]].columns) if elem not in ['Season','Team']]
 
 '''
 # Create columns in stats DataFrame that include each corresponding players stats from current and past years
@@ -182,6 +190,61 @@ statsDF = statsDF.drop(['FB%_AwaySP_prevY','GB%_AwaySP_prevY','FB%_HomeSP_prevY'
 #statsDF['recFIP_Diff'] = statsDF.apply(lambda x: x['H_SP_recFIP'] - x['A_SP_recFIP'], axis=1)
 
 '''
+
+
+# FIELDING STATS
+
+# Get names of opposing fielding players
+for i in list(range(1,10)):
+    statsDF['O_' + str(i)] = statsDF.apply(lambda x: x['A_' + str(i)] if x['HomeOrAway'] == 'Home' else x['H_' + str(i)], axis=1)
+    
+
+# Compile list of statistics by removing irrelevant column names from column list
+fieldingStatsColumns = [ elem for elem in list(fielding[list(fielding.keys())[0]].columns) if elem not in ['Season','Team']]
+
+# Create columns in stats DataFrame that include each corresponding players stats from current and past years
+#relevantBatStats = relevant_statLists.batterStatList()
+# Loop through each year, batter and statistic
+for yeari in ['prevY']:
+    for fieldi in ['O_1','O_2','O_3','O_4','O_5','O_6','O_7','O_8','O_9']:
+        print(fieldi)
+        for stati in fieldingStatsColumns:
+            #if stati + '_' + bati + '_' + yeari in relevantBatStats:
+            print(stati)
+            # Create a column that contains the statistical value associated with each corresponding fielder
+            statsDF[stati + '_' + fieldi + '_' + yeari] = statsDF.apply(lambda x: assorted_funcs.populatePlayerStats(fielding, x, fieldi, stati, yeari),axis=1)
+            # Replace any outliers with the mode from that column
+            curMean = np.mean(statsDF[stati + '_' + fieldi + '_' + yeari])
+            curSTD = np.std(statsDF[stati + '_' + fieldi + '_' + yeari])
+            lowOutlier = curMean - (3*curSTD)
+            highOutlier = curMean + (3*curSTD)
+            statsDF.at[statsDF[stati + '_' + fieldi + '_' + yeari] < lowOutlier, stati + '_' + fieldi + '_' + yeari] = statsDF[stati + '_' + fieldi + '_' + yeari].mode()[0]
+            statsDF.at[statsDF[stati + '_' + fieldi + '_' + yeari] > highOutlier, stati + '_' + fieldi + '_' + yeari] = statsDF[stati + '_' + fieldi + '_' + yeari].mode()[0]
+            # Fill any NaN values with the mode from that column
+            statsDF[stati + '_' + fieldi + '_' + yeari].fillna(statsDF[stati + '_' + fieldi + '_' + yeari].mean(), inplace=True)
+            # Save Mode for Future Testing
+            #modeTestingList[stati + '_' + bati + '_' + yeari] = statsDF[stati + '_' + bati + '_' + yeari].mode()[0]
+            # Save Low and High Outlier Values for Future Testing
+            #lowOutlierTestingList[stati + '_' + bati + '_' + yeari] = lowOutlier
+            #highOutlierTestingList[stati + '_' + bati + '_' + yeari] = highOutlier
+
+# Combine stats across fielders
+X = statsDF.columns[['_O_' in x for x in statsDF.columns]]
+for yeari in ['prevY']:
+    for stati in fieldingStatsColumns:
+        Ocol = X[[stati + '_O' in x for x in X]]
+        statsDF[stati + '_O_avg_' + yeari] = statsDF[Ocol].mean(axis=1)
+
+for curCol in [x for x in statsDF.columns if '_O_avg' in x]:
+    curCorr = round(np.corrcoef(statsDF[curCol],statsDF['DKPts'])[0][1],2)
+    print(curCol + ' - ' + str(curCorr))
+pd.set_option('display.max_columns', 50)
+sys.exit()
+
+
+
+sys.exit()
+
 # WEATHER
 
 #statsDF['windSpeed'] = statsDF['windSpeed'].apply(lambda x: '10+' if x >= 10 else ('0' if x == 0 else '>0 + <10'))
