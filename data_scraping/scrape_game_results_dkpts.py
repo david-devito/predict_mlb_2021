@@ -21,7 +21,7 @@ spcharReplace = {'í':'i',
                  'é':'e',
                  'á':'a'}
 
-section = 'pitchers_hand' #hitters, hitters_hand, pitchers, pitchers_hand
+section = 'hitters_hand' #hitters, hitters_hand, pitchers, pitchers_hand
 
 year = '2017'
 if year == '2020': monthsWithGames = ['06','07','08','09','10']
@@ -29,6 +29,7 @@ else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
+
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam']
 if section == 'hitters':

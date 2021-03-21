@@ -12,10 +12,13 @@ import numpy as np
 from matplotlib import pyplot as plt
 # sklearn functions
 from sklearn.preprocessing import MinMaxScaler, KBinsDiscretizer
-from sklearn.linear_model import LinearRegression, Ridge
+from sklearn.linear_model import LinearRegression, Ridge, PoissonRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 from imblearn.over_sampling import SMOTE,SMOTENC
+
+from sklearn.experimental import enable_hist_gradient_boosting
+from sklearn.ensemble import HistGradientBoostingRegressor
 # My functions
 import get_mlb_playerstats
 import assorted_funcs
@@ -37,6 +40,13 @@ statsDF = statsDF[~statsDF['Batter'].isna()].copy()
 statsDF['month'] = statsDF['month'].astype(str)
 # Convert certain numerical columns to strings when you want them to be treated as categorical
 #statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
+
+#statsDF = statsDF[statsDF['BattingOrder'] <= 6].copy()
+statsDF = statsDF[statsDF['DKPts'] <= 30].copy()
+#Only one game above 105 degrees
+statsDF = statsDF[statsDF['temperature'] <= 105].copy()
+statsDF = statsDF.dropna(axis=0,how='any').copy()
+
 
 # Calculate difference in WinPct
 statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
@@ -60,9 +70,7 @@ statsDF['BatterHand'] = statsDF.apply(lambda x: 'L' if ((x['BatterHand'] == 'B')
 for curStat in ['1B','2B','3B','HR']:
     statsDF['ParkAdj_' + curStat] = statsDF.apply(lambda x: x['Park_' + curStat + '_L'] if x['BatterHand'] == 'L' else x['Park_' + curStat + '_R'], axis=1)
 
-
-
-
+statsDF.reset_index(drop=True, inplace=True)
 
 '''
 ## LOAD STATISTICS
@@ -274,47 +282,68 @@ sys.exit()
 labelCol = 'DKPts'
 
 # Transform categorical label into binary
-statsDF[labelCol] = pd.Categorical(pd.factorize(statsDF[labelCol])[0])
+#statsDF[labelCol] = pd.Categorical(pd.factorize(statsDF[labelCol])[0])
 
 # Get the label values as a numpy array
 labels = np.array(statsDF[labelCol])
 
-
 # Classify all numeric data into bins
 nonStatsColumns = [x for x in statsDF.columns if 'prevY' not in x]
 for coli in nonStatsColumns:
-    if ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
+    if coli == labelCol: pass
+    elif ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
         #statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
         #statsDF[coli] = statsDF[coli].astype(str)
         statsDF[coli].fillna(statsDF[coli].mean(), inplace=True)
 
-
+sys.exit()
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = []
-useful_features = [x for x in statsDF.columns if 'prevY' in x]
-useful_features.extend([x for x in statsDF.columns if 'recFIP' in x])
-useful_features.extend([x for x in statsDF.columns if 'WinPct_Diff' in x])
-useful_features.extend(['BattingOrder'])
-useful_features.extend([x for x in statsDF.columns if 'ParkAdj' in x])
+#useful_features = [x for x in statsDF.columns if 'prevY' in x]
+#useful_features.extend([x for x in statsDF.columns if 'recFIP' in x])
+#useful_features.extend([x for x in statsDF.columns if 'WinPct_Diff' in x])
+#useful_features.extend(['BattingOrder'])
+useful_features = ['BattingOrder']
+#useful_features.extend([x for x in statsDF.columns if 'ParkAdj' in x])
 useful_features.extend(['temperature'])
 #useful_features.extend(['HomeOrAway'])
 useful_features.extend(['HomeOdds','OverUnder'])
-useful_features.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
+#useful_features.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
 #useful_features.extend(['BatterHand','HandMatchup'])
-useful_features.extend(['BABIP_zips','ISO_zips'])
-useful_features.extend(['OP_BABIP_zips','OP_ERA-_zips'])
+#useful_features.extend(['BABIP_zips','ISO_zips'])
+#useful_features.extend(['OP_BABIP_zips','OP_ERA-_zips'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
+
+# Bin only certain columns
+binnedCols = ['OverUnder','HomeOdds','temperature']
+nonBinnedCols = [x for x in useful_features if x not in binnedCols]
+
+kbins = KBinsDiscretizer(n_bins=5,encode='ordinal',strategy='uniform')
+b_featuresDF = kbins.fit_transform(statsDF[binnedCols])
+b_featuresDF = pd.DataFrame(data=b_featuresDF,columns=statsDF[binnedCols].columns)
+featuresDF = pd.concat([b_featuresDF, statsDF[nonBinnedCols]], axis=1, sort=False)
+
+
+'''
 # Create Full Features DF
 featuresDF_orig = pd.DataFrame()
 featuresDF_orig = pd.concat([featuresDF_orig, statsDF[useful_features]], axis=1, sort=False)
-# Discretize Numeric Features into Bins
-#kbins = KBinsDiscretizer(n_bins=20,encode='ordinal',strategy='uniform')
-#featuresDF = kbins.fit_transform(featuresDF_orig)
-#featuresDF = pd.DataFrame(data=featuresDF,columns=featuresDF_orig.columns)
-featuresDF = pd.get_dummies(featuresDF_orig)
 
+
+featuresDF = kbins.fit_transform(featuresDF_orig)
+featuresDF = pd.DataFrame(data=featuresDF,columns=featuresDF_orig.columns)
+'''
+
+featuresDF = pd.get_dummies(featuresDF)
 features_list = list(featuresDF.columns)
+
+
+
+
+
+
+
 '''
 ## CHECKING WHICH FEATURES BEST SEPARATE THE TARGET VARIABLE
 df_away = statsDF[statsDF['Winner'] == 0].copy()
@@ -341,17 +370,20 @@ test_features = scaler.transform(test_features)
 
 # Fit the model
 # Train on all data
-rf = assorted_funcs.random_forest_reg(train_features, train_labels)
-rf = assorted_funcs.gbtregressor(train_features, train_labels)
+#rf = assorted_funcs.random_forest_reg(train_features, train_labels)
+#rf = assorted_funcs.gbtregressor(train_features, train_labels)
 #rf = LinearRegression().fit(train_features, train_labels)
 #rf = Ridge(alpha=0.5).fit(train_features, train_labels)
-
+rf = PoissonRegressor(alpha=0.001).fit(train_features, train_labels)
+#rf = assorted_funcs.histregressor(train_features, train_labels)
+                    
+                    
 # Make predictions
 predictions = rf.predict(test_features)
 
 
 # Evaluate correlation between predictions and true values
-resCor = np.corrcoef(predictions,test_labels)
+#resCor = np.corrcoef(predictions,test_labels)
 
 
 '''
@@ -375,7 +407,7 @@ m, b = np.polyfit(test_labels, predictions, 1)
 plt.plot(test_labels, predictions, 'o')
 plt.plot(test_labels, m*test_labels + b)
 
-plt.show()
+
 
 
 # Plot average prediction by test_value
@@ -383,5 +415,9 @@ pred_DF = pd.DataFrame()
 pred_DF['predictions'] = predictions
 pred_DF['test_labels'] = test_labels
 pred_DF.groupby('test_labels').mean().rolling(5).median().plot.line()
+plt.show()
+
+meanErr = round(np.mean(abs(test_labels-predictions)),1)
+print('Mean Error:' + str(meanErr))
 
 

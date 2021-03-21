@@ -5,6 +5,9 @@ import numpy as np
 from scipy.stats import ks_2samp
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, RandomForestRegressor, GradientBoostingRegressor
 
+from sklearn.experimental import enable_hist_gradient_boosting
+from sklearn.ensemble import HistGradientBoostingRegressor
+
 # Function to check if player name is part of dataframe index
 def isPlayerInDF(df, player):
     try:
@@ -132,7 +135,7 @@ def gbtregressor(
     min_samples_split=6, 
     max_leaf_nodes=None, 
     max_features='auto', 
-    max_depth=14
+    max_depth=6
     ):
     # making the RandomForestRegressor paramteres changable for hyperparameter optimization
     regr = GradientBoostingRegressor(
@@ -141,6 +144,23 @@ def gbtregressor(
         max_leaf_nodes=max_leaf_nodes,
         max_features=max_features,
         max_depth=max_depth
+        )
+
+    regr.fit(X_train, y_train)
+    return regr
+
+def histregressor(
+    X_train, 
+    y_train,
+    max_leaf_nodes=None, 
+    max_depth=14,
+    loss='poisson'
+    ):
+    # making the RandomForestRegressor paramteres changable for hyperparameter optimization
+    regr = HistGradientBoostingRegressor(
+        max_leaf_nodes=max_leaf_nodes,
+        max_depth=max_depth,
+        loss=loss
         )
 
     regr.fit(X_train, y_train)
