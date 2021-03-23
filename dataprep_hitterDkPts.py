@@ -30,10 +30,10 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2018,2021):
+for yeari in range(2017,2021):
     curYear_DF = combine_df_hitterdkpts(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
-#sys.exit()
+
 # Remove lines in DF with NaN in Batter column - usually playoff games
 statsDF = statsDF[~statsDF['Batter'].isna()].copy()
 # Convert month variable to string because relationship between months and pts might not be linear
@@ -47,18 +47,37 @@ statsDF = statsDF[statsDF['DKPts'] <= 30].copy()
 statsDF = statsDF[statsDF['temperature'] <= 105].copy()
 statsDF = statsDF.dropna(axis=0,how='any').copy()
 
-
 # Calculate difference in WinPct
-statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
-statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
-statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
-statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
+#statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
+#statsDF['last3WinPct_Diff'] = statsDF.apply(lambda x: x['H_last3WinPct'] - x['A_last3WinPct'], axis=1)
+#statsDF['last5WinPct_Diff'] = statsDF.apply(lambda x: x['H_last5WinPct'] - x['A_last5WinPct'], axis=1)
+#statsDF['last10WinPct_Diff'] = statsDF.apply(lambda x: x['H_last10WinPct'] - x['A_last10WinPct'], axis=1)
+
+#statsDF = statsDF[(statsDF['SeaWinPct_Diff'] <= 40) & (statsDF['SeaWinPct_Diff'] >= -40)].copy()
+
+# Separate Season win pct into hitter's team winpct and opposing team winpct
+statsDF['TE_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrAway'] == 'Home' else x['A_SeaWinPct'], axis=1)
+statsDF['OP_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrAway'] == 'Away' else x['A_SeaWinPct'], axis=1)
+statsDF = statsDF[(statsDF['TE_SeaWinPct'] < 70) & (statsDF['TE_SeaWinPct'] > 25)].copy()
+statsDF = statsDF[(statsDF['OP_SeaWinPct'] < 70) & (statsDF['OP_SeaWinPct'] > 25)].copy()
+
+
+
+# Separate recent FIP of pitchers into hitter's team pitcher and opposing pitcher
+statsDF['OP_SP_recFIP'] = statsDF.apply(lambda x: x['A_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['H_SP_recFIP'], axis=1)
+statsDF['TE_SP_recFIP'] = statsDF.apply(lambda x: x['H_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['A_SP_recFIP'], axis=1)
+statsDF = statsDF[(statsDF['OP_SP_recFIP'] < 5) & (statsDF['OP_SP_recFIP'] > -2)].copy()
+statsDF = statsDF[(statsDF['TE_SP_recFIP'] < 5) & (statsDF['TE_SP_recFIP'] > -2)].copy()
+
 
 # Add Columns defining hitters before and after current hitter in the batting order
 statsDF = assorted_funcs.battingOrderVars(statsDF)
 
 # Add Columns defining recwOBA of current hitter and hitter before and after current hitter in the batting order
 statsDF = assorted_funcs.getrecwOBA(statsDF)
+statsDF = statsDF[statsDF['Batter_recwOBA']<0.8]
+statsDF = statsDF[statsDF['Batter-1_recwOBA']<0.8]
+statsDF = statsDF[statsDF['Batter+1_recwOBA']<0.8]
 
 # Get Handedness Matchup between Hitter and Opposing Pitcher
 statsDF = assorted_funcs.handednessFeatures(statsDF)
@@ -71,6 +90,8 @@ for curStat in ['1B','2B','3B','HR']:
     statsDF['ParkAdj_' + curStat] = statsDF.apply(lambda x: x['Park_' + curStat + '_L'] if x['BatterHand'] == 'L' else x['Park_' + curStat + '_R'], axis=1)
 
 statsDF.reset_index(drop=True, inplace=True)
+
+
 
 '''
 ## LOAD STATISTICS
@@ -268,6 +289,7 @@ sys.exit()
 #statsDF['windSpeed'] = statsDF['windSpeed'].apply(lambda x: '10+' if x >= 10 else ('0' if x == 0 else '>0 + <10'))
 #statsDF['windDirection'] = statsDF['windDirection'].fillna('NaN')
 #statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'NoWind' if x == 'NoWind' else ('unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('crosswind' if 'from' in x else x)))))
+#statsDF = statsDF[statsDF['windDirection'] != 'unknown'].copy().reset_index(drop=True)
 #statsDF['windSpeedAndDir'] = statsDF.apply(lambda x: x['windSpeed'] + ' ' + x['windDirection'], axis=1)
 
 #statsDF['windDirection'] = statsDF['windDirection'].apply(lambda x: 'unknown' if 'unknown' in x else ('in' if 'in' in x else ('out' if 'out' in x else ('NoWind' if 'NoWind' in x else 'crosswind'))))
@@ -296,30 +318,34 @@ for coli in nonStatsColumns:
         #statsDF[coli] = statsDF[coli].astype(str)
         statsDF[coli].fillna(statsDF[coli].mean(), inplace=True)
 
-sys.exit()
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = []
 #useful_features = [x for x in statsDF.columns if 'prevY' in x]
-#useful_features.extend([x for x in statsDF.columns if 'recFIP' in x])
-#useful_features.extend([x for x in statsDF.columns if 'WinPct_Diff' in x])
 #useful_features.extend(['BattingOrder'])
 useful_features = ['BattingOrder']
-#useful_features.extend([x for x in statsDF.columns if 'ParkAdj' in x])
+useful_features.extend([x for x in statsDF.columns if 'ParkAdj' in x])
 useful_features.extend(['temperature'])
 #useful_features.extend(['HomeOrAway'])
 useful_features.extend(['HomeOdds','OverUnder'])
-#useful_features.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
+useful_features.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
 #useful_features.extend(['BatterHand','HandMatchup'])
-#useful_features.extend(['BABIP_zips','ISO_zips'])
-#useful_features.extend(['OP_BABIP_zips','OP_ERA-_zips'])
+useful_features.extend(['BABIP_zips','ISO_zips'])
+useful_features.extend(['OP_BABIP_zips','OP_ERA-_zips'])
+useful_features.extend(['OP_SP_recFIP','TE_SP_recFIP'])
+useful_features.extend(['TE_SeaWinPct','OP_SeaWinPct'])
+useful_features.extend(['month'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
 
 # Bin only certain columns
-binnedCols = ['OverUnder','HomeOdds','temperature']
+binnedCols = ['OverUnder','HomeOdds','temperature','BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips']
+binnedCols.extend([x for x in statsDF.columns if 'ParkAdj' in x])
+binnedCols.extend(['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA'])
+binnedCols.extend(['OP_SP_recFIP','TE_SP_recFIP'])
+binnedCols.extend(['TE_SeaWinPct','OP_SeaWinPct'])
 nonBinnedCols = [x for x in useful_features if x not in binnedCols]
 
-kbins = KBinsDiscretizer(n_bins=5,encode='ordinal',strategy='uniform')
+kbins = KBinsDiscretizer(n_bins=8,encode='ordinal',strategy='uniform')
 b_featuresDF = kbins.fit_transform(statsDF[binnedCols])
 b_featuresDF = pd.DataFrame(data=b_featuresDF,columns=statsDF[binnedCols].columns)
 featuresDF = pd.concat([b_featuresDF, statsDF[nonBinnedCols]], axis=1, sort=False)
@@ -371,10 +397,10 @@ test_features = scaler.transform(test_features)
 # Fit the model
 # Train on all data
 #rf = assorted_funcs.random_forest_reg(train_features, train_labels)
-#rf = assorted_funcs.gbtregressor(train_features, train_labels)
+rf = assorted_funcs.gbtregressor(train_features, train_labels)
 #rf = LinearRegression().fit(train_features, train_labels)
 #rf = Ridge(alpha=0.5).fit(train_features, train_labels)
-rf = PoissonRegressor(alpha=0.001).fit(train_features, train_labels)
+#rf = PoissonRegressor(alpha=0.001).fit(train_features, train_labels)
 #rf = assorted_funcs.histregressor(train_features, train_labels)
                     
                     
