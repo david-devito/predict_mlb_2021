@@ -116,7 +116,6 @@ useful_features.extend(['BABIP_zips','ISO_zips'])
 useful_features.extend(['OP_BABIP_zips','OP_ERA-_zips'])
 useful_features.extend(['OP_SP_recFIP','TE_SP_recFIP'])
 useful_features.extend(['TE_SeaWinPct','OP_SeaWinPct'])
-useful_features.extend(['month'])
 useful_features.extend(['BP_AVG'])
 #useful_features.extend([x for x in statsDF.columns if 'GB*WS' in x])
 
@@ -148,8 +147,6 @@ featuresDF = pd.DataFrame(data=featuresDF,columns=featuresDF_orig.columns)
 
 featuresDF = pd.get_dummies(featuresDF)
 features_list = list(featuresDF.columns)
-
-
 
 
 
@@ -230,5 +227,11 @@ plt.show()
 
 meanErr = round(np.mean(abs(test_labels-predictions)),1)
 print('Mean Error:' + str(meanErr))
+
+
+# save the model to disk
+pickle.dump(rf, open('finalized_model.sav', 'wb'))
+# save the scaler for use in testing
+pickle.dump(scaler, open('scaler.pkl', 'wb'))
 
 

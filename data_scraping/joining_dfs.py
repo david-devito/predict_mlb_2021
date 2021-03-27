@@ -72,7 +72,7 @@ def combine_df_hitterdkpts(year):
     
     zips_p = pd.read_csv('input/projections/zips/zips_pitchers_' + str(year) + '.csv', sep=',')
     curDF = pd.merge(curDF, zips_p,  how='left', left_on=['OppoPitcher'], right_on = ['Player'])
-
+    
     #Define opposing Team for Later Joins
     curDF['OppoTeam'] = curDF.apply(lambda x: x['AwayTeam'] if x['HomeOrAway'] == 'Home' else x['HomeTeam'], axis=1)
     
@@ -80,7 +80,7 @@ def combine_df_hitterdkpts(year):
     bullpenStats = pd.read_csv('input/bullpen/bullpenByHand_' + str(year-1) + '.csv', sep=',')
     curDF = pd.merge(curDF, bullpenStats,  how='left', left_on=['OppoTeam'], right_on = ['Team'])
 
-
+    
     # Remove playoff games
     curDF = curDF[curDF['month'] != 10]
     return curDF
