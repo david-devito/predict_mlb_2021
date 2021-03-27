@@ -133,39 +133,15 @@ kbins = KBinsDiscretizer(n_bins=8,encode='ordinal',strategy='uniform')
 b_featuresDF = kbins.fit_transform(statsDF[binnedCols])
 b_featuresDF = pd.DataFrame(data=b_featuresDF,columns=statsDF[binnedCols].columns)
 featuresDF = pd.concat([b_featuresDF, statsDF[nonBinnedCols]], axis=1, sort=False)
+# save the KBinsDiscretizer to disk
+pickle.dump(kbins, open('kbins.pkl', 'wb'))
 
-
-'''
-# Create Full Features DF
-featuresDF_orig = pd.DataFrame()
-featuresDF_orig = pd.concat([featuresDF_orig, statsDF[useful_features]], axis=1, sort=False)
-
-
-featuresDF = kbins.fit_transform(featuresDF_orig)
-featuresDF = pd.DataFrame(data=featuresDF,columns=featuresDF_orig.columns)
-'''
 
 featuresDF = pd.get_dummies(featuresDF)
 features_list = list(featuresDF.columns)
 
 
 
-
-
-'''
-## CHECKING WHICH FEATURES BEST SEPARATE THE TARGET VARIABLE
-df_away = statsDF[statsDF['Winner'] == 0].copy()
-df_home = statsDF[statsDF['Winner'] == 1].copy()
-A_useful_features = [x for x in useful_features if 'A' in x]
-for coli in A_useful_features:
-    x = assorted_funcs.doesVarSeparateGroups(df_away,df_home,coli)
-    print(coli + ' - ' + str(x))
-
-
-
-pd.set_option('display.max_columns', 500)
-#sys.exit()
-'''
 # Look through k-folds, each time holding out one fold for testing
 print('Modelling...')
 train_features, test_features, train_labels, test_labels = train_test_split(np.array(featuresDF), labels, test_size = 0.1)
