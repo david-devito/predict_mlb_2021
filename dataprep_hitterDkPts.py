@@ -45,7 +45,7 @@ statsDF['month'] = statsDF['month'].astype(str)
 statsDF = statsDF[statsDF['DKPts'] <= 30].copy()
 #Only one game above 105 degrees
 statsDF = statsDF[statsDF['temperature'] <= 105].copy()
-statsDF = statsDF.dropna(axis=0,how='any').copy()
+#statsDF = statsDF.dropna(axis=0,how='any').copy()
 
 # Calculate difference in WinPct
 #statsDF['SeaWinPct_Diff'] = statsDF.apply(lambda x: x['H_SeaWinPct'] - x['A_SeaWinPct'], axis=1)
