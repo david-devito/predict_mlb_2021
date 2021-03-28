@@ -49,7 +49,7 @@ temp_statsDF = temp_statsDF[temp_statsDF['Date'] == '01-09-2020'].reset_index(dr
 
 
 
-statsDF = pd.DataFrame()
+'''
 statsDF['Batter'] = temp_statsDF.loc[0:17]['Batter'].copy()
 statsDF['BattingOrder'] = list(range(1,10))*(numGames*2)
 statsDF['HomeOrAway'] = (['Away']*9+['Home']*9)*numGames
@@ -58,8 +58,54 @@ statsDF['AwayTeam'] = 'New York Yankees'
 statsDF['HomeTeam'] = 'Toronto Blue Jays'
 statsDF['AwaySP'] = 'Gerrit Cole'
 statsDF['HomeSP'] = 'Robbie Ray'
+'''
 
 
+statsDF = pd.DataFrame()
+
+## DAILY LINEUPS INFO
+# Team Names
+r = requests.get("https://www.rotogrinders.com/lineups/mlb", headers=BSheaders)
+soup = BeautifulSoup(r.content, "lxml")
+teamNames = soup.find_all("div", {"class": "teams"})
+awayTeamNames = [x.find_all("span", {"class": "lng"})[0].text + " " + x.find_all("span", {"class": "mascot"})[0].text for x in teamNames]
+homeTeamNames = [x.find_all("span", {"class": "lng"})[1].text + " " + x.find_all("span", {"class": "mascot"})[1].text for x in teamNames]
+# Starting Pitchers
+startingPitchers = soup.find_all("div", {"class": "pitcher players"})
+startingPitchers = [x.select('a')[0].text for x in startingPitchers]
+# Starting Lineups
+startingBatters = soup.find_all("span", {"class": "pname"})
+startingBatters = [x.select('a')[0].text for x in startingBatters]
+
+
+statsDF['Batter'] = startingBatters
+statsDF['BattingOrder'] = list(range(1,10))*(int(len(startingBatters)/9))
+statsDF['HomeOrAway'] = (['Away']*9+['Home']*9)*(int(len(startingBatters)/18))
+
+oddIX = [x for x in range(len(startingPitchers)) if x % 2 == 1]
+evenIX = [x for x in range(len(startingPitchers)) if x % 2 == 0]
+
+
+
+
+
+def popDF(curList):
+    temp = []
+    for x in curList:
+        temp.extend([x]*18)
+    return temp
+
+statsDF['AwayTeam'] = popDF(awayTeamNames)
+statsDF['HomeTeam'] = popDF(homeTeamNames)
+#statsDF['AwaySP'] = popDF(awayTeamNames)
+#statsDF['HomeSP'] = popDF(awayTeamNames)
+
+
+
+
+
+
+sys.exit()
 
 ## BATTER HANDEDNESS
 batterHand_DF = pd.read_csv('input/2021_hitterhand_database.csv', sep=',')
@@ -119,9 +165,6 @@ statsDF['A_SP_recFIP'] = statsDF['AwaySP'].apply(lambda x: getrecwFIP(x,curStand
 statsDF['H_SP_recFIP'] = statsDF['HomeSP'].apply(lambda x: getrecwFIP(x,curStandingsYear))
 statsDF['OP_SP_recFIP'] = statsDF.apply(lambda x: x['A_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['H_SP_recFIP'], axis=1)
 statsDF['TE_SP_recFIP'] = statsDF.apply(lambda x: x['H_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['A_SP_recFIP'], axis=1)
-
-
-
 
 
 ## RECENT WOBA FOR BATTER AND THOSE HITTING AROUND HIM IN ORDER
