@@ -29,7 +29,7 @@ BSheaders = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) Appl
 curDate = '04-04-2021'
 curStandingsYear = 2020
 
-runModel = 0
+runModel = 1
 
 # Load Model
 loaded_model = pickle.load(open('finalized_model_hitter_dkpts.sav', 'rb'))
@@ -80,6 +80,7 @@ statsDF['HomeSP'] = popDF(homeStartingPitchers)
 
 statsDF['Date'] = curDate
 
+
 # Print CSV Used for Inputting Temperatures and Vegas Odds
 if runModel == 0:
     #Open Excel Workbork
@@ -87,7 +88,7 @@ if runModel == 0:
     workbook = xlsxwriter.Workbook('input/input_temperature_and_vegas.xlsx')
     worksheet = workbook.add_worksheet('tempAndVegas')
     # Write Headers
-    worksheet.write(0, 1, 'Temperature')
+    worksheet.write(0, 1, 'temperature')
     worksheet.write(0, 2, 'HomeOdds')
     worksheet.write(0, 3, 'OverUnder')
     
@@ -100,8 +101,8 @@ if runModel == 0:
     sys.exit()
 else:
     # Load the sheet where temperature and vegas odds have been inputted
-    tempAndVegas = pd.read_csv('input/input_temperature_and_vegas.csv', sep=',')
-
+    tempAndVegas = pd.read_excel('input/input_temperature_and_vegas.xlsx', index_col=0)
+    statsDF = pd.merge(statsDF, tempAndVegas,  how='left', left_on=['AwayTeam'], right_on = tempAndVegas.index)
 
 ## BATTER HANDEDNESS
 batterHand_DF = pd.read_csv('input/2021_hitterhand_database.csv', sep=',')
@@ -223,8 +224,9 @@ statsDF['Batter+1_recwOBA'] = statsDF['Batter+1'].apply(lambda x: recwOBA_dict[x
 
 print('ZIPS PROJECTIONS')
 ## ZIPS PROJECTIONS
-statsDF['BABIP_zips'] = 0.5
-statsDF['ISO_zips'] = 0.5
+zips_h = pd.read_csv('input/projections/zips/zips_hitters_2021.csv', sep=',')
+statsDF = pd.merge(statsDF, zips_h,  how='left', left_on=['Batter'], right_on = ['Player'])
+
 statsDF['OP_BABIP_zips'] = 0.5
 statsDF['OP_ERA-_zips'] = 0.5
 
@@ -236,15 +238,6 @@ statsDF['OppoTeam'] = statsDF.apply(lambda x: x['AwayTeam'] if x['HomeOrAway'] =
 # Load last year's bullpen stats for opposing team
 bullpenStats = pd.read_csv('input/bullpen/bullpenByHand_2020.csv', sep=',')
 statsDF = pd.merge(statsDF, bullpenStats,  how='left', left_on=['OppoTeam'], right_on = ['Team'])
-
-
-
-## TEMPERATURE
-statsDF['temperature'] = 0.5
-
-## VEGAS ODDS
-statsDF['HomeOdds'] = 0.5
-statsDF['OverUnder'] = 0.5
 
 ## PARK FACTORS
 parkFactors = pd.read_csv('input/parkFactors/parkFactorsByHand_2021.csv', sep=',')
@@ -274,8 +267,11 @@ statsDF.reset_index(drop=True, inplace=True)
 # SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
 labelCol = 'DKPts'
 
+zeroedColumns = ['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA','BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips','OP_SP_recFIP','TE_SP_recFIP']
 for coli in statsDF.columns:
     if coli == labelCol: pass
+    elif coli in zeroedColumns:
+        statsDF[coli].fillna(0, inplace=True)
     elif ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
         statsDF[coli].fillna(loaded_fillna_means[coli], inplace=True)
 
