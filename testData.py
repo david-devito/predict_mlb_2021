@@ -25,7 +25,8 @@ BSheaders = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) Appl
 
 
 curStandingsYear = 2020
-
+numGames = 1
+curDate = '04-04-2021'
 
 
 # Load Model
@@ -49,18 +50,24 @@ temp_statsDF = temp_statsDF[temp_statsDF['Date'] == '01-09-2020'].reset_index(dr
 
 statsDF = pd.DataFrame()
 statsDF['Batter'] = temp_statsDF.loc[0:17]['Batter'].copy()
-statsDF['BattingOrder'] = temp_statsDF.loc[0:17]['BattingOrder'].copy()
-statsDF['HomeOrAway'] = temp_statsDF.loc[0:17]['HomeOrAway'].copy()
-statsDF['Date'] = '04-04-2021'
+statsDF['BattingOrder'] = list(range(1,10))*(numGames*2)
+statsDF['HomeOrAway'] = (['Away']*9+['Home']*9)*numGames
+statsDF['Date'] = curDate
 statsDF['AwayTeam'] = 'New York Yankees'
 statsDF['HomeTeam'] = 'Toronto Blue Jays'
+statsDF['AwaySP'] = 'Gerrit Cole'
+statsDF['HomeSP'] = 'Robbie Ray'
+
+
 
 ## BATTER HANDEDNESS
-statsDF['BatterHand'] = 'R'
+batterHand_DF = pd.read_csv('input/2021_hitterhand_database.csv', sep=',')
+statsDF = pd.merge(statsDF, batterHand_DF,  how='left', left_on=['Batter'], right_on = ['Batter'])
 
 ## PITCHER HANDEDNESS
-statsDF['A_SP_Hand'] = 'R'
-statsDF['H_SP_Hand'] = 'L'
+pitcherHand_DF = pd.read_csv('input/2021_pitcherhand_database.csv', sep=','); pitcherHand_DF.set_index('Pitcher',inplace=True)
+statsDF['A_SP_Hand'] = statsDF['AwaySP'].apply(lambda x: pitcherHand_DF.loc[x])
+statsDF['H_SP_Hand'] = statsDF['HomeSP'].apply(lambda x: pitcherHand_DF.loc[x])
 
 ## WINNING PERCENTAGE - CHANGE STANDINGS SITE TO 2021 WHEN SEASON STARTS
 r = requests.get("https://www.baseball-reference.com/leagues/MLB/" + str(curStandingsYear) + "-standings.shtml", headers=BSheaders)
@@ -76,6 +83,52 @@ statsDF['OP_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrA
 
 
 # RECENT PITCHER FIP
+
+
+numGames = 3
+awaySP_link = soup.find(text=lambda n: isinstance(n, Comment) and 'id="div_' + awayTeam.replace(' ','').replace('.','') + 'pitching"' in n)
+awaySP_link = BeautifulSoup(awaySP_link, "lxml")
+awaySP_link = awaySP_link.select('#div_' + awayTeam.replace(' ','').replace('.','') + 'pitching')[0].select('a')[0]['href'].split('/')[3].split('.')[0]
+homeSP_link = soup.find(text=lambda n: isinstance(n, Comment) and 'id="div_' + homeTeam.replace(' ','').replace('.','') + 'pitching"' in n)
+homeSP_link = BeautifulSoup(homeSP_link, "lxml")
+homeSP_link = homeSP_link.select('#div_' + homeTeam.replace(' ','').replace('.','') + 'pitching')[0].select('a')[0]['href'].split('/')[3].split('.')[0]
+
+recent_FIP = []
+for curPlayer in [awaySP_link,homeSP_link]:
+    url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=p&year=" + year
+    r = requests.get(url, headers=BSheaders)
+    soup = BeautifulSoup(r.content, "lxml")
+    dates = [re.sub('\xa0', ' ', x.text).split('(')[0] for x in soup.find_all("td", {"data-stat": "date_game"})]
+    curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
+    
+    statDict = dict()
+    def recentStat(statDict,curStat):
+        X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
+        X = ['0' if x == '' else x for x in X]
+        if dates.index(curDate)-(numGames+1) < 0:
+            statDict[curStat] = np.nan
+        else:
+            statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames):dates.index(curDate)]])
+        return statDict
+    
+    for curStat in ['HR','BB','HBP','SO','IP']:
+        statDict = recentStat(statDict,curStat)
+    statDict['IP'] = (modf(float(statDict['IP']))[0] * 3) + statDict['IP']
+    if statDict['IP'] == 0: recent_FIP.append(np.nan)
+    else: recent_FIP.append(((13 * statDict['HR']) + (3*(statDict['BB'] + statDict['HBP'])) - (2*statDict['SO'])) /  
+                            (statDict['IP'] + 3.214))
+
+
+
+
+
+
+
+
+
+
+
+
 statsDF['A_SP_recFIP'] = 0.5
 statsDF['H_SP_recFIP'] = 0.5
 statsDF['OP_SP_recFIP'] = 0.5
@@ -88,9 +141,41 @@ oneAfter = {1:2,2:3,3:4,4:5,5:6,6:7,7:8,8:9,9:1}
 statsDF['Batter-1'] = statsDF.apply(lambda x: statsDF[(statsDF['HomeTeam'] == x['HomeTeam']) & (statsDF['HomeOrAway'] == x['HomeOrAway']) & (statsDF['BattingOrder'] == oneBefore[x['BattingOrder']])]['Batter'].values[0], axis=1)
 statsDF['Batter+1'] = statsDF.apply(lambda x: statsDF[(statsDF['HomeTeam'] == x['HomeTeam']) & (statsDF['HomeOrAway'] == x['HomeOrAway']) & (statsDF['BattingOrder'] == oneAfter[x['BattingOrder']])]['Batter'].values[0], axis=1)
 
-statsDF['Batter_recwOBA'] = 0.5
-statsDF['Batter-1_recwOBA'] = 0.5
-statsDF['Batter+1_recwOBA'] = 0.5
+batterLink_DF = pd.read_csv('input/2021_hitter_BR_link_database.csv', sep=','); batterLink_DF.set_index('Batter',inplace=True)
+
+
+def getrecwOBA(curPlayer,curStandingsYear):
+    recent_wOBA = 0
+    
+    url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + batterLink_DF.loc[curPlayer]['Link'] + "&t=b&year=" + str(curStandingsYear)
+    
+    r = requests.get(url, headers=BSheaders)
+    soup = BeautifulSoup(r.content, "lxml")
+    
+    statDict = dict()
+    def recentStat(statDict,curStat):
+        X = [x.text for x in soup.find_all("td", {"data-stat": curStat})[:-1]]
+        X = ['0' if x == '' else x for x in X]
+        if len(X) < 3:
+            statDict[curStat] = np.nan
+            print(curPlayer)
+        else:
+            statDict[curStat] = np.sum([float(x) for x in X[-3:]])
+        return statDict
+    
+    for curStat in ['H','BB','HBP','2B','3B','HR','IBB','SF','AB']:
+        statDict = recentStat(statDict,curStat)
+    statDict['1B'] = statDict['H'] - statDict['2B'] - statDict['3B'] - statDict['HR']
+    if statDict['AB'] == 0: recent_wOBA = np.nan
+    else: recent_wOBA = round((((0.69*statDict['BB']) + (0.719*statDict['HBP']) + (0.87*statDict['1B']) + (1.217*statDict['2B']) + 
+                          (1.529*statDict['3B']) + (1.94*statDict['HR'])) / 
+                         (statDict['AB'] + statDict['BB'] - statDict['IBB'] + statDict['SF'] + statDict['HBP'])),3)
+    return recent_wOBA
+
+statsDF['Batter_recwOBA'] = statsDF['Batter'].apply(lambda x: getrecwOBA(x,curStandingsYear))
+statsDF['Batter-1_recwOBA'] = statsDF['Batter-1'].apply(lambda x: getrecwOBA(x,curStandingsYear))
+statsDF['Batter+1_recwOBA'] = statsDF['Batter+1'].apply(lambda x: getrecwOBA(x,curStandingsYear))
+
 
 ## ZIPS PROJECTIONS
 statsDF['BABIP_zips'] = 0.5
