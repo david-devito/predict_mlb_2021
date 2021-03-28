@@ -93,6 +93,7 @@ labelCol = 'DKPts'
 labels = np.array(statsDF[labelCol])
 
 # Classify all numeric data into bins
+fillna_dict = dict()
 nonStatsColumns = [x for x in statsDF.columns if 'prevY' not in x]
 for coli in nonStatsColumns:
     if coli == labelCol: pass
@@ -100,6 +101,9 @@ for coli in nonStatsColumns:
         #statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
         #statsDF[coli] = statsDF[coli].astype(str)
         statsDF[coli].fillna(statsDF[coli].mean(), inplace=True)
+        fillna_dict[coli] = statsDF[coli].mean()
+# Save means to fill nan values in test data
+pickle.dump(fillna_dict, open('fillna_means_hitter_dkpts.pkl', 'wb'))
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = []
@@ -134,7 +138,7 @@ b_featuresDF = kbins.fit_transform(statsDF[binnedCols])
 b_featuresDF = pd.DataFrame(data=b_featuresDF,columns=statsDF[binnedCols].columns)
 featuresDF = pd.concat([b_featuresDF, statsDF[nonBinnedCols]], axis=1, sort=False)
 # save the KBinsDiscretizer to disk
-pickle.dump(kbins, open('kbins.pkl', 'wb'))
+pickle.dump(kbins, open('kbins_hitter_dkpts.pkl', 'wb'))
 
 
 featuresDF = pd.get_dummies(featuresDF)
@@ -206,8 +210,8 @@ print('Mean Error:' + str(meanErr))
 
 
 # save the model to disk
-pickle.dump(rf, open('finalized_model.sav', 'wb'))
+pickle.dump(rf, open('finalized_model_hitter_dkpts.sav', 'wb'))
 # save the scaler for use in testing
-pickle.dump(scaler, open('scaler.pkl', 'wb'))
+pickle.dump(scaler, open('scaler_hitter_dkpts.pkl', 'wb'))
 
 
