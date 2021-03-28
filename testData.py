@@ -14,6 +14,7 @@ import pickle
 import requests
 from bs4 import BeautifulSoup, Comment
 import re
+from math import modf
 # sklearn functions
 from sklearn.preprocessing import MinMaxScaler, KBinsDiscretizer
 from sklearn.model_selection import train_test_split
@@ -83,56 +84,45 @@ statsDF['OP_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrA
 
 
 # RECENT PITCHER FIP
+pitcherLink_DF = pd.read_csv('input/2021_pitcher_BR_link_database.csv', sep=','); pitcherLink_DF.set_index('Pitcher',inplace=True)
 
 
-numGames = 3
-awaySP_link = soup.find(text=lambda n: isinstance(n, Comment) and 'id="div_' + awayTeam.replace(' ','').replace('.','') + 'pitching"' in n)
-awaySP_link = BeautifulSoup(awaySP_link, "lxml")
-awaySP_link = awaySP_link.select('#div_' + awayTeam.replace(' ','').replace('.','') + 'pitching')[0].select('a')[0]['href'].split('/')[3].split('.')[0]
-homeSP_link = soup.find(text=lambda n: isinstance(n, Comment) and 'id="div_' + homeTeam.replace(' ','').replace('.','') + 'pitching"' in n)
-homeSP_link = BeautifulSoup(homeSP_link, "lxml")
-homeSP_link = homeSP_link.select('#div_' + homeTeam.replace(' ','').replace('.','') + 'pitching')[0].select('a')[0]['href'].split('/')[3].split('.')[0]
-
-recent_FIP = []
-for curPlayer in [awaySP_link,homeSP_link]:
-    url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + str(curPlayer) + "&t=p&year=" + year
+def getrecwFIP(curPlayer,curStandingsYear):
+    recent_FIP = 0
+    
+    url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + pitcherLink_DF.loc[curPlayer]['Link'] + "&t=p&year=" + str(curStandingsYear)
+    
     r = requests.get(url, headers=BSheaders)
     soup = BeautifulSoup(r.content, "lxml")
-    dates = [re.sub('\xa0', ' ', x.text).split('(')[0] for x in soup.find_all("td", {"data-stat": "date_game"})]
-    curDate = datetime.datetime.strptime(date, '%d-%m-%Y').strftime('%b %d').lstrip("0").replace(" 0", " ")
     
     statDict = dict()
     def recentStat(statDict,curStat):
-        X = [x.text for x in soup.find_all("td", {"data-stat": curStat})]
+        X = [x.text for x in soup.find_all("td", {"data-stat": curStat})[:-1]]
         X = ['0' if x == '' else x for x in X]
-        if dates.index(curDate)-(numGames+1) < 0:
+        if len(X) < 3:
             statDict[curStat] = np.nan
+            print(curPlayer)
         else:
-            statDict[curStat] = np.sum([float(x) for x in X[dates.index(curDate)-(numGames):dates.index(curDate)]])
+            statDict[curStat] = np.sum([float(x) for x in X[-3:]])
         return statDict
     
     for curStat in ['HR','BB','HBP','SO','IP']:
         statDict = recentStat(statDict,curStat)
     statDict['IP'] = (modf(float(statDict['IP']))[0] * 3) + statDict['IP']
-    if statDict['IP'] == 0: recent_FIP.append(np.nan)
-    else: recent_FIP.append(((13 * statDict['HR']) + (3*(statDict['BB'] + statDict['HBP'])) - (2*statDict['SO'])) /  
-                            (statDict['IP'] + 3.214))
+    if statDict['IP'] == 0: recent_FIP = np.nan
+    else: recent_FIP = round(((13 * statDict['HR']) + (3*(statDict['BB'] + statDict['HBP'])) - (2*statDict['SO'])) /  
+                            (statDict['IP'] + 3.214),3)
+    #print(recent_FIP)
+    return recent_FIP
+
+statsDF['A_SP_recFIP'] = statsDF['AwaySP'].apply(lambda x: getrecwFIP(x,curStandingsYear))
+statsDF['H_SP_recFIP'] = statsDF['HomeSP'].apply(lambda x: getrecwFIP(x,curStandingsYear))
+statsDF['OP_SP_recFIP'] = statsDF.apply(lambda x: x['A_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['H_SP_recFIP'], axis=1)
+statsDF['TE_SP_recFIP'] = statsDF.apply(lambda x: x['H_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['A_SP_recFIP'], axis=1)
 
 
 
 
-
-
-
-
-
-
-
-
-statsDF['A_SP_recFIP'] = 0.5
-statsDF['H_SP_recFIP'] = 0.5
-statsDF['OP_SP_recFIP'] = 0.5
-statsDF['TE_SP_recFIP'] = 0.5
 
 ## RECENT WOBA FOR BATTER AND THOSE HITTING AROUND HIM IN ORDER
 # Get hitters batting before and after current batter in lineup
