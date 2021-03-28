@@ -77,9 +77,10 @@ statsDF['AwayTeam'] = popDF(awayTeamNames)
 statsDF['HomeTeam'] = popDF(homeTeamNames)
 statsDF['AwaySP'] = popDF(awayStartingPitchers)
 statsDF['HomeSP'] = popDF(homeStartingPitchers)
-
+#Define opposing Pitcher for Later Joins
+statsDF['OppoPitcher'] = statsDF.apply(lambda x: x['AwaySP'] if x['HomeOrAway'] == 'Home' else x['HomeSP'], axis=1)
+    
 statsDF['Date'] = curDate
-
 
 # Print CSV Used for Inputting Temperatures and Vegas Odds
 if runModel == 0:
@@ -226,9 +227,13 @@ print('ZIPS PROJECTIONS')
 ## ZIPS PROJECTIONS
 zips_h = pd.read_csv('input/projections/zips/zips_hitters_2021.csv', sep=',')
 statsDF = pd.merge(statsDF, zips_h,  how='left', left_on=['Batter'], right_on = ['Player'])
+zips_p = pd.read_csv('input/projections/zips/zips_pitchers_2021.csv', sep=',')
+statsDF = pd.merge(statsDF, zips_p,  how='left', left_on=['OppoPitcher'], right_on = ['Player'])
 
-statsDF['OP_BABIP_zips'] = 0.5
-statsDF['OP_ERA-_zips'] = 0.5
+print('PLAYERS MISSING BATTER ZIPS BELOW:')
+print([x for x in statsDF[statsDF['BABIP_zips'].isna()]['Batter'].values if x not in startingPitchers])
+print('PLAYERS MISSING PITCHERS ZIPS BELOW:')
+print(statsDF[statsDF['OP_BABIP_zips'].isna()]['OppoPitcher'].values)
 
 
 ## BULLPEN STATS
