@@ -40,6 +40,7 @@ statsDF = statsDF[~statsDF['Batter'].isna()].copy()
 statsDF['month'] = statsDF['month'].astype(str)
 # Convert certain numerical columns to strings when you want them to be treated as categorical
 #statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
+
 #statsDF = statsDF[statsDF['BattingOrder'] <= 6].copy()
 statsDF = statsDF[statsDF['DKPts'] <= 30].copy()
 #Only one game above 105 degrees

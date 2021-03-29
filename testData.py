@@ -131,7 +131,6 @@ except:
 statsDF['TE_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrAway'] == 'Home' else x['A_SeaWinPct'], axis=1)
 statsDF['OP_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrAway'] == 'Away' else x['A_SeaWinPct'], axis=1)
 
-
 print('PITCHER RECENT FIP')
 # RECENT PITCHER FIP
 pitcherLink_DF = pd.read_csv('input/2021_pitcher_BR_link_database.csv', sep=','); pitcherLink_DF.set_index('Pitcher',inplace=True)
