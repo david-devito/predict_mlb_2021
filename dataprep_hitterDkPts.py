@@ -40,7 +40,6 @@ statsDF = statsDF[~statsDF['Batter'].isna()].copy()
 statsDF['month'] = statsDF['month'].astype(str)
 # Convert certain numerical columns to strings when you want them to be treated as categorical
 #statsDF['PlayedYest'] = statsDF.apply(lambda x: 0 if x['APlayedYest'] == x['HPlayedYest'] else -1 if x['APlayedYest'] > x['HPlayedYest'] else 1, axis=1)
-
 #statsDF = statsDF[statsDF['BattingOrder'] <= 6].copy()
 statsDF = statsDF[statsDF['DKPts'] <= 30].copy()
 #Only one game above 105 degrees
@@ -93,13 +92,13 @@ labelCol = 'DKPts'
 labels = np.array(statsDF[labelCol])
 
 # Classify all numeric data into bins
+zeroedColumns = ['BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips']
 fillna_dict = dict()
-nonStatsColumns = [x for x in statsDF.columns if 'prevY' not in x]
-for coli in nonStatsColumns:
+for coli in statsDF.columns:
     if coli == labelCol: pass
+    elif coli in zeroedColumns:
+        statsDF[coli].fillna(0, inplace=True)
     elif ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
-        #statsDF[coli] = pd.qcut(statsDF[coli], 10, labels=False, duplicates='drop')
-        #statsDF[coli] = statsDF[coli].astype(str)
         statsDF[coli].fillna(statsDF[coli].mean(), inplace=True)
         fillna_dict[coli] = statsDF[coli].mean()
 # Save means to fill nan values in test data

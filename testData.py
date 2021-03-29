@@ -27,8 +27,6 @@ from joining_dfs import combine_df_hitterdkpts
 BSheaders = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 curDate = '04-04-2021'
-curStandingsYear = 2020
-
 runModel = 1
 
 # Load Model
@@ -117,14 +115,19 @@ statsDF['A_SP_Hand'] = statsDF['AwaySP'].apply(lambda x: pitcherHand_DF.loc[x])
 statsDF['H_SP_Hand'] = statsDF['HomeSP'].apply(lambda x: pitcherHand_DF.loc[x])
 
 ## WINNING PERCENTAGE - CHANGE STANDINGS SITE TO 2021 WHEN SEASON STARTS
-r = requests.get("https://www.baseball-reference.com/leagues/MLB/" + str(curStandingsYear) + "-standings.shtml", headers=BSheaders)
-soup = BeautifulSoup(r.content, "lxml")
-teams_winpct = [x.text for x in soup.find_all("th", {"data-stat": "team_ID"}) if x.text != 'Tm']
-winpctVals = [float(x.text) for x in soup.find_all("td", {"data-stat": "win_loss_perc"})]
-winpctDict = {teams_winpct[i]: winpctVals[i] for i in range(len(teams_winpct))}
-
-statsDF['A_SeaWinPct'] = statsDF['AwayTeam'].apply(lambda x: winpctDict[x])
-statsDF['H_SeaWinPct'] = statsDF['HomeTeam'].apply(lambda x: winpctDict[x])
+try:
+    r = requests.get("https://www.baseball-reference.com/leagues/MLB/2021-standings.shtml", headers=BSheaders)
+    soup = BeautifulSoup(r.content, "lxml")
+    teams_winpct = [x.text for x in soup.find_all("th", {"data-stat": "team_ID"}) if x.text != 'Tm']
+    winpctVals = [float(x.text) for x in soup.find_all("td", {"data-stat": "win_loss_perc"})]
+    winpctDict = {teams_winpct[i]: winpctVals[i] for i in range(len(teams_winpct))}
+    
+    statsDF['A_SeaWinPct'] = statsDF['AwayTeam'].apply(lambda x: winpctDict[x])
+    statsDF['H_SeaWinPct'] = statsDF['HomeTeam'].apply(lambda x: winpctDict[x])
+except:
+    print('NO WINNING PERCENTAGE DATA')
+    statsDF['A_SeaWinPct'] = np.nan
+    statsDF['H_SeaWinPct'] = np.nan
 statsDF['TE_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrAway'] == 'Home' else x['A_SeaWinPct'], axis=1)
 statsDF['OP_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrAway'] == 'Away' else x['A_SeaWinPct'], axis=1)
 
@@ -134,7 +137,7 @@ print('PITCHER RECENT FIP')
 pitcherLink_DF = pd.read_csv('input/2021_pitcher_BR_link_database.csv', sep=','); pitcherLink_DF.set_index('Pitcher',inplace=True)
 
 
-def getrecwFIP(curPlayer,curStandingsYear):
+def getrecwFIP(curPlayer):
     recent_FIP = np.nan
     try:
         url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + pitcherLink_DF.loc[curPlayer]['Link'] + "&t=p&year=2021"
@@ -165,7 +168,7 @@ def getrecwFIP(curPlayer,curStandingsYear):
 
 recFIP_dict = dict()
 for x in startingPitchers:
-    recFIP_dict[x] = getrecwFIP(x,curStandingsYear)
+    recFIP_dict[x] = getrecwFIP(x)
     
 statsDF['A_SP_recFIP'] = statsDF['AwaySP'].apply(lambda x: recFIP_dict[x])
 statsDF['H_SP_recFIP'] = statsDF['HomeSP'].apply(lambda x: recFIP_dict[x])
@@ -184,7 +187,7 @@ statsDF['Batter+1'] = statsDF.apply(lambda x: statsDF[(statsDF['HomeTeam'] == x[
 batterLink_DF = pd.read_csv('input/2021_hitter_BR_link_database.csv', sep=','); batterLink_DF.set_index('Batter',inplace=True)
 
 
-def getrecwOBA(curPlayer,curStandingsYear):
+def getrecwOBA(curPlayer):
     recent_wOBA = np.nan
     try:
         url = "https://www.baseball-reference.com/players/gl.fcgi?id=" + batterLink_DF.loc[curPlayer]['Link'] + "&t=b&year=2021"
@@ -216,7 +219,7 @@ def getrecwOBA(curPlayer,curStandingsYear):
 
 recwOBA_dict = dict()
 for x in startingBatters:
-    recwOBA_dict[x] = getrecwOBA(x,curStandingsYear)
+    recwOBA_dict[x] = getrecwOBA(x)
 
 statsDF['Batter_recwOBA'] = statsDF['Batter'].apply(lambda x: recwOBA_dict[x])
 statsDF['Batter-1_recwOBA'] = statsDF['Batter-1'].apply(lambda x: recwOBA_dict[x])
@@ -272,7 +275,7 @@ statsDF.reset_index(drop=True, inplace=True)
 # SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
 labelCol = 'DKPts'
 
-zeroedColumns = ['Batter_recwOBA','Batter-1_recwOBA','Batter+1_recwOBA','BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips','OP_SP_recFIP','TE_SP_recFIP']
+zeroedColumns = ['BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips']
 for coli in statsDF.columns:
     if coli == labelCol: pass
     elif coli in zeroedColumns:
@@ -319,3 +322,73 @@ test_features = loaded_scaler.transform(test_features)
 # Make predictions
 predictions = loaded_model.predict(test_features)
 predictions = [round(x,2) for x in predictions]
+statsDF['predictions'] = predictions
+
+## LOAD SLATE'S DK DATA
+DKData = pd.read_csv('input/DKSalaries.csv', sep=',')
+replaceNames = {'Ronald Acuna Jr.':'Ronald Acuna',
+                'Jackie Bradley Jr.':'Jackie Bradley',
+                'Kike Hernandez':'Enrique Hernandez',
+                'Jazz Chisholm Jr.':'Jazz Chisholm',
+                'AJ Pollock':'A.J. Pollock',
+                'Fernando Tatis Jr.':'Fernando Tatis',
+                'Michael A. Taylor':'Michael Taylor'}
+DKData['Name'] = DKData['Name'].apply(lambda x: replaceNames[x] if x in replaceNames.keys() else x)
+statsDF = pd.merge(statsDF, DKData[['Name','Roster Position','Salary','TeamAbbrev']],  how='left', left_on=['Batter'], right_on = ['Name'])
+pd.set_option('display.max_rows', 500)
+print(statsDF)
+statsDF = statsDF[~statsDF['Salary'].isna()].reset_index(drop=True)
+statsDF['DKPts/$'] = statsDF.apply(lambda x: (x['predictions']/x['Salary'])*1000, axis=1)
+
+## OUTPUT
+#Open Excel Workbork
+workbook = xlsxwriter.Workbook('FINAL_HITTER_DKPTS_PREDICTIONS.xlsx')
+worksheet = workbook.add_worksheet('hitter_dkpts')
+# Write Headers
+worksheet.write(0, 0, 'Batter')
+worksheet.write(0, 1, 'Team')
+worksheet.write(0, 2, 'BattingOrder')
+worksheet.write(0, 3, 'Pos')
+worksheet.write(0, 4, 'Salary')
+worksheet.write(0, 5, 'DKPts')
+worksheet.write(0, 6, 'DKPts/$')
+
+worksheet.conditional_format('E1:E30000', {'type':      '3_color_scale',
+                                        'min_color': '#00F900',
+                                        'mid_color': '#FFFFFF',
+                                        'max_color': '#FF2600'})
+worksheet.conditional_format('F1:F30000', {'type':      '3_color_scale',
+                                        'min_color': '#FF2600',
+                                        'mid_color': '#FFFFFF',
+                                        'max_color': '#00F900'})
+worksheet.conditional_format('G1:G30000', {'type':      '3_color_scale',
+                                        'min_color': '#FF2600',
+                                        'mid_color': '#FFFFFF',
+                                        'max_color': '#00F900'})
+
+curRow = 1
+statsDF['Salary'] = statsDF.apply(lambda x: '' if x['Roster Position'] == 'P' else x['Salary'], axis=1)
+statsDF['predictions'] = statsDF.apply(lambda x: np.nan if x['Roster Position'] == 'P' else '{0:.2f}'.format(x['predictions']), axis=1)
+statsDF['DKPts/$'] = statsDF.apply(lambda x: np.nan if x['Roster Position'] == 'P' else '{0:.4f}'.format(x['DKPts/$']), axis=1)
+statsDF['predictions'] = statsDF['predictions'].astype(float)
+statsDF['DKPts/$'] = statsDF['DKPts/$'].astype(float)
+
+twodec_number_format = workbook.add_format({'num_format': '#,##0.00'})
+onedec_number_format = workbook.add_format({'num_format': '#,##0.0'})
+for i in range(0,len(statsDF)):
+    x = statsDF.loc[i]
+    outputData = [x['Batter'],x['TeamAbbrev'],x['BattingOrder'],x['Roster Position'],x['Salary']]
+    
+    for curIX,curOutput in enumerate(outputData):
+        worksheet.write(curRow, curIX, curOutput)
+    if np.isnan(x['predictions']):
+        worksheet.write(curRow, 5, '',twodec_number_format)
+        worksheet.write(curRow, 6, '',onedec_number_format)
+    else:
+        worksheet.write(curRow, 5, x['predictions'],twodec_number_format)
+        worksheet.write(curRow, 6, x['DKPts/$'],onedec_number_format)
+    curRow = curRow + 1
+
+
+# Close the workbook
+workbook.close()
