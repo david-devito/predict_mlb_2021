@@ -65,11 +65,11 @@ def doesVarSeparateGroups(df1,df2,curFeat):
 def random_forest(
     X_train, 
     y_train,
-    n_estimators=750,
-    min_samples_split=2, 
+    n_estimators=100,
+    min_samples_split=8, 
     max_leaf_nodes=None, 
     max_features='auto', 
-    max_depth=8, 
+    max_depth=14, 
     bootstrap=True
     ):
     # making the RandomForestRegressor paramteres changable for hyperparameter optimization
