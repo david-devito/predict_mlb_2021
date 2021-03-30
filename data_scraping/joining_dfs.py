@@ -85,7 +85,7 @@ def combine_df_hitterdkpts(year):
     curDF = curDF[curDF['month'] != 10]
     return curDF
 
-def combine_df_hitterdkpts(year):
+def combine_df_hitterhomers(year):
     curDF = pd.read_csv('input/gamelogs/gamelogs' + str(year) + '_lineups.csv', sep=',')
     
     curDF['year'] = curDF['Date'].apply(lambda x: int(x[-4:]))

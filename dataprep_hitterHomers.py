@@ -24,14 +24,14 @@ import get_mlb_playerstats
 import assorted_funcs
 import pickle
 from create_kfolds import create_kfolds
-from joining_dfs import combine_df_hitterdkpts
+from joining_dfs import combine_df_hitterhomers
 import relevant_statLists
 
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
 for yeari in range(2019,2021):
-    curYear_DF = combine_df_hitterdkpts(yeari)
+    curYear_DF = combine_df_hitterhomers(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
 # Re-classify homer as yes or no
@@ -177,10 +177,6 @@ curACC = round(sum(predictions_binary == test_labels)/len(test_labels),2)
 print('Accuracy: ', curACC)
 
 
-sys.exit()
-
-
-
 
 
 # Evaluate correlation between predictions and true values
@@ -201,25 +197,6 @@ for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
 
-    
-
-
-m, b = np.polyfit(test_labels, predictions, 1)
-plt.plot(test_labels, predictions, 'o')
-plt.plot(test_labels, m*test_labels + b)
-
-
-
-
-# Plot average prediction by test_value
-pred_DF = pd.DataFrame()
-pred_DF['predictions'] = predictions
-pred_DF['test_labels'] = test_labels
-pred_DF.groupby('test_labels').mean().rolling(5).median().plot.line()
-plt.show()
-
-meanErr = round(np.mean(abs(test_labels-predictions)),1)
-print('Mean Error:' + str(meanErr))
 
 
 # save the model to disk
@@ -227,4 +204,7 @@ pickle.dump(rf, open('finalized_model_hitter_homers.sav', 'wb'))
 # save the scaler for use in testing
 pickle.dump(scaler, open('scaler_hitter_homers.pkl', 'wb'))
 
+# CONFUSION MATRIX
+conf_mat = confusion_matrix(test_labels, predictions_binary)
+print(conf_mat)
 
