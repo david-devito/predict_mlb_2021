@@ -31,12 +31,16 @@ runModel = 1
 
 # Load Model
 loaded_model = pickle.load(open('finalized_model_hitter_dkpts.sav', 'rb'))
+loaded_model_HR = pickle.load(open('finalized_model_hitter_homers.sav', 'rb'))
 # Load Scaler
 loaded_scaler = pickle.load(open('scaler_hitter_dkpts.pkl', 'rb'))
+loaded_scaler_HR = pickle.load(open('scaler_hitter_homers.pkl', 'rb'))
 # Load KBins Discretizer
 loaded_kbins = pickle.load(open('kbins_hitter_dkpts.pkl', 'rb'))
+loaded_kbins_HR = pickle.load(open('kbins_hitter_homers.pkl', 'rb'))
 # Load means to fill nan values
 loaded_fillna_means = pickle.load(open('fillna_means_hitter_dkpts.pkl', 'rb'))
+loaded_fillna_means_HR = pickle.load(open('fillna_means_hitter_homers.pkl', 'rb'))
 
 print('SCRAPING ROTOGRINDERS')
 statsDF = pd.DataFrame()
@@ -271,16 +275,6 @@ for curStat in ['1B','2B','3B','HR']:
 
 statsDF.reset_index(drop=True, inplace=True)
 
-# SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
-labelCol = 'DKPts'
-
-zeroedColumns = ['BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips']
-for coli in statsDF.columns:
-    if coli == labelCol: pass
-    elif coli in zeroedColumns:
-        statsDF[coli].fillna(0, inplace=True)
-    elif ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
-        statsDF[coli].fillna(loaded_fillna_means[coli], inplace=True)
 
 # CREATE DATAFRAME WITH FEATURES THAT WILL BE INPUTTED INTO MODEL
 useful_features = ['BattingOrder']
@@ -304,24 +298,71 @@ binnedCols.extend(['TE_SeaWinPct','OP_SeaWinPct'])
 binnedCols.extend(['BP_AVG'])
 nonBinnedCols = [x for x in useful_features if x not in binnedCols]
 
-b_featuresDF = loaded_kbins.transform(statsDF[binnedCols])
-b_featuresDF = pd.DataFrame(data=b_featuresDF,columns=statsDF[binnedCols].columns)
-featuresDF = pd.concat([b_featuresDF, statsDF[nonBinnedCols]], axis=1, sort=False)
 
-featuresDF = pd.get_dummies(featuresDF)
-features_list = list(featuresDF.columns)
+statsDF_orig = statsDF.copy()
+## DRAFTKINGS POINTS MODEL
+# SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
+labelCol = 'DKPts'
 
-test_features = np.array(featuresDF)
+zeroedColumns = ['BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips']
+for coli in statsDF.columns:
+    if coli == labelCol: pass
+    elif coli in zeroedColumns:
+        statsDF[coli].fillna(0, inplace=True)
+    elif ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
+        statsDF[coli].fillna(loaded_fillna_means[coli], inplace=True)
+
+b_featuresDF_DKpts = loaded_kbins.transform(statsDF[binnedCols])
+b_featuresDF_DKpts = pd.DataFrame(data=b_featuresDF_DKpts,columns=statsDF[binnedCols].columns)
+featuresDF_DKpts = pd.concat([b_featuresDF_DKpts, statsDF[nonBinnedCols]], axis=1, sort=False)
+
+featuresDF_DKpts = pd.get_dummies(featuresDF_DKpts)
+features_list_DKpts = list(featuresDF_DKpts.columns)
+
+test_features_DKpts = np.array(featuresDF_DKpts)
 
 # Scale Testing Features
-test_features = loaded_scaler.transform(test_features)
+test_features_DKpts = loaded_scaler.transform(test_features_DKpts)
 
-                    
-                    
 # Make predictions
-predictions = loaded_model.predict(test_features)
-predictions = [round(x,2) for x in predictions]
-statsDF['predictions'] = predictions
+predictions_DKpts = loaded_model.predict(test_features_DKpts)
+predictions_DKpts = [round(x,2) for x in predictions_DKpts]
+
+
+statsDF = statsDF_orig.copy()
+## HOME RUN MODEL
+# SET LABEL COLUMN AND ADD IT TO THE STATS DATAFRAME
+labelCol = 'HomeRun'
+
+zeroedColumns = ['BABIP_zips','ISO_zips','OP_BABIP_zips','OP_ERA-_zips']
+for coli in statsDF.columns:
+    if coli == labelCol: pass
+    elif coli in zeroedColumns:
+        statsDF[coli].fillna(0, inplace=True)
+    elif ((statsDF[coli].dtypes == 'int64') or (statsDF[coli].dtypes == 'float64')) and coli not in ['year']:
+        statsDF[coli].fillna(loaded_fillna_means_HR[coli], inplace=True)
+
+b_featuresDF_HR = loaded_kbins_HR.transform(statsDF[binnedCols])
+b_featuresDF_HR = pd.DataFrame(data=b_featuresDF_HR,columns=statsDF[binnedCols].columns)
+featuresDF_HR = pd.concat([b_featuresDF_HR, statsDF[nonBinnedCols]], axis=1, sort=False)
+
+featuresDF_HR = pd.get_dummies(featuresDF_HR)
+features_list_HR = list(featuresDF_HR.columns)
+
+test_features_HR = np.array(featuresDF_HR)
+
+# Scale Testing Features
+test_features_HR = loaded_scaler_HR.transform(test_features_HR)
+
+# Make predictions
+predictions_HR = loaded_model_HR.predict_proba(test_features_HR)
+predictions_HR = [round(x[1],2) for x in predictions_HR]
+
+
+statsDF['predictions'] = predictions_DKpts
+statsDF['predictions_HR'] = predictions_HR
+
+
 
 ## LOAD SLATE'S DK DATA
 DKData = pd.read_csv('input/DKSalaries.csv', sep=',')
@@ -351,6 +392,7 @@ worksheet.write(0, 3, 'Pos')
 worksheet.write(0, 4, 'Salary')
 worksheet.write(0, 5, 'DKPts')
 worksheet.write(0, 6, 'DKPts/$')
+worksheet.write(0, 7, 'Homer')
 
 worksheet.conditional_format('E1:E30000', {'type':      '3_color_scale',
                                         'min_color': '#00F900',
@@ -364,13 +406,19 @@ worksheet.conditional_format('G1:G30000', {'type':      '3_color_scale',
                                         'min_color': '#FF2600',
                                         'mid_color': '#FFFFFF',
                                         'max_color': '#00F900'})
+worksheet.conditional_format('H1:H30000', {'type':      '3_color_scale',
+                                        'min_color': '#FF2600',
+                                        'mid_color': '#FFFFFF',
+                                        'max_color': '#00F900'})
 
 curRow = 1
 statsDF['Salary'] = statsDF.apply(lambda x: '' if x['Roster Position'] == 'P' else x['Salary'], axis=1)
 statsDF['predictions'] = statsDF.apply(lambda x: np.nan if x['Roster Position'] == 'P' else '{0:.2f}'.format(x['predictions']), axis=1)
 statsDF['DKPts/$'] = statsDF.apply(lambda x: np.nan if x['Roster Position'] == 'P' else '{0:.4f}'.format(x['DKPts/$']), axis=1)
+statsDF['predictions_HR'] = statsDF.apply(lambda x: np.nan if x['Roster Position'] == 'P' else '{0:.2f}'.format(x['predictions_HR']), axis=1)
 statsDF['predictions'] = statsDF['predictions'].astype(float)
 statsDF['DKPts/$'] = statsDF['DKPts/$'].astype(float)
+statsDF['predictions_HR'] = statsDF['predictions_HR'].astype(float)
 
 twodec_number_format = workbook.add_format({'num_format': '#,##0.00'})
 onedec_number_format = workbook.add_format({'num_format': '#,##0.0'})
@@ -383,9 +431,11 @@ for i in range(0,len(statsDF)):
     if np.isnan(x['predictions']):
         worksheet.write(curRow, 5, '',twodec_number_format)
         worksheet.write(curRow, 6, '',onedec_number_format)
+        worksheet.write(curRow, 7, '',onedec_number_format)
     else:
         worksheet.write(curRow, 5, x['predictions'],twodec_number_format)
         worksheet.write(curRow, 6, x['DKPts/$'],onedec_number_format)
+        worksheet.write(curRow, 7, x['predictions_HR'],twodec_number_format)
     curRow = curRow + 1
 
 

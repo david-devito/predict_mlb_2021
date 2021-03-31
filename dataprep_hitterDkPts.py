@@ -53,8 +53,6 @@ statsDF['OP_SeaWinPct'] = statsDF.apply(lambda x: x['H_SeaWinPct'] if x['HomeOrA
 statsDF = statsDF[(statsDF['TE_SeaWinPct'] < 70) & (statsDF['TE_SeaWinPct'] > 25)].copy()
 statsDF = statsDF[(statsDF['OP_SeaWinPct'] < 70) & (statsDF['OP_SeaWinPct'] > 25)].copy()
 
-
-
 # Separate recent FIP of pitchers into hitter's team pitcher and opposing pitcher
 statsDF['OP_SP_recFIP'] = statsDF.apply(lambda x: x['A_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['H_SP_recFIP'], axis=1)
 statsDF['TE_SP_recFIP'] = statsDF.apply(lambda x: x['H_SP_recFIP'] if x['HomeOrAway'] == 'Home' else x['A_SP_recFIP'], axis=1)

@@ -30,7 +30,7 @@ import relevant_statLists
 ## INITIAL LOADING AND CLEANING
 # Load game data
 statsDF = pd.DataFrame()
-for yeari in range(2019,2021):
+for yeari in range(2018,2021):
     curYear_DF = combine_df_hitterhomers(yeari)
     statsDF = pd.concat([statsDF, curYear_DF], ignore_index=True)
 
