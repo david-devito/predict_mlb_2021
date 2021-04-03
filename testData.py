@@ -26,7 +26,6 @@ from joining_dfs import combine_df_hitterdkpts
 
 BSheaders = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
-curDate = '04-04-2021'
 runModel = 1
 
 # Load Model
@@ -82,7 +81,7 @@ statsDF['HomeSP'] = popDF(homeStartingPitchers)
 #Define opposing Pitcher for Later Joins
 statsDF['OppoPitcher'] = statsDF.apply(lambda x: x['AwaySP'] if x['HomeOrAway'] == 'Home' else x['HomeSP'], axis=1)
     
-statsDF['Date'] = curDate
+#statsDF['Date'] = curDate
 
 # Print CSV Used for Inputting Temperatures and Vegas Odds
 if runModel == 0:
@@ -372,7 +371,10 @@ replaceNames = {'Ronald Acuna Jr.':'Ronald Acuna',
                 'Jazz Chisholm Jr.':'Jazz Chisholm',
                 'AJ Pollock':'A.J. Pollock',
                 'Fernando Tatis Jr.':'Fernando Tatis',
-                'Michael A. Taylor':'Michael Taylor'}
+                'Michael A. Taylor':'Michael Taylor',
+                'Yuli Gurriel':'Yulieski Gurriel',
+                'Lourdes Gurriel Jr.':'Lourdes Gurriel',
+                'Jake Bauers':'Jakob Bauers'}
 DKData['Name'] = DKData['Name'].apply(lambda x: replaceNames[x] if x in replaceNames.keys() else x)
 statsDF = pd.merge(statsDF, DKData[['Name','Roster Position','Salary','TeamAbbrev']],  how='left', left_on=['Batter'], right_on = ['Name'])
 pd.set_option('display.max_rows', 500)

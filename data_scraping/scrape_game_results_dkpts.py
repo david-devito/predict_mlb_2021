@@ -29,6 +29,7 @@ else: monthsWithGames = ['03','04','05','06','07','08','09','10']
 homeTeams = ['ANA','ARI','ATL','BAL','BOS','CHA','CHN','CIN','CLE','COL',
              'DET','HOU','KCA','LAN','MIA','MIL','MIN','NYA','NYN','OAK',
              'PHI','PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
+homeTeams = ['PIT','SDN','SEA','SFN','SLN','TBA','TEX','TOR','WAS']
 
 # WRITE HEADERS TO OUTPUTFILE
 outputHeaders = ['Date','AwayTeam','HomeTeam']
@@ -41,9 +42,9 @@ elif section == 'hitters_homers':
 elif section == 'pitchers':pass
 elif section == 'pitchers_hand':
     outputHeaders.extend(['A_SP_Hand','H_SP_Hand'])
-with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
-    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    statswriter.writerow(outputHeaders)
+#with open('/Users/daviddevito/Desktop/predict_mlb_2021/input/gamelogs/gamelogs' + year + '_' + section + '_dkpts.csv', 'w', newline='') as csvfile:
+#    statswriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+#    statswriter.writerow(outputHeaders)
 
 for hometeami in homeTeams:
     print(hometeami)

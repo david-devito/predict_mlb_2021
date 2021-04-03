@@ -156,8 +156,8 @@ test_features = scaler.transform(test_features)
 
 # Fit the model
 # Train on all data
-rf = assorted_funcs.random_forest_reg(train_features, train_labels)
-#rf = assorted_funcs.gbtregressor(train_features, train_labels)
+#rf = assorted_funcs.random_forest_reg(train_features, train_labels)
+rf = assorted_funcs.gbtregressor(train_features, train_labels)
 #rf = LinearRegression().fit(train_features, train_labels)
 #rf = Ridge(alpha=0.5).fit(train_features, train_labels)
 #rf = PoissonRegressor(alpha=0.001).fit(train_features, train_labels)
@@ -172,7 +172,7 @@ predictions = rf.predict(test_features)
 #resCor = np.corrcoef(predictions,test_labels)
 
 
-
+'''
 # Feature Importances
 importances = rf.feature_importances_
 std = np.std([tree.feature_importances_ for tree in rf.estimators_],
@@ -185,7 +185,7 @@ print("Feature ranking:")
 for f in range(train_features.shape[1]):
     #print("%d. feature %d (%f)" % (f + 1, indices[f], importances[indices[f]]))
     print(features_list[indices[f]], ' ', round(importances[indices[f]],2))
-
+'''
     
 
 
