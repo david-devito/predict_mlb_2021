@@ -27,6 +27,7 @@ from joining_dfs import combine_df_hitterdkpts
 BSheaders = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 runModel = 1
+recwOBANumDays = 3
 
 # Load Model
 loaded_model = pickle.load(open('finalized_model_hitter_dkpts.sav', 'rb'))
@@ -122,7 +123,7 @@ try:
     r = requests.get("https://www.baseball-reference.com/leagues/MLB/2021-standings.shtml", headers=BSheaders)
     soup = BeautifulSoup(r.content, "lxml")
     teams_winpct = [x.text for x in soup.find_all("th", {"data-stat": "team_ID"}) if x.text != 'Tm']
-    winpctVals = [float(x.text) for x in soup.find_all("td", {"data-stat": "win_loss_perc"})]
+    winpctVals = [float(x.text) if x.text != '' else 0 for x in soup.find_all("td", {"data-stat": "win_loss_perc"})]
     winpctDict = {teams_winpct[i]: winpctVals[i] for i in range(len(teams_winpct))}
     
     statsDF['A_SeaWinPct'] = statsDF['AwayTeam'].apply(lambda x: winpctDict[x])
@@ -201,11 +202,11 @@ def getrecwOBA(curPlayer):
         def recentStat(statDict,curStat):
             X = [x.text for x in soup.find_all("td", {"data-stat": curStat})[:-1]]
             X = ['0' if x == '' else x for x in X]
-            if len(X) < 3:
+            if len(X) < recwOBANumDays:
                 statDict[curStat] = np.nan
                 if curStat == 'H': print(curPlayer + ' - NO RECENT wOBA')
             else:
-                statDict[curStat] = np.sum([float(x) for x in X[-3:]])
+                statDict[curStat] = np.sum([float(x) for x in X[-recwOBANumDays:]])
             return statDict
         
         for curStat in ['H','BB','HBP','2B','3B','HR','IBB','SF','AB']:
@@ -395,6 +396,7 @@ worksheet.write(0, 4, 'Salary')
 worksheet.write(0, 5, 'DKPts')
 worksheet.write(0, 6, 'DKPts/$')
 worksheet.write(0, 7, 'Homer')
+worksheet.write(0, 8, 'Opponent')
 
 worksheet.conditional_format('E1:E30000', {'type':      '3_color_scale',
                                         'min_color': '#00F900',
@@ -438,6 +440,8 @@ for i in range(0,len(statsDF)):
         worksheet.write(curRow, 5, x['predictions'],twodec_number_format)
         worksheet.write(curRow, 6, x['DKPts/$'],onedec_number_format)
         worksheet.write(curRow, 7, x['predictions_HR'],twodec_number_format)
+    worksheet.write(curRow, 8, x['OppoTeam'])
+    
     curRow = curRow + 1
 
 
