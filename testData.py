@@ -27,7 +27,6 @@ from joining_dfs import combine_df_hitterdkpts
 BSheaders = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 runModel = 1
-recwOBANumDays = 3
 
 # Load Model
 loaded_model = pickle.load(open('finalized_model_hitter_dkpts.sav', 'rb'))
@@ -57,8 +56,17 @@ startingPitchers = soup.find_all("div", {"class": "pitcher players"})
 startingPitchers = [x.select('a')[0].text for x in startingPitchers]
 # Starting Lineups
 startingBatters = soup.find_all("span", {"class": "pname"})
-startingBatters = [x.select('a')[0].text for x in startingBatters]
-
+#sys.exit()
+def getStartingBatter(x):
+    try:
+        x = x.select('a')[0].text
+    except:
+        print(x)
+        x = ''
+        print('ROTOGRINDERS MISSING PLAYER')
+        sys.exit()
+    return x
+startingBatters = [getStartingBatter(x) for x in startingBatters]
 
 statsDF['Batter'] = startingBatters
 statsDF['BattingOrder'] = list(range(1,10))*(int(len(startingBatters)/9))
@@ -202,11 +210,11 @@ def getrecwOBA(curPlayer):
         def recentStat(statDict,curStat):
             X = [x.text for x in soup.find_all("td", {"data-stat": curStat})[:-1]]
             X = ['0' if x == '' else x for x in X]
-            if len(X) < recwOBANumDays:
+            if len(X) < 3:
                 statDict[curStat] = np.nan
                 if curStat == 'H': print(curPlayer + ' - NO RECENT wOBA')
             else:
-                statDict[curStat] = np.sum([float(x) for x in X[-recwOBANumDays:]])
+                statDict[curStat] = np.sum([float(x) for x in X[-3:]])
             return statDict
         
         for curStat in ['H','BB','HBP','2B','3B','HR','IBB','SF','AB']:
@@ -375,7 +383,9 @@ replaceNames = {'Ronald Acuna Jr.':'Ronald Acuna',
                 'Michael A. Taylor':'Michael Taylor',
                 'Yuli Gurriel':'Yulieski Gurriel',
                 'Lourdes Gurriel Jr.':'Lourdes Gurriel',
-                'Jake Bauers':'Jakob Bauers'}
+                'Jake Bauers':'Jakob Bauers',
+                'Ha-Seong Kim':'Ha-seong Kim',
+                'Luke Raley':'Lucas Raley'}
 DKData['Name'] = DKData['Name'].apply(lambda x: replaceNames[x] if x in replaceNames.keys() else x)
 statsDF = pd.merge(statsDF, DKData[['Name','Roster Position','Salary','TeamAbbrev']],  how='left', left_on=['Batter'], right_on = ['Name'])
 pd.set_option('display.max_rows', 500)
